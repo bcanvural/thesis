@@ -1,7 +1,8 @@
 __pycache__/
-alljobs4rdd/
 jobs/
 jobs4rdd/
 Rake/
 spark-2.1.0-bin-hadoop2.7/
 spark-warehouse/
+out/
+metastore_db/
