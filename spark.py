@@ -16,8 +16,8 @@ def main() :
         .getOrCreate()
 
     df = spark.read.json("alljobs4rdd/alljobs.jsonl")
-    # Displays the content of the DataFrame to stdout
     filtered = df.filter("description is not NULL")
+
     # filtered.select("jobId","description").write.format("com.databricks.spark.csv").save("out")
 
     #TF-IDF featurization START
