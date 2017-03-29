@@ -7,3 +7,4 @@ spark-warehouse/
 out/
 metastore_db/
 CVs/
+outcv/
