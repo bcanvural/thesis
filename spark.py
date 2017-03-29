@@ -15,8 +15,9 @@ def main() :
         .master("local[4]") \
         .getOrCreate()
 
-    df = spark.read.json("alljobs4rdd/alljobs.jsonl")
-    filtered = df.filter("description is not NULL")
+    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl")
+    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
+    filtered = df_jobs.filter("description is not NULL")
 
     # filtered.select("jobId","description").write.format("com.databricks.spark.csv").save("out")
 
@@ -39,6 +40,7 @@ def main() :
 
     #Naive-Bayes Classifier START
     rowDF = rescaledData.rdd.map(lambda x: parseFeatures(x.jobId, x.features)).toDF()
+    rowDF.rdd.saveAsTextFile("out")
 
     # indexer =  StringIndexer(inputCol="label", outputCol="indexed")
     # indexer_model = indexer.fit(rowDF)
@@ -46,9 +48,9 @@ def main() :
 
     # indexed.select("indexed", "features").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("out")
 
-    nb = NaiveBayes(smoothing=1.0, modelType="multinomial")
-    ovr = OneVsRest(classifier=nb)
-    ovr_model = ovr.fit(rowDF)
+    # nb = NaiveBayes(smoothing=1.0, modelType="multinomial")
+    # ovr = OneVsRest(classifier=nb)
+    # ovr_model = ovr.fit(rowDF)
 
     #Naive-Bayes Classifier END
 
