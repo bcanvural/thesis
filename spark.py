@@ -6,7 +6,6 @@ from pyspark.sql import Row
 from pyspark.ml.classification import NaiveBayes, OneVsRest, OneVsRestModel
 from pyspark.sql.functions import udf
 from pyspark.sql.types import DoubleType
-import sys
 
 def parseFeatures(jobId, features):
     return Row(label=jobId, features=features)
@@ -18,10 +17,7 @@ def calculate_cosine_similarity(vec_job, vec_cv):
     from scipy import spatial
     cv = vec_cv.toArray()
     jobs = vec_job.toArray()
-    cv_no_zeros = [sys.float_info.min if x == 0 else x for x in cv]
-    jobs_no_zeros = [sys.float_info.min if x == 0 else x for x in jobs]
-
-    result = 1 - spatial.distance.cosine(cv_no_zeros, jobs_no_zeros)
+    result = 1 - spatial.distance.cosine(cv, jobs)
     return result
 
 def main() :
