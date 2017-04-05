@@ -19,10 +19,6 @@ def main():
         contents = Path(fullpath).read_text().strip()
         try:
             jeysan = json.loads(contents)
-            # oldway = os.getcwd() + '/jobs4rdd/' + filename
-            #
-            # with codecs.open(, mode="w+") as text_file:
-            #     text_file.write(json.dumps(jeysan, ensure_ascii=False) + "\n")
             jeysan["jobId"] = jobid
             jobid += 1
             with open('alljobs4rdd/alljobs.jsonl', mode="a") as text_file:
