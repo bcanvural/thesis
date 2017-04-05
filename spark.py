@@ -70,8 +70,8 @@ def main() :
     featurizedData_cvs = hashingTF_cvs.transform(wordsData_cvs)
     idf_cvs = IDF(inputCol="rawFeatures", outputCol="featuresCV")
     idfModel_cvs = idf_cvs.fit(featurizedData_cvs)
-    rescaledData_cvs = idfModel_cvs.transform(featurizedData_cvs)
-    rescaledData_cvs.select("cvid", "featuresCV").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
+    rescaledData_cvs = idfModel_cvs.transform(featurizedData_cvs).cache()
+    # rescaledData_cvs.select("cvid", "featuresCV").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
 
     #OneVsRest Naive Bayes experiment
     # ovr_model_loaded.transform(rescaledData_cvs.rdd.map(lambda x: parseFeaturesCV(x.features)).toDF())\
@@ -87,9 +87,29 @@ def main() :
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
     ordered_list = calculatedDF.orderBy(desc("similarity")).collect()
-    spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
+    # spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
 
     #Cosine Similarity END
+
+    #Process Categories START
+    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
+    tokenizer_cat = Tokenizer(inputCol="skillText", outputCol="words")
+    wordsData_cat = tokenizer_cat.transform(df_categories)
+    #numfeatures should be an exponent of 2
+    hashingTF_cat = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
+    featurizedData_cat = hashingTF_cat.transform(wordsData_cat)
+    idf_cat = IDF(inputCol="rawFeatures", outputCol="featuresCAT")
+    idfModel_cat = idf_cat.fit(featurizedData_cat)
+    rescaledData_cat = idfModel_cat.transform(featurizedData_cat).cache()
+
+    crossJoined_cat_cv = rescaledData_cvs.crossJoin(rescaledData_cat)
+    calculatedDF_cat_cv = crossJoined_cat_cv.rdd\
+    .map(lambda x: (x.cvid, x.id, x.skillName, calculate_cosine_similarity(x.featuresCV, x.featuresCAT)))\
+    .toDF(["cvid", "catid", "skillName", "similarity"])
+    ordered_list_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).collect()
+    spark.sparkContext.parallelize(ordered_list_cat_cv).saveAsTextFile('category-cosine-calculated')
+    #Process Categories END
+
 
 if __name__ == '__main__':
     main()
