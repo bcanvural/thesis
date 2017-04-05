@@ -5,6 +5,13 @@ from pathlib import Path
 import sys
 import codecs
 def main():
+    dir_path = "allcvs4rdd"
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+    cvs_file_path = "allcvs4rdd/allcvs.jsonl"
+    my_file = Path(cvs_file_path)
+    if my_file.is_file():
+        os.remove(cvs_file_path)
     path = os.getcwd() + '/CVs/'
     for filename in os.listdir(path):
         fullpath = path + filename

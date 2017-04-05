@@ -110,6 +110,5 @@ def main() :
     spark.sparkContext.parallelize(ordered_list_cat_cv).saveAsTextFile('category-cosine-calculated')
     #Process Categories END
 
-
 if __name__ == '__main__':
     main()

@@ -5,6 +5,13 @@ from pathlib import Path
 import sys
 import codecs
 def main():
+    dir_path = "allcategories4rdd"
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+    category_file_path = "allcategories4rdd/allcategories.jsonl"
+    my_file = Path(category_file_path)
+    if my_file.is_file():
+        os.remove(category_file_path)
     path = os.getcwd() + '/Categories/'
     counter = 0
     for dirname in os.listdir(path):
@@ -16,7 +23,7 @@ def main():
                     fullstr = Path(fullpath).read_text().strip()
                     jeysan = {}
                     jeysan['category'] = dirname ;
-                    jeysan['skillName'] = filename[:-3]
+                    jeysan['skillName'] = filename[:-4]
                     jeysan['skillText'] = fullstr
                     jeysan['id'] = counter
                     counter += 1
