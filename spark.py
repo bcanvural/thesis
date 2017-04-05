@@ -18,7 +18,7 @@ def calculate_cosine_similarity(vec_job, vec_cv):
     from scipy import spatial
     cv = vec_cv.toArray()
     jobs = vec_job.toArray()
-    result = 1 - spatial.distance.cosine(cv, jobs)
+    result = spatial.distance.cosine(cv, jobs)
     return float(result)
 
 def main() :
@@ -87,7 +87,7 @@ def main() :
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
     ordered_list = calculatedDF.orderBy(desc("similarity")).collect()
-    # spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
+    spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
 
     #Cosine Similarity END
 
