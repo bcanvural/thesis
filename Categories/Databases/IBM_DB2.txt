@@ -1,0 +1,146 @@
+IBM DB2 is a family of database server products developed by IBM. These products all support the relational model, but in recent years some products have been extended to support object-relational features and non-relational structures like JSON and XML.
+
+Historically and unlike other database vendors, IBM produced a platform-specific DB2 product for each of its major operating systems. However, in the 1990s IBM changed track and produced a DB2 "common server" product, designed with a common code base to run on different platforms.
+
+Contents
+
+    1 Current editions
+    2 History
+    3 Editions
+        3.1 IBM DB2 Everyplace (DB2e)
+    4 Competition
+    5 Technical information
+    6 Error processing
+    7 Versions
+        7.1 Linux, UNIX, and Windows (LUW)
+        7.2 z/OS
+        7.3 iSeries
+    8 See also
+    9 References
+    10 External links
+
+Current editions
+
+Today, there are three main products in the DB2 family: DB2 for Linux, UNIX and Windows (informally known as DB2 LUW), DB2 for z/OS (mainframe), and DB2 for i (formerly OS/400).
+
+A fourth product, DB2 for VM / VSE is also available.
+History
+
+DB2 traces its roots back to the beginning of the 1970s when Edgar F. Codd, a researcher working for IBM, described the theory of relational databases and in June 1970 published the model for data manipulation.[1]
+
+In 1974 the IBM San Jose Research center developed a relational DBMS, System R, to implement Codd's concepts.[2] A key development of the System R project was SQL. To apply the relational model Codd needed a relational database language he named DSL/Alpha.[3] At the time IBM didn't believe in the potential of Codd's ideas, leaving the implementation to a group of programmers not under Codd's supervision, who violated several fundamentals of Codd's relational model; the result was Structured English QUEry Language or SEQUEL. When IBM released its first relational database product, they wanted to have a commercial-quality sublanguage as well, so it overhauled SEQUEL and renamed the basically new language Structured Query Language (SQL) to differentiate it from SEQUEL.[citation needed] The acronym SEQUEL was changed to SQL because "SEQUEL" was a trademark of the UK-based Hawker Siddeley aircraft company.[3]
+
+IBM bought Metaphor Computer Systems to utilize their GUI interface and encapsulating SQL platform that had already been in use since the mid 80's. In parallel with the development of SQL IBM also developed Query by Example (QBE), the first graphical query language.
+
+IBM's first commercial relational database product, SQL/DS, was released for the DOS/VSE and VM/CMS operating systems in 1981. In 1976 IBM released Query by Example for the VM platform where the table-oriented front-end produced a linear-syntax language that drove transactions to its relational database.[4] Later the QMF feature of DB2 produced real SQL and brought the same "QBE" look and feel to DB2.
+
+The name DB2, or IBM Database 2, was first given to the Database Management System or DBMS in 1983 when IBM released DB2 on its MVS mainframe platform.[5]
+
+When Informix Corporation acquired Illustra and made their database engine an object-SQL DBMS by introducing their Universal Server, both Oracle and IBM followed suit by changing their database engines to be capable of object-relational extensions. In 2001, IBM bought Informix Software and in the following years incorporated Informix technology into the DB2 product suite. Today, DB2 can technically be considered to be an object-SQL DBMS.
+
+For some years DB2, as a full-function DBMS, was exclusively available on IBM mainframes. Later IBM brought DB2 to other platforms, including OS/2, UNIX and MS Windows servers, then Linux (including Linux on z Systems) and PDAs. This process occurred through the 1990s. The inspiration for the mainframe version of DB2's architecture came in part from IBM IMS, a hierarchical database, and its dedicated database manipulation language, IBM DL/I. DB2 is also embedded in the i5/OS operating system for IBM System i (iSeries, formerly the AS/400), and versions are available for z/VSE and z/VM.An earlier version of the code that would become DB2 LUW (Linux, Unix, Windows) was part of an Extended Edition component of OS/2 called Database Manager.
+
+IBM extended the functionality of Database Manager a number of times, including the addition of distributed database functionality by means of Distributed Relational Database Architecture (DRDA) that allowed shared access to a database in a remote location on a LAN. (Note that DRDA is based on objects and protocols defined by Distributed Data Management Architecture (DDM).)
+
+Eventually IBM declared that insurmountable complexity existed in the Database Manager code, and took the difficult decision to completely rewrite the software in their Toronto Lab. The new version of Database Manager, called DB2 like its mainframe parent, ran on the OS/2 and RS/6000 platforms, was called DB2/2 and DB2/6000 respectively. Other versions of DB2, with different code bases, followed the same '/' naming convention and became DB2/400 (for the AS/400), DB2/VSE (for the DOS/VSE environment) and DB2/VM (for the VM operating system). IBM lawyers stopped this handy naming convention from being used and decided that all products needed to be called "product FOR platform" (for example, DB2 for OS/390). The next iteration of the mainframe and the server-based products were named DB2 Universal Database (or DB2 UDB), a name that had already been used for the Linux-Unix-Windows version, with the introduction of widespread confusion over which version (mainframe or server) of the DBMS was being referred to. At this point, the mainframe version of DB2 and the server version of DB2 were coded in entirely different languages (PL/S for the mainframe and C++ for the server), but shared similar functionality and used a common architecture for SQL optimization: the Starburst Optimizer.
+
+Over the years DB2 has both exploited and driven numerous hardware enhancements, particularly on IBM System z with such features as Parallel Sysplex data sharing. In fact, DB2 UDB Version 8 for z/OS now requires a 64-bit system and cannot run on earlier processors, and DB2 for z/OS maintains certain unique software differences in order to serve its sophisticated customers. Although the ultimate expression of software-hardware co-evolution is the IBM mainframe, to some extent that phenomenon occurs on other platforms as well, as IBM's software engineers collaborate with their hardware counterparts.
+
+In the mid-1990s, IBM released a clustered DB2 implementation called DB2 Parallel Edition, which initially ran on AIX. This edition allowed scalability by providing a shared nothing architecture, in which a single large database is partitioned across multiple DB2 servers that communicate over a high-speed interconnect. This DB2 edition was eventually ported to all Linux, UNIX, and Windows (LUW) platforms and was renamed to DB2 Extended Enterprise Edition (EEE). IBM now refers to this product as the Database Partitioning Feature (DPF) and sells it as an add-on to their flagship DB2 Enterprise product.
+
+In mid 2006, IBM announced "Viper," which is the codename for DB2 9 on both distributed platforms and z/OS. DB2 9 for z/OS was announced in early 2007. IBM claimed that the new DB2 was the first relational database to store XML "natively". Other enhancements include OLTP-related improvements for distributed platforms, business intelligence/data warehousing-related improvements for z/OS, more self-tuning and self-managing features, additional 64-bit exploitation (especially for virtual storage on z/OS), stored procedure performance enhancements for z/OS, and continued convergence of the SQL vocabularies between z/OS and distributed platforms.
+
+In October 2007, IBM announced "Viper 2," which is the codename for DB2 9.5 on the distributed platforms. There were three key themes for the release 
+, Simplified Management, Business Critical Reliability and Agile XML development.
+
+In June 2009, IBM announced "Cobra" (the codename for DB2 9.7 for LUW 
+). DB2 9.7 adds data compression for database indexes, temporary tables, and large objects. DB2 9.7 also supports native XML data in hash partitioning (database partitioning), range partitioning (table partitioning), and multi-dimensional clustering. These native XML features allows users to directly work with XML in data warehouse environments. DB2 9.7 also adds several features that make it easier for Oracle Database users to work with DB2. These include support for the most commonly used SQL syntax, PL/SQL syntax, scripting syntax, and data types from Oracle Database. DB2 9.7 also enhanced its concurrency model to exhibit behavior that is familiar to users of Oracle Database and Microsoft SQL Server.
+
+In October 2009, IBM introduced its second major release of the year when it announced DB2 pureScale 
+. DB2 pureScale is a database cluster solution for non-mainframe platforms, suitable for Online Transaction Processing (OLTP) workloads. IBM based the design of DB2 pureScale on the Parallel Sysplex implementation of DB2 data sharing on the mainframe. DB2 pureScale provides a fault-tolerant architecture and shared-disk storage. A DB2 pureScale system can grow to 128 database servers, and provides continuous availability and automatic load balancing.
+
+In 2009, it was announced that DB2 can be an engine in MySQL. This allows users on the System i platform to natively access the DB2 under the IBM i operating system (formerly called OS/400), and for users on other platforms to access these files through the MySQL interface. On the System i and its predecessors the AS/400 and the System/38, DB2 is tightly integrated into the operating system, and comes as part of the operating system. It provides journaling, triggers and other features.
+
+In early 2012, IBM announced the next version of DB2, DB2 10.1 (code name Galileo) for Linux, UNIX, and Windows.DB2 10.1 contained a number of new data management capabilities including row and column access control which enables ‘fine-grained’ control of the database and multi-temperature data management that moves data to cost effective storage based on how"hot" or "cold" (how frequently the data is accessed) the data is. IBM also introduced ‘adaptive compression’ capability in DB2 10.1, a new approach to compressing data tables.
+
+In June 2013, IBM released DB2 10.5 (code name “Kepler”), the latest version of DB2 on Linux, UNIX and Windows.With this latest release, IBM has combined the functionality and tools offered in the prior generation of DB2 and InfoSphere Warehouse on Linux, UNIX and Windows to create a single multi-workload database software. DB2 10.5 has a number of new capabilities including IBM BLU Acceleration, a collection of innovations from the IBM Research and Development Labs for accelerating reporting and analytics. IBM BLU Acceleration integrates Dynamic In-memory (in-memory columnar processing) technology with other innovations such as Parallel Vector Processing, Actionable Compression, and Data Skipping. DB2 pureScale 
+clustered database technology is now fully integrated with DB2 high-availability disaster recovery functionality. In addition, DB2 10.5 supports online fix pack updates, which allow users to perform, fix pack maintenance operations on individual members running in a pureScale cluster with minimal impact to users. IBM has also added a number of mobile capabilities to DB2 10.5. DB2 now allows users to store and manage JSON objects.
+
+On April 12 2016, IBM announced DB2 LUW 11.1 with a planned release date of June 15 for download.
+Editions
+
+IBM has changed the packaging structure in the latest release of DB2 for Linux, Unix and Windows and now offers seven editions: Advanced Enterprise Server Edition 
+, Advanced Workgroup Server Edition 
+, Enterprise Server Edition 
+, Workgroup Server Edition 
+, Express Edition 
+, Developer Edition 
+and Express-C 
+. Each of these editions have been packaged for different deployment scenarios and workloads Applications built for lower editions of DB2 are guaranteed to work on higher editions but at a higher level of performance.
+
+The no-charge edition of DB2 is called DB2 Express-C. DB2 Express-C is in some ways similar to the open source databases such as MySQL and PostgreSQL as it is offered unsupported, free of charge for unrestricted use including use in production environments. Users needing enterprise level support and fixpacks must buy any standard DB2 Edition. DB2 Express-C, however, is based on the same code as other DB2 for Linux, Unix and Windows editions and is not open source. DB2 Express-C is also similar to the free editions of Oracle database and Microsoft SQL Server, except that DB2 Express-C has no limit on number of users or on database size. DB2 Express-C runs on 32 and 64bit Windows, Linux on x86, x64 and POWER processors, Solaris on x64 CPU and Intel machines running Mac OS X. It can be installed on machines of any size, but the database engine will use only two CPU cores and 16GB of RAM. Additionally, IBM provides an optional yearly subscription for users who require technical support or additional functionality.
+
+DB2 for z/OS 
+(the mainframe) is available in its traditional product packaging, or in the Value Unit Edition 
+, which allows customers to instead pay a one-time charge.
+
+DB2 also powers IBM InfoSphere Warehouse, which offers data warehouse capabilities. InfoSphere Warehouse is available for z/OS. It includes several BI features such as ETL, data mining, OLAP acceleration, and in-line analytics.
+
+DB2 10.5 for Linux, UNIX and Windows, contains all of the functionality and tools offered in the prior generationof DB2 and InfoSphere Warehouse on Linux, UNIX and Windows.
+IBM DB2 Everyplace (DB2e)
+
+IBM has withdrawn from marketing the IBM DB2 Everyplace products. It announced April 30, 2013 as the end of support date.[6]
+Competition
+
+IDC's Worldwide Database Management Systems 2009–2013 Forecast and 2008 Vendor Shares[7] ranked Oracle database as the leader in DBMS marketing share, followed by IBM DB2 and then by Microsoft SQL Server. Other competitors included open-source products such as Firebird, PostgreSQL, MySQL and Ingres, and niche players such as Sybase and MaxDB.
+
+The DB-Engines Ranking (2013) listed DB2 at rank 5, significantly behind Oracle, Microsoft SQL Server and MySQL.[8]
+
+In 2009 Gartner declared that "IBM DB2 9.7 Shakes Up the DBMS Market With Oracle Compatibility".[9] This headline refers to the addition to DB2 of several features that are familiar to users of Oracle Database, making it easier for people with Oracle Database skills to work with DB2. These new features include DB2 support for the most commonly used SQL, PL/SQL, and scripting syntax from Oracle Database. They also include DB2 support for additional data types and concurrency models.
+
+In the clustered DBMS arena, where databases can grow to many terabytes, IBM offers two approaches that compete with Oracle Real Application Clusters (RAC): DB2 pureScale and DB2 Database Partitioning Feature (DPF). DB2 pureScale is a shared-disk database cluster solution that is ideal for high-capacity Online Transaction Processing (OLTP) workloads.[citation needed] DB2 DPF lets users partition a database across multiple servers or within a large SMP server, which is ideal for Online Analytical Processing (OLAP) workloads. (Note that DB2 DPF is sold as part of IBM InfoSphere Warehouse, which is the name for DB2 when it is sold in data warehouse environments.)
+
+DB2 for z/OS arguably has fewer direct competitors. Oracle is attracting customers to its Linux on System z products, although apparently not at the expense of DB2.[citation needed] Oracle has a 31-bit RDBMS available for z/OS (Oracle Database 10g Release 2), but Oracle found it difficult to compete with DB2's feature set on z/OS. Oracle has announced it will support 10g on z/OS as long as customers wish, but the company will not introduce future versions of its database product on z/OS. CA-Datacom and Software AG's ADABAS are competing databases for z/OS, and there are certain niche products as well (Model 204, SUPRA SQL,[10] NOMAD, etc.) Non-relational databases that "compete" include IMS, and CA-IDMS, among others. At least some open source databases are ostensibly[original research?] compatible with z/OS UNIX System Services.
+
+IBM and DB2 are frequently at or near the top of the TPC-C[11] and TPC-H[12] industry benchmarks published on the Transaction Processing Performance Council's website.
+
+In 2006 IBM stepped up its competition in the emerging data warehouse appliance market by releasing a product line of pre-configured hardware/software systems combining DB2 Data Warehouse Edition with either IBM system p (AIX) or IBM system x (Linux) servers. This family of "warehouse appliance-like" systems was given the name "IBM Balanced Configuration Unit", or BCU, and is aimed at the warehouse appliance market typified by Netezza and DATAllegro, but it differentiates itself in that it uses the full-featured version of DB2 instead of a single-purpose warehouse-oriented RDBMS.
+Technical information
+
+DB2 can be administered from either the command-line or a GUI. The command-line interface requires more knowledge of the product but can be more easily scripted and automated. The GUI is a multi-platform Java client that contains a variety of wizards suitable for novice users. DB2 supports both SQL and XQuery. DB2 has native implementation of XML data storage, where XML data is stored as XML (not as relational data or CLOB data) for faster access using XQuery.
+
+DB2 has APIs for REXX, PL/I, COBOL, RPG, FORTRAN, C++, C, Delphi, .NET CLI, Java, Python, Perl, PHP, Ruby, and many other programming languages. DB2 also supports integration into the Eclipse and Visual Studio integrated development environments.
+
+pureQuery is IBM's data access platform focused on applications that access data. pureQuery supports both Java and .NET. pureQuery provides access to data in databases and in-memory Java objects via its tools, APIs, and runtime environment as delivered in IBM Data Studio Developer and IBM Data Studio pureQuery Runtime.[13]
+Error processing
+
+An important feature of DB2 computer programs is error handling. The SQL communications area (SQLCA) structure was once used exclusively within a DB2 program to return error information to the application program after every SQL statement was executed. The primary, but not singularly useful, error diagnostic is held in the field SQLCODE within the SQLCA block.
+
+The SQL return code values are:
+
+    0 means successful execution.
+    A positive number means successful execution with one or more warnings. An example is +100, which means no rows found.
+    A negative number means unsuccessful with an error. An example is -911, which means a lock timeout (or deadlock) has occurred, triggering a rollback.
+
+Later versions of DB2 added functionality and complexity to the execution of SQL. Multiple errors or warnings could be returned by the execution of an SQL statement; it may, for example, have initiated a Database Trigger and other SQL statements. Instead of the original SQLCA, error information should now be retrieved by successive executions of a GET DIAGNOSTICS statement.
+
+See SQL return codes for a more comprehensive list of common SQLCODEs.
+Versions
+Linux, UNIX, and Windows (LUW)
+
+    v3.4 - Code name Cobweb
+    v8.1 - v8.2 - Code name Stinger
+    v9.1 - Code name Viper
+    v9.5 - Code name Viper2
+    v9.7 - Code name Cobra
+    v9.8 - Only pureScale
+    v10.1 - Code name Galileo
+    v10.5 - Code name Kepler (Blu Acceleration)
+        v10.5.4 - Cancun release
+    v11.1[14]
+
+z/OS
+
+V8 V9 V10 V11
+iSeries
+V5R3 V5R4 V6R1 V7R1

@@ -1,0 +1,93 @@
+SPARQL (pronounced "sparkle", a recursive acronym[2] for SPARQL Protocol and RDF Query Language) is an RDF query language, that is, a semantic query language for databases, able to retrieve and manipulate data stored in Resource Description Framework (RDF) format.[3][4] It was made a standard by the RDF Data Access Working Group (DAWG) of the World Wide Web Consortium, and is recognized as one of the key technologies of the semantic web. On 15 January 2008, SPARQL 1.0 became an official W3C Recommendation,[5][6] and SPARQL 1.1 in March, 2013.[7]
+
+SPARQL allows for a query to consist of triple patterns, conjunctions, disjunctions, and optional patterns.[8]
+
+Implementations for multiple programming languages exist.[9] There exist tools that allow one to connect and semi-automatically construct a SPARQL query for a SPARQL endpoint, for example ViziQuer.[10] In addition, there exist tools that translate SPARQL queries to other query languages, for example to SQL[11] and to XQuery.[12]
+
+Contents
+
+    1 Advantages
+    2 Query forms
+    3 Example
+    4 Extensions
+    5 Implementations
+    6 References
+    7 External links
+
+Advantages
+
+SPARQL allows users to write queries against what can loosely be called "key-value" data or, more specifically, data that follows the RDF specification of the W3C. The entire database is thus a set of "subject-predicate-object" triples. This is analogous to some NoSQL databases' usage of the term "document-key-value", such as MongoDB.
+
+RDF data can also be considered in SQL relational database terms as a table with three columns – the subject column, the predicate column and the object column. Unlike relational databases, the object column is heterogeneous: the per-cell data type is usually implied (or specified in the ontology) by the predicate value. Alternately, again comparing to SQL relations, all of the triples for a given subject could be represented as a row, with the subject being the primary key and each possible predicate being a column and the object is the value in the cell. However, SPARQL/RDF becomes easier and more powerful for columns that could contain multiple values (like "children") for the same key, and where the column itself could be a joinable variable in the query, rather than directly specified.
+
+SPARQL thus provides a full set of analytic query operations such as JOIN, SORT, AGGREGATE for data whose schema is intrinsically part of the data rather than requiring a separate schema definition. Schema information (the ontology) is often provided externally, though, to allow different datasets to be joined in an unambiguous manner. In addition, SPARQL provides specific graph traversal syntax for data that can be thought of as a graph and fig.
+
+The example below demonstrates a simple query that leverages the ontology definition "foaf", often called the "friend-of-a-friend" ontology.
+
+Specifically, the following query returns names and emails of every person in the dataset:
+
+PREFIX foaf: <http://xmlns.com/foaf/0.1/>
+SELECT ?name ?email
+WHERE {
+  ?person a foaf:Person.
+  ?person foaf:name ?name.
+  ?person foaf:mbox ?email.
+}
+
+This query joins together all of the triples with a matching subject, where the type predicate, "a", is a person (foaf:Person) and the person has one or more names (foaf:name) and mailboxes (foaf:mbox).
+
+The author of this query chose to reference the subject using the variable name "?person" for readable clarity. Since the first element of the triple is always the subject, the author could have just as easily used any variable name, such as "?subj" or "?x". Whatever name is chosen, it must be the same on each line of the query to signify that the query engine is to join triples with the same subject.
+
+The result of the join is a set of rows – ?person, ?name, ?email. This query returns the ?name and ?email because ?person is often a complex URI rather than a human-friendly string. Note that some of the ?people may have multiple mailboxes, so in the returned set, a ?name row may appear multiple times, once for each mailbox.
+
+This query can be distributed to multiple SPARQL endpoints (services that accept SPARQL queries and return results), computed, and results gathered, a procedure known as federated query.
+
+Whether in a federated manner or locally, additional triple definitions in the query could allow joins to different subject types, such as automobiles, to allow simple queries, for example, to return a list of names and emails for people who drive automobiles with a high fuel efficiency.
+Query forms
+
+In the case of queries that read data from the database, the SPARQL language specifies four different query variations for different purposes.
+
+SELECT query
+    Used to extract raw values from a SPARQL endpoint, the results are returned in a table format.
+CONSTRUCT query
+    Used to extract information from the SPARQL endpoint and transform the results into valid RDF.
+ASK query
+    Used to provide a simple True/False result for a query on a SPARQL endpoint.
+DESCRIBE query
+    Used to extract an RDF graph from the SPARQL endpoint, the content of which is left to the endpoint to decide based on what the maintainer deems as useful information.
+
+Each of these query forms takes a WHERE block to restrict the query although in the case of the DESCRIBE query the WHERE is optional.
+
+SPARQL 1.1 specifies a language for updating the database with several new query forms.
+Example
+
+Another SPARQL query example that models the question "What are all the country capitals in Africa?":
+
+PREFIX ex: <http://example.com/exampleOntology#>
+SELECT ?capital ?country
+WHERE {
+  ?x ex:cityname ?capital ;
+     ex:isCapitalOf ?y .
+  ?y ex:countryname ?country ;
+     ex:isInContinent ex:Africa .
+}
+
+Variables are indicated by a "?" or "$" prefix. Bindings for ?capital and the ?country will be returned.
+
+The SPARQL query processor will search for sets of triples that match these four triple patterns, binding the variables in the query to the corresponding parts of each triple. Important to note here is the "property orientation" (class matches can be conducted solely through class-attributes or properties – see Duck typing)
+
+To make queries concise, SPARQL allows the definition of prefixes and base URIs in a fashion similar to Turtle. In this query, the prefix "ex" stands for “http://example.com/exampleOntology#”.
+Extensions
+
+GeoSPARQL defines filter functions for geographic information system (GIS) queries using well-understood OGC standards (GML, WKT, etc.).
+
+SPARUL is another extension to SPARQL. It enables the RDF store to be updated with this declarative query language, by adding INSERT and DELETE methods.
+Implementations
+Main article: List of SPARQL implementations
+
+Open source, reference SPARQL implementations
+
+    Jena (framework) from Apache Software Foundation
+    Virtuoso
+
+See List of SPARQL implementations for more comprehensive coverage, including triplestore, APIs, and other storages that have implemented the SPARQL standard.

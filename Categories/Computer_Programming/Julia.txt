@@ -1,0 +1,62 @@
+Julia (programming language)
+Julia is a high-level dynamic programming language designed to address the requirements of high-performance numerical and scientific computing while also being effective for general-purpose programming,[11][12][13][14] web use[15][16] or as a specification language.[17] Distinctive aspects of Julia's design include a type system with parametric types in a fully dynamic programming language and multiple dispatch as its core programming paradigm. It allows concurrent, parallel and distributed computing, and direct calling of C and Fortran libraries without glue code. Julia is garbage-collected,[18] uses eager evaluation and includes efficient libraries for floating-point calculations, linear algebra, random number generation, fast Fourier transforms and regular expression matching.
+
+According to the official website, the main features of the language are:
+
+Multiple dispatch: providing ability to define function behavior across many combinations of argument types
+Dynamic type system: types for documentation, optimization, and dispatch
+Good performance, approaching that of statically-typed languages like C
+Built-in package manager
+Lisp-like macros and other metaprogramming facilities
+Call Python functions: use the PyCall package[a]
+Call C functions directly: no wrappers or special APIs
+Powerful shell-like capabilities for managing other processes
+Designed for parallelism and distributed computation
+Coroutines: lightweight "green" threading
+User-defined types are as fast and compact as built-ins
+Automatic generation of efficient, specialized code for different argument types
+Elegant and extensible conversions and promotions for numeric and other types
+Efficient support for Unicode, including but not limited to UTF-8
+Multiple dispatch (also known as multimethods in Lisp) is a generalization of single dispatch � the polymorphic mechanism used in common object oriented (OO) languages � that uses inheritance. In Julia, all concrete types are subtypes of abstract types, directly or indirectly subtypes of the "Any" type, which is the top of the type hierarchy. Concrete types can not be subtyped, but composition is used over inheritance, that is used by traditional object-oriented languages (see also Inheritance vs subtyping).
+
+Julia draws significant inspiration from various dialects of Lisp, including Scheme and Common Lisp, and it shares many features with Dylan (such as an ALGOL-like free-form infix syntax rather than a Lisp-like prefix syntax, while in Julia "everything"[22] is an expression) � also a multiple-dispatch-oriented dynamic language � and Fortress, another numerical programming language with multiple dispatch and a sophisticated parametric type system. While CLOS adds multiple dispatch to Common Lisp, the addition is opt-in: only user-defined functions explicitly declared to be generic can be extended with new multimethods.
+
+In Julia, Dylan and Fortress, on the other hand, this extensibility is the default, and the system's built-in functions are all generic and extensible. In Dylan, multiple dispatch is as fundamental as it is in Julia: all user-defined functions and even basic built-in operations like + are generic. Dylan's type system, however, does not fully support parametric types, which are more typical of the ML lineage of languages. By default, CLOS does not allow for dispatch on Common Lisp's parametric types; such extended dispatch semantics can only be added as an extension through the CLOS Metaobject Protocol. By convergent design, Fortress also features multiple dispatch on parametric types; unlike Julia, however, Fortress is statically rather than dynamically typed, with separate compilation and execution phases. The language features are summarized in the following table:
+
+Language	Type system	Generic functions	Parametric types
+Julia	dynamic	default	yes
+Common Lisp	dynamic	opt-in	yes (but no dispatch)
+Dylan	dynamic	default	partial (no dispatch)
+Fortress	static	default	yes
+Julia's syntactic macros (used for metaprogramming), like Lisp macros, are more powerful and different from text-substitution macros used in the preprocessor of some other languages such as C, because they work at the level of abstract syntax trees (ASTs). Julia's macro system is hygienic, but also supports deliberate capture when desired (like for anaphoric macros) using the esc construct.
+
+Interaction
+The Julia official distribution includes an interactive session shell, called Julia's REPL, which can be used to experiment and test code quickly.[23] The following fragment represents a sample session on the REPL:[24]
+
+julia> p(x) = 2x^2 + 1; f(x, y) = 1 + 2p(x)y
+julia> println("Hello world!", " I'm on cloud ", f(0, 4), " as Julia supports recognizable syntax!")
+Hello world! I'm on cloud 9 as Julia supports recognizable syntax!
+The REPL gives user access to the system shell and to help mode, by pressing ; or ? after the prompt (preceding each command), respectively. The REPL also keeps the history of commands, even between sessions. For other examples, see the Julia documentation,[25] which gives code that can be tested inside the Julia's interactive section or saved into a file with a .jl extension and run from the command line by typing (for example):[26]
+
+$ julia <filename>
+Julia is also supported by Jupyter, an online interactive "notebooks" environment (project Jupyter is a multi-language extension, that "evolved", from the IPython command shell; now includes IJulia). See for other ways in the next section.
+
+To use Julia with other languages
+Julia's ccall keyword is used to call C-exported or Fortran shared library functions individually.
+
+Julia has Unicode support, with UTF-8 used for source code and e.g. optionally allowing common math symbols for many operators, such as ? for the in operator. For strings UTF-8, UTF-16 and UTF-32 (and ASCII) are fully supported encodings.
+
+Julia has packages supporting markup languages such as HTML, and also for HTTP), XML, JSON and BSON.
+
+Implementation
+Julia's core is implemented in C and C++ (the LLVM dependency is in C++), its parser in Scheme ("femtolisp"), and the LLVM compiler framework is used for just-in-time (JIT) generation of 64-bit or 32-bit optimized machine code (i.e. not for VM[27]) depending on the platform Julia runs on. With some exceptions (e.g., libuv), the standard library is implemented in Julia itself. The most notable aspect of Julia's implementation is its speed, which is often within a factor of two relative to fully optimized C code (and thus often an order of magnitude faster than Python or R).[28] Development of Julia began in 2009 and an open-source version was publicized in February 2012.[4][29]
+
+Julia, the 0.4.x line, is on a monthly release schedule where bugs are fixed and some new features from 0.5-dev are backported.[30]
+
+Current and future platforms
+While Julia uses JIT[31] (MCJIT[32] from LLVM) � Julia generates native machine code, directly, the first time a function is run (not bytecode to run on a VM, as e.g. with Java/Dalvik).
+
+Current support is for newer x86 or older i386 processors and in 0.4.x: 32-bit ARM architecture ("Experimental and early support"[33] with "work in progress - several tests are known to fail, and backtraces are not available"[34] with alpha support for Raspberry Pi 1/2[35][36] but "[on ARMv7] Samsung Chromebook [..] Julia starts up just fine"[37]), 64-bit ARMv8[38] and PowerPC being worked on.[39][40]
+
+Julia2C source-to-source compiler
+A Julia2C source-to-source compiler from Intel Labs is available.[41] This source-to-source compiler is a fork of Julia, that implements the same Julia language syntax, which emits C code (for compatibility with more CPUs) instead of native machine code, for functions or whole programs. The compiler is also meant to allow analyzing code at a higher level than C

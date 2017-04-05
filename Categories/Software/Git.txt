@@ -1,0 +1,219 @@
+Git (/ɡɪt/[6]) is a version control system that is used for software development[7] and other version control tasks. As a distributed revision control system it is aimed at speed,[8] data integrity,[9] and support for distributed, non-linear workflows.[10] Git was created by Linus Torvalds in 2005 for development of the Linux kernel, with other kernel developers contributing to its initial development.[11]
+
+As with most other distributed version control systems, and unlike most client–server systems, every Git directory on every computer is a full-fledged repository with complete history and full version-tracking capabilities, independent of network access or a central server.[12] Like the Linux kernel, Git is free software distributed under the terms of the GNU General Public License version 2.
+
+Contents
+
+    1 History
+    2 Design
+        2.1 Characteristics
+        2.2 Data structures
+        2.3 References
+    3 Implementations
+    4 Git server
+    5 Adoption
+    6 Security
+    7 See also
+    8 References
+    9 External links
+
+History
+
+Git development began in April 2005, after many developers of the Linux kernel gave up access to BitKeeper, a proprietary source control management (SCM) system that they had previously used to maintain the project.[13] The copyright holder of BitKeeper, Larry McVoy, had withdrawn free use of the product after claiming that Andrew Tridgell had reverse-engineered the BitKeeper protocols.[14]
+
+Torvalds wanted a distributed system that he could use like BitKeeper, but none of the available free systems met his needs, particularly in terms of performance. Torvalds cited an example of a source-control management system requiring 30 seconds to apply a patch and update all associated metadata, and noted that this would not scale to the needs of Linux kernel development, where syncing with fellow maintainers could require 250 such actions at a time. For his design criteria, he specified that patching should take no more than three seconds,[8] and added three additional points:
+
+    Take Concurrent Versions System (CVS) as an example of what not to do; if in doubt, make the exact opposite decision[10]
+    Support a distributed, BitKeeper-like workflow[10]
+    Include very strong safeguards against corruption, either accidental or malicious[9]
+
+These criteria eliminated every then-existing version-control system except Monotone. Performance considerations excluded this, too.[10] So immediately after the 2.6.12-rc2 Linux kernel development release, Torvalds set out to write his own system.[10]
+
+Torvalds quipped about the name git (which means "unpleasant person" in British English slang): "I'm an egotistical bastard, and I name all my projects after myself. First 'Linux', now 'git'."[15][16] The man page describes Git as "the stupid content tracker".[17] The readme file of the source code elaborates further:[18]
+
+The name "git" was given by Linus Torvalds when he wrote the very
+first version. He described the tool as "the stupid content tracker"
+and the name as (depending on your mood):
+
+ - random three-letter combination that is pronounceable, and not
+   actually used by any common UNIX command.  The fact that it is a
+   mispronunciation of "get" may or may not be relevant.
+ - stupid. contemptible and despicable. simple. Take your pick from the
+   dictionary of slang.
+ - "global information tracker": you're in a good mood, and it actually
+   works for you. Angels sing, and a light suddenly fills the room.
+ - "goddamn idiotic truckload of sh*t": when it breaks
+
+The development of Git began on 3 April 2005.[19] Torvalds announced the project on 6 April;[20] it became self-hosting as of 7 April.[19] The first merge of multiple branches took place on 18 April.[21] Torvalds achieved his performance goals; on 29 April, the nascent Git was benchmarked recording patches to the Linux kernel tree at the rate of 6.7 per second.[22] On 16 June Git managed the kernel 2.6.12 release.[23]
+
+Torvalds turned over maintenance on 26 July 2005 to Junio Hamano, a major contributor to the project.[24] Hamano was responsible for the 1.0 release on 21 December 2005, and remains the project's maintainer.[25]
+Version 	Original release date 	Latest version 	Release date
+0.99 	2005-07-11 	0.99.9n 	2005-12-15
+1.0 	2005-12-21 	1.0.13 	2006-01-27
+1.1 	2006-01-08 	1.1.6 	2006-01-30
+1.2 	2006-02-12 	1.2.6 	2006-04-08
+1.3 	2006-04-18 	1.3.3 	2006-05-16
+1.4 	2006-06-10 	1.4.4.5 	2008-07-16
+1.5 	2007-02-14 	1.5.6.6 	2008-12-17
+1.6 	2008-08-17 	1.6.6.3 	2010-12-15
+1.7 	2010-02-13 	1.7.12.4 	2012-10-17
+1.8 	2012-10-21 	1.8.5.6 	2014-12-17
+1.9 	2014-02-14 	1.9.5 	2014-12-17
+2.0 	2014-05-28 	2.0.5 	2014-12-17
+2.1 	2014-08-16 	2.1.4 	2014-12-17
+2.2 	2014-11-26 	2.2.3 	2015-09-04
+2.3 	2015-02-05 	2.3.10 	2015-09-29
+2.4 	2015-04-30 	2.4.11 	2016-03-17
+2.5 	2015-07-27 	2.5.5 	2016-03-17
+2.6 	2015-09-28 	2.6.6 	2016-03-17
+2.7 	2015-10-04 	2.7.4 	2016-03-17
+2.8 	2016-03-28 	2.8.4 	2016-06-06
+2.9 	2016-06-13 	2.9.0 	2016-06-13
+Legend:
+Old version
+Older version, still supported
+Latest version
+Latest preview version
+Design
+
+Git's design was inspired by BitKeeper and Monotone.[26][27] Git was originally designed as a low-level version control system engine on top of which others could write front ends, such as Cogito or StGIT.[27] The core Git project has since become a complete version control system that is usable directly.[28] While strongly influenced by BitKeeper, Torvalds deliberately avoided conventional approaches, leading to a unique design.[29]
+Characteristics
+
+Git's design is a synthesis of Torvalds's experience with Linux in maintaining a large distributed development project, along with his intimate knowledge of file system performance gained from the same project and the urgent need to produce a working system in short order. These influences led to the following implementation choices:
+
+Strong support for non-linear development
+    Git supports rapid branching and merging, and includes specific tools for visualizing and navigating a non-linear development history. A core assumption in Git is that a change will be merged more often than it is written, as it is passed around various reviewers. Branches in Git are very lightweight: A branch in Git is only a reference to a single commit. With its parental commits, the full branch structure can be constructed.
+Distributed development
+    Like Darcs, BitKeeper, Mercurial, SVK, Bazaar and Monotone, Git gives each developer a local copy of the entire development history, and changes are copied from one such repository to another. These changes are imported as additional development branches, and can be merged in the same way as a locally developed branch.
+Compatibility with existing systems/protocols
+    Repositories can be published via HTTP, FTP, rsync (until Git 2.8.0[30]), or a Git protocol over either a plain socket, or ssh. Git also has a CVS server emulation, which enables the use of existing CVS clients and IDE plugins to access Git repositories. Subversion and svk repositories can be used directly with git-svn.
+Efficient handling of large projects
+    Torvalds has described Git as being very fast and scalable,[31] and performance tests done by Mozilla[32] showed it was an order of magnitude faster than some version-control systems, and fetching version history from a locally stored repository can be one hundred times faster than fetching it from the remote server.[33]
+Cryptographic authentication of history
+    The Git history is stored in such a way that the ID of a particular version (a commit in Git terms) depends upon the complete development history leading up to that commit. Once it is published, it is not possible to change the old versions without it being noticed. The structure is similar to a Merkle tree, but with additional data at the nodes as well as the leaves.[34] (Mercurial and Monotone also have this property.)
+Toolkit-based design
+    Git was designed as a set of programs written in C, and a number of shell scripts that provide wrappers around those programs.[35] Although most of those scripts have since been rewritten in C for speed and portability, the design remains, and it is easy to chain the components together.[36]
+Pluggable merge strategies
+    As part of its toolkit design, Git has a well-defined model of an incomplete merge, and it has multiple algorithms for completing it, culminating in telling the user that it is unable to complete the merge automatically and that manual editing is required.
+Garbage accumulates unless collected
+    Aborting operations or backing out changes will leave useless dangling objects in the database. These are generally a small fraction of the continuously growing history of wanted objects. Git will automatically perform garbage collection when enough loose objects have been created in the repository. Garbage collection can be called explicitly using git gc --prune.[37]
+Periodic explicit object packing
+    Git stores each newly created object as a separate file. Although individually compressed, this takes a great deal of space and is inefficient. This is solved by the use of packs that store a large number of objects in a single file (or network byte stream) called packfile, delta-compressed among themselves. Packs are compressed using the heuristic that files with the same name are probably similar, but do not depend on it for correctness. A corresponding index file is created for each packfile, telling the offset of each object in the packfile. Newly created objects (newly added history) are still stored singly, and periodic repacking is required to maintain space efficiency. The process of packing the repository can be very computationally expensive. By allowing objects to exist in the repository in a loose, but quickly generated format, Git allows the expensive pack operation to be deferred until later when time does not matter (e.g. the end of the work day). Git does periodic repacking automatically but manual repacking is also possible with the git gc command. For data integrity, both packfile and its index have SHA-1 checksum inside, and also the file name of packfile contains a SHA-1 checksum. To check integrity, run the git fsck command.
+
+Another property of Git is that it snapshots directory trees of files. The earliest systems for tracking versions of source code, SCCS and RCS, worked on individual files and emphasized the space savings to be gained from interleaved deltas (SCCS) or delta encoding (RCS) the (mostly similar) versions. Later revision control systems maintained this notion of a file having an identity across multiple revisions of a project. However, Torvalds rejected this concept.[38] Consequently, Git does not explicitly record file revision relationships at any level below the source code tree.
+
+Implicit revision relationships have some significant consequences:
+
+    It is slightly more expensive to examine the change history of a single file than the whole project.[39] To obtain a history of changes affecting a given file, Git must walk the global history and then determine whether each change modified that file. This method of examining history does, however, let Git produce with equal efficiency a single history showing the changes to an arbitrary set of files. For example, a subdirectory of the source tree plus an associated global header file is a very common case.
+    Renames are handled implicitly rather than explicitly. A common complaint with CVS is that it uses the name of a file to identify its revision history, so moving or renaming a file is not possible without either interrupting its history, or renaming the history and thereby making the history inaccurate. Most post-CVS revision control systems solve this by giving a file a unique long-lived name (analogous to an inode number) that survives renaming. Git does not record such an identifier, and this is claimed as an advantage.[40][41] Source code files are sometimes split or merged as well as simply renamed,[42] and recording this as a simple rename would freeze an inaccurate description of what happened in the (immutable) history. Git addresses the issue by detecting renames while browsing the history of snapshots rather than recording it when making the snapshot.[43] (Briefly, given a file in revision N, a file of the same name in revision N−1 is its default ancestor. However, when there is no like-named file in revision N−1, Git searches for a file that existed only in revision N−1 and is very similar to the new file.) However, it does require more CPU-intensive work every time history is reviewed, and a number of options to adjust the heuristics. This mechanism does not always work; sometimes a file that is renamed with changes in the same commit is read as a deletion of the old file and the creation of a new file. Developers can work around this limitation by committing the rename and changes separately.
+
+Git implements several merging strategies; a non-default can be selected at merge time:[44]
+
+    resolve: the traditional three-way merge algorithm.
+    recursive: This is the default when pulling or merging one branch, and is a variant of the three-way merge algorithm.
+
+        When there are more than one common ancestors that can be used for three-way merge, it creates a merged tree of the common ancestors and uses that as the reference tree for the three-way merge. This has been reported to result in fewer merge conflicts without causing mis-merges by tests done on actual merge commits taken from Linux 2.6 kernel development history. Additionally this can detect and handle merges involving renames.
+        — Linus Torvalds[45]
+
+    octopus: This is the default when merging more than two heads.
+
+Data structures
+
+Git's primitives are not inherently a source code management (SCM) system. Torvalds explains,[46]
+
+    In many ways you can just see git as a filesystem – it's content-addressable, and it has a notion of versioning, but I really really designed it coming at the problem from the viewpoint of a filesystem person (hey, kernels is what I do), and I actually have absolutely zero interest in creating a traditional SCM system.
+
+From this initial design approach, Git has developed the full set of features expected of a traditional SCM,[28] with features mostly being created as needed, then refined and extended over time.
+Some data flows and storage levels in the Git revision control system.
+
+Git has two data structures: a mutable index (also called stage or cache) that caches information about the working directory and the next revision to be committed; and an immutable, append-only object database.
+
+The object database contains four types of objects:
+
+    A blob (binary large object) is the content of a file. Blobs have no file name, time stamps, or other metadata.
+    A tree object is the equivalent of a directory. It contains a list of file names, each with some type bits and the name of a blob or tree object that is that file, symbolic link, or directory's contents. This object describes a snapshot of the source tree.
+    A commit object links tree objects together into a history. It contains the name of a tree object (of the top-level source directory), a time stamp, a log message, and the names of zero or more parent commit objects.
+    A tag object is a container that contains reference to another object and can hold additional meta-data related to another object. Most commonly, it is used to store a digital signature of a commit object corresponding to a particular release of the data being tracked by Git.
+
+The index serves as connection point between the object database and the working tree.
+
+Each object is identified by a SHA-1 hash of its contents. Git computes the hash, and uses this value for the object's name. The object is put into a directory matching the first two characters of its hash. The rest of the hash is used as the file name for that object.
+
+Git stores each revision of a file as a unique blob. The relationships between the blobs can be found through examining the tree and commit objects. Newly added objects are stored in their entirety using zlib compression. This can consume a large amount of disk space quickly, so objects can be combined into packs, which use delta compression to save space, storing blobs as their changes relative to other blobs.
+
+Git servers typically listen on TCP port 9418.[47]
+References
+
+Every object in the Git database which is not referred to may be cleaned up by using a garbage collection command, or automatically. An object may be referenced by another object, or an explicit reference. Git knows different types of references. The commands to create, move, and delete references vary. "git show-ref" lists all references. Some types are:
+
+    heads: refers to an object locally
+    remotes: refers to an object which exists in a remote repository
+    stash: refers to an object not yet committed
+    meta: e.g. a configuration in a bare repository, user rights; the refs/meta/config namespace was introduced resp gets used by Gerrit[clarification needed][48]
+    tags: see above
+
+Implementations
+gitg is a graphical front-end using GTK+
+
+Git is primarily developed on Linux, although it also supports most major operating systems including BSD, Solaris, OS X, and Microsoft Windows.[49]
+
+The first Microsoft Windows "port" of Git was primarily a Linux emulation framework that hosts the Linux version. Installing Git under Windows creates a similarly named Program Files directory containing 5,236 files in 580 directories. These include the MinGW port of the GNU Compiler Collection, Perl 5, msys2.0, itself a fork of Cygwin, a Unix-like emulation environment for Windows, and various other Windows ports or emulations of Linux utilities and libraries. Currently native Windows builds of Git are distributed as 32 and 64-bit installers.
+
+The JGit implementation of Git is a pure Java software library, designed to be embedded in any Java application. JGit is used in the Gerrit code review tool and in EGit, a Git client for the Eclipse IDE.[50]
+
+The Dulwich implementation of Git is a pure Python software component for Python 2.[51]
+
+The libgit2 implementation of Git is an ANSI C software library with no other dependencies, which can be built on multiple platforms including Microsoft Windows, Linux, Mac OS X, and BSD.[52] It has bindings for many programming languages, including Ruby, Python and Haskell.[53][54][55]
+
+JS-Git is a JavaScript implementation of a subset of Git.[56]
+Git server
+
+As Git is a distributed version control system, it can be used as a server out of the box. Dedicated Git server software helps, amongst other features, to add access control, display the contents of a Git repository via the web, and help managing multiple repositories. Remote file store and shell access: A Git repository can be cloned to a shared file system, and accessed by other persons. It can also be accessed via remote shell just by having the Git software installed and allowing a user to log in.[57]
+
+Git daemon, instaweb
+    Git daemon allows users to share their own repository to colleagues quickly. Git instaweb allows users to provide web view to the repository. As of 2014-04 instaweb does not work on Windows. Both can be seen in the line of Mercurial's "hg serve".[58][59]
+Gitolite
+    Gitolite is an access control layer on top of Git, providing fine access control to Git repositories. It relies on other software to remotely view the repositories on the server.[60][61]
+Apache Allura
+    Apache Allura is an open-source forge software for managing source code repositories, bug reports, discussions, wiki pages, blogs and more for any number of individual projects.
+Gerrit
+    Gerrit provides two out of three functionalities: access control and managing repositories. It uses jGit. To view repositories it is combined e.g. with Gitiles or GitBlit.
+Gitblit
+    Gitblit can provide all three functions, but is in larger installations used as repository browser installed with gerrit for access control and management of repositories.[62][63] Gitblit can also provide the sync option for other repository.
+Gitiles
+    Gitiles is a simple repository browser, usually used together with gerrit.[64][65]
+Bonobo Git Server
+    Bonobo Git Server is a simple Git server for Windows implemented as an ASP.NET gateway.[66] It relies on the authentication mechanisms provided by Windows Internet Information Services, thus it does not support SSH access but can be easily integrated with Active Directory.
+Gitorious
+    Gitorious is the free software behind the Git repository hosting service of the same name. In March 2015, Gitorious was acquired by GitLab.[67]
+GitLab
+    GitLab provides a software repository service. It offers a web interface like GitHub, and is written in Ruby.
+
+Djacket 
+    Djacket is a free and open source Git server like GitHub, meant for personal and small business usages. It is written in Python and Django framework.
+Gogs
+    Gogs is another self-hosted Git service written in Go. It provides similar features to GitLab as a web interface.[68]
+RhodeCode
+    RhodeCode is an open source self-hosted platform for behind-the-firewall source code management. It provides centralized control over all Git, Mercurial and Subversion repositories, with common authentication and permission management. RhodeCode allows forking, pull requests distributed revision control, and code reviews via a web interface. RhodeCode is written in Python and Pyramid framework. [69]
+GitHub
+    GitHub is a website where copies of Git repositories can be uploaded. It is a Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as wikis, task management, bug tracking and other features that can be helpful for projects. It allows collaboration with other people on projects. It does that by providing a centralized location to share the repository, a web-based interface to view it, and features like forking, pull requests distributed revision control, issues, and wikis.
+Bitbucket
+    Bitbucket is a web-based hosting service for projects that use either the Git (since October 2011) or the Mercurial (since launch) revision control systems. Bitbucket offers both commercial plans and free accounts.
+Sourcegraph
+    Sourcegraph is a self-hosted Git service, written in Go. It also provides jump-to-definition, cross-reference, and semantic search features (by analyzing code in several languages).[70]
+Commercial products
+    Commercial programs are also available to be installed on premises, amongst them GitHub (using native Git, available as a vm), RhodeCode (custom front-end web interface, native Git in the backend), Stash (using a custom front-end and native Git in the backend), Team Foundation Server (using libgit2).[71]
+
+Related article: Comparison of source code hosting facilities
+Adoption
+
+The Eclipse Foundation reported in its annual community survey that as of May 2014, Git is now the most widely used source code management tool, with 42.9% of professional software developers reporting that they use Git as their primary source control system[72] compared with 36.3% in 2013, 32% in 2012; or for Git responses excluding use of GitHub: 33.3% in 2014, 30.3% in 2013, 27.6% in 2012 and 12.8% in 2011.[73] Open source directory Black Duck Open Hub reports a similar uptake among open source projects.[74]
+
+The UK IT jobs website itjobswatch.co.uk reports that as of late December 2014, 23.58% of UK permanent software development job openings have cited Git,[75] ahead of 16.34% for Subversion,[76] 11.58% for Microsoft Team Foundation Server,[77] 1.62% for Mercurial,[78] and 1.13% for Visual SourceSafe.[79]
+Security
+
+On 17 December 2014, an exploit was found affecting the Windows and Mac versions of the Git client. An attacker could perform arbitrary code execution on a Windows or Mac computer with Git installed by creating a malicious Git tree (directory) named .git (a directory in Git repositories that stores all the data of the repository) in a different case (such as .GIT or .Git, needed because Git doesn't allow the all-lowercase version of .git to be created manually) with malicious files in the .git/hooks subdirectory (a folder with executable files that Git runs) on a repository that the attacker made or on a repository that the attacker can modify. If a Windows or Mac user "pulls" (downloads) a version of the repository with the malicious directory, then switches to that directory, the .git directory will be overwritten (due to the case-insensitive nature of the Windows and Mac filesystems) and the malicious executable files in .git/hooks may be run, which results in the attacker's commands being executed. An attacker could also modify the .git/config configuration file, which allows the attacker to create malicious Git aliases (aliases for Git commands or external commands) or modify existing aliases to execute malicious commands when run. The vulnerability was patched in version 2.2.1 of Git, released on 17 December 2014, and announced on the next day.[80][81]
+
+Git version 2.6.1, released on 29 September 2015, contained a patch for a security vulnerability (CVE-2015-7545)[82] which allowed arbitrary code execution.[83] The vulnerability was exploitable if an attacker could convince a victim to clone a specific URL, as the arbitrary commands were embedded in the URL itself.[84] An attacker could use the exploit via a man-in-the-middle attack if the connection was unencrypted,[84] as they could redirect the user to a URL of their choice. Recursive clones were also vulnerable, since they allowed the controller of a repository to specify arbitrary URLs via the gitmodules file.[84]
+
+Git uses SHA-1 hashes internally, even though SHA-1 is looking cryptographically weak compared to newer cryptographic hash functions. Linus has responded that the hash was mostly to guard against accidental corruption, and the security a cryptographically secure hash gives was just an accidental side effect, with the main security being signing elsewhere.[85][86] Though Linus has also referenced an attack on kernel.org where a malicious attacker modified data in a bitkeeper version control system, something which may not be prevented without a secure hash.[87]

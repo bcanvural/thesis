@@ -1,0 +1,187 @@
+MongoDB (from humongous) is a free and open-source cross-platform document-oriented database. Classified as a NoSQL database, MongoDB avoids the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas (MongoDB calls the format BSON), making the integration of data in certain types of applications easier and faster. MongoDB is developed by MongoDB Inc. and is free and open-source, published under a combination of the GNU Affero General Public License and the Apache License. As of July 2015, MongoDB was the fourth most widely mentioned database engine on the web, and the most popular for document stores.[2]
+
+Contents
+
+    1 History
+    2 Main features
+    3 Bug reports and criticisms
+    4 Architecture
+        4.1 Programming language accessibility
+        4.2 Management and graphical front-ends
+        4.3 Licensing and support
+    5 Performance
+        5.1 Performance metrics
+        5.2 Metric collection
+            5.2.1 Utilities
+            5.2.2 Commands
+            5.2.3 Production monitoring
+        5.3 Benchmarks
+    6 Production deployments
+    7 MongoDB World
+    8 See also
+    9 References
+    10 Bibliography
+    11 External links
+
+History
+See also: MongoDB Inc. § History
+
+The software company 10gen began developing MongoDB in 2007 as a component of a planned platform as a service product. In 2009, the company shifted to an open source development model, with the company offering commercial support and other services. In 2013, 10gen changed its name to MongoDB Inc.[3]
+Main features
+
+Some of the features include:[4]
+
+Ad hoc queries
+
+MongoDB supports field, range queries, regular expression searches. Queries can return specific fields of documents and also include user-defined JavaScript functions. Queries can also be configured to return a random sample of results of a given size.
+
+Indexing
+
+Any field in a MongoDB document can be indexed – including within arrays and embedded documents (indices in MongoDB are conceptually similar to those in RDBMSes). Primary and secondary indices are available.
+
+Replication
+
+MongoDB provides high availability with replica sets.[5] A replica set consists of two or more copies of the data. Each replica set member may act in the role of primary or secondary replica at any time. All writes and reads are done on the primary replica by default. Secondary replicas maintain a copy of the data of the primary using built-in replication. When a primary replica fails, the replica set automatically conducts an election process to determine which secondary should become the primary. Secondaries can optionally serve read operations, but that data is only eventually consistent by default.
+
+Load balancing
+
+MongoDB scales horizontally using sharding.[6] The user chooses a shard key, which determines how the data in a collection will be distributed. The data is split into ranges (based on the shard key) and distributed across multiple shards. (A shard is a master with one or more slaves.). Alternatively, the shard key can be hashed to map to a shard – enabling an even data distribution.
+
+MongoDB can run over multiple servers, balancing the load and/or duplicating data to keep the system up and running in case of hardware failure. MongoDB is easy to deploy, and new machines can be added to a running database.
+
+File storage
+
+MongoDB can be used as a file system, taking advantage of load balancing and data replication features over multiple machines for storing files.
+
+This function, called Grid File System,[7] is included with MongoDB drivers and available for many development languages (see "Language Support" for a list of supported languages). MongoDB exposes functions for file manipulation and content to developers. GridFS is used, for example, in plugins for NGINX[8] and lighttpd.[9] Instead of storing a file in a single document, GridFS divides a file into parts, or chunks, and stores each of those chunks as a separate document.[10]
+
+In a multi-machine MongoDB system, files can be distributed and copied multiple times between machines transparently, thus effectively creating a load-balanced and fault-tolerant system.
+
+Aggregation
+
+MapReduce can be used for batch processing of data and aggregation operations.
+
+The aggregation framework enables users to obtain the kind of results for which the SQL GROUP BY clause is used. Aggregation operators can be strung together to form a pipeline – analogous to Unix pipes. The aggregation framework includes the $lookup operator which can join documents from multiple documents, as well as statistical operators such as standard deviation.
+
+Server-side JavaScript execution
+
+JavaScript can be used in queries, aggregation functions (such as MapReduce), and sent directly to the database to be executed.
+
+Capped collections
+
+MongoDB supports fixed-size collections called capped collections. This type of collection maintains insertion order and, once the specified size has been reached, behaves like a circular queue.
+Bug reports and criticisms
+
+In some failure scenarios where an application can access two distinct MongoDB processes, but these processes cannot access each other, it is possible for MongoDB to return stale reads. In this scenario it is also possible for MongoDB to roll back writes that have been acknowledged.[11]
+
+Before version 2.2, concurrency control was implemented on a per-mongod basis. With version 2.2, concurrency control was implemented at the database level.[12] Since version 3.0,[13] pluggable storage engines were introduced, and each storage engine may implement concurrency control differently.[14] With MongoDB 3.0 concurrency control is implemented at the collection level for the MMAPv1 storage engine,[15] and at the document level with the WiredTiger storage engine.[16] With versions prior to 3.0, one approach to increase concurrency is to use sharding.[17] In some situations, reads and writes will yield their locks. If MongoDB predicts a page is unlikely to be in memory, operations will yield their lock while the pages load. The use of lock yielding expanded greatly in 2.2.[18]
+
+Another criticism is related to the limitations of MongoDB when used on 32-bit systems.[19] In some cases, this was due to inherent memory limitations.[20][self-published source] MongoDB recommends 64-bit systems and that users provide sufficient RAM for their working set.
+
+MongoDB cannot do collation-based sorting and is limited to byte-wise comparison via memcmp,[21] which will not provide correct ordering for many non-English languages[22] when used with a Unicode encoding.
+
+MongoDB queries against an index are not atomic and can miss documents which are being updated while the query is running and which do match the query both before and after an update.[23]
+Architecture
+Programming language accessibility
+
+MongoDB has official drivers for a variety of popular programming languages and development environments.[24] There are also a large number of unofficial or community-supported drivers for other programming languages and frameworks.[25]
+Management and graphical front-ends
+Record insertion in MongoDB with Robomongo 0.8.5.
+
+Most administration is done from command line tools such as the mongo shell because MongoDB does not include a GUI-style administrative interface. There are products and third-party projects that offer user interfaces for administration and data viewing.[26]
+Licensing and support
+
+MongoDB is available at no cost under the GNU Affero General Public License.[27] The language drivers are available under an Apache License. In addition, MongoDB Inc. offers proprietary licenses for MongoDB.
+Performance
+Performance metrics
+
+Proper MongoDB performance is critical for infrastructures that rely on the database to operate applications. In response to growing concern over how to measure this performance and how to lessen slowdowns, many monitoring solutions have begun to provide both open-source and hosted platforms for MongoDB performance monitoring. Currently, many monitoring solutions, including Datadog, focus on the below set of metrics to track MongoDB performance:[28]
+
+    Throughput metrics 
+        Number of read requests
+        Number of write requests
+        Number of clients with read operations in progress or queued
+        Number of clients with write operations in progress or queued
+    Database performance 
+        Size of oplog (MB)
+        Oplog window (seconds)
+        Replication lag
+        Replication headroom
+        Replica set member state
+    Resource utilization 
+        Number of clients currently connected to the database server
+        Number of unused connections available for new clients
+    Resource saturation 
+        Number of read requests currently queued
+        Number of write requests currently queued
+    Errors (asserts) 
+        Number of message assertions raised
+        Number of warning assertions raised
+        Number of regular assertions raised
+        Number of assertions corresponding to errors generated by users.
+
+Metric collection
+
+These metrics are typically collected in three ways,[29] depending on what is best suited for each infrastructure.
+Utilities
+
+Utilities, offered by MongoDB, can collect real-time statistics for your cluster and are particularly helpful for ad hoc checks.[30]
+
+    mongostat[31] - a powerful utility that reports real-time stats on connections, inserts, queries, updates, deletes, queued reads and writes, flushes memory usage, and page faults.
+    mongotop[32] - a utility that reports on the amount of time an instance spends performing read and write operations.
+
+These two utilities are helpful for spot checking but are not considered to collect enough MongoDB cluster performance data to be actionable, especially at scale.
+Commands
+
+Commands can be used in adjunction with utilities because they provide different metrics from your MongoDB cluster.
+
+    serverStatus 
+    dbStats 
+    collStats 
+    getReplicationInfo 
+    replSetGetStatus 
+    sh.status 
+    getProfilingStatus 
+
+Production monitoring
+
+The third way to access MongoDB cluster metrics involves using more comprehensive, subscription SaaS tools like MongoDB Enterprise Advanced 
+or Datadog 
+.
+Benchmarks
+
+United Software Associates published a benchmark using Yahoo's Cloud Serving Benchmark as a basis of all the tests. MongoDB provides greater performance than Couchbase Server or Cassandra in all the tests they ran, in some cases by as much as 25x.[33]
+
+Another benchmark for top NoSQL databases utilizing Amazon's Elastic Compute Cloud that was done by End Point arrived at opposite results, placing MongoDB last among the tested databases.[34]
+Production deployments
+
+Large-scale deployments of MongoDB are tracked by MongoDB Inc. Notable users of MongoDB include:
+
+    Adobe: Adobe Experience Manager is intended to accelerate development of digital experiences that increase customer loyalty, engagement and demand. Adobe uses MongoDB to store petabytes of data in the large-scale content repositories underpinning the Experience Manager.[35]
+    Amadeus IT Group uses MongoDB for its back-end software.[36]
+    The Compact Muon Solenoid at CERN uses MongoDB as the primary back-end for the Data Aggregation System for the Large Hadron Collider.[37]
+    Craigslist: With 80 million classified ads posted every month, Craigslist needs to archive billions of records in multiple formats, and must be able to query and report on these archives at runtime. Craigslist migrated from MySQL to MongoDB to support its active archive, with continuous availability mandated for regulatory compliance across 700 sites in 70 different countries.[38]
+    eBay uses MongoDB in the search suggestion and the internal Cloud Manager State Hub.[39]
+    FIFA (video game series): EA's Spearhead development studio uses MongoDB[40] to store user data and game state. Auto-sharding allows scaling MongoDB across EA's 250+ servers as user demand grows.
+    Foursquare deploys MongoDB on Amazon AWS to store venues and user check-ins into venues.[41]
+    LinkedIn uses MongoDB for its internal learning platform.[42]
+    McAfee: MongoDB powers McAfee Global Threat Intelligence (GTI), a cloud-based intelligence service that correlates data from millions of sensors around the globe. Billions of documents are stored and analyzed in MongoDB to deliver real-time threat intelligence to other McAfee end-client products.[43]
+    MetLife uses MongoDB for “The Wall", a customer service application providing a "360-degree view" of MetLife customers.[44]
+    SAP uses MongoDB in the SAP PaaS.[45]
+    Shutterfly uses MongoDB for its photo platform. As of 2013, the photo platform stores 18 billion photos uploaded by Shutterfly's 7 million users.[46]
+    Tuenti uses MongoDB as its backend DB.[47]
+    Yandex: The largest search engine in Russia uses MongoDB to manage all user and metadata for its file sharing service. MongoDB has scaled[48] to support tens of billions of objects and TBs of data, growing at 10 million new file uploads per day.
+
+MongoDB World
+Mongodb world 2015.jpg
+
+MongoDB World [49] is an annual developer conference hosted by MongoDB, Inc. Started in 2014, MongoDB World provides a multi-day opportunity for communities and experts in MongoDB to network, learn from peers, research upcoming trends and interesting use cases, and hear about new releases and developments from MongoDB, Inc.
+See also
+Portal icon 	Free software portal
+
+    NoSQL
+    Server-side scripting
+    MEAN, a solutions stack using MongoDB as the database
+    Couchbase, an enterprise NoSQL document database with SQL and Master/Master replication
+    HyperDex, a NoSQL database providing the MongoDB API with stronger consistency guarantees
+

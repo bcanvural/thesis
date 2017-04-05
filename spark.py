@@ -6,6 +6,7 @@ from pyspark.sql import Row
 from pyspark.ml.classification import NaiveBayes, OneVsRest, OneVsRestModel
 from pyspark.sql.functions import udf
 from pyspark.sql.types import DoubleType
+from pyspark.sql.functions import *
 
 def parseFeatures(jobId, features):
     return Row(label=jobId, features=features)
@@ -18,7 +19,7 @@ def calculate_cosine_similarity(vec_job, vec_cv):
     cv = vec_cv.toArray()
     jobs = vec_job.toArray()
     result = 1 - spatial.distance.cosine(cv, jobs)
-    return result
+    return float(result)
 
 def main() :
     spark = SparkSession.builder \
@@ -37,7 +38,7 @@ def main() :
     wordsData = tokenizer.transform(filtered)
 
     #numfeatures should be an exponent of 2
-    hashingTF = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=64)
+    hashingTF = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
     featurizedData = hashingTF.transform(wordsData)
 
     idf = IDF(inputCol="rawFeatures", outputCol="features")
@@ -65,12 +66,12 @@ def main() :
     tokenizer_cvs = Tokenizer(inputCol="description", outputCol="words")
     wordsData_cvs = tokenizer_cvs.transform(df_cvs)
     #numfeatures should be an exponent of 2
-    hashingTF_cvs = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=64)
+    hashingTF_cvs = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
     featurizedData_cvs = hashingTF_cvs.transform(wordsData_cvs)
     idf_cvs = IDF(inputCol="rawFeatures", outputCol="featuresCV")
     idfModel_cvs = idf_cvs.fit(featurizedData_cvs)
     rescaledData_cvs = idfModel_cvs.transform(featurizedData_cvs)
-    # rescaledData_cvs.select("cvid", "features").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
+    rescaledData_cvs.select("cvid", "featuresCV").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
 
     #OneVsRest Naive Bayes experiment
     # ovr_model_loaded.transform(rescaledData_cvs.rdd.map(lambda x: parseFeaturesCV(x.features)).toDF())\
@@ -83,9 +84,10 @@ def main() :
 
     crossJoined = rescaledData.select("jobId", "features").crossJoin(rescaledData_cvs.select("cvid", "featuresCV")).cache()
 
-    calculated_rdd = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))
-    calculated_list = calculated_rdd.collect()
-    spark.sparkContext.parallelize(calculated_list).saveAsTextFile('cosine-calculated')
+    calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
+    .toDF(["jobid", "cvid", "similarity"])
+    ordered_list = calculatedDF.orderBy(desc("similarity")).collect()
+    spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
 
     #Cosine Similarity END
 

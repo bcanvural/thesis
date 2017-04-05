@@ -1,0 +1,61 @@
+Databases
+SQL and relational databases
+NoSQL Databases
+NoSQL, Mongo, Redis
+NoSQL, Teradata
+Excel
+MongoDB
+sql
+nosql
+relatinal database
+nonrelational database
+Oracle
+MySQL 
+Microsoft SQL Server
+MongoDB 
+PostgreSQL
+DB2
+Cassandra 
+Microsoft Access
+SQLite
+Redis 
+Elasticsearch 
+Teradata
+SAP Adaptive Server
+Solr
+HBase
+FileMaker
+Hive
+Splunk
+SAP HANA 
+MariaDB
+Neo4j 
+Informix
+Memcached
+Couchbase 
+Amazon DynamoDB 
+CouchDB
+Microsoft Azure SQL Database
+Netezza
+Vertica
+Firebird
+Riak KV 
+Ingres
+MarkLogic
+dBASE
+Greenplum
+Amazon Redshift 
+Impala
+DB2
+MySQL
+Oracle
+PostgreSQL
+SQLite
+SQL Server
+Sybase
+RethinkDB
+Berkeley DB
+memcached
+redis
+couchDB
+mongoDB

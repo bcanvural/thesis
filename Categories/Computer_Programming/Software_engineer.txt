@@ -1,0 +1,113 @@
+A software engineer is a person who applies the principles of software engineering to the design, development, maintenance, testing, and evaluation of the software and systems that make computers or anything containing software work.
+
+Contents
+
+    1 Overview
+        1.1 A state of the art
+    2 Education
+        2.1 Other degrees
+    3 Profession
+        3.1 Employment
+        3.2 Work
+        3.3 Impact of globalization
+        3.4 Prizes
+    4 Use of the title "Engineer"
+        4.1 Suitability of the term
+        4.2 Regulatory classification
+            4.2.1 Iceland
+            4.2.2 United Kingdom
+            4.2.3 New Zealand
+            4.2.4 Canada
+            4.2.5 United States
+    5 See also
+    6 References
+
+Overview
+
+Prior to the mid-1960s, software practitioners called themselves computer programmers or software developers, regardless of their actual jobs. Many people prefer to call themselves software developer and programmer, because most widely agree what these terms mean, while software engineer is still being debated. In many companies, the titles programmer and software developer were changed to software engineer, for many categories of programmers.[citation needed]
+A state of the art
+	This section is written like a personal reflection or opinion essay that states the Wikipedia editor's personal feelings about a topic, rather than the opinions of experts. Please help improve it by rewriting it in an encyclopedic style. (April 2013) (Learn how and when to remove this template message)
+See also: Regulation and licensure in engineering § Title usage
+
+In May 2015, the United States U. S. Bureau of Labor Statistics published an updated count of software engineers which has gone up from 760,840 in 2004 to 1,554,960 in 2015; in the same period there were some 1,610,480 practitioners employed in the U.S. in all other engineering disciplines combined.[1] The label software engineer is used very liberally in the corporate world. Very few of the practicing software engineers actually hold Engineering degrees from accredited universities.
+Education
+Globe icon.
+	The examples and perspective in this article may not represent a worldwide view of the subject. You may improve this article, discuss the issue on the talk page, or create a new article, as appropriate. (November 2010) (Learn how and when to remove this template message)
+
+About half of all practitioners today have degrees in computer science, information systems, or information technology. A small, but growing, number of practitioners have software engineering degrees. In 1987, Imperial College London introduced the first three-year software engineering Bachelor's degree in the UK and the world; in the following year, the University of Sheffield established a similar program.[2] In 1996, the Rochester Institute of Technology established the first software engineering bachelor's degree program in the United States, however, it did not obtain ABET accreditation until 2003, the same time as Rice University, Clarkson University, Milwaukee School of Engineering and Mississippi State University obtained theirs.[3] In 1997, PSG College of Technology in Coimbatore, India was the first to start a five-year integrated Master of Science degree in Software Engineering.[citation needed]
+
+Since then, software engineering undergraduate degrees have been established at many universities. A standard international curriculum for undergraduate software engineering degrees was recently[when?] defined by the CCSE. As of 2004, in the U.S., about 50 universities offer software engineering degrees, which teach both computer science and engineering principles and practices. The first software engineering Master's degree was established at Seattle University in 1979. Since then graduate software engineering degrees have been made available from many more universities. Likewise in Canada, the Canadian Engineering Accreditation Board (CEAB) of the Canadian Council of Professional Engineers has recognized several software engineering programs.
+
+In 1998, the US Naval Postgraduate School (NPS) established the first doctorate program in Software Engineering in the world.[citation needed] Additionally, many online advanced degrees in Software Engineering have appeared such as the Master of Science in Software Engineering (MSE) degree offered through the Computer Science and Engineering Department at California State University, Fullerton. Steve McConnell opines that because most universities teach computer science rather than software engineering, there is a shortage of true software engineers.[4] ETS University and UQAM (Université du Québec à Montréal) were mandated by IEEE to develop the Software Engineering Body of Knowledge (SWEBOK), which has become an ISO standard describing the body of knowledge covered by a software engineer.[5]
+Other degrees
+
+In business, some software engineering practitioners have MIS or computer information systems degrees. In embedded systems, some have electrical engineering, electronics engineering, computer science with emphasis in "embedded systems" or computer engineering degrees, because embedded software often requires a detailed understanding of hardware. In medical software, practitioners may have medical informatics, general medical, or biology degrees.[citation needed]
+
+Some practitioners have mathematics, science, engineering, or technology degrees. Some have philosophy (logic in particular) or other non-technical degrees.[citation needed]For instance, Barry Boehm earned degrees in mathematics. And, others have no degrees.[citation needed]
+Profession
+Employment
+See also: Software engineering demographics
+
+Most software engineers work as employees or contractors. Software engineers work with businesses, government agencies (civilian or military), and non-profit organizations. Some software engineers work on their own as consulting software engineers. Some organizations have specialists to perform each of the tasks in the software development process. Other organizations required software engineers to do many or all of them. Entry-level software engineer or associate software engineer may be best. Some companies offer software engineer as an entry-level position. In large projects, people may specialize in only one role. In small projects, people may fill several or all roles at the same time. Specializations include: in industry (analysts, architects, developers, testers, technical support, managers) and in academia (educators, researchers).
+
+There is considerable debate over the future employment prospects for Software Engineers and other IT Professionals. For example, an online futures market called the Future of IT Jobs in America 
+attempts to answer whether there will be more IT jobs, including software engineers, in 2012 than there were in 2002. Possible opportunities for Advancement can be as a Software Engineer, then to a Senior Software Engineer, or straight to a Senior Software Engineer,[6] depending on skills and reputation. Services exist that are trying to better gauge the coding ability of an engineer, given not all engineers progress their abilities at the same rate, and to make it easier for both employers and employees to find a good match in terms of jobs.
+Work
+
+This job is office-based, and most of the work is done during normal office hours, but can sometimes lead to working away and working late or during weekends, depending on where and when the client is situated. The job can also be done at home or anywhere a computer is set up. Some high-profile companies have encouraged software engineers to work for long hours; Apple's Steve Jobs set up a culture where engineers would never take holidays and work throughout weekends, yet love what they were doing.[7]
+Impact of globalization
+
+Most students in the developed world have avoided degrees related to software engineering because of the fear of offshore outsourcing (importing software products or services from other countries) and of being displaced by foreign visa workers.[8] Although government statistics do not currently show a threat to software engineering itself; a related career, computer programming does appear to have been affected.[9][10] Often one is expected to start out as a computer programmer before being promoted to software engineer. Thus, the career path to software engineering may be rough, especially during recessions.
+
+Some career counselors suggest a student also focus on "people skills" and business skills rather than purely technical skills because such "soft skills" are allegedly more difficult to offshore. Reasonable command over reading, writing & speaking English is asked by most of employers.[11] It is the quasi-management aspects of software engineering that appear to be what has kept it from being impacted by globalization.[12]
+Prizes
+
+There are several prizes in the field of software engineering:[13]
+
+    The CODiE awards is a yearly award issued by the Software and Information Industry Association for excellence in software development within the software industry.
+    Jolt Awards are awards in the software industry.
+    Stevens Award is a software engineering award given in memory of Wayne Stevens.
+
+Use of the title "Engineer"
+Suitability of the term
+Main article: Regulation and licensure in engineering
+
+Many people[who?] believe that software engineering implies a certain level of academic training, professional discipline, adherence to formal processes, and especially legal liability that often are not applied in cases of software development. A common analogy is that working in construction does not make one a civil engineer, and so writing code does not make one a software engineer. Furthermore, because computing doesn't utilize the methods of mathematical physics common to all conventional engineering disciplines, it's more appropriate to call those engaged in this occupation as software developers, computer scientists or similar.
+
+In 1978, computer scientist E. W. Dijkstra wrote in a paper that the coining of the term software engineer was not useful since it was an inappropriate analogy, "The existence of the mere term has been the base of a number of extremely shallow—and false—analogies, which just confuse the issue...Computers are such exceptional gadgets that there is good reason to assume that most analogies with other disciplines are too shallow to be of any positive value, are even so shallow that they are only confusing."[14]
+
+In each of the last few decades, at least one radical new approach has entered the mainstream of software development (e.g. Structured Programming, Object Orientation), implying that the field is still changing too rapidly to be considered an engineering discipline. Proponents argue that the supposedly radical new approaches are evolutionary rather than revolutionary.[citation needed]
+
+Individual commentators have disagreed sharply on how to define software engineering or its legitimacy as an engineering discipline. David Parnas has said that software engineering is, in fact, a form of engineering.[15][16] Steve McConnell has said that it is not, but that it should be.[17] Donald Knuth has said that programming is an art and a science.[18] Edsger W. Dijkstra claimed that the terms software engineering and software engineer have been misused[improper synthesis?] and should be considered harmful, particularly in the United States.[19]
+Regulatory classification
+Iceland
+
+The use of the title tölvunarfræðingur (e. computer scientist) is protected by law in Iceland.[20] Software engineering is taught in Computer Science departments in Icelandic universities. Icelandic law state that a permission must be obtained from the Minister of Industry when the degree was awarded abroad, prior to use of the title. The title is only awarded to those who have obtained a master's degree in Software Engineering from a recognized higher educational institution.[citation needed][dubious – discuss]
+United Kingdom
+
+The U.K. has seen the alignment of the Information Technology Professional and the Engineering Professionals.[21][verification needed]
+New Zealand
+
+In New Zealand, IPENZ, the professional engineering organization entrusted by the New Zealand government with legal power to license and regulate chartered engineers (CPEng), recognizes software engineering as a legitimate branch of professional engineering and accepts application of software engineers to obtain chartered status provided he or she has a tertiary degree of approved subjects. Software Engineering is included but Computer Science is normally not.[22]
+Canada
+
+In Canada the use of the job title "Engineer" is controlled in each province by self-regulating professional engineering organizations, often aligned with geologists and geophysicists, who are also tasked with enforcement of the governing legislation. The intent is that any individual holding themselves out as an engineer (or geologist or geophysicist) has been verified to have been educated to a certain accredited level and their professional practice is subject to a code of ethics and peer scrutiny.
+
+IT professionals with degrees in other fields (such as computer science or information systems) are restricted from using the title "Software Engineer", or wording "Software Engineer" in a title, depending on their province or territory of residence. In some instances, cases have been taken to court regarding the illegal use of the protected title "Software Engineer".[23]
+United States
+
+The U.S. Bureau of Labor Statistics classifies computer software engineers as a subcategory of "computer specialists", along with occupations such as computer scientist, programmer, and network administrator.[24] The BLS classifies all other engineering disciplines, including computer hardware engineers, as "engineers".[25]
+
+Some of the states regulate the use of terms such as "computer engineer" and even "software engineer". These states include at least Texas[26] and Florida.[27]
+
+There is also a new PE (Professional Engineer) exam beginning in April 2013 for Software Engineering specifically as the process of tougher regulation moves forward.[28]
+See also
+	Wikimedia Commons has media related to Software engineers.
+
+    iconComputer science portal 
+
+    Bachelor of Science in Information Technology
+    Bachelor of Software Engineering
+    Consulting software engineer
+    Software Engineering Institute
+

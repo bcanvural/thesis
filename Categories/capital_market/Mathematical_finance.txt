@@ -1,0 +1,224 @@
+Mathematical finance, also known as quantitative finance, is a field of applied mathematics, concerned with financial markets. Generally, mathematical finance will derive and extend the mathematical or numerical models without necessarily establishing a link to financial theory, taking observed market prices as input. Mathematical consistency is required, not compatibility with economic theory. Thus, for example, while a financial economist might study the structural reasons why a company may have a certain share price, a financial mathematician may take the share price as a given, and attempt to use stochastic calculus to obtain the corresponding value of derivatives of the stock (see: Valuation of options; Financial modeling). The fundamental theorem of arbitrage-free pricing is one of the key theorems in mathematical finance, while the Black–Scholes equation and formula are amongst the key results.[1]
+
+Mathematical finance also overlaps heavily with the fields of computational finance and financial engineering. The latter focuses on applications and modeling, often by help of stochastic asset models (see: Quantitative analyst), while the former focuses, in addition to analysis, on building tools of implementation for the models. In general, there exist two separate branches of finance that require advanced quantitative techniques: derivatives pricing on the one hand, and risk- and portfolio management on the other.[2]
+
+Many universities offer degree and research programs in mathematical finance; see Master of Mathematical Finance.
+
+Contents
+
+    1 History: Q versus P
+        1.1 Derivatives pricing: the Q world
+        1.2 Risk and portfolio management: the P world
+    2 Criticism
+    3 Mathematical finance articles
+        3.1 Mathematical tools
+        3.2 Derivatives pricing
+    4 See also
+    5 Notes
+    6 References
+
+History: Q versus P
+
+There exist two separate branches of finance that require advanced quantitative techniques: derivatives pricing, and risk and portfolio management. One of the main differences is that they use different probabilities, namely the risk-neutral probability (or arbitrage-pricing probability), denoted by "Q", and the actual (or actuarial) probability, denoted by "P".
+Derivatives pricing: the Q world
+The Q world Goal 	"extrapolate the present"
+Environment 	risk-neutral probability Q {\displaystyle \mathbb {Q} } \mathbb {Q}
+Processes 	continuous-time martingales
+Dimension 	low
+Tools 	Itō calculus, PDEs
+Challenges 	calibration
+Business 	sell-side
+Main article: Risk-neutral measure
+Further information: Black–Scholes model, Brownian model of financial markets, and Martingale pricing
+
+The goal of derivatives pricing is to determine the fair price of a given security in terms of more liquid securities whose price is determined by the law of supply and demand. The meaning of "fair" depends, of course, on whether one considers buying or selling the security. Examples of securities being priced are plain vanilla and exotic options, convertible bonds, etc.
+
+Once a fair price has been determined, the sell-side trader can make a market on the security. Therefore, derivatives pricing is a complex "extrapolation" exercise to define the current market value of a security, which is then used by the sell-side community. Quantitative derivatives pricing was initiated by Louis Bachelier in The Theory of Speculation (published 1900), with the introduction of the most basic and most influential of processes, the Brownian motion, and its applications to the pricing of options. Bachelier modeled the time series of changes in the logarithm of stock prices as a random walk in which the short-term changes had a finite variance. This causes longer-term changes to follow a Gaussian distribution.[3]
+
+The theory remained dormant until Fischer Black and Myron Scholes, along with fundamental contributions by Robert C. Merton, applied the second most influential process, the geometric Brownian motion, to option pricing. For this M. Scholes and R. Merton were awarded the 1997 Nobel Memorial Prize in Economic Sciences. Black was ineligible for the prize because of his death in 1995.[4]
+
+The next important step was the fundamental theorem of asset pricing by Harrison and Pliska (1981), according to which the suitably normalized current price P0 of a security is arbitrage-free, and thus truly fair, only if there exists a stochastic process Pt with constant expected value which describes its future evolution:[5]
+
+    P 0 = E 0 ( P t ) {\displaystyle P_{0}=\mathbf {E} _{0}(P_{t})} P_{{0}}={\mathbf {E}}_{{0}}(P_{{t}})
+    	
+
+     
+    	
+
+     
+    	
+
+     
+
+     
+    	
+
+    (1 )
+
+A process satisfying (1) is called a "martingale". A martingale does not reward risk. Thus the probability of the normalized security price process is called "risk-neutral" and is typically denoted by the blackboard font letter " Q {\displaystyle \mathbb {Q} } \mathbb {Q} ".
+
+The relationship (1) must hold for all times t: therefore the processes used for derivatives pricing are naturally set in continuous time.
+
+The quants who operate in the Q world of derivatives pricing are specialists with deep knowledge of the specific products they model.
+
+Securities are priced individually, and thus the problems in the Q world are low-dimensional in nature. Calibration is one of the main challenges of the Q world: once a continuous-time parametric process has been calibrated to a set of traded securities through a relationship such as (1), a similar relationship is used to define the price of new derivatives.
+
+The main quantitative tools necessary to handle continuous-time Q-processes are Itō’s stochastic calculus and partial differential equations (PDE’s).
+Risk and portfolio management: the P world
+The P world Goal 	"model the future"
+Environment 	real-world probability P {\displaystyle \mathbb {P} } \mathbb {P}
+Processes 	discrete-time series
+Dimension 	large
+Tools 	multivariate statistics
+Challenges 	estimation
+Business 	buy-side
+
+Risk and portfolio management aims at modeling the statistically derived probability distribution of the market prices of all the securities at a given future investment horizon.
+This "real" probability distribution of the market prices is typically denoted by the blackboard font letter " P {\displaystyle \mathbb {P} } \mathbb {P} ", as opposed to the "risk-neutral" probability " Q {\displaystyle \mathbb {Q} } \mathbb {Q} " used in derivatives pricing.
+Based on the P distribution, the buy-side community takes decisions on which securities to purchase in order to improve the prospective profit-and-loss profile of their positions considered as a portfolio.
+
+For their pioneering work, Markowitz and Sharpe, along with Merton Miller, shared the 1990 Nobel Memorial Prize in Economic Sciences, for the first time ever awarded for a work in finance.
+
+The portfolio-selection work of Markowitz and Sharpe introduced mathematics to investment management. With time, the mathematics has become more sophisticated. Thanks to Robert Merton and Paul Samuelson, one-period models were replaced by continuous time, Brownian-motion models, and the quadratic utility function implicit in mean–variance optimization was replaced by more general increasing, concave utility functions.[6] Furthermore, in more recent years the focus shifted toward estimation risk, i.e., the dangers of incorrectly assuming that advanced time series analysis alone can provide completely accurate estimates of the market parameters.[7]
+
+Much effort has gone into the study of financial markets and how prices vary with time. Charles Dow, one of the founders of Dow Jones & Company and The Wall Street Journal, enunciated a set of ideas on the subject which are now called Dow Theory. This is the basis of the so-called technical analysis method of attempting to predict future changes. One of the tenets of "technical analysis" is that market trends give an indication of the future, at least in the short term. The claims of the technical analysts are disputed by many academics.
+Criticism
+See also: Financial economics #Challenges and criticism and Financial models with long-tailed distributions and volatility clustering
+
+Over the years, increasingly sophisticated mathematical models and derivative pricing strategies have been developed, but their credibility was damaged by the financial crisis of 2007–2010.
+Contemporary practice of mathematical finance has been subjected to criticism from figures within the field notably by Paul Wilmott and Nassim Nicholas Taleb, a professor of financial engineering at Polytechnic Institute of New York University, in his book The Black Swan.[8] Taleb claims that the prices of financial assets cannot be characterized by the simple models currently in use, rendering much of current practice at best irrelevant, and, at worst, dangerously misleading. Wilmott and Emanuel Derman published the Financial Modelers' Manifesto in January 2008[9] which addresses some of the most serious concerns.
+Bodies such as the Institute for New Economic Thinking are now attempting to develop new theories and methods.[10]
+
+In general, modeling the changes by distributions with finite variance is, increasingly, said to be inappropriate.[11] In the 1960s it was discovered by Benoît Mandelbrot that changes in prices do not follow a Gaussian distribution, but are rather modeled better by Lévy alpha-stable distributions.[12] The scale of change, or volatility, depends on the length of the time interval to a power a bit more than 1/2. Large changes up or down are more likely than what one would calculate using a Gaussian distribution with an estimated standard deviation. But the problem is that it does not solve the problem as it makes parametrization much harder and risk control less reliable.[8]
+Mathematical finance articles
+
+    See also Outline of finance: § Financial mathematics; § Mathematical tools; § Derivatives pricing.
+
+Mathematical tools
+
+    Asymptotic analysis
+    Calculus
+    Copulas
+    Differential equations
+    Expected value
+    Ergodic theory
+    Feynman–Kac formula
+    Fourier transform
+    Gaussian copulas
+    Girsanov's theorem
+    Itô's lemma
+    Martingale representation theorem
+    Mathematical models
+
+	
+
+    Monte Carlo method
+    Numerical analysis
+    Real analysis
+    Partial differential equations
+    Probability
+    Probability distributions
+        Binomial distribution
+        Log-normal distribution
+    Quantile functions
+        Heat equation
+    Radon–Nikodym derivative
+    Risk-neutral measure
+
+	
+
+    Stochastic calculus
+        Brownian motion
+        Lévy process
+    Stochastic differential equations
+    Stochastic volatility
+        Numerical partial differential equations
+            Crank–Nicolson method
+            Finite difference method
+    Value at risk
+    Volatility
+        ARCH model
+        GARCH model
+
+Derivatives pricing
+
+    The Brownian Motion Model of Financial Markets
+    Rational pricing assumptions
+        Risk neutral valuation
+        Arbitrage-free pricing
+    Forward Price Formula
+    Futures contract pricing
+    Swap Valuation
+
+	
+
+    Options
+        Put–call parity (Arbitrage relationships for options)
+        Intrinsic value, Time value
+        Moneyness
+        Pricing models
+            Black–Scholes model
+            Black model
+            Binomial options model
+                Implied binomial tree
+                Edgeworth binomial tree
+            Monte Carlo option model
+            Implied volatility, Volatility smile
+            SABR Volatility Model
+            Markov Switching Multifractal
+            The Greeks
+            Finite difference methods for option pricing
+            Vanna Volga method
+            Trinomial tree
+                Implied trinomial tree
+            Garman-Kohlhagen model
+        Pricing of American options
+            Barone-Adesi and Whaley
+            Bjerksund and Stensland
+            Black's approximation
+            Optimal stopping
+            Roll-Geske-Whaley
+
+	
+
+    Interest rate derivatives
+        Black model
+            caps and floors
+            swaptions
+            Bond options
+        Short-rate models
+            Rendleman-Bartter model
+            Vasicek model
+            Ho-Lee model
+            Hull–White model
+            Cox–Ingersoll–Ross model
+            Black–Karasinski model
+            Black–Derman–Toy model
+            Kalotay–Williams–Fabozzi model
+            Longstaff–Schwartz model
+            Chen model
+        Forward rate-based models
+            LIBOR market model (Brace–Gatarek–Musiela Model, BGM)
+            Heath–Jarrow–Morton Model (HJM)
+
+See also
+Book icon 	
+
+    Book: Finance
+
+    Computational finance
+    Quantitative behavioral finance
+    Derivative (finance), list of derivatives topics
+    Modeling and analysis of financial markets
+    Technical analysis
+    International Swaps and Derivatives Association
+    Fundamental financial concepts – topics
+    Model (economics)
+    List of finance topics
+    List of economics topics, List of economists
+    List of accounting topics
+    Statistical finance
+    Brownian model of financial markets
+    Master of Mathematical Finance
+    Financial economics
+

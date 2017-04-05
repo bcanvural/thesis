@@ -1,0 +1,67 @@
+A data mart is the access layer of the data warehouse environment that is used to get data out to the users. The data mart is a subset of the data warehouse that is usually oriented to a specific business line or team. Data marts are small slices of the data warehouse. Whereas data warehouses have an enterprise-wide depth, the information in data marts pertains to a single department. In some deployments, each department or business unit is considered the owner of its data mart including all the hardware, software and data.[1] This enables each department to use, manipulate and develop their data any way they see fit; without altering information inside other data marts or the data warehouse. In other deployments where conformed dimensions are used, this business unit ownership will not hold true for shared dimensions like customer, product, etc.
+
+The reasons why organizations are building data warehouses and data marts are because the information in the database is not organized in a way that makes it easy for organizations to find what they need. Also, complicated queries might take a long time to answer what people want to know since the database systems are designed to process millions of transactions per day. While transactional databases are designed to be updated, data warehouses or marts are read only. Data warehouses are designed to access large groups of related records.
+
+Data marts improve end-user response time by allowing users to have access to the specific type of data they need to view most often by providing the data in a way that supports the collective view of a group of users.
+
+A data mart is basically a condensed and more focused version of a data warehouse that reflects the regulations and process specifications of each business unit within an organization. Each data mart is dedicated to a specific business function or region. This subset of data may span across many or all of an enterprise’s functional subject areas. It is common for multiple data marts to be used in order to serve the needs of each individual business unit (different data marts can be used to obtain specific information for various enterprise departments, such as accounting, marketing, sales, etc.).
+
+The related term spreadmart is a derogatory label describing the situation that occurs when one or more business analysts develop a system of linked spreadsheets to perform a business analysis, then grow it to a size and degree of complexity that makes it nearly impossible to maintain.
+
+Contents
+
+    1 Data mart vs data warehouse
+    2 Design schemas
+    3 Reasons for creating a data mart
+    4 Dependent data mart
+    5 See also
+    6 References
+    7 Bibliography
+    8 External links
+
+Data mart vs data warehouse
+
+Data warehouse:
+
+    Holds multiple subject areas
+    Holds very detailed information
+    Works to integrate all data sources
+    Does not necessarily use a dimensional model but feeds dimensional models.
+
+Data mart:
+
+    Often holds only one subject area- for example, Finance, or Sales
+    May hold more summarized data (although many hold full detail)
+    Concentrates on integrating information from a given subject area or set of source systems
+    Is built focused on a dimensional model using a star schema.
+
+Design schemas
+
+    Star schema - fairly popular design choice; enables a relational database to emulate the analytical functionality of a multidimensional database
+    Snowflake schema
+
+Reasons for creating a data mart
+
+    Easy access to frequently needed data
+    Creates collective view by a group of users
+    Improves end-user response time
+    Ease of creation
+    Lower cost than implementing a full data warehouse
+    Potential users are more clearly defined than in a full data warehouse
+    Contains only business essential data and is less cluttered.
+
+Dependent data mart
+
+According to the Inmon school of data warehousing, a dependent data mart is a logical subset (view) or a physical subset (extract) of a larger data warehouse, isolated for one of the following reasons:
+
+    A need refreshment for a special data model or schema: e.g., to restructure for OLAP
+    Performance: to offload the data mart to a separate computer for greater efficiency or to eliminate the need to manage that workload on the centralized data warehouse.
+    Security: to separate an authorized data subset selectively
+    Expediency: to bypass the data governance and authorizations required to incorporate a new application on the Enterprise Data Warehouse
+    Proving Ground: to demonstrate the viability and ROI (return on investment) potential of an application prior to migrating it to the Enterprise Data Warehouse
+    Politics: a coping strategy for IT (Information Technology) in situations where a user group has more influence than funding or is not a good citizen on the centralized data warehouse.
+    Politics: a coping strategy for consumers of data in situations where a data warehouse team is unable to create a usable data warehouse.
+
+According to the Inmon school of data warehousing, tradeoffs inherent with data marts include limited scalability, duplication of data, data inconsistency with other silos of information, and inability to leverage enterprise sources of data.
+
+The alternative school of data warehousing is that of Ralph Kimball. In his view, a data warehouse is nothing more than the union of all the data marts. This view helps to reduce costs and provides fast development, but can create an inconsistent data warehouse, especially in large organizations. Therefore, Kimball's approach is more suitable for small-to-medium corporations.[2]

@@ -1,0 +1,117 @@
+R (programming language)
+R is a programming language and software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.[4] The R language is widely used among statisticians and data miners for developing statistical software[5] and data analysis.[6] Polls, surveys of data miners, and studies of scholarly literature databases show that R's popularity has increased substantially in recent years.[7]
+
+R is a GNU project.[8] The source code for the R software environment is written primarily in C, Fortran, and R.[9] R is freely available under the GNU General Public License, and pre-compiled binary versions are provided for various operating systems. While R has a command line interface, there are several graphical front-ends available.[10]
+
+
+R is an implementation of the S programming language combined with lexical scoping semantics inspired by Scheme.[11] S was created by John Chambers while at Bell Labs. There are some important differences, but much of the code written for S runs unaltered.[12]
+
+R was created by Ross Ihaka and Robert Gentleman[13] at the University of Auckland, New Zealand, and is currently developed by the R Development Core Team, of which Chambers is a member. R is named partly after the first names of the first two R authors and partly as a play on the name of S.[14] The project was conceived in 1992, with an initial version released in 1994 and a stable beta version in 2000.[15][16][17]
+
+Statistical features
+R and its libraries implement a wide variety of statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, and others. R is easily extensible through functions and extensions, and the R community is noted for its active contributions in terms of packages. Many of R's standard functions are written in R itself, which makes it easy for users to follow the algorithmic choices made. For computationally intensive tasks, C, C++, and Fortran code can be linked and called at run time. Advanced users can write C, C++,[18] Java,[19] .NET[20] or Python code to manipulate R objects directly.[21] R is highly extensible through the use of user-submitted packages for specific functions or specific areas of study. Due to its S heritage, R has stronger object-oriented programming facilities than most statistical computing languages. Extending R is also eased by its lexical scoping rules.[22]
+
+Another strength of R is static graphics, which can produce publication-quality graphs, including mathematical symbols. Dynamic and interactive graphics are available through additional packages.[23]
+
+R has Rd, its own LaTeX-like documentation format, which is used to supply comprehensive documentation, both on-line in a number of formats and in hard copy.[24]
+
+Programming features
+R is an interpreted language; users typically access it through a command-line interpreter. If a user types 2+2 at the R command prompt and presses enter, the computer replies with 4, as shown below:
+
+> 2+2
+[1] 4
+Like other similar languages such as APL and MATLAB, R supports matrix arithmetic. R's data structures include vectors, matrices, arrays, data frames (similar to tables in a relational database) and lists.[25] R's extensible object system includes objects for (among others): regression models, time-series and geo-spatial coordinates. The scalar data type was never a data structure of R.[26] Instead, a scalar is represented as a vector with length one.[citation needed]
+
+R supports procedural programming with functions and, for some functions, object-oriented programming with generic functions. A generic function acts differently depending on the classes of arguments passed to it. In other words, the generic function dispatches the function (method) specific to that class of object. For example, R has a generic print function that can print almost every class of object in R with a simple print(objectname) syntax.[27]
+
+Although used mainly by statisticians and other practitioners requiring an environment for statistical computation and software development, R can also operate as a general matrix calculation toolbox � with performance benchmarks comparable to GNU Octave or MATLAB.[28] Arrays are stored in column-major order.[29]
+
+Packages
+The capabilities of R are extended through user-created packages, which allow specialized statistical techniques, graphical devices (ggplot2), import/export capabilities, reporting tools (knitr, Sweave), etc. These packages are developed primarily in R, and sometimes in Java, C, C++, and Fortran.[citation needed]
+
+A core set of packages is included with the installation of R, with more than 7,801 additional packages (as of January 2016) available at the Comprehensive R Archive Network (CRAN),[30] Bioconductor, Omegahat,[31] GitHub, and other repositories.[32]
+
+The "Task Views" page (subject list) on the CRAN website[33] lists a wide range of tasks (in fields such as Finance, Genetics, High Performance Computing, Machine Learning, Medical Imaging, Social Sciences and Spatial Statistics) to which R has been applied and for which packages are available. R has also been identified by the FDA as suitable for interpreting data from clinical research.[34]
+
+Other R package resources include Crantastic, a community site for rating and reviewing all CRAN packages, and R-Forge, a central platform for the collaborative development of R packages, R-related software, and projects. R-Forge also hosts many unpublished beta packages, and development versions of CRAN packages.[35][36]
+
+The Bioconductor project provides R packages for the analysis of genomic data, such as Affymetrix and cDNA microarray object-oriented data-handling and analysis tools, and has started to provide tools for analysis of data from next-generation high-throughput sequencing methods.[37]
+
+Milestones
+The full list of changes is maintained in the "R News" file at CRAN.[38] Some highlights are listed below for several major releases.[citation needed]
+
+Release	Date	Description
+0.16		This is the last alpha version developed primarily by Ihaka and Gentleman. Much of the basic functionality from the "White Book" (see S history) was implemented. The mailing lists commenced on April 1, 1997.
+0.49	1997-04-23	This is the oldest source release which is currently available on CRAN.[39] CRAN is started on this date, with 3 mirrors that initially hosted 12 packages.[40] Alpha versions of R for Microsoft Windows and Mac OS are made available shortly after this version.[citation needed]
+0.60	1997-12-05	R becomes an official part of the GNU Project. The code is hosted and maintained on CVS.
+0.65.1	1999-10-07	First versions of update.packages and install.packages functions for downloading and installing packages from CRAN.[41]
+1.0	2000-02-29	Considered by its developers stable enough for production use.[42]
+1.4	2001-12-19	S4 methods are introduced and the first version for Mac OS X is made available soon after.
+2.0	2004-10-04	Introduced lazy loading, which enables fast loading of data with minimal expense of system memory.
+2.1	2005-04-18	Support for UTF-8 encoding, and the beginnings of internationalization and localization for different languages.
+2.11	2010-04-22	Support for Windows 64 bit systems.
+2.13	2011-04-14	Adding a new compiler function that allows speeding up functions by converting them to byte-code.
+2.14	2011-10-31	Added mandatory namespaces for packages. Added a new parallel package.
+2.15	2012-03-30	New load balancing functions. Improved serialization speed for long vectors.
+3.0	2013-04-03	Support for numeric index values 231 and larger on 64 bit systems.
+Interfaces
+Graphical user interfaces
+Architect : cross-platform open source IDE for data science based on Eclipse and StatET
+DataJoy[43] : Online R Editor focused on beginners to data science and collaboration.
+Deducer[44] : GUI for menu-driven data analysis (similar to SPSS/JMP/Minitab).
+Java GUI for R : cross-platform stand-alone R terminal and editor based on Java (also known as JGR).
+Number Analytics - GUI for R based business analytics (similar to SPSS) working on the cloud.
+Rattle GUI : cross-platform GUI based on RGtk2 and specifically designed for data mining.
+R Commander : cross-platform menu-driven GUI based on tcltk (several plug-ins to Rcmdr are also available).
+Revolution R Productivity Environment (RPE) � Revolution Analytics-provided Visual Studio-based IDE, and has plans for web based point and click interface.
+RGUI : comes with the pre-compiled version of R for Microsoft Windows.
+RKWard : extensible GUI and IDE for R.
+RStudio : cross-platform open source IDE (which can also be run on a remote Linux server).
+A special issue of the Journal of Statistical Software discusses GUIs for R.[45]
+
+Editors and IDEs
+Text editors and Integrated development environments (IDEs) with some support for R include: ConTEXT, Eclipse (StatET),[46] Emacs (Emacs Speaks Statistics), LyX (modules for knitr and Sweave), Vim, jEdit,[47] Kate,[48] Revolution R Enterprise DevelopR (part of Revolution R Enterprise),[49] RStudio,[50] Sublime Text, TextMate, Atom, WinEdt (R Package RWinEdt), Tinn-R, Notepad++,[51] and Architect.[52]
+
+Scripting languages
+R functionality has been made accessible from several scripting languages such as Python,[53] Perl,[54] Ruby,[55] F#[56] and Julia.[57] Scripting in R itself is possible via a front-end called littler.[58]
+
+useR! conferences
+The official annual gathering of R users is called "useR!".[59]
+
+The first such event was useR! 2004 in May 2004, Vienna, Austria.[60] After skipping 2005, the useR conference has been held annually, usually alternating between locations in Europe and North America.[61]
+
+Subsequent conferences have included:[59]
+
+useR! 2006, Vienna, Austria
+useR! 2007, Ames, Iowa, USA
+useR! 2008, Dortmund, Germany
+useR! 2009, Rennes, France
+useR! 2010, Gaithersburg, Maryland, USA
+useR! 2011, Coventry, United Kingdom
+useR! 2012, Nashville, Tennessee, USA
+useR! 2013, Albacete, Spain
+useR! 2014, Los Angeles, USA
+useR! 2015, Aalborg, Denmark
+useR! 2016, Stanford, California, USA
+R Journal
+The R Journal is the open access, refereed journal of the R project for statistical computing. It features short to medium length articles on the use, and development of R, including packages, programing tips, CRAN news, and foundation news.
+
+Comparison with SAS, SPSS, and Stata
+The general consensus is that R compares well with other popular statistical packages, such as SAS, SPSS, and Stata.[62] In a comparison of all basic features for a statistical software R is heads up with the best of statistical software.
+
+In January 2009, the New York Times ran an article about R gaining acceptance among data analysts and presenting a potential threat for the market share occupied by commercial statistical packages, such as SAS.[63]
+
+Commercial support for R
+While R is an open source project supported by the community developing it, some companies strive to provide commercial support and/or extensions for their customers. In this section, some examples of those companies are mentioned.
+
+In 2007, Revolution Analytics was founded to provide commercial support for Revolution R, its distribution of R, which also includes components developed by the company. Major additional components include: ParallelR, the R Productivity Environment IDE, RevoScaleR (for big data analysis), RevoDeployR, web services framework, and the ability for reading and writing data in the SAS file format.[64] They also offer a distribution of R designed to comply with established IQ/OQ/PQ criteria which enables clients in the pharmaceutical sector to validate their installation of REvolution R.[65] In 2015, Microsoft Corporation completed the acquisition of Revolution Analytics.[66]
+
+For organizations in highly regulated sectors requiring a validated version of R, Mango Solutions has developed the ValidR product which fully complies with the Food and Drug Administration guidelines for Software verification and validation.[citation needed] They also offer to validate additional packages if the customer demands it and validate customer's self written packages.[67]
+
+In October 2011, Oracle announced the Big Data Appliance, which integrates R, Apache Hadoop, Oracle Linux, and a NoSQL database with the Exadata hardware.[68] Oracle R Enterprise[69] is now one of two components of the "Oracle Advanced Analytics Option"[70] (the other component is Oracle Data Mining).[citation needed]
+
+IBM offers support for in-Hadoop execution of R,[71] and provides a programming model for massively parallel in-database analytics in R.[72]
+
+Other major commercial software systems supporting connections to or integration with R include: JMP,[73] Mathematica,[74] MATLAB,[75] Spotfire,[76] SPSS,[77] STATISTICA,[78] Platform Symphony,[79] SAS,[80] Tableau,[81] Esri ArcGis,[82] and Dundas.[83]
+
+Tibco offers a runtime version R as a part of Spotfire.[84]

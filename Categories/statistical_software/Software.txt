@@ -1,0 +1,78 @@
+The Apache Software Foundation /əˈpætʃiː/ (ASF) is an American non-profit corporation (classified as 501(c)(3) in the United States) to support Apache software projects, including the Apache HTTP Server. The ASF was formed from the Apache Group and incorporated in Delaware, U.S., in June 1999.[1][2]
+
+The Apache Software Foundation is a decentralized community of developers. The software they produce is distributed under the terms of the Apache License and is free and open source software (FOSS). The Apache projects are characterized by a collaborative, consensus-based development process and an open and pragmatic software license. Each project is managed by a self-selected team of technical experts who are active contributors to the project. The ASF is a meritocracy, implying that membership of the foundation is granted only to volunteers who have actively contributed to Apache projects. The ASF is considered a second generation[3] open-source organization, in that commercial support is provided without the risk of platform lock-in.
+
+Among the ASF's objectives are: to provide legal protection[4] to volunteers working on Apache projects; to prevent the Apache brand name from being used by other organizations without permission.
+
+The ASF also holds several ApacheCon[5] conferences each year, highlighting Apache projects, related technology.
+
+Contents
+
+    1 History
+    2 Projects
+    3 Board of directors
+    4 Financials
+    5 See also
+    6 Notes
+    7 Further reading
+    8 External links
+
+History
+
+The history of the Apache Software Foundation is linked to the Apache HTTP Server, development beginning in February 1995. A group of eight developers started working on enhancing the NCSA HTTPd daemon. They came to be known as the Apache Group. On March 25, 1999, the Apache Software Foundation was formed.[1] The first official meeting of the Apache Software Foundation was held on April 13, 1999, and by general consent that the initial membership list of the Apache Software Foundation, would be: Brian Behlendorf, Ken Coar, Miguel Gonzales, Mark Cox, Lars Eilebrecht, Ralf S. Engelschall, Roy T. Fielding, Dean Gaudet, Ben Hyde, Jim Jagielski, Alexei Kosut, Martin Kraemer, Ben Laurie, Doug MacEachern, Aram Mirzadeh, Sameer Parekh, Cliff Skolnick, Marc Slemko, William (Bill) Stoddard, Paul Sutton, Randy Terbush and Dirk-Willem van Gulik.[6] After a series of additional meetings to elect board members and resolve other legal matters regarding incorporation, the effective incorporation date of the Apache Software Foundation was set to June 1, 1999.[2]
+
+The name 'Apache' was chosen from respect for the Native American Apache Nation, well known for their superior skills in warfare strategy and their inexhaustible endurance. It also makes a pun on "a patchy web server"—a server made from a series of patches—but this was not its origin. The group of developers who released this new software soon started to call themselves the "Apache Group".[citation needed]
+Projects
+See also: List of Apache Software Foundation projects
+
+Apache divides its software development activities into separate semi-autonomous areas called "top-level projects" (formally known as a "Project Management Committee" in the bylaws[7]), some of which have a number of sub-projects. Unlike some other organizations that host FOSS projects, before a project is hosted at Apache it has to be licensed to the ASF with a grant or contributor agreement.[8] In this way, the ASF gains the necessary intellectual property rights for the development and distribution of all its projects.[9]
+Board of directors
+
+The ASF board of directors has responsibility for overseeing the ASF's activities and acting as a central point of contact and communication for its projects. The board assigns corporate issues, assigning resources to projects, and manages corporate services, including funds and legal issues. It does not make technical decisions about individual projects; these are made by the individual Project Management Committees. The board is elected annually by members of the foundation and, after the March 2016 Annual Members Meeting, it consists of:[10][11][12]
+
+    Shane Curcuru
+    Bertrand Delacretaz
+    Isabel Drost-Fromm
+    Marvin Humphrey
+    Jim Jagielski
+    Chris Mattmann (Treasurer)
+    Brett Porter (Chairman)
+    Greg Stein (Vice Chairman)
+    Mark Thomas
+
+Financials
+
+In the 2010–11 fiscal year, the Foundation took in $539,410, almost entirely from grants and contributions with $12,349 from two ApacheCons. With no employees and 2,663 volunteers, it spent $270,846 on infrastructure, $92,364 on public relations, and $17,891 on two ApacheCons.[13]
+See also
+
+    Apache Attic
+    Apache Incubator
+
+
+
+Apache Incubator is the gateway for open-source projects intended to become fully fledged Apache Software Foundation projects.
+
+The Incubator project was created in October 2002 to provide an entry path to the Apache Software Foundation for projects and codebases wishing to become part of the Foundation's efforts. All code donations from external organizations and existing external projects wishing to move to Apache must enter through the Incubator.
+
+The Apache Incubator project serves on the one hand as a temporary container project until the incubating project is accepted and becomes a top-level project of the Apache Software Foundation or becomes subproject of a proper project such as the Jakarta Project or Apache XML. On the other hand, the Incubator project documents how the Foundation works, and how to get things done within its framework. This means documenting process, roles and policies within the Apache Software Foundation and its member projects.
+
+
+
+
+The mission of the Apache Software Foundation (ASF) is to provide software for the public good. We do this by providing services and support for many like-minded software project communities of individuals who choose to join the ASF.
+What is the ASF?
+
+Established in 1999, the ASF is a US 501(c)(3) charitable organization, funded by individual donations and corporate sponsors. Our all-volunteer board oversees more than 350 leading Open Source projects, including Apache HTTP Server -- the world's most popular Web server software.
+
+The ASF provides an established framework for intellectual property and financial contributions that simultaneously limits potential legal exposure for our project committers. Through the ASF's meritocratic process known as "The Apache Way," more than 500 individual Members and 4,500 Committers successfully collaborate to develop freely available enterprise-grade software, benefiting millions of users worldwide: thousands of software solutions are distributed under the Apache License; and the community actively participates in ASF mailing lists, mentoring initiatives, and ApacheCon, the Foundation's official user conference, trainings, and expo.
+How did the ASF and Apache® projects grow?
+
+Formerly known as the Apache Group, the ASF was incorporated in 1999 as a membership-based, not-for-profit corporation in order to ensure that the Apache projects continue to exist beyond the participation of individual volunteers. Individuals who have demonstrated a commitment to collaborative open-source software development, through sustained participation and contributions within the Foundation's projects, are eligible for membership in the ASF. An individual is awarded membership after nomination and approval by a majority of the existing ASF members. Thus, the ASF is governed by the community it most directly serves -- the people collaborating within its projects.
+How are the ASF and Apache projects governed?
+
+The ASF members periodically elect a Board of Directors to manage the organizational affairs of the Foundation, as accorded by the ASF Bylaws. The Board, in turn, appoints a number of officers to oversee the day-to-day operations of the Foundation. A number of public records of our operation are made available to the community. A more detailed explanation of How the ASF works in terms of day to day operations is available, and the Apache Community Development project's goal is to help newcomers learn more about the Apache Software Foundation.
+
+Individual Apache projects are in turn governed directly by Project Management Committees (PMC) made up of individuals who have shown merit and leadership within those projects. There are detailed descriptions of ASF and project governance models.
+
+
+

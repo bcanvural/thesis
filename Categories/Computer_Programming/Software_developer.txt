@@ -1,0 +1,31 @@
+A software developer is a person concerned with facets of the software development process, including the research, design, programming, and testing of computer software.
+
+Other job titles which are often used with similar meanings are programmer, software analyst, and software engineer. According to developer Eric Sink, the differences between system design, software development and programming are more apparent. Already in the current market place there can be found a segregation between programmers and developers,[dubious – discuss] being that one who implements is not the same as the one who designs the class structure or hierarchy. Even more so that developers become systems architects, those who design the multi-leveled architecture or component interactions of a large software system.[1] (see also Debate over who is a software engineer)
+
+In a large company, there may be employees whose sole responsibility consists of only one of the phases above. In smaller development environments, a few people or even a single individual might handle the complete process.
+
+Contents
+
+    1 History
+    2 See also
+    3 References
+    4 External links
+
+History
+
+The word "software" was coined as a prank as early as 1953, but did not appear in print until the 1960s.[2] Before this time, computers were programmed either by customers, or the few commercial computer vendors of the time, such as UNIVAC and IBM. The first company founded to provide software products and services was Computer Usage Company in 1955.[3]
+
+The software industry expanded in the early 1960s, almost immediately after computers were first sold in mass-produced quantities. Universities, government, and business customers created a demand for software. Many of these programs were written in-house by full-time staff programmers. Some were distributed freely between users of a particular machine for no charge. Others were done on a commercial basis, and other firms such as Computer Sciences Corporation (founded in 1959) started to grow. The computer/hardware makers started bundling operating systems, systems software and programming environments with their machines.[citation needed]
+
+When Digital Equipment Corporation (DEC) brought a relatively low-priced microcomputer to market, it brought computing within the reach of many more companies and universities worldwide, and it spawned great innovation in terms of new, powerful programming languages and methodologies. New software was built for microcomputers, so other manufacturers including IBM, followed DEC's example quickly, resulting in the IBM AS/400 amongst others.[citation needed]
+
+The industry expanded greatly with the rise of the personal computer ("PC") in the mid-1970s, which brought computing to the desktop of the office worker. In the following years, it also created a growing market for games, applications, and utilities. DOS, Microsoft's first operating system product, was the dominant operating system at the time.[4]
+
+In the early years of the 21st century, another successful business model has arisen for hosted software, called software-as-a-service, or SaaS; this was at least the third time[citation needed] this model had been attempted. From the point of view of producers of some proprietary software, SaaS reduces the concerns about unauthorized copying, since it can only be accessed through the Web, and by definition no client software is loaded onto the end user's PC.[citation needed] By 2014 the role of cloud developer had been defined; in this context, one definition of a "developer" in general was published:[5]
+
+    Developers make software for the world to use. The job of a developer is to crank out code -- fresh code for new products, code fixes for maintenance, code for business logic, and code for supporting libraries.
+
+See also
+
+    Bus factor
+

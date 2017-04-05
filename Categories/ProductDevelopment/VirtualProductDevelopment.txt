@@ -1,0 +1,12 @@
+Virtual product development (VPD) is the practice of developing and prototyping products in a completely digital 2D/3D environment. VPD has four main components:
+
+    virtual product design (3D shape, 2D graphics/copy)
+    virtual product simulation (drop test, crush test, etc.)
+    virtual product staging (retail space planning, consumer research and behavior analysis)
+    digital manufacturing (process planning, assembly/filling virtualization, plant design).
+
+VPD typically takes place in a collaborative, web-based environment that brings together designers, customers/consumers, and value chain partners around a single source of real-time product “truth.” VPD enables practitioners to arrive at the right idea more quickly, and to accurately predict its performance in both manufacturing and retail settings, ultimately minimizing time to value, market failure potential, and product development costs.
+
+Virtual Process Planning is a relatively new concept for manufacturing companies, although the concept has been in use for the construction industry for several years. BIM (Building Information Modeling) is the system used by many construction, architectural and contracting firms. The detail and scheduling aspects are some of the more valuable aspects of the system. By utilizing Virtual Process Planning, the entire production process can be designed to both maximize efficiency and avoid the trial and error method employed by most manufacturers.
+
+Various software exists with differing levels of information. The placement of work stations, inventory, personnel and equipment can be valuable for space planning. The interaction of the previously mentioned can also be investigated, allowing the user to identify potential issues from safety, quality and ergonomic standpoints.

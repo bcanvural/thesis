@@ -1,0 +1,296 @@
+Microsoft SQL Server is a relational database management system developed by Microsoft. As a database server, it is a software product with the primary function of storing and retrieving data as requested by other software applications which may run either on the same computer or on another computer across a network (including the Internet).
+
+Microsoft markets at least a dozen different editions of Microsoft SQL Server, aimed at different audiences and for workloads ranging from small single-machine applications to large Internet-facing applications with many concurrent users.
+
+Contents
+
+    1 History
+        1.1 Genesis
+        1.2 SQL Server 2005
+        1.3 SQL Server 2008
+        1.4 SQL Server 2008 R2
+        1.5 SQL Server 2012
+        1.6 SQL Server 2014
+        1.7 SQL Server 2016
+    2 Editions
+        2.1 Mainstream editions
+        2.2 Specialized editions
+        2.3 Discontinued editions
+    3 Architecture
+    4 Data storage
+        4.1 Buffer management
+        4.2 Concurrency and locking
+    5 Data retrieval and programmability
+        5.1 T-SQL
+        5.2 SQL Native Client (aka SNAC)
+        5.3 SQL CLR
+    6 Services
+        6.1 Service Broker
+        6.2 Replication Services
+        6.3 Analysis Services
+        6.4 Reporting Services
+        6.5 Notification Services
+        6.6 Integration Services
+        6.7 Full Text Search Service
+        6.8 SQLCMD
+        6.9 Visual Studio
+        6.10 SQL Server Management Studio
+        6.11 Business Intelligence Development Studio
+    7 See also
+    8 References
+    9 Further reading
+    10 External links
+
+History
+Genesis
+SQL Server release history Version 	Year 	Release name 	Code name 	Internal version
+1.0 (OS/2) 	1989 	SQL Server 1.0 (16 bit) 	Ashton-Tate / Microsoft SQL Server 	-
+1.1 (OS/2) 	1991 	SQL Server 1.1 (16 bit) 	- 	-
+4.2A (OS/2) 	1992 	SQL Server 4.2A (16 bit) 	- 	-
+4.2B (OS/2) 	1993 	SQL Server 4.2B (16 bit) 	- 	-
+4.21a (WinNT) 	1993 	SQL Server 4.21a 	SQLNT 	-
+6.0 	1995 	SQL Server 6.0 	SQL95 	-
+6.5 	1996 	SQL Server 6.5 	Hydra 	-
+7.0 	1998 	SQL Server 7.0 	Sphinx 	515
+- 	1999 	SQL Server 7.0 OLAP Tools 	Palato mania 	-
+8.0 	2000 	SQL Server 2000 	Shiloh 	539
+8.0 	2003 	SQL Server 2000 64-bit Edition 	Liberty 	539
+9.0 	2005 	SQL Server 2005 	Yukon 	611/612
+10.0 	2008 	SQL Server 2008 	Katmai 	661
+10.25 	2010 	Azure SQL Database 	Cloud Database or CloudDB 	-
+10.50 	2010 	SQL Server 2008 R2 	Kilimanjaro (aka KJ) 	665
+11.0 	2012 	SQL Server 2012 	Denali 	706
+12.0 	2014 	SQL Server 2014 	SQL14 	782
+13.0 	2016 	SQL Server 2016 	- 	852
+Old version
+Older version, still supported
+Latest version
+Latest preview version
+
+In 1988 Microsoft joined Ashton-Tate and Sybase to create a variant of Sybase SQL Server for IBM OS/2 (then developed jointly with Microsoft), which was released the following year.[4] This was the first version of Microsoft SQL Server, and served as Microsoft's entry to the enterprise-level database market, competing against Oracle, IBM, and later, Sybase. SQL Server 4.2 was shipped in 1992, bundled with OS/2 version 1.3, followed by version 4.21 for Windows NT, released alongside Windows NT 3.1. SQL Server 6.0 was the first version designed for NT, and did not include any direction from Sybase.
+
+About the time Windows NT was released in July 1993, Sybase and Microsoft parted ways and each pursued its own design and marketing schemes. Microsoft negotiated exclusive rights to all versions of SQL Server written for Microsoft operating systems. (In 1996 Sybase changed the name of its product to Adaptive Server Enterprise to avoid confusion with Microsoft SQL Server.) Until 1994, Microsoft's SQL Server carried three Sybase copyright notices as an indication of its origin.
+
+SQL Server 7.0 and SQL Server 2000 included modifications and extensions to the Sybase code base, adding support for the IA-64 architecture. By SQL Server 2005 the legacy Sybase code had been completely rewritten.[5]
+
+Since the release of SQL Server 2000, advances have been made in performance, the client IDE tools, and several complementary systems that are packaged with SQL Server 2005. These include:
+
+    an extract-transform-load (ETL) tool (SQL Server Integration Services or SSIS)
+    a Reporting Server
+    an OLAP and data mining server (Analysis Services)
+    several messaging technologies, specifically Service Broker and Notification Services
+
+SQL Server 2005
+
+SQL Server 2005 (formerly codenamed "Yukon") released in November 2005. It included native support for managing XML data, in addition to relational data. For this purpose, it defined an xml data type that could be used either as a data type in database columns or as literals in queries. XML columns can be associated with XSD schemas; XML data being stored is verified against the schema. XML is converted to an internal binary data type before being stored in the database. Specialized indexing methods were made available for XML data. XML data is queried using XQuery; SQL Server 2005 added some extensions to the T-SQL language to allow embedding XQuery queries in T-SQL. In addition, it also defines a new extension to XQuery, called XML DML, that allows query-based modifications to XML data. SQL Server 2005 also allows a database server to be exposed over web services using Tabular Data Stream (TDS) packets encapsulated within SOAP (protocol) requests. When the data is accessed over web services, results are returned as XML.[6]
+
+Common Language Runtime (CLR) integration was introduced with this version, enabling one to write SQL code as Managed Code by the CLR. For relational data, T-SQL has been augmented with error handling features (try/catch) and support for recursive queries with CTEs (Common Table Expressions). SQL Server 2005 has also been enhanced with new indexing algorithms, syntax and better error recovery systems. Data pages are checksummed for better error resiliency, and optimistic concurrency support has been added for better performance. Permissions and access control have been made more granular and the query processor handles concurrent execution of queries in a more efficient way. Partitions on tables and indexes are supported natively, so scaling out a database onto a cluster is easier. SQL CLR was introduced with SQL Server 2005 to let it integrate with the .NET Framework.[7]
+
+SQL Server 2005 introduced Multi-Version Concurrency Control (MVCC). User facing features include new transaction isolation level called SNAPSHOT and a variation of the READ COMMITTED isolation level based on statement-level data snapshots.
+
+SQL Server 2005 introduced "MARS" (Multiple Active Results Sets), a method of allowing usage of database connections for multiple purposes.[8]
+
+SQL Server 2005 introduced DMVs (Dynamic Management Views), which are specialized views and functions that return server state information that can be used to monitor the health of a server instance, diagnose problems, and tune performance.[9]
+
+Service Pack 1 (SP1) of SQL Server 2005 introduced Database Mirroring, a high availability option that provides redundancy and failover capabilities at the database level.[10] Failover can be performed manually or can be configured for automatic failover. Automatic failover requires a witness partner and an operating mode of synchronous (also known as high-safety or full safety).[11] Database Mirroring was included in the first release of SQL Server 2005 for evaluation purposes only. Prior to SP1, it was not enabled by default, and was not supported by Microsoft.[citation needed]
+
+Extended support for SQL Server 2005 ended on April 12, 2016.
+SQL Server 2008
+
+SQL Server 2008 (formerly codenamed "Katmai")[12][13] was released on August 6, 2008, announced to the SQL Server Special Interest Group at the ESRI 2008 User's Conference on August 6, 2008 by Ed Katibah (Spatial Program Manager at Microsoft), and aims to make data management self-tuning, self organizing, and self maintaining with the development of SQL Server Always On technologies, to provide near-zero downtime. SQL Server 2008 also includes support for structured and semi-structured data, including digital media formats for pictures, audio, video and other multimedia data. In current versions, such multimedia data can be stored as BLOBs (binary large objects), but they are generic bitstreams. Intrinsic awareness of multimedia data will allow specialized functions to be performed on them. According to Paul Flessner, senior Vice President of Server Applications at Microsoft, SQL Server 2008 can be a data storage backend for different varieties of data: XML, email, time/calendar, file, document, spatial, etc. as well as perform search, query, analysis, sharing, and synchronization across all data types.[13]
+
+Other new data types include specialized date and time types and a Spatial data type for location-dependent data.[14] Better support for unstructured and semi-structured data is provided using the new FILESTREAM[15] data type, which can be used to reference any file stored on the file system.[16] Structured data and metadata about the file is stored in SQL Server database, whereas the unstructured component is stored in the file system. Such files can be accessed both via Win32 file handling APIs as well as via SQL Server using T-SQL; doing the latter accesses the file data as a BLOB. Backing up and restoring the database backs up or restores the referenced files as well.[17] SQL Server 2008 also natively supports hierarchical data, and includes T-SQL constructs to directly deal with them, without using recursive queries.[17]
+
+The full-text search functionality has been integrated with the database engine. According to a Microsoft technical article, this simplifies management and improves performance.[18]
+
+Spatial data will be stored in two types. A "Flat Earth" (GEOMETRY or planar) data type represents geospatial data which has been projected from its native, spherical, coordinate system into a plane. A "Round Earth" data type (GEOGRAPHY) uses an ellipsoidal model in which the Earth is defined as a single continuous entity which does not suffer from the singularities such as the international dateline, poles, or map projection zone "edges". Approximately 70 methods are available to represent spatial operations for the Open Geospatial Consortium Simple Features for SQL, Version 1.1.[19]
+
+SQL Server includes better compression features, which also helps in improving scalability.[20] It enhanced the indexing algorithms and introduced the notion of filtered indexes. It also includes Resource Governor that allows reserving resources for certain users or workflows. It also includes capabilities for transparent encryption of data (TDE) as well as compression of backups.[15] SQL Server 2008 supports the ADO.NET Entity Framework and the reporting tools, replication, and data definition will be built around the Entity Data Model.[21] SQL Server Reporting Services will gain charting capabilities from the integration of the data visualization products from Dundas Data Visualization, Inc., which was acquired by Microsoft.[22] On the management side, SQL Server 2008 includes the Declarative Management Framework which allows configuring policies and constraints, on the entire database or certain tables, declaratively.[14] The version of SQL Server Management Studio included with SQL Server 2008 supports IntelliSense for SQL queries against a SQL Server 2008 Database Engine.[23] SQL Server 2008 also makes the databases available via Windows PowerShell providers and management functionality available as Cmdlets, so that the server and all the running instances can be managed from Windows PowerShell.[24]
+
+The final SQL Server 2008 service pack (10.00.6000, Service Pack 4) was released on September 30, 2014.[25]
+SQL Server 2008 R2
+
+SQL Server 2008 R2 (10.50.1600.1, formerly codenamed "Kilimanjaro") was announced at TechEd 2009, and was released to manufacturing on April 21, 2010.[26] SQL Server 2008 R2 adds certain features to SQL Server 2008 including a master data management system branded as Master Data Services, a central management of master data entities and hierarchies. Also Multi Server Management, a centralized console to manage multiple SQL Server 2008 instances and services including relational databases, Reporting Services, Analysis Services & Integration Services.[27]
+
+SQL Server 2008 R2 includes a number of new services,[28] including PowerPivot for Excel and SharePoint, Master Data Services, StreamInsight 
+, Report Builder 3.0, Reporting Services 
+Add-in for SharePoint, a Data-tier function in Visual Studio that enables packaging of tiered databases as part of an application, and a SQL Server Utility named UC (Utility Control Point), part of AMSM (Application and Multi-Server Management) that is used to manage multiple SQL Servers.[29]
+
+The first SQL Server 2008 R2 service pack (10.50.2500, Service Pack 1) was released on July 11, 2011.[30]
+
+The second SQL Server 2008 R2 service pack (10.50.4000, Service Pack 2) was released on July 26, 2012.[31]
+
+The final SQL Server 2008 R2 service pack (10.50.6000, Service Pack 3) was released on September 26, 2014.[32]
+SQL Server 2012
+
+At the 2011 Professional Association for SQL Server (PASS) summit on October 11, Microsoft announced that the next major version of SQL Server (codenamed "Denali"), would be SQL Server 2012. It was released to manufacturing on March 6, 2012.[33] SQL Server 2012 Service Pack 1 was released to manufacturing on November 9, 2012, and Service Pack 2 was released to manufacturing on June 10, 2014.
+
+It was announced to be the last version to natively support OLE DB and instead to prefer ODBC for native connectivity.[34]
+
+SQL Server 2012's new features and enhancements include Always On SQL Server Failover Cluster Instances and Availability Groups which provides a set of options to improve database availability,[35] Contained Databases which simplify the moving of databases between instances, new and modified Dynamic Management Views and Functions,[36] programmability enhancements including new spatial features,[37] metadata discovery, sequence objects and the THROW statement,[38] performance enhancements such as ColumnStore Indexes as well as improvements to OnLine and partition level operations and security enhancements including provisioning during setup, new permissions, improved role management, and default schema assignment for groups.[39][40]
+SQL Server 2014
+
+SQL Server 2014 was released to manufacturing on March 18, 2014, and released to the general public on April 1, 2014 and the build number was 12.0.2000.8 at release.[41] Until November 2013 there were two CTP revisions, CTP1 and CTP2.[42] SQL Server 2014 provides a new in-memory capability for tables that can fit entirely in memory (also known as Hekaton). Whilst small tables may be entirely resident in memory in all versions of SQL Server, they also may reside on disk, so work is involved in reserving RAM, writing evicted pages to disk, loading new pages from disk, locking the pages in RAM while they are being operated on, and many other tasks. By treating a table as guaranteed to be entirely resident in memory much of the 'plumbing' of disk-based databases can be avoided.[43]
+
+For disk-based SQL Server applications, it also provides the SSD Buffer Pool Extension, which can improve performance by cache between DRAM and spinning media.
+
+SQL Server 2014 also enhances the Always On (HADR) solution by increasing the readable secondaries count and sustaining read operations upon secondary-primary disconnections, and it provides new hybrid disaster recovery and backup solutions with Microsoft Azure, enabling customers to use existing skills with the on-premises version of SQL Server to take advantage of Microsoft's global datacenters. In addition, it takes advantage of new Windows Server 2012 and Windows Server 2012 R2 capabilities for database application scalability in a physical or virtual environment.
+
+Microsoft provides three versions of SQL Server 2014 for downloading: the one that runs on Microsoft Azure, the SQL Server 2014 CAB, and SQL Server 2014 ISO.[44]
+
+SQL Server 2014 SP1, consisting primarily of bugfixes, was released on May 15, 2015.[45]
+SQL Server 2016
+
+Microsoft SQL Server 2016 is the most recent version available. The official General Availability (GA) release date for SQL Server 2016 was June 1, 2016. The RTM version is 13.0.1601.5.
+Editions
+
+Microsoft makes SQL Server available in multiple editions, with different feature sets and targeting different users. These editions are:[46][47]
+Mainstream editions
+
+Datacenter
+    SQL Server 2008 R2 Datacenter is a full-featured edition of SQL Server and is designed for datacenters that need high levels of application support and scalability. It supports 256 logical processors and virtually unlimited memory and comes with StreamInsight Premium edition.[48] The Datacenter edition has been retired in SQL Server 2012; all of its features are available in SQL Server 2012 Enterprise Edition.[49]
+Enterprise
+    SQL Server Enterprise Edition includes both the core database engine and add-on services, with a range of tools for creating and managing a SQL Server cluster. It can manage databases as large as 524 petabytes and address 2 terabytes of memory and supports 8 physical processors. SQL Server 2012 Enterprise Edition supports 160 physical processors.[50]
+Standard
+    SQL Server Standard edition includes the core database engine, along with the stand-alone services. It differs from Enterprise edition in that it supports fewer active instances (number of nodes in a cluster) and does not include some high-availability functions such as hot-add memory (allowing memory to be added while the server is still running), and parallel indexes.
+Web
+    SQL Server Web Edition is a low-TCO option for Web hosting.
+Business Intelligence
+    Introduced in SQL Server 2012 and focusing on Self Service and Corporate Business Intelligence. It includes the Standard Edition capabilities and Business Intelligence tools: PowerPivot, Power View, the BI Semantic Model, Master Data Services, Data Quality Services and xVelocity in-memory analytics.[51]
+Workgroup
+    SQL Server Workgroup Edition includes the core database functionality but does not include the additional services. Note that this edition has been retired in SQL Server 2012.[49]
+Express
+    SQL Server Express Edition is a scaled down, free edition of SQL Server, which includes the core database engine. While there are no limitations on the number of databases or users supported, it is limited to using one processor, 1 GB memory and 10 GB database files (4 GB database files prior to SQL Server Express 2008 R2).[52] It is intended as a replacement for MSDE. Two additional editions provide a superset of features not in the original Express Edition. The first is SQL Server Express with Tools, which includes SQL Server Management Studio Basic. SQL Server Express with Advanced Services adds full-text search capability and reporting services.[53]
+
+Specialized editions
+
+Azure
+    Azure SQL Database is the cloud-based version of Microsoft SQL Server, presented as a platform as a service offering on Microsoft Azure.
+Compact (SQL CE)
+    The compact edition is an embedded database engine. Unlike the other editions of SQL Server, the SQL CE engine is based on SQL Mobile (initially designed for use with hand-held devices) and does not share the same binaries. Due to its small size (1 MB DLL footprint), it has a markedly reduced feature set compared to the other editions. For example, it supports a subset of the standard data types, does not support stored procedures or Views or multiple-statement batches (among other limitations). It is limited to 4 GB maximum database size and cannot be run as a Windows service, Compact Edition must be hosted by the application using it. The 3.5 version includes support for ADO.NET Synchronization Services. SQL CE does not support ODBC connectivity, unlike SQL Server proper.
+Developer
+    SQL Server Developer Edition includes the same features as SQL Server 2012-2016 Enterprise Edition, but is limited by the license to be only used as a development and test system, and not as production server. This edition is available to download by students free of charge as a part of Microsoft's DreamSpark program.[54]
+Embedded (SSEE)
+    SQL Server 2005 Embedded Edition is a specially configured named instance of the SQL Server Express database engine which can be accessed only by certain Windows Services.
+Evaluation
+    SQL Server Evaluation Edition, also known as the Trial Edition, has all the features of the Enterprise Edition, but is limited to 180 days, after which the tools will continue to run, but the server services will stop.[55]
+Fast Track
+    SQL Server Fast Track is specifically for enterprise-scale data warehousing storage and business intelligence processing, and runs on reference-architecture hardware that is optimized for Fast Track.[56]
+LocalDB
+    Introduced in SQL Server Express 2012, LocalDB is a minimal, on-demand, version of SQL Server that is designed for application developers.[57] It can also be used as an embedded database.[58]
+Analytics Platform System (APS)
+    Formerly Parallel Data Warehouse (PDW) A massively parallel processing (MPP) SQL Server appliance optimized for large-scale data warehousing such as hundreds of terabytes.[59]
+Datawarehouse Appliance Edition
+    Pre-installed and configured as part of an appliance in partnership with Dell & HP base on the Fast Track architecture. This edition does not include SQL Server Integration Services, Analysis Services, or Reporting Services.
+
+Discontinued editions
+
+MSDE
+    Microsoft SQL Server Data Engine / Desktop Engine / Desktop Edition. SQL Server 7 and SQL Server 2000. Intended for use as an application component, it did not include GUI management tools. Later, Microsoft also made available a web admin tool. Included with some versions of Microsoft Access, Microsoft development tools, and other editions of SQL Server.[60]
+Personal Edition
+    SQL Server 2000. Had workload or connection limits like MSDE, but no database size limit. Includes standard management tools. Intended for use as a mobile / disconnected proxy, licensed for use with SQL Server 2000 Standard edition.[60]
+
+Architecture
+
+The protocol layer implements the external interface to SQL Server. All operations that can be invoked on SQL Server are communicated to it via a Microsoft-defined format, called Tabular Data Stream (TDS). TDS is an application layer protocol, used to transfer data between a database server and a client. Initially designed and developed by Sybase Inc. for their Sybase SQL Server relational database engine in 1984, and later by Microsoft in Microsoft SQL Server, TDS packets can be encased in other physical transport dependent protocols, including TCP/IP, named pipes, and shared memory. Consequently, access to SQL Server is available over these protocols. In addition, the SQL Server API is also exposed over web services.[47]
+Data storage
+
+Data storage is a database, which is a collection of tables with typed columns. SQL Server supports different data types, including primary types such as Integer, Float, Decimal, Char (including character strings), Varchar (variable length character strings), binary (for unstructured blobs of data), Text (for textual data) among others. The rounding of floats to integers uses either Symmetric Arithmetic Rounding or Symmetric Round Down (Fix) depending on arguments: SELECT Round(2.5, 0) gives 3.
+
+Microsoft SQL Server also allows user-defined composite types (UDTs) to be defined and used. It also makes server statistics available as virtual tables and views (called Dynamic Management Views or DMVs). In addition to tables, a database can also contain other objects including views, stored procedures, indexes and constraints, along with a transaction log. A SQL Server database can contain a maximum of 231 objects, and can span multiple OS-level files with a maximum file size of 260 bytes (1 exabyte).[47] The data in the database are stored in primary data files with an extension .mdf. Secondary data files, identified with a .ndf extension, are used to allow the data of a single database to be spread across more than one file, and optionally across more than one file system. Log files are identified with the .ldf extension.[47]
+
+Storage space allocated to a database is divided into sequentially numbered pages, each 8 KB in size. A page is the basic unit of I/O for SQL Server operations. A page is marked with a 96-byte header which stores metadata about the page including the page number, page type, free space on the page and the ID of the object that owns it. Page type defines the data contained in the page: data stored in the database, index, allocation map which holds information about how pages are allocated to tables and indexes, change map which holds information about the changes made to other pages since last backup or logging, or contain large data types such as image or text. While page is the basic unit of an I/O operation, space is actually managed in terms of an extent which consists of 8 pages. A database object can either span all 8 pages in an extent ("uniform extent") or share an extent with up to 7 more objects ("mixed extent"). A row in a database table cannot span more than one page, so is limited to 8 KB in size. However, if the data exceeds 8 KB and the row contains Varchar or Varbinary data, the data in those columns are moved to a new page (or possibly a sequence of pages, called an Allocation unit) and replaced with a pointer to the data.[61]
+
+For physical storage of a table, its rows are divided into a series of partitions (numbered 1 to n). The partition size is user defined; by default all rows are in a single partition. A table is split into multiple partitions in order to spread a database over a computer cluster. Rows in each partition are stored in either B-tree or heap structure. If the table has an associated, clustered index to allow fast retrieval of rows, the rows are stored in-order according to their index values, with a B-tree providing the index. The data is in the leaf node of the leaves, and other nodes storing the index values for the leaf data reachable from the respective nodes. If the index is non-clustered, the rows are not sorted according to the index keys. An indexed view has the same storage structure as an indexed table. A table without a clustered index is stored in an unordered heap structure. However, the table may have non-clustered indices to allow fast retrieval of rows. In some situations the heap structure has performance advantages over the clustered structure. Both heaps and B-trees can span multiple allocation units.[62]
+Buffer management
+
+SQL Server buffers pages in RAM to minimize disc I/O. Any 8 KB page can be buffered in-memory, and the set of all pages currently buffered is called the buffer cache. The amount of memory available to SQL Server decides how many pages will be cached in memory. The buffer cache is managed by the Buffer Manager. Either reading from or writing to any page copies it to the buffer cache. Subsequent reads or writes are redirected to the in-memory copy, rather than the on-disc version. The page is updated on the disc by the Buffer Manager only if the in-memory cache has not been referenced for some time. While writing pages back to disc, asynchronous I/O is used whereby the I/O operation is done in a background thread so that other operations do not have to wait for the I/O operation to complete. Each page is written along with its checksum when it is written. When reading the page back, its checksum is computed again and matched with the stored version to ensure the page has not been damaged or tampered with in the meantime.[63]
+Concurrency and locking
+
+SQL Server allows multiple clients to use the same database concurrently. As such, it needs to control concurrent access to shared data, to ensure data integrity—when multiple clients update the same data, or clients attempt to read data that is in the process of being changed by another client. SQL Server provides two modes of concurrency control: pessimistic concurrency and optimistic concurrency. When pessimistic concurrency control is being used, SQL Server controls concurrent access by using locks. Locks can be either shared or exclusive. Exclusive lock grants the user exclusive access to the data—no other user can access the data as long as the lock is held. Shared locks are used when some data is being read—multiple users can read from data locked with a shared lock, but not acquire an exclusive lock. The latter would have to wait for all shared locks to be released. Locks can be applied on different levels of granularity—on entire tables, pages, or even on a per-row basis on tables. For indexes, it can either be on the entire index or on index leaves. The level of granularity to be used is defined on a per-database basis by the database administrator. While a fine grained locking system allows more users to use the table or index simultaneously, it requires more resources. So it does not automatically turn into higher performing solution. SQL Server also includes two more lightweight mutual exclusion solutions—latches and spinlocks—which are less robust than locks but are less resource intensive. SQL Server uses them for DMVs and other resources that are usually not busy. SQL Server also monitors all worker threads that acquire locks to ensure that they do not end up in deadlocks—in case they do, SQL Server takes remedial measures, which in many cases is to kill one of the threads entangled in a deadlock and rollback the transaction it started.[47] To implement locking, SQL Server contains the Lock Manager. The Lock Manager maintains an in-memory table that manages the database objects and locks, if any, on them along with other metadata about the lock. Access to any shared object is mediated by the lock manager, which either grants access to the resource or blocks it.
+
+SQL Server also provides the optimistic concurrency control mechanism, which is similar to the multiversion concurrency control used in other databases. The mechanism allows a new version of a row to be created whenever the row is updated, as opposed to overwriting the row, i.e., a row is additionally identified by the ID of the transaction that created the version of the row. Both the old as well as the new versions of the row are stored and maintained, though the old versions are moved out of the database into a system database identified as Tempdb. When a row is in the process of being updated, any other requests are not blocked (unlike locking) but are executed on the older version of the row. If the other request is an update statement, it will result in two different versions of the rows—both of them will be stored by the database, identified by their respective transaction IDs.[47]
+Data retrieval and programmability
+
+The main mode of retrieving data from a SQL Server database is querying for it. The query is expressed using a variant of SQL called T-SQL, a dialect Microsoft SQL Server shares with Sybase SQL Server due to its legacy. The query declaratively specifies what is to be retrieved. It is processed by the query processor, which figures out the sequence of steps that will be necessary to retrieve the requested data. The sequence of actions necessary to execute a query is called a query plan. There might be multiple ways to process the same query. For example, for a query that contains a join statement and a select statement, executing join on both the tables and then executing select on the results would give the same result as selecting from each table and then executing the join, but result in different execution plans. In such case, SQL Server chooses the plan that is expected to yield the results in the shortest possible time. This is called query optimization and is performed by the query processor itself.[47]
+
+SQL Server includes a cost-based query optimizer which tries to optimize on the cost, in terms of the resources it will take to execute the query. Given a query, then the query optimizer looks at the database schema, the database statistics and the system load at that time. It then decides which sequence to access the tables referred in the query, which sequence to execute the operations and what access method to be used to access the tables. For example, if the table has an associated index, whether the index should be used or not: if the index is on a column which is not unique for most of the columns (low "selectivity"), it might not be worthwhile to use the index to access the data. Finally, it decides whether to execute the query concurrently or not. While a concurrent execution is more costly in terms of total processor time, because the execution is actually split to different processors might mean it will execute faster. Once a query plan is generated for a query, it is temporarily cached. For further invocations of the same query, the cached plan is used. Unused plans are discarded after some time.[47][64]
+
+SQL Server also allows stored procedures to be defined. Stored procedures are parameterized T-SQL queries, that are stored in the server itself (and not issued by the client application as is the case with general queries). Stored procedures can accept values sent by the client as input parameters, and send back results as output parameters. They can call defined functions, and other stored procedures, including the same stored procedure (up to a set number of times). They can be selectively provided access to. Unlike other queries, stored procedures have an associated name, which is used at runtime to resolve into the actual queries. Also because the code need not be sent from the client every time (as it can be accessed by name), it reduces network traffic and somewhat improves performance.[65] Execution plans for stored procedures are also cached as necessary.
+T-SQL
+Main article: T-SQL
+
+T-SQL (Transact-SQL) is the secondary means of programming and managing SQL Server. It exposes keywords for the operations that can be performed on SQL Server, including creating and altering database schemas, entering and editing data in the database as well as monitoring and managing the server itself. Client applications that consume data or manage the server will leverage SQL Server functionality by sending T-SQL queries and statements which are then processed by the server and results (or errors) returned to the client application. SQL Server allows it to be managed using T-SQL. For this it exposes read-only tables from which server statistics can be read. Management functionality is exposed via system-defined stored procedures which can be invoked from T-SQL queries to perform the management operation. It is also possible to create linked Servers using T-SQL. Linked servers allow a single query to process operations performed on multiple servers.[66]
+SQL Native Client (aka SNAC)
+
+SQL Native Client is the native client side data access library for Microsoft SQL Server, version 2005 onwards. It natively implements support for the SQL Server features including the Tabular Data Stream implementation, support for mirrored SQL Server databases, full support for all data types supported by SQL Server, asynchronous operations, query notifications, encryption support, as well as receiving multiple result sets in a single database session. SQL Native Client is used under the hood by SQL Server plug-ins for other data access technologies, including ADO or OLE DB. The SQL Native Client can also be directly used, bypassing the generic data access layers.[67]
+
+On November 28, 2011, a preview release of the SQL Server ODBC driver for Linux was released.[68]
+SQL CLR
+Main article: SQL CLR
+
+Microsoft SQL Server 2005 includes a component named SQL CLR ("Common Language Runtime") via which it integrates with .NET Framework. Unlike most other applications that use .NET Framework, SQL Server itself hosts the .NET Framework runtime, i.e., memory, threading and resource management requirements of .NET Framework are satisfied by SQLOS itself, rather than the underlying Windows operating system. SQLOS provides deadlock detection and resolution services for .NET code as well. With SQL CLR, stored procedures and triggers can be written in any managed .NET language, including C# and VB.NET. Managed code can also be used to define UDT's (user defined types), which can persist in the database. Managed code is compiled to CLI assemblies and after being verified for type safety, registered at the database. After that, they can be invoked like any other procedure.[69] However, only a subset of the Base Class Library is available, when running code under SQL CLR. Most APIs relating to user interface functionality are not available.[69]
+
+When writing code for SQL CLR, data stored in SQL Server databases can be accessed using the ADO.NET APIs like any other managed application that accesses SQL Server data. However, doing that creates a new database session, different from the one in which the code is executing. To avoid this, SQL Server provides some enhancements to the ADO.NET provider that allows the connection to be redirected to the same session which already hosts the running code. Such connections are called context connections and are set by setting context connection parameter to true in the connection string. SQL Server also provides several other enhancements to the ADO.NET API, including classes to work with tabular data or a single row of data as well as classes to work with internal metadata about the data stored in the database. It also provides access to the XML features in SQL Server, including XQuery support. These enhancements are also available in T-SQL Procedures in consequence of the introduction of the new XML Datatype (query,value,nodes functions).[70]
+Services
+
+SQL Server also includes an assortment of add-on services. While these are not essential for the operation of the database system, they provide value added services on top of the core database management system. These services either run as a part of some SQL Server component or out-of-process as Windows Service and presents their own API to control and interact with them.
+Service Broker
+
+Used inside an instance, programming environment. For cross instance applications, Service Broker communicates over TCP/IP and allows the different components to be synchronized together, via exchange of messages. The Service Broker, which runs as a part of the database engine, provides a reliable messaging and message queuing platform for SQL Server applications.[71]
+Replication Services
+
+SQL Server Replication Services are used by SQL Server to replicate and synchronize database objects, either in entirety or a subset of the objects present, across replication agents, which might be other database servers across the network, or database caches on the client side. Lulla follows a publisher/subscriber model, i.e., the changes are sent out by one database server ("publisher") and are received by others ("subscribers"). SQL Server supports three different types of replication:[72]
+
+Transaction replication
+    Each transaction made to the publisher database (master database) is synced out to subscribers, who update their databases with the transaction. Transactional replication synchronizes databases in near real time.[73]
+Merge replication
+    Changes made at both the publisher and subscriber databases are tracked, and periodically the changes are synchronized bi-directionally between the publisher and the subscribers. If the same data has been modified differently in both the publisher and the subscriber databases, synchronization will result in a conflict which has to be resolved, either manually or by using pre-defined policies. rowguid needs to be configured on a column if merge replication is configured.[74]
+Snapshot replication
+    Snapshot replication publishes a copy of the entire database (the then-snapshot of the data) and replicates out to the subscribers. Further changes to the snapshot are not tracked.[75]
+
+Analysis Services
+Main article: SQL Server Analysis Services
+
+SQL Server Analysis Services adds OLAP and data mining capabilities for SQL Server databases. The OLAP engine supports MOLAP, ROLAP and HOLAP storage modes for data. Analysis Services supports the XML for Analysis standard as the underlying communication protocol. The cube data can be accessed using MDX and LINQ[76] queries.[77] Data mining specific functionality is exposed via the DMX query language. Analysis Services includes various algorithms—Decision trees, clustering algorithm, Naive Bayes algorithm, time series analysis, sequence clustering algorithm, linear and logistic regression analysis, and neural networks—for use in data mining.[78]
+Reporting Services
+Main article: SQL Server Reporting Services
+
+SQL Server Reporting Services is a report generation environment for data gathered from SQL Server databases. It is administered via a web interface. Reporting services features a web services interface to support the development of custom reporting applications. Reports are created as RDL files.[79]
+
+Reports can be designed using recent versions of Microsoft Visual Studio (Visual Studio.NET 2003, 2005, and 2008)[80] with Business Intelligence Development Studio, installed or with the included Report Builder. Once created, RDL files can be rendered in a variety of formats,[81][82] including Excel, PDF, CSV, XML, BMP, EMF, GIF, JPEG, PNG, and TIFF,[83] and HTML Web Archive.
+Notification Services
+Main article: SQL Server Notification Services
+
+Originally introduced as a post-release add-on for SQL Server 2000,[84] Notification Services was bundled as part of the Microsoft SQL Server platform for the first and only time with SQL Server 2005.[85][86] SQL Server Notification Services is a mechanism for generating data-driven notifications, which are sent to Notification Services subscribers. A subscriber registers for a specific event or transaction (which is registered on the database server as a trigger); when the event occurs, Notification Services can use one of three methods to send a message to the subscriber informing about the occurrence of the event. These methods include SMTP, SOAP, or by writing to a file in the filesystem.[87] Notification Services was discontinued by Microsoft with the release of SQL Server 2008 in August 2008, and is no longer an officially supported component of the SQL Server database platform.
+Integration Services
+Main article: SQL Server Integration Services
+
+SQL Server Integration Services (SSIS) provides ETL capabilities for SQL Server for data import, data integration and data warehousing needs. Integration Services includes GUI tools to build workflows such as extracting data from various sources, querying data, transforming data—including aggregation, de-duplication, de-/normalization and merging of data—and then exporting the transformed data into destination databases or files.[88]
+Full Text Search Service
+The SQL Server Full Text Search service architecture
+
+SQL Server Full Text Search service is a specialized indexing and querying service for unstructured text stored in SQL Server databases. The full text search index can be created on any column with character based text data. It allows for words to be searched for in the text columns. While it can be performed with the SQL LIKE operator, using SQL Server Full Text Search service can be more efficient. Full allows for inexact matching of the source string, indicated by a Rank value which can range from 0 to 1000 - a higher rank means a more accurate match. It also allows linguistic matching ("inflectional search"), i.e., linguistic variants of a word (such as a verb in a different tense) will also be a match for a given word (but with a lower rank than an exact match). Proximity searches are also supported, i.e., if the words searched for do not occur in the sequence they are specified in the query but are near each other, they are also considered a match. T-SQL exposes special operators that can be used to access the FTS capabilities.[89][90]
+
+The Full Text Search engine is divided into two processes: the Filter Daemon process (msftefd.exe) and the Search process (msftesql.exe). These processes interact with the SQL Server. The Search process includes the indexer (that creates the full text indexes) and the full text query processor. The indexer scans through text columns in the database. It can also index through binary columns, and use iFilters to extract meaningful text from the binary blob (for example, when a Microsoft Word document is stored as an unstructured binary file in a database). The iFilters are hosted by the Filter Daemon process. Once the text is extracted, the Filter Daemon process breaks it up into a sequence of words and hands it over to the indexer. The indexer filters out noise words, i.e., words like A, And etc., which occur frequently and are not useful for search. With the remaining words, an inverted index is created, associating each word with the columns they were found in. SQL Server itself includes a Gatherer component that monitors changes to tables and invokes the indexer in case of updates.[91]
+
+When a full text query is received by the SQL Server query processor, it is handed over to the FTS query processor in the Search process. The FTS query processor breaks up the query into the constituent words, filters out the noise words, and uses an inbuilt thesaurus to find out the linguistic variants for each word. The words are then queried against the inverted index and a rank of their accurateness is computed. The results are returned to the client via the SQL Server process.[91]
+SQLCMD
+
+SQLCMD is a command line application that comes with Microsoft SQL Server, and exposes the management features of SQL Server. It allows SQL queries to be written and executed from the command prompt. It can also act as a scripting language to create and run a set of SQL statements as a script. Such scripts are stored as a .sql file, and are used either for management of databases or to create the database schema during the deployment of a database.
+
+SQLCMD was introduced with SQL Server 2005 and this continues with SQL Server 2012 and 2014. Its predecessor for earlier versions was OSQL and ISQL, which is functionally equivalent as it pertains to TSQL execution, and many of the command line parameters are identical, although SQLCMD adds extra versatility.
+Visual Studio
+Main article: Microsoft Visual Studio
+
+Microsoft Visual Studio includes native support for data programming with Microsoft SQL Server. It can be used to write and debug code to be executed by SQL CLR. It also includes a data designer that can be used to graphically create, view or edit database schemas. Queries can be created either visually or using code. SSMS 2008 onwards, provides intellisense for SQL queries as well.
+SQL Server Management Studio
+Main article: SQL Server Management Studio
+
+SQL Server Management Studio is a GUI tool included with SQL Server 2005 and later for configuring, managing, and administering all components within Microsoft SQL Server. The tool includes both script editors and graphical tools that work with objects and features of the server.[92] SQL Server Management Studio replaces Enterprise Manager as the primary management interface for Microsoft SQL Server since SQL Server 2005. A version of SQL Server Management Studio is also available for SQL Server Express Edition, for which it is known as SQL Server Management Studio Express (SSMSE).[93]
+
+A central feature of SQL Server Management Studio is the Object Explorer, which allows the user to browse, select, and act upon any of the objects within the server.[94] It can be used to visually observe and analyze query plans and optimize the database performance, among others.[95] SQL Server Management Studio can also be used to create a new database, alter any existing database schema by adding or modifying tables and indexes, or analyze performance. It includes the query windows which provide a GUI based interface to write and execute queries.[47]
+Business Intelligence Development Studio
+Main article: Business Intelligence Development Studio
+
+Business Intelligence Development Studio (BIDS) is the IDE from Microsoft used for developing data analysis and Business Intelligence solutions utilizing the Microsoft SQL Server Analysis Services, Reporting Services and Integration Services. It is based on the Microsoft Visual Studio development environment but is customized with the SQL Server services-specific extensions and project types, including tools, controls and projects for reports (using Reporting Services), Cubes and data mining structures (using Analysis Services).[96] For SQL Server 2012 and later, this IDE has been renamed SQL Server Data Tools (SSDT).

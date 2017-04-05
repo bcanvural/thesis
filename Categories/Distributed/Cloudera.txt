@@ -1,0 +1,72 @@
+Cloudera
+Cloudera Inc. is an American-based software company that provides Apache Hadoop-based software, support and services, and training to business customers.
+
+Cloudera's open-source Apache Hadoop distribution, CDH (Cloudera Distribution Including Apache Hadoop), targets enterprise-class deployments of that technology. Cloudera says that more than 50% of its engineering output is donated upstream to the various Apache-licensed open source projects (Apache Hive, Apache Avro, Apache HBase, and so on) that combine to form the Hadoop platform. Cloudera is also a sponsor of the Apache Software Foundation.[2]
+
+
+Three engineers from Google, Yahoo and Facebook (Christophe Bisciglia, Amr Awadallah and Jeff Hammerbacher, respectively) joined with a former Oracle executive (Mike Olson) to form Cloudera in 2008.[3] Olson was the CEO of Sleepycat Software, the creator of the open-source embedded database engine Berkeley DB (acquired by Oracle in 2006). Awadallah was from Yahoo, where he ran one of the first business units using Hadoop for data analysis.[4] At Facebook Hammerbacher used Hadoop for building analytic applications involving massive volumes of user data.[5]
+
+Architect Doug Cutting, also a former chairman of the Apache Software Foundation, authored the open-source Lucene and Nutch search technologies before he wrote the initial Hadoop software in 2004. He designed and managed a Hadoop storage and analysis cluster at Yahoo! before joining Cloudera in 2009. Chief operating officer was Kirk Dunn.[6]
+
+In March 2009, Cloudera announced the availability of Cloudera Distribution Including Apache Hadoop in conjunction with a $5 million investment led by Accel Partners.[7] In 2011, the company raised a further $40 million from Ignition Partners, Accel Partners, Greylock Partners, Meritech Capital Partners, and In-Q-Tel, a venture capital firm with open connections to the CIA.[8]
+
+In June 2013 Tom Reilly became chief executive, although Olson remained as chairman of the board and chief strategist. Reilly was chief executive at ArcSight when it was acquired by Hewlett-Packard in 2010.[9] In March 2014 Cloudera announced a $900 million funding round, led by Intel Capital ($740 million), for that Intel received 18% share in cloudera and Intel dropped its own Hadoop distribution and dedicated 70 Intel engineers to work exclusively on cloudera projects. With additional funds coming from T Rowe Price, Google Ventures and an affiliate of MSD Capital, L.P., the private investment firm for Michael S. Dell. and others.[10]
+
+In January 2012 - Oracle announced exclusive partnership with Cloudera to provide first Big data Appliance powered by Cloudera[11]
+
+In January 2013 - Dell announced a strategic partnership with Cloudera[12]
+
+In March 2013 - Intel invested $740 Million in Cloudera for an 18% investment[13]
+
+In May 2013 - SAS announced a strategic partnership with Cloudera on how to driver predictive analytics with SAS software[14]
+
+In June 2014 - Accenture announced - Data as a platform offering based on Cloudera[15]
+
+In June 2014 - Cloudera acquired Gazzang - this gives Cloudera the most secure Hadoop distribution on the marketplace. This delivers enterprise-grade data encryption and key management, addressing head on the challenges associated with securing and processing sensitive and legally protected data within the Hadoop ecosystem. Thus fulfilling a requirement in myriad compliance regulations like HIPAA-HITECH, PCI-DSS, FERPA and the EU Data Protection Directive.[16]
+
+In October 2014 - Cloudera announces the first PCI compliant hadoop distribution with MasterCard.[17]
+
+In February 2015 - Deloitte announced a strategic alliance with Cloudera on Advanced Analytics[18]
+
+In May 2015 - Capgemini announced SAP HANA - Cloudera Insight driven operations - get more for less with your SAP HANA installation with Cloudera Enterprise[19]
+
+In July 9, 2015 - Cloudera announced partnership with Teradata - Integrated Enterprise ready Appliance for Hadoop[20]
+
+In September 2015 - Cloudera announced Kudu - New Apache Hadoop Storage for fast analytics on fast data[21]
+
+In September 2015 - Cloudera announced RecordService - Fine-grained security enforcement across the Hadoop ecosystem[22]
+
+In September 2015 - Microsoft Azure announced full support of Cloudera Enterprise on Azure[23]
+
+In November 2015 - Cloudera announced that it had reached 1,000 employees.
+
+In Jan 2016 - TCS announced an IoT framework based on Cloudera for sensor data analytics[24]
+
+In Feb 2016 - EMC announces evolution in advanced storage with DSSD support for Cloudera[25]
+
+In March 2016 Cloudera announced onDemand Training. This allows consultants, Big data practitioners to take training at a time that suits their schedule.[26]
+
+In 2016 - Cloudera has expanded their international teams with over 200 people employed in EMEA with staff in over 12 countries in EMEA.
+
+In March 2016 - Cloudera announced it had over 2,100 partners consisting of 450 Software and OEM, 1400 System Integrators and Resellers, 200 Platform and Cloud and 50 Data Systems. This means that your existing investment in ISVs, Hardware and platform partners is maintained with Cloudera. Cloudera has the largest partner eco-systems of all Hadoop Distributions.[1]
+
+Products and services
+Cloudera offers software, services and support in three different bundles:
+
+Cloudera Enterprise includes CDH and an annual subscription license (per node) to Cloudera Manager and technical support. It comes in three editions: Basic, Flex, and Data Hub.
+Cloudera Express includes CDH and a version of Cloudera Manager lacking enterprise features such as rolling upgrades and backup/disaster recovery, LDAP and SNMP integration.
+CDH may be downloaded from Cloudera's website at no charge, but with no technical support nor Cloudera Manager.
+Cloudera Navigator - is the only complete data governance solution for Hadoop, offering critical capabilities such as data discovery, continuous optimization, audit, lineage, metadata management, and policy enforcement. As part of Cloudera Enterprise, Cloudera Navigator is critical to enabling high-performance agile analytics, supporting continuous data architecture optimization, and meeting regulatory compliance requirements.[27]
+Cloudera Navigator Optimizer (beta) - A SaaS based tool to provides instant insights into your workloads and recommends optimization strategies to get the best results with Hadoop.[28]
+Services
+
+Cloudera University - World class training provided by Cloudera university[1]
+Cloudera Professional Services - World class professionals to help with customer success.[29]
+Cloudera Support - World class support team available 24x7 to help customers proactively and predictively ensure success[30]
+All versions may be downloaded from Cloudera's website.
+
+CDH contains the main, core elements of Hadoop that provide reliable, scalable distributed data processing of large data sets (chiefly MapReduce and HDFS), as well as other enterprise-oriented components that provide security, high availability, and integration with hardware and other software.[31]
+
+In October 2012, Cloudera announced the Cloudera Impala project, an open-source distributed query engine for Apache Hadoop.[32]
+
+Awards

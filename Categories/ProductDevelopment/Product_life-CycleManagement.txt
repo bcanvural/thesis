@@ -1,0 +1,100 @@
+Product life-cycle management (PLM) is the succession of strategies used by business management as a product goes through its life-cycle. The conditions in which a product is sold (advertising, saturation) changes over time and must be managed as it moves through its succession of stages.
+
+Contents
+
+    1 Goals
+    2 Product life cycle
+        2.1 Characteristics of PLC stages
+        2.2 Identifying PLC stages
+    3 Limitations
+    4 See also
+    5 References
+    6 External links
+
+Goals
+
+The goals of Product Life Cycle management (PLM) are to reduce time to market, improve product quality, reduce prototyping costs, identify potential sales opportunities and revenue contributions, and reduce environmental impacts at end-of-life. To create successful new products the company must understand its customers, markets and competitors. Product Lifecycle Management (PLM) integrates people, data, processes and business systems. It provides product information for companies and their extended supply chain enterprise. PLM solutions help organizations overcome the increased complexity and engineering challenges of developing new products for the global competitive markets.[citation needed]
+Product life cycle
+
+The concept of product life cycle (PLC) concerns the life of a product in the market with respect to business/commercial costs and sales measures. The product life cycle proceeds through multiple phases, involves many professional disciplines, and requires many skills, tools and processes. PLC management makes the following three assumptions:[citation needed]
+
+    Products have a limited life and thus every product has a life cycle.
+    Product sales pass through distinct stages, each posing different challenges, opportunities, and problems to the seller.
+    Products require different marketing, financing, manufacturing, purchasing, and human resource strategies in each life cycle stage.
+
+Characteristics of PLC stages
+
+The four main stages of a product's life cycle and the accompanying characteristics are:[citation needed]
+Stage 	Characteristics
+1. Market introduction stage 	
+
+    costs are very high
+    slow sales volumes to start
+    little or no competition
+    demand has to be created
+    customers have to be prompted to try the product
+    makes little money at this stage
+
+2. Growth stage 	
+
+    costs reduced due to economies of scale
+    sales volume increases significantly
+    profitability begins to rise
+    public awareness increases
+    competition begins to increase with a few new players in establishing market
+    increased competition leads to price decreases
+
+3. Maturity stage 	
+
+    costs are decreased as a result of production volumes increasing and experience curve effects
+    sales volume peaks and market saturation is reached
+    increase in competitors entering the market
+    prices tend to drop due to the proliferation of competing products
+    brand differentiation and feature diversification is emphasized to maintain or increase market share
+    industrial profits go down
+
+4. Saturation and decline stage 	
+
+    costs become counter-optimal
+    sales volume decline
+    prices, profitability diminish
+    profit becomes more a challenge of production/distribution efficiency than increased sales
+
+Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program.
+Identifying PLC stages
+
+Identifying the stage of a product is an art more than a science, but it's possible to find patterns in some of the general product features at each stage. Identifying product stages when the product is in transition is very difficult.[citation needed]
+
+    Identifying
+    features 	Stages
+    Introduction 	Growth 	Maturity 	Decline
+    Sales 	Low 	High 	High 	Low
+    Investment cost 	Very high 	High (lower than intro stage) 	Low 	Low
+    Competition 	Low or no competition 	High 	Very high 	Very High
+    Profit 	Low 	High 	High 	Low
+
+product life cycle at different stages
+Limitations
+
+It is important for marketing managers to understand the limitations of the PLC model. It is difficult for marketing management to gauge accurately where a product is on its life cycle. A rise in sales per se is not necessarily evidence of growth, a fall in sales per se does not typify decline and some products, e.g. Coca-Cola and Pepsi, may not experience a decline.
+
+Differing products possess different PLC "shapes". A fad product develops as a steep sloped growth stage, a short maturity stage, and a steep sloped decline stage. Products such as Coca-Cola and Pepsi experience growth, but also a constant level of sales over a number of decades. A given product (or products collectively within an industry) may hold a unique PLC shape such that use of typical PLC models are only useful as a rough guide for marketing management.
+
+For specific products, the duration of each PLC stage is unpredictable and it's difficult to detect when maturity or decline has begun.
+
+Because of these limitations, strict adherence to PLC can lead a company to misleading objectives and strategy prescriptions.
+See also
+
+    Application lifecycle management
+    Diminishing manufacturing sources and material shortages (DMSMS)
+    Material selection
+    New product development
+    Obsolescence
+    Planned obsolescence
+    Product lifecycle management
+    Product management
+    Product teardown
+    Software product management
+    Technology life cycle
+    Toolkits for user innovation
+

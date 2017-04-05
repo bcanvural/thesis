@@ -1,0 +1,56 @@
+Waikato Environment for Knowledge Analysis (Weka) is a popular suite of machine learning software written in Java, developed at the University of Waikato, New Zealand. It is free software licensed under the GNU General Public License.
+
+Contents
+
+    1 Description
+    2 User interfaces
+    3 Extension packages
+    4 History
+    5 Related tools
+    6 See also
+    7 References
+    8 External links
+
+Description
+
+Weka (pronounced to rhyme with Mecca) is a workbench[1] that contains a collection of visualization tools and algorithms for data analysis and predictive modeling, together with graphical user interfaces for easy access to these functions. The original non-Java version of Weka was a Tcl/Tk front-end to (mostly third-party) modeling algorithms implemented in other programming languages, plus data preprocessing utilities in C, and a Makefile-based system for running machine learning experiments. This original version was primarily designed as a tool for analyzing data from agricultural domains,[2][3] but the more recent fully Java-based version (Weka 3), for which development started in 1997, is now used in many different application areas, in particular for educational purposes and research. Advantages of Weka include:
+
+    Free availability under the GNU General Public License.
+    Portability, since it is fully implemented in the Java programming language and thus runs on almost any modern computing platform.
+    A comprehensive collection of data preprocessing and modeling techniques.
+    Ease of use due to its graphical user interfaces.
+
+Weka supports several standard data mining tasks, more specifically, data preprocessing, clustering, classification, regression, visualization, and feature selection. All of Weka's techniques are predicated on the assumption that the data is available as one flat file or relation, where each data point is described by a fixed number of attributes (normally, numeric or nominal attributes, but some other attribute types are also supported). Weka provides access to SQL databases using Java Database Connectivity and can process the result returned by a database query. It is not capable of multi-relational data mining, but there is separate software for converting a collection of linked database tables into a single table that is suitable for processing using Weka.[4] Another important area that is currently not covered by the algorithms included in the Weka distribution is sequence modeling..
+User interfaces
+
+Weka's main user interface is the Explorer, but essentially the same functionality can be accessed through the component-based Knowledge Flow interface and from the command line. There is also the Experimenter, which allows the systematic comparison of the predictive performance of Weka's machine learning algorithms on a collection of datasets.
+
+The Explorer interface features several panels providing access to the main components of the workbench:
+
+    The Preprocess panel has facilities for importing data from a database, a comma-separated values (CSV) file, etc., and for preprocessing this data using a so-called filtering algorithm. These filters can be used to transform the data (e.g., turning numeric attributes into discrete ones) and make it possible to delete instances and attributes according to specific criteria.
+    The Classify panel enables applying classification and regression algorithms (indiscriminately called classifiers in Weka) to the resulting dataset, to estimate the accuracy of the resulting predictive model, and to visualize erroneous predictions, receiver operating characteristic (ROC) curves, etc., or the model itself (if the model is amenable to visualization like, e.g., a decision tree).
+    The Associate panel provides access to association rule learners that attempt to identify all important interrelationships between attributes in the data.
+    The Cluster panel gives access to the clustering techniques in Weka, e.g., the simple k-means algorithm. There is also an implementation of the expectation maximization algorithm for learning a mixture of normal distributions.
+    The Select attributes panel provides algorithms for identifying the most predictive attributes in a dataset.
+    The Visualize panel shows a scatter plot matrix, where individual scatter plots can be selected and enlarged, and analyzed further using various selection operators.
+
+Extension packages
+
+In version 3.7.2 (thus not available in the stable "book" version of Weka), a package manager was added to allow the easier installation of extension packages.[5] Some functionality that used to be included with Weka prior to this version has since been moved into such extension packages, but this change also makes it easier for other to contribute extensions to Weka and to maintain the software, as this modular architecture allows independent updates of the Weka core and individual extensions.
+History
+
+    In 1993, the University of Waikato in New Zealand began development of the original version of Weka, which became a mix of Tcl/Tk, C, and Makefiles.
+    In 1997, the decision was made to redevelop Weka from scratch in Java, including implementations of modeling algorithms.[6]
+    In 2005, Weka received the SIGKDD Data Mining and Knowledge Discovery Service Award.[7][8]
+    In 2006, Pentaho Corporation acquired an exclusive licence to use Weka for business intelligence.[citation needed] It forms the data mining and predictive analytics component of the Pentaho business intelligence suite.
+    All-time ranking[9] on Sourceforge.net as of 2011-08-26, 243 (with 2,487,213 downloads)
+
+Related tools
+
+    Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) is a similar project to Weka with a focus on cluster analysis, i.e., unsupervised methods.
+    KNIME is a machine learning and data mining software implemented in Java.
+    Massive Online Analysis (MOA) is an open-source project for large scale mining of data streams, also developed at the University of Waikato in New Zealand.
+    Neural Designer is a data mining software based on deep learning techniques written in C++.
+    Orange is a similar open-source project for data mining, machine learning and visualization written in Python and C++.
+    RapidMiner is a commercial machine learning framework implemented in Java which integrates Weka.
+

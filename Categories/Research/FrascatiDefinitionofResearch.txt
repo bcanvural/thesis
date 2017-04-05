@@ -1,0 +1,19 @@
+For the purposes of various statutory returns (such as research income figures returned under the Research Activity Survey and published by the Higher Education Statistics Agency), research is defined by the conventions set out in the Frascati Manual.
+
+The Frascati Manual is the internationally recognised methodology for collecting and using R&D statistics. It defines research as follows:
+Research and experimental development (R&D) comprise creative work undertaken on a systematic basis in order to increase the stock of knowledge, including knowledge of man, culture and society, and the use of this stock of knowledge to devise new applications.
+
+The term R&D covers three activities: basic research, applied research and experimental development.
+
+    Basic research is experimental or theoretical work undertaken primarily to acquire new knowledge of the underlying foundation of phenomena and observable facts, without any particular application or use in view.
+    Applied research is also original investigation undertaken in order to acquire new knowledge. It is, however, directed primarily towards a specific practical aim or objective.
+    Experimental development is systematic work, drawing on existing knowledge gained from research and/or practical experience, which is directed to producing new materials, products or devices, to installing new processes, systems and services, or to improving substantially those already produced or installed. R&D covers both formal R&D in R&D units and informal or occasional R&D in other units.
+
+The Frascati Manual lists situations where certain activities are to be excluded from R&D except when carried out solely or primarily for the purposes of an R&D project. These include: routine testing and analysis of materials, components, products, processes, etc; feasibility studies; routine software development; general purpose data collection. The later stages of some clinical drug trials may be more akin to routine testing, particularly in cases where the original research has been done by a drug company or other contractor.
+
+The Frascati Manual contains the following examples of the type of work included under the three components of R&D:
+
+    The determination of the amino acid sequence of an antibody molecule would be basic research. Investigations undertaken in an effort to distinguish between antibodies for various diseases would be applied research. Experimental development would then consist of devising a method for synthesising the antibody for a particular disease on the basis of knowledge of its structure and clinically testing the effectiveness of the synthesised antibody on patients who have agreed to accept experimental advanced treatment.
+
+    Theoretical investigation of the factors determining regional variations in economic growth is basic research; however, such investigation performed for the purpose of developing government policy would be applied research. The development of operational models, based upon laws revealed through research and aimed at modifying regional disparities, would be experimental development.
+

@@ -1,0 +1,215 @@
+Business model
+
+A business model is an "abstract representation of an organization, be it conceptual, textual, and/or graphical, of all core interrelated architectural, co-operational, and financial arrangements designed and developed by an organization presently and in the future, as well as all core products and/or services the organization offers, or will offer, based on these arrangements that are needed to achieve its strategic goals and objectives."[1] [2] This definition by Al-Debei, El-Haddadeh and Avison (2008) indicates that value proposition, value architecture (the organizational infrastructure and technological architecture that allows the movement of products, services, and information), value finance (modeling information related to total cost of ownership, pricing methods, and revenue structure), and value network articulate the primary constructs or dimensions of business models.[3]
+
+A business model describes the rationale of how an organization creates, delivers, and captures value,[4] in economic, social, cultural or other contexts. The process of business model construction is part of business strategy.
+
+In theory and practice, the term business model is used for a broad range of informal and formal descriptions to represent core aspects of a business, including purpose, business process, target customers, offerings, strategies, infrastructure, organizational structures, sourcing, trading practices, and operational processes and policies including culture. The literature has provided very diverse interpretations and definitions of a business model. A systematic review and analysis of manager responses to a survey defines business models as the design of organizational structures to enact a commercial opportunity.[5] Further extensions to this design logic emphasize the use of narrative or coherence in business model descriptions as mechanisms by which entrepreneurs create extraordinarily successful growth firms.[6]
+
+Business models are used to describe and classify businesses, especially in an entrepreneurial setting, but they are also used by managers inside companies to explore possibilities for future development. Well-known business models can operate as "recipes" for creative managers.[7] Business models are also referred to in some instances within the context of accounting for purposes of public reporting.
+
+Contents  [hide]
+1	History
+2	Theoretical and empirical insights to business models
+2.1	Design logic and narrative coherence
+2.2	Complementarities of business models between partnering firms
+3	Categorization of business models
+3.1	V4 BM framework
+3.2	Shift from pipes to platforms
+3.3	Platform business models
+4	Applications
+5	Business model design
+5.1	Definitions of business model
+5.1.1	Economic consideration
+5.1.2	Component consideration
+5.1.3	Strategic outcome
+6	Definitions of business model design or development
+6.1	Design themes emphasis of business model
+6.2	Design content emphasis of business model design
+7	Examples of business models
+8	Business model frameworks
+9	Related concepts
+10	See also
+11	References
+12	Further reading
+13	External links
+History
+Over the years, business models have become much more sophisticated. The bait and hook business model (also referred to as the "razor and blades business model" or the "tied products business model") was introduced in the early 20th century. This involves offering a basic product at a very low cost, often at a loss (the "bait"), then charging compensatory recurring amounts for refills or associated products or services (the "hook"). Examples include: razor (bait) and blades (hook); cell phones (bait) and air time (hook); computer printers (bait) and ink cartridge refills (hook); and cameras (bait) and prints (hook). A variant of this model is Adobe, a software developer that gives away its document reader free of charge but charges several hundred dollars for its document writer.
+
+In the 1950s, new business models came from McDonald's Restaurants and Toyota. In the 1960s, the innovators were Wal-Mart and Hypermarkets. The 1970s saw new business models from FedEx and Toys R Us; the 1980s from Blockbuster, Home Depot, Intel, and Dell Computer; the 1990s from Southwest Airlines, Netflix, eBay, Amazon.com, and Starbucks.
+
+Today, the type of business models might depend on how technology is used. For example, entrepreneurs on the internet have also created entirely new models that depend entirely on existing or emergent technology. Using technology, businesses can reach a large number of customers with minimal costs. In addition, the rise of outsourcing and globalization has meant that business models must also account for strategic sourcing, complex supply chains and moves to collaborative, relational contracting structures.[8]
+
+Theoretical and empirical insights to business models
+Design logic and narrative coherence
+Design logic views the business model as an outcome of creating new organizational structures or changing existing structures to pursue a new opportunity. Gerry George and Adam Bock (2011) conducted a comprehensive literature review and surveyed managers to understand how they perceived the components of a business model. In that analysis these authors show that there is a design logic behind how entrepreneurs and managers perceive and explain their business model. In further extensions to the design logic, George and Bock (2012) use case studies and the IBM survey data on business models in large companies, to describe how CEOs and entrepreneurs create narratives or stories in a coherent manner to move the business from one opportunity to another. They also show that when the narrative is incoherent or the components of the story are misaligned, that these businesses tend to fail. They recommend ways in which the entrepreneur or CEO can create strong narratives for change.
+
+Complementarities of business models between partnering firms
+Studying collaborative research and the accessing of external sources of technology, Hummel et al. (2010) found that in deciding on business partners, it is important to make sure that both parties' business models are complementary.[9] For example, they found that it was important to identify the value drivers of potential partners by analyzing their business models, and that it is beneficial to find partner firms that understand key aspects of our own firm�s business model.[10]
+
+The University of Tennessee conducted research into highly collaborative business relationships. Researchers codified their research into a sourcing business model known as Vested (also referred to as Vested Outsourcing). Vested is a hybrid sourcing business model in which buyers and suppliers in an outsourcing or business relationship focus on shared values and goals to create an arrangement that is highly collaborative and mutually beneficial to each.[11]
+
+Categorization of business models
+From about 2012, some research and experimentation has theorized about a so-called "liquid business model".[12][13]
+
+V4 BM framework
+Al-Debei and Avison (2010) V4 BM Framework - four main dimensions encapsulating sixteen elements: Value Proposition, Value Architecture, Value Network, and Value Finance[3]
+
+Value Proposition: This dimension implies that a BM should include a description of the products/services a digital organization offers, or will offer, along with their related information. Furthermore, the BM needs also to describe the value elements incorporated within the offering, as well as the nature of targeted market segment(s) along with their preferences.
+Value Architecture: portrays the concept as a holistic structural design of an organization, including its technological architecture, organizational infrastructure, and their configurations.
+Value Network: depicts the cross-company or inter-organization perspective towards the concept and has gained much attention in the BM literature.
+Value Finance: depicts information related to costing, pricing methods, and revenue structure
+Shift from pipes to platforms
+Sangeet Paul Choudary (2013) distinguishes between two broad families of business models in an article in Wired magazine.[14] Choudary contrasts pipes (linear business models) with platforms (networked business models). In the case of pipes, firms create goods and services, push them out and sell them to customers. Value is produced upstream and consumed downstream. There is a linear flow, much like water flowing through a pipe. Unlike pipes, platforms do not just create and push stuff out. They allow users to create and consume value.
+
+In an op-ed on MarketWatch,[15] Choudary, Van Alstyne and Parker further explain how business models are moving from pipes to platforms, leading to disruption of entire industries.
+
+Platform business models
+There are three elements to a successful platform business model.[16] The Toolbox creates connection by making it easy for others to plug into the platform. This infrastructure enables interactions between participants. The Magnet creates pull that attracts participants to the platform. For transaction platforms, both producers and consumers must be present to achieve critical mass. The Matchmaker fosters the flow of value by making connections between producers and consumers. Data is at the heart of successful matchmaking, and distinguishes platforms from other business models.
+
+Chen (2009) stated that the business model has to take into account the capabilities of Web 2.0, such as collective intelligence, network effects, user-generated content, and the possibility of self-improving systems. He suggested that the service industry such as the airline, traffic, transportation, hotel, restaurant, information and communications technology and online gaming industries will be able to benefit in adopting business models that take into account the characteristics of Web 2.0. He also emphasized that Business Model 2.0 has to take into account not just the technology effect of Web 2.0 but also the networking effect. He gave the example of the success story of Amazon in making huge revenues each year by developing an open platform that supports a community of companies that re-use Amazon's on-demand commerce services.[17][need quotation to verify]
+
+Applications
+Malone et al.[18] found that some business models, as defined by them, indeed performed better than others in a dataset consisting of the largest U.S. firms, in the period 1998 through 2002, while they did not prove whether the existence of a business model mattered.
+
+In the context of the Software-Cluster, which is funded by the German Federal Ministry of Education and Research, a business model wizard for software companies has been developed. It supports the design and analysis of software business models. The tool's underlying concept and data were published in various scientific publications.
+
+The concept of a business model has been incorporated into certain accounting standards. For example, the International Accounting Standards Board (IASB) utilizes an "entity's business model for managing the financial assets" as a criterion for determining whether such assets should be measured at amortized cost or at fair value in its financial instruments accounting standard, IFRS 9.[19][20][21][22] In their 2013 proposal for accounting for financial instruments, the Financial Accounting Standards Board also proposed a similar use of business model for classifying financial instruments.[23] The concept of business model has also been introduced into the accounting of deferred taxes under International Financial Reporting Standards with 2010 amendments to IAS 12 addressing deferred taxes related to investment property.[24][25][26]
+
+Both IASB and FASB have proposed using the concept of business model in the context of reporting a lessor's lease income and lease expense within their joint project on accounting for leases.[27][28][29][30][31] In its 2016 lease accounting model, IFRS 16, the IASB chose not to include a criterion of "stand alone utility" in its lease definition because "entities might reach different conclusions for contracts that contain the same rights of use, depending on differences between customers' resources or suppliers' business models."[32] The concept has also been proposed as an approach for determining the measurement and classification when accounting for insurance contracts.[33][34] As a result of the increasing prominence the concept of business model has received in the context of financial reporting, the European Financial Reporting Advisory Group (EFRAG), which advises the European Union on endorsement of financial reporting standards, commenced a project on the "Role of the Business Model in Financial Reporting" in 2011.[35]
+
+Business model design
+Business model design refers to the activity of designing a company's business model. It is part of the business development and business strategy process and involves design methods.
+
+Definitions of business model
+Al-Debei and Avison (2010) define a business model as an abstract representation of an organization. This may be conceptual, textual, and/or graphical, of all core interrelated architectural, co-operational, and financial arrangements designed and developed by an organization presently and in the future, as well all core products and/or services the organization offers, or will offer, based on these arrangements that are needed to achieve its strategic goals and objectives.[1] This definition indicates that value proposition, value architecture, value finance, and value network articulate the primary constructs or dimensions of business models.[3]
+
+Economic consideration
+Al-Debei and Avison (2010) consider value finance as one of the main dimensions of BM which depicts information related to costing, pricing methods, and revenue structure. Stewart and Zhao (2000) defined the business model as ��a statement of how a firm will make money and sustain its profit stream over time.�� [36]
+
+Component consideration
+Osterwalder et al. (2005) consider the Business Model as the blueprint of how a company does business.[37] Slywotzky (1996) regards the business model as ��the totality of how a company selects its customers, defines and differentiates it offerings, defines the tasks it will perform itself and those it will outsource, configures its resources, goes to market, creates utility for customers and captures profits.�� [38]
+
+Strategic outcome
+Mayo and Brown (1999) considered the business model as ��the design of key interdependent systems that create and sustain a competitive business.�� [39]
+
+Definitions of business model design or development
+Zott and Amit (2009) consider business model design from the perspectives of design themes and design content. Design themes refer to the system�s dominant value creation drivers and design content examines in greater detail the activities to be performed, the linking and sequencing of the activities and who will perform the activities.[40]
+
+Design themes emphasis of business model
+
+Environment-Strategy-Structure-Operations (ESSO) Business Model Development
+Developing a Framework for Business Model Development with an emphasis on Design Themes, Lim (2010) proposed the Environment-Strategy-Structure-Operations (ESSO) Business Model Development which takes into consideration the alignment of the organization�s strategy with the organization's structure, operations, and the environmental factors in achieving competitive advantage in varying combination of cost, quality, time, flexibility, innovation and affective.[41]
+
+Design content emphasis of business model design
+Business model design includes the modeling and description of a company's:
+
+value propositions
+target customer segments
+distribution channels
+customer relationships
+value configurations
+core capabilities
+partner network
+cost structure
+revenue model
+Business model design is distinct from business modeling. The former refers to defining the business logic of a company at the strategic level, whereas the latter refers to business process design at the operational level.
+
+A business model design template can facilitate the process of designing and describing a company's business model.
+
+Daas et al. (2012) developed a decision support system (DSS) for business model design. In their study a decision support system (DSS) is developed to help SaaS in this process, based on a design approach consisting of a design process that is guided by various design methods.[42]
+
+Examples of business models
+In the early history of business models it was very typical to define business model types such as bricks-and-mortar or e-broker. However, these types usually describe only one aspect of the business (most often the revenue model). Therefore, more recent literature on business models concentrate on describing a business model as a whole, instead of only the most visible aspects.
+
+The following examples provide an overview for various business model types that have been in discussion since the invention of term business model:
+
+Bricks and clicks business model
+Business model by which a company integrates both offline (bricks) and online (clicks) presences. One example of the bricks-and-clicks model is when a chain of stores allows the user to order products online, but lets them pick up their order at a local store.
+Collective business models
+Business system, organization or association typically composed of relatively large numbers of businesses, tradespersons or professionals in the same or related fields of endeavor, which pools resources, shares information or provides other benefits for their members. For example, a science park or high-tech campus provides shared resources (e.g. cleanrooms and other lab facilities) to the firms located on its premises, and in addition seeks to create an innovation community among these firms and their employees.[43]
+Cutting out the middleman model
+The removal of intermediaries in a supply chain: "cutting out the middleman". Instead of going through traditional distribution channels, which had some type of intermediate (such as a distributor, wholesaler, broker, or agent), companies may now deal with every customer directly, for example via the Internet.
+Direct sales model
+Direct selling is marketing and selling products to consumers directly, away from a fixed retail location. Sales are typically made through party plan, one-to-one demonstrations, and other personal contact arrangements. A text book definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."[44]
+Distribution business models, various
+Value-added reseller model
+Value Added Reseller is a model where a business makes something which is resold by other businesses but with modifications which add value to the original product or service. These modifications or additions are mostly industry specific in nature and are essential for the distribution. Businesses going for a VAR model have to develop a VAR network. It is one of the latest collaborative business models which can help in faster development cycles and is adopted by many Technology companies especially software.
+Fee in, free out
+Business model which works by charging the first client a fee for a service, while offering that service free of charge to subsequent clients.
+Franchise
+Franchising is the practice of using another firm's successful business model. For the franchisor, the franchise is an alternative to building 'chain stores' to distribute goods and avoid investment and liability over a chain. The franchisor's success is the success of the franchisees. The franchisee is said to have a greater incentive than a direct employee because he or she has a direct stake in the business.
+� Sourcing business model
+
+A Sourcing Business Model is a type of business model that is applied specifically to business relationships where more than one party needs to work with another party to be successful. It is the combination of two concepts: the contractual relationship framework a company uses with its supplier (transactional, relational, investment based), and the economic model used (transactional, output or outcome-based).
+Freemium business model
+Business model that works by offering basic Web services, or a basic downloadable digital product, for free, while charging a premium for advanced or special features.[45]
+Pay what you can (PWYC) is a non-profit or for-profit business model which does not depend on set prices for its goods, but instead asks customers to pay what they feel the product or service is worth to them.[46][47][48] It is often used as a promotional tactic,[49] but can also be the regular method of doing business. It is a variation on the gift economy and cross-subsidization, in that it depends on reciprocity and trust to succeed.
+"Pay what you want" (PWYW) is sometimes used synonymously, but "pay what you can" is often more oriented to charity or socially oriented uses, based more on ability to pay, while "pay what you want" is often more broadly oriented to perceived value in combination with willingness and ability to pay.
+
+Other examples of business models are:
+
+Auction business model
+All-in-one business model
+Chemical Leasing
+Low-cost carrier business model
+Loyalty business models
+Monopolistic business model
+Multi-level marketing business model
+Network effects business model
+Online auction business model
+Online content business model
+Online media cooperative
+Premium business model
+Professional open-source model
+Pyramid scheme business model
+Razor and blades business model
+Servitization of products business model
+Subscription business model
+Business model frameworks
+Technology centric communities have defined "frameworks" for business modeling. These frameworks attempt to define a rigorous approach to defining business value streams. It is not clear, however, to what extent such frameworks are actually important for business planning. Business model frameworks represent the core aspect of any company; they involve �the totality of how a company selects its customers defines and differentiates its offerings, defines the tasks it will perform itself and those it will outsource, configures its resource, goes to market, creates utility for customers, and captures profits�.[50] A business framework involves internal factors (market analysis; products/services promotion; development of trust; social influence and knowledge sharing) and external factors (competitors and technological aspects).[51] A state of the art review on business model frameworks can be found in Krumeich et al. (2012).[52] In the following some frameworks are introduced.
+
+Business reference model
+Business reference model is a reference model, concentrating on the architectural aspects of the core business of an enterprise, service organization or government agency.
+Component business model
+Technique developed by IBM to model and analyze an enterprise. It is a logical representation or map of business components or "building blocks" and can be depicted on a single page. It can be used to analyze the alignment of enterprise strategy with the organization's capabilities and investments, identify redundant or overlapping business capabilities, etc.
+
+Although Webvan failed in its goal of disintermediating the North American supermarket industry, several supermarket chains (like Safeway Inc.) have launched their own delivery services to target the niche market to which Webvan catered.
+Industrialization of services business model
+Business model used in strategic management and services marketing that treats service provision as an industrial process, subject to industrial optimization procedures
+Business Model Canvas
+Developed by A. Osterwalder, Yves Pigneur, Alan Smith, and 470 practitioners from 45 countries, the business model canvas [4][53] is one of the most used frameworks for describing the elements of business models.
+Related concepts
+The process of business model design is part of business strategy. Business model design and innovation refer to the way a firm (or a network of firms) defines its business logic at the strategic level.
+
+In contrast, firms implement their business model at the operational level, through their business operations. This refers to their process-level activities, capabilities, functions and infrastructure (for example, their business processes and business process modeling), their organisational structures (e.g. organigrams, workflows, human resources) and systems (e.g. information technology architecture, production lines).
+
+Consequently, an operationally viable and feasible business model requires lateral alignment with the underlining business operations.[54]
+
+The brand is a consequence of the business model and has a symbiotic relationship with it, because the business model determines the brand promise, and the brand equity becomes a feature of the model. Managing this is a task of integrated marketing.
+
+The standard terminology and examples of business models do not apply to most nonprofit organizations, since their sources of income are generally not the same as the beneficiaries. The term funding model is generally used instead.[55]
+
+The model is defined by the organization�s vision, mission, and values, as well as sets of boundaries for the organization�what products or services it will deliver, what customers or markets it will target, and what supply and delivery channels it will use. While the business model includes high-level strategies and tactical direction for how the organization will implement the model, it also includes the annual goals that set the specific steps the organization intends to undertake in the next year and the measures for their expected accomplishment. Each of these is likely to be part of internal documentation that is available to the internal auditor.
+
+See also
+	Wikimedia Commons has media related to Business models.
+Business plan
+Business process modeling
+Business reference model
+Business rule
+Competitive advantage
+Core competency
+Growth platforms
+Market forms
+Marketing
+Marketing plan
+Strategic management
+Strategy Markup Language
+Strategic planning
+Strategy dynamics
+Value migration
+The Design of Business
+Enterprise Architecture
+Business Model Canvas
+Component business model

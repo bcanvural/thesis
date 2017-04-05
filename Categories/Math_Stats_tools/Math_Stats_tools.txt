@@ -1,0 +1,299 @@
+Advanced analytics tools R, SPSS, Matlab
+Data Mining tools RapidMiner
+R is a programming language and software environment for statistical computing and graphics supported by the R Foundation for Statistical Computing.The R language is widely used among statisticians and data miners for developing statistical software[5] and data analysis.[6] Polls, surveys of data miners, and studies of scholarly literature databases show that R's popularity has increased substantially in recent years.[7]
+R is a GNU project. The source code for the R software environment is written primarily in C, Fortran, and R.[9] R is freely available under the GNU General Public License, and pre-compiled binary versions are provided for various operating systems. While R has a command line interface, there are several graphical front-ends available
+Mathlab
+Python
+Tableau  R
+SAS
+Scripting language Octave
+Statistical tools and data mining techniques
+Statistical computing and languages WEKA, KNIME, IBM SPSS
+OpenNN (Open Neural Networks Library) is a software library written in the C++ programming language which implements neural networks,[1] a main area of deep learning research. The library is open source, licensed under the GNU Lesser General Public License.
+
+Contents
+
+    1 Characteristics
+    2 History
+    3 Applications
+    4 Related libraries
+    5 See also
+    6 References
+    7 External links
+
+Characteristics
+
+The software implements any number of layers of non-linear processing units for supervised learning. This deep architecture allows the design of neural networks with universal approximation properties. Additionally, it allows multiprocessing programming by means of OpenMP, in order to increase computer performance.
+
+OpenNN contains data mining algorithms as a bundle of functions. These can be embedded in other software tools, using an application programming interface, for the integration of the predictive analytics tasks. In this regard, a graphical user interface is missing but some functions can be supported by specific visualization tools.[2]
+History
+
+The development started in 2003 at the International Center for Numerical Methods in Engineering (CIMNE), within the research project funded by the European Union called RAMFLOOD.[3] Then it continued as part of similar projects. At present, OpenNN is being developed by the startup company Artelnics.[4]
+
+In 2014, Big Data Analytics Today rated OpenNN as the #1 brain inspired artificial intelligence project.[5] Also, during the same year, ToppersWorld selected OpenNN among the top 5 open source data mining tools.[6]
+Applications
+OpenNN is a general purpose artificial intelligence software package.[7] It uses machine learning techniques for solving data mining and predictive analytics tasks in different fields. For instance, the library has been applied in the engineering,[8] energy,[9] or chemistry[10] sectors.
+
+JMP (pronounced "jump") is a computer program for statistics developed by the JMP business unit of SAS Institute. It was launched in 1989[1] to take advantage of the graphical user interface introduced by the Macintosh. It has since been improved and made available for the Windows operating system. JMP is used in applications such as Six Sigma, quality control and engineering, design of experiments and scientific research.
+
+The software consists of five products: JMP, JMP Pro, JMP Clinical, JMP Genomics and the JMP Graph Builder App for the iPad. A scripting language is also available. The software is focused on exploratory analytics, whereby users investigate and explore data, rather than testing a hypothesis.
+
+Contents
+
+    1 History
+    2 Software
+    3 JMP Scripting Language (JSL)
+    4 Notable applications
+    5 See also
+    6 References
+    7 Further reading
+    8 External links
+
+History
+Version 1.0 of JMP from 1989
+
+JMP was developed in the 1980s by John Sall and a team of developers to make use of the graphical user interface introduced by the 1984 Apple Macintosh.[2] It originally stood for "John's Macintosh Project"[3] or “John’s Macintosh Product”[4] and was first released in October 1989.[2] It was used mostly by scientists and engineers for design of experiments (DOE), quality and productivity support (Six Sigma), and reliability modeling.[5] Semiconductor manufacturers were also among JMP’s early adopters.[6]
+
+Interactive graphics and other features were added in 1991[7][8] with version 2.0. Version 2 was twice the size as the original, though it was still delivered on a floppy disk. It required 2 MB of memory and came with 700 pages of documentation.[9] Support for Microsoft Windows was added in 1994.[4][10] JMP was re-written[11] with version 3 in 1999.[12][13] Version 4, released in 2002, could import data from a wider variety of data sources[14] and added support for surface plots.[8] Version 4 also added time series forecasting and new smoothing models, such as the seasonal smoothing method, called Winter's Method, and ARIMA (Autoregressive Integrated Moving Average). It was also the first version to support JSL, JMP Scripting Language.[15]
+
+In 2005, data mining tools like a decision tree and neural net were added with version 5[16] as well as Linux support, which was later withdrawn in JMP 9.[5] Later in 2005, JMP 6 was introduced.[6][17] JMP began integrating with SAS in version 7.0 in 2007 and has strengthened this integration ever since. Users can write SAS code in JMP, connect to SAS servers, and retrieve and use data from SAS. Support for bubble plots was added in version 7.[5][18] JMP 7 also improved data visualization and diagnostics.[19]
+
+JMP 8 was released in 2009 with new drag-and-drop features and a 64-bit version to take advantage of advances in the Mac operating system.[20] It also added a new user interface for building graphs, tools for choice experiments and support for Life Distributions.[21] According to Scientific Computing, the software had improvements in "graphics, QA, ease-of-use, SAS integration and data management areas."[22] JMP 9 in 2010 added a new interface for using the R programming language from JMP and an add-in for Excel.[23][24] The main screen was rebuilt and enhancements were made to simulations, graphics and a new Degradation platform.[25] In March 2012, version 10 made improvements in data mining, predictive analytics, and automated model building.[26][27]
+Software
+Screenshot of different data displays in JMP
+
+JMP consists of JMP, JMP Pro, JMP Clinical and JMP Genomics,[27] as well as the Graph Builder iPad App.[28] JMP Clinical and JMP Genomics combine JMP with SAS software.[27]
+
+JMP software is partly focused on exploratory data analysis and visualization. It is designed for users to investigate data to learn something unexpected, as opposed to confirming a hypothesis.[4][27][29] JMP links statistical data to graphics representing them, so users can drill down or up to explore the data and various visual representations of it.[14][30][31] Its primary applications are for designed experiments and analyzing statistical data from industrial processes.[6]
+
+JMP is a desktop application with a wizard-based user interface, while SAS can be installed on servers. It runs in-memory, instead of on disk storage.[27] According to a review in Pharmaceutical Statistics, JMP is often used as a graphical front-end for a SAS system, which performs the statistical analysis and tabulations.[32] JMP Genomics, used for analyzing and visualizing genomics data,[33] requires a SAS component to operate and can access SAS/Genetics and SAS/STAT procedures or invoke SAS macros.[32] JMP Clinical, used for analyzing clinical trial data, can package SAS code within the JSL scripting language and convert SAS code to JMP.[18]
+
+JMP is also the name of the SAS Institute business unit that develops JMP. As of 2011 it had 180 employees and 250,000 users.[27]
+JMP Scripting Language (JSL)
+
+The JMP Scripting Language (JSL) is an interpreted language for recreating analytic results and for automating or extending the functionality of JMP software.[34]:29 JSL was first introduced in JMP version 4 in 2000.[35]:1 JSL has a LISP-like syntax, structured as a series of expressions. All [rpgramming elements, including if-then statemenst and loops, are implemented as JSL functions. Data tables, display elements and analyses are represented by objects in JSL that are manipulated with named messages. Users may write JSL scripts to perform analyses and visualizations not available in the point-and-click interface or to automate a series of commands, such as weekly reports.[34] SAS, R, and Matlab code can also be executed using JSL.[36]
+Notable applications
+JMP being used in the WildTrack FIT system
+
+In 2007, a wildlife monitoring organization, WildTrack, started using JMP with the Footprint Identification Technology (FIT) system to identify individual endangered animals by their footprints.[37] In 2009, the Chicago Botanic Garden used JMP to analyze DNA data from tropical breadfruit. Researchers determined that the seedless, starchy fruit was created by the deliberate hybridization of two fruits, the breadnut and the dugdug.[38] The Herzenberg Laboratory at Stanford has integrated JMP with the Fluorescence Activated Cell Sorter (FACS). The FACS system is used to study HIV, cancer, stem-cells and oceanography.[39]
+
+Data mining is an interdisciplinary subfield of computer science.[1][2][3] It is the computational process of discovering patterns in large data sets involving methods at the intersection of artificial intelligence, machine learning, statistics, and database systems.[1] The overall goal of the data mining process is to extract information from a data set and transform it into an understandable structure for further use.[1] Aside from the raw analysis step, it involves database and data management aspects, data pre-processing, model and inference considerations, interestingness metrics, complexity considerations, post-processing of discovered structures, visualization, and online updating.[1] Data mining is the analysis step of the "knowledge discovery in databases" process, or KDD.[4]
+
+The term is a misnomer, because the goal is the extraction of patterns and knowledge from large amounts of data, not the extraction (mining) of data itself.[5] It also is a buzzword[6] and is frequently applied to any form of large-scale data or information processing (collection, extraction, warehousing, analysis, and statistics) as well as any application of computer decision support system, including artificial intelligence, machine learning, and business intelligence. The book Data mining: Practical machine learning tools and techniques with Java[7] (which covers mostly machine learning material) was originally to be named just Practical machine learning, and the term data mining was only added for marketing reasons.[8] Often the more general terms (large scale) data analysis and analytics – or, when referring to actual methods, artificial intelligence and machine learning – are more appropriate.
+
+The actual data mining task is the automatic or semi-automatic analysis of large quantities of data to extract previously unknown, interesting patterns such as groups of data records (cluster analysis), unusual records (anomaly detection), and dependencies (association rule mining). This usually involves using database techniques such as spatial indices. These patterns can then be seen as a kind of summary of the input data, and may be used in further analysis or, for example, in machine learning and predictive analytics. For example, the data mining step might identify multiple groups in the data, which can then be used to obtain more accurate prediction results by a decision support system. Neither the data collection, data preparation, nor result interpretation and reporting is part of the data mining step, but do belong to the overall KDD process as additional steps.
+
+The related terms data dredging, data fishing, and data snooping refer to the use of data mining methods to sample parts of a larger population data set that are (or may be) too small for reliable statistical inferences to be made about the validity of any patterns discovered. These methods can, however, be used in creating new hypotheses to test against the larger data populations.
+
+Contents
+
+    1 Etymology
+    2 Background
+    3 Process
+        3.1 Pre-processing
+        3.2 Data mining
+        3.3 Results validation
+    4 Research
+    5 Standards
+    6 Notable uses
+    7 Privacy concerns and ethics
+        7.1 Situation in Europe
+        7.2 Situation in the United States
+    8 Copyright Law
+        8.1 Situation in Europe
+        8.2 Situation in the United States
+    9 Software
+        9.1 Free open-source data mining software and applications
+        9.2 Proprietary data-mining software and applications
+        9.3 Marketplace surveys
+    10 See also
+    11 References
+    12 Further reading
+    13 External links
+
+Etymology
+
+In the 1960s, statisticians used terms like "Data Fishing" or "Data Dredging" to refer to what they considered the bad practice of analyzing data without an a-priori hypothesis. The term "Data Mining" appeared around 1990 in the database community. For a short time in 1980s, a phrase "database mining"™, was used, but since it was trademarked by HNC, a San Diego-based company, to pitch their Database Mining Workstation;[9] researchers consequently turned to "data mining". Other terms used include Data Archaeology, Information Harvesting, Information Discovery, Knowledge Extraction, etc. Gregory Piatetsky-Shapiro coined the term "Knowledge Discovery in Databases" for the first workshop on the same topic (KDD-1989) 
+and this term became more popular in AI and Machine Learning Community. However, the term data mining became more popular in the business and press communities.[10] Currently, Data Mining and Knowledge Discovery are used interchangeably. Since about 2007, "Predictive Analytics" and since 2011, "Data Science" terms were also used to describe this field.
+
+In the Academic community, the major forums for research started in 1995 when the First International Conference on Data Mining and Knowledge Discovery (KDD-95) was started in Montreal under AAAI sponsorship. It was co-chaired by Usama Fayyad and Ramasamy Uthurusamy. A year later, in 1996, Usama Fayyad launched the journal by Kluwer called Data Mining and Knowledge Discovery as its founding Editor-in-Chief. Later he started the SIGKDDD Newsletter SIGKDD Explorations.[11] The KDD International conference became the primary highest quality conference in Data Mining with an acceptance rate of research paper submissions below 18%. The Journal Data Mining and Knowledge Discovery is the primary research journal of the field.
+Background
+
+The manual extraction of patterns from data has occurred for centuries. Early methods of identifying patterns in data include Bayes' theorem (1700s) and regression analysis (1800s). The proliferation, ubiquity and increasing power of computer technology has dramatically increased data collection, storage, and manipulation ability. As data sets have grown in size and complexity, direct "hands-on" data analysis has increasingly been augmented with indirect, automated data processing, aided by other discoveries in computer science, such as neural networks, cluster analysis, genetic algorithms (1950s), decision trees and decision rules (1960s), and support vector machines (1990s). Data mining is the process of applying these methods with the intention of uncovering hidden patterns[12] in large data sets. It bridges the gap from applied statistics and artificial intelligence (which usually provide the mathematical background) to database management by exploiting the way data is stored and indexed in databases to execute the actual learning and discovery algorithms more efficiently, allowing such methods to be applied to ever larger data sets.
+Process
+
+The Knowledge Discovery in Databases (KDD) process is commonly defined with the stages:
+
+    (1) Selection
+    (2) Pre-processing
+    (3) Transformation
+    (4) Data Mining
+    (5) Interpretation/Evaluation.[4]
+
+It exists, however, in many variations on this theme, such as the Cross Industry Standard Process for Data Mining (CRISP-DM) which defines six phases:
+
+    (1) Business Understanding
+    (2) Data Understanding
+    (3) Data Preparation
+    (4) Modeling
+    (5) Evaluation
+    (6) Deployment
+
+or a simplified process such as (1) pre-processing, (2) data mining, and (3) results validation.
+
+Polls conducted in 2002, 2004, 2007 and 2014 show that the CRISP-DM methodology is the leading methodology used by data miners.[13] The only other data mining standard named in these polls was SEMMA. However, 3–4 times as many people reported using CRISP-DM. Several teams of researchers have published reviews of data mining process models,[14][15] and Azevedo and Santos conducted a comparison of CRISP-DM and SEMMA in 2008.[16]
+Pre-processing
+
+Before data mining algorithms can be used, a target data set must be assembled. As data mining can only uncover patterns actually present in the data, the target data set must be large enough to contain these patterns while remaining concise enough to be mined within an acceptable time limit. A common source for data is a data mart or data warehouse. Pre-processing is essential to analyze the multivariate data sets before data mining. The target set is then cleaned. Data cleaning removes the observations containing noise and those with missing data.
+Data mining
+
+Data mining involves six common classes of tasks:[4]
+
+    Anomaly detection (Outlier/change/deviation detection) – The identification of unusual data records, that might be interesting or data errors that require further investigation.
+    Association rule learning (Dependency modelling) – Searches for relationships between variables. For example, a supermarket might gather data on customer purchasing habits. Using association rule learning, the supermarket can determine which products are frequently bought together and use this information for marketing purposes. This is sometimes referred to as market basket analysis.
+    Clustering – is the task of discovering groups and structures in the data that are in some way or another "similar", without using known structures in the data.
+    Classification – is the task of generalizing known structure to apply to new data. For example, an e-mail program might attempt to classify an e-mail as "legitimate" or as "spam".
+    Regression – attempts to find a function which models the data with the least error.
+    Summarization – providing a more compact representation of the data set, including visualization and report generation.
+
+Results validation
+An example of data produced by data dredging through a bot operated by statistician Tyler Viglen, apparently showing a close link between the best word winning a spelling bee competition and the number of people in the United States killed by venomous spiders. The similarity in trends is obviously a coincidence.
+
+Data mining can unintentionally be misused, and can then produce results which appear to be significant; but which do not actually predict future behaviour and cannot be reproduced on a new sample of data and bear little use. Often this results from investigating too many hypotheses and not performing proper statistical hypothesis testing. A simple version of this problem in machine learning is known as overfitting, but the same problem can arise at different phases of the process and thus a train/test split - when applicable at all - may not be sufficient to prevent this from happening.[citation needed]
+Wiki letter w.svg
+	This section is missing information about non-classification tasks in data mining. It only covers machine learning. Please expand the section to include this information. Further details may exist on the talk page. (September 2011)
+
+The final step of knowledge discovery from data is to verify that the patterns produced by the data mining algorithms occur in the wider data set. Not all patterns found by the data mining algorithms are necessarily valid. It is common for the data mining algorithms to find patterns in the training set which are not present in the general data set. This is called overfitting. To overcome this, the evaluation uses a test set of data on which the data mining algorithm was not trained. The learned patterns are applied to this test set, and the resulting output is compared to the desired output. For example, a data mining algorithm trying to distinguish "spam" from "legitimate" emails would be trained on a training set of sample e-mails. Once trained, the learned patterns would be applied to the test set of e-mails on which it had not been trained. The accuracy of the patterns can then be measured from how many e-mails they correctly classify. A number of statistical methods may be used to evaluate the algorithm, such as ROC curves.
+
+If the learned patterns do not meet the desired standards, subsequently it is necessary to re-evaluate and change the pre-processing and data mining steps. If the learned patterns do meet the desired standards, then the final step is to interpret the learned patterns and turn them into knowledge.
+Research
+
+The premier professional body in the field is the Association for Computing Machinery's (ACM) Special Interest Group (SIG) on Knowledge Discovery and Data Mining (SIGKDD).[17][18] Since 1989 this ACM SIG has hosted an annual international conference and published its proceedings,[19] and since 1999 it has published a biannual academic journal titled "SIGKDD Explorations".[20]
+
+Computer science conferences on data mining include:
+
+    CIKM Conference – ACM Conference on Information and Knowledge Management
+    DMIN Conference – International Conference on Data Mining
+    DMKD Conference – Research Issues on Data Mining and Knowledge Discovery
+    DSAA Conference – IEEE International Conference on Data Science and Advanced Analytics
+    ECDM Conference – European Conference on Data Mining
+    ECML-PKDD Conference – European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
+    EDM Conference – International Conference on Educational Data Mining
+    INFOCOM Conference – IEEE INFOCOM
+    ICDM Conference – IEEE International Conference on Data Mining
+    KDD Conference – ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+    MLDM Conference – Machine Learning and Data Mining in Pattern Recognition
+    PAKDD Conference – The annual Pacific-Asia Conference on Knowledge Discovery and Data Mining
+    PAW Conference – Predictive Analytics World
+    SDM Conference – SIAM International Conference on Data Mining (SIAM)
+    SSTD Symposium – Symposium on Spatial and Temporal Databases
+    WSDM Conference – ACM Conference on Web Search and Data Mining
+
+Data mining topics are also present on many data management/database conferences such as the ICDE Conference, SIGMOD Conference and International Conference on Very Large Data Bases
+Standards
+
+There have been some efforts to define standards for the data mining process, for example the 1999 European Cross Industry Standard Process for Data Mining (CRISP-DM 1.0) and the 2004 Java Data Mining standard (JDM 1.0). Development on successors to these processes (CRISP-DM 2.0 and JDM 2.0) was active in 2006, but has stalled since. JDM 2.0 was withdrawn without reaching a final draft.
+
+For exchanging the extracted models – in particular for use in predictive analytics – the key standard is the Predictive Model Markup Language (PMML), which is an XML-based language developed by the Data Mining Group (DMG) and supported as exchange format by many data mining applications. As the name suggests, it only covers prediction models, a particular data mining task of high importance to business applications. However, extensions to cover (for example) subspace clustering have been proposed independently of the DMG.[21]
+Notable uses
+Main article: Examples of data mining
+See also: Category:Applied data mining.
+
+Data mining is used wherever there is digital data available today. Notable examples of data mining can be found throughout business, medicine, science, and surveillance.
+Privacy concerns and ethics
+
+While the term "data mining" itself has no ethical implications, it is often associated with the mining of information in relation to peoples' behavior (ethical and otherwise).[22]
+
+The ways in which data mining can be used can in some cases and contexts raise questions regarding privacy, legality, and ethics.[23] In particular, data mining government or commercial data sets for national security or law enforcement purposes, such as in the Total Information Awareness Program or in ADVISE, has raised privacy concerns.[24][25]
+
+Data mining requires data preparation which can uncover information or patterns which may compromise confidentiality and privacy obligations. A common way for this to occur is through data aggregation. Data aggregation involves combining data together (possibly from various sources) in a way that facilitates analysis (but that also might make identification of private, individual-level data deducible or otherwise apparent).[26] This is not data mining per se, but a result of the preparation of data before – and for the purposes of – the analysis. The threat to an individual's privacy comes into play when the data, once compiled, cause the data miner, or anyone who has access to the newly compiled data set, to be able to identify specific individuals, especially when the data were originally anonymous.[27][28][29]
+
+It is recommended that an individual is made aware of the following before data are collected:[26]
+
+    the purpose of the data collection and any (known) data mining projects;
+    how the data will be used;
+    who will be able to mine the data and use the data and their derivatives;
+    the status of security surrounding access to the data;
+    how collected data can be updated.
+
+Data may also be modified so as to become anonymous, so that individuals may not readily be identified.[26] However, even "de-identified"/"anonymized" data sets can potentially contain enough information to allow identification of individuals, as occurred when journalists were able to find several individuals based on a set of search histories that were inadvertently released by AOL.[30]
+
+The inadvertent revelation of personally identifiable information leading to the provider violates Fair Information Practices. This indiscretion can cause financial, emotional, or bodily harm to the indicated individual. In one instance of privacy violation, the patrons of Walgreens filed a lawsuit against the company in 2011 for selling prescription information to data mining companies who in turn provided the data to pharmaceutical companies.[31]
+Situation in Europe
+
+Europe has rather strong privacy laws, and efforts are underway to further strengthen the rights of the consumers. However, the U.S.-E.U. Safe Harbor Principles currently effectively expose European users to privacy exploitation by U.S. companies. As a consequence of Edward Snowden's Global surveillance disclosure, there has been increased discussion to revoke this agreement, as in particular the data will be fully exposed to the National Security Agency, and attempts to reach an agreement have failed.[citation needed]
+Situation in the United States
+
+In the United States, privacy concerns have been addressed by the US Congress via the passage of regulatory controls such as the Health Insurance Portability and Accountability Act (HIPAA). The HIPAA requires individuals to give their "informed consent" regarding information they provide and its intended present and future uses. According to an article in Biotech Business Week', "'[i]n practice, HIPAA may not offer any greater protection than the longstanding regulations in the research arena,' says the AAHC. More importantly, the rule's goal of protection through informed consent is undermined by the complexity of consent forms that are required of patients and participants, which approach a level of incomprehensibility to average individuals."[32] This underscores the necessity for data anonymity in data aggregation and mining practices.
+
+U.S. information privacy legislation such as HIPAA and the Family Educational Rights and Privacy Act (FERPA) applies only to the specific areas that each such law addresses. Use of data mining by the majority of businesses in the U.S. is not controlled by any legislation.
+Copyright Law
+Situation in Europe
+
+Due to a lack of flexibilities in European copyright and database law, the mining of in-copyright works such as web mining without the permission of the copyright owner is not legal. Where a database is pure data in Europe there is likely to be no copyright, but database rights may exist so data mining becomes subject to regulations by the Database Directive. On the recommendation of the Hargreaves review this led to the UK government to amend its copyright law in 2014[33] to allow content mining as a limitation and exception. Only the second country in the world to do so after Japan, which introduced an exception in 2009 for data mining. However, due to the restriction of the Copyright Directive, the UK exception only allows content mining for non-commercial purposes. UK copyright law also does not allow this provision to be overridden by contractual terms and conditions. The European Commission facilitated stakeholder discussion on text and data mining in 2013, under the title of Licences for Europe.[34] The focus on the solution to this legal issue being licences and not limitations and exceptions led to representatives of universities, researchers, libraries, civil society groups and open access publishers to leave the stakeholder dialogue in May 2013.[35]
+Situation in the United States
+
+By contrast to Europe, the flexible nature of US copyright law, and in particular fair use means that content mining in America, as well as other fair use countries such as Israel, Taiwan and South Korea is viewed as being legal. As content mining is transformative, that is it does not supplant the original work, it is viewed as being lawful under fair use. For example, as part of the Google Book settlement the presiding judge on the case ruled that Google's digitisation project of in-copyright books was lawful, in part because of the transformative uses that the digitisation project displayed - one being text and data mining.[36]
+Software
+See also: Category:Data mining and machine learning software.
+Free open-source data mining software and applications
+
+The following applications are available under free/open source licenses. Public access to application sourcecode is also available.
+
+    Carrot2: Text and search results clustering framework.
+    Chemicalize.org: A chemical structure miner and web search engine.
+    ELKI: A university research project with advanced cluster analysis and outlier detection methods written in the Java language.
+    GATE: a natural language processing and language engineering tool.
+    KNIME: The Konstanz Information Miner, a user friendly and comprehensive data analytics framework.
+    Massive Online Analysis (MOA): a real-time big data stream mining with concept drift tool in the Java programming language.
+    ML-Flex: A software package that enables users to integrate with third-party machine-learning packages written in any programming language, execute classification analyses in parallel across multiple computing nodes, and produce HTML reports of classification results.
+    MLPACK library: a collection of ready-to-use machine learning algorithms written in the C++ language.
+    NLTK (Natural Language Toolkit): A suite of libraries and programs for symbolic and statistical natural language processing (NLP) for the Python language.
+    OpenNN: Open neural networks library.
+    Orange: A component-based data mining and machine learning software suite written in the Python language.
+    R: A programming language and software environment for statistical computing, data mining, and graphics. It is part of the GNU Project.
+    SCaViS: Java cross-platform data analysis framework developed at Argonne National Laboratory.
+    scikit-learn is an open source machine learning library for the Python programming language
+    SenticNet API 
+    : A semantic and affective resource for opinion mining and sentiment analysis.
+    Torch: An open source deep learning library for the Lua programming language and scientific computing framework with wide support for machine learning algorithms.
+    UIMA: The UIMA (Unstructured Information Management Architecture) is a component framework for analyzing unstructured content such as text, audio and video – originally developed by IBM.
+    Weka: A suite of machine learning software applications written in the Java programming language.
+
+Proprietary data-mining software and applications
+
+The following applications are available under proprietary licenses.
+
+    Angoss KnowledgeSTUDIO: data mining tool provided by Angoss.
+    Clarabridge: enterprise class text analytics solution.
+    HP Vertica Analytics Platform: data mining software provided by HP.
+    IBM SPSS Modeler: data mining software provided by IBM.
+    KXEN Modeler: data mining tool provided by KXEN.
+    LIONsolver: an integrated software application for data mining, business intelligence, and modeling that implements the Learning and Intelligent OptimizatioN (LION) approach.
+    Megaputer Intelligence: data and text mining software is called PolyAnalyst.
+    Microsoft Analysis Services: data mining software provided by Microsoft.
+    NetOwl: suite of multilingual text and entity analytics products that enable data mining.
+    OpenText™ Big Data Analytics: Visual Data Mining & Predictive Analysis by Open Text Corporation
+    Oracle Data Mining: data mining software by Oracle.
+    PSeven: platform for automation of engineering simulation and analysis, multidisciplinary optimization and data mining provided by DATADVANCE.
+    Qlucore Omics Explorer: data mining software provided by Qlucore.
+    RapidMiner: An environment for machine learning and data mining experiments.
+    SAS Enterprise Miner: data mining software provided by the SAS Institute.
+    STATISTICA Data Miner: data mining software provided by StatSoft.
+    Tanagra: A visualisation-oriented data mining software, also for teaching.
+
+Marketplace surveys
+
+Several researchers and organizations have conducted reviews of data mining tools and surveys of data miners. These identify some of the strengths and weaknesses of the software packages. They also provide an overview of the behaviors, preferences and views of data miners. Some of these reports include:
+
+    Hurwitz Victory Index: Report for Advanced Analytics as a market research assessment tool, it highlights both the diverse uses for advanced analytics technology and the vendors who make those applications possible.Recent-research 
+    2011 Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery[37]
+    Rexer Analytics Data Miner Surveys (2007–2013)[38]
+    Forrester Research 2010 Predictive Analytics and Data Mining Solutions report[39]
+    Gartner 2008 "Magic Quadrant" report[40]
+    Robert A. Nisbet's 2006 Three Part Series of articles "Data Mining Tools: Which One is Best For CRM?"[41]
+    Haughton et al.'s 2003 Review of Data Mining Software Packages in The American Statistician[42]
+    Goebel & Gruenwald 1999 "A Survey of Data Mining a Knowledge Discovery Software Tools" in SIGKDD Explorations[43]
+
+
+

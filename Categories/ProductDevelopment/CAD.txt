@@ -1,0 +1,126 @@
+Computer-aided manufacturing (CAM) is the use of software to control machine tools and related ones in the manufacturing of workpieces.[1][2][3][4][5] This is not the only definition for CAM, but it is the most common;[1] CAM may also refer to the use of a computer to assist in all operations of a manufacturing plant, including planning, management, transportation and storage.[6][7] Its primary purpose is to create a faster production process and components and tooling with more precise dimensions and material consistency, which in some cases, uses only the required amount of raw material (thus minimizing waste), while simultaneously reducing energy consumption.[citation needed] CAM is now a system used in schools and lower educational purposes. CAM is a subsequent computer-aided process after computer-aided design (CAD) and sometimes computer-aided engineering (CAE), as the model generated in CAD and verified in CAE can be input into CAM software, which then controls the machine tool. CAM is used in many schools alongside computer-aided design (CAD) to create objects.
+
+Contents
+
+    1 Overview
+    2 History
+        2.1 Overcoming historical shortcomings
+    3 Machining process
+    4 Software: large vendors
+    5 See also
+    6 References
+    7 External links
+
+Overview
+See also: Printed circuit board § PCB CAM
+Chrome-cobalt disc with crowns for dental implants, manufactured using WorkNC CAM
+
+Traditionally, CAM has been considered as a numerical control (NC) programming tool, where in two-dimensional (2-D) or three-dimensional (3-D) models of components generated in CADAs with other “Computer-Aided” technologies, CAM does not eliminate the need for skilled professionals such as manufacturing engineers, NC programmers, or machinists. CAM, in fact, leverages both the value of the most skilled manufacturing professionals through advanced productivity tools, while building the skills of new professionals through visualization, simulation and optimization tools.
+History
+
+Early commercial applications of CAM was in large companies in the automotive and aerospace industries, for example Pierre Béziers work developing the CAD/CAM application UNISURF in the 1960s for car body design and tooling at Renault.[8]
+
+Historically, CAM software was seen to have several shortcomings that necessitated an overly high level of involvement by skilled CNC machinists. Fallows created the first CAD software but this had severe shortcomings and was promptly taken back into the developing stage.[citation needed] CAM software would output code for the least capable machine, as each machine tool control added on to the standard G-code set for increased flexibility. In some cases, such as improperly set up CAM software or specific tools, the CNC machine required manual editing before the program will run properly. None of these issues were so insurmountable that a thoughtful engineer or skilled machine operator could not overcome for prototyping or small production runs; G-Code is a simple language. In high production or high precision shops, a different set of problems were encountered where an experienced CNC machinist must both hand-code programs and run CAM software.
+
+Integration of CAD with other components of CAD/CAM/CAE Product lifecycle management (PLM) environment requires an effective CAD data exchange. Usually it had been necessary to force the CAD operator to export the data in one of the common data formats, such as IGES or STL or Parasolid formats that are supported by a wide variety of software. The output from the CAM software is usually a simple text file of G-code/M-codes, sometimes many thousands of commands long, that is then transferred to a machine tool using a direct numerical control (DNC) program or in modern Controllers using a common USB Storage Device.
+
+CAM packages could not, and still cannot, reason as a machinist can. They could not optimize toolpaths to the extent required of mass production. Users would select the type of tool, machining process and paths to be used. While an engineer may have a working knowledge of G-code programming, small optimization and wear issues compound over time. Mass-produced items that require machining are often initially created through casting or some other non-machine method. This enables hand-written, short, and highly optimized G-code that could not be produced in a CAM package.
+
+At least in the United States, there is a shortage of young, skilled machinists entering the workforce able to perform at the extremes of manufacturing; high precision and mass production.[9][citation needed] As CAM software and machines become more complicated, the skills required of a machinist or machine operator advance to approach that of a computer programmer and engineer rather than eliminating the CNC machinist from the workforce.
+
+Typical areas of concern:
+
+    High Speed Machining, including streamlining of tool paths
+    Multi-function Machining
+    5 Axis Machining
+    Feature recognition and machining
+    Automation of Machining processes
+    Ease of Use
+
+Overcoming historical shortcomings
+
+Over time, the historical shortcomings of CAM are being attenuated, both by providers of niche solutions and by providers of high-end solutions. This is occurring primarily in three arenas:
+
+    Ease of usage
+    Manufacturing complexity
+    Integration with PLM and the extended enterprise
+
+Ease in use
+
+    For the user who is just getting started as a CAM user, out-of-the-box capabilities providing Process Wizards, templates, libraries, machine tool kits, automated feature based machining and job function specific tailorable user interfaces build user confidence and speed the learning curve.
+    User confidence is further built on 3D visualization through a closer integration with the 3D CAD environment, including error-avoiding simulations and optimizations.
+
+Manufacturing complexity
+    The manufacturing environment is increasingly complex. The need for CAM and PLM tools by buMs are NC programmer or machinist is similar to the need for computer assistance by the pilot of modern aircraft systems. The modern machinery cannot be properly used without this assistance.
+    Today's CAM systems support the full range of machine tools including: turning, 5 axis machining and wire EDM. Today’s CAM user can easily generate streamlined tool paths, optimized tool axis tilt for higher feed rates, better tool life and surface finish and optimized Z axis depth cuts as well as driving non-cutting operations such as the specification of probing motions.
+
+Integration with PLM and the extended enterpriseLM to integrate manufacturing with enterprise operations from concept through field support of the finished product.
+    To ensure ease of use appropriate to user objectives, modern CAM solutions are scalable from a stand-alone CAM system to a fully integrated multi-CAD 3D solution-set. These solutions are created to meet the full needs of manufacturing personnel including part planning, shop documentation, resource management and data management and exchange. To prevent these solutions from detailed tool specific information a dedicated tool management
+
+Machining process
+
+Most machining progresses through many stages,[10] each of which is implemented by a variety of basic and sophisticated strategies, depending on the material and the software available.
+
+Roughing
+    This process begins with raw stock, known as billet, and cuts it very roughly to shape of the final model. In milling, the result often gives the appearance of terraces, because the strategy has taken advantage of the ability to cut the model horizontally. Common strategies are zig-zag clearing, offset clearing, plunge roughing, rest-roughing.
+
+Semi-f
+
+    This process begins with a roughed part that unevenly approximates the model and cuts to within a fixed offset distance from the model. The semi-finishing pass must leave a small amount of material so the tool can cut accurately while finishing, but not so little that the tool and material deflect instead of sending. Common strategies are raster passes, waterline passes, constant step-over passes, pencil milling.
+
+Finishing
+    Finishing involves a slow pass across the material in very fine steps to produce the finished part. In finishing, the step between one pass and another is minimal. Feed rates are low and spindle speeds are raised to produce an accurate surface.
+
+Contour milling
+    In milling applications on hardware with five or more axes, a separate finishing process called contouring can be performed. Instead of stepping down in fine-grained increments to approximate a surface, the work piece is rotated to make the cutting surfaces of the tool tangent to the ideal part features. This produces an excellent surface finish with high dimensional accuracy.
+
+Software: large vendors
+See also: List of CAM companies and Category:Computer-aided manufacturing software
+For 3D CAM software for personal 3D printers, see 3D_printing § Printing.
+
+The top 20 largest CAM software companies, by direct revenues in year 2011, are sorted by revenues:
+
+    EnRoute Software 
+    Mastercam 
+    GibbsCAM
+    Dassault Systèmes
+    Siemens PLM Software
+    Geometric Technologies - CAMWorks 
+    Delcam
+    Vero Software
+    PTC
+    Tebis
+    OPEN MIND Technologies
+    Cimatron
+    C&G Systems 
+    Autodesk - HSM
+    MecSoft Corporation 
+    Missler Software TopSolid
+    CNC Software
+    CG Tech
+    DP Technology
+    SolidCAM
+    SesCoi
+    NTT Data Engineering Systems
+    Nihon Unisys
+    BobCAD-CAM
+    SharpCam
+    Surfware
+    Dolphin CAD/CAM USA
+    Global flight
+    RoutCad&RoutBot
+    3Shape A/S
+    Esprit
+
+See also
+
+    Computer-integrated manufacturing (CIM)
+    Digital modeling and fabrication
+    Direct numerical control (DNC)
+    Flexible manufacturing system (FMS)
+    Integrated Computer-Aided Manufacturing (ICAM)
+    Manufacturing process management (MPM)
+    STEP-NC
+    Rapid prototyping and rapid manufacturing – solid freeform fabrication direct from CAD models
+    CNC pocket milling
+

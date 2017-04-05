@@ -1,0 +1,42 @@
+JMP (pronounced "jump") is a computer program for statistics developed by the JMP business unit of SAS Institute. It was launched in 1989[1] to take advantage of the graphical user interface introduced by the Macintosh. It has since been improved and made available for the Windows operating system. JMP is used in applications such as Six Sigma, quality control and engineering, design of experiments and scientific research.
+
+The software consists of five products: JMP, JMP Pro, JMP Clinical, JMP Genomics and the JMP Graph Builder App for the iPad. A scripting language is also available. The software is focused on exploratory analytics, whereby users investigate and explore data, rather than testing a hypothesis.
+
+Contents
+
+    1 History
+    2 Software
+    3 JMP Scripting Language (JSL)
+    4 Notable applications
+    5 See also
+    6 References
+    7 Further reading
+    8 External links
+
+History
+Version 1.0 of JMP from 1989
+
+JMP was developed in the 1980s by John Sall and a team of developers to make use of the graphical user interface introduced by the 1984 Apple Macintosh.[2] It originally stood for "John's Macintosh Project"[3] or “John’s Macintosh Product”[4] and was first released in October 1989.[2] It was used mostly by scientists and engineers for design of experiments (DOE), quality and productivity support (Six Sigma), and reliability modeling.[5] Semiconductor manufacturers were also among JMP’s early adopters.[6]
+
+Interactive graphics and other features were added in 1991[7][8] with version 2.0. Version 2 was twice the size as the original, though it was still delivered on a floppy disk. It required 2 MB of memory and came with 700 pages of documentation.[9] Support for Microsoft Windows was added in 1994.[4][10] JMP was re-written[11] with version 3 in 1999.[12][13] Version 4, released in 2002, could import data from a wider variety of data sources[14] and added support for surface plots.[8] Version 4 also added time series forecasting and new smoothing models, such as the seasonal smoothing method, called Winter's Method, and ARIMA (Autoregressive Integrated Moving Average). It was also the first version to support JSL, JMP Scripting Language.[15]
+
+In 2005, data mining tools like a decision tree and neural net were added with version 5[16] as well as Linux support, which was later withdrawn in JMP 9.[5] Later in 2005, JMP 6 was introduced.[6][17] JMP began integrating with SAS in version 7.0 in 2007 and has strengthened this integration ever since. Users can write SAS code in JMP, connect to SAS servers, and retrieve and use data from SAS. Support for bubble plots was added in version 7.[5][18] JMP 7 also improved data visualization and diagnostics.[19]
+
+JMP 8 was released in 2009 with new drag-and-drop features and a 64-bit version to take advantage of advances in the Mac operating system.[20] It also added a new user interface for building graphs, tools for choice experiments and support for Life Distributions.[21] According to Scientific Computing, the software had improvements in "graphics, QA, ease-of-use, SAS integration and data management areas."[22] JMP 9 in 2010 added a new interface for using the R programming language from JMP and an add-in for Excel.[23][24] The main screen was rebuilt and enhancements were made to simulations, graphics and a new Degradation platform.[25] In March 2012, version 10 made improvements in data mining, predictive analytics, and automated model building.[26][27]
+Software
+Screenshot of different data displays in JMP
+
+JMP consists of JMP, JMP Pro, JMP Clinical and JMP Genomics,[27] as well as the Graph Builder iPad App.[28] JMP Clinical and JMP Genomics combine JMP with SAS software.[27]
+
+JMP software is partly focused on exploratory data analysis and visualization. It is designed for users to investigate data to learn something unexpected, as opposed to confirming a hypothesis.[4][27][29] JMP links statistical data to graphics representing them, so users can drill down or up to explore the data and various visual representations of it.[14][30][31] Its primary applications are for designed experiments and analyzing statistical data from industrial processes.[6]
+
+JMP is a desktop application with a wizard-based user interface, while SAS can be installed on servers. It runs in-memory, instead of on disk storage.[27] According to a review in Pharmaceutical Statistics, JMP is often used as a graphical front-end for a SAS system, which performs the statistical analysis and tabulations.[32] JMP Genomics, used for analyzing and visualizing genomics data,[33] requires a SAS component to operate and can access SAS/Genetics and SAS/STAT procedures or invoke SAS macros.[32] JMP Clinical, used for analyzing clinical trial data, can package SAS code within the JSL scripting language and convert SAS code to JMP.[18]
+
+JMP is also the name of the SAS Institute business unit that develops JMP. As of 2011 it had 180 employees and 250,000 users.[27]
+JMP Scripting Language (JSL)
+
+The JMP Scripting Language (JSL) is an interpreted language for recreating analytic results and for automating or extending the functionality of JMP software.[34]:29 JSL was first introduced in JMP version 4 in 2000.[35]:1 JSL has a LISP-like syntax, structured as a series of expressions. All [rpgramming elements, including if-then statemenst and loops, are implemented as JSL functions. Data tables, display elements and analyses are represented by objects in JSL that are manipulated with named messages. Users may write JSL scripts to perform analyses and visualizations not available in the point-and-click interface or to automate a series of commands, such as weekly reports.[34] SAS, R, and Matlab code can also be executed using JSL.[36]
+Notable applications
+JMP being used in the WildTrack FIT system
+
+In 2007, a wildlife monitoring organization, WildTrack, started using JMP with the Footprint Identification Technology (FIT) system to identify individual endangered animals by their footprints.[37] In 2009, the Chicago Botanic Garden used JMP to analyze DNA data from tropical breadfruit. Researchers determined that the seedless, starchy fruit was created by the deliberate hybridization of two fruits, the breadnut and the dugdug.[38] The Herzenberg Laboratory at Stanford has integrated JMP with the Fluorescence Activated Cell Sorter (FACS). The FACS system is used to study HIV, cancer, stem-cells and oceanography.[39]

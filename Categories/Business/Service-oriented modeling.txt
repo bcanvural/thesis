@@ -1,0 +1,252 @@
+Service-oriented modeling
+Service-oriented modeling is the discipline of modeling business and software systems, for the purpose of designing and specifying service-oriented business systems within a variety of architectural styles, such as enterprise architecture, application architecture, service-oriented architecture, and cloud computing.
+
+Any service-oriented modeling methodology typically includes a modeling language that can be employed by both the 'problem domain organization' (the Business), and 'solution domain organization' (the Information Technology Department), whose unique perspectives typically influence the 'service' development life-cycle strategy and the projects implemented using that strategy.
+
+Service-oriented modeling typically strives to create models that provide a comprehensive view of the analysis, design, and architecture of all 'Software Entities' in an organization, which can be understood by individuals with diverse levels of business and technical understanding. Service-oriented modeling typically encourages viewing software entities as 'assets' (service-oriented assets), and refers to these assets collectively as 'services'.
+
+1	Popular approaches
+1.1	Service-oriented modeling and architecture
+1.1.1	Life cycle modeling activities
+1.2	Service-oriented modeling framework (SOMF)
+1.2.1	Language modeling generations
+1.2.2	Transformation models
+1.2.3	Discipline-specific modeling
+2	Methodological issues
+2.1	Modeling styles
+2.2	Modeling asset patterns
+2.3	Modeling notation
+2.4	Service-oriented conceptualization
+3	Examples
+4	Cloud computing modeling capabilities
+4.1	Cloud computing modeling examples
+5	See also
+6	References
+7	Further reading
+8	External links
+Popular approaches
+There are many different approaches that have been proposed for service modeling, including SOMA and SOMF.
+
+Service-oriented modeling and architecture
+IBM announced service-oriented modeling and architecture (SOMA) as the first publicly announced SOA-related methodology in 2004.[1] SOMA refers to the more general domain of service modeling necessary to design and create SOA. SOMA covers a broader scope and implements service-oriented analysis and design (SOAD) through the identification, specification and realization of services, components that realize those services (a.k.a. "service components"), and flows that can be used to compose services.
+
+SOMA includes an analysis and design method that extends traditional object-oriented and component-based analysis and design methods to include concerns relevant to and supporting SOA. It consists of three major phases of identification, specification and realization of the three main elements of SOA, namely, services, components that realize those services (aka service components) and flows that can be used to compose services.
+
+SOMA is an end-to-end SOA method for the identification, specification, realization and implementation of services (including information services), components, flows (processes/composition). SOMA builds on current techniques in areas such as domain analysis, functional areas grouping, variability-oriented analysis (VOA) process modeling, component-based development, object-oriented analysis and design and use case modeling. SOMA introduces new techniques such as goal-service modeling, service model creation and a service litmus test to help determine the granularity of a service.
+
+SOMA identifies services, component boundaries, flows, compositions, and information through complementary techniques which include domain decomposition, goal-service modeling and existing asset analysis.
+
+Life cycle modeling activities
+Service-oriented modeling and architecture (SOMA) consists of the phases of identification, specification, realization, implementation, deployment and management in which the fundamental building blocks of SOA are identified then refined and implemented in each phase. The fundamental building blocks of SOA consists of services, components, flows and related to them, information, policy and contracts.
+
+Service-oriented modeling framework (SOMF)
+Service-oriented modeling framework (SOMF) characteristics
+Driving modeling paradigm
+Holistic
+Anthropomorphic
+Discipline-specific
+Virtual modeling
+Visual modeling
+Style and pattern oriented
+Modeling generations: as-is, to-be, used-to-be
+Federated Architecture
+Architectural applications
+Enterprise architecture
+Business architecture
+Application Architecture
+Service-oriented architecture (SOA)
+Cloud computing
+Chief business goals
+Asset consolidation
+Expenditure reduction
+Time to market
+Business agility
+Business and IT alignment
+Overall technological goals
+Architecture flexibility
+Technological extensibility
+Interoperable implementations
+SOMF has been devised by author Michael Bell as a holistic and anthropomorphic modeling language for software development that employs disciplines and a universal language to provide tactical and strategic solutions to enterprise problems.[2] The term "holistic language" pertains to a modeling language that can be employed to design any application, business and technological environment, either local or distributed. This universality may include design of application-level and enterprise-level solutions, including SOA landscapes, cloud computing, or big data environments. The term "anthropomorphic", on the other hand, affiliates the SOMF language with intuitiveness of implementation and simplicity of usage. Furthermore, The SOMF language and its notation has been adopted by Sparx Enterprise Architect modeling platform that enables business architects, technical architects, managers, modelers, developers, and business and technical analysts to pursue the chief SOMF life cycle disciplines.
+
+SOMF is a service-oriented development life cycle methodology, a discipline-specific modeling process. It offers a number of modeling practices and disciplines that contribute to a successful service-oriented life cycle development and modeling during a project (see image on left).
+
+
+SOMF Version 2.0
+It illustrates the major elements that identify the �what to do� aspects of a service development scheme. These are the modeling pillars that will enable practitioners to craft an effective project plan and to identify the milestones of a service-oriented initiative�either a small or large-scale business or a technological venture.
+
+The provided image thumb (on the left hand side) depicts the four sections of the modeling framework that identify the general direction and the corresponding units of work that make up a service-oriented modeling strategy: practices, environments, disciplines, and artifacts. These elements uncover the context of a modeling occupation and do not necessarily describe the process or the sequence of activities needed to fulfill modeling goals. These should be ironed out during the project plan � the service-oriented development life cycle strategy � that typically sets initiative boundaries, time frame, responsibilities and accountabilities, and achievable project milestones.
+
+Language modeling generations
+SOMF introduces a transparency model by enabling three major modeling time frames, often named modeling generations:
+
+Used-to-be: Design scheme of software components and related environments that were deployed, configured, and used in the past
+As-is: Design of software components and corresponding environments that are currently being utilized
+To-be: Design of software components and corresponding environments that will be deployed, configured, and used in the future
+These three unique implementation generations can be viewed by SOMF diagrams and their corresponding perspectives to help practitioners to depict business and architectural decisions in the past, current, and future implementations. For example, an architect and a developer can describe the evolution of a system or an application since inception, and explain what were the architecture best practices that drove alterations to these software entities. This capability enables transparency of design and implementation. On the business side, modeling generations can help estimate return on investments and business value. Traceability of business investments and justifications to business initiatives can also be depicted by employing these modeling generations.
+
+Transformation models
+
+SOMF Transformation Models
+SOMF offers eight models of implementation, also known as "Bell's Transformation Models", as depicted in the displayed image named SOMF transformation models. Each of these units of work, namely models, identify the methodology, process, platform, best practices, and disciplines by which a practitioner ought to accomplish a modeling task during a project. The illustrated ninth model is the Governance Model, which should be employed to manage the other eight models.
+
+Consider the overall charter of the SOMF implementation models:
+
+Discovery model: This model should be employed when ascertaining new software entities to provide a solution
+Analysis model: The analysis model is devised to inspect a software component's feasibility to offer a solution, help analyzing business and technical requirements, and assist with measuring the success of implementation
+Design model: Facilitates logical design of software entities; and contributes to component relationship, deployment compositions, and establishment of transactions
+Technical architecture model: This model involves three major architecture perspectives: conceptual architecture, logical architecture, and physical architecture.
+Construction model: Assists with modeling practices during the source code implementation phase
+Quality assurance model: Certifies software components for production and ensures stability of business and technical continuity
+Operations model: Enables a stable production environment and assures proper deployment and configuration of software entities
+Business architecture model: This model fosters proper integration of contextual and structural business formations with software entities
+Governance model: Offers best practices, standards, and policies for all SOMF implementation models
+Discipline-specific modeling
+
+SOMF Life Cycle Activities
+SOMF is driven by the development process of services. This approach, also named discipline-specific modeling (DspM), enables business and information technology professionals to focus on modeling deliverables that correspond to a specific software development life cycle stage and event.
+
+The service-oriented modeling framework (SOMF) introduces five major life cycle modeling activities that drive a service evolution during design-time and run-time. At the design-time phase a service originates as a conceptual entity (conceptual service), later it transforms into a unit of analysis (analysis service), next it transitions into a contractual and logical entity (design service), and finally is established as a concrete service (solution service). The following identify the major contributions of the service-oriented modeling activities:
+
+Service-oriented discovery & analysis modeling: Discover and analyze services for granularity, reusability, interoperability, loose-coupling, and identify consolidation opportunities.
+Service-oriented business integration modeling: Identify service integration and alignment opportunities with business domains' processes (organizations, products, geographical locations)
+Service-oriented logical design modeling: Establish service relationships and message exchange paths. Address service visibility. Craft service logical compositions. Model service transactions
+Service-oriented conceptual architecture modeling: Establish an application or enterprise architectural direction. Depict a technological environment. Craft a technological stack. Identify business ownership.
+Service-oriented logical architecture modeling: Integrate organizational software assets. Establish logical environment dependencies. Foster service reuse, loose coupling and consolidation.
+Methodological issues
+Modeling styles
+
+SOMF modeling styles
+How can a practitioner model a computing environment? In what type of forms can a group of services be arranged to enable an efficient integrated computing landscape? What would be the best message routes between a service consumer and provider? How can interoperability hurdles be mitigated? How can an organization discover a topology in which systems exchange messages?
+
+SOMF provides five major software modeling styles useful throughout a service life cycle (conceptualization, discovery and analysis, business integration, logical design, conceptual and logical architecture). These modeling styles: circular, hierarchical, network, bus, and star, are illustrated by corresponding "modeling beams"�connectors that link services to each other, can assist a software modeler with the following modeling aspects:
+
+Identify service relationships: contextual and technological affiliations
+Establish message routes between consumers and services
+Provide efficient service orchestration and choreography methods
+Create powerful service transaction and behavioral patterns
+Offer valuable service packaging solutions
+In the illustration on the right you will find the major five service-oriented modeling styles that SOMF offers. Each pattern identifies the various approaches and strategies that one should consider employing when modeling a service ecosystem.
+
+Circular modeling style: enables message exchange in a circular fashion, rather than employing a controller to carry out the distribution of messages. The circular style also offers a conceptual method to affiliating services.
+Hierarchical modeling style: offers a relationship pattern between services for the purpose of establishing transactions and message exchange routes between consumers and services. The hierarchical pattern founds parent/child associations between services.
+Network modeling style: this pattern establishes �many to many� relationship between services, their peer services, and consumers. The network pattern accentuates on distributed environments and interoperable computing networks.
+Star modeling style: the star pattern advocates arranging services in a star formation, in which the central service passes messages to its extending arms. The Star modeling style is often used in �multi casting� or �publish and subscribe� instances, where �solicitation� or �fire and forget� message styles are involved.
+Bus modeling style: illustrates an intermediary service that connects consumers with service providers for the purpose of message exchange duties.
+Modeling asset patterns
+The service-oriented modeling framework (SOMF) introduces four major software formations. These structures are software entities that habitually exist in our computing environments. In addition, the notion of a software component is further abstracted and represented by the universal "service" term, which can represent any organizational software asset, such as an object, a software module, a library component, an application, a business process, a database, a database store procedure or trigger, an ESB, a legacy implementation, a Web service, and more. Again, any of these software entities can be named "service". The image below illustrates these asset patterns.
+
+SOMF Asset Patterns
+Thus, a service is classified by its contextual and structural attributes:
+
+Atomic service: an indivisible software component that is too granular and executes fewer business or technical functionalities. An atomic formation is also a piece of software that typically is not subject to decomposition analysis activities and its business or technological functionality does not justify breakdown to smaller components. Examples: customer address service and checking account balance service.
+Composite service: a composite service structure aggregates smaller and fine-grained services. This hierarchical service formation is characteristically known as coarse-grained entity that encompasses more business or technical processes. A composite service may aggregate atomic or other composite services. Examples: customer checking service that aggregates smaller checking account and savings account services. An application that is composed of sub-systems, an ESB that is composed of routing, orchestration, and data transformation components.
+Service cluster: this is a collection of distributed and related services that are gathered because of their mutual business or technological commonalities. A service cluster both affiliates services and combines their offerings to solve a business problem. A cluster structure can aggregate atomic as well as composite formations. Examples: A Mutual Funds service cluster that is composed of related and distributed mutual funds services. A Customer Support service cluster that offers automated bill payments, online account statements, and money transfer capabilities
+Cloud of Services: a collection of services that are delivered by a cloud computing implementation. These services can be classified as Software as a Service (SaaS), Platform as a Service (PaaS), Infrastructure as a Service (IaaS), and more.
+The below image illustrates these SOMF assets that are being modeled during the analysis phase of a project.
+
+SOMF Analysis Assets
+Modeling notation
+As previously discussed, each SOMF life cycle discipline also offers a specialized notation. For example, the service-oriented discovery and analysis discipline provides a notation to help model the analysis and identification of services.[3] In addition, during the design phase the SOMF design notation offers symbols to help model a logical design, design composition, and a service transaction model.
+
+Let us take a look at the service-oriented discovery and analysis modeling notation. During the service identification and inspection a practitioner should pursue two types of modeling tasks: (1) Contextual analysis and modeling, and (2) Structural analysis and modeling. These activities are performed to produce a service-oriented analysis proposition.
+
+The below illustration identifies the contextual analysis and modeling operations (represented by analysis symbols)that can be employed to draft an analysis proposition diagram. These operations promote the core service-oriented analysis discipline best practices.
+
+
+Service-oriented contextual analysis notation - SOMF 2.0[4]
+Here is a short description for these symbols:
+
+Generalized: Increases service abstraction level and broadens service offerings
+Specified: Decreases service abstraction level and limits service offerings
+Expanded: Expands service operations in a distributed environment
+Contracted: Trims service operations in a distributed environment
+The below illustration, on the other hand, depicts the service-oriented structural analysis and modeling notation.
+
+
+Service-oriented tructural analysis notation - SOMF 2.0[4]
+Here is a short description for these symbols:
+
+Aggregated: Depicts containment of services
+Unified: Joins services by creating a new service
+Compounded: Groups services that offer collaborative solution
+Decomposed: Detaches a child service from its containing parent
+Subtracted: Retires a service
+Transformed: Converts a service structure to another formation (i.e. from Atomic to Composite, etc.,)
+Intersected: Intersects two or more service clusters
+Overlapped: Identifies the overlapping region between two or more service clusters
+Excluded: Isolates the overlapping region of a two ore more intersected service clusters
+Clipped: Isolates a service from a distributed environment
+Coupled: Structurally couples two autonomous services in a distributed environment
+Decoupled: Structurally separates two autonomous services in a distributed environment
+Cloned: Duplicates an instance of a service by creating a new and identical service
+De-cloned: Separates cloned services
+Bound: Identifies a contract between two services
+Unbound: Identifies a contract cancellation between two services
+Operation Numbering: Illustrates the sequence of analysis and modeling operations
+Comment: A place to put comments next to each asset or operation
+Service-oriented conceptualization
+The service-oriented modeling framework (SOMF) advocates that practitioners devise conceptual services to bridge the communication gaps in an organization. These conceptual entities foster the creation of a common language, a vocabulary that can be used during projects to encourage asset reuse and consolidation. One of the most important aspects of the conceptual service paradigm is that it provides direction and defines the scope of a project or a business initiative.
+
+The conceptualization process then identifies six major �tools� that can facilitate the development of conceptual services.[5]
+
+Concept attribution: this activity pertains to the collection of software products attributes that both describe service�s features and lead to the discovery of organizational taxonomy
+Concept classification: the categorization effort contributes to separation of concerns and the establishment of service identities. This is the process of identifying service dissimilarities
+Concept association: Unlike the classification activity, the association effort enables the discovery of service relationship. These can be business or technological affiliations
+Concept clustering: this discipline is about grouping related conceptual services that collaboratively provide a solution. Clustering is a conceptual operation that can encompass local, remote, and virtual services
+Concept generalization: to raise the abstraction level of a conceptual service, the generalization method increases the conceptual scope of a solution. This approach is typically used when a service scope is too narrow.
+Concept specification: the specification activity enables architects, modelers, and developers to reduce the abstraction level of a service and narrow its conceptual scope.
+Examples
+Let us now view a number of service analysis modeling examples.
+
+Click on small images for full-size version
+
+1. Service Aggregation Example
+
+
+2. Service Decomposition Example
+
+
+3. Service Subtraction Example
+
+
+4. Service Substitution Example
+Use Case 1 depicts a simple aggregation case, in which atomic service A-1 is aggregated in composite service C-1 because of SOA best practice reasons.
+Use Case 2 describes service decomposition. Once again, this is because of an SOA best practice rule.
+Use Case 3 illustrates a service retirement (elimination) employing the �subtracted� analysis operation.
+Use Case 4 represents a common business substitution operation. Atomic service A-3 was retired and replaced with atomic service A-2.
+Cloud computing modeling capabilities
+
+SOMF Cloud Computing Model
+The SOMF cloud computing modeling notation, also known as CCMN, helps illustrate a service architecture scheme whose participating services interact and collaborate in a cloud boundary or beyond. �Cloud boundary� pertains to cloud offerings, which typically provide software, infrastructure, and platform type of services. The term �beyond�, however, implies that any consumer, such as organizations, applications, or remote services can also be a part of the cloud computing venture if they subscribe to the cloud�s services.
+
+This overall servicing vision embodies the general notion: �everything is a service�, as illustrated on the far right. The ability to abstract services in spite of their location, interoperability challenges, or deployment difficulties, the SOMF cloud computing model represents an elastic cloud computing environment, nimble enough to adapt to changes, and meet time-to-market.
+
+Cloud computing modeling examples
+The introduced examples illustrate cloud design diagrams produced in various software development life cycle stages. In addition, these examples introduce three major cloud modeling spaces, each of which helps modelers to describe service interoperability, integration, message exchange, and collaboration in a deployment environment:
+
+Service Containment Space: a modeling space that identifies aggregated service formations, such as composite service or service cluster
+IntraCloud Space: identifies the architecture boundary of a cloud landscape
+ExtraCloud Space: defines service architecture/s external to a cloud boundary
+Organizational Boundary: a modeling area dedicated to service modeling, typically owned by an organization
+Click on small images for full-size version
+
+1. Cloud Logical Design Service Relationships Diagram
+
+
+2. Cloud Logical Design Composition Diagram
+
+
+3. Cloud Analysis Proposition Diagram
+
+
+4. Cloud Delivery Model Diagram
+
+
+5. Cloud Deployment Diagram
+Example 1 depicts (simple and high-level) a logical design relationship diagram, which illustrates associations between three services (composite, atomic, and service cluster), each of which reside within a distinct organizational boundary: North Side Inc., East Side Inc., and West Side Inc. These organizations communicate to a design public cloud by �apparent bidirectional� connectors, depicting the message paths between these entities
+Example 2 shows a logical design composition diagram which illustrates detail offerings of a cloud, denoted by the IntraCloud Space (a space allocated to services within a cloud), which contains two composite services, a service cluster, and an atomic service, forming a circular message delivery path by using circular beams type of connectors that form a message exchange pattern). The ExtraCloud Space (a space allocated to services outside of a cloud), on the other hand, contains services that are not offered by the cloud: a composite service and two atomic services, communicating by network beams (type of connectors that form a message exchange pattern). Finally, the IntraCloud Space and the ExtraCloud Space are linked by the network beam, depicting relationship between two composite services, each of which located on the opposite side of the aisle
+Example 3 shows an analysis proposition diagram, typically created during the analysis phase of a project, in which two organizations exchange messages over a network: Public Cloud Inc. and New York Computers Inc. The former contains an IntraCloud and ExtraCloud spaces, offering various aggregated services bound by contracts. The later contains a private cloud that consists of a service cluster and a composite service. These two organizations are bound by a contract supported by two different composite services, each of which resides in one organizational boundary
+Example 4 illustrates a general cloud delivery model diagram in which a community cloud delivers two types of services: Software as a Service (SaaS) and Platform as a Service (PaaS). Note the attributes of each of the delivery model.
+Example 5 depicts a cloud computing deployment diagram that contains three different geographical locations: Continent, Region, and Zone.
+See also
+Layered queueing network

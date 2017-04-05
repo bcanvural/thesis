@@ -1,0 +1,140 @@
+Capital markets are financial markets for the buying and selling of long-term debt or equity-backed securities. These markets channel the wealth of savers to those who can put it to long-term productive use, such as companies/ governments making long-term investments.[a] Capital markets are defined as markets in which money is provided for periods longer than a year.[1] Financial regulators, such as the UK's Bank of England (BoE) or the U.S. Securities and Exchange Commission (SEC), oversee the capital markets in their jurisdictions to protect investors against fraud, among other duties.
+
+Modern capital markets are almost invariably hosted on computer-based electronic trading systems; most can be accessed only by entities within the financial sector or the treasury departments of governments and corporations, but some can be accessed directly by the public.[b] There are many thousands of such systems, most serving only small parts of the overall capital markets. Entities hosting the systems include stock exchanges, investment banks, and government departments. Physically the systems are hosted all over the world, though they tend to be concentrated in financial centres like London, New York, and Hong Kong.
+
+A key division within the capital markets is between the primary markets and secondary markets. In primary markets, new stock or bond issues are sold to investors, often via a mechanism known as underwriting. The main entities seeking to raise long-term funds on the primary capital markets are governments (which may be municipal, local or national) and business enterprises (companies). Governments issue only bonds, whereas companies often issue either equity or bonds. The main entities purchasing the bonds or stock include pension funds, hedge funds, sovereign wealth funds, and less commonly wealthy individuals and investment banks trading on their own behalf. In the secondary markets, existing securities are sold and bought among investors or traders, usually on an exchange, over-the-counter, or elsewhere. The existence of secondary markets increases the willingness of investors in primary markets, as they know they are likely to be able to swiftly cash out their investments if the need arises.[2]
+
+A second important division falls between the stock markets (for equity securities, also known as shares, where investors acquire ownership of companies) and the bond markets (where investors become creditors).[2]
+
+Contents
+
+    1 Difference between money markets and capital markets
+    2 Difference between regular bank lending and capital markets
+    3 Examples of capital market transactions
+        3.1 A government raising money on the primary markets
+        3.2 A company raising money on the primary markets
+        3.3 Trading on the secondary markets
+    4 Size of the global capital markets
+    5 Forecasting and analyses
+    6 Capital controls
+    7 See also
+    8 Notes
+    9 References
+
+Difference between money markets and capital markets
+Finance
+CDS volume outstanding.png  
+Markets
+
+    Bond Commodity Derivatives Foreign exchange Money Over-the-counter Private equity Real estate Spot Stock 
+
+Participants
+
+    Investor
+        institutional Retail Speculator 
+
+Instruments
+
+    Cash Credit line Deposit Derivative Futures contract Loan 
+
+    Option (call exotic put) 
+
+    Security Stock 
+
+Time deposit
+(certificate of deposit)
+Corporate
+
+        Accounting Audit Capital budgeting 
+    Credit rating agency
+        Risk management Financial statement 
+    Leveraged buyout
+    Mergers and acquisitions
+        Structured finance Venture capital 
+
+Personal
+
+    Credit / Debt
+    Employment contract
+    Financial planning
+        Retirement Student loan 
+
+Public
+Government spending
+
+    Final consumption expenditure
+        Operations Redistribution 
+    Transfer payment
+
+Government revenue
+
+        Taxation Deficit spending 
+        Budget (balance) Debt 
+    Non-tax revenue
+    Warrant of payment
+
+Banks and banking
+
+    Central bank Deposit account Fractional-reserve banking Loan Money supply 
+
+    Lists of banks
+
+Regulation · Standards
+
+    Bank regulation
+    Basel Accords
+    International Financial Reporting Standards
+    ISO 31000
+    Professional certification
+    Fund governance
+    Accounting scandals
+
+Economic history
+
+    Private equity and venture capital
+    Recession
+    Stock market bubble
+    Stock market crash
+
+    v t e 
+
+The money markets are used for the raising of short term finance, sometimes for loans that are expected to be paid back as early as overnight. Whereas the capital markets are used for the raising of long term finance, such as the purchase of shares, or for loans that are not expected to be fully paid back for at least a year.[1]
+
+Funds borrowed from the money markets are typically used for general operating expenses, to cover brief periods of liquidity. For example, a company may have inbound payments from customers that have not yet cleared, but may wish to immediately pay out cash for its payroll. When a company borrows from the primary capital markets, often the purpose is to invest in additional physical capital goods, which will be used to help increase its income. It can take many months or years before the investment generates sufficient return to pay back its cost, and hence the finance is long term.[2]
+
+Together, money markets and capital markets form the financial markets as the term is narrowly understood.[c] The capital market is concerned with long term finance. In the widest sense, it consists of a series of channels through which the savings of the community are made available for industrial and commercial enterprises and public authorities.
+Difference between regular bank lending and capital markets
+
+Regular bank lending is not usually classed as a capital market transaction, even when loans are extended for a period longer than a year. A key difference is that with a regular bank loan, the lending is not securitised (i.e., it doesn't take the form of resalable security like a share or bond that can be traded on the markets). A second difference is that lending from banks and similar institutions is more heavily regulated than capital market lending. A third difference is that bank depositors and shareholders tend to be more risk averse than capital market investors. The previous three differences all act to limit institutional lending as a source of finance. Two additional differences, this time favoring lending by banks, are that banks are more accessible for small and medium companies, and that they have the ability to create money as they lend. In the 20th century, most company finance apart from share issues was raised by bank loans. But since about 1980 there has been an ongoing trend for disintermediation, where large and credit worthy companies have found they effectively have to pay out less in interest if they borrow direct from capital markets rather than banks. The tendency for companies to borrow from capital markets instead of banks has been especially strong in the US. According to Lena Komileva writing for The Financial Times, Capital Markets overtook bank lending as the leading source of long term finance in 2009 – this reflects the additional risk aversion and regulation of banks following the 2008 financial crisis.[3]
+Examples of capital market transactions
+A government raising money on the primary markets
+One Churchill Place, Barclays' HQ in Canary Wharf, London. Barclays is a major player in the world's primary and secondary bond markets.
+
+When a government wants to raise long term finance it will often sell bonds to the capital markets. In the 20th and early 21st century, many governments would use investment banks to organize the sale of their bonds. The leading bank would underwrite the bonds, and would often head up a syndicate of brokers, some of whom might be based in other investment banks. The syndicate would then sell to various investors. For developing countries, a multilateral development bank would sometimes provide an additional layer of underwriting, resulting in risk being shared between the investment bank(s), the multilateral organization, and the end investors. However, since 1997 it has been increasingly common for governments of the larger nations to bypass investment banks by making their bonds directly available for purchase over the Internet. Many governments now sell most of their bonds by computerized auction. Typically large volumes are put up for sale in one go; a government may only hold a small number of auctions each year. Some governments will also sell a continuous stream of bonds through other channels. The biggest single seller of debt is the US Government; there are usually several transactions for such sales every second,[d] which corresponds to the continuous updating of the US real time debt clock.[4][5][6]
+A company raising money on the primary markets
+
+When a company wants to raise money for long-term investment, one of its first decisions is whether to do so by issuing bonds or shares. If it chooses shares, it avoids increasing its debt, and in some cases the new shareholders may also provide non monetary help, such as expertise or useful contacts. On the other hand, a new issue of shares can dilute the ownership rights of the existing shareholders, and if they gain a controlling interest, the new shareholders may even replace senior managers. From an investor's point of view, shares offer the potential for higher returns and capital gains if the company does well. Conversely, bonds are safer if the company does poorly, as they are less prone to severe falls in price, and in the event of bankruptcy, bond owners are usually paid before shareholders.
+
+When a company raises finance from the primary market, the process is more likely to involve face-to-face meetings than other capital market transactions. Whether they choose to issue bonds or shares,[e] companies will typically enlist the services of an investment bank to mediate between themselves and the market. A team from the investment bank often meets with the company's senior managers to ensure their plans are sound. The bank then acts as an underwriter, and will arrange for a network of brokers to sell the bonds or shares to investors. This second stage is usually done mostly through computerized systems, though brokers will often phone up their favored clients to advise them of the opportunity. Companies can avoid paying fees to investment banks by using a direct public offering, though this is not a common practice as it incurs other legal costs and can take up considerable management time.[4][7]
+Trading on the secondary markets
+An Electronic trading platform being used at the Deutsche Börse. Most 21st century capital market transactions are executed electronically, sometimes a human operator is involved, and sometimes unattended computer systems execute the transactions, as happens in algorithmic trading.
+
+Most capital market transactions take place on the secondary market. On the primary market, each security can be sold only once, and the process to create batches of new shares or bonds is often lengthy due to regulatory requirements. On the secondary markets, there is no limit on the number of times a security can be traded, and the process is usually very quick. With the rise of strategies such as high-frequency trading, a single security could in theory be traded thousands of times within a single hour.[f] Transactions on the secondary market don't directly help raise finance, but they do make it easier for companies and governments to raise finance on the primary market, as investors know if they want to get their money back in a hurry, they will usually be easily able to re-sell their securities. Sometimes however secondary capital market transactions can have a negative effect on the primary borrowers – for example, if a large proportion of investors try to sell their bonds, this can push up the yields for future issues from the same entity. An extreme example occurred shortly after Bill Clinton began his first term as President of the United States; Clinton was forced to abandon some of the spending increases he'd promised in his election campaign due to pressure from the bond markets. In the 21st century, several governments have tried to lock in as much as possible of their borrowing into long dated bonds, so they are less vulnerable to pressure from the markets. Following the financial crisis of 2007–08, the introduction of Quantitative easing further reduced the ability of private actors to push up the yields of government bonds, at least for countries with a Central bank able to engage in substantial Open market operations.[4][6][7][8]
+
+A variety of different players are active in the secondary markets. Regular individuals account for a small proportion of trading, though their share has slightly increased; in the 20th century it was mostly only a few wealthy individuals who could afford an account with a broker, but accounts are now much cheaper and accessible over the internet. There are now numerous small traders who can buy and sell on the secondary markets using platforms provided by brokers which are accessible via web browsers. When such an individual trades on the capital markets, it will often involve a two-stage transaction. First they place an order with their broker, then the broker executes the trade. If the trade can be done on an exchange, the process will often be fully automated. If a dealer needs to manually intervene, this will often mean a larger fee. Traders in investment banks will often make deals on their bank's behalf, as well as executing trades for their clients. Investment banks will often have a division (or department) called capital markets: staff in this division try to keep aware of the various opportunities in both the primary and secondary markets, and will advise major clients accordingly. Pension and sovereign wealth funds tend to have the largest holdings, though they tend to buy only the highest grade (safest) types of bonds and shares, and often don't trade all that frequently. According to a 2012 Financial Times article, hedge funds are increasingly making most of the short term trades in large sections of the capital market (like the UK and US stock exchanges), which is making it harder for them to maintain their historically high returns, as they are increasingly finding themselves trading with each other rather than with less sophisticated investors.[4][6][7][9]
+
+There are several ways to invest in the secondary market without directly buying shares or bonds. A common method is to invest in mutual funds[g] or exchange-traded funds. It's also possible to buy and sell derivatives that are based on the secondary market; one of the most common being contract for difference – these can provide rapid profits, but can also cause buyers to lose more money than they originally invested.[4]
+Size of the global capital markets
+
+All figures given are in Billions of US$ and are sourced to the IMF. There is no universally recognized standard for measuring all of these figures, so other estimates may vary. A GDP column is included as a comparison.
+Year[10] 	Stocks 	Bonds 	Bank assets[11] 	Total of stocks, bonds and bank assets.[12] 	World GDP
+2013[13] 	62,552.00 	99,788.80 	120,421.60 	282,762.40 	74,699.30
+2012[14] 	52494.90 	99,134.20 	116,956.10 	268,585.20 	72,216.40
+2011[15] 	47,089.23 	98,388.10 	110,378.24 	255,855.57 	69,899.22
+Forecasting and analyses
+
+A great deal of work goes into analysing capital markets and predicting their future movements. This includes academic study; work from within the financial industry for the purposes of making money and reducing risk; and work by governments and multilateral institutions for the purposes of regulation and in understanding the impact of capital markets on the wider economy. Methods range from the gut instincts of experienced traders, to various forms of stochastic calculus and algorithms such as Stratonovich-Kalman-Bucy filtering.[16][17][18]
+Capital controls
+Main article: Capital control
+
+Capital controls are measures imposed by a state's government aimed at managing capital account transactions – in other words, capital market transactions where one of the counter-parties[h] involved is in a foreign country. Whereas domestic regulatory authorities try to ensure that capital market participants trade fairly with each other, and sometimes to ensure institutions like banks don't take excessive risks, capital controls aim to ensure that the macroeconomic effects of the capital markets don't have a net negative impact on the nation in question. Most advanced nations like to use capital controls sparingly if at all, as in theory allowing markets freedom is a win-win situation for all involved: investors are free to seek maximum returns, and countries can benefit from investments that will develop their industry and infrastructure. However, sometimes capital market transactions can have a net negative effect – for example, in a financial crisis, there can be a mass withdrawal of capital, leaving a nation without sufficient foreign currency to pay for needed imports. On the other hand, if too much capital is flowing into a country, it can push up inflation and the value of the nation's currency, making its exports uncompetitive. Some nations such as India have also used capital controls to ensure that their citizens' money is invested at home, rather than abroad.[19]

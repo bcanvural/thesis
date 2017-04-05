@@ -1,0 +1,127 @@
+Oracle Data Mining (ODM) is an option of Oracle Corporation's Relational Database Management System (RDBMS) Enterprise Edition (EE). It contains several data mining and data analysis algorithms for classification, prediction, regression, associations, feature selection, anomaly detection, feature extraction, and specialized analytics. It provides means for the creation, management and operational deployment of data mining models inside the database environment.
+Oracle Data Mining Developer(s) 	Oracle Corporation
+Stable release 	11gR2 / September, 2009
+Type 	data mining and analytics
+License 	proprietary
+Website 	Oracle Data Mining 
+
+Contents
+
+    1 Overview
+    2 History
+    3 Functionality
+    4 Input sources and data preparation
+    5 Graphical user interface: Oracle Data Miner
+    6 PL/SQL and Java interfaces
+    7 SQL scoring functions
+    8 PMML
+    9 Predictive Analytics MS Excel Add-In
+    10 References and further reading
+    11 See also
+    12 References
+    13 External links
+
+Overview
+
+Oracle implements a variety of data mining algorithms inside the Oracle relational database. These implementations are integrated right into the Oracle database kernel, and operate natively on data stored in the relational database tables. This eliminates the need for extraction or transfer of data into standalone mining/analytic servers. The relational database platform is leveraged to securely manage models and efficiently execute SQL queries on large volumes of data. The system is organized around a few generic operations providing a general unified interface for data mining functions. These operations include functions to create, apply, test, and manipulate data mining models. Models are created and stored as database objects, and their management is done within the database - similar to tables, views, indexes and other database objects.
+
+In data mining, the process of using a model to derive predictions or descriptions of behavior that is yet to occur is called "scoring". In traditional analytic workbenches, a model built in the analytic engine has to be deployed in a mission-critical system to score new data, or the data is moved from relational tables into the analytical workbench - most workbenches offer proprietary scoring interfaces. ODM simplifies model deployment by offering Oracle SQL functions to score data stored right in the database. This way, the user/application developer can leverage the full power of Oracle SQL - in terms of the ability to pipeline and manipulate the results over several levels, and in terms of parallelizing and partitioning data access for performance.
+
+Models can be created and managed by one of several means. (Oracle Data Miner) is a graphical user interface that steps the user through the process of creating, testing, and applying models (e.g. along the lines of the CRISP-DM methodology). Application and tools developers can embed predictive and descriptive mining capabilities using PL/SQL or Java APIs. Business analysts can quickly experiment with, or demonstrate the power of, predictive analytics using Oracle Spreadsheet Add-In for Predictive Analytics, a dedicated Microsoft Excel adaptor interface. ODM offers a choice of well known machine learning approaches such as Decision Trees, Naive Bayes, Support vector machines, Generalized linear model (GLM) for predictive mining, Association rules, K-means and Orthogonal Partitioning[1][2] Clustering, and Non-negative matrix factorization for descriptive mining. A minimum description length based technique to grade the relative importance of an input mining attributes for a given problem is also provided. Most Oracle Data Mining functions also allow text mining by accepting Text (unstructured data) attributes as input. Users do not need to configure text mining options, this is handled behind the scenes by the Database_options database option.
+History
+
+Oracle Data Mining was first introduced in 2002 and its releases are named according to the corresponding Oracle database release:
+
+    Oracle Data Mining 9iR2 (9.2.0.1.0 - May 2002)
+    Oracle Data Mining 10gR1 (10.1.0.2.0 - February 2004)
+    Oracle Data Mining 10gR2 (10.2.0.1.0 - July 2005)
+    Oracle Data Mining 11gR1 (11.1 - September 2007)
+    Oracle Data Mining 11gR2 (11.2 - September 2009)
+
+Oracle Data Mining is a logical successor of the Darwin data mining toolset developed by Thinking Machines Corporation in the mid-1990s and later distributed by Oracle after its acquisition of Thinking Machines in 1999. However, the product itself is a complete redesign and rewrite from ground-up - while Darwin was a classic GUI-based analytical workbench, ODM offers a data mining development/deployment platform integrated into the Oracle database, along with the Oracle Data Miner GUI.
+
+The Oracle Data Miner 11gR2 New Workflow GUI was previewed at Oracle Open World 2009. An updated Oracle Data Miner GUI was released in 2012. It is free, and is available as an extension to Oracle SQL Developer 3.1 .
+Functionality
+
+As of release 11gR1 Oracle Data Mining contains the following data mining functions:
+
+    Data transformation and model analysis:
+        Data sampling, binning, discretization, and other data transformations.
+        Model exploration, evaluation and analysis.
+    Feature selection (Attribute Importance).
+        Minimum description length (MDL).
+    Classification.
+        Naive Bayes (NB).
+        Generalized linear model (GLM) for Logistic regression.
+        Support Vector Machine (SVM).
+        Decision Trees (DT).
+    Anomaly detection.
+        One-class Support Vector Machine (SVM).
+    Regression
+        Support Vector Machine (SVM).
+        Generalized linear model (GLM) for Multiple regression
+    Clustering:
+        Enhanced k-means (EKM).
+        Orthogonal Partitioning Clustering (O-Cluster).[1][2]
+    Association rule learning:
+        Itemsets and association rules (AM).
+    Feature extraction.
+        Non-negative matrix factorization (NMF).
+    Text and spatial mining:
+        Combined text and non-text columns of input data.
+        Spatial/GIS data.
+
+Input sources and data preparation
+
+Most Oracle Data Mining functions accept as input one relational table or view. Flat data can be combined with transactional data through the use of nested columns, enabling mining of data involving one-to-many relationships (e.g. a star schema). The full functionality of SQL can be used when preparing data for data mining, including dates and spatial data.
+
+Oracle Data Mining distinguishes numerical, categorical, and unstructured (text) attributes. The product also provides utilities for data preparation steps prior to model building such as outlier treatment, discretization, normalization and binning (sorting in general speak)
+Graphical user interface: Oracle Data Miner
+
+Users can access Oracle Data Mining through Oracle Data Miner, a GUI client application that provides access to the data mining functions and structured templates (called Mining Activities) that automatically prescribe the order of operations, perform required data transformations, and set model parameters. The user interface also allows the automated generation of Java and/or SQL code associated with the data-mining activities. The Java Code Generator is an extension to Oracle JDeveloper. An independent interface also exists: the Spreadsheet Add-In for Predictive Analytics which enables access to the Oracle Data Mining Predictive Analytics PL/SQL package from Microsoft Excel.
+
+From version 11.2 of the Oracle database, Oracle Data Miner integrates with Oracle SQL Developer.[3]
+PL/SQL and Java interfaces
+
+Oracle Data Mining provides a native PL/SQL package (DBMS_DATA_MINING) to create, destroy, describe, apply, test, export and import models. The code below illustrates a typical call to build a classification model:
+
+BEGIN
+  DBMS_DATA_MINING.CREATE_MODEL (
+    model_name          => 'credit_risk_model', 
+    function            => DBMS_DATA_MINING.classification, 
+    data_table_name     => 'credit_card_data', 
+    case_id_column_name => 'customer_id', 
+    target_column_name  => 'credit_risk',
+    settings_table_name => 'credit_risk_model_settings');
+END;
+
+where 'credit_risk_model' is the model name, built for the express purpose of classifying future customers' 'credit_risk', based on training data provided in the table 'credit_card_data', each case distinguished by a unique 'customer_id', with the rest of the model parameters specified through the table 'credit_risk_model_settings'.
+
+Oracle Data Mining also supports a Java API consistent with the Java Data Mining (JDM) standard for data mining (JSR-73) for enabling integration with web and Java EE applications and to facilitate portability across platforms.
+SQL scoring functions
+
+As of release 10gR2, Oracle Data Mining contains built-in SQL functions for scoring data mining models. These single-row functions support classification, regression, anomaly detection, clustering, and feature extraction. The code below illustrates a typical usage of a classification model:
+
+SELECT customer_name
+  FROM credit_card_data
+ WHERE PREDICTION (credit_risk_model USING *) = 'LOW' AND customer_value = 'HIGH';
+
+PMML
+
+In Release 11gR2 (11.2.0.2), ODM supports the import of externally created PMML for some of the data mining models. PMML is an XML-based standard for representing data mining models.
+Predictive Analytics MS Excel Add-In
+
+The PL/SQL package DBMS_PREDICTIVE_ANALYTICS automates the data mining process including data preprocessing, model building and evaluation, and scoring of new data. The PREDICT operation is used for predicting target values classification or regression while EXPLAIN ranks attributes in order of influence in explaining a target column feature selection. The new 11g feature PROFILE finds customer segments and their profiles, given a target attribute. These operations can be used as part of an operational pipeline providing actionable results or displayed for interpretation by end users.
+References and further reading
+
+    T. H. Davenport, Competing on Analytics 
+    , Harvard Business Review, January 2006.
+    I. Ben-Gal,Outlier detection 
+    , In: Maimon O. and Rockach L. (Eds.) Data Mining and Knowledge Discovery Handbook: A Complete Guide for Practitioners and Researchers," Kluwer Academic Publishers, 2005, ISBN 0-387-24435-2.
+    M. M. Campos, P. J. Stengard, and B. L. Milenova, Data-centric Automated Data Mining. In proceedings of the Fourth International Conference on Machine Learning and Applications 2005, 15–17 December 2005. pp8, ISBN 0-7695-2495-8
+    M. F. Hornick, Erik Marcade, and Sunil Venkayala. Java Data Mining: Strategy, Standard, and Practice. Morgan-Kaufmann, 2006, ISBN 0-12-370452-9.
+    B. L. Milenova, J. S. Yarmus, and M. M. Campos. SVM in Oracle database 10g: removing the barriers to widespread adoption of support vector machines. In Proceedings of the 31st international Conference on Very Large Data Bases (Trondheim, Norway, August 30 - September 2, 2005). pp1152–1163, ISBN 1-59593-154-6.
+    B. L. Milenova and M. M. Campos. O-Cluster: scalable clustering of large high dimensional data sets. In proceedings of the 2002 IEEE International Conference on Data Mining: ICDM 2002. pp290–297, ISBN 0-7695-1754-4.
+    P. Tamayo, C. Berger, M. M. Campos, J. S. Yarmus, B. L.Milenova, A. Mozes, M. Taft, M. Hornick, R. Krishnan, S.Thomas, M. Kelly, D. Mukhin, R. Haberstroh, S. Stephens and J. Myczkowski. Oracle Data Mining - Data Mining in the Database Environment. In Part VII of Data Mining and Knowledge Discovery Handbook, Maimon, O.; Rokach, L. (Eds.) 2005, p315-1329, ISBN 0-387-24435-2.
+    Brendan Tierney, Predictive Analytics using Oracle Data Miner: for the data scientist, oracle analyst, oracle developer & DBA, Oracle Press, McGraw Hill, Spring 2014.
+

@@ -1,0 +1,100 @@
+Mobile marketing is marketing on or with a mobile device, such as a smart phone.[1] Mobile marketing can provide customers with time and location sensitive, personalized information that promotes goods, services and ideas.[2] In a more theoretical manner, academic Andreas Kaplan defines mobile marketing as "any marketing activity conducted through a ubiquitous network to which consumers are constantly connected using a personal mobile device".[3]
+
+Contents
+
+    1 SMS marketing
+    2 MMS
+    3 Push notifications
+    4 App-based marketing
+    5 In-game mobile marketing
+    6 QR codes
+    7 Bluetooth
+    8 Proximity systems
+    9 Location-based services
+    10 Ringless voice mail
+    11 User-controlled media
+    12 Privacy concerns in mobile marketing
+    13 Classification of mobile marketing
+    14 References
+
+SMS marketing
+
+Marketing through cellphones' SMS (Short Message Service) became increasingly popular in the early 2000s in Europe and some parts of Asia when businesses started to collect mobile phone numbers and send off wanted (or unwanted) content. On average, SMS messages are read within four minutes, making them highly convertible.
+
+Over the past few years SMS marketing has become a legitimate advertising channel in some parts of the world. This is because unlike email over the public internet, the carriers who police their own networks have set guidelines and best practices for the mobile media industry (including mobile advertising). The IAB (Interactive Advertising Bureau) and the Mobile Marketing Association (MMA), as well, have established guidelines and are evangelizing the use of the mobile channel for marketers. While this has been fruitful in developed regions such as North America, Western Europe and some other countries, mobile SPAM messages (SMS sent to mobile subscribers without a legitimate and explicit opt-in by the subscriber) remain an issue in many other parts of the world, partly due to the carriers selling their member databases to third parties. In India, however, government's efforts of creating National Do Not Call Registry have helped cellphone users to stop SMS advertisements by sending a simple SMS or calling 1909.[4][5]
+
+Mobile marketing via SMS has expanded rapidly in Europe and Asia as a new channel to reach the consumer. SMS initially received negative media coverage in many parts of Europe for being a new form of spam as some advertisers purchased lists and sent unsolicited content to consumer's phones; however, as guidelines are put in place by the mobile operators, SMS has become the most popular branch of the Mobile Marketing industry with several 100 million advertising SMS sent out every month in Europe alone.
+
+In Europe the first cross-carrier SMS shortcode campaign was run by Txtbomb in 2001 for an Island Records release, In North America it was the Labatt Brewing Company in 2002. Over the past few years mobile short codes have been increasingly popular as a new channel to communicate to the mobile consumer. Brands have begun to treat the mobile short code as a mobile domain name allowing the consumer to text message the brand at an event, in store and off any traditional media.
+
+SMS marketing services typically run off a short code, but sending text messages to an email address is another methodology (though this method is not supported by the carriers). Short codes are 5 or 6 digit numbers that have been assigned by all the mobile operators in a given country for the use of brand campaign and other consumer services. Due to the high price of short codes of $500–$1000 a month, many small businesses opt to share a short code in order to reduce monthly costs. The mobile operators vet every short code application before provisioning and monitor the service to make sure it does not diverge from its original service description. Another alternative to sending messages by short code or email is to do so through one's own dedicated phone number.
+
+Besides short codes, inbound SMS can be received on long numbers (international number format, e.g. +44 7624 805000 or US number format,[6] e.g. 757 772 8555), which can be used in place of short codes or premium-rated short messages for SMS reception in several applications, such as product promotions and campaigns. Long numbers are internationally available, as well as enabling businesses to have their own number, rather than short codes which are usually shared across a number of brands. Additionally, long numbers are non-premium inbound numbers.
+
+One key criterion for provisioning is that the consumer opts into the service. The mobile operators demand a double opt in from the consumer and the ability for the consumer to opt out of the service at any time by sending the word STOP via SMS. These guidelines are established in the CTIA Playbook and the MMA Consumer Best Practices Guidelines[7] which are followed by all mobile marketers in the United States. In Canada, opt in will be mandatory once the Fighting Internet and Wireless Spam Act comes in force in mid-2012.
+MMS
+
+MMS mobile marketing can contain a timed slideshow of images, text, audio and video. This mobile content is delivered via MMS (Multimedia Message Service). Nearly all new phones produced with a color screen are capable of sending and receiving standard MMS message. Brands are able to both send (mobile terminated) and receive (mobile originated) rich content through MMS A2P (application-to-person) mobile networks to mobile subscribers. In some networks, brands are also able to sponsor messages that are sent P2P (person-to-person).
+
+Good examples of mobile-originated MMS marketing campaigns are Motorola's ongoing campaigns at House of Blues venues, where the brand allows the consumer to send their mobile photos to the LED board in real-time as well as blog their images online.
+Push notifications
+	This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (July 2013) (Learn how and when to remove this template message)
+
+Push notifications were first introduced to smartphones by Apple with the Push Notification Service in 2009.[8] For Android devices, Google developed Android Cloud to Messaging or C2DM in 2010. Google replaced this service with Google Cloud Messaging in 2013.[9] Commonly referred to as GCM, Google Cloud Messaging served as C2DM's successor, making improvements to authentication and delivery, new API endpoints and messaging parameters, and the removal of limitations on API send-rates and message sizes. It is a message that pops up on a mobile device. It is the delivery of information from a software application to a computing device without any request from the client or the user. They look like SMS notifications but they are reached only the users who installed the app. The specifications vary for iOS and android users. SMS and push notifications can be part of a well-developed inbound mobile marketing strategy.
+
+According to mobile marketing company Leanplum, Android sees open rates twice as high as those on iOS. Android sees open rates of 3.48 percent for push notification, versus iOS which has open rates of 1.77 percent.[10]
+App-based marketing
+
+With the increasingly widespread use of smartphones, app usage has also greatly increased. Therefore, mobile marketers have increasingly taken advantage of smartphone apps as a marketing resource. Marketers will aim to increase the visibility of an app in a store, which will in turn help in getting more downloads. By optimizing the placement of the app usage, marketers can ensure a significant number of increases in download. This allows for direct engagement, payment, and targeted advertising.[11]
+
+There is a lot of competition[12] in this field as well. However, just like other services, it is not easy anymore to rule the mobile application market.
+
+The current wave of progression and growth highly depends upon the wise use of technology and Mobile App Development is one such technology that is benefiting various companies in order to maximize their profits. In the past couple of years the usage of mobile phones has increased at an astonishing rate. Most of the companies have slowly but surely acknowledged the potential that Mobile App possess in order to increase the interaction between a company and its target customers. While planning to invest in Mobile App for your business you must consider all the aspects of it. Always choose a reliable and experienced company to develop customized apps for your business as this would help to increase the chances of success of that App and minimize the chances of any technical glitches that might crop up. You must keep in mind that an App can prove to be a very beneficial element to promote your business on a vast level only if it is developed by efficient service provider.
+In-game mobile marketing
+	This section does not cite any sources. Please help improve this section by adding citations to reliable sources. Unsourced material may be challenged and removed. (September 2016) (Learn how and when to remove this template message)
+
+There are essentially three major trends in mobile gaming right now: interactive real-time 3D games, massive multi-player games and social networking games. This means a trend towards more complex and more sophisticated, richer game play. On the other side, there are the so-called casual games, i.e. games that are very simple and very easy to play. Most mobile games today are such casual games and this will probably stay so for quite a while to come.
+
+Brands are now delivering promotional messages within mobile games or sponsoring entire games to drive consumer engagement. This is known as mobile advergaming or ad-funded mobile game.
+
+In in-game mobile marketing, advertisers pay to have their name or products featured in the mobile games. For instance, racing games can feature real cars made by Ford or Chevy. Advertisers have been both creative and aggressive in their attempts to integrate ads organically in the mobile games.
+
+Although investment in mobile marketing strategies like advergaming is slightly more expensive than what is intended for a mobile app, a good strategy can make the brand derive a substantial revenue. Games that use advergaming make the users remember better the brand involved. This memorization increases virality of the content so that the users tend to recommend them to their friends and acquaintances, and share them via social networks.[13]
+QR codes
+
+QR codes allow a customer to visit a web page address by scanning a 2D image with their phone's camera, instead of manually entering a URL. The resultant URLs typically include tracking features which would be unwieldy if typed by the customer. Originally approved as an ISS standard in 1997, Denso-Wave first developed the standard for tracking automobile parts in Japan.[14]
+
+QR codes have been growing in popularity in Asia and Europe, but have been slow to be adopted in North America.[15][16] Some high-profile QR campaigns in the United States have included billboards by Calvin Klein in Times Square, QR codes for every SKU in Home Depot and Best Buy stores, and a scavenger hunt promoting Starbucks and Lady Gaga.
+
+Apple Passbook (application), implemented as a native app for iOS6, has employed QR codes as one of the ways that the iPhone (or iPod Touch) users can take a real world action. i.e. scan the Barcode on their Passbook Pass. In addition to QR codes, the Passbook (application) also supports PDF417 and Aztec 2D Barcodes
+Bluetooth
+
+Bluetooth technology is a global wireless standard enabling, convenient, secure connectivity for an expanding range of devices and services. Created by Ericsson in 1994, Bluetooth wireless technology was originally conceived as a wireless alternative to RS-232 data cables.[17]
+
+The use of Bluetooth gained traction around 2003 and a few companies in Europe have started establishing successful businesses. Most of these businesses offer "hotspot" systems which consist of some kind of content-management system with a Bluetooth distribution function. This technology has the advantages that it is permission-based, has higher transfer speeds and is a radio-based technology and thus can neither be metered nor billed. The likely earliest device built for mobile marketing via Bluetooth was the context tag of the AmbieSense project (2001-2004). More recently Tata Motors conducted one of the biggest Bluetooth marketing campaigns in India for its brand the Sumo Grande and more of such activities have happened for brands like Walt Disney promoting their movie High School Musical.
+Proximity systems
+
+Mobile marketing via proximity systems, or proximity marketing, relies on GSM 03.41 which defines the Short Message Service - Cell Broadcast.[18] SMS-CB allows messages (such as advertising or public information) to be broadcast to all mobile users in a specified geographical area. In the Philippines, GSM-based proximity broadcast systems are used by select Government Agencies for information dissemination on Government-run community-based programs to take advantage of its reach and popularity (Philippines has the world's highest traffic of SMS). It is also used for commercial service known as Proxima SMS. Bluewater, a super-regional shopping centre in the UK, has a GSM based system supplied by NTL to help its GSM coverage for calls, it also allows each customer with a mobile phone to be tracked though the centre which shops they go into and for how long. The system enables special offer texts to be sent to the phone. For example, a retailer could send a mobile text message to those customers in their database who have opted-in, who happen to be walking in a mall. That message could say "Save 50% in the next 5 minutes only when you purchase from our store." Snacks company, Mondelez International, makers of Cadbury and Oreo products has committed to exploring proximity-based messaging citing significant gains in point-of-purchase influence.[19]
+Location-based services
+
+Location-based services (LBS) are offered by some cell phone networks as a way to send custom advertising and other information to cell-phone subscribers based on their current location. The cell-phone service provider gets the location from a GPS chip built into the phone, or using radiolocation and trilateration based on the signal-strength of the closest cell-phone towers (for phones without GPS features). In the United Kingdom, which launched location-based services in 2003, networks do not use trilateration; LBS uses a single base station, with a "radius" of inaccuracy, to determine a phone's location.
+
+Some location-based services work without GPS tracking technique, instead transmitting content between devices peer-to-peer.
+Ringless voice mail
+
+The advancement of mobile technologies has allowed the ability to leave a voice mail message on a mobile phone without ringing the line. The technology was pioneered by VoAPP, which used the technology in conjunction with live operators as a debt collection service. The FCC has ruled that the technology is compliant with all regulations.[20] CPL expanded on the existing technology to allow for a completely automated process including the replacement of live operators with pre recorded messages.[21] By optimizing the technology, marketers can utilize the process to increase engagement of their product or service.
+User-controlled media
+
+Mobile marketing differs from most other forms of marketing communication in that it is often user (consumer) initiated (mobile originated, or MO) message, and requires the express consent of the consumer to receive future communications. A call delivered from a server (business) to a user (consumer) is called a mobile terminated (MT) message. This infrastructure points to a trend set by mobile marketing of consumer controlled marketing communications.[22]
+
+Due to the demands for more user controlled media, mobile messaging infrastructure providers have responded by developing architectures that offer applications to operators with more freedom for the users, as opposed to the network-controlled media. Along with these advances to user-controlled Mobile Messaging 2.0, blog events throughout the world have been implemented in order to launch popularity in the latest advances in mobile technology. In June 2007, Airwide Solutions became the official sponsor for the Mobile Messaging 2.0 blog that provides the opinions of many through the discussion of mobility with freedom.[23]
+
+GPS plays an important role in location-based marketing.[citation needed]
+Privacy concerns in mobile marketing
+
+Mobile advertising has become more and more popular. However, some mobile advertising is sent without a required permission from the consumer causing privacy violations. It should be understood that irrespective of how well advertising messages are designed and how many additional possibilities they provide, if consumers do not have confidence that their privacy will be protected, this will hinder their widespread deployment.[24] But if the messages originate from a source where the user is enrolled in a relationship/loyalty program, privacy is not considered violated and even interruptions can generate goodwill.[25]
+
+The privacy issue became even more salient as it was before with the arrival of mobile data networks. A number of important new concerns emerged mainly stemming from the fact that mobile devices are intimately personal[26] and are always with the user, and four major concerns can be identified: mobile spam, personal identification, location information and wireless security.[27] Aggregate presence of mobile phone users could be tracked in a privacy-preserving fashion.[28]
+Classification of mobile marketing
+
+Kaplan categorizes mobile marketing along the degree of consumer knowledge and the trigger of communication into four groups: strangers, groupies, victims, and patrons. Consumer knowledge can be high or low and according to its degree organizations can customize their messages to each individual user, similar to the idea of one-to-one marketing. Regarding the trigger of communication, Kaplan differentiates between push communication, initiated by the organization, and pull communication, initiated by the consumer. Within the first group (low knowledge/push), organizations broadcast a general message to a large number of mobile users. Given that the organization cannot know which customers have ultimately been reached by the message, this group is referred to as “strangers”. Within the second group (low knowledge/pull), customers opt to receive information but do not identify themselves when doing so. The organizations therefore does not know which specific clients it is dealing with exactly, which is why this cohort is called “groupies”. In the third group (high knowledge/push) referred to as “victims”, organizations know their customers and can send them messages and information without first asking permission. The last group (high knowledge/pull), the “patrons” covers situations where customers actively give permission to be contacted and provide personal information about themselves, which allows for one-to-one communication without running the risk of annoying them.[29]

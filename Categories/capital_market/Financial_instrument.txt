@@ -1,0 +1,53 @@
+Financial instruments are monetary contracts between parties. They can be created, traded, modified and settled. They can be cash (currency), evidence of an ownership interest in an entity (share), or a contractual right to receive or deliver cash (bond).
+
+International Accounting Standards IAS 32 and 39 define a financial instrument as "any contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity".[1]
+
+Contents
+
+    1 Types
+    2 Measuring gain or loss
+    3 See also
+    4 References
+    5 External links
+
+Types
+
+Financial instruments can be either cash instruments or derivative instruments:
+
+    Cash instruments —instruments whose value is determined directly by the markets. They can be securities, which are readily transferable, and instruments such as loans and deposits, where both borrower and lender have to agree on a transfer.
+    Derivative instruments —instruments which derive their value from the value and characteristics of one or more underlying entities such as an asset, index, or interest rate. They can be exchange-traded derivatives and over-the-counter (OTC) derivatives.[2]
+
+Alternatively, financial instruments may be categorized by "asset class" depending on whether they are equity based (reflecting ownership of the issuing entity) or debt based (reflecting a loan the investor has made to the issuing entity). If it is debt, it can be further categorised into short term (less than one year) or long term. Foreign exchange instruments and transactions are neither debt- nor equity-based and belong in their own category.
+Asset class 	Instrument type
+Securities 	Other cash 	Exchange-traded derivatives 
+	OTC derivatives 
+Debt (long term)
+> 1 year 	Bonds 	Loans 	Bond futures
+Options on bond futures 	Interest rate swaps
+Interest rate caps and floors
+Interest rate options
+Exotic derivatives
+Debt (short term)
+≤ 1 year 	Bills, e.g. T-bills
+Commercial paper 	Deposits
+Certificates of deposit 	Short-term interest rate futures 	Forward rate agreements
+Equity 	Stock 	N/A 	Stock options
+Equity futures 	Stock options
+Exotic derivatives
+Foreign exchange 	N/A 	Spot foreign exchange 	Currency futures 	Foreign exchange options
+Outright forwards
+Foreign exchange swaps
+Currency swaps
+
+Some instruments defy categorization into the above matrix, for example repurchase agreements.
+Measuring gain or loss
+
+The gain or loss on a financial instrument is as follows:
+Instrument Type
+Categories 	Measurement 	Gains and losses
+Assets 	Loans and receivables 	Amortized costs 	Net income when asset is derecognized or impaired (foreign exchange and impairment recognized in net income immediately)
+Assets 	Available for sale financial assets 	Deposit account – fair value 	Other comprehensive income (impairment recognized in net income immediately)
+See also
+
+    Off-balance-sheet issues
+

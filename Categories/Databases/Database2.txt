@@ -1,0 +1,48 @@
+Database, also called electronic database, any collection of data, or information, that is specially organized for rapid search and retrieval by a computer. Databases are structured to facilitate the storage, retrieval, modification, and deletion of data in conjunction with various data-processing operations. A database management system (DBMS) extracts information from the database in response to queries.
+
+A brief treatment of databases follows. For full treatment, see computer science: Information systems and databases; information processing.
+
+A database is stored as a file or a set of files on magnetic disk or tape, optical disk, or some other secondary storage device. The information in these files may be broken down into records, each of which consists of one or more fields. Fields are the basic units of data storage, and each field typically contains information pertaining to one aspect or attribute of the entity described by the database. Records are also organized into tables that include information about relationships between its various fields. Although database is applied loosely to any collection of information in computer files, a database in the strict sense provides cross-referencing capabilities. Using keywords and various sorting commands, users can rapidly search, rearrange, group, and select the fields in many records to retrieve or create reports on particular aggregates of data.
+
+Database records and files must be organized to allow retrieval of the information. Queries are the main way users retrieve database information. The power of a DBMS comes from its ability to define new relationships from the basic ones given by the tables and to use them to get responses to queries. Typically, the user provides a string of characters, and the computer searches the database for a corresponding sequence and provides the source materials in which those characters appear; a user can request, for example, all records in which the contents of the field for a person’s last name is the word Smith.
+Similar Topics
+
+    data compression
+    byte
+    data processing
+    data structure
+    bibliography
+    data mining
+    bit
+    information retrieval
+    library classification
+    information science
+
+The many users of a large database must be able to manipulate the information within it quickly at any given time. Moreover, large business and other organizations tend to build up many independent files containing related and even overlapping data, and their data-processing activities often require the linking of data from several files. Several different types of DBMS have been developed to support these requirements: flat, hierarchical, network, relational, and object-oriented.
+
+Early systems were arranged sequentially (i.e., alphabetically, numerically, or chronologically); the development of direct-access storage devices made possible random access to data via indexes. In flat databases, records are organized according to a simple list of entities; many simple databases for personal computers are flat in structure. The records in hierarchical databases are organized in a treelike structure, with each level of records branching off into a set of smaller categories. Unlike hierarchical databases, which provide single links between sets of records at different levels, network databases create multiple linkages between sets by placing links, or pointers, to one set of records in another; the speed and versatility of network databases have led to their wide use within businesses and in e-commerce. Relational databases are used where associations between files or records cannot be expressed by links; a simple flat list becomes one row of a table, or “relation,” and multiple relations can be mathematically associated to yield desired information. Various iterations of SQL (Structured Query Language) are widely employed in DBMS for relational databases. Object-oriented databases store and manipulate more complex data structures, called “objects,” which are organized into hierarchical classes that may inherit properties from classes higher in the chain; this database structure is the most flexible and adaptable.
+
+The information in many databases consists of natural-language texts of documents; number-oriented databases primarily contain information such as statistics, tables, financial data, and raw scientific and technical data. Small databases can be maintained on personal-computer systems and may be used by individuals at home. These and larger databases have become increasingly important in business life, in part because they are now commonly designed to be integrated with other office software, including spreadsheet programs.
+Britannica Stories
+
+    In The News / Animals
+    Hawaiian Crow Discovered to Use Tools
+    Hawaiian Crow Discovered to Use Tools
+    Demystified / History
+    Who Were the Assassins?
+    Who Were the Assassins?
+    Spotlight / History
+    ¡Viva México!
+    ¡Viva México!
+    In The News / Geography
+    Obama Creates “Underwater Yosemite”
+    Obama Creates “Underwater Yosemite”
+
+See All Storieskeyboard_arrow_right
+
+Typical commercial database applications include airline reservations, production management functions, medical records in hospitals, and legal records of insurance companies. The largest databases are usually maintained by governmental agencies, business organizations, and universities. These databases may contain texts of such materials as abstracts, reports, legal statutes, wire services, newspapers and journals, encyclopaedias, and catalogs of various kinds. Reference databases contain bibliographies or indexes that serve as guides to the location of information in books, periodicals, and other published literature. Thousands of these publicly accessible databases now exist, covering topics ranging from law, medicine, and engineering to news and current events, games, classified advertisements, and instructional courses.
+Test Your Knowledge
+Computers and Technology
+Computers and Technology
+
+Increasingly, formerly separate databases are being combined electronically into larger collections known as data warehouses. Businesses and government agencies then employ “data mining” software to analyze multiple aspects of the data for various patterns. For example, a government agency might flag for human investigation a company or individual that purchased a suspicious quantity of certain equipment or materials, even though the purchases were spread around the country or through various subsidiaries.

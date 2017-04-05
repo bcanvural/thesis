@@ -1,0 +1,562 @@
+Oracle Database (commonly referred to as Oracle RDBMS or simply as Oracle) is an object-relational database management system[3] produced and marketed by Oracle Corporation.
+
+Larry Ellison and his two friends and former co-workers, Bob Miner and Ed Oates, started a consultancy called Software Development Laboratories (SDL) in 1977. SDL developed the original version of the Oracle software. The name Oracle comes from the code-name of a CIA-funded project Ellison had worked on while previously employed by Ampex.[4]
+
+Contents
+
+    1 Physical and logical structures
+        1.1 Storage
+            1.1.1 Partitioning
+            1.1.2 Monitoring
+            1.1.3 Disk files
+        1.2 Database schema
+            1.2.1 System Global Area
+            1.2.2 Library cache
+            1.2.3 Data dictionary cache
+            1.2.4 Program Global Area
+            1.2.5 Dynamic performance views
+        1.3 Process architectures
+            1.3.1 Oracle processes
+            1.3.2 User processes, connections and sessions
+        1.4 Concurrency and locking
+        1.5 Configuration
+    2 Administration
+    3 Network access
+    4 Internationalization
+    5 History
+        5.1 Corporate/technical timeline
+        5.2 Patch Updates and Security Alerts
+        5.3 Version numbering
+    6 Oracle Database Product Family
+        6.1 Database Editions
+        6.2 Database Options
+    7 Supported platforms
+    8 Related software
+        8.1 Oracle products
+        8.2 Suites
+        8.3 Database features
+        8.4 Utilities
+        8.5 Tools
+        8.6 Other databases marketed by Oracle Corporation
+        8.7 External routines
+    9 Use
+        9.1 Official support
+        9.2 Database-related guidelines
+        9.3 Oracle Certification Program
+        9.4 User groups
+    10 Market position
+        10.1 Competition
+        10.2 Pricing
+    11 See also
+    12 References
+    13 Bibliography
+    14 External links
+
+Physical and logical structures
+
+An Oracle database system—identified by an alphanumeric system identifier or SID[5]—comprises at least one instance of the application, along with data storage. An instance—identified persistently by an instantiation number (or activation id: SYS.V_$DATABASE.ACTIVATION#)—comprises a set of operating-system processes and memory-structures that interact with the storage. (Typical processes include PMON (the process monitor) and SMON (the system monitor)). Oracle documentation can refer to an active database instance as a "shared memory realm".[6]
+
+Users of Oracle databases refer to the server-side memory-structure as the SGA (System Global Area). The SGA typically holds cache information such as data-buffers, SQL commands, and user information. In addition to storage, the database consists of online redo logs (or logs), which hold transactional history. Processes can in turn archive the online redo logs into archive logs (offline redo logs), which provide the basis (if necessary) for data recovery and for the physical-standby forms of data replication using Oracle Data Guard.
+
+If the Oracle database administrator has implemented Oracle RAC (Real Application Clusters), then multiple instances, usually on different servers, attach to a central storage array. This scenario offers advantages such as better performance, scalability and redundancy. However, support becomes more complex, and many sites do not use RAC. In version 10g, grid computing introduced shared resources where an instance can use (for example) CPU resources from another node (computer) in the grid. The advantage of Oracle RAC is that the resources on both nodes are used by the database, and each node uses its own memory and CPU. Information is shared between nodes through the interconnect—the virtual private network.[7]
+
+The Oracle DBMS can store and execute stored procedures and functions within itself. PL/SQL (Oracle Corporation's proprietary procedural extension to SQL), or the object-oriented language Java can invoke such code objects and/or provide the programming structures for writing them.
+Storage
+
+The Oracle RDBMS stores data logically in the form of tablespaces and physically in the form of data files ("datafiles").[8] Tablespaces can contain various types of memory segments, such as Data Segments, Index Segments, etc. Segments in turn comprise one or more extents. Extents comprise groups of contiguous data blocks. Data blocks form the basic units of data storage.
+
+A DBA can impose maximum quotas on storage per user within each tablespace.[9]
+Partitioning
+
+The partitioning feature was introduced in Oracle 8.[10] This allows the partitioning of tables based on different set of keys. Specific partitions can then be easily added or dropped to help manage large data sets.
+Monitoring
+
+Oracle database management tracks its computer data storage with the help of information stored in the SYSTEM tablespace. The SYSTEM tablespace contains the data dictionary—and often (by default) indexes and clusters. A data dictionary consists of a special collection of tables that contains information about all user-objects in the database. Since version 8i, the Oracle RDBMS also supports "locally managed" tablespaces that store space management information in bitmaps in their own headers rather than in the SYSTEM tablespace (as happens with the default "dictionary-managed" tablespaces). Version 10g and later introduced the SYSAUX tablespace, which contains some of the tables formerly stored in the SYSTEM tablespace, along with objects for other tools such as OEM, which previously required its own tablespace.[11]
+Disk files
+[icon] 	This section requires expansion. (September 2009)
+
+Disk files primarily represent one of the following structures:
+
+    Data and index files: These files provide the physical storage of data, which can consist of the data-dictionary data (associated to the tablespace SYSTEM), user data, or index data. These files can be managed manually or managed by Oracle itself ("Oracle-managed files"). Note that a datafile has to belong to exactly one tablespace, whereas a tablespace can consist of multiple datafiles.
+    Redo log files, consisting of all changes to the database, used to recover from an instance failure. Note that often a database will store these files multiple times, for extra security in case of disk failure. The identical redo log files are said to belong to the same group.
+    Undo files: These special datafiles, which can only contain undo information, aid in recovery, rollbacks, and read-consistency.
+    Archive log files: These files, copies of the redo log files, are usually stored at different locations. They are necessary (for example) when applying changes to a standby database, or when performing recovery after a media failure. It is possible to archive to multiple locations.
+    Tempfiles: These special datafiles serve exclusively for temporary storage data (used for example for large sorts or for global temporary tables)
+    Control file, necessary for database startup. "A binary file that records the physical structure of a database and contains the names and locations of redo log files, the time stamp of the database creation, the current log sequence number, checkpoint information, and so on."[12]
+
+At the physical level, data files comprise one or more data blocks, where the block size can vary between data files.
+
+Data files can occupy pre-allocated space in the file system of a computer server, utilize raw disk directly, or exist within ASM logical volumes.[13]
+Database schema
+
+Most Oracle database installations traditionally came with a default schema called SCOTT. After the installation process sets up sample tables, the user can log into the database with the username scott and the password tiger. The name of the SCOTT schema originated with Bruce Scott, one of the first employees at Oracle (then Software Development Laboratories), who had a cat named Tiger.[14]
+
+Oracle Corporation now de-emphasizes the SCOTT schema, as it uses few features of more recent Oracle releases. Most recent examples supplied by Oracle Corporation reference the default HR or OE schemas.
+
+Other default schemas[15][16] include:
+
+    SYS (essential core database structures and utilities)
+    SYSTEM (additional core database structures and utilities, and privileged account)
+    OUTLN (utilized to store metadata for stored outlines for stable query-optimizer execution plans.[17])
+    BI, IX, HR, OE, PM, and SH (expanded sample schemas[18] containing more data and structures than the older SCOTT schema).
+
+System Global Area
+Main article: System Global Area
+
+Each Oracle instance uses a System Global Area or SGA—a shared-memory area—to store its data and control-information.[19]
+
+Each Oracle instance allocates itself an SGA when it starts and de-allocates it at shut-down time. The information in the SGA consists of the following elements, each of which has a fixed size, established at instance startup:
+
+    Datafiles
+
+Every Oracle database has one or more physical datafiles, which contain all the database data. The data of logical database structures, such as tables and indexes, is physically stored in the datafiles allocated for a database.
+
+Datafiles have the following characteristics:
+
+    One or more datafiles form a logical unit of database storage called a tablespace.
+    A datafile can be associated with only one tablespace.
+    Datafiles can be defined to extend automatically when they are full.
+
+Data in a datafile is read, as needed, during normal database operation and stored in the memory cache of Oracle Database. For example, if a user wants to access some data in a table of a database, and if the requested information is not already in the memory cache for the database, then it is read from the appropriate datafiles and stored in memory.
+
+Modified or new data is not necessarily written to a datafile immediately. To reduce the amount of disk access and to increase performance, data is pooled in memory and written to the appropriate datafiles all at once.
+
+    the redo log buffer: this stores redo entries—a log of changes made to the database. The instance writes redo log buffers to the redo log as quickly and efficiently as possible. The redo log aids in instance recovery in the event of a system failure.
+    the shared pool: this area of the SGA stores shared-memory structures such as shared SQL areas in the library cache and internal information in the data dictionary. An insufficient amount of memory allocated to the shared pool can cause performance degradation.
+    the Large pool Optional area that provides large memory allocations for certain large processes, such as Oracle backup and recovery operations, and I/O server processes
+    Database buffer cache: Caches blocks of data retrieved from the database
+    KEEP buffer pool: A specialized type of database buffer cache that is tuned to retain blocks of data in memory for long periods of time
+    RECYCLE buffer pool: A specialized type of database buffer cache that is tuned to recycle or remove block from memory quickly
+    nK buffer cache: One of several specialized database buffer caches designed to hold block sizes different from the default database block size
+    Java pool:Used for all session-specific Java code and data in the Java Virtual Machine (JVM)
+    Streams pool: Used by Oracle Streams to store information required by capture and apply
+
+When you start the instance by using Enterprise Manager or SQL*Plus, the amount of memory allocated for the SGA is displayed.[20]
+Library cache
+
+The library cache[21] stores shared SQL, caching the parse tree and the execution plan for every unique SQL statement. If multiple applications issue the same SQL statement, each application can access the shared SQL area. This reduces the amount of memory needed and reduces the processing-time used for parsing and execution planning.
+Data dictionary cache
+
+The data dictionary comprises a set of tables and views that map the structure of the database.
+
+Oracle databases store information here about the logical and physical structure of the database. The data dictionary contains information such as:
+
+    user information, such as user privileges
+    integrity constraints defined for tables in the database
+    names and datatypes of all columns in database tables
+    information on space allocated and used for schema objects
+
+The Oracle instance frequently accesses the data dictionary to parse SQL statements. Oracle operation depends on ready access to the data dictionary—performance bottlenecks in the data dictionary affect all Oracle users. Because of this, database administrators must make sure that the data dictionary cache[22] has sufficient capacity to cache this data. Without enough memory for the data-dictionary cache, users see a severe performance degradation. Allocating sufficient memory to the shared pool where the data dictionary cache resides precludes this particular performance problem.
+Program Global Area
+
+The Program Global Area[23][24] or PGA memory-area of an Oracle instance contains data and control-information for Oracle's server-processes.
+
+The size and content of the PGA depends on the Oracle-server options installed. This area consists of the following components:
+
+    stack-space: the memory that holds the session's variables, arrays, and so on
+    session-information: unless using the multithreaded server, the instance stores its session-information in the PGA. In a multithreaded server, the session-information goes in the SGA.)
+    private SQL-area: an area that holds information such as bind-variables and runtime-buffers
+    sorting area: an area in the PGA that holds information on sorts, hash-joins, etc.
+
+DBAs can monitor PGA usage via the system view.
+Dynamic performance views
+
+The dynamic performance views (also known as "fixed views") within an Oracle database present information from virtual tables (X$ tables)[25] built on the basis of database memory.[26] Database users can access the V$ views (named after the prefix of their synonyms) to obtain information on database structures and performance.
+Process architectures
+Oracle processes
+
+The Oracle RDBMS typically relies on a group of processes running simultaneously in the background and interacting to monitor and expedite database operations. Typical operating environments might include - temporarily or permanently - some of the following individual processes (shown along with their abbreviated nomenclature):[27]
+
+    advanced queueing processes (Qnnn)[28]
+    archiver processes (ARCn)
+    checkpoint process (CKPT) *REQUIRED*
+    coordinator-of-job-queues process (CJQn): dynamically spawns slave processes for job-queues
+    database writer processes (DBWn) *REQUIRED*
+    Data Pump worker processes (DWnn)[29]
+
+    dispatcher processes (Dnnn): multiplex server-processes on behalf of users
+    main Data Guard Broker monitor process (DMON)[30]
+    job-queue slave processes (Jnnn)[31]
+    log-writer process (LGWR) *REQUIRED*
+    log-write network-server (LNSn):[32] transmits redo logs in Data Guard environments
+    logical standby coordinator process (LSP0): controls Data Guard log-application
+    media-recovery process (MRP): detached recovery-server process
+    memory-manager process (MMAN): used for internal database tasks such as Automatic Shared Memory Management (ASMM)
+    memory-monitor process (MMON): process for automatic problem-detection, self-tuning and statistics-gathering[33]
+    memory-monitor light process (MMNL): gathers and stores Automatic Workload Repository (AWR) data
+    mmon slaves (Mnnnn—M0000, M0001, etc.): background slaves of the MMON process[34]
+    netslave processes (NSVn): Data Guard Broker inter-database communication processes[35]
+    process-monitor process (PMON) *REQUIRED*
+    process-spawner process (PSP0): spawns Oracle background processes after initial instance startup[36]
+    queue-monitor coordinator process (QMNC): dynamically spawns queue monitor slaves[37]
+    queue-monitor processes (QMNn)
+    recoverer process (RECO)
+    remote file-server process (RFS): in Oracle Data Guard, a standby recipient of primary redo-logs[38]
+    monitor for Data Guard management (RSM0): Data Guard Broker Worker process[39]
+    shared server processes (Snnn): serve client-requests
+    space-management coordinator process (SMCO): coordinates space management (from release 11g)[40]
+    system monitor process (SMON) *REQUIRED*
+
+User processes, connections and sessions
+
+Oracle Database terminology distinguishes different computer-science terms in describing how end-users interact with the database:
+
+    user processes involve the invocation of application software[41]
+    a connection refers to the pathway linking a user process to an Oracle instance[42]
+    sessions consist of specific established groups of interactions, with each group involving a client process and an Oracle instance.[43] Each session within an instance has a session identifier - a session ID or "SID"[44][45] (distinct from the Oracle system-identifier SID).
+
+Concurrency and locking
+
+Oracle databases control simultaneous access to data resources with locks (alternatively documented as "enqueues").[46] The databases also utilize "latches" - low-level serialization mechanisms to protect shared data structures in the System Global Area.[47]
+
+Oracle locks fall into three categories:[48]
+
+    DML locks (or data locks) protect data
+    DDL locks (or data dictionary locks) protect the structure of schema objects
+    System locks (including latches, mutexes and internal locks) protect internal database structures like data files.
+
+Configuration
+
+Database administrators control many of the tunable variations in an Oracle instance by means of values in a parameter file.[49] This file in its ASCII default form ("pfile") normally has a name of the format init<SID-name>.ora. The default binary equivalent server parameter file ("spfile") (dynamically reconfigurable to some extent)[50] defaults to the format spfile<SID-name>.ora. Within an SQL-based environment, the views V$PARAMETER[51] and V$SPPARAMETER[52] give access to reading parameter values.
+Administration
+
+The "Scheduler" (DBMS_SCHEDULER package, available from Oracle 10g onwards) and the Job subsystem (DBMS_JOB package) permit the automation of predictable processing.[53]
+
+Oracle Resource Manager aims to allocate CPU resources between users and groups of users when such resources become scarce.[54]
+
+Oracle Corporation stated in product announcements that manageability for DBAs had improved from Oracle9i to 10g. Lungu and Vătuiu (2008) assessed the relative manageability by performing common DBA tasks and measuring timings. [55] They performed their tests on a single Pentium CPU (1.7 GHz) with 512 MB RAM,running Windows Server 2000. From Oracle9i to 10g, installation improved 36%, day-to-day administration 63%, backup and recovery 63%, and performance diagnostics and tuning 74%, for a weighted total improvement of 56%. The researchers concluded that "Oracle10g represents a giant step forward from Oracle9i in making the database easier to use and manage".
+Network access
+
+Oracle Net Services allow client or remote applications to access Oracle databases via network sessions using various protocols.
+Internationalization
+
+Oracle Database software comes in 63 language-versions (including regional variations such as British English and American English). Variations between versions cover the names of days and months, abbreviations, time-symbols (such as A.M. and A.D.), and sorting.[56]
+
+Oracle Corporation has translated Oracle Database error-messages into Arabic, Catalan, Chinese, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Romanian, Russian, Slovak, Spanish, Swedish, Thai and Turkish.[57]
+
+Oracle Corporation provides database developers with tools and mechanisms for producing internationalized database applications: referred to internally as "Globalization".[58][59]
+History
+Corporate/technical timeline
+
+    1977: Larry Ellison and friends founded Software Development Laboratories (SDL).
+    1978: Oracle Version 1, written in assembly language, runs on PDP-11 under RSX, in 128K of memory. Implementation separates Oracle code and user code. Oracle V1 is never officially released.[60]
+    1979: SDL changed its company-name to "Relational Software, Inc." (RSI) and introduced its product Oracle V2 as an early relational database system - often cited[61][62] as the first commercially sold RDBMS.[63] The version did not support transactions, but implemented the basic SQL functionality of queries and joins. (RSI never released a version 1 - instead calling the first version version 2 as a marketing gimmick.)[64]
+    1982: RSI in its turn changed its name, becoming known as "Oracle Corporation",[65] to align itself more closely with its flagship product.
+    1983: The company released Oracle version 3, which it had re-written using the C programming language, and which supported COMMIT and ROLLBACK functionality for transactions. Version 3 extended platform support from the existing Digital VAX/VMS systems to include Unix environments.[65]
+    1984: Oracle Corporation released Oracle version 4, which supported read-consistency.[66] In October it also released the first Oracle for the IBM PC.[67]
+    1985: Oracle Corporation released Oracle version 5, which supported the client–server model—a sign of networks becoming more widely available in the mid-1980s.
+    1986: Oracle version 5.1 started supporting distributed queries.
+    1988: Oracle RDBMS version 6 came out with support for PL/SQL embedded within Oracle Forms v3 (version 6 could not store PL/SQL in the database proper), row-level locking and hot backups.[68]
+    1989: Oracle Corporation entered the application-products market and developed its ERP product, (later to become part of the Oracle E-Business Suite), based on the Oracle relational database.
+    1990: the release of Oracle Applications release 8[65]
+    1992: Oracle version 7 appeared with support for referential integrity, stored procedures and triggers.
+    1997: Oracle Corporation released version 8, which supported object-oriented development and multimedia applications.
+    1999: The release of Oracle8i aimed to provide a database inter-operating better with the Internet (the i in the name stands for "Internet"). The Oracle8i database incorporated a native Java virtual machine (Oracle JVM, also known as "Aurora").[69]
+    2000: Oracle E-Business Suite 11i pioneers integrated enterprise application software[65]
+    2001: Oracle9i went into release with 400 new features, including the ability to read and write XML documents. 9i also provided an option for Oracle RAC, or "Real Application Clusters", a computer-cluster database, as a replacement for the Oracle Parallel Server (OPS) option.
+    2002: the release of Oracle 9i Database Release 2 (9.2.0)[70]
+    2003: Oracle Corporation released Oracle Database 10g, which supported regular expressions. (The g stands for "grid"; emphasizing a marketing thrust of presenting 10g as "grid computing ready".)
+    2005: Oracle Database 10.2.0.1—also known as Oracle Database 10g Release 2 (10gR2)—appeared.
+    2006: Oracle Corporation announces Unbreakable Linux[65] and acquires i-flex
+    2007: Oracle Database 10g release 2 sets a new world record TPC-H 3000 GB benchmark result[71]
+    2007: Oracle Corporation released Oracle Database 11g for Linux and for Microsoft Windows.
+    2008: Oracle Corporation acquires BEA Systems.
+    2010: Oracle Corporation acquires Sun Microsystems.
+    2011: Oracle Corporation acquires web content management system FatWire Software.
+    2011: On 18 October, Oracle Corporation acquires Endeca Technologies Inc. faceted search engine software vendor.
+    2013: Oracle Corporation released Oracle Database 12c[72] for Linux, Solaris and Windows. (The c stands for "cloud".)
+
+Patch Updates and Security Alerts
+
+Oracle Corporation releases Critical Patch Updates (CPUs) or Security Patch Updates (SPUs)[73] and Security Alerts to close security holes that could be used for data theft.Critical Patch Updates (CPUs) and Security Alerts 
+come out quarterly on the Tuesday closest to 17th day of the month.
+
+    Customers may receive release notification by email 
+    .
+    White Paper: Critical Patch Update Implementation Best Practices 
+
+Version numbering
+
+Oracle products follow a custom release numbering and naming convention. With the Oracle RDBMS 10g release, Oracle Corporation began using the "10g" label in all versions of its major products, although some sources refer to Oracle Applications Release 11i as Oracle 11i.[clarification needed] The suffixes "i", "g" and "c" do not actually represent a low-order part of the version number, as letters typically represent in software industry version numbering; that is, there is no predecessor version of Oracle 10g called Oracle 10f. Instead, the letters stand for "internet", "grid" and "cloud", respectively.[74] Consequently, many simply drop the "g" or "i" suffix when referring to specific versions of an Oracle product.
+
+Major database-related products and some of their versions include:
+
+    Oracle Application Server 10g (also known as "Oracle AS 10g"): a middleware product;
+    Oracle Applications Release 11i (aka Oracle e-Business Suite, Oracle Financials or Oracle 11i): a suite of business applications;
+    Oracle Developer Suite 10g (9.0.4);
+    Oracle JDeveloper 10g: a Java integrated development environment;
+
+Since version 2, Oracle's RDBMS release numbering has used the following codes:
+
+    Oracle v2 : 2.3
+    Oracle v3 : 3.1.3
+    Oracle v4 : 4.1.4.0-4.1.4.4
+    Oracle v5 : 5.0.22, 5.1.17, 5.1.22
+    Oracle v6 : 6.0.17-6.0.36 (no OPS code), 6.0.37 (with OPS)
+    Oracle7: 7.0.12–7.3.4
+    Oracle8 Database: 8.0.3–8.0.6
+    Oracle8i Database Release 1: 8.1.5.0–8.1.5.1
+    Oracle8i Database Release 2: 8.1.6.0–8.1.6.3
+    Oracle8i Database Release 3: 8.1.7.0–8.1.7.4
+    Oracle9i Database Release 1: 9.0.1.0–9.0.1.5 (Patchset as of December 2003)
+    Oracle9i Database Release 2: 9.2.0.1–9.2.0.8 (Patchset as of April 2007)
+    Oracle Database 10g Release 1: 10.1.0.2–10.1.0.5 (Patchset as of February 2006)
+    Oracle Database 10g Release 2: 10.2.0.1–10.2.0.5 (Patchset as of April 2010)[75]
+    Oracle Database 11g Release 1: 11.1.0.6–11.1.0.7 (Patchset as of September 2008)
+    Oracle Database 11g Release 2: 11.2.0.1–11.2.0.4 (Patchset as of August 2013)
+    Oracle Database 12c Release 1: 12.1.0.1 (Patchset as of June 2013)
+    Oracle Database 12c Release 1: 12.1.0.2 (Patchset as of July 2014)
+
+The version-numbering syntax within each release follows the pattern: major.maintenance.application-server.component-specific.platform-specific.
+
+For example, "10.2.0.1 for 64-bit Solaris" means: 10th major version of Oracle, maintenance level 2, Oracle Application Server (OracleAS) 0, level 1 for Solaris 64-bit.
+
+The Oracle Database Administrator's Guide 
+offers further information on Oracle release numbers.
+Oracle Database Product Family
+
+Based on licensing and pricing, Oracle Corporation groups its Oracle Database-related product portfolio into the "Oracle Database Product Family", which consists of the following:[76]
+
+    Oracle Database Editions, variations of the software designed for different scenarios.
+    Database Options, extra cost offers providing additional database functionality.
+    Oracle Data Models, database schemas, offering pre-built data models with database analytics and business intelligence capabilities for specific industries.
+    Management packs, integrated set of Oracle Enterprise Manager tools for maintaining various aspects of Oracle Database.
+    Some of Oracle engineered systems, either specifically built for Oracle Database deployment or supporting such capability.
+    Other related products intended for use with Oracle Database.
+
+Database Editions
+
+As of 2016 the latest Oracle Database version (12.1.0.2) comes in two editions:[76]
+
+    Oracle Database 12c Enterprise Edition (EE): Oracle Corporation's flagship database product. A fully featured edition of Oracle Database, it also allows purchase of add-on features in the form of Database Options and Management packs and imposes no limitation on server resources available to the database.[77]
+    Oracle Database 12c Standard Edition 2 (SE2): intended for small- to medium-sized implementations, this edition comes with Real Application Clusters option included, a reduced set of database features, and the licensing restriction to run on servers or clusters with a maximum of 2 sockets total and capped to use a maximum of 16 concurrent user threads.[78] Oracle positions SE2 as a starter edition, stressing complete upward compatibility and ease of upgrade to the more costly Enterprise Edition.[76][79]
+
+Oracle Corporation also makes the following editions available:[80]
+
+    Oracle Database Express Edition 11gR2 (Oracle Database XE), a free-to-use entry-level version of Oracle Database 11gR2 available for Windows and Linux platforms limited to using only one CPU, up to 1 GB of RAM and storing up to 11 GB of user data. Oracle Database XE is a separate product from the rest of Oracle Database product family. It provides a subset of Standard Edition functionality (lacking features such as Java Virtual Machine, managed backup and recovery and high availability), is community-supported and comes with its own license terms.[81] Express Edition was first introduced in 2005 with Oracle 10g release with a limitation to a maximum of 4 GB of user data.[82] Oracle 11g Express Edition, released on 24 September 2011,[83] increased user data cap to 11 GB.[84]
+    Oracle Database Personal Edition, a single-user, single-machine development and deployment license, allows use of all database features and extra-cost database options (with the exception of the Oracle RAC option). It is available for purchase for Windows and Linux platforms only and does not include management packs.[80]
+
+Up to and including Oracle Database 12.1.0.1, Oracle also offered the following:[85]
+
+    Standard Edition (SE) ran on single or clustered servers with a maximum capacity of 4 CPU sockets. It was largely the same as the current SE2 offer, including Real Application Clusters option at no additional cost, however allowing twice as much CPU sockets in a server or a cluster.
+    Standard Edition One (SE1), introduced with Oracle 10g, offered the same features as SE and was licensed to run on single servers with a maximum of two CPU sockets.
+
+Oracle Corporation discontinued SE and SE1 with the 12.1.0.2 release and stopped offering new licenses for these editions on December 1, 2015.[86] Industry journalists and some[quantify] ISVs perceived Oracle's desupport of affordable SE1 and restrictive updates to SE in the form of SE2 (specifically, the introduction of thread throttling and halving the number of licensable CPU sockets without changing price-per-socket) as an attempt to repress customers' efforts to scale SE/SE1 installations up to "enterprise" class by means of virtualization, while at the same time pushing them towards the more expensive Enterprise Edition or to Oracle Cloud Database as a service.[87][88]
+Database Options
+
+Oracle Corporation refers to a number of add-on database features as "Database Options".[76] These aim to enhance and complement existing database functionality to meet customer-specific requirements.[89] All Database Options are only available for Enterprise Edition and offered for an extra cost.[76][90] The one exception to these two rules is Oracle Real Application Clusters option which comes included with Oracle Database 12c Standard Edition 2 at no additional cost.[80]
+
+    Oracle Active Data Guard 
+    extends Oracle Data Guard functionality with advanced features, allowing read-only access to data in a physical standby database to offload primary of such tasks as reporting, ad-hoc queries, data extraction and backup, offloading redo transport and minimizing standby impact on commit response times (using Far Sync feature), providing option for rolling upgrades for non-RAC customers, managing clients workload across replicated database and improving automated service failover (using Global Data Services), etc.
+    Oracle Advanced Analytics 
+    allows access to in-database data mining algorithms and use of Oracle R Enterprise functionality, an integration with open-source R statistical programming language and environment.
+    Oracle Advanced Compression 
+    complements Enterprise Edition basic table compression feature with comprehensive data compression and Information Lifecycle Management capabilities, including those specifically tailored to Oracle's engineered systems, like Oracle Exadata.
+    Oracle Advanced Security 
+    provides Transparent Data Encryption and Data Redaction security features, the former allowing encryption of data stored in a database (all or a subset of it), exported using Data Pump, or backed up using Oracle Recovery Manager, and the latter allowing redaction of sensitive database data (e.g., credit card or social security numbers) returned to database applications.
+    Oracle Database In-Memory 
+    , an in-memory, column-oriented data store, has been seamlessly integrated[citation needed] into the Oracle Database. This technology aims to improve the performance of analytic workloads without impacting the performance of transactions that continue to use Oracle's traditional row format in memory. Note: data is persisted on disk only in a row format, so no additional storage is required. The product's performance comes through the in-memory columnar format and throughthe use of SIMD vector processing (Single Instruction processing Multiple Data values). Database In-Memory features include:
+        An In-Memory column store, a new[when?] component of the SGA called the In-Memory Area. One can allocate a little or a lot of memory to the In-Memory Area. The larger the In-Memory Area, the greater the number of objects that can be brought into memory in the In-Memory columnar format. Unlike in a pure in-memory database not all of the data in the Oracle Database requires populating into memory in the columnar format.
+        Only objects with the INMEMORY attribute get populated into the In-Memory column store. The INMEMORY attribute can be specified on a tablespace, table, (sub)partition, or materialized view. If it is enabled at the tablespace level, then all tables and materialized views in the tablespace are enabled for In-Memory by default.
+        Data is populated into a new In-Memory column store by a set of background processes referred to as worker processes (ora_w001_orcl). Each worker process receives a subset of database blocks from the object to populate into the In-Memory column store. Population is a streaming mechanism, simultaneously columnizing and compressing the data.
+        Oracle takes advantage of SIMD vector processing to scan the data in the columnar format. Instead of evaluating each entry in the column one at a time, SIMD vector processing allows a set of column values to be evaluated together in a single CPU instruction. The column format used in the IM column store has been specifically designed[by whom?] to maximize the number of column entries that can be loaded into the vector registers on the CPU and evaluated in a single CPU instruction.
+        Fault tolerance for In-Memory Column Store runs on Oracle Engineered Systems (Oracle Exadata, Oracle Database Appliance and Oracle Supercluster), mirroring the data in memory across RAC nodes. If one RAC node fails, the database simply reads from the other side of the mirror.
+        In-Memory Aggregation improves performance of typical analytic queries using efficient in-memory arrays for joins and aggregation.[91][need quotation to verify]
+    Oracle Database Vault 
+    enforces segregation of duties, principle of least privilege and other data access controls, allowing protection of application data from access by privileged database users.
+    Oracle Label Security 
+    is a sophisticated and flexible framework for a fine-grained label based access control (LBAC) implementation.
+    Oracle Multitenant 
+    is the capability that allows database consolidation and provides additional abstraction layer. In a Multitenant configuration, one Oracle database instance known as "container database" (CDB) acts as a federated database system for a collection of up to 252 distinct portable collections of database objects, referred to as "pluggable databases" (PDB), each appearing to an outside client as a regular non-CDB Oracle database.
+    Oracle On-Line Analytical Processing (OLAP) 
+    is Oracle implementation of online analytical processing.
+    Oracle Partitioning 
+    allows partitioning of tables and indices, where large objects are stored in database as a collection of individual smaller pieces at the same time appearing on application level as a uniform data object.
+    Oracle RAC One Node 
+    is a one-node version of Oracle Real Application Clusters, providing capabilities for database failover and high availability in the form of rolling upgrades, online instance migration, application continuity and automated quality of service management.
+    Oracle Real Application Clusters 
+    (Oracle RAC) is the cluster solution for Oracle Database.
+    Oracle Real Application Testing 
+    is a suite of features that enable comprehensive testing of system changes in a simulation of production-level workload and use. The option includes Database Replay, SQL Performance Analyzer, Database Consolidation Workbench and SQL Tuning Sets.
+    Oracle Spatial and Graph[92] complements the Oracle Locator feature (available in all editions of Oracle Database[93]) with advanced spatial capabilities enabling the development of complex geographic information systems and includes network data model and RDF/OWL Semantic graphs.
+    Oracle TimesTen Application-Tier Database Cache 
+    allows caching subsets of a database in the application tier for improved response time. It is built using Oracle TimesTen In-Memory Database.
+
+Supported platforms
+
+Oracle Database 12c is supported on the following OS and architecture combinations:
+
+    Linux on x86-64 (only Red Hat Enterprise Linux, Oracle Linux and SUSE distributions are supported[94])
+    Microsoft Windows on x86-64
+    Oracle Solaris on SPARC and x86-64
+    IBM AIX on POWER Systems
+    IBM Linux on z Systems
+    HP-UX on Itanium
+
+In 2011, Oracle Corporation announced the availability of Oracle Database Appliance, a pre-built, pre-tuned, highly available clustered database server built using two SunFire X86 servers and direct attached storage.
+
+Some Oracle Enterprise edition databases running on certain Oracle-supplied hardware can utilize Hybrid Columnar Compression for more efficient storage.[95]
+Related software
+Oracle products
+
+    Oracle Database Firewall[96] analyzes database traffic on a network to prevent threats such as SQL injection.[97]
+
+Suites
+
+In addition to its RDBMS, Oracle Corporation has released several related suites of tools and applications relating to implementations of Oracle databases. For example:
+
+    Oracle Application Server, a J2EE-based application server, aids in developing and deploying applications that use Internet technologies and a browser.
+    Oracle Collaboration Suite contains messaging, groupware and collaboration applications.
+    Oracle Developer Suite contains software development tools, including JDeveloper.
+    Oracle E-Business Suite collects together applications for enterprise resource planning (including Oracle Financials), customer relationship management and human resources management (Oracle HR).
+    Oracle Enterprise Manager (OEM) used by database administrators (DBAs) to manage the DBMS, and recently in version 10g, a web-based rewrite of OEM called "Oracle Enterprise Manager Database Control". Oracle Corporation has dubbed the super-Enterprise-Manager used to manage a grid of multiple DBMS and Application Servers "Oracle Enterprise Manager Grid Control".
+    Oracle Programmer/2000, a bundling of interfaces for 3GL programming languages, marketed with Oracle7 and Oracle8.[98][99]
+    Oracle WebCenter Suite[100]
+
+Database features
+
+Apart from the clearly defined database options, Oracle databases may include many semi-autonomous software sub-systems, which Oracle Corporation sometimes refers to as "features" in a sense subtly different from the normal usage of the word. For example, Oracle Data Guard counts officially as a feature, but the command-stack within SQL*Plus, though a usability feature, does not appear in the list of "features" in Oracle's list 
+.[original research?] Such "features" may include (for example):
+
+    Active Session History (ASH), the collection of data for immediate monitoring of very recent database activity.[101]
+    Automatic Workload Repository (AWR)],[102][103] providing monitoring and statistical services to Oracle database installations from Oracle version 10. Prior to the release of Oracle version 10, the Statspack facility[104] provided similar functionality.
+    Clusterware
+    Data Aggregation and Consolidation 
+    Data Guard 
+    for high availability
+    Generic Connectivity 
+    for connecting to non-Oracle systems.
+    Data Pump utilities, which aid in importing and exporting data and metadata between databases[105]
+    SQL*Loader, utility that facilitates high performance data loading.
+    Database Resource Manager (DRM), which controls the use of computing resources.[106]
+    Fast-start parallel rollback[107]
+    Fine-grained auditing (FGA) (in Oracle Enterprise Edition)[108] supplements standard security-auditing features[109]
+    Flashback for selective data recovery and reconstruction[110]
+    iSQL*Plus 
+    , a web-browser-based graphical user interface (GUI) for Oracle database data-manipulation (compare SQL*Plus)
+    Oracle Data Access Components (ODAC), tools that consist of:[111]
+        Oracle Data Provider for .NET (ODP.NET)[112]
+        Oracle Developer Tools (ODT) for Visual Studio
+        Oracle Providers for ASP.NET
+        Oracle Database Extensions for .NET
+        Oracle Provider for OLE DB
+        Oracle Objects for OLE
+        Oracle Services for Microsoft Transaction Server
+    Oracle-managed files 
+    (OMF) - a feature allowing automated naming, creation and deletion of datafiles at the operating-system level.
+    Oracle Multimedia (known as "Oracle interMedia" before Oracle 11g) for storing and integrating multimedia data within a database[113]
+    Oracle Spatial and Graph
+    Recovery Manager 
+    (rman) for database backup, restoration and recovery
+    SQL*Plus, a program that allows users to interact with Oracle database(s) via SQL and PL/SQL commands on a command-line. Compare iSQL*Plus.
+    SQLcl, a command-line interface for queries, developed on the basis of Oracle SQL Developer[114]
+
+    Universal Connection Pool (UCP), a connection pool based on Java and supporting JDBC, LDAP, and JCA[115]
+
+    Virtual Private Database[116] (VPD), an implementation of fine-grained access control.[117]
+    Oracle Application Express, a no-cost environment for database-oriented software-development[118]
+    Oracle XML DB,[119] or XDB,[120] a no-cost component in each edition of the database, provides high-performance technology for storing and retrieving native XML.
+
+    Oracle GoldenGate 11g 
+    (distributed real-time data acquisition)
+    Oracle Text uses standard SQL to index, search, and analyze text and documents stored in the Oracle database.
+
+This list is incomplete; you can help by expanding it.
+Utilities
+
+Oracle Corporation classifies as "utilities" bundled software supporting data transfer, data maintenance and database administration.[121]
+
+Utilities included in Oracle database distributions include:
+
+    oradebug - interfaces with Oracle session tracing[122]
+
+Tools
+
+Users can develop their own applications in Java and PL/SQL using tools such as:
+
+    Oracle Forms
+    Oracle JDeveloper
+    Oracle Reports
+
+As of 2007 Oracle Corporation had started a drive toward "wizard"-driven environments with a view to enabling non-programmers to produce simple data-driven applications.[123]
+
+The Database Upgrade Assistant (DBUA)[124] provides a GUI for the upgrading of an Oracle database.[125]
+
+JAccelerator (NCOMP) - a native-compilation Java "accelerator", integrates hardware-optimized Java code into an Oracle 10g database.[126]
+
+Oracle SQL Developer, a free graphical tool for database development, allows developers to browse database objects, run SQL statements and SQL scripts, and edit and debug PL/SQL statements. It incorporates standard and customized reporting.
+
+Oracle's OPatch provides patch management for Oracle databases.[127]
+
+The SQLTXPLAIN tool (or SQLT) provides tuning assistance for Oracle SQL queries.[128]
+Other databases marketed by Oracle Corporation
+
+Having acquired other technology in the database field, Oracle Corporation can also offer:
+
+    TimesTen, a memory-resident database that can cache transactions and synchronize data with a centralized Oracle database server. It functions as a real-time infrastructure software product intended for the management of low-latency, high-volume data, of events and of transactions.
+    BerkeleyDB, a simple, high-performance, embedded database
+    Oracle Rdb, a legacy relational database for the OpenVMS operating-system
+    MySQL, a relational database purchased as part of Oracle Corporation's takeover of MySQL's immediate previous owner, Sun Microsystems
+    Oracle NoSQL Database, a scalable, distributed key-value NoSQL database[129]
+
+External routines
+
+PL/SQL routines within Oracle databases can access external routines registered in operating-system shared libraries.[130][131]
+Use
+
+The Oracle RDBMS has had a reputation among novice users as difficult to install on Linux systems.[citation needed] Oracle Corporation has packaged recent versions for several popular Linux distributions in an attempt to minimize installation challenges beyond the level of technical expertise required to install a database server.[citation needed]
+Official support
+
+Users who have Oracle support contracts can use Oracle's "My Oracle Support" or "MOS"[132] web site - known as "MetaLink" until a re-branding exercise completed in October 2010. The support site provides users of Oracle Corporation products with a repository of reported problems, diagnostic scripts and solutions. It also integrates with the provision of support tools, patches and upgrades.
+
+The Remote Diagnostic Agent or RDA[133] can operate as a command-line diagnostic tool executing a script. The data captured provides an overview of the Oracle Database environment intended for diagnostic and trouble-shooting. Within RDA, the HCVE (Health Check Validation Engine)[134] can verify and isolate host system environmental issues that may affect the performance of Oracle software.
+Database-related guidelines
+
+Oracle Corporation also endorses certain practices and conventions as enhancing the use of its database products. These include:
+
+    Oracle Maximum Availability Architecture (MAA)[135] guidelines on developing high-availability systems
+    Optimal Flexible Architecture (OFA), blueprints for mapping Oracle-database objects to file-systems
+
+Oracle Certification Program
+Main article: Oracle Certification Program
+
+The Oracle Certification Program, a professional certification program, includes the administration of Oracle Databases as one of its main certification paths. It contains three levels:
+
+    Oracle Certified Associate (OCA)
+    Oracle Certified Professional (OCP)
+    Oracle Certified Master (OCM)
+
+User groups
+
+A variety of official (Oracle-sponsored) and unofficial Oracle User Groups has grown up of users and developers of Oracle databases. They include:
+
+    Geographical/regional user groups[136]
+    Independent Oracle Users Group
+    Industry-centric user groups
+    Oracle Technology Network
+    Oracle Health Sciences User Group 
+    Product-centric user groups
+    The OakTable Network
+    Usenet newsgroups
+
+Market position
+
+As of 2013 Oracle holds #1 DBMS market share worldwide based on the revenue share ahead of its four closest competitors - IBM , Microsoft, SAP and Teradata.[137]
+Competition
+
+In the market for relational databases, Oracle Database competes against commercial products such as IBM's DB2 UDB and Microsoft SQL Server. Oracle and IBM tend to battle for the mid-range database market on UNIX and Linux platforms, while Microsoft dominates the mid-range database market on Microsoft Windows platforms. However, since they share many of the same customers, Oracle and IBM tend to support each other's products in many middleware and application categories (for example: WebSphere, PeopleSoft, and Siebel Systems CRM), and IBM's hardware divisions work closely[citation needed] with Oracle on performance-optimizing server-technologies (for example, Linux on z Systems). The two companies have a relationship perhaps[original research?] best described as "coopetition". Niche commercial competitors include Teradata (in data warehousing and business intelligence), Software AG's ADABAS, Sybase, and IBM's Informix, among many others.
+
+Increasingly, the Oracle database products compete against such open-source software relational database systems as PostgreSQL, Firebird, and MySQL. Oracle acquired Innobase, supplier of the InnoDB codebase to MySQL, in part to compete better against open source alternatives, and acquired Sun Microsystems, owner of MySQL, in 2010. Database products licensed as open source are, by the legal terms of the Open Source Definition, free to distribute and free of royalty or other licensing fees.
+Pricing
+
+Oracle Corporation offers term licensing for all Oracle products. It bases the list price for a term-license on a specific percentage of the perpetual license price. Prospective purchasers can obtain licenses based either on the number of processors in their target machines or on the number of potential seats ("named users").[138]
+
+Enterprise Edition (DB EE)
+    As of July 2010, the database that costs the most per machine-processor among Oracle database editions, at $47,500 per processor. The term "per processor" for Enterprise Edition is defined with respect to physical cores and a processor core multiplier (common processors = 0.5*cores). e.g. An 8-processor, 32-core server using Intel Xeon 56XX CPUs would require 16 processor licenses.[139][140]
+Standard Edition (DB SE)
+    Cheaper: it can run on up to four processors but has fewer features than Enterprise Edition—it lacks proper parallelization,[141] etc.; but remains quite suitable for running medium-sized applications. There are not additional cost for Oracle RAC on the latest Oracle 11g R2 standard edition release.
+Standard ONE (DB SE1 or DB SEO)
+    Sells even more cheaply, but remains limited to two CPUs. Standard Edition ONE sells on a per-seat basis with a five-user minimum. Oracle Corporation usually sells the licenses with an extra 22% cost for support and upgrades (access to My Oracle Support—Oracle Corporation's support site), which customers must renew annually.
+Oracle Express Edition (DB XE)[142] (Oracle XE)
+    An addition to the Oracle database product family (beta version released in 2005, production version released in February 2006), offers a free version of the Oracle RDBMS, but one limited to 11 GB of user data and to 1 GB of memory used by the database (SGA+PGA).[143] XE will use no more than one CPU and lacks an internal JVM. XE runs on 32-bit and 64-bit Windows and 64-bit Linux, but not on AIX, Solaris, HP-UX and the other operating systems available for other editions. Support is via a free Oracle Discussion Forum 
+    only. 

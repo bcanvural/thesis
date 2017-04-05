@@ -1,0 +1,74 @@
+
+
+
+A correlation database is a database management system (DBMS) that is data-model-independent and designed to efficiently handle unplanned, ad hoc queries in an analytical system environment.
+
+Unlike row-oriented relational database management systems, which use a records-based storage approach, or column-oriented databases which use a column-based storage method, a correlation database uses a value-based storage (VBS) architecture in which each unique data value is stored only once and an auto-generated indexing system maintains the context for all values.[1]
+
+Contents
+
+    1 Structure
+    2 Comparison of DBMS storage structures
+        2.1 Storage in RDBMS
+        2.2 Storage in column-oriented databases
+        2.3 Storage in CDBMS
+    3 Advantages and disadvantages
+    4 References
+
+Structure
+
+Because a correlation DBMS stores each unique data value only once, the physical database size is significantly smaller than relational or column-oriented databases, without the use of data compression techniques. Above approximately 30GB, a correlation DBMS may become smaller than the raw data set.[citation needed]
+
+The VBS model used by a CDBMS consists of three primary physical sets of objects that are stored and managed:
+
+    a data dictionary (metadata);
+    an indexing and linking data set (additional metadata); and
+    the actual data values that comprise the stored information.
+
+In the VBS model, each unique value in the raw data is stored only once; therefore, the data is always normalized at the level of unique values.[2] This eliminates the need to normalize data sets in the logical schema.
+
+Data values are stored together in ordered sets based on data types: all integers in one set, characters in another, etc. This optimizes the data handling processes that access the values.
+
+In addition to typical data values, the data value store contains a special type of data for storing relationships between tables. This functions similarly to foreign keys in RDBMS structures, but with a CDBMS, the relationship is known by the dictionary and stored as a data value, making navigation between tables completely automatic.
+
+The data dictionary contains typical metadata plus additional statistical data about the tables, columns and occurrences of values in the logical schema. It also maintains information about the relationships between the logical tables. The index and linking storage includes all of the data used to locate the contents of a record from the ordered values in the data store.
+
+While not a RAM-based storage system, a CDBMS is designed to use as much RAM as the operating system can provide. For large databases, additional RAM improves performance. Generally, 4GB of RAM will provide optimized access times up to about 100 million records. 8GB of RAM is adequate for databases up to 10 times that size.[3] Because the incremental RAM consumed decreases as the database grows, 16GB of RAM will generally support databases containing up to approximately 20 billion records.
+Comparison of DBMS storage structures
+
+The sample records shown below illustrate the physical differences in the storage structures used in relational, column-oriented and correlation databases.
+Cust ID 	Name 	City 	State
+12222 	ABC Corp 	Minneapolis 	MN
+19434 	A1 Mfg 	Duluth 	MN
+20523 	J&J Inc 	St. Paul 	MN
+Storage in RDBMS
+
+The record-based structure used in an RDBMS stores elements in the same row adjacent to each other. Variations like clustered indexing may change the sequence of the rows, but all rows, columns and values will be stored as in the table. The above table might be stored as:
+
+      12222,ABC Corp,Minneapolis,MN;19434,A1 Mfg,Duluth,MN;20523,J&J Inc,St. Paul,MN
+
+Storage in column-oriented databases
+
+In the column-based structure, elements of the same column are stored adjacent to each other. Consecutive duplicates within a single column may be automatically removed or compressed efficiently.
+
+      12222,19434,20523;ABC Corp,A1 Mfg,J&J Inc;Minneapolis,Duluth,St.Paul;MN,MN,MN
+
+Storage in CDBMS
+
+In the VBS structure used in a CDBMS, each unique value is stored once and given an abstract (numeric) identifier, regardless of the number of occurrences or locations in the original data set. The original dataset is then constructed by referencing those logical identifiers. The correlation index may resemble the storage below. Note that the value "MN" which occurs multiple times in the data above is only included once. As the amount of repeat data grows, this benefit multiplies.
+
+      1:12222,2:19434,3:20523,4:ABC Corp,5:A1 Mfg,6:J&J Inc,7:Minneapolis,8:Duluth,9:St.Paul,10:MN
+
+The records in our example table above can then be expressed as:
+
+      11:[1,4,7,10],12:[2,5,8,10],13:[3,6,9,10]
+
+This correlation process is a form of database normalization. Just as one can achieve some benefits of column-oriented storage within an RDBMS, so too can one achieve some benefits of the correlation database through database normalization. However, in a traditional RDBMS this normalization process requires work in the form of table configuration, stored procedures, and SQL statements. We say that a database is a correlation database when it naturally expresses a fully normalized schema without this extra configuration. As a result, a correlation database may have more focused optimizations for this fully normalized structure.
+
+This correlation process is similar to what occurs in a text-search oriented Inverted index.
+Advantages and disadvantages
+
+For analytical data warehouse applications, a CDBMS has several advantages over alternative database structures. First, because the database engine itself indexes all data and auto-generates its own schema on the fly while loading, it can be implemented quickly and is easy to update. There is no need for physical pre-design and no need to ever restructure the database. Second, a CDBMS enables creation and execution of complex queries such as associative queries ("show everything that is related to x") that are difficult if not impossible to model in SQL. The primary advantage of the CDBMS is that it is optimized for executing ad hoc queries - queries not anticipated during the data warehouse design phase.[4]
+
+A CDBMS has two drawbacks in comparison to database alternatives. Unlike relational databases, which can be used in a wide variety of applications, a correlation database is designed specifically for analytical applications and does not provide transaction management features; it cannot be used for transactional processing. Second, because it indexes all data during the load process, the physical load speed of a CDBMS is slower than relational or column-oriented structures. However, because it eliminates the need for logical or physical pre-design, the overall "time to use" of a CDBMS is generally similar to or somewhat faster than alternative structures.
+A triplestore or RDF store is a purpose-built database for the storage and retrieval of triples[1] through semantic queries. A triple is a data entity composed of subject-predicate-object, like "Bob is 35" or "Bob knows Fred".

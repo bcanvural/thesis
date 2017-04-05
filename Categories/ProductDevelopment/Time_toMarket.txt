@@ -1,0 +1,45 @@
+In commerce, time to market (TTM) is the length of time it takes from a product being conceived until its being available for sale. TTM is important in industries where products are outmoded quickly. A common assumption is that TTM matters most for first-of-a-kind products, but actually the leader often has the luxury of time, while the clock is clearly running for the followers.[citation needed]
+
+Contents
+
+    1 Measuring TTM
+    2 TTM and quality
+    3 Types of TTM
+    4 History
+    5 See also
+    6 References
+
+Measuring TTM
+
+There are no standards for measuring TTM, and measured values can vary greatly. First, there is great variation in how different organizations define the start of the period. For example, in the automotive industry the development period starts when the product concept is approved.[citation needed] Other organizations realize that little will happen until the project is staffed, which can take a long time after approval if developers are tied up on existing projects. Therefore, they consider the start point when the project is fully staffed. The initial part of a project—before approval has been given or full staffing is allocated—has been called the fuzzy front end, and this stage can consume a great deal of time. Even though the fuzzy front end is difficult to measure, it must be included in TTM measurements for effective TTM management.
+
+Next, definitions of the end of the TTM period vary. Those who look at product development as engineering say the project is finished when engineering department transfers it to manufacturing. Others define the conclusion as when they ship the first copy of the new product or when a customer buys it. High-volume industries will often define the end point in terms of reaching a certain production volume, such as a million units per month.[citation needed]
+
+Finally, TTM measurements vary greatly depending on complexity –- complexity of the product itself, the technologies it incorporates, its manufacturing processes, or the organizational complexity of the project (for example, outsourced components). New-to-the-world products are much slower than derivatives of existing products. Some companies have been successful in putting their products into categories of newness, but establishing levels of complexity remains elusive.
+
+Although TTM can vary widely, all that matters is an organization's TTM capability relative to its direct competitors. Organizations in other industries may be much faster, but do not pose a competitive threat, although one may be able to learn from them and adapt their techniques.
+TTM and quality
+
+A tacit assumption of many is that TTM and product quality are opposing attributes of a development process. TTM may be improved (shortened) by skipping steps of the development process, thus compromising product quality.[citation needed] For those who use highly structured development processes such as Phase–gate model or Six Sigma, product development is often viewed as a clearly defined sequence of steps to be followed. Skipping a step—due to perceived time pressure, for example—may not only undercut quality but can ultimately lengthen TTM if the organization must complete or repeat the step later. Following this view, TTM is usually improved by following all of the prescribed steps.[citation needed]
+
+Other organizations operate more aggressively, recognizing that not all steps need to be completed for every project. Furthermore, they actively apply tools and techniques that will shorten or overlap steps, cut decision-making time, and automate activities. Many such tools and techniques are available (see References below).
+Types of TTM
+
+Organizations pursue TTM improvement for a variety of reasons. Some variations of TTM are
+
+    Pure speed, that is, bring the product to market as quickly as possible. This is valuable in fast-moving industries, but it is not always the best objective.
+    More predictable schedules. Rather than reaching the market as soon as possible, delivering on schedule, for example to have the new product available for a trade show, can be more valuable. In addition to processes such as Stage-Gate or Six Sigma, project risk management (see References below) is an effective tool here.
+    Minimizing resources, especially labor. Many managers figure that the shorter the project the less it will cost, so they attempt to use TTM as a means of cutting expenses. Ironically, a primary means of reducing TTM is to staff the project more heavily,[citation needed] so a faster project may actually be more expensive.
+    Flexibility to make changes. Product innovation is intimately tied to change, and often the need for change appears midstream in a project. Consequently, the ability to make changes during development without being too disruptive can be valuable. For example, one’s goal could be to satisfy customers, which could be achieved by adjusting product requirements during development in response to customer feedback. Then TTM could be measured from the last change in requirements until the product is delivered.
+
+These types of TTM illustrate that an organization’s TTM goals should be aligned with its business strategy rather than pursuing speed blindly.
+History
+
+The first recorded conference on Time-to-Market was organised by Bart Hall of AiC and held on 25 and 26 October 1995 at the St James Hotel in London. It was chaired by Mike Woodman, then of Logica and now with Coplexis Consulting, and Allen Porter of AIIT.
+See also
+
+    New product development
+    Flexible product development
+    Six Sigma
+    Follow-the-sun
+

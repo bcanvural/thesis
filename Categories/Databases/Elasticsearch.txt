@@ -1,0 +1,63 @@
+Elasticsearch is a search engine based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Elasticsearch is the most popular enterprise search engine followed by Apache Solr, also based on Lucene.[1]
+
+Contents
+
+    1 History
+    2 Overview
+    3 Users
+    4 See also
+    5 References
+    6 External links
+
+History
+
+Shay Banon created Compass in 2004.[2] While thinking about the third version of Compass he realized that it would be necessary to rewrite big parts of Compass to "create a scalable search solution".[2] So he created "a solution built from the ground up to be distributed" and used a common interface, JSON over HTTP, suitable for programming languages other than Java as well.[2] Shay Banon released the first version of Elasticsearch in February 2010.[3]
+
+Elasticsearch BV was founded in 2012 to provide commercial services and products around Elasticsearch and related software.[4] In June 2014, the company announced raising $70 million in a Series C funding round, just 18 months after forming the company. The round was led by New Enterprise Associates (NEA). Additional funders include Benchmark Capital and Index Ventures. This round brings total funding to $104M.[5]
+Version 	Original release date 	Latest version 	Release date 	Maintenance Status[6]
+0.4 	2010-02-08 	0.4.0 	2010-02-08 	No longer supported
+0.5 	2010-03-05[7] 	0.5.1 	2010-03-09 	No longer supported
+0.6 	2010-04-09[8] 	0.6.0 	2010-04-09 	No longer supported
+0.7 	2010-05-14[9] 	0.7.1 	2010-05-17[10] 	No longer supported
+0.8 	2010-05-27[11] 	0.8.0 	2010-05-27 	No longer supported
+0.9 	2010-07-26[12] 	0.9.0 	2010-07-26 	No longer supported
+0.10 	2010-08-27[13] 	0.10.0 	2010-08-27 	No longer supported
+0.11 	2010-09-29[14] 	0.11.0 	2010-09-29 	No longer supported
+0.12 	2010-10-18[15] 	0.12.1 	2010-10-27 	No longer supported
+0.13 	2010-11-18[16] 	0.13.1 	2010-12-03 	No longer supported
+0.14 	2010-12-27[17] 	0.14.4 	2011-01-31 	No longer supported
+0.15 	2011-02-18[18] 	0.15.2 	2011-03-07 	No longer supported
+0.16 	2011-04-23[19] 	0.16.5 	2011-07-26 	No longer supported
+0.17 	2011-07-19[20] 	0.17.10 	2011-11-16 	No longer supported
+0.18 	2011-10-26[21] 	0.18.7 	2012-01-10[22] 	No longer supported
+0.19 	2012-03-01[23] 	0.19.12 	2012-12-04[24] 	No longer supported
+0.20 	2012-12-07[25] 	0.20.6 	2013-03-25[26] 	No longer supported
+0.90 	2013-04-29[27] 	0.90.13 	2014-03-25[28] 	No longer supported
+1.0 	2014-02-12[29] 	1.0.3 	2014-04-16[30] 	No longer supported
+1.1 	2014-03-25[28] 	1.1.2 	2014-05-22[31] 	No longer supported
+1.2 	2014-05-22[31] 	1.2.4 	2014-08-13[32] 	No longer supported
+1.3 	2014-07-23[33] 	1.3.9 	2015-02-19[34] 	No longer supported
+1.4 	2014-11-05[35] 	1.4.5 	2015-04-27[36] 	Still supported
+1.5 	2015-03-23[37] 	1.5.2 	2015-04-27[36] 	Still supported
+1.6 	2015-06-09[38] 	1.6.2 	2015-07-29[39] 	Still supported
+1.7 	2015-07-16[40] 	1.7.5 	2016-02-02[41] 	Still supported
+2.0 	2015-10-28[42] 	2.0.2 	2015-12-17[43] 	Still supported
+2.1 	2015-11-24[44] 	2.1.2 	2016-02-02[41] 	Still supported
+2.2 	2016-02-02[41] 	2.2.2 	2016-03-30[45] 	Still supported
+2.3 	2016-03-30[45] 	2.3.3 	2016-05-18[46] 	Latest
+5.0 	2016-04-05[47] 	5.0.0 Alpha 4 	2016-06-30[48] 	Latest preview version
+Legend:
+Old version
+Older version, still supported
+Latest version
+Latest preview version
+Overview
+
+Elasticsearch can be used to search all kinds of documents. It provides scalable search, has near real-time search, and supports multitenancy.[49] "Elasticsearch is distributed, which means that indices can be divided into shards and each shard can have zero or more replicas. Each node hosts one or more shards, and acts as a coordinator to delegate operations to the correct shard(s). Rebalancing and routing are done automatically [...]".[49]
+
+Elasticsearch uses Lucene and tries to make all its features available through the JSON and Java API. It supports facetting and percolating,[50] which can be useful for notifying if new documents match for registered queries.
+
+Another feature is called "gateway" and handles the long-term persistence of the index;[51] for example, an index can be recovered from the gateway in the event of a server crash. Elasticsearch supports real-time GET requests, which makes it suitable as a NoSQL datastore,[52] but it lacks distributed transactions.[53]
+Users
+
+Notable users of Elasticsearch[54] include Wikimedia,[55] Facebook,[56] StumbleUpon,[57] Mozilla,[58][59] Amadeus IT Group, Quora,[60] Foursquare,[61] Etsy,[62] SoundCloud,[63] GitHub,[64] FDA,[65] CERN,[66] Stack Exchange,[67] Center for Open Science,[68] Reverb,[69] Netflix,[70] Pixabay,[71] Motili, Sophos and the Slurm Workload Manager.[citation needed]

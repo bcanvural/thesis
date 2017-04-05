@@ -1,0 +1,30 @@
+KNIME (pronounced /naɪm/), the Konstanz Information Miner, is an open source data analytics, reporting and integration platform. KNIME integrates various components for machine learning and data mining through its modular data pipelining concept. A graphical user interface allows assembly of nodes for data preprocessing (ETL: Extraction, Transformation, Loading), for modeling and data analysis and visualization.
+
+Since 2006, KNIME has been used in pharmaceutical research,[2] but is also used in other areas like CRM customer data analysis, business intelligence and financial data analysis.
+
+Contents
+
+    1 History
+    2 Internals
+    3 License
+    4 See also
+    5 References
+    6 External links
+
+History
+
+The Development of KNIME was started January 2004 by a team of software engineers at University of Konstanz as a proprietary product. The original developer team headed by Michael Berthold came from a company in the Silicon Valley providing software for the pharmaceutical industry. KNIME has been developed from day one using rigorous professional software engineering processes since it was clear from the beginning that it was to be used in large scale enterprises[citation needed]. The initial goal was to create a modular, highly scalable and open data processing platform which allowed for the easy integration of different data loading, processing, transformation, analysis and visual exploration modules without the focus on any particular application area. The platform was intended to be a collaboration and research platform and should also serve as an integration platform for various other data analysis projects[citation needed].
+
+In 2006 the first version of KNIME was released and several pharmaceutical companies started using KNIME and a number of life science software vendors began integrating their tools into KNIME.[3][4][5][6][7] Later that year, after an article in the German magazine c't,[8] users from a number of other areas[9][10] joined ship. As of 2012, KNIME is in use by over 15,000 actual users (i.e. not counting downloads but users regularly retrieving updates when they become available) not only in the life sciences but also at banks, publishers, car manufacturer, telcos, consulting firms, and various other industries but also at a large number of research groups worldwide.
+A screenshot of KNIME.
+Internals
+
+KNIME allows users to visually create data flows (or pipelines), selectively execute some or all analysis steps, and later inspect the results, models, and interactive views. KNIME is written in Java and based on Eclipse and makes use of its extension mechanism to add plugins providing additional functionality. The core version already includes hundreds of modules for data integration (file I/O, database nodes supporting all common database management systems), data transformation (filter, converter, combiner) as well as the commonly used methods for data analysis and visualization. With the free Report Designer extension, KNIME workflows can be used as data sets to create report templates that can be exported to document formats like doc, ppt, xls, pdf and others. Other capabilities of KNIME are:
+
+    KNIMEs core-architecture allows processing of large data volumes that are only limited by the available hard disk space (most other open source data analysis tools are working in main memory and are therefore limited to the available RAM). E.g. KNIME allows analysis of 300 million customer addresses, 20 million cell images and 10 million molecular structures.
+    Additional plugins allows the integration of methods for Text mining, Image mining, as well as time series analysis.
+    KNIME integrates various other open-source projects, e.g. machine learning algorithms from Weka, the statistics package R project, as well as LIBSVM, JFreeChart, ImageJ, and the Chemistry Development Kit.[11]
+
+KNIME is implemented in Java but also allows for wrappers calling other code in addition to providing nodes that allow to run Java, Python, Perl and other code fragments.
+License
+As of version 2.1, KNIME is released under GPLv3 with an exception that allows others to use the well defined node API to add proprietary extensions.[12] This allows also commercial SW vendors to add wrappers calling their tools from KNIME.

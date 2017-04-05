@@ -1,0 +1,43 @@
+System programming (or systems programming) is the activity of programming computer system software. The primary distinguishing characteristic of systems programming when compared to application programming is that application programming aims to produce software which provides services to the user directly (e.g. word processor), whereas systems programming aims to produce software and software platforms which provide services to other software, are performance constrained, or both (e.g. operating systems, computational science applications, game engines and AAA video games, industrial automation, and software as a service applications).[1]
+
+System programming requires a great degree of hardware awareness. Its goal is to achieve efficient use of available resources, either because the software itself is performance critical (AAA video games) or because even small efficiency improvements directly transform into significant monetary savings for the service provider (cloud based word processors).
+
+Contents
+
+    1 Overview
+    2 History
+    3 Alternate usage
+    4 See also
+    5 References
+    6 Further reading
+
+Overview
+
+The following attributes characterize systems programming:
+
+    The programmer will make assumptions about the hardware and other properties of the system that the program runs on, and will often exploit those properties, for example by using an algorithm that is known to be efficient when used with specific hardware.
+    Usually a low-level programming language or programming language dialect is used that:
+        can operate in resource-constrained environments
+        is very efficient and has little runtime overhead
+        has a small runtime library, or none at all
+        allows for direct and "raw" control over memory access and control flow
+        lets the programmer write parts of the program directly in assembly language
+    Often systems programs cannot be run in a debugger. Running the program in a simulated environment can sometimes be used to reduce this problem.
+
+Systems programming is sufficiently different from application programming that programmers tend to specialize in one or the other.[citation needed]
+
+In system programming, often limited programming facilities are available. The use of automatic garbage collection is not common and debugging is sometimes hard to do. The runtime library, if available at all, is usually far less powerful, and does less error checking. Because of those limitations, monitoring and logging are often used; operating systems may have extremely elaborate logging subsystems.
+
+Implementing certain parts in operating systems and networking requires systems programming, for example implementing Paging (Virtual Memory) or a device driver for an operating system.
+History
+
+Originally systems programmers invariably wrote in assembly language. Experiments with hardware support in high level languages in the late 1960s led to such languages as PL/S, BLISS, BCPL, and extended ALGOL for Burroughs large systems. Forth also has applications as a systems language. In the 1980s, C became ubiquitous, aided by the growth of Unix. More recently C++ has seen some use, for instance a subset of it is used in the I/O Kit drivers of Mac OS X.[2]
+Alternate usage
+
+For historical reasons, some organizations use the term systems programmer to describe a job function which would be more accurately termed systems administrator. This is particularly true in organizations whose computer resources have historically been dominated by mainframes, although the term is even used to describe job functions which do not involve mainframes. This usage arose because administration of IBM mainframes often involved the writing of custom assembler code (IBM's Basic Assembly Language (BAL)), which integrated with the operating system such as OS/MVS, DOS/VSE or VM/CMS. Indeed, some IBM software products had substantial code contributions from customer programming staff. This type of programming is progressively less common, but the term systems programmer is still the de facto job title for staff directly administering IBM mainframes.
+See also
+
+    Ousterhout's dichotomy
+    System programming language
+    Scripting language
+

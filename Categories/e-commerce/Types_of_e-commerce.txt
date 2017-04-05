@@ -1,0 +1,104 @@
+Various types of e-commerce platforms fall into several industry classifications based upon their licensing model, sales scenario and data exchange.
+
+Contents
+
+    1 Types of licensing models
+        1.1 On-premises e-commerce
+        1.2 Software as a service (SaaS) E-commerce
+        1.3 Fully Managed (FM) E-commerce
+        1.4 Open source E-commerce
+    2 Types of sales scenario
+        2.1 Business-to-Consumer (B2C)
+        2.2 Business-to-Business (B2B)
+        2.3 Consumer-to-Business (C2B)
+        2.4 Consumer-to-Consumer (C2C) also known as Peer-to-Peer or (P2P)
+    3 Types of data exchange
+        3.1 Integrated E-commerce
+        3.2 Interfaced E-commerce
+    4 See also
+    5 References
+
+Types of licensing models
+On-premises e-commerce
+
+On-premises e-commerce software usually requires initial one time purchase investment in terms of licensing fees. Also, it implies extra costs related to hardware and installation services as well as data migration and on-going maintenance fees that are usually charged on a yearly basis for software updates and support. Some examples of typical on premises E-commerce platforms are Oracle Web Commerce (formerly ATG) 
+Hybris (company),[1] Intershop Communications,[2] Sana Commerce.,[3] and IBM WebSphere.[4]
+
+Advantages:
+
+    Easily customizable;
+    Data security;
+    High performance;
+
+Disadvantages:
+
+    Large initial investment;
+    Self-maintenance;
+    Technical knowledge
+
+Software as a service (SaaS) E-commerce
+
+Software as a Service (SaaS)- is a cloud based delivery model in which applications are hosted and managed in a service provider's datacenter, paid for on a subscription basis and accessed via a browser over an internet connection. Two examples of typical SaaS E-commerce solutions are Shopify[5] and Demandware.[6]
+
+Advantages:
+
+    Affordable low-cost solution;
+    Hosted/upgraded by E-commerce provider;
+    Easily scalable
+
+Disadvantages:
+
+    Limited integration with back-end systems;
+    Lack of data security;
+    Limited control over the system;
+
+Fully Managed (FM) E-commerce
+
+Fully Managed (FM) E-commerce - is the next step of Platform as a Service (PaaS). As a basis, PaaS consists of e-commerce software and hardware hosting. In addition to this, fully managed e-commerce solutions provide services like product picture taking, image editing, data management, customer support, marketing consulting.[7] FM E-Commerce is offered to brick-and-mortar stores as a B2B solution to help them start selling online quickly and at low cost. The licensing model is usually based on the sales volume.
+Open source E-commerce
+
+Open source e-Commerce is a free of charge platform that doesn’t imply licenses fee. Furthermore, open source users are also responsible for installing, maintaining, securing and configuring the software on their own servers. In order to set up an open source platform, basic technical expertise is required in the areas of web design and development. Software products that are distributed as open source are generally free, and users can access and modify the source code.
+
+Advantages:
+
+    Free of charge system;
+    Wide variety of available addons/plugins/extensions;
+    Better flexibility with a customizable source code;
+
+Disadvantages:
+
+    More technical knowledge required;
+    Performance depends on hosting costs
+    No standard integration with back-end system;
+
+Types of sales scenario
+
+There are multiple types of sales scenario some of it are as follows:-
+Business-to-Consumer (B2C)
+
+In a Business-to-Consumer E-commerce environment, companies sell their online goods to consumers who are the end users of their products or services. Usually, B2C E-commerce web shops have an open access for any visitor and user.
+Business-to-Business (B2B)
+
+In a Business-to-Business E-commerce environment, companies sell their online goods to other companies without being engaged in sales to consumers. In most B2B E-commerce environments entering the web shop will require a log in. B2B web shop usually contains customer-specific pricing, customer-specific assortments and customer-specific discounts. There are several SaaS B2B eCommerce platforms available.
+Consumer-to-Business (C2B)
+
+In a Consumer-to-Business E-commerce environment, consumers usually post their products or services online on which companies can post their bids. A consumer reviews the bids and selects the company that meets his price expectations.
+Consumer-to-Consumer (C2C) also known as Peer-to-Peer or (P2P)
+
+In a Consumer-to-Consumer E-commerce environment consumers sell their goods to other consumers. A well-known example is eBay. New mobile version gaining a lot of traction are OfferUP and Close5.
+Types of data exchange
+
+Many E-commerce software retrieve the information from a certain back-end system, such as an Enterprise resource planning (ERP) or Customer relationship management (CRM) system. This information is stored in the database of that system. The Business logic contains all of the business rules that define the way data is stored, created, displayed, calculated and is being recreated inside an ERP or CRM system. For example: different product discounts are applied for different customer accounts. In order to retrieve the information, two types of data exchange are taken into account.
+Integrated E-commerce
+
+In integrated E-commerce, a part of the software solution is installed inside the back-end system. This means that the connection between the business logic and database of a back-end system is configured automatically. Information that is available in the back-end system is being re-used and displayed in the front/back end of the E-commerce system. An integrated E-commerce software product thus doesn’t require to invest in recreating a separate database or business logic. Instead, it re-uses those of the back-end system. Integrated software is mostly used in B2B e-commerce, where there is a strong need for personalized business data to be available on the web store real-time. A typical example of an integrated E-commerce software is Sana Commerce.
+Interfaced E-commerce
+
+In interfaced E-commerce, the software solution is installed on top of the back-end system. This means that the connection between the business logic and database of a back-end system is set up manually. Information that is available in the back-end system is being duplicated into the E-commerce software. An interfaced E-commerce software product thus has their own database and business logic that are being synchronized constantly through a connection to a certain back-end system. Interfaced E-commerce is mostly used in a B2C scenario. An example of an interfacing E-commerce software is Magento.
+See also
+
+    Comparison of free software e-commerce web application frameworks
+    Comparison of shopping cart software
+    E-commerce
+    Mobile commerce
+

@@ -1,0 +1,133 @@
+Wolfram Mathematica (sometimes referred to as Mathematica) is a symbolic mathematical computation program, sometimes called a computer algebra program, used in many scientific, engineering, mathematical, and computing fields. It was conceived by Stephen Wolfram and is developed by Wolfram Research of Champaign, Illinois.[6][7] The Wolfram Language is the programming language used in Mathematica.[8]
+
+Contents
+
+    1 Features
+    2 Interface
+    3 High-performance computing
+    4 Deployment
+    5 Connections with other applications
+    6 Computable data
+    7 Version history
+    8 See also
+    9 References
+    10 External links
+
+Features
+Dini's surface plotted with adjustable parameters
+
+Features of Wolfram Mathematica include:[9]
+
+    Elementary and Special mathematical function libraries
+    Support for complex number, arbitrary precision, interval arithmetic and symbolic computation
+    Matrix and data manipulation tools including support for sparse arrays
+    2D and 3D data, function and geo visualization and animation tools
+    Solvers for systems of equations, diophantine equations, ODEs, PDEs, DAEs, DDEs, SDEs and recurrence relations
+    Numeric and symbolic tools for discrete and continuous calculus including continuous and discrete integral transforms
+    Constrained and unconstrained local and global optimization
+    Multivariate statistics libraries including fitting, hypothesis testing, and probability and expectation calculations on over 140 distributions.
+    Support for censored data, temporal data, time-series and unit based data
+    Calculations and simulations on random processes and queues
+    Supervised and unsupervised machine learning tools for data, images and sounds
+    Tools for text mining including regular expressions and semantic analysis
+    Data mining tools such as cluster analysis, sequence alignment and pattern matching
+    Computational geometry in 2D, 3D and higher dimensions
+    Finite element analysis including 2D and 3D adaptive mesh generation
+    Libraries for signal processing including wavelet analysis on sounds, images and data
+    Linear and non-linear Control systems libraries
+    Tools for 2D and 3D image processing[10] and morphological image processing including image recognition
+    Tools for visualizing and analysing directed and undirected graphs
+    Tools for combinatoric problems
+    Number theory function library
+    Tools for financial calculations including bonds, annuities, derivatives, options etc.
+    Group theory and symbolic tensor functions
+    Import and export filters for data, images, video, sound, CAD, GIS,[11] document and biomedical formats
+    Database collection for mathematical, scientific, and socio-economic information and access to WolframAlpha data and computations
+    Technical word processing including formula editing and automated report generating
+    Programming language supporting procedural, functional and object oriented constructs
+    Toolkit for adding user interfaces to calculations and applications
+    Tools for connecting to DLL, SQL, Java, .NET, C++, Fortran, CUDA, OpenCL, and http based systems
+    Tools for parallel programming
+    Using both "free-form linguistic input" (a natural language user interface)[12][13] and Wolfram Language in notebook when connected to the Internet
+
+Interface
+
+Wolfram Mathematica is split into two parts, the kernel and the front end. The kernel interprets expressions (Wolfram Language code) and returns result expressions.
+
+Mathematica is a programming language that has evolved over several years of development
+
+The front end, designed by Theodore Gray,[14] provides a GUI, which allows the creation and editing of Notebook documents containing program code with prettyprinting, formatted text together with results including typeset mathematics, graphics, GUI components, tables, and sounds. All content and formatting can be generated algorithmically or edited interactively. Most standard word processing capabilities are supported. It includes a spell-checker but does not spell check automatically as you type.
+
+Documents can be structured using a hierarchy of cells, which allow for outlining and sectioning of a document and support automatic numbering index creation. Documents can be presented in a slideshow environment for presentations. Notebooks and their contents are represented as Mathematica expressions that can be created, modified or analyzed by Mathematica programs. This allows conversion to other formats such as TeX or XML.
+
+The front end includes development tools such as a debugger, input completion and automatic syntax coloring.
+
+Among the alternative front ends is the Wolfram Workbench, an Eclipse based IDE, introduced in 2006. It provides project-based code development tools for Mathematica, including revision management, debugging, profiling, and testing.[15] The Mathematica Kernel also includes a command line front end.[16] Other interfaces include JMath,[17] based on GNU readline and MASH[18] which runs self-contained Mathematica programs (with arguments) from the UNIX command line.
+
+Wolfram Research has published a series of hands-on starter webcasts that introduce the user interface and the engine.[19]
+High-performance computing
+
+In recent years, the capabilities for high-performance computing have been extended with the introduction of packed arrays (version 4, 1999)[20] and sparse matrices (version 5, 2003),[21] and by adopting the GNU Multi-Precision Library to evaluate high-precision arithmetic.
+
+Version 5.2 (2005) added automatic multi-threading when computations are performed on multi-core computers.[22] This release included CPU specific optimized libraries. In addition Mathematica is supported by third party specialist acceleration hardware such as ClearSpeed.[23]
+
+In 2002, gridMathematica was introduced to allow user level parallel programming on heterogeneous clusters and multiprocessor systems[24] and in 2008 parallel computing technology was included in all Mathematica licenses including support for grid technology such as Windows HPC Server 2008, Microsoft Compute Cluster Server and Sun Grid.
+
+Support for CUDA and OpenCL GPU hardware was added in 2010. Also, since version 8 it can generate C code, which is automatically compiled by a system C compiler, such as GCC or Microsoft Visual Studio.
+Deployment
+
+There are several ways to deploy applications written in Wolfram Mathematica:
+
+    Mathematica Player Pro is a runtime version of Mathematica that will run any Mathematica application but does not allow editing or creation of the code.[25]
+    A free-of-charge version, Wolfram CDF Player, is provided for running Mathematica programs that have been saved in the Computable Document Format (CDF).[26] It can also view standard Mathematica files, but not run them. It includes plugins for common web browsers on Windows and Macintosh.
+    webMathematica allows a web browser to act as a front end to a remote Mathematica server. It is designed to allow a user written application to be remotely accessed via a browser on any platform. It may not be used to give full access to Mathematica. Due to bandwidth limitations interactive 3D graphics ist not fully supported within a web browser.
+    Wolfram Language code can be converted to C code or to an automatically generated DLL.
+    Wolfram Language code can be run on a Wolfram cloud service as a web-app or as an API
+
+Connections with other applications
+
+Communication with other applications occurs through a protocol called WSTP 
+. It allows communication between the Wolfram Mathematica kernel and front-end, and also provides a general interface between the kernel and other applications. Wolfram Research freely distributes a developer kit for linking applications written in the C programming language to the Mathematica kernel through WSTP. Using J/Link.,[27] a Java program can ask Mathematica to perform computations; likewise, a Mathematica program can load Java classes, manipulate Java objects and perform method calls. Similar functionality is achieved with .NET /Link,[28] but with .NET programs instead of Java programs. Other languages that connect to Mathematica include Haskell,[29] AppleScript,[30] Racket,[31] Visual Basic,[32] Python[33][34] and Clojure.[35]
+
+Links are available to many mathematical software packages including OpenOffice.org Calc,[36] Microsoft Excel,[37] MATLAB,[38][39][40] R,[41] Sage,[42][43] SINGULAR,[44] Wolfram SystemModeler, and Origin.[45] Mathematical equations can be exchanged with other computational or typesetting software via MathML.
+
+Communication with SQL databases is achieved through built-in support for JDBC.[46] Mathematica can also install web services from a WSDL description.[47][48] It can access HDFS data via Hadoop.[49]
+
+Mathematica can capture real-time data via a link to LabVIEW,[50] from financial data feeds[51] and directly from hardware devices via GPIB (IEEE 488),[52] USB[53] and serial interfaces.[54] It automatically detects and reads from HID devices.
+Computable data
+A stream plot of live weather data
+
+Wolfram Mathematica includes collections of curated data provided for use in computations. Mathematica is also integrated with Wolfram Alpha, an online service which provides additional data, some of which is kept updated in real time. Some of the data sets include astronomical, chemical, geopolitical, language, biomedical and weather data, in addition to mathematical data (such as knots and polyhedra).[55]
+Version history
+
+Wolfram Mathematica built on the ideas in Cole and Wolfram's earlier Symbolic Manipulation Program (SMP).[56][57] The name of the program "Mathematica" was suggested to Stephen Wolfram by Apple co-founder Steve Jobs although Stephen Wolfram had thought about it earlier and rejected it.[58]
+
+Wolfram Research has released the following versions of Mathematica:[59]
+
+    Mathematica 1.0 (June 23, 1988)[60][61][62][63]
+    Mathematica 1.1 (October 31, 1988)
+    Mathematica 1.2 (August 1, 1989)[64][63]
+    Mathematica 2.0 (January 15, 1991)[65][63]
+    Mathematica 2.1 (June 15, 1992)[63]
+    Mathematica 2.2 (June 1, 1993)[63][66]
+    Mathematica 3.0 (September 3, 1996)[67]
+    Mathematica 4.0 (May 19, 1999)[63][68]
+    Mathematica 4.1 (November 2, 2000)[63]
+    Mathematica 4.2 (November 1, 2002)[63]
+    Mathematica 5.0 (June 12, 2003)[63][69]
+    Mathematica 5.1 (October 25, 2004)[63][70]
+    Mathematica 5.2 (June 20, 2005)[63][71]
+    Mathematica 6.0 (May 1, 2007)[72][73]
+    Mathematica 7.0 (November 18, 2008)[74]
+    Mathematica 8.0 (November 15, 2010)
+    Mathematica 9.0 (November 28, 2012)
+    Mathematica 10.0 (July 9, 2014)
+    Mathematica 10.0.2 (December 10, 2014)
+    Mathematica 10.1 (March 30, 2015)[75]
+    Mathematica 10.2 (July 14, 2015)[76]
+    Mathematica 10.3 (October 15, 2015)
+    Mathematica 10.3.1 (December 16, 2015)
+    Mathematica 10.4 (March 2, 2016)
+    Mathematica 10.4.1 (April 18, 2016)
+
+

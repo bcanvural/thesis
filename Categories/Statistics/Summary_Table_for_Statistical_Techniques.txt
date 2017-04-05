@@ -1,0 +1,436 @@
+Summary Table for Statistical Techniques
+
+(printable version )
+Summary Table for Statistical Techniques
+  	
+Inference
+	
+Parameter
+	
+Statistic
+	
+Type of Data
+	
+Examples
+	
+Analysis
+	
+Minitab Command
+	
+Conditions
+1 	Estimating a Mean 	
+
+One Population Mean
+
+\(\mu\)
+	
+
+Sample Mean
+
+\(\bar{x}\)
+	Numerical 	
+
+What is the average weight of adults?
+
+What is the average cholesterol level of adult females?
+	
+
+1-sample t-interval
+
+\(\bar{x}\pm t_{\alpha /2}\cdot \frac{s}{\sqrt{n}}\)
+	Stat > Basic statistics > 1-sample t 	
+
+data approximately normal
+
+OR
+
+have a large sample size (n ≥ 30)
+2 	Test About a Mean 	
+
+One population Mean
+
+\(\mu\)
+	
+
+Sample Mean
+
+\(\bar{x}\)
+	Numerical 	
+
+Is the average GPA of juniors at Penn State higher than 3.0?
+
+Is the average winter temperature in State College less than 42°F?
+	
+
+\(H_0: \mu = \mu_0\)
+
+\(H_a: \mu \ne \mu_0\)
+OR
+\(H_a: \mu > \mu_0\)
+OR
+\(H_a: \mu < \mu_0\)
+
+The 1-sample t-test:
+
+\(t=\frac{\bar{x}-\mu_{0}}{\frac{s}{\sqrt{n}}}\)
+	Stat > Basic statistics > 1-sample t 	
+
+data approximately normal
+
+OR
+
+have a large sample size (n ≥ 30)
+3 	Estimating a Proportion 	
+
+One Population Proportion
+
+\(p\)
+	
+
+Sample Proportion
+
+\(\hat{p}\)
+	Categorical (Binary) 	
+
+What is the proportion of males in the world?
+
+What is the proportion of students that smoke?
+	
+
+1-proportion Z-interval
+
+\(\hat{p}\pm z_{\alpha /2}\sqrt{\frac{\hat{p}\cdot \left ( 1-\hat{p} \right )}{n}}\)
+	Stat > Basic statistics > 1-sample proportion 	
+
+have at least 5 in each category
+4 	Test About a Proportion 	
+
+One Population Proportion
+
+\(p\)
+	Sample Proportion \(\hat{p}\) 	Categorical (Binary) 	
+
+Is the proportion of females different from 0.5?
+
+Is the proportion of students who fail STAT 500 less than 0.1?
+	
+
+\(H_0: p = p_0\)
+
+\(H_a: p \ne p_0\)
+OR
+\(H_a: p > p_0\)
+OR
+\(H_a: p < p_0\)
+
+The one proportion Z-test:
+
+\(z=\frac{\hat{p}-p _{0}}{\sqrt{\frac{p _{0}\left ( 1- p _{0}\right )}{n}}}\)
+	Stat > Basic statistics > 1-sample proportion 	
+
+\(np_0 \geq 5\) and \(n (1 - p_0) \geq 5\)
+5 	Estimating the Difference of Two Means 	
+
+Difference in two population means
+
+\(\mu_1 - \mu_2\)
+	
+
+Difference in two sample means
+
+\(\bar{x}_{1} - \bar{x}_{2}\)
+	Numerical 	
+
+How different are the mean GPAs of males and females?
+
+How many fewer colds do vitamin C takers get, on average, than non-vitamin takers?
+	
+
+2-sample t-interval
+
+\(\bar{x}_{1}-\bar{x}_{2}\pm t_{\alpha /2}\cdot s.e.\left (\bar{x}_{1}-\bar{x}_{2}  \right )\)
+	Stat > Basic statistics > 2-sample t 	
+
+Independent samples from the two populations
+
+Data in each sample are about normal or large samples
+6 	Test to Compare Two Means 	
+
+Difference in two population means
+
+\(\mu_1 - \mu_2\)
+	
+
+Difference in two sample means
+
+\(\bar{x}_{1} - \bar{x}_{2}\)
+	Numerical 	
+
+Do the mean pulse rates of exercisers and non-exercisers differ?
+
+Is the mean EDS score for dropouts greater than the mean EDS score for graduates?
+	
+
+\(H_0: \mu_1 = \mu_2\)
+
+\(H_a: \mu_1 \ne \mu_2\) OR \(H_a: \mu_1 > \mu_2\) OR \(H_a: \mu_1 < \mu_1\)
+
+The 2-sample t-test:
+
+\(t=\frac{\left (\bar{x}_{1}-\bar{x}_{2}  \right )-0}{s.e.\left (\bar{x}_{1}-\bar{x}_{2}  \right )} \)
+	Stat > Basic statistics > 2-sample t 	
+
+Independent samples from the two populations
+
+Data in each sample are about normal or large samples
+7 	Estimating a Mean with Paired Data 	
+
+Mean of paired difference
+
+\(\mu_D\)
+	
+
+Sample mean of difference
+
+\(\bar{d}\)
+	Numerical 	
+
+What is the difference in pulse rates, on the average, before and after exercise?
+	
+
+paired t-interval
+
+\(\bar{d}\pm t_{\alpha /2}\cdot \frac{s_{d}}{\sqrt{n}}\)
+	Stat > Basic statistics > Paired t 	
+
+Differences approximately normal
+
+OR
+
+Have a large number of pairs (n ≥ 30)
+8 	Test About a Mean with Paired Data 	
+
+Mean of paired difference
+
+\(\mu_D\)
+	
+
+Sample mean of difference
+
+\(\bar{d}\)
+	Numerical 	
+
+Is the difference in IQ of pairs of twins zero?
+
+Are the pulse rates of people higher after exercise?
+	
+
+\(H_0: \mu_D = 0\)
+
+\(H_a: \mu_D \ne 0\)
+OR
+\(H_a: \mu_D > 0\)
+OR
+\(H_a: \mu_D < 0\)
+
+\(t=\frac{\bar{d}-0}{\frac{s_{d}}{\sqrt{n}}}\)
+	Stat > Basic statistics > Paired t 	
+
+Differences approximately normal
+
+OR
+
+Have a large number of pairs (n ≥ 30)
+9 	Estimating the Difference of Two Proportions 	
+
+Difference in two population proportions
+
+\(p_1 - p_2\)
+	
+
+Difference in two sample proportions
+
+\(\hat{p}_{1} - \hat{p}_{2}\)
+	Categorical (Binary) 	
+
+How different are the percentages of male and female smokers?
+
+How different are the percentages of upper- and lower-class binge drinkers?
+	
+
+two-proportions Z-interval
+
+\(\hat{p _{1}}-\hat{p _{2}}\pm z_{\alpha /2}\cdot s.e.\left ( \hat{p _{1}}-\hat{p _{2}} \right )\)
+	Stat > Basic statistics > 2 proportions 	
+
+Independent samples from the two populations
+
+Have at least 5 in each category for both populations
+10 	Test to Compare Two Proportions 	
+
+Difference in two population proportions
+
+\(p_1 - p_2\)
+	
+
+Difference in two sample proportions
+
+\(\hat{p}_{1} - \hat{p}_{2}\)
+	Categorical (Binary) 	
+
+Is the percentage of males with lung cancer higher than the percentage of females with lung cancer?
+
+Are the percentages of upper- and lower- class binge drinkers different?
+	
+
+\(H_0: p_1 = p_2\)
+
+\(H_a: p_1 \ne p_2 \)
+OR
+\(H_a: p_1 > p_2\) OR
+\(H_a: p_1 < p_2\)
+
+The two proportion z test:
+
+\(z=\frac{\hat{p}_{1}-\hat{p}_{2}}{\sqrt{\hat{p}\left ( 1-\hat{p} \right )\left ( \frac{1}{n_{1}}+ \frac{1}{n_{2}}\right )}}\)
+
+\(\hat{p}=\frac{x_{1}+x_{2}}{n_{1}+n_{2}}\)
+	Stat > Basic statistics > 2 proportions 	
+
+Independent samples from the two populations
+
+Have at least 5 in each category for both populations
+11 	Relationship in a 2-Way Table 	Relationship between two categorical variables or difference in two or more population proportions 	The observed counts in a two-way table 	Categorical 	
+
+Is there a relationship between smoking and lung cancer?
+
+Do the proportions of students in each class who smoke differ?
+	
+
+Ho: The two variables are not related
+
+Ha: The two variables are related
+
+The chi-square statistic:
+
+\(X^2=\sum_{\text{all cells}}\frac{(\text{Observed-Expected})^2}{\text{Expected}}\)
+	Stat > Tables > Chi square Test 	
+
+All expected counts should be greater than 1
+
+At least 80% of the cells should have an expected count greater than 5
+12 	Test About a Slope 	
+
+Slope of the population regression line
+
+\(\beta_1\)
+	
+
+Sample estimate of the slope
+
+b1
+	Numerical 	
+
+Is there a linear relationship between height and weight of a person?
+	
+
+\(H_0: \beta_1 = 0\)
+
+\(H_a: \beta_1 \ne 0\) OR \(H_a: \beta_1 > 0\) OR \(H_a: \beta_1 < 0\)
+
+The t-test with n - 2 degrees of freedom:
+
+\(t=\frac{b_{1}-0}{s.e.\left ( b_{1} \right )}\)
+	Stat > Regression > Regression 	
+
+The form of the equation that links the two variables must be correct
+
+The error terms are normally distributed
+
+The errors terms have equal variances
+
+The error terms are independent of each other
+13 	Test to Compare Several Means 	
+
+Population means of the t populations
+
+\(\mu_1, \mu_2, \cdots , \mu_t\)
+	
+
+Sample means of the t populations
+
+\(x_1, x_2, \cdots , x_t\)
+	Numerical 	
+
+Is there a difference between the mean GPA of freshman, sophomore, junior, and senior classes?
+	
+
+\(H_0: \mu_1 = \mu_2 = ... = \mu_t\)
+
+\(H_a: \text{not all the means are equal}\)
+
+The F-test for one-way ANOVA:
+
+\(F=\frac{MSTR}{MSE}\)
+	Stat > ANOVA > Oneway 	
+
+Each population is normally distributed
+
+Independent samples from the t populations
+
+Equal population standard deviations
+14 	Test of Strength & Direction of Linear Relationship of 2 Quantitative Variables 	
+
+Population Correlation
+
+\(\rho\)
+
+"rho"
+	
+
+Sample correlation
+
+\(r\)
+	Numerical 	Is there a linear relationship between height and weight? 	
+
+\(H_0: \rho = 0\)
+
+\(H_a: \rho \ne 0\)
+
+\(t=\frac{r\sqrt{n-2}}{\sqrt{1-r^2}}\)
+	Stat > Basic Statistics > Correlation 	
+
+2 variables are continuous
+
+Related pairs
+
+No significant outliers
+
+Normality of both variables
+
+Linear relationship between the variables
+15 	Test to Compare Two Population Variances 	
+
+Population variances of 2 populations
+
+\(\sigma_{1}^{2}, \sigma_{2}^{2}\)
+	
+
+Sample variances of 2 populations
+
+\(s_{1}^{2}, s_{2}^{2}\)
+	Numerical 	
+
+Are the variances of length of lumber produced by Company A different from those produced by Company B
+	
+
+\(H_0: \sigma_{1}^{2} = \sigma_{2}^{2}\)
+
+\(H_2:  \sigma_{1}^{2} \ne \sigma_{2}^{2}\)
+
+\(F=\frac{s_{1}^{2}}{s_{2}^{2}}\)
+	Stat > Basic statistics > 2 variances 	
+
+Each population is normally distributed
+
+Independent samples from the 2 populations

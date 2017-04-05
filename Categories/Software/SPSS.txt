@@ -1,0 +1,49 @@
+SPSS Statistics is a software package used for statistical analysis. Long produced by SPSS Inc., it was acquired by IBM in 2009. The current versions (2015) are officially named IBM SPSS Statistics. Companion products in the same family are used for survey authoring and deployment (IBM SPSS Data Collection), data mining (IBM SPSS Modeler), text analytics, and collaboration and deployment (batch and automated scoring services).
+
+The software name originally stood for Statistical Package for the Social Sciences (SPSS),[2] reflecting the original market, although the software is now popular in other fields as well, including the health sciences and marketing.
+
+Contents
+
+    1 Overview
+    2 Versions and ownership history
+    3 See also
+    4 Notes
+    5 References
+    6 External links
+
+Overview
+
+SPSS is a widely used program for statistical analysis in social science. It is also used by market researchers, health researchers, survey companies, government, education researchers, marketing organizations, data miners,[3] and others. The original SPSS manual (Nie, Bent & Hull, 1970) has been described as one of "sociology's most influential books" for allowing ordinary researchers to do their own statistical analysis.[4] In addition to statistical analysis, data management (case selection, file reshaping, creating derived data) and data documentation (a metadata dictionary was stored in the datafile) are features of the base software.
+
+Statistics included in the base software:
+
+    Descriptive statistics: Cross tabulation, Frequencies, Descriptives, Explore, Descriptive Ratio Statistics
+    Bivariate statistics: Means, t-test, ANOVA, Correlation (bivariate, partial, distances), Nonparametric tests
+    Prediction for numerical outcomes: Linear regression
+    Prediction for identifying groups: Factor analysis, cluster analysis (two-step, K-means, hierarchical), Discriminant
+
+The many features of SPSS Statistics are accessible via pull-down menus or can be programmed with a proprietary 4GL command syntax language. Command syntax programming has the benefits of reproducibility, simplifying repetitive tasks, and handling complex data manipulations and analyses. Additionally, some complex applications can only be programmed in syntax and are not accessible through the menu structure. The pull-down menu interface also generates command syntax: this can be displayed in the output, although the default settings have to be changed to make the syntax visible to the user. They can also be pasted into a syntax file using the "paste" button present in each menu. Programs can be run interactively or unattended, using the supplied Production Job Facility.
+
+Additionally a "macro" language can be used to write command language subroutines. A Python programmability extension can access the information in the data dictionary and data and dynamically build command syntax programs. The Python programmability extension, introduced in SPSS 14, replaced the less functional SAX Basic "scripts" for most purposes, although SaxBasic remains available. In addition, the Python extension allows SPSS to run any of the statistics in the free software package R. From version 14 onwards, SPSS can be driven externally by a Python or a VB.NET program using supplied "plug-ins". (From Version 20 onwards, these two scripting facilities, as well as many scripts, are included on the installation media and are normally installed by default.)
+
+SPSS Statistics places constraints on internal file structure, data types, data processing, and matching files, which together considerably simplify programming. SPSS datasets have a two-dimensional table structure, where the rows typically represent cases (such as individuals or households) and the columns represent measurements (such as age, sex, or household income). Only two data types are defined: numeric and text (or "string"). All data processing occurs sequentially case-by-case through the file. Files can be matched one-to-one and one-to-many, but not many-to-many.
+
+The graphical user interface has two views which can be toggled by clicking on one of the two tabs in the bottom left of the SPSS Statistics window. The 'Data View' shows a spreadsheet view of the cases (rows) and variables (columns). Unlike spreadsheets, the data cells can only contain numbers or text, and formulas cannot be stored in these cells. The 'Variable View' displays the metadata dictionary where each row represents a variable and shows the variable name, variable label, value label(s), print width, measurement type, and a variety of other characteristics. Cells in both views can be manually edited, defining the file structure and allowing data entry without using command syntax. This may be sufficient for small datasets. Larger datasets such as statistical surveys are more often created in data entry software, or entered during computer-assisted personal interviewing, by scanning and using optical character recognition and optical mark recognition software, or by direct capture from online questionnaires. These datasets are then read into SPSS.
+
+SPSS Statistics can read and write data from ASCII text files (including hierarchical files), other statistics packages, spreadsheets and databases. SPSS Statistics can read and write to external relational database tables via ODBC and SQL.
+
+Statistical output is to a proprietary file format (*.spv file, supporting pivot tables) for which, in addition to the in-package viewer, a stand-alone reader can be downloaded. The proprietary output can be exported to text or Microsoft Word, PDF, Excel, and other formats. Alternatively, output can be captured as data (using the OMS command), as text, tab-delimited text, PDF, XLS, HTML, XML, SPSS dataset or a variety of graphic image formats (JPEG, PNG, BMP and EMF).
+The SPSS logo used prior to the renaming in January 2010.
+
+SPSS Statistics Server is a version of SPSS Statistics with a client/server architecture. It had some features not available in the desktop version, such as scoring functions. (Scoring functions are included in the desktop version from version 19.)
+Versions and ownership history
+
+The software was released in its first version in 1968 as the Statistical Package for the Social Sciences (SPSS) after being developed by Norman H. Nie, Dale H. Bent, and C. Hadlai Hull. Those principals incorporated as SPSS Inc. in 1975. Early versions of SPSS Statistics were designed for batch processing on mainframes, including for example IBM and ICL versions, originally using punched cards for input. A processing run read a command file of SPSS commands and either a raw input file of fixed format data with a single record type, or a 'getfile' of data saved by a previous run. To save precious computer time an 'edit' run could be done to check command syntax without analysing the data. From version 10 (SPSS-X) in 1983, data files could contain multiple record types.
+
+SPSS Statistics versions 16.0 and later run under Windows, Mac, and Linux. The graphical user interface is written in Java. The Mac OS version is provided as a Universal binary, making it fully compatible with both PowerPC and Intel-based Mac hardware.
+
+Prior to SPSS 16.0, different versions of SPSS were available for Windows, Mac OS X and Unix. The Windows version was updated more frequently and had more features than the versions for other operating systems.[citation needed]
+
+SPSS Statistics version 13.0 for Mac OS X was not compatible with Intel-based Macintosh computers, due to the Rosetta emulation software causing errors in calculations. SPSS Statistics 15.0 for Windows needed a downloadable hotfix to be installed in order to be compatible with Windows Vista.
+
+SPSS Inc announced on July 28, 2009 that it was being acquired by IBM for US$1.2 billion.[5] Because of a dispute about ownership of the name "SPSS", between 2009 and 2010, the product was referred to as PASW (Predictive Analytics SoftWare).[6] As of January 2010, it became "SPSS: An IBM Company". Complete transfer of business to IBM was done by October 1, 2010. By that date, SPSS: An IBM Company ceased to exist. IBM SPSS is now fully integrated into the IBM Corporation, and is one of the brands under IBM Software Group's Business Analytics Portfolio, together with IBM Algorithmics, IBM Cognos and IBM OpenPages.

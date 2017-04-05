@@ -1,0 +1,99 @@
+In the 1970s Eugene Fama defined an efficient financial market as "one in which prices always fully reflect available information”.[1]
+
+The most common type of efficiency referred to in financial markets is the allocative efficiency, or the efficiency of allocating resources. This includes producing the right goods for the right people at the right price.
+
+A trait of allocatively efficient financial market is that it channels funds from the ultimate lenders to the ultimate borrowers in a way that the funds are used in the most socially useful manner.
+
+Contents
+
+    1 Market efficiency levels
+    2 Efficient-market hypothesis (EMH)
+        2.1 Random walk theory
+            2.1.1 Evidence
+                2.1.1.1 Evidence of financial market efficiency
+                2.1.1.2 Evidence of financial market inefficiency
+    3 Market efficiency types
+    4 Conclusion
+    5 References
+    6 Bibliography
+
+Market efficiency levels
+
+Eugene Fama identified three levels of market efficiency:
+
+1. Weak-form efficiency
+
+Prices of the securities instantly and fully reflect all information of the past prices. This means future price movements cannot be predicted by using past prices. It is simply to say that, past data on stock prices are of no use in predicting future stock price changes. Everything is random. In this kind of market, should simply use a "buy-and-hold" strategy.
+
+2. Semi-strong efficiency
+
+Asset prices fully reflect all of the publicly available information. Therefore, only investors with additional inside information could have advantage on the market. Any price anomalies are quickly found out and the stock market adjusts.
+
+3. Strong-form efficiency
+
+Asset prices fully reflect all of the public and inside information available. Therefore, no one can have advantage on the market in predicting prices since there is no data that would provide any additional value to the investors.
+Efficient-market hypothesis (EMH)
+
+Fama also created the efficient-market hypothesis (EMH) theory, which states that in any given time, the prices on the market already reflect all known information, and also change fast to reflect new information.
+
+Therefore, no one could outperform the market by using the same information that is already available to all investors, except through luck.[2]
+Random walk theory
+
+Another theory related to the efficient market hypothesis created by Louis Bachelier is the "random walk" theory, which states that the prices in the financial markets evolve randomly and are not connected, they are independent of each other.
+
+Therefore, identifying trends or patterns of price changes in a market couldn't be used to predict the future value of financial instruments.
+Evidence
+Evidence of financial market efficiency
+
+    Predicting future asset prices is not always accurate (represents weak efficiency form)
+    Asset prices always reflect all new available information quickly (represents semi-strong efficiency form)
+    Investors can't outperform on the market often (represents strong efficiency form)
+
+Evidence of financial market inefficiency
+
+    There is a vast literature in academic finance dealing with the momentum effect that was identified by Jegadeesh and Titman.[3][4] Stocks that have performed relatively well (poorly) over the past 3 to 12 months continue to do well (poorly) over the next 3 to 12 months. The momentum strategy is long recent winners and shorts recent losers, and produces positive risk-adjusted average returns. Being simply based on past stock returns that are functions of past prices (dividends can be ignored), the momentum effect produces strong evidence against weak-form market efficiency,and has been observed in the stock returns of most countries, in industry returns, and in national equity market indices. Moreover, Fama has accepted that momentum is the premier anomaly.[5][6]
+    January effect (repeating and predictable price movements and patterns occur on the market)
+    Stock market crashes, Asset Bubbles, and Credit Bubbles[7][8]
+    Investors that often outperform on the market such as Warren Buffett,[9] institutional investors, and corporations trading in their own stock[10]
+    Certain consumer credit market prices don't adjust to legal changes that affect future losses [11]
+
+Market efficiency types
+
+James Tobin identified four efficiency types that could be present in a financial market:[12]
+
+1. Information arbitrage efficiency
+
+Asset prices fully reflect all of the privately available information (the least demanding requirement for efficient market, since arbitrage includes realizable, risk free transactions)
+
+Arbitrage involves taking advantage of price similarities of financial instruments between 2 or more markets by trading to generate losses.
+
+It involves only risk-free transactions and the information used for trading is obtained at no cost. Therefore, the profit opportunities are not fully exploited, and it can be said that arbitrage is a result of market inefficiency.
+
+This reflects the semi-strong efficiency model.
+
+2. Fundamental valuation efficiency
+
+Asset prices reflect the expected past flows of payments associated with holding the assets (profit forecasts are correct, they attract investors)
+
+Fundamental valuation involves lower risks and less profit opportunities. It refers to the accuracy of the predicted return on the investment.
+
+Financial markets are characterized by predictability and inconsistent misalignments that force the prices to always deviate from their fundamental valuations.
+
+This reflects the weak information efficiency model.
+
+3. Full insurance efficiency
+
+It ensures the continuous delivery of goods and services in all contingencies.
+
+4. Functional/Operational efficiency
+
+The products and services available at the financial markets are provided for the least cost and are directly useful to the participants.
+
+Every financial market will contain a unique mixture of the identified efficiency types.
+Conclusion
+
+Financial market efficiency is an important topic in the world of finance. While most financiers believe the markets are neither 100% efficient, nor 100% inefficient, many disagree where on the efficiency line the world's markets fall.
+
+It can be concluded that in reality a financial market can’t be considered to be extremely efficient, or completely inefficient.
+
+The financial markets are a mixture of both, sometimes the market will provide fair returns on the investment for everyone, while at other times certain investors will generate above average returns on their investment.

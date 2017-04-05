@@ -1,0 +1,25 @@
+Electronic commerce, commonly known as e-commerce or eCommerce, or e-business consists of the buying and selling of products or services over electronic systems such as the Internet and other computer networks. The amount of trade conducted electronically has grown extraordinarily with widespread Internet usage. The use of commerce is conducted in this way, spurring and drawing on innovations in electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. Modern electronic commerce typically uses the World Wide Web at least at some point in the transaction's lifecycle, although it can encompass a wider range of technologies such as e-mail as well.
+
+A large percentage of electronic commerce is conducted entirely electronically for virtual items such as access to premium content on a website, but most electronic commerce involves the transportation of physical items in some way. Online retailers are sometimes known as e-tailers and online retail is sometimes known as e-tail. Almost all big retailers have electronic commerce presence on the World Wide Web.
+
+Electronic commerce that is conducted between businesses is referred to as business-to-business or B2B. B2B can be open to all interested parties (e.g. commodity market) or limited to specific, pre-qualified participants (private electronic market). Electronic commerce that is conducted between businesses and consumers, on the other hand, is referred to as business-to-consumer or B2C. This is the type of electronic commerce conducted by companies such as Amazon.com. Online shopping is a form of electronic commerce where the buyer is connected directly online to the seller's computer usually via the Internet. There is no specific intermediary service. The sale and purchase transaction is completed electronically and interactively in real-time, such as when buying a new book on Amazon.com. If an intermediary is present, then the sale and purchase transaction is called consumer-to-consumer, such as an online auction conducted on eBay.com.
+
+This payment system has been widely accepted by consumers and merchants throughout the world, and is by far the most popular method of payments especially in the retail markets.[1] Some of the most important advantages over the traditional modes of payment are: privacy, integrity, compatibility, good transaction efficiency, acceptability, convenience, mobility, low financial risk and anonymity.[1]
+
+This flow of ecommerce payment system can be better understood from the flow of the system below.
+Credit card 20101225.png
+Figure: Online Credit Card (VISA) Transaction Process
+See also
+
+    Payment service provider (PSP)
+    Electronic money
+    List of free and open source eCommerce software
+    Multichannel ecommerce
+    Non-store retailing
+    Online marketplace
+    Paid content
+    Payments as a platform
+    Virtual economy
+    Comparison of Payment Systems
+
+
