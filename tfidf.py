@@ -1,3 +1,6 @@
+#
+# TF-IDF among job ads, TF-IDF among CVs, TF-IDF among categories (all seperate)  
+#
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
 from pyspark.ml.feature import HashingTF, IDF, Tokenizer, StopWordsRemover
@@ -40,7 +43,7 @@ def main() :
 
     #Process CVs START
     df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
-    
+
     tokenizer_cvs = Tokenizer(inputCol="description", outputCol="words")
     wordsData_cvs = tokenizer_cvs.transform(df_cvs)
 
