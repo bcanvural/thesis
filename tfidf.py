@@ -40,7 +40,7 @@ def main() :
 
     #Process CVs START
     df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
-    # df_cvs.show()
+    
     tokenizer_cvs = Tokenizer(inputCol="description", outputCol="words")
     wordsData_cvs = tokenizer_cvs.transform(df_cvs)
 
