@@ -1,5 +1,5 @@
 #
-# TF-IDF among job ads, TF-IDF among CVs, TF-IDF among categories (all seperate)  
+# TF-IDF among job ads, TF-IDF among CVs, TF-IDF among categories (all seperate)
 #
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
@@ -22,6 +22,8 @@ def main() :
         .master("local[*]") \
         .getOrCreate()
 
+    NUM_FEATURES = 256
+    
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl")
     filtered = df_jobs.filter("description is not NULL")
 
@@ -32,7 +34,7 @@ def main() :
     remover = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed = remover.transform(wordsData)
 
-    hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=NUM_FEATURES)
     featurizedData = hashingTF.transform(removed)
 
     idf = IDF(inputCol="rawFeatures", outputCol="features")
@@ -50,7 +52,7 @@ def main() :
     remover_cvs = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed_cvs = remover_cvs.transform(wordsData_cvs)
 
-    hashingTF_cvs = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    hashingTF_cvs = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=NUM_FEATURES)
     featurizedData_cvs = hashingTF_cvs.transform(removed_cvs)
 
     idf_cvs = IDF(inputCol="rawFeatures", outputCol="featuresCV")
@@ -78,7 +80,7 @@ def main() :
     remover_cat = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed_cat = remover_cat.transform(wordsData_cat)
 
-    hashingTF_cat = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    hashingTF_cat = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=NUM_FEATURES)
     featurizedData_cat = hashingTF_cat.transform(removed_cat)
 
     idf_cat = IDF(inputCol="rawFeatures", outputCol="featuresCAT")

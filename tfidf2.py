@@ -19,6 +19,8 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
+    NUM_FEATURES = 256
+
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
     df_jobs.registerTempTable("jobs")
     df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
@@ -36,7 +38,7 @@ def main():
     remover = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed = remover.transform(tokenized)
 
-    hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=NUM_FEATURES)
     featurizedData = hashingTF.transform(removed)
 
     idf = IDF(inputCol="rawFeatures", outputCol="features")
