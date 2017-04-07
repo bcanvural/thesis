@@ -15,7 +15,7 @@ def main():
     # Input data: Each row is a bag of words from a sentence or document.
     documentDF = spark.createDataFrame([
         ("Hi I heard about Spark".split(" "), ),
-        ("Hi I heard about Spark too".split(" "), ),
+        ("about heard I Spark Hi".split(" "), ),
         ("Logistic regression models are neat".split(" "), )
     ], ["text"])
 

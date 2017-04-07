@@ -1,6 +1,6 @@
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
-from pyspark.ml.feature import HashingTF, IDF, Tokenizer
+from pyspark.ml.feature import HashingTF, IDF, Tokenizer, StopWordsRemover
 from pyspark.mllib.util import Vectors
 from pyspark.sql import Row
 from pyspark.ml.classification import NaiveBayes, OneVsRest, OneVsRestModel
@@ -31,21 +31,20 @@ def main() :
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl")
     filtered = df_jobs.filter("description is not NULL")
 
-    # filtered.select("jobId","description").write.format("com.databricks.spark.csv").save("out")
-
     #TF-IDF featurization START
     tokenizer = Tokenizer(inputCol="description", outputCol="words")
     wordsData = tokenizer.transform(filtered)
 
+    remover = StopWordsRemover(inputCol="words", outputCol="filtered")
+    removed = remover.transform(wordsData)
+
     #numfeatures should be an exponent of 2
-    hashingTF = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
-    featurizedData = hashingTF.transform(wordsData)
+    hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    featurizedData = hashingTF.transform(removed)
 
     idf = IDF(inputCol="rawFeatures", outputCol="features")
     idfModel = idf.fit(featurizedData)
     rescaledData = idfModel.transform(featurizedData).cache()
-
-    # rescaledData.select("jobId", "features").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("out")
 
     #TF-IDF featurization END
 
@@ -54,13 +53,17 @@ def main() :
     # df_cvs.show()
     tokenizer_cvs = Tokenizer(inputCol="description", outputCol="words")
     wordsData_cvs = tokenizer_cvs.transform(df_cvs)
+
+    remover_cvs = StopWordsRemover(inputCol="words", outputCol="filtered")
+    removed_cvs = remover_cvs.transform(wordsData_cvs)
+
     #numfeatures should be an exponent of 2
-    hashingTF_cvs = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
-    featurizedData_cvs = hashingTF_cvs.transform(wordsData_cvs)
+    hashingTF_cvs = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    featurizedData_cvs = hashingTF_cvs.transform(removed_cvs)
+
     idf_cvs = IDF(inputCol="rawFeatures", outputCol="featuresCV")
     idfModel_cvs = idf_cvs.fit(featurizedData_cvs)
     rescaledData_cvs = idfModel_cvs.transform(featurizedData_cvs).cache()
-    # rescaledData_cvs.select("cvid", "featuresCV").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
 
     #Process CVs END
 
@@ -79,9 +82,14 @@ def main() :
     df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
     tokenizer_cat = Tokenizer(inputCol="skillText", outputCol="words")
     wordsData_cat = tokenizer_cat.transform(df_categories)
+
+    remover_cat = StopWordsRemover(inputCol="words", outputCol="filtered")
+    removed_cat = remover_cat.transform(wordsData_cat)
+
     #numfeatures should be an exponent of 2
-    hashingTF_cat = HashingTF(inputCol="words", outputCol="rawFeatures", numFeatures=128)
-    featurizedData_cat = hashingTF_cat.transform(wordsData_cat)
+    hashingTF_cat = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
+    featurizedData_cat = hashingTF_cat.transform(removed_cat)
+
     idf_cat = IDF(inputCol="rawFeatures", outputCol="featuresCAT")
     idfModel_cat = idf_cat.fit(featurizedData_cat)
     rescaledData_cat = idfModel_cat.transform(featurizedData_cat).cache()

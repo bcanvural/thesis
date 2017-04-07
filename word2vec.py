@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from pyspark.ml.feature import Word2Vec, Tokenizer
+from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *
 
 def calculate_distance(vec1, vec2):
@@ -26,9 +26,12 @@ def main():
     tokenizer = Tokenizer(inputCol="text", outputCol="words")
     tokenized = tokenizer.transform(joined)
 
-    word2Vec = Word2Vec(vectorSize=100, minCount=0, inputCol="words", outputCol="result")
-    model = word2Vec.fit(tokenized)
-    result = model.transform(tokenized)
+    remover = StopWordsRemover(inputCol="words", outputCol="filtered")
+    removed = remover.transform(tokenized)
+
+    word2Vec = Word2Vec(vectorSize=100, minCount=0, inputCol="filtered", outputCol="result")
+    model = word2Vec.fit(removed)
+    result = model.transform(removed)
 
     result.registerTempTable("resultTable")
     jobs = spark.sql("SELECT text, result as jobsVec, id as jobId from resultTable WHERE type = 'job'")
