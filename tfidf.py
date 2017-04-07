@@ -1,18 +1,9 @@
 from pyspark.sql import SparkSession
 from pyspark import SparkContext
 from pyspark.ml.feature import HashingTF, IDF, Tokenizer, StopWordsRemover
-from pyspark.mllib.util import Vectors
 from pyspark.sql import Row
 from pyspark.ml.classification import NaiveBayes, OneVsRest, OneVsRestModel
-from pyspark.sql.functions import udf
-from pyspark.sql.types import DoubleType
 from pyspark.sql.functions import *
-
-def parseFeatures(jobId, features):
-    return Row(label=jobId, features=features)
-
-def parseFeaturesCV(features):
-    return Row(featuresCV=features)
 
 def calculate_cosine_similarity(vec_job, vec_cv):
     from scipy import spatial
@@ -38,7 +29,6 @@ def main() :
     remover = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed = remover.transform(wordsData)
 
-    #numfeatures should be an exponent of 2
     hashingTF = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
     featurizedData = hashingTF.transform(removed)
 
@@ -57,7 +47,6 @@ def main() :
     remover_cvs = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed_cvs = remover_cvs.transform(wordsData_cvs)
 
-    #numfeatures should be an exponent of 2
     hashingTF_cvs = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
     featurizedData_cvs = hashingTF_cvs.transform(removed_cvs)
 
@@ -86,7 +75,6 @@ def main() :
     remover_cat = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed_cat = remover_cat.transform(wordsData_cat)
 
-    #numfeatures should be an exponent of 2
     hashingTF_cat = HashingTF(inputCol="filtered", outputCol="rawFeatures", numFeatures=128)
     featurizedData_cat = hashingTF_cat.transform(removed_cat)
 
