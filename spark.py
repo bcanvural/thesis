@@ -49,17 +49,6 @@ def main() :
 
     #TF-IDF featurization END
 
-    #Naive-Bayes Classifier START
-    # rowDF = rescaledData.rdd.map(lambda x: parseFeatures(x.jobId, x.features)).toDF().cache()
-
-    #nb = NaiveBayes(smoothing=1.0, modelType="multinomial")
-    #ovr = OneVsRest(classifier=nb)
-    # ovr_model = ovr.fit(rowDF)
-    #ovr_model.save("OneVsRestNaiveBayes.model")
-    #ovr_model_loaded = OneVsRestModel.load("OneVsRestNaiveBayes")
-
-    #Naive-Bayes Classifier END
-
     #Process CVs START
     df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
     # df_cvs.show()
@@ -72,11 +61,6 @@ def main() :
     idfModel_cvs = idf_cvs.fit(featurizedData_cvs)
     rescaledData_cvs = idfModel_cvs.transform(featurizedData_cvs).cache()
     # rescaledData_cvs.select("cvid", "featuresCV").rdd.map(lambda x: (x[0], Vectors.stringify(x[1]))).saveAsTextFile("outcv")
-
-    #OneVsRest Naive Bayes experiment
-    # ovr_model_loaded.transform(rescaledData_cvs.rdd.map(lambda x: parseFeaturesCV(x.features)).toDF())\
-    # .rdd.map(lambda x: (x[0], Vectors.stringify(x[1])))\
-    # .saveAsTextFile("outresults")
 
     #Process CVs END
 
