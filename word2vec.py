@@ -1,5 +1,9 @@
 from pyspark.sql import SparkSession
-from pyspark.ml.feature import Word2Vec
+from pyspark.ml.feature import Word2Vec, Tokenizer
+from pyspark.sql.functions import *
+
+def calculate_distance(vec1, vec2):
+    return float(vec1.squared_distance(vec2))
 
 def main():
     spark = SparkSession.builder \
@@ -8,31 +12,42 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
+    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
+    df_jobs.registerTempTable("jobs")
+    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
+    df_cvs.registerTempTable("cvs")
+    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
+    df_categories.registerTempTable("categories")
 
-    # Input data: Each row is a bag of words from a sentence or document.
-    documentDF = spark.createDataFrame([
-        ("Hi I heard about Spark".split(" "), ),
-        ("I wish Java could use case classes".split(" "), ),
-        ("Logistic regression models are neat".split(" "), )
-    ], ["text"])
+    joined = spark.sql("SELECT description as text, jobId as id, 'job' as type, 'temp' as skillName FROM jobs UNION ALL \
+               SELECT description as text, cvid as id, 'cv' as type, 'temp' as skillName FROM cvs UNION ALL \
+               SELECT skillText as text, id as id, 'categories' as type, skillName FROM categories")
 
-    documentDF2 = spark.createDataFrame([
-        ("Hi I heard about Spark".split(" "), ),
-        ("I wish Java could use case classes".split(" "), )
-    ], ["text"])
+    tokenizer = Tokenizer(inputCol="text", outputCol="words")
+    tokenized = tokenizer.transform(joined)
 
-    # Learn a mapping from words to Vectors.
-    word2Vec = Word2Vec(vectorSize=3, minCount=0, inputCol="text", outputCol="result")
-    model = word2Vec.fit(documentDF)
-    model2 = word2Vec.fit(documentDF2)
+    word2Vec = Word2Vec(vectorSize=100, minCount=0, inputCol="words", outputCol="result")
+    model = word2Vec.fit(tokenized)
+    result = model.transform(tokenized)
 
-    result = model.transform(documentDF)
-    for row in result.collect():
-        text, vector = row
-        print("Text: [%s] => \nVector: %s\n" % (", ".join(text), str(vector)))
+    result.registerTempTable("resultTable")
+    jobs = spark.sql("SELECT text, result as jobsVec, id as jobId from resultTable WHERE type = 'job'")
+    cvs = spark.sql("SELECT text, result as cvsVec, id as cvid from resultTable WHERE type = 'cv'")
+    categories = spark.sql("SELECT text, result as categoriesVec, id, skillName from resultTable WHERE type = 'categories'")
 
+    #Calculate job-cv similarity START
+    crossJoined_job_cv = jobs.crossJoin(cvs)
+    calculated_job_cv = crossJoined_job_cv.rdd.map(lambda x: (x.jobId, x.cvid, calculate_distance(x.jobsVec, x.cvsVec)))\
+    .toDF(["jobid", "cvid", "distance"]).orderBy(asc("distance")).collect()
+    spark.sparkContext.parallelize(calculated_job_cv).saveAsTextFile('word2vec-calculated')
+    #Calculate job-cv similarity END
 
-
+    #Calculate cv-category similarity START
+    crossJoined_cv_cat = cvs.crossJoin(categories)
+    calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, calculate_distance(x.cvsVec, x.categoriesVec)))\
+    .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("distance")).collect()
+    spark.sparkContext.parallelize(calculated_job_cv).saveAsTextFile('category-word2vec-calculated')
+    #Calculate cv-category similarity END
 
 if __name__ == '__main__':
     main()
