@@ -46,7 +46,7 @@ def main():
     crossJoined_cv_cat = cvs.crossJoin(categories)
     calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, calculate_distance(x.cvsVec, x.categoriesVec)))\
     .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("distance")).collect()
-    spark.sparkContext.parallelize(calculated_job_cv).saveAsTextFile('category-word2vec-calculated')
+    spark.sparkContext.parallelize(calculated_cv_cat).saveAsTextFile('category-word2vec-calculated')
     #Calculate cv-category similarity END
 
 if __name__ == '__main__':
