@@ -12,6 +12,8 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
+    VECTOR_SIZE = 1000
+
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
     df_jobs.registerTempTable("jobs")
     df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
