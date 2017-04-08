@@ -22,7 +22,7 @@ def main() :
         .master("local[*]") \
         .getOrCreate()
 
-    NUM_FEATURES = 2048
+    NUM_FEATURES = 256
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl")
     filtered = df_jobs.filter("description is not NULL")

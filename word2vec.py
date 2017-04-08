@@ -12,7 +12,7 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
-    VECTOR_SIZE = 1000
+    VECTOR_SIZE = 100
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
     df_jobs.registerTempTable("jobs")
@@ -31,7 +31,7 @@ def main():
     remover = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed = remover.transform(tokenized)
 
-    word2Vec = Word2Vec(vectorSize=100, minCount=0, inputCol="filtered", outputCol="result")
+    word2Vec = Word2Vec(vectorSize=VECTOR_SIZE, minCount=0, inputCol="filtered", outputCol="result")
     model = word2Vec.fit(removed)
     result = model.transform(removed)
 
