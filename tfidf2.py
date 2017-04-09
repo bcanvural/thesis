@@ -19,7 +19,7 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
-    NUM_FEATURES = 256
+    NUM_FEATURES = 2**8
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
     df_jobs.registerTempTable("jobs")
@@ -28,9 +28,9 @@ def main():
     df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
     df_categories.registerTempTable("categories")
 
-    joined = spark.sql("SELECT description as text, jobId as id, 'job' as type, 'temp' as skillName FROM jobs UNION ALL \
-               SELECT description as text, cvid as id, 'cv' as type, 'temp' as skillName FROM cvs UNION ALL \
-               SELECT skillText as text, id as id, 'categories' as type, skillName FROM categories")
+    joined = spark.sql("SELECT description AS text, jobId AS id, 'job' AS type FROM jobs UNION ALL \
+               SELECT description AS text, cvid AS id, 'cv' AS type FROM cvs UNION ALL \
+               SELECT skillText AS text, id AS id, 'categories' AS type FROM categories")
 
     tokenizer = Tokenizer(inputCol="text", outputCol="words")
     tokenized = tokenizer.transform(joined)
@@ -46,16 +46,17 @@ def main():
     rescaledData = idfModel.transform(featurizedData)
 
     rescaledData.registerTempTable("resultTable")
-    jobs = spark.sql("SELECT text, features, id as jobId from resultTable WHERE type = 'job'")
-    cvs = spark.sql("SELECT text, features as featuresCV, id as cvid from resultTable WHERE type = 'cv'")
-    categories = spark.sql("SELECT text, features as featuresCAT, id, skillName from resultTable WHERE type = 'categories'")
+    jobs = spark.sql("SELECT features, id AS jobId FROM resultTable WHERE type = 'job'")
+    cvs = spark.sql("SELECT features AS featuresCV, id AS cvid FROM resultTable WHERE type = 'cv'")
+    categories = spark.sql("SELECT features AS featuresCAT, cat.id, cat.skillName AS skillName FROM resultTable AS rt\
+    LEFT JOIN categories AS cat ON rt.id = cat.id WHERE type = 'categories'")
 
     #Calculate job-cv similarity START
     crossJoined = jobs.select("jobId", "features").crossJoin(cvs.select("cvid", "featuresCV"))
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
-    ordered_list = calculatedDF.orderBy(desc("similarity")).collect()
-    spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated-tfidf2')
+    ordered = calculatedDF.orderBy(desc("similarity")).coalesce(2)
+    ordered.rdd.saveAsTextFile('cosine-calculated-tfidf2')
     #Calculate job-cv similarity END
 
     #Calculate cv-category similarity START
@@ -63,8 +64,8 @@ def main():
     calculatedDF_cat_cv = crossJoined_cat_cv.rdd\
     .map(lambda x: (x.cvid, x.id, x.skillName, calculate_cosine_similarity(x.featuresCV, x.featuresCAT)))\
     .toDF(["cvid", "catid", "skillName", "similarity"])
-    ordered_list_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).collect()
-    spark.sparkContext.parallelize(ordered_list_cat_cv).saveAsTextFile('category-cosine-calculated-tfidf2')
+    ordered_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).coalesce(2)
+    ordered_cat_cv.rdd.saveAsTextFile('category-cosine-calculated-tfidf2')
     #Calculate cv-category similarity END
 
 if __name__ == '__main__':

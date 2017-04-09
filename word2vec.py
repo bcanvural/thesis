@@ -3,7 +3,8 @@ from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *
 
 def calculate_distance(vec1, vec2):
-    return float(vec1.squared_distance(vec2))
+    from scipy.spatial import distance
+    return float(distance.euclidean(vec1, vec2))
 
 def main():
     spark = SparkSession.builder \
@@ -21,9 +22,9 @@ def main():
     df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
     df_categories.registerTempTable("categories")
 
-    joined = spark.sql("SELECT description as text, jobId as id, 'job' as type, 'temp' as skillName FROM jobs UNION ALL \
-               SELECT description as text, cvid as id, 'cv' as type, 'temp' as skillName FROM cvs UNION ALL \
-               SELECT skillText as text, id as id, 'categories' as type, skillName FROM categories")
+    joined = spark.sql("SELECT description AS text, jobId AS id, 'job' AS type FROM jobs UNION ALL \
+               SELECT description AS text, cvid AS id, 'cv' AS type FROM cvs UNION ALL \
+               SELECT skillText AS text, id AS id, 'categories' AS type FROM categories")
 
     tokenizer = Tokenizer(inputCol="text", outputCol="words")
     tokenized = tokenizer.transform(joined)
@@ -36,22 +37,23 @@ def main():
     result = model.transform(removed)
 
     result.registerTempTable("resultTable")
-    jobs = spark.sql("SELECT text, result as jobsVec, id as jobId from resultTable WHERE type = 'job'")
-    cvs = spark.sql("SELECT text, result as cvsVec, id as cvid from resultTable WHERE type = 'cv'")
-    categories = spark.sql("SELECT text, result as categoriesVec, id, skillName from resultTable WHERE type = 'categories'")
+    jobs = spark.sql("SELECT result AS jobsVec, id AS jobId FROM resultTable WHERE type = 'job'")
+    cvs = spark.sql("SELECT result AS cvsVec, id AS cvid FROM resultTable WHERE type = 'cv'")
+    categories = spark.sql("SELECT result AS categoriesVec, cat.id, cat.skillName FROM resultTable AS rt\
+    LEFT JOIN categories AS cat ON rt.id = cat.id WHERE type = 'categories'")
 
     #Calculate job-cv similarity START
     crossJoined_job_cv = jobs.crossJoin(cvs)
     calculated_job_cv = crossJoined_job_cv.rdd.map(lambda x: (x.jobId, x.cvid, calculate_distance(x.jobsVec, x.cvsVec)))\
-    .toDF(["jobid", "cvid", "distance"]).orderBy(asc("distance")).collect()
-    spark.sparkContext.parallelize(calculated_job_cv).saveAsTextFile('word2vec-calculated')
+    .toDF(["jobid", "cvid", "distance"]).orderBy(asc("distance")).coalesce(2)
+    calculated_job_cv.rdd.saveAsTextFile('word2vec-calculated')
     #Calculate job-cv similarity END
 
     #Calculate cv-category similarity START
     crossJoined_cv_cat = cvs.crossJoin(categories)
     calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, calculate_distance(x.cvsVec, x.categoriesVec)))\
-    .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("cvid"), asc("distance")).collect()
-    spark.sparkContext.parallelize(calculated_cv_cat).saveAsTextFile('category-word2vec-calculated')
+    .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("cvid"), asc("distance")).coalesce(2)
+    calculated_cv_cat.rdd.saveAsTextFile('category-word2vec-calculated')
     #Calculate cv-category similarity END
 
 if __name__ == '__main__':

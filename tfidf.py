@@ -22,7 +22,7 @@ def main() :
         .master("local[*]") \
         .getOrCreate()
 
-    NUM_FEATURES = 256
+    NUM_FEATURES = 2**8
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl")
     filtered = df_jobs.filter("description is not NULL")
@@ -67,8 +67,8 @@ def main() :
 
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
-    ordered_list = calculatedDF.orderBy(desc("similarity")).collect()
-    spark.sparkContext.parallelize(ordered_list).saveAsTextFile('cosine-calculated')
+    ordered = calculatedDF.orderBy(desc("similarity")).coalesce(2)
+    ordered.rdd.saveAsTextFile('cosine-calculated')
 
     #Cosine Similarity END
 
@@ -91,8 +91,8 @@ def main() :
     calculatedDF_cat_cv = crossJoined_cat_cv.rdd\
     .map(lambda x: (x.cvid, x.id, x.skillName, calculate_cosine_similarity(x.featuresCV, x.featuresCAT)))\
     .toDF(["cvid", "catid", "skillName", "similarity"])
-    ordered_list_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).collect()
-    spark.sparkContext.parallelize(ordered_list_cat_cv).saveAsTextFile('category-cosine-calculated')
+    ordered_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).coalesce(2)
+    ordered_cat_cv.rdd.saveAsTextFile('category-cosine-calculated')
     #Process Categories END
 
 if __name__ == '__main__':
