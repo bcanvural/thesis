@@ -20,6 +20,7 @@ def main():
         .getOrCreate()
 
     VOCAB_SIZE = 200
+    MIN_DF = 4.0
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
     df_jobs.registerTempTable("jobs")
@@ -38,7 +39,7 @@ def main():
     remover = StopWordsRemover(inputCol="words", outputCol="filtered")
     removed = remover.transform(tokenized)
 
-    countVectorizer = CountVectorizer(inputCol="filtered", outputCol="rawFeatures", vocabSize=VOCAB_SIZE, minDF=4.0)
+    countVectorizer = CountVectorizer(inputCol="filtered", outputCol="rawFeatures", vocabSize=VOCAB_SIZE, minDF=MIN_DF)
     cv_model = countVectorizer.fit(removed)
     featurizedData = cv_model.transform(removed)
 
