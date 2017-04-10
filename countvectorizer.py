@@ -58,7 +58,7 @@ def main():
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
     ordered = calculatedDF.orderBy(desc("similarity")).coalesce(2)
-    ordered.rdd.saveAsTextFile('cosine-calculated-countvectorizer')
+    ordered.rdd.saveAsTextFile('Calculated/countvectorizer/job-cv')
     #Calculate job-cv similarity END
 
     #Calculate cv-category similarity START
@@ -67,7 +67,7 @@ def main():
     .map(lambda x: (x.cvid, x.id, x.skillName, calculate_cosine_similarity(x.featuresCV, x.featuresCAT)))\
     .toDF(["cvid", "catid", "skillName", "similarity"])
     ordered_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).coalesce(2)
-    ordered_cat_cv.rdd.saveAsTextFile('category-cosine-calculated-countvectorizer')
+    ordered_cat_cv.rdd.saveAsTextFile('Calculated/countvectorizer/cv-category')
     #Calculate cv-category similarity END
 
 if __name__ == '__main__':
