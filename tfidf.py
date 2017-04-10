@@ -95,5 +95,15 @@ def main() :
     ordered_cat_cv.rdd.saveAsTextFile('Calculated/tfidf/cv-category')
     #Process Categories END
 
+    #Job-category START
+    crossJoined_job_cat = rescaledData.select("jobId", "features").crossJoin(rescaledData_cat.select("id", "featuresCAT", "skillName"))
+    calculatedDF_job_cat = crossJoined_job_cat.rdd \
+    .map(lambda x: (x.jobId, x.id, x.skillName, calculate_cosine_similarity(x.features, x.featuresCAT))) \
+    .toDF(["jobid", "catid", "skillName", "similarity"])
+    ordered_job_cat = calculatedDF_job_cat.orderBy(desc("similarity")).coalesce(2)
+    ordered_job_cat.rdd.saveAsTextFile('Calculated/tfidf/job-category')
+
+    #Job-category END
+
 if __name__ == '__main__':
     main()
