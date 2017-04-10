@@ -56,5 +56,14 @@ def main():
     calculated_cv_cat.rdd.saveAsTextFile('Calculated/word2vec/cv-category')
     #Calculate cv-category similarity END
 
+    #Job-category START
+    crossJoined_job_cat = jobs.select("jobId", "jobsVec").crossJoin(categories.select("id", "skillName", "categoriesVec"))
+    calculatedDF_job_cat = crossJoined_job_cat.rdd\
+    .map(lambda x: (x.jobId, x.id, x.skillName, calculate_distance(x.jobsVec, x.categoriesVec)))\
+    .toDF(["jobid", "catid", "skillName", "distance"])
+    ordered_job_cat = calculatedDF_job_cat.orderBy( asc("distance")).coalesce(2)
+    ordered_job_cat.rdd.saveAsTextFile('Calculated/word2vec/job-category')
+    #Job-category END
+
 if __name__ == '__main__':
     main()
