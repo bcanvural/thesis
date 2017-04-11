@@ -191,6 +191,18 @@ def write_all_jobs(db):
             except:
                 continue
 
+def write_all_categories(db):
+    collection = db['allcategories']
+    q = Path('allcategories4rdd/allcategories.jsonl')
+    with q.open() as f:
+        for line in f:
+            json_obj = json.loads(line.strip())
+            try:
+                obj = {"catid": json_obj['id'], "skillName": json_obj["skillName"], \
+                "skillText": json_obj['skillText'], "category": json_obj["category"]}
+                collection.insert_one(obj)
+            except:
+                continue
 def main():
     client = MongoClient('localhost', 27017)
     db = client['thesis-database']
@@ -208,6 +220,7 @@ def main():
     # word2vec_job_category(db)
     # word2vec_job_cv(db)
     # write_all_jobs(db)
+    write_all_categories(db)
 
 if __name__ == '__main__':
     main()
