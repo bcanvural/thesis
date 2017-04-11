@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 import os
 from pathlib import Path
+import json
 
 def tfidf_cv_category(db):
     collection = db['tfidf-cv-category']
@@ -177,22 +178,36 @@ def word2vec_job_cv(db):
                     jobid, cvid, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": distance}
                     collection.insert_one(obj)
+
+def write_all_jobs(db):
+    collection = db['alljobs']
+    q = Path('alljobs4rdd/alljobs.jsonl')
+    with q.open() as f:
+        for line in f:
+            json_obj = json.loads(line.strip())
+            try:
+                obj = {"jobid": json_obj['jobId'], "description": json_obj["description"]}
+                collection.insert_one(obj)
+            except:
+                continue
+
 def main():
     client = MongoClient('localhost', 27017)
     db = client['thesis-database']
 
-    tfidf_cv_category(db)
-    tfidf_job_category(db)
-    tfidf_job_cv(db)
-    tfidf2_cv_category(db)
-    tfidf2_job_category(db)
-    tfidf2_job_cv(db)
-    countvectorizer_cv_category(db)
-    countvectorizer_job_category(db)
-    countvectorizer_job_cv(db)
-    word2vec_cv_category(db)
-    word2vec_job_category(db)
-    word2vec_job_cv(db)
+    # tfidf_cv_category(db)
+    # tfidf_job_category(db)
+    # tfidf_job_cv(db)
+    # tfidf2_cv_category(db)
+    # tfidf2_job_category(db)
+    # tfidf2_job_cv(db)
+    # countvectorizer_cv_category(db)
+    # countvectorizer_job_category(db)
+    # countvectorizer_job_cv(db)
+    # word2vec_cv_category(db)
+    # word2vec_job_category(db)
+    # word2vec_job_cv(db)
+    # write_all_jobs(db)
 
 if __name__ == '__main__':
     main()
