@@ -1,15 +1,17 @@
 from flask import Flask, request, jsonify
 import subprocess
 import json
+from pymongo import MongoClient
+from bson.json_util import loads
 
 app = Flask(__name__)
 HOST = "127.0.0.1"
 PORT = 5000
+client = MongoClient('localhost', 27017)
+db = client['thesis-database']
 
 def get_max_catid():
-    cmd = 'tail allcategories4rdd/allcategories.jsonl -n1'
-    output = subprocess.check_output(cmd, shell=True).decode("utf-8")
-    return json.loads(output)['id']
+    pass
 def validate_method(method):
     if method != 'tfidf' and method != 'tfidf2' and \
     method != 'word2vec' and method != 'countvectorizer':
@@ -25,28 +27,21 @@ def validate_cats(cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5):
 @app.route('/job/<id>', methods=['GET'])
 def job_by_id(id):
     if request.method == 'GET':
-        cmd = 'grep \'"jobId": ' + id + '[,}]\' alljobs4rdd/alljobs.jsonl'
         try:
-            output = subprocess.check_output(cmd, shell=True).decode("utf-8")
-            if output:
-                return jsonify({"response": json.loads(output),"statusCode": 200})
-            else:
-                return jsonify({"response": {}, "statusCode": 404})
+            collection = db['alljobs']
+            doc = collection.find_one({"jobid":int(id)})
+            if not doc:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            obj = {"jobid": doc['jobid'], "description": doc['description']}
+            return jsonify({"response": obj, "statusCode": 200})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
-            return jsonify({"response": {}, "statusCode": 404})
-
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 @app.route('/category/<name>', methods=['GET'])
 def cat_by_name(name):
     if request.method == 'GET':
-        cmd = 'grep \'"skillName": "' + name + '"[,}]\' allcategories4rdd/allcategories.jsonl'
-        try:
-            output = subprocess.check_output(cmd, shell=True).decode("utf-8")
-            if output:
-                return jsonify({"response": json.loads(output),"statusCode": 200})
-            else:
-                return jsonify({"response": {}, "statusCode": 404})
-        except:
-            return jsonify({"response": {}, "statusCode": 404})
+
 
 @app.route('/graph', methods=['POST'])
 def graph_data():
