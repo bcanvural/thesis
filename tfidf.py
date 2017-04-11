@@ -67,8 +67,8 @@ def main() :
 
     calculatedDF = crossJoined.rdd.map(lambda x: (x.jobId, x.cvid, calculate_cosine_similarity(x.features, x.featuresCV)))\
     .toDF(["jobid", "cvid", "similarity"])
-    ordered = calculatedDF.orderBy(desc("similarity")).coalesce(2)
-    ordered.rdd.saveAsTextFile('Calculated/tfidf/job-cv')
+    ordered = calculatedDF.orderBy(asc("jobid")).coalesce(2)
+    ordered.write.csv('Calculated/tfidf/job-cv')
 
     #Cosine Similarity END
 
@@ -92,7 +92,7 @@ def main() :
     .map(lambda x: (x.cvid, x.id, x.skillName, calculate_cosine_similarity(x.featuresCV, x.featuresCAT)))\
     .toDF(["cvid", "catid", "skillName", "similarity"])
     ordered_cat_cv = calculatedDF_cat_cv.orderBy(asc("cvid"), desc("similarity")).coalesce(2)
-    ordered_cat_cv.rdd.saveAsTextFile('Calculated/tfidf/cv-category')
+    ordered_cat_cv.write.csv('Calculated/tfidf/cv-category')
     #Process Categories END
 
     #Job-category START
@@ -101,7 +101,7 @@ def main() :
     .map(lambda x: (x.jobId, x.id, x.skillName, calculate_cosine_similarity(x.features, x.featuresCAT))) \
     .toDF(["jobid", "catid", "skillName", "similarity"])
     ordered_job_cat = calculatedDF_job_cat.orderBy(desc("similarity")).coalesce(2)
-    ordered_job_cat.rdd.saveAsTextFile('Calculated/tfidf/job-category')
+    ordered_job_cat.write.csv('Calculated/tfidf/job-category')
 
     #Job-category END
 
