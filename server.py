@@ -38,11 +38,18 @@ def job_by_id(id):
             return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
-@app.route('/category/<name>', methods=['GET'])
+@app.route('/skill/<name>', methods=['GET'])
 def cat_by_name(name):
     if request.method == 'GET':
-
-
+        try:
+            collection = db['allcategories']
+            doc = collection.find_one({"skillName":name})
+            if not doc:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            obj = {"skillName": doc['skillName'], "catid": doc['catid'], "category": doc['category']}
+            return jsonify({"response": obj, "statusCode": 200})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 @app.route('/graph', methods=['POST'])
 def graph_data():
     if request.method == 'POST':
