@@ -11,7 +11,7 @@ client = MongoClient('localhost', 27017)
 db = client['thesis-database']
 
 def get_max_catid():
-    pass
+    return db['allcategories'].find().sort("catid", -1).limit(1)[0]["catid"]
 def validate_method(method):
     if method != 'tfidf' and method != 'tfidf2' and \
     method != 'word2vec' and method != 'countvectorizer':
@@ -55,23 +55,49 @@ def graph_data():
     if request.method == 'POST':
         try:
             json_data = json.loads(request.get_data().decode('utf-8'))
-            job_id = json_data['jobid']
+            job_id = int(json_data['jobid'])
             method = json_data['method'] #tfidf, word2vec, etc..
             validate_method(method)
-            cat_id_1 = json_data['cat_id_1']
-            cat_id_2 = json_data['cat_id_2']
-            cat_id_3 = json_data['cat_id_3']
-            cat_id_4 = json_data['cat_id_4']
-            cat_id_5 = json_data['cat_id_5']
+            cat_id_1 = int(json_data['cat_id_1'])
+            cat_id_2 = int(json_data['cat_id_2'])
+            cat_id_3 = int(json_data['cat_id_3'])
+            cat_id_4 = int(json_data['cat_id_4'])
+            cat_id_5 = int(json_data['cat_id_5'])
             validate_cats(cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5)
+            #get job-category similarities
+            similarity_str = 'distance' if method == 'word2vec' else 'similarity'
+            job_cat_1_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_1})[similarity_str]
+            job_cat_2_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_2})[similarity_str]
+            job_cat_3_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_3})[similarity_str]
+            job_cat_4_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_4})[similarity_str]
+            job_cat_5_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_5})[similarity_str]
+            job_sim_obj = {"jobid": job_id, "cat_1_sim": job_cat_1_sim, "cat_2_sim": job_cat_2_sim, "cat_3_sim": \
+            job_cat_3_sim, "cat_4_sim": job_cat_4_sim, "cat_5_sim": job_cat_5_sim}
             #Fetch 5 best CVs for this job
-            #TODO read from DB
-
-
-            return jsonify({"response": json_data,"statusCode": 200})
+            cv_similarities = []
+            cvs = db[method + '-job-cv'].find({"jobid": job_id}).sort(similarity_str, 1 if method == 'word2vec' else -1).limit(5)
+            if cvs.count() == 0:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            for cv in cvs:
+                cv_obj = {"cvid": cv['cvid'], "job_similarity": cv[similarity_str]}
+                cv_cat_1_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_1})[similarity_str]
+                cv_obj["cat_1_sim"] = cv_cat_1_sim
+                cv_cat_2_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_2})[similarity_str]
+                cv_obj["cat_2_sim"] = cv_cat_2_sim
+                cv_cat_3_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_3})[similarity_str]
+                cv_obj["cat_3_sim"] = cv_cat_3_sim
+                cv_cat_4_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_4})[similarity_str]
+                cv_obj["cat_4_sim"] = cv_cat_4_sim
+                cv_cat_5_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_5})[similarity_str]
+                cv_obj["cat_5_sim"] = cv_cat_5_sim
+                cv_similarities.append(cv_obj)
+            final_obj = {"job_sim": job_sim_obj, "cv_similarities": cv_similarities}
+            return jsonify({"response": final_obj,"statusCode": 200})
+        except KeyError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Key error"})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
-            return jsonify({"response": {}, "statusCode": 404})
-
-
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 if __name__ == "__main__":
     app.run(host=HOST, port=PORT)
