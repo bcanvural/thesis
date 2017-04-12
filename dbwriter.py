@@ -15,7 +15,7 @@ def tfidf_cv_category(db):
                     # "cvid", "catid", "skillName", "similarity"
                     cvid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def tfidf_job_category(db):
@@ -30,7 +30,7 @@ def tfidf_job_category(db):
                     #"jobid", "catid", "skillName", "similarity"
                     jobid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def tfidf_job_cv(db):
@@ -44,7 +44,7 @@ def tfidf_job_cv(db):
                 for line in f:
                     #"jobid", "cvid", "similarity"
                     jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": similarity}
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def tfidf2_cv_category(db):
@@ -59,7 +59,7 @@ def tfidf2_cv_category(db):
                     # "cvid", "catid", "skillName", "similarity"
                     cvid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def tfidf2_job_category(db):
@@ -74,7 +74,7 @@ def tfidf2_job_category(db):
                     # "jobid", "catid", "skillName", "similarity"
                     jobid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def tfidf2_job_cv(db):
@@ -88,7 +88,7 @@ def tfidf2_job_cv(db):
                 for line in f:
                     #"jobid", "cvid", "similarity"
                     jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": similarity}
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def countvectorizer_cv_category(db):
@@ -103,7 +103,7 @@ def countvectorizer_cv_category(db):
                     # "cvid", "catid", "skillName", "similarity"
                     cvid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def countvectorizer_job_category(db):
@@ -118,7 +118,7 @@ def countvectorizer_job_category(db):
                     # "jobid", "catid", "skillName", "similarity"
                     jobid, catid, skillName, similarity = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": similarity}
+                    "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def countvectorizer_job_cv(db):
@@ -132,7 +132,7 @@ def countvectorizer_job_cv(db):
                 for line in f:
                     #"jobid", "cvid", "similarity"
                     jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": similarity}
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
                     collection.insert_one(obj)
 
 def word2vec_cv_category(db):
@@ -147,7 +147,7 @@ def word2vec_cv_category(db):
                     # "cvid", "catid", "skillName", "similarity"
                     cvid, catid, skillName, distance = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "distance": distance}
+                    "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec_job_category(db):
@@ -162,7 +162,7 @@ def word2vec_job_category(db):
                     # "jobid", "catid", "skillName", "similarity"
                     jobid, catid, skillName, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "distance": distance}
+                    "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec_job_cv(db):
@@ -176,7 +176,7 @@ def word2vec_job_cv(db):
                 for line in f:
                     #"jobid", "cvid", "similarity"
                     jobid, cvid, distance = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": distance}
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
                     collection.insert_one(obj)
 
 def write_all_jobs(db):
@@ -220,7 +220,7 @@ def main():
     # word2vec_job_category(db)
     # word2vec_job_cv(db)
     # write_all_jobs(db)
-    write_all_categories(db)
+    # write_all_categories(db)
 
 if __name__ == '__main__':
     main()
