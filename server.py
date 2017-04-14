@@ -3,6 +3,7 @@ import subprocess
 import json
 from pymongo import MongoClient
 from bson.json_util import loads
+import re
 
 app = Flask(__name__)
 HOST = "127.0.0.1"
@@ -50,6 +51,26 @@ def cat_by_name(name):
             return jsonify({"response": obj, "statusCode": 200})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+@app.route('/skillrec', methods=['GET'])
+def skillrec():
+    if request.method == 'GET':
+        try:
+            q = request.args['q']
+            regex = re.compile('.*' + re.escape(q) + '.*', re.IGNORECASE)
+            items = db['allcategories'].find({'skillName': { '$regex': regex }}).limit(5)
+            if items.count() == 0:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            else:
+                skills_arr = []
+                for item in items:
+                    item.pop('skillText', None)
+                    item.pop('_id', None)
+                    skills_arr.append(item)
+                return jsonify(response=skills_arr, statusCode=200)
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
 @app.route('/graph', methods=['POST'])
 def graph_data():
     if request.method == 'POST':
