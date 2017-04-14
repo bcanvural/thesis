@@ -60,7 +60,7 @@ def skillrec():
             regex = re.compile('.*' + re.escape(q) + '.*', re.IGNORECASE)
             items = db['allcategories'].find({'skillName': { '$regex': regex }}).limit(5)
             if items.count() == 0:
-                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+                return jsonify(response=[], statusCode=404, message="Not found")
             else:
                 skills_arr = []
                 for item in items:
@@ -69,7 +69,7 @@ def skillrec():
                     skills_arr.append(item)
                 return jsonify(response=skills_arr, statusCode=200)
         except:
-            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+            return jsonify(response=[], statusCode=404, message="Generic")
 
 @app.route('/graph', methods=['POST'])
 def graph_data():
