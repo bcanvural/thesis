@@ -4,8 +4,10 @@ import json
 from pymongo import MongoClient
 from bson.json_util import loads
 import re
+from flask_cors import CORS, cross_origin
 
 app = Flask(__name__)
+CORS(app)
 HOST = "127.0.0.1"
 PORT = 5000
 client = MongoClient('localhost', 27017)
@@ -57,7 +59,7 @@ def skillrec():
     if request.method == 'GET':
         try:
             q = request.args['q']
-            regex = re.compile('.*' + re.escape(q) + '.*', re.IGNORECASE)
+            regex = re.compile('^' + re.escape(q) + '.*', re.IGNORECASE)
             items = db['allcategories'].find({'skillName': { '$regex': regex }}).limit(5)
             if items.count() == 0:
                 return jsonify(response=[], statusCode=404, message="Not found")
@@ -121,4 +123,4 @@ def graph_data():
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 if __name__ == "__main__":
-    app.run(host=HOST, port=PORT)
+    app.run(host=HOST, port=PORT, threaded=True)
