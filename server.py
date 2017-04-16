@@ -16,9 +16,8 @@ db = client['thesis-database']
 def get_max_catid():
     return db['allcategories'].find().sort("catid", -1).limit(1)[0]["catid"]
 def validate_method(method):
-    if method != 'tfidf' and method != 'tfidf2' and \
-    method != 'word2vec' and method != 'countvectorizer':
-       raise
+    if method not in ['tfidf', 'tfidf2', 'word2vec', 'countvectorizer']:
+        raise
 def validate_cats(cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5):
     #make sure they are distinct
     if len(set([cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5])) != 5:
