@@ -4,9 +4,8 @@ from pyspark.sql.functions import *
 
 def calculate_distance(vec1, vec2):
     from scipy import spatial
-    return float(spatial.distance.euclidean(vec1, vec2))
-    # result = spatial.distance.cosine(vec1, vec2)
-    # return 1 - float(result)
+    result = spatial.distance.cosine(vec1, vec2)
+    return 1 - float(result)
 
 def main():
     spark = SparkSession.builder \
@@ -48,14 +47,14 @@ def main():
     crossJoined_job_cv = jobs.crossJoin(cvs)
     calculated_job_cv = crossJoined_job_cv.rdd.map(lambda x: (x.jobId, x.cvid, calculate_distance(x.jobsVec, x.cvsVec)))\
     .toDF(["jobid", "cvid", "distance"]).orderBy(asc("jobid")).coalesce(2)
-    calculated_job_cv.write.csv('Calculated/word2vec/job-cv')
+    calculated_job_cv.write.csv('Calculated/word2vec2/job-cv')
     #Calculate job-cv similarity END
 
     #Calculate cv-category similarity START
     crossJoined_cv_cat = cvs.crossJoin(categories)
     calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, calculate_distance(x.cvsVec, x.categoriesVec)))\
     .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("cvid"), asc("distance")).coalesce(2)
-    calculated_cv_cat.write.csv('Calculated/word2vec/cv-category')
+    calculated_cv_cat.write.csv('Calculated/word2vec2/cv-category')
     #Calculate cv-category similarity END
 
     #Job-category START
@@ -64,7 +63,7 @@ def main():
     .map(lambda x: (x.jobId, x.id, x.skillName, calculate_distance(x.jobsVec, x.categoriesVec)))\
     .toDF(["jobid", "catid", "skillName", "distance"])
     ordered_job_cat = calculatedDF_job_cat.orderBy( asc("distance")).coalesce(2)
-    ordered_job_cat.write.csv('Calculated/word2vec/job-category')
+    ordered_job_cat.write.csv('Calculated/word2vec2/job-category')
     #Job-category END
 
 if __name__ == '__main__':
