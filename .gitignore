@@ -8,3 +8,6 @@ out/
 metastore_db/
 CVs/
 outcv/
+rake_tutorial.py
+rake.py
+SmartStoplist.txt
