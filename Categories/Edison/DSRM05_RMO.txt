@@ -1,0 +1,93 @@
+Research question
+
+Interest in a particular topic usually begins the research process, but it is the familiarity with the subject that helps define an appropriate research question for a study.1 Questions then arise out of a perceived knowledge deficit within a subject area or field of study.2 Indeed, Haynes suggests that it is important to know “where the boundary between current knowledge and ignorance lies.”1 The challenge in developing an appropriate research question is in determining which clinical uncertainties could or should be studied and also rationalizing the need for their investigation.
+
+Increasing one’s knowledge about the subject of interest can be accomplished in many ways. Appropriate methods include systematically searching the literature, in-depth interviews and focus groups with patients (and proxies) and interviews with experts in the field. In addition, awareness of current trends and technological advances can assist with the development of research questions.2 It is imperative to understand what has been studied about a topic to date in order to further the knowledge that has been previously gathered on a topic. Indeed, some granting institutions (e.g., Canadian Institute for Health Research) encourage applicants to conduct a systematic review of the available evidence if a recent review does not already exist and preferably a pilot or feasibility study before applying for a grant for a full trial.
+
+In-depth knowledge about a subject may generate a number of questions. It then becomes necessary to ask whether these questions can be answered through one study or if more than one study needed.1 Additional research questions can be developed, but several basic principles should be taken into consideration.1 All questions, primary and secondary, should be developed at the beginning and planning stages of a study. Any additional questions should never compromise the primary question because it is the primary research question that forms the basis of the hypothesis and study objectives. It must be kept in mind that within the scope of one study, the presence of a number of research questions will affect and potentially increase the complexity of both the study design and subsequent statistical analyses, not to mention the actual feasibility of answering every question.1 A sensible strategy is to establish a single primary research question around which to focus the study plan.3 In a study, the primary research question should be clearly stated at the end of the introduction of the grant proposal, and it usually specifies the population to be studied, the intervention to be implemented and other circumstantial factors.4
+
+Hulley and colleagues2 have suggested the use of the FINER criteria in the development of a good research question (Box 1). The FINER criteria highlight useful points that may increase the chances of developing a successful research project. A good research question should specify the population of interest, be of interest to the scientific community and potentially to the public, have clinical relevance and further current knowledge in the field (and of course be compliant with the standards of ethical boards and national research standards).
+Box 1
+FINER criteria for a good research question
+F	Feasible	
+
+    Adequate number of subjects
+    Adequate technical expertise
+    Affordable in time and money
+    Manageable in scope
+
+I	Interesting	
+
+    Getting the answer intrigues investigator, peers and community
+
+N	Novel	
+
+    Confirms, refutes or extends previous findings
+
+E	Ethical	
+
+    Amenable to a study that institutional review board will approve
+
+R	Relevant	
+
+    To scientific knowledge
+    To clinical and health policy
+    To future research
+
+Adapted with permission from Wolters Kluwer Health.2
+
+Whereas the FINER criteria outline the important aspects of the question in general, a useful format to use in the development of a specific research question is the PICO format — consider the population (P) of interest, the intervention (I) being studied, the comparison (C) group (or to what is the intervention being compared) and the outcome of interest (O).3,5,6 Often timing (T) is added to PICO (Box 2) — that is, “Over what time frame will the study take place?”1 The PICOT approach helps generate a question that aids in constructing the framework of the study and subsequently in protocol development by alluding to the inclusion and exclusion criteria and identifying the groups of patients to be included. Knowing the specific population of interest, intervention (and comparator) and outcome of interest may also help the researcher identify an appropriate outcome measurement tool.7 The more defined the population of interest, and thus the more stringent the inclusion and exclusion criteria, the greater the effect on the interpretation and subsequent applicability and generalizability of the research findings.1,2 A restricted study population (and exclusion criteria) may limit bias and increase the internal validity of the study; however, this approach will limit external validity of the study and, thus, the generalizability of the findings to the practical clinical setting. Conversely, a broadly defined study population and inclusion criteria may be representative of practical clinical practice but may increase bias and reduce the internal validity of the study.
+Box 2
+PICOT criteria1
+P	Population (patients)	
+
+    What specific patient population are you interested in?
+
+I	Intervention (for intervention studies only)	
+
+    What is your investigational intervention?
+
+C	Comparison group	
+
+    What is the main alternative to compare with the intervention?
+
+O	Outcome of interest	
+
+    What do you intend to accomplish, measure, improve or affect?
+
+T	Time	
+
+    What is the appropriate follow-up time to assess outcome
+
+A poorly devised research question may affect the choice of study design, potentially lead to futile situations and, thus, hamper the chance of determining anything of clinical significance, which will then affect the potential for publication. Without devoting appropriate resources to developing the research question, the quality of the study and subsequent results may be compromised. During the initial stages of any research study, it is therefore imperative to formulate a research question that is both clinically relevant and answerable.
+Research hypothesis
+
+The primary research question should be driven by the hypothesis rather than the data.1,2 That is, the research question and hypothesis should be developed before the start of the study. This sounds intuitive; however, if we take, for example, a database of information, it is potentially possible to perform multiple statistical comparisons of groups within the database to find a statistically significant association. This could then lead one to work backward from the data and develop the “question.” This is counterintuitive to the process because the question is asked specifically to then find the answer, thus collecting data along the way (i.e., in a prospective manner). Multiple statistical testing of associations from data previously collected could potentially lead to spuriously positive findings of association through chance alone.2 Therefore, a good hypothesis must be based on a good research question at the start of a trial and, indeed, drive data collection for the study.
+
+The research or clinical hypothesis is developed from the research question and then the main elements of the study — sampling strategy, intervention (if applicable), comparison and outcome variables — are summarized in a form that establishes the basis for testing, statistical and ultimately clinical significance.3 For example, in a research study comparing computer-assisted acetabular component insertion versus freehand acetabular component placement in patients in need of total hip arthroplasty, the experimental group would be computer-assisted insertion and the control/conventional group would be free-hand placement. The investigative team would first state a research hypothesis. This could be expressed as a single outcome (e.g., computer-assisted acetabular component placement leads to improved functional outcome) or potentially as a complex/composite outcome; that is, more than one outcome (e.g., computer-assisted acetabular component placement leads to both improved radiographic cup placement and improved functional outcome).
+
+However, when formally testing statistical significance, the hypothesis should be stated as a “null” hypothesis.2 The purpose of hypothesis testing is to make an inference about the population of interest on the basis of a random sample taken from that population. The null hypothesis for the preceding research hypothesis then would be that there is no difference in mean functional outcome between the computer-assisted insertion and free-hand placement techniques. After forming the null hypothesis, the researchers would form an alternate hypothesis stating the nature of the difference, if it should appear. The alternate hypothesis would be that there is a difference in mean functional outcome between these techniques. At the end of the study, the null hypothesis is then tested statistically. If the findings of the study are not statistically significant (i.e., there is no difference in functional outcome between the groups in a statistical sense), we cannot reject the null hypothesis, whereas if the findings were significant, we can reject the null hypothesis and accept the alternate hypothesis (i.e., there is a difference in mean functional outcome between the study groups), errors in testing notwithstanding. In other words, hypothesis testing confirms or refutes the statement that the observed findings did not occur by chance alone but rather occurred because there was a true difference in outcomes between these surgical procedures. The concept of statistical hypothesis testing is complex, and the details are beyond the scope of this article.
+
+Another important concept inherent in hypothesis testing is whether the hypotheses will be 1-sided or 2-sided. A 2-sided hypothesis states that there is a difference between the experimental group and the control group, but it does not specify in advance the expected direction of the difference. For example, we asked whether there is there an improvement in outcomes with computer-assisted surgery or whether the outcomes worse with computer-assisted surgery. We presented a 2-sided test in the above example because we did not specify the direction of the difference. A 1-sided hypothesis states a specific direction (e.g., there is an improvement in outcomes with computer-assisted surgery). A 2-sided hypothesis should be used unless there is a good justification for using a 1-sided hypothesis. As Bland and Atlman 8 stated, “One-sided hypothesis testing should never be used as a device to make a conventionally nonsignificant difference significant.”
+
+The research hypothesis should be stated at the beginning of the study to guide the objectives for research. Whereas the investigators may state the hypothesis as being 1-sided (there is an improvement with treatment), the study and investigators must adhere to the concept of clinical equipoise. According to this principle, a clinical (or surgical) trial is ethical only if the expert community is uncertain about the relative therapeutic merits of the experimental and control groups being evaluated.9 It means there must exist an honest and professional disagreement among expert clinicians about the preferred treatment.9
+
+Designing a research hypothesis is supported by a good research question and will influence the type of research design for the study. Acting on the principles of appropriate hypothesis development, the study can then confidently proceed to the development of the research objective.
+Research objective
+
+The primary objective should be coupled with the hypothesis of the study. Study objectives define the specific aims of the study and should be clearly stated in the introduction of the research protocol.7 From our previous example and using the investigative hypothesis that there is a difference in functional outcomes between computer-assisted acetabular component placement and free-hand placement, the primary objective can be stated as follows: this study will compare the functional outcomes of computer-assisted acetabular component insertion versus free-hand placement in patients undergoing total hip arthroplasty. Note that the study objective is an active statement about how the study is going to answer the specific research question. Objectives can (and often do) state exactly which outcome measures are going to be used within their statements. They are important because they not only help guide the development of the protocol and design of study but also play a role in sample size calculations and determining the power of the study.7 These concepts will be discussed in other articles in this series.
+
+From the surgeon’s point of view, it is important for the study objectives to be focused on outcomes that are important to patients and clinically relevant. For example, the most methodologically sound randomized controlled trial comparing 2 techniques of distal radial fixation would have little or no clinical impact if the primary objective was to determine the effect of treatment A as compared to treatment B on intraoperative fluoroscopy time. However, if the objective was to determine the effect of treatment A as compared to treatment B on patient functional outcome at 1 year, this would have a much more significant impact on clinical decision-making. Second, more meaningful surgeon–patient discussions could ensue, incorporating patient values and preferences with the results from this study.6,7 It is the precise objective and what the investigator is trying to measure that is of clinical relevance in the practical setting.
+
+The following is an example from the literature about the relation between the research question, hypothesis and study objectives:
+
+Study: Warden SJ, Metcalf BR, Kiss ZS, et al. Low-intensity pulsed ultrasound for chronic patellar tendinopathy: a randomized, double-blind, placebo-controlled trial. Rheumatology 2008;47:467–71.
+
+Research question: How does low-intensity pulsed ultrasound (LIPUS) compare with a placebo device in managing the symptoms of skeletally mature patients with patellar tendinopathy?
+
+Research hypothesis: Pain levels are reduced in patients who receive daily active-LIPUS (treatment) for 12 weeks compared with individuals who receive inactive-LIPUS (placebo).
+
+Objective: To investigate the clinical efficacy of LIPUS in the management of patellar tendinopathy symptoms.
+Conclusion
+
+The development of the research question is the most important aspect of a research project. A research project can fail if the objectives and hypothesis are poorly focused and underdeveloped. Useful tips for surgical researchers are provided in Box 3. Designing and developing an appropriate and relevant research question, hypothesis and objectives can be a difficult task. The critical appraisal of the research question used in a study is vital to the application of the findings to clinical practice. Focusing resources, time and dedication to these 3 very important tasks will help to guide a successful research project, influence interpretation of the results and affect future publication efforts.

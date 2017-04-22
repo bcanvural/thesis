@@ -1,0 +1,39 @@
+Intellectual property rights (IPR) management is an important part of any data management program. A builder of a database or other data resource will have an interest in who owns that resource and how others may use it. Someone who may populate that resource with data provided in part by others will want to make sure that all legal, ethical, and professional obligations that one may have to the provider of the data are met. Since the benefits of data sharing are so well known and documented, a researcher may wish to share their database and/or content with others. Others can only fully utilize external data if they know the terms of use (if any) for that data. This fact sheet provides a brief overview of some of the issues associated with managing IPR in data projects.
+
+    Data versus database
+    Data licensing
+    Data ownership at Cornell
+    Related information
+
+Data versus database
+
+In any data project, there are likely to be two components. The first is the data collected, assembled, or generated. Think of it as the raw content in the system. It could be hourly temperature readings from a sensor, the age of individuals in a survey, recordings of individual voices, or photographs of plant specimens. The second component is the data system in which the data is stored and managed.
+
+We usually do not think of data content separate from the system in which it is stored, but the distinction is important in terms of intellectual property rights. The question is what, if anything, is protected by copyright. Data that is factual has no copyright protection under U.S. law; it is not possible to copyright facts. Not all data is in the public domain. A project might, for example, use copyrighted photographs; the photographs are part of the project’s “data.” In many cases, the data in a data management system as well as the metadata describing that data will be factual, and hence not protected by copyright.
+
+A database, on the other hand, can have a thin layer of copyright protection. Deciding what data needs to be included in a database, how to organize the data, and how to relate different data elements are all creative decisions that may receive copyright protection.
+
+Because of the different copyright status of databases and data content, different mechanisms are required to manage each. Copyright can govern the use of databases and some data content (that which is itself original), but contract law, trademarks, and other mechanisms are required to regulate factual data.
+Data licensing
+
+In order to facilitate the reuse of data, it is imperative that others know the terms of use for the database and the data content. Fortunately, the Open Data Commons group (http://opendatacommons.org) has been developing legally binding tools to govern the use of data sets. Using a combination of copyright and contractual standards, they have created three standard licenses that one can use in conjunction with data projects. In addition, it is possible to articulate a set of “community norms” that complement the use of formal licenses. While not having the force of law, norms can express the shared beliefs of a community vis-à-vis data sharing and reuse.
+
+The three ODC licenses are:
+
+    Public Domain Dedication and License (PDDL): This dedicates the database and its content to the public domain, free for everyone to use as they see fit.
+    Attribution License (ODC-By): Users are free to use the database and its content in new and different ways, provided they provide attribution to the source of the data and/or the database.
+    Open Database License (ODC-ODbL): ODbL stipulates that any subsequent use of the database must provide attribution, an unrestricted version of the new product must always be accessible, and any new products made using ODbL material must be distributed using the same terms. It is the most restrictive of all ODC licenses.
+
+Creative Commons (http://www.creativecommons.org/) also has a library of standardized licenses, and some of them apply to data and databases. The ODC-By license, for example, is the equivalent of a Creative Commons Attribution license (CC BY). CC BY licenses, however, require copyright ownership of the underlying work, whereas the ODC-By license applies to works not protected by copyright (such as factual data)
+
+The two CC licenses that are of greatest relevance to data management are:
+
+    CC0 (i.e., "CC Zero"): When an owner wishes to waive her copyright and/or database rights, she can use the CC0 mark. It effectively places the database and data into the public domain. It is the functional equivalent of an ODC PDDL license.
+    Public Domain mark (PDM): It is used to mark works that are in the public domain, and for which there are no known copyright or database restrictions. It is possible to flag factual data as PDM in a database, for example, in order to make it clear it is free to use.
+
+Selecting a data license
+
+There is no single right answer as to which license to assign to a database or content. Note, however, that anything other than an ODC PDDL or CC0 license may cause serious problems for subsequent scientists and other users. This is because of the problem of attribution stacking. It may be possible to extract data from a data set, use it in a research project, and still maintain information as to the source of that data. It is possible to create a data set derived from hundreds of sources with each source requiring acknowledgement. Furthermore, the data in the other databases may not have originated with it, but instead sourced from other databases that also demand attribution. Rather than legally require that everyone provide attribution to the data, it might be enough to have a community norm that says “if you make extensive use of data from this data set, please credit the authors.”
+Data ownership at Cornell
+
+The ownership of works produced by Cornell faculty, students, and non-academic staff is governed by the Cornell University Policy 1.5, Inventions and Related Property Rights, and especially the Cornell Copyright Policy. The precise answer will depend on whether the project was created as part of sponsored research; the employment status of the creator; whether the work was conducted “pursuant to a specific direction or assigned duty…from the University”; and, if deemed to be an “encoded work,” whether substantial university resources were used in the creation of the encoded work.

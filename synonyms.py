@@ -24,10 +24,10 @@ def main():
     stripped = removed.select('filtered').rdd.map(lambda x: strip_punctuation(x[0]))\
     .map(lambda x: Row(filtered=x)).toDF(['filtered'])
 
-    word2vec = Word2Vec(vectorSize=100, inputCol="filtered", outputCol="result")
-    model = word2vec.fit(stripped)
-    model.save("word2vec-model")
-    # model = Word2VecModel.load("word2vec-model")
+    # word2vec = Word2Vec(vectorSize=100, inputCol="filtered", outputCol="result")
+    # model = word2vec.fit(stripped)
+    #model.save("word2vec-model")
+    model = Word2VecModel.load("word2vec-model")
     synonyms = model.findSynonyms(sys.argv[1], 10)
     synonyms.show(truncate=False)
     # for word, cosine_distance in synonyms:

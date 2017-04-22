@@ -1,0 +1,150 @@
+big-data-analytics
+
+Data analysis is nothing new. Even before computers were used, information gained in the course of business or other activities was reviewed with the aim of making those processes more efficient and more profitable. These were, of course, comparatively small-scale undertakings given the limitations posed by resources and manpower; analysis had to be manual and was slow by modern standards, but it was still worthwhile. Opinion polling, for example, has been carried out since early in the 19th century, almost 200 years ago. The first national survey took place in 1916 and involved the publication Literary Digest sending out millions of postcards and counting the returns. As a result, they correctly predicted Woodrow Wilson’s election as president.
+
+Since then, volumes of data have grown exponentially. The advent of the internet and er computing has meant that huge quantities of information can now be harvested and used to optimise business processes. The problem is that conventional methods were simply not suited to crunching through all the numbers and making sense of them. The amount of information is phenomenal, and within that information lies insights that can be extremely beneficial. Once patterns are identified, they can be used to adjust business practices, create targeted campaigns and discard ones that are not effective. However, as well as large amounts of storage, it takes specialised software to be able to make sense of all this data in a useful way.
+
+‘Big Data’ is the emerging discipline of capturing, storing, processing, analysing and visualising these huge quantities of information. The data sets may start at a few terabytes and run to many petabytes – far more than traditional data analysis packages can handle. In 2012 Gartner defined it as, ‘high volume, high velocity, and/or high variety information assets that require new forms of processing to enable enhanced decision making, insight  and process optimization.’ This ‘3V’ classification has been  on since (particularly with the addition of veracity), such that Big Data is often described in terms of the following characteristics:
+
+        Volume. Terabytes or petabytes of data are analysed. An estimated 2.5 quintillion bytes of data (2.5 trillion gigabytes) are created every day, an amount which will only rise in the future. However, the size of the dataset is not the only variable that characterises Big Data.
+        Variety. The dataset may contain many different forms of data – not simply a large amount of the same type. The profusion of different kinds of mobile device and the variety of content consumed on them on a wide range of platforms, for example, means that companies can harvest data from an enormous array of sources, each telling them a different part of the same picture.
+        Velocity. Data may change on a constant basis. For example, modern cars may have 100 or so different sensors that continually monitor different aspects of performance. Markets change on a moment-to-moment scale. Data is highly fluid, and snapshots are not always enough.
+        Veracity. The data acquired may not all be accurate, or much of it may be uncertain or provisional in nature. Data quality is unreliable, especially when there is so much of it. Any system of analysis must take this into account.
+
+In addition to the 4V characteristics, there are also two others to deal with:
+
+    Variability. Data capture and volume may be inconsistent, not just inaccurate, so varying quantities and qualities of data will be acquired at different times.
+    Together, these factors mean that managing the data can be an extremely complex process, since there are many data sources with differing types and formats of data, but these need to be correlated and made sense of if they are to be useful.
+
+big-data-will-drive-the-next-phase-of-innovation-in-mobile-computing
+
+Big Data companies
+
+Due to the nature of Big Data, specialist companies have grown up around it in order to manage the volumes and complexity of information involved.
+
+ibm-bigdata-mobile-header
+
+IBM Big Data Analytics
+
+Like many other big data companies, IBM builds its ings on Hadoop – so it’s , affordable and open source. It allows businesses to capture, manage and analyse structured and unstructured data with its BigInsights product. This is also available on the cloud (BigInsights on Cloud) to give the benefits of outsourcing storage and processing, providing Hadoop as a service. InfoSphere Streams is  to enable capture and analysis of data in realtime for Internet-of-Things applications. IBM’s analytics enable powerful collating and visualisation of data with excellent flexibility for storage and management. You can also find plenty of downloadable documentation and white papers on their site.
+
+hp4750-540x334
+
+HP Big Data
+
+Another well-known name in IT, HP brings a wealth of experience to big data. As well as ing their own platform, they run workshops to assess organisations’ needs. Then, ‘when you’re ready to transform your infrastructure, HP can help you develop an IT architecture that provides the capacity to manage the volume, velocity, variety, voracity, and value of your data.’ The platform itself is based on Hadoop. HP look to add value beyond providing the software alone, and will consult with you to help you craft a strategy to help you make the most of the big data you collect – and how to go about it most efficiently.
+
+bdpmicrobd
+
+Microsoft
+
+Microsoft’s big data solutions run on Hadoop and can be used either in the cloud or natively on Windows. Business users can use Hadoop to gain insights into their data using standard tools  Excel or Office 365. It can be integrated with core databases to analyse both structured and unstructured data and create sophisticated 3D visualisations. Polybase is incorporated so users can then easily query and combine relational and non-relational data with the same techniques required for SQL Server. Microsoft’s solution enables you to analyse Hadoop data from within Excel, adding new functionality to a familiar software package.
+
+30680129.cms
+
+Intel Big Data
+
+Recognising that making the most of big data means changing your information architecture, Intel takes the approach of enabling enterprise to create a more flexible, open and distributed environment, whilst their big data platform is based on Apache’s Hadoop. They take a thorough approach that does not assume they know what your needs are, but presents a walkthrough to determine how best to help achieve your objectives. Intel’s own industry-standard hardware is at your disposal to optimise the performance of your big data project, ing speed, scalability and a cost-effective approach according to your organisation’s requirements.
+
+amazonwebservices-100014921-orig
+
+Amazon Web Services
+
+Amazon is a huge name in providing web hosting and other services, and the benefits of using them are unparalleled economies of scale and uptime. Amazon tend to  a basic framework for customers to use, without providing much in the way of customer support. This means they are the ideal choice if you know exactly what you are doing and want to save money. Amazon supports products like Hadoop, Pig, Hive and Spark, enabling you to build your own solution on their platform and create your own big data stack. There are plenty of tutorials, video demos and guides to get you started as quickly and easily as possible.
+
+dell-software-logo
+
+Dell Big Data Analytics
+
+Another well known and globally-established company, this time in the hardware space, Dell s its own big data package. Their solution  an automated facility to load and continuously replicate changes from an Oracle database to a Hadoop cluster to support big data analytics projects, thereby simplifying Oracle and Hadoop data integration. Data can be integrated in near real-time, from a wide range of data stores and applications, and from both on- and off-premises sources. Techniques such as natural language processing, machine learning and sentiment analysis are made accessible through straightforward search and powerful visualisation to enable users to learn relationships between different data streams and leverage these for their businesses.
+
+Teradata-Logo-620x265
+
+Teradata
+
+Teradata call their big data product a ‘data warehouse system’, which stores and manages data. The different server nodes share nothing, having their own memory and processing power, and each new node increases storage capacity. The database sits over these and the workload is shared among them. The company started taking an interest in big data in 2010, adding analytics for text documents,  unstructured data and semi-structured data (e.g. word processor documents and spreadsheets). They also work with unstructured data gathered from online interactions.
+
+bigquery_0
+
+Google BigQuery
+
+Google is the big daddy of internet search: the outright market leader with the vast majority of search traffic to its name. No other search engine comes close, so perhaps it’s not surprising that Google should  an analytics package to crunch through the phenomenal amount of data it produces in the course of its day-to-day work for millions of businesses around the world. It already hosts the hugely popular Google Analytics, but BigQuery is  for a different order of magnitude of data. It puts Google’s impressive infrastructure at your disposal, allowing you to analyse massive datasets in the cloud with , SQL-like queries – analysing multi-terabyte datasets in just seconds. Being Google it’s also very scalable and straightforward to use.
+
+vmware-logo
+
+VMware Big Data
+
+VMware is well-known in the world of best cloud storage and IaaS. Their big data solutions use their established vSphere product to virtualise Hadoop whilst maintaining excellent performance.  and elastic scaling is possible due to an approach that separates out storage from computing, keeping data safe and persistent, enabling greater efficiency and flexibility. Essentially this is a sophisticated and safe approach to Hadoop-as-a-service, which utilises many of VMware’s strengths to deliver a big data platform reliably and in a cost-effective way.
+
+red-hat-1-large
+
+Redhat
+
+As might be expected, Redhat take an open source approach to big data, believing that changing workloads and technologies require an open approach. They take a modular approach so that the building blocks of their platform work interoperably with other elements of your data centre. Building blocks include Platform-as-a-Service (PaaS), so you can develop apps er, process data in real time, and easily integrate systems; Infrastructure-as-a-Service (IaaS), to enable deployment and management of service providers, tools, and components of IT architecture across platforms and technology stacks in a consistent, unified way; Middleware, integration and automation, to streamline data sources and interaction; and Storage, of the most appropriate kind for the task in hand.
+
+it_photo_102724
+
+Tableau Software
+
+Tableau s significant flexibility over how you work with data. Using Tableau’s own servers and Desktop visualisation with your existing big data storage makes it a versatile and powerful system. There are two options: connecting to your data live, or bringing it into memory for  response queries. Memory management means all laptop/PC memory is used, down to the hard disk, to maintain speed and performance, even at large scale. Tableau supports more than 30 databases and formats, and is easy to connect to and manage. Multi-million row tables can be visually analysed directly on the database itself, extremely quickly.
+
+informatica-cloud
+
+Informatica Big Data
+
+Another provider that builds its platform on Hadoop, Informatica has several options that make life easy by giving you access to the functionality and allow you to integrate all types of data efficiently without having to learn Hadoop itself. Informatica Big Data Edition uses a visual development environment to save time and improve accessibility (Informatica claims this makes it approximately five times er than hand-coding a solution). This also has the advantage of not needing to hire dedicated Hadoop experts, since there are more than 100,000 Informatica experts worldwide. This makes for a fantastically versatile solution that is still simple enough to be used without intensive training.
+
+splunk-logo
+
+Splunk
+
+Splunk collects and analyses machine data as it comes in. Realtime alerts are used to spot trends and identify patterns as they occur. It’s extremely easy to deploy and use, and highly scalable: ‘from a single server to multiple datacenters.’ There is also a strong emphasis on security, with role-based access controls and auditability. Splunk is  for Hadoop and NoSQL data stores to enable analysis and visualisation of unstructured data. There’s also a community forum and online support centre, should you need assistance getting set up or figuring out how things work.
+
+datastax_logo_blue
+
+DataStax Big Data
+
+DataStax big data solution is  on Apache Cassandra, an open source and enterprise-ready platform that is commercially supported. It is used by a number of the world’s most innovative and best-known companies, such as Netflix and eBay. Their chief product, DataStax Enterprise, leverages Cassandra’s properties to give vast scalability, continuous availability and strong security. The combination of commercial software and open source platform means that it’s  and low-cost compared to many other options on the market. It’s also relatively easy to run. DataStax boast that their product ‘enables you to perform real-time transactions with Cassandra, analytics with Apache Hadoop and enterprise search with Apache Solr, in a single, smartly integrated big data platform that works across multiple datacenters and the cloud.
+
+MongoDB_Logo_Full
+
+MongoDB
+
+‘Mongo’ comes from ‘humongous’ and takes a different approach to normal, using JSON-like documents instead of table-based relational database structures. This allows it to integrate certain types of data er and more easily. Is it free and open-source software, released under a combination of the GNU Affero General Public License and the Apache License. Mongo has been adopted by a number of well-known and very large websites, such as Craigslist, eBay and the New York Times. Mongo’s analytics are  to scale and are  into the operational database, meaning you have access to them in realtime.
+
+gooddata_vertical_black-1
+
+Gooddata
+
+Gooddata is an all-in-one cloud analytics platform. They have a wide range of customers,  HP and Nestle. Operating fully in the cloud, Gooddata manage hosting, data and technology, meaning that the customer is able to focus completely on the analytics. They are recognised as industry leaders, with a number of awards to their name,  from Gartner. There’s an emphasis on usability, with interactive dashboards that facilitate collaboration by team-members as well as visual data , so that teams can move quickly on insights gained. The responsive UI is  to be easy to use on any device or platform,  mobile devices.
+
+qlikview_logo_large
+
+QlikView
+
+QlikView s two big data solutions, enabling users to switch between them as the require. Their In-Memory architecture uses a patented data engine to compress data by a factor of 10, so that up to 2 TB can be stored on a 256 GB RAM server. This s exceptional performance, and other features further enhance response rates and make exploring very large data sets extremely . This is used by many of Qlik’s customers to analyse volumes of data stored in data warehouses or Hadoop clusters. This hybrid approach means big data can be made accessible to users without knowledge of programming. It also allows a highly focused and granular view of data when required.
+
+Attivio-Small-PR-trim
+
+Attivio
+
+Attivio’s Active Intelligence Engine (AIE) brings together a number of separate capabilities – business intelligence, enterprise search, business analytics, data warehousing and process automation – to produce comprehensive information, presented in a user-friendly way. AIE puts together both structured and unstructured data into one index to be searched, collated and analysed; regular search queries and SQL can be used and a wide range of queries are therefore possible, from broad to highly focused. It can be integrated with a large number of data sources by giving it access with other software applications. It uses proprietary, patented technology, unlike many of its open-source-based rivals.
+
+img15
+
+1010data Advanced Analytics
+
+1010data s a complete suite of products, enabling companies to engage with the data they harvest in their everyday business. Data is analysed on the same platform on which it is stored, minimising delays from moving data. This enables  responses to changing market information and an agile approach that reacts in near-realtime. There is ‘immediate, direct, unfettered access to all relevant data, even voluminous, granular, raw data’. 1010’s platform can be implemented on the cloud, so that anyone with the correct access rights can use it from anywhere in the world. The company s an ‘Analytical Platform as a Service’ (APaaS) approach that gives enterprise-grade cloud security, reliability, and interoperability, along with cost-effective, on-demand performance and storage scalability.
+
+Actian-logo
+
+Actian
+
+Actian’s Vortex is  on Apache Hadoop, an open source framework written in Java for distributed storage and processing of very large data sets. This means that Actian’s big data solutions will always be open themselves, so that customers are not locked into a proprietary platform. They claim their software is , despite the large size of the datasets they deal with. Whilst Hadoop is complex, Actian’s platform is far more straightforward to use, making it enterprise ready and emphasising security and scalability. It gives full SQL support to your data. Actian is used by thousands of big-name customers worldwide,  Nikon, China Telecom and GE Transportation.
+
+Conclusion
+
+Big data isn’t just an emerging phenomenon. It’s already here and being used by major companies to drive their business forwards. Traditional analytics packages simply aren’t capable of dealing with the quantity, variety and changeability of data that can now be harvested from diverse sources – machine sensors, text documents, structured and unstructured data, social media and more. When these are combined and analysed as a whole, new patterns emerge. The right big data package will allow enterprises to track these trends in real time, spotting them as they occur and enabling businesses to leverage the insights provided.
+
+However, not all big data platforms and software are alike. As ever, which you decide on will depend on a number of factors. These include not just the nature of the data you are working with, but organisational budgets, infrastructure and the skillset of your team, amongst other things. Some solutions are  to be used off-the-peg, providing powerful visualisations and connecting easily to your data stores. Others are intended to be more flexible but should only be used by those with coding expertise. You should also think to the future, and the long-term implications of being tied to your platform of choice – particularly in terms of open-source vs proprietary software.
+

@@ -24,7 +24,7 @@ def main():
                     jeysan = {}
                     jeysan['category'] = dirname ;
                     jeysan['skillName'] = filename[:-4]
-                    jeysan['skillText'] = fullstr
+                    jeysan['skillText'] = fullstr.replace('\n', ' ')
                     jeysan['id'] = counter
                     counter += 1
                     with open('allcategories4rdd/allcategories.jsonl', mode="a") as text_file:

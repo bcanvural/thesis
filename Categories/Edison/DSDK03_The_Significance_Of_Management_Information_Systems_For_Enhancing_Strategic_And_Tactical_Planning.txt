@@ -1,0 +1,201 @@
+Management Information Systems (MIS) is the key factor to facilitate and attain efficient decision making in an organization. This research explores the extent to which management information systems implemented to make successful decisions at two selected financial organizations. The research examined whether the selected financial institutions of Bahrain vary as to the use of Management Information Systems leadership of decision making for strategic and tactical planning purposes. The research adapted the quantitative research design to examine two research hypotheses. A total of 190 forms were equally distributed to those who are working at different management levels at the selected organizations. The results of the research showed that MIS was primarily used to enhance strategic planning in both financial institutions. The regression analysis revealed that Tactical planning is found to have no effect on Decision Making, while Strategic planning has a clear effect on the Decision Making Effectiveness in both organizations.
+
+Keywords: Management Information Systems, Strategic Planning, Tactical Planning, Decision Making Process.
+
+ 
+
+ 
+
+1. INTRODUCTION
+
+Currently, organizations are in the race for enhancing their capability in order to survive in the competitions of the new century global market. Therefore, organizations are attempting to advance their agility level by improving the decision making process to be more efficient and highly effective to meet the successive fluctuations of the market. In an effort to achieve this, many modern organizations, either mid or large sized, have concerned with a cycle of progressive investments in and adopted new management information systems components. During last decade, a high percentage of financial organizations frequently used Management Information Systems to facilitate the provision of services; and that the speed of the adoption is expected to grow further as the technology expands.
+
+Whitten et al. (2004, p.12.), stated that "information is an arrangement of people, data, process, and information technology that interact to collect, process, store and provide as output the information needed to support an organization," which indicates that information system is an arrangement of groups, data, processes and technology that act together to accumulate, process, store and provide information output needed to enhance and speed up the process of decision making. In a Bank's information system, there is always a potential crisis which makes the bank endure an insufficiency; thus, an advanced information system supported by a superior mechanism control is required to make certain that an information system has achieved the required processes.
+
+If the relevant information required in a decision-making process or an organization planning is not available at the appropriate time, then there is a good change to be a poor organization planning, inappropriate decision-making, poor priority of needs, and defective programming or scheduling of activities (Adebayo, 2007).
+
+Information is essential for the endurance of a financial organization in the global and competitive market.
+
+The nature of globalization and competitiveness in the market stress on the importance of developing an organization capability through better enhancing MIS.
+
+Accordingly, the stored information must then be recalled and distributed for the use of an organization leadership and top management as well as mid-level managers to take effective long term (strategic) and short term (Tactical) decision-making. MIS is deemed to be a system which provides organizations top management and, even lower level management, with appropriate information based on data from both internal and external sources, to allow them to make effective and timely decisions that best achieve their organization goals and satisfy stakeholder requirements (Argyris, 1971, p. 291).
+
+The conception of information catches the attention of different professionals from different fields such as computer science, economics, business and management, political science, statistics, communication and information studies (Newman 2001). However, the question is "what type of information"? How Information management can play an essential role in the decision making process? How can the coordination between different departments (internal and/or external) and sharing information at the real time accelerate and enhance the process of decision making and avoid decision making errors?
+
+This paper focuses on how information management is needed to generate proper planning and then decisions at both strategic and tactical levels in the two selected financial organizations.
+
+The process of dealing with the financial institutions was tainted by a lot of sensitivity, because of the refusal of those institutions to reveal their decision-making mechanism due to their Disclosure Rules. So we decided to call the first selected institutions case one and case two referring to the second selected organizations.
+
+1.1 Significant Research
+
+Few authors have explored that the critical information required by midlevel and strategic level management is efficiently provided by MIS. A small amount of research has deliberated that the limitations and deficiencies in the process of management information system performance are the main reason for diminishing the efficiency of decision-making process in the organization (Fabunmi, 2003; Knight Moore, 2005).
+
+The questions related to what extent the managing of these information systems assists different decisions at different management levels and the type of responsibility of the financial institution's senior and tactical management in enhancing the management information has been raised with low empirically investigation and examination.
+
+1.2 The purpose of the research
+
+The purpose of this research is to explore the extent to which management information systems are used to make effective decisions of long and short term planning in two financial organizations at the Kingdom of Bahrain. The study will examine whether the government financial institution (Case one) and the Private financial institution (Case two) differ as to the use of management information systems for leadership decision makes in short and long term planning.
+
+This paper aims to evaluate the impact of current MIS models being developed at the selected organizations, and how far they practice this concept in order to enhance their tactical and strategic planning.
+
+1.3 The research organization
+
+The remainder of this paper is organized as follows. Sections 2 and 3 discuss the literature review and research methods. In Section 4, we present results and analysis. In section 5, a discussion will be presented. Finally, conclusion and recommendations are presented in sections 6 and 7, respectively.
+
+ 
+
+2 LITERATURE REVIEW
+
+There is a lof of research on the approaches, techniques and technologies for the design and development of MIS. However, there are a few articles that cover the impact of Management Information Systems on planning strategies and decision making. While there are no universally accepted definitions of MIS and those that exist in literatures are just prejudices of the researchers (Adeoti-Adekeye, 1997). Lee, (2001) defined MIS as "a system or process that provides information needed to manage organizations effectively".
+
+Additionally, Baskerville and Myers (2002) broadly define MIS as "the development, use and application of information systems by individuals, organizations and society". In his study, Becta (2005) describes an information system as "a system consisting of the network of all communication channels used within an organization". In their study, Laudon and Laudon (2003) have defined MIS as "the study of information systems focusing on their use in business and management". The abovementioned definitions showed that MIS has underlined the development, application and validation of relevant theories and models in attempts to encourage quality work in the area.
+
+Referring to the literatures, the field of Management Information Systems (MIS) has had a variegated development in its relatively short life span. MIS has developed its own theme of research and studies (Baskerville and Myers, 2002).
+
+Tracing previous literatures, we can report that during its first few decades, MIS concentrated on the information in the context of:
+
+    • Electronic data processing which carries out transaction processing functions and records detailed factual data.
+
+    • Management reporting systems which scrutinize the operational activities of an organization, providing summaries, information and feedback to management.
+
+Only during the last two decades, the MIS field has shifted to the primary, considered the second type of communication, namely, instruction-based. This has become known as the domain of expert systems (Sasan Rahmatian, 1999). In attempts to review published studies on MIS and articles, Alavi and Carlson (1992) have identified popular research topics, the dominant research perspective, and the relationship between MIS research and practice. In contrast, Baskerville and Myers (2002) have examined the MIS field and found a constant shift of MIS research from a technical focus to a technology-organizational and management-social focus.
+
+Skyrius (2001) underlines the decision maker's attitudes towards different factors influencing the quality of business decisions; these factors include information sources, analytical tools, and the role of information technologies.
+
+Handzic (2001) also pays attention to the impact of information availability on people's ability to process and use information in short and long term planning and in decision making tasks. He revealed that the better the availability of information, the better the impact on both efficiency and accuracy of business decisions.
+
+Liu and Young (2007) talk about key information models and their relationships in business decision support in three different scenarios. The authors proved that global businesses are in advance due to the Enterprise Applications System provided by modern IT tools such as Enterprise Resource Planning (ERP), Knowledge Management Systems (KMS) and Customer Relations Management (CRM) to enhance the efficiency and effectiveness of the Decision Making process.
+
+In order to improve the financial organizational capability and enhance its level of competition in the market, financial organizations should understand the dimensions of the Information Management, and clearly define and develop the resources in case of human, technological, and internal operations, among others,, and manage them well across the organizational boundaries. However, establishing the link between Information System Management, planning and decision making is, at best, tricky.
+
+In an article by Shu and Strassmann (2005), a survey was conducted at 12 banks in the US between 1989 and 1997. They noticed that even though Information Technology had been one of the most essentially dynamic factors relating all efforts, it could not improve banks' earnings.
+
+However, conversely, there are many literatures approving the positive impacts of Information Technology expenses on business value. Kozak (2005) investigates the influence of the evolution in Information Technology on the profit and cost effectiveness of the banking zone during the period between 1992 and 2003. The study indicates an optimistic relationship among the executed Information Technology, productivity and cost savings.
+
+Organizations that do not have formal Information sharing practices will fail to leverage their managers' intellectual capital for business innovation and growth (O'Neill & Adya, 2007). MIS enables the exchange of experiences, which transfers the required information to the management levels to sustain competitive advantage since it affects the decision making to improve the quality of services provided. Therefore, Barachini et al. (2009) supported that it is imperative that these organizations continuously motivate their employees to share valuable information so that their intellectual capital can be leveraged.
+
+Management Information System will give the banking management a new dimension in managing its knowledge and help in carrying out and maximizing the management's initiatives in harmonizing the appropriate strategies in the short and long planning (Edmondson, 2002).
+
+In his study, Obi (2003) suggested that MIS is indispensible in the area of decision-making as it can monitor by itself the instability in a system, verify a course of action and take action to keep the system in control. Literatures also suggested that non-programmed decisions are relevant as they provide support by supplying information to the search, the analysis, the evaluation and the choice and implementation process of decision making.
+
+More recently, Adebayo (2007) explained that the existence of MIS is needed to improve and enhance decision making on the issues affecting human and material resources.
+
+From the literatures presented, we can easily perceive that the importance of the role of both middle and top management to maintain a consistent approach to develop, use, and evaluate MIS systems within the institution. To financial institutions, MIS is used at various levels by top-management, middle and even by the operational staff as a support for decision making that aims to meet strategic goals and strategic objectives.
+
+The above literatures also explore the importance of MIS in providing decision makers with facts, which consequently support and enhance the entire decision-making process. Furthermore, at the most senior level, MIS and DSS supply the data and required information to assist the board of directors and management levels to make an accurate and on time strategic decisions.
+
+ 
+
+3 METHODOLOGY
+
+The current study attempts to explain the relationship between various factors. Due to the nature of the current study and its hypothesis, the primary research purpose of the current study is, thus, explanatory. Explanatory (or causal) explains the complexity of the interrelated variables identified that were posited in the hypothesis and research
+
+By developing several hypotheses, the study thus adapt the quantitative research design to better test those hypotheses. Quantitative research uses survey as the main instrument to collect data.
+
+3.2 Research questions and hypotheses
+
+To achieve the purpose of the current study, the following research questions have been formulated:
+
+    1. To what extent is MIS being utilized to support Strategic planning for decisions in Bahrain's financial organizations?
+
+    2. To what extent is MIS being utilized to support Tactical planning for decisions in Bahrain's financial organizations?
+
+To answer these questions, the current study carries out various hypotheses that developed from previous literatures and studies (Ajayi et. al, 2007). Figure 1 presents the proposed model and factors affecting the process of decision making.
+
+ 
+
+ 
+
+Thus, we consider the hypothesis below:
+
+    a. H1: The Tactical Planning (short term) generated by MIS is positively affecting the decision making process.
+
+    b. H2: The Strategic Planning (long term) generated by MIS is positively affecting the decision making process.
+
+3.3 Survey Instrument
+
+The participants were asked to indicate their perception on a likert scales (1-5) with response ranging from "strongly disagree" to "strongly agree". The collected data were analyzed based on correlation and regression analyses using the statistical package for social sciences (SPSS).
+
+The questionnaire of this study is adapted from previous literature and studies (e.g. Ajayi et. al, 2007). The main reason why we need to refer to literatures when developing a questionnaire is to ensure the high reliability and validity of the survey.
+
+The questionnaire we prepared for this paper was divided into 2 sections. The first section concentrates on the general profile of the respondent including his/her age group, education level and profession and income group. In the second section we were interested in gathering information about the importance of MIS and its use in Case one and Case two of financial institutions in Bahrain. The respondents were provided with a list of questions related to the following factors;
+
+    • The important of MIS in supporting Tactical planning and consequently enhancing the decision-making process
+
+    • The important of MIS in supporting Strategic planning and consequently enhancing the decision-making process
+
+    • The effectiveness of a bank's decision making process
+
+Using a personal relationship, the questionnaire has been discussed with various levels of bank management and a pilot study has been conducted amongst low-level members of the bank's staff. This improved the questionnaire, which has been used for the research presented in this study.
+
+3.4 Population and Data collection
+
+The population for the study is the top management (strategic), mid level management (tactical) and normal staff in Case one (government financial institution) and Case two (private financial institution). This population is deemed to be fully aware of the MIS use at the bank level.
+
+A total of 190 forms were distributed equally (each bank with 95 survey forms). 12% for case one and 14% for case two are having management positions. In a convenience sample, the managers and bank staff were randomly approached.
+
+The distribution took place for a three-week period in early March, 2010. The survey was designed in English language. The research tested the time to fill the survey and it took approximately 5-8 minutes to be completed.
+
+The questionnaire we prepared and used had been pre-tested initially with few people (5 users) working in different sectors to ensure consistency, clarity and relevance to the Bahraini case. Minor changes (related to the questions content, wording, and sequence) were requested by those people, which we implemented before carrying out the final copy.
+
+3.5 Data Analysis
+
+The current study used SPSS (Statistical Package for Social Science), software V.19 to analyze the data obtained from the survey. The current study use ANOVA to see if there are any differences between Case one and Case two when using MIS for supporting decision making processes. Moreover, the simple Regression was implemented to test the hypothesis and the linkages between dependent and independent variables.
+
+ 
+
+4 RESULTS AND ANALYSIS
+
+This section presents the factor analysis test. Then, the results of correlation analysis of the three variables (Strategic planning, Tactical Planning, and The Effectiveness of Decision-making) are discussed. Finally, the results of the paper are discussed in accordance with the research objectives and hypothesis of the study.
+
+4.2 Correlation Tests
+
+Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two independent variables and the dependent variable (Pallant, 2001). Effectiveness of the bank's decision-making processes, which are the dependent variables considered to be the bank's succession in management building and facility, financial aspects and staff issues. Previous studies underpinned the importance of conducting correlation tests before the regression testing, the correlation between variables thus necessary (Coakes and Steed, 2007). The result of the correlations is presented in the following table (table 1).
+
+The results of correlation reveals that Strategic planning (r=0. 318, p < 0.01) found to be strongly and positively correlated with the bank's Decision Making (D.M) Effectiveness, while Tactical Planning (r=0. 263, p < 0.05) found to be positively correlated with the bank's D.M Effectiveness.
+
+4.3 Regression
+
+For further analysis, a Linear Regression analysis was conducted to examine the extent to which the independent variables (Strategic planning and Tactical Planning) influence the succession Effectiveness of the bank's decision making (dependent variable). The independent variables were regressed across organizational outcomes. Tables 2, 3 and 4 summarized the results of the Linear Regression analysis.
+
+The results of regression reveals that the model is significant (p < 0.01) and the coefficient of determination (R2) for the regression is (0.490), indicating that (49%) of the variation in the dependent variable (decision-making effectiveness) was explained by the independent variables included in the regression. The results of regression indicated that the variance in the Effectiveness of the bank's decision making is explained by only one variable; Strategic planning, while Tactical Planning found not to affect the Effectiveness of the bank's decision making process.
+
+The regression analysis was implemented to support the correlation test. However, the study revealed that the Tactical planning is found to have no effect on D.M Effectiveness (Sig=.128 > 0.05). The regression analysis showed that Strategic planning, on the other hand (Sig=.016 < 0.05), affects the D.M Effectiveness in the bank.
+
+Table 5 reveals the research hypotheses accepting/rejecting based on the regression analysis.
+
+ 
+
+5 DISCUSSION
+
+The current study intended to measure the implementation and the use of MIS in two banks in the Kingdom of Bahrain. Two different planning activities have been identified to measure the banks implementation and use of MIS, these activities are: Strategic planning and Tactical Planning. Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two independent variables and the dependent variable.
+
+The results of the descriptive statistics reveal that MIS was primarily used to enhance Strategic planning (long term) in the bank. The study also revealed that MIS is the least implemented in the Tactical Planning (short term).
+
+Correlation test thus implemented investigate the relationship between the two variables. The result reveals that the two variables in this study are correlated with the effectiveness of the decision-making process in the banks. As for Cohen (1992), the result revealed that the Strategic planning is medium correlated with the effectiveness of the decision making process in the bank, while Tactical planning indicates small correlation with the effectiveness of the decision making process in the bank.
+
+Moreover, the results of regression indicated that the variance in the Effectiveness of the bank's decision making process is explained by only one variable, the Strategic planning, while Tactical Planning found not to affect the Effectiveness of the bank's decision making process.
+
+ 
+
+6 CONCLUSION
+
+Management Information Systems is of paramount importance to reach effective decisions in an organization. The literatures presented in this study explained the significant role of MIS in the decision-making process enhancing in an organization. MIS is deemed to be an integrated user-machine system that provides information to support operations, management and decision-making functions at various levels of an organization. Organizations are aware that MIS is a special-purpose system useful for management objectives. The study has highlighted that MIS should be accessible in supplying appropriate and high quality of information from its generation to its users. To MIS, to be vital and effective, a carefully conceived, designed and executed database should exist to communicate the adaptive decisions.
+
+The study has developed two independent variables (Strategic planning and Tactical planning) and one dependant variable (the Effectiveness of Bank Decisionmaking). To answer the research questions and to test the hypotheses, the study adapted the quantitative research design and implemented advance statistic methods (Correlation, ANOVA and regression). The study considered applied research as the results of this study expected to specifically assist bank top management and organizations in general to develop MIS designing, maintaining and implementation in order to enhance the process of decision-making.
+
+In short, the results of the descriptive statistics revealed that MIS primarily used to enhance Strategic planning in the banks. The study also revealed that MIS is the least implemented in the Tactical planning.
+
+Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two study variables. The results of correlation revealed that Strategic planning and Tactical Planning are positively correlated with the bank D.M Effectiveness.
+
+For further analysis, a Linear Regression analysis was conducted to examine the extent to which the independent variables (Strategic planning and Tactical Planning) influence the succession Effectiveness of the bank decision making (dependent variable). The results of regression revealed that the model is significant and the coefficient of determination (R) for the regression is (0.490). The result of regression indicated that the variance in the Effectiveness of the bank decision making is explained by only one variable: Strategic planning. However, the study revealed that Tactical Planning is found to have no effect on D.M Effectiveness.
+
+ 
+
+7 RECOMMENDATIONS
+
+Based on the findings of this study, MIS was not very adequately implemented for decision making on Strategic planning and Tactical Planning in Bahrain banks. Although there are differences (Case one) in the use of MIS for decision-making processes, the results revealed that the effectiveness of decision making is similar to the Case two. It is therefore recommended that the MIS units should be adequately maintained to ensure the free flow of information and adequate use of MIS in decision making in Strategic and Tactical Planning. The study also recommends that a proper orientation should be conducted in order to help managers at all levels as to ensure proper and adequate use of MIS facilities in generating and disseminating information for better decisions in the banks.
+
+The organization management does not always recognize the information needed, while the information professionals often do not comprehend and are aware of management in order to produce relevant information for the managers they serve. To be successful, an MIS should be designed and operated related to organizations, management and technical factors. The study encourages the organizations' top management to participate in enhancing MIS and make an effective contribution to system design. The information specialists (including systems analysts, designer, ITC personnel, accountants and operations researchers) should cooperate and become more conscious and ware of managerial functions needs so that more effective MIS is developed.
+
+Finally, we believe that to enhance MIS, banks or any organization that use MIS to enhance its decision making processes should develop effective communication channels between management and information professionals. Good communications then facilitates the task of developing relevant and appropriate information systems. It is no simple checklist to automatically produce the perfect MIS. Organization thus would be aware that what is required is an awareness and understanding of key principles and functions in which the design, implementation and operation of MIS are the results of rational decisions rather than haphazard development without considering the real organizational needs. 

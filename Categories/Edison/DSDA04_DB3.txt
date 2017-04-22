@@ -1,0 +1,98 @@
+Data fusion is the process of integration of multiple data and knowledge representing the same real-world object into a consistent, accurate, and useful representation.
+fusion of the data from 2 sources (dimension #1 & #2) can yield a classifier superior to any classifiers based on dimension #1 or dimension #2 alone
+
+Data fusion processes are often categorized as low, intermediate or high, depending on the processing stage at which fusion takes place.[1] Low level data fusion combines several sources of raw data to produce new raw data. The expectation is that fused data is more informative and synthetic than the original inputs.
+
+For example, sensor fusion is also known as (multi-sensor) data fusion and is a subset of information fusion.
+
+Contents
+
+    1 Geospatial applications
+    2 Data integration
+    3 The JDL/DFIG model
+        3.1 Application areas
+    4 Position data fusion
+    5 Data fusion from multiple traffic sensing modalities
+    6 Decision Fusion
+    7 Data fusion for Enhanced Contextual Awareness
+    8 See also
+    9 References
+    10 General references
+    11 Books
+    12 External links
+
+Geospatial applications
+
+In the geospatial (GIS) domain, data fusion is often synonymous with data integration. In these applications, there is often a need to combine diverse data sets into a unified (fused) data set which includes all of the data points and time steps from the input data sets. The fused data set is different from a  combined superset in that the points in the fused data set contain attributes and metadata which might not have been included for these points in the original data set.
+
+A simplified example of this process is shown below where data set "α" is fused with data set β to form the fused data set δ. Data points in set "α" have spatial coordinates X and Y and attributes A1 and A2. Data points in set β have spatial coordinates X and Y and attributes B1 and B2. The fused data set contains all points and attributes
+
+Input Data Set α
+Point 	X 	Y 	A1 	A2
+α1 	10 	10 	M 	N
+α2 	10 	30 	M 	N
+α3 	30 	10 	M 	N
+α4 	30 	30 	M 	N
+
+Input Data Set β
+Point 	X 	Y 	B1 	B2
+β1 	20 	20 	Q 	R
+β2 	20 	40 	Q 	R
+β3 	40 	20 	Q 	R
+β4 	40 	40 	Q 	R
+
+Fused Data Set δ
+Point 	X 	Y 	A1 	A2 	B1 	B2
+δ1 	10 	10 	M 	N 	Q 	R
+δ2 	10 	30 	M 	N 	Q 	R
+δ3 	30 	10 	M 	N 	Q 	R
+δ4 	30 	30 	M 	N 	Q 	R
+δ5 	20 	20 	M 	N 	Q 	R
+δ6 	20 	40 	M 	N 	Q 	R
+δ7 	40 	20 	M 	N 	Q 	R
+δ8 	40 	40 	M 	N 	Q 	R
+
+In this  case all attributes are uniform across the entire analysis domain, so attributes may be simply assigned. In more realistic applications, attributes are rarely uniform and some type of interpolation is usually required to properly assign attributes to the data points in the fused set.
+Visualization of fused data sets for rock lobster tracks in the Tasman Sea. Image generated using Eonfusion software by Myriax Pty. Ltd. - eonfusion.myriax.com
+
+In a much more complicated application, marine animal researchers use data fusion to combine animal tracking data with bathymetric, meteorological, sea surface temperature (SST) and animal habitat data to examine and understand habitat utilization and animal behavior in reaction to external forces such as weather or water temperature. Each of these data sets exhibit a different spatial grid and sampling rate so a  combination would likely create erroneous assumptions and taint the results of the analysis. But through the use of data fusion, all data and attributes are brought together into a single view in which a more complete picture of the environment is created. This enables scientists to identify key locations and times and form new insights into the interactions between the environment and animal behaviors.
+
+In the figure at right, rock lobsters are studied off the coast of Tasmania. Dr. Hugh Pederson of the University of Tasmania used data fusion software to fuse southern rock lobster tracking data (color-coded for in yellow and black for day and night, respectively) with bathymetry and habitat data to create a unique 4D picture of rock lobster behavior.
+Data integration
+
+In applications outside of the geospatial domain, differences in the usage of the terms Data integration and Data fusion apply. In areas such as business intelligence, for example, data integration is used to describe the combining of data, whereas data fusion is integration followed by reduction or replacement. Data integration might be viewed as set combination wherein the larger set is retained, whereas fusion is a set reduction technique with improved confidence.
+The JDL/DFIG model
+
+In the mid-1980s, the Joint Directors of Laboratories formed the Data Fusion Subpanel (which later became known as the Data Fusion Group). With the advent of the World Wide Web, data fusion thus included data, sensor, and information fusion. The JDL/DFIG introduced a model of data fusion that divided the various processes. Currently, the six levels with the Data Fusion Information Group (DFIG) model are:
+
+Level 0: Source Preprocessing/subject Assessment
+
+Level 1: Object Assessment
+
+Level 2: Situation Assessment
+
+Level 3: Impact Assessment (or Threat Refinement)
+
+Level 4: Process Refinement
+
+Level 5: User Refinement (or Cognitive Refinement)
+
+Although the JDL Model (Level 1-4) is still in use today, it is often criticized for its implication that the levels necessarily happen in order and also for its lack of adequate representation of the potential for a human-in-the-loop. The DFIG model (Level 0 - 5) explored the implications of situation awareness, user refinement, and mission management.[2] Despite these shortcomings, the JDL/DFIG models are useful for visualizing the data fusion process, facilitating discussion and common understanding,[3] and important for systems-level information fusion design.[2]
+Application areas
+	This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (February 2012)
+	This section includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this section by introducing more precise citations. (February 2012) (Learn how and when to remove this template message)
+
+    Geospatial Information Systems
+    Soil Mapping
+    Business intelligence
+    Oceanography
+    Discovery science
+    Business performance management
+    Intelligent transport systems
+    Loyalty card
+    Cheminformatics
+        Quantitative structure-activity relationship
+    Bioinformatics
+    Intelligence services
+    Wireless sensor networks
+    Biometrics

@@ -1,0 +1,1385 @@
+In the preceding chapters basic elements for the proper execution of analytical work such as personnel, laboratory facilities, equipment, and reagents were discussed. Before embarking upon the actual analytical work, however, one more tool for the quality assurance of the work must be dealt with: the statistical operations necessary to control and verify the analytical procedures (Chapter 7) as well as the resulting data (Chapter 8).
+
+It was stated before that making mistakes in analytical work is unavoidable. This is the reason why a complex system of precautions to prevent errors and traps to detect them has to be set up. An important aspect of the quality control is the detection of both random and systematic errors. This can be done by critically looking at the performance of the analysis as a whole and also of the instruments and operators involved in the job. For the detection itself as well as for the quantification of the errors, statistical treatment of data is indispensable.
+
+A multitude of different statistical tools is available, some of them simple, some complicated, and often very specific for certain purposes. In analytical work, the most important common operation is the comparison of data, or sets of data, to quantify accuracy (bias) and precision. Fortunately, with a few simple convenient statistical tools most of the information needed in regular laboratory work can be obtained: the "t-test, the "F-test", and regression analysis. Therefore, examples of these will be given in the ensuing pages.
+
+Clearly, statistics are a tool, not an aim. Simple inspection of data, without statistical treatment, by an experienced and dedicated analyst may be just as useful as statistical figures on the desk of the disinterested. The value of statistics lies with organizing and simplifying data, to permit some objective estimate showing that an analysis is under control or that a change has occurred. Equally important is that the results of these statistical procedures are recorded and can be retrieved.
+6.2 Definitions
+
+    6.2.1 Error
+    6.2.2 Accuracy
+    6.2.3 Precision
+    6.2.4 Bias
+
+Discussing Quality Control implies the use of several terms and concepts with a specific (and sometimes confusing) meaning. Therefore, some of the most important concepts will be defined first.
+6.2.1 Error
+
+Error is the collective noun for any departure of the result from the "true" value*. Analytical errors can be:
+
+    1. Random or unpredictable deviations between replicates, quantified with the "standard deviation".
+
+    2. Systematic or predictable regular deviation from the "true" value, quantified as "mean difference" (i.e. the difference between the true value and the mean of replicate determinations).
+
+    3. Constant, unrelated to the concentration of the substance analyzed (the analyte).
+
+    4. Proportional, i.e. related to the concentration of the analyte.
+
+        * The "true" value of an attribute is by nature indeterminate and often has only a very relative meaning. Particularly in soil science for several attributes there is no such thing as the true value as any value obtained is method-dependent (e.g. cation exchange capacity). Obviously, this does not mean that no adequate analysis serving a purpose is possible. It does, however, emphasize the need for the establishment of standard reference methods and the importance of external QC (see Chapter 9).
+
+6.2.2 Accuracy
+
+The "trueness" or the closeness of the analytical result to the "true" value. It is constituted by a combination of random and systematic errors (precision and bias) and cannot be quantified directly. The test result may be a mean of several values. An accurate determination produces a "true" quantitative value, i.e. it is precise and free of bias.
+6.2.3 Precision
+
+The closeness with which results of replicate analyses of a sample agree. It is a measure of dispersion or scattering around the mean value and usually expressed in terms of standard deviation, standard error or a range (difference between the highest and the lowest result).
+6.2.4 Bias
+
+The consistent deviation of analytical results from the "true" value caused by systematic errors in a procedure. Bias is the opposite but most used measure for "trueness" which is the agreement of the mean of analytical results with the true value, i.e. excluding the contribution of randomness represented in precision. There are several components contributing to bias:
+
+1. Method bias
+
+    The difference between the (mean) test result obtained from a number of laboratories using the same method and an accepted reference value. The method bias may depend on the analyte level.
+
+2. Laboratory bias
+
+    The difference between the (mean) test result from a particular laboratory and the accepted reference value.
+
+3. Sample bias
+
+    The difference between the mean of replicate test results of a sample and the ("true") value of the target population from which the sample was taken. In practice, for a laboratory this refers mainly to sample preparation, subsampling and weighing techniques. Whether a sample is representative for the population in the field is an extremely important aspect but usually falls outside the responsibility of the laboratory (in some cases laboratories have their own field sampling personnel).
+
+The relationship between these concepts can be expressed in the following equation:
+
+Figure
+
+The types of errors are illustrated in Fig. 6-1.
+
+Fig. 6-1. Accuracy and precision in laboratory measurements. (Note that the qualifications apply to the mean of results: in c the mean is accurate but some individual results are inaccurate)
+
+6.3 Basic Statistics
+
+    6.3.1 Mean
+    6.3.2 Standard deviation
+    6.3.3 Relative standard deviation. Coefficient of variation
+    6.3.4 Confidence limits of a measurement
+    6.3.5 Propagation of errors
+
+In the discussions of Chapters 7 and 8 basic statistical treatment of data will be considered. Therefore, some understanding of these statistics is essential and they will briefly be discussed here.
+
+The basic assumption to be made is that a set of data, obtained by repeated analysis of the same analyte in the same sample under the same conditions, has a normal or Gaussian distribution. (When the distribution is skewed statistical treatment is more complicated). The primary parameters used are the mean (or average) and the standard deviation (see Fig. 6-2) and the main tools the F-test, the t-test, and regression and correlation analysis.
+
+Fig. 6-2. A Gaussian or normal distribution. The figure shows that (approx.) 68% of the data fall in the range ¯ x± s, 95% in the range ¯x ± 2s, and 99.7% in the range ¯x ± 3s.
+6.3.1 Mean
+
+The average of a set of n data xi:
+
+¯
+	
+
+(6.1)
+
+6.3.2 Standard deviation
+
+This is the most commonly used measure of the spread or dispersion of data around the mean. The standard deviation is defined as the square root of the variance (V). The variance is defined as the sum of the squared deviations from the mean, divided by n-1. Operationally, there are several ways of calculation:
+
+	
+
+(6.1)
+
+or
+
+	
+
+(6.3)
+
+or
+
+	
+
+(6.4)
+
+The calculation of the mean and the standard deviation can easily be done on a calculator but most conveniently on a PC with computer programs such as dBASE, Lotus 123, Quattro-Pro, Excel, and others, which have simple ready-to-use functions. (Warning: some programs use n rather than n- 1!).
+6.3.3 Relative standard deviation. Coefficient of variation
+
+Although the standard deviation of analytical data may not vary much over limited ranges of such data, it usually depends on the magnitude of such data: the larger the figures, the larger s. Therefore, for comparison of variations (e.g. precision) it is often more convenient to use the relative standard deviation (RSD) than the standard deviation itself. The RSD is expressed as a fraction, but more usually as a percentage and is then called coefficient of variation (CV). Often, however, these terms are confused.
+
+	
+
+	
+
+(6.5; 6.6)
+
+    Note. When needed (e.g. for the F-test, see Eq. 6.11) the variance can, of course, be calculated by squaring the standard deviation:
+
+V = s2
+	
+
+(6.7)
+
+6.3.4 Confidence limits of a measurement
+
+The more an analysis or measurement is replicated, the closer the mean x of the results will approach the "true" value m, of the analyte content (assuming absence of bias).
+
+A single analysis of a test sample can be regarded as literally sampling the imaginary set of a multitude of results obtained for that test sample. The uncertainty of such subsampling is expressed by
+
+	
+
+(6.8)
+
+where
+
+    m = "true" value (mean of large set of replicates)
+    ¯x = mean of subsamples
+    t = a statistical value which depends on the number of data and the required confidence (usually 95%).
+    s = standard deviation of mean of subsamples
+    n = number of subsamples
+
+(The term is also known as the standard error of the mean.)
+
+The critical values for t are tabulated in Appendix 1 (they are, therefore, here referred to as ttab ). To find the applicable value, the number of degrees of freedom has to be established by: df = n -1 (see also Section 6.4.2).
+
+Example
+
+For the determination of the clay content in the particle-size analysis, a semi-automatic pipette installation is used with a 20 mL pipette. This volume is approximate and the operation involves the opening and closing of taps. Therefore, the pipette has to be calibrated, i.e. both the accuracy (trueness) and precision have to be established.
+
+A tenfold measurement of the volume yielded the following set of data (in mL):
+
+19.941
+	
+
+19.812
+	
+
+19.829
+	
+
+19.828
+	
+
+19.742
+
+19.797
+	
+
+19.937
+	
+
+19.847
+	
+
+19.885
+	
+
+19.804
+
+The mean is 19.842 mL and the standard deviation 0.0627 mL. According to Appendix 1 for n = 10 is ttab = 2.26 (df = 9) and using Eq. (6.8) this calibration yields:
+
+pipette volume = 19.842 ± 2.26 (0.0627/) = 19.84 ± 0.04 mL
+
+(Note that the pipette has a systematic deviation from 20 mL as this is outside the found confidence interval. See also bias).
+
+In routine analytical work, results are usually single values obtained in batches of several test samples. No laboratory will analyze a test sample 50 times to be confident that the result is reliable. Therefore, the statistical parameters have to be obtained in another way. Most usually this is done by method validation (see Chapter 7) and/or by keeping control charts, which is basically the collection of analytical results from one or more control samples in each batch (see Chapter 8). Equation (6.8) is then reduced to
+
+	
+
+(6.9)
+
+where
+
+    m = "true" value
+    x = single measurement
+    t = applicable ttab (Appendix 1)
+    s = standard deviation of set of previous measurements.
+
+In Appendix 1 can be seen that if the set of replicated measurements is large (say > 30), t is close to 2. Therefore, the (95%) confidence of the result x of a single test sample (n = 1 in Eq. 6.8) is approximated by the commonly used and well known expression
+
+	
+
+(6.10)
+
+where S is the previously determined standard deviation of the large set of replicates (see also Fig. 6-2).
+
+    Note: This "method-s" or s of a control sample is not a constant and may vary for different test materials, analyte levels, and with analytical conditions.
+
+Running duplicates will, according to Equation (6.8), increase the confidence of the (mean) result by a factor :
+
+where
+
+    ¯x = mean of duplicates
+    s = known standard deviation of large set
+
+Similarly, triplicate analysis will increase the confidence by a factor , etc. Duplicates are further discussed in Section 8.3.3.
+
+Thus, in summary, Equation (6.8) can be applied in various ways to determine the size of errors (confidence) in analytical work or measurements: single determinations in routine work, determinations for which no previous data exist, certain calibrations, etc.
+6.3.5 Propagation of errors
+
+    6.3.5.1. Propagation of random errors
+    6.3.5.2 Propagation of systematic errors
+
+The final result of an analysis is often calculated from several measurements performed during the procedure (weighing, calibration, dilution, titration, instrument readings, moisture correction, etc.). As was indicated in Section 6.2, the total error in an analytical result is an adding-up of the sub-errors made in the various steps. For daily practice, the bias and precision of the whole method are usually the most relevant parameters (obtained from validation, Chapter 7; or from control charts, Chapter 8). However, sometimes it is useful to get an insight in the contributions of the subprocedures (and then these have to be determined separately). For instance if one wants to change (part of) the method.
+
+Because the "adding-up" of errors is usually not a simple summation, this will be discussed. The main distinction to be made is between random errors (precision) and systematic errors (bias).
+6.3.5.1. Propagation of random errors
+
+In estimating the total random error from factors in a final calculation, the treatment of summation or subtraction of factors is different from that of multiplication or division.
+
+I. Summation calculations
+
+If the final result x is obtained from the sum (or difference) of (sub)measurements a, b, c, etc.:
+
+x = a + b + c +...
+
+then the total precision is expressed by the standard deviation obtained by taking the square root of the sum of individual variances (squares of standard deviation):
+
+If a (sub)measurement has a constant multiplication factor or coefficient (such as an extra dilution), then this is included to calculate the effect of the variance concerned, e.g. (2b)2
+
+Example
+
+The Effective Cation Exchange Capacity of soils (ECEC) is obtained by summation of the exchangeable cations:
+
+ECEC = Exch. (Ca + Mg + Na + K + H + Al)
+
+Standard deviations experimentally obtained for exchangeable Ca, Mg, Na, K and (H + Al) on a certain sample, e.g. a control sample, are: 0.30, 0.25, 0.15, 0.15, and 0.60 cmolc/kg respectively. The total precision is:
+
+It can be seen that the total standard deviation is larger than the highest individual standard deviation, but (much) less than their sum. It is also clear that if one wants to reduce the total standard deviation, qualitatively the best result can be expected from reducing the largest individual contribution, in this case the exchangeable acidity.
+
+2. Multiplication calculations
+
+If the final result x is obtained from multiplication (or subtraction) of (sub)measurements according to
+
+then the total error is expressed by the standard deviation obtained by taking the square root of the sum of the individual relative standard deviations (RSD or CV, as a fraction or as percentage, see Eqs. 6.6 and 6.7):
+
+If a (sub)measurement has a constant multiplication factor or coefficient, then this is included to calculate the effect of the RSD concerned, e.g. (2RSDb)2.
+
+Example
+
+The calculation of Kjeldahl-nitrogen may be as follows:
+
+where
+
+    a = ml HCl required for titration sample
+    b = ml HCl required for titration blank
+    s = air-dry sample weight in gram
+    M = molarity of HCl
+    1.4 = 14×10-3×100% (14 = atomic weight of N)
+    mcf = moisture correction factor
+
+Note that in addition to multiplications, this calculation contains a subtraction also (often, calculations contain both summations and multiplications.)
+
+Firstly, the standard deviation of the titration (a -b) is determined as indicated in Section 7 above. This is then transformed to RSD using Equations (6.5) or (6.6). Then the RSD of the other individual parameters have to be determined experimentally. The found RSDs are, for instance:
+
+    distillation: 0.8%,
+    titration: 0.5%,
+    molarity: 0.2%,
+    sample weight: 0.2%,
+    mcf: 0.2%.
+
+The total calculated precision is:
+
+Here again, the highest RSD (of distillation) dominates the total precision. In practice, the precision of the Kjeldahl method is usually considerably worse (» 2.5%) probably mainly as a result of the heterogeneity of the sample. The present example does not take that into account. It would imply that 2.5% - 1.0% = 1.5% or 3/5 of the total random error is due to sample heterogeneity (or other overlooked cause). This implies that painstaking efforts to improve subprocedures such as the titration or the preparation of standard solutions may not be very rewarding. It would, however, pay to improve the homogeneity of the sample, e.g. by careful grinding and mixing in the preparatory stage.
+
+    Note. Sample heterogeneity is also represented in the moisture correction factor. However, the influence of this factor on the final result is usually very small.
+
+6.3.5.2 Propagation of systematic errors
+
+Systematic errors of (sub)measurements contribute directly to the total bias of the result since the individual parameters in the calculation of the final result each carry their own bias. For instance, the systematic error in a balance will cause a systematic error in the sample weight (as well as in the moisture determination). Note that some systematic errors may cancel out, e.g. weighings by difference may not be affected by a biased balance.
+
+The only way to detect or avoid systematic errors is by comparison (calibration) with independent standards and outside reference or control samples.
+6.4 Statistical tests
+
+    6.4.1 Two-sided vs. one-sided test
+    6.4.2 F-test for precision
+    6.4.3 t-Tests for bias
+    6.4.4 Linear correlation and regression
+    6.4.5 Analysis of variance (ANOVA)
+
+In analytical work a frequently recurring operation is the verification of performance by comparison of data. Some examples of comparisons in practice are:
+
+    - performance of two instruments,
+
+    - performance of two methods,
+
+    - performance of a procedure in different periods,
+
+    - performance of two analysts or laboratories,
+
+    - results obtained for a reference or control sample with the "true", "target" or "assigned" value of this sample.
+
+Some of the most common and convenient statistical tools to quantify such comparisons are the F-test, the t-tests, and regression analysis.
+
+Because the F-test and the t-tests are the most basic tests they will be discussed first. These tests examine if two sets of normally distributed data are similar or dissimilar (belong or not belong to the same "population") by comparing their standard deviations and means respectively. This is illustrated in Fig. 6-3.
+
+Fig. 6-3. Three possible cases when comparing two sets of data (n1 = n2). A. Different mean (bias), same precision; B. Same mean (no bias), different precision; C. Both mean and precision are different. (The fourth case, identical sets, has not been drawn).
+
+6.4.1 Two-sided vs. one-sided test
+
+These tests for comparison, for instance between methods A and B, are based on the assumption that there is no significant difference (the "null hypothesis"). In other words, when the difference is so small that a tabulated critical value of F or t is not exceeded, we can be confident (usually at 95% level) that A and B are not different. Two fundamentally different questions can be asked concerning both the comparison of the standard deviations s1 and s2 with the F-test, and of the means¯x1, and ¯x2, with the t-test:
+
+    1. are A and B different? (two-sided test)
+    2. is A higher (or lower) than B? (one-sided test).
+
+This distinction has an important practical implication as statistically the probabilities for the two situations are different: the chance that A and B are only different ("it can go two ways") is twice as large as the chance that A is higher (or lower) than B ("it can go only one way"). The most common case is the two-sided (also called two-tailed) test: there are no particular reasons to expect that the means or the standard deviations of two data sets are different. An example is the routine comparison of a control chart with the previous one (see 8.3). However, when it is expected or suspected that the mean and/or the standard deviation will go only one way, e.g. after a change in an analytical procedure, the one-sided (or one-tailed) test is appropriate. In this case the probability that it goes the other way than expected is assumed to be zero and, therefore, the probability that it goes the expected way is doubled. Or, more correctly, the uncertainty in the two-way test of 5% (or the probability of 5% that the critical value is exceeded) is divided over the two tails of the Gaussian curve (see Fig. 6-2), i.e. 2.5% at the end of each tail beyond 2s. If we perform the one-sided test with 5% uncertainty, we actually increase this 2.5% to 5% at the end of one tail. (Note that for the whole gaussian curve, which is symmetrical, this is then equivalent to an uncertainty of 10% in two ways!)
+
+This difference in probability in the tests is expressed in the use of two tables of critical values for both F and t. In fact, the one-sided table at 95% confidence level is equivalent to the two-sided table at 90% confidence level.
+
+It is emphasized that the one-sided test is only appropriate when a difference in one direction is expected or aimed at. Of course it is tempting to perform this test after the results show a clear (unexpected) effect. In fact, however, then a two times higher probability level was used in retrospect. This is underscored by the observation that in this way even contradictory conclusions may arise: if in an experiment calculated values of F and t are found within the range between the two-sided and one-sided values of Ftab, and ttab, the two-sided test indicates no significant difference, whereas the one-sided test says that the result of A is significantly higher (or lower) than that of B. What actually happens is that in the first case the 2.5% boundary in the tail was just not exceeded, and then, subsequently, this 2.5% boundary is relaxed to 5% which is then obviously more easily exceeded. This illustrates that statistical tests differ in strictness and that for proper interpretation of results in reports, the statistical techniques used, including the confidence limits or probability, should always be specified.
+6.4.2 F-test for precision
+
+Because the result of the F-test may be needed to choose between the Student's t-test and the Cochran variant (see next section), the F-test is discussed first.
+
+The F-test (or Fisher's test) is a comparison of the spread of two sets of data to test if the sets belong to the same population, in other words if the precisions are similar or dissimilar.
+
+The test makes use of the ratio of the two variances:
+
+	
+
+(6.11)
+
+where the larger s2 must be the numerator by convention. If the performances are not very different, then the estimates s1, and s2, do not differ much and their ratio (and that of their squares) should not deviate much from unity. In practice, the calculated F is compared with the applicable F value in the F-table (also called the critical value, see Appendix 2). To read the table it is necessary to know the applicable number of degrees of freedom for s1, and s2. These are calculated by:
+
+    df1 = n1-1
+    df2 = n2-1
+
+If Fcal £ Ftab one can conclude with 95% confidence that there is no significant difference in precision (the "null hypothesis" that s1, = s, is accepted). Thus, there is still a 5% chance that we draw the wrong conclusion. In certain cases more confidence may be needed, then a 99% confidence table can be used, which can be found in statistical textbooks.
+
+Example I (two-sided test)
+
+Table 6-1 gives the data sets obtained by two analysts for the cation exchange capacity (CEC) of a control sample. Using Equation (6.11) the calculated F value is 1.62. As we had no particular reason to expect that the analysts would perform differently, we use the F-table for the two-sided test and find Ftab = 4.03 (Appendix 2, df1, = df2 = 9). This exceeds the calculated value and the null hypothesis (no difference) is accepted. It can be concluded with 95% confidence that there is no significant difference in precision between the work of Analyst 1 and 2.
+
+Table 6-1. CEC values (in cmolc/kg) of a control sample determined by two analysts.
+
+1
+	
+
+2
+
+10.2
+	
+
+9.7
+
+10.7
+	
+
+9.0
+
+10.5
+	
+
+10.2
+
+9.9
+	
+
+10.3
+
+9.0
+	
+
+10.8
+
+11.2
+	
+
+11.1
+
+11.5
+	
+
+9.4
+
+10.9
+	
+
+9.2
+
+8.9
+	
+
+9.8
+
+10.6
+	
+
+10.2
+
+¯x:
+	
+
+10.34
+	
+
+9.97
+
+s:
+	
+
+0.819
+	
+
+0.644
+
+n:
+	
+
+10
+	
+
+10
+
+Fcal = 1.62
+	
+
+tcal = 1.12
+	
+
+
+Ftab = 4.03
+	
+
+ttab = 2.10
+	
+
+
+Example 2 (one-sided test)
+
+The determination of the calcium carbonate content with the Scheibler standard method is compared with the simple and more rapid "acid-neutralization" method using one and the same sample. The results are given in Table 6-2. Because of the nature of the rapid method we suspect it to produce a lower precision then obtained with the Scheibler method and we can, therefore, perform the one sided F-test. The applicable Ftab = 3.07 (App. 2, df1, = 12, df2 = 9) which is lower than Fcal (=18.3) and the null hypothesis (no difference) is rejected. It can be concluded (with 95% confidence) that for this one sample the precision of the rapid titration method is significantly worse than that of the Scheibler method.
+
+Table 6-2. Contents of CaCO3 (in mass/mass %) in a soil sample determined with the Scheibler method (A) and the rapid titration method (B).
+
+A
+	
+
+B
+
+2.5
+	
+
+1.7
+
+2.4
+	
+
+1.9
+
+2.5
+	
+
+2.3
+
+2.6
+	
+
+2.3
+
+2.5
+	
+
+2.8
+
+2.5
+	
+
+2.5
+
+2.4
+	
+
+1.6
+
+2.6
+	
+
+1.9
+
+2.7
+	
+
+2.6
+
+2.4
+	
+
+1.7
+
+-
+	
+
+2.4
+
+-
+	
+
+2.2
+
+
+	
+
+2.6
+
+x:
+	
+
+2.51
+	
+
+2.13
+
+s:
+	
+
+0.099
+	
+
+0.424
+
+n:
+	
+
+10
+	
+
+13
+
+Fcal = 18.3
+	
+
+tcal = 3.12
+	
+
+
+Ftab = 3.07
+	
+
+ttab* = 2.18
+	
+
+
+(ttab* = Cochran's "alternative" ttab)
+6.4.3 t-Tests for bias
+
+    6.4.3.1. Student's t-test
+    6.4.3.2 Cochran's t-test
+    6.4.3.3 t-Test for large data sets (n³ 30)
+    6.4.3.4 Paired t-test
+
+Depending on the nature of two sets of data (n, s, sampling nature), the means of the sets can be compared for bias by several variants of the t-test. The following most common types will be discussed:
+
+    1. Student's t-test for comparison of two independent sets of data with very similar standard deviations;
+
+    2. the Cochran variant of the t-test when the standard deviations of the independent sets differ significantly;
+
+    3. the paired t-test for comparison of strongly dependent sets of data.
+
+Basically, for the t-tests Equation (6.8) is used but written in a different way:
+
+	
+
+(6.12)
+
+where
+
+    ¯x = mean of test results of a sample
+    m = "true" or reference value
+    s = standard deviation of test results
+    n = number of test results of the sample.
+
+To compare the mean of a data set with a reference value normally the "two-sided t-table of critical values" is used (Appendix 1). The applicable number of degrees of freedom here is:
+
+df = n-1
+
+If a value for t calculated with Equation (6.12) does not exceed the critical value in the table, the data are taken to belong to the same population: there is no difference and the "null hypothesis" is accepted (with the applicable probability, usually 95%).
+
+As with the F-test, when it is expected or suspected that the obtained results are higher or lower than that of the reference value, the one-sided t-test can be performed: if tcal > ttab, then the results are significantly higher (or lower) than the reference value.
+
+More commonly, however, the "true" value of proper reference samples is accompanied by the associated standard deviation and number of replicates used to determine these parameters. We can then apply the more general case of comparing the means of two data sets: the "true" value in Equation (6.12) is then replaced by the mean of a second data set. As is shown in Fig. 6-3, to test if two data sets belong to the same population it is tested if the two Gauss curves do sufficiently overlap. In other words, if the difference between the means ¯x1-¯x2 is small. This is discussed next.
+
+Similarity or non-similarity of standard deviations
+
+When using the t-test for two small sets of data (n1 and/or n2<30), a choice of the type of test must be made depending on the similarity (or non-similarity) of the standard deviations of the two sets. If the standard deviations are sufficiently similar they can be "pooled" and the Student t-test can be used. When the standard deviations are not sufficiently similar an alternative procedure for the t-test must be followed in which the standard deviations are not pooled. A convenient alternative is the Cochran variant of the t-test. The criterion for the choice is the passing or non-passing of the F-test (see 6.4.2), that is, if the variances do or do not significantly differ. Therefore, for small data sets, the F-test should precede the t-test.
+
+For dealing with large data sets (n1, n2,³ 30) the "normal" t-test is used (see Section 6.4.3.3 and App. 3).
+6.4.3.1. Student's t-test
+
+(To be applied to small data sets (n1, n2 < 30) where s1, and s2 are similar according to F-test.
+
+When comparing two sets of data, Equation (6.12) is rewritten as:
+
+	
+
+(6.13)
+
+where
+
+    ¯x1 = mean of data set 1
+    ¯x2 = mean of data set 2
+    sp = "pooled" standard deviation of the sets
+    n1 = number of data in set 1
+    n2 = number of data in set 2.
+
+The pooled standard deviation sp is calculated by:
+
+	
+
+6.14
+
+where
+
+    s1 = standard deviation of data set 1
+    s2 = standard deviation of data set 2
+    n1 = number of data in set 1
+    n2 = number of data in set 2.
+
+To perform the t-test, the critical ttab has to be found in the table (Appendix 1); the applicable number of degrees of freedom df is here calculated by:
+
+    df = n1 + n2 -2
+
+Example
+
+The two data sets of Table 6-1 can be used: With Equations (6.13) and (6.14) tcal, is calculated as 1.12 which is lower than the critical value ttab of 2.10 (App. 1, df = 18, two-sided), hence the null hypothesis (no difference) is accepted and the two data sets are assumed to belong to the same population: there is no significant difference between the mean results of the two analysts (with 95% confidence).
+
+    Note. Another illustrative way to perform this test for bias is to calculate if the difference between the means falls within or outside the range where this difference is still not significantly large. In other words, if this difference is less than the least significant difference (lsd). This can be derived from Equation (6.13):
+
+	
+
+6.15
+
+In the present example of Table 6-1, the calculation yields lsd = 0.69. The measured difference between the means is 10.34 -9.97 = 0.37 which is smaller than the lsd indicating that there is no significant difference between the performance of the analysts.
+
+In addition, in this approach the 95% confidence limits of the difference between the means can be calculated (cf. Equation 6.8):
+
+confidence limits = 0.37 ± 0.69 = -0.32 and 1.06
+
+Note that the value 0 for the difference is situated within this confidence interval which agrees with the null hypothesis of x1 = x2 (no difference) having been accepted.
+6.4.3.2 Cochran's t-test
+
+To be applied to small data sets (n1, n2, < 30) where s1 and s2, are dissimilar according to F-test.
+
+Calculate t with:
+
+	
+
+6.16
+
+Then determine an "alternative" critical t-value:
+
+	
+
+6.17
+
+where
+
+    t1 = ttab at n1-1 degrees of freedom
+    t2 = ttab at n2-1 degrees of freedom
+
+Now the t-test can be performed as usual: if tcal< ttab* then the null hypothesis that the means do not significantly differ is accepted.
+
+Example
+
+The two data sets of Table 6-2 can be used.
+
+According to the F-test, the standard deviations differ significantly so that the Cochran variant must be used. Furthermore, in contrast to our expectation that the precision of the rapid test would be inferior, we have no idea about the bias and therefore the two-sided test is appropriate. The calculations yield tcal = 3.12 and ttab*= 2.18 meaning that tcal exceeds ttab* which implies that the null hypothesis (no difference) is rejected and that the mean of the rapid analysis deviates significantly from that of the standard analysis (with 95% confidence, and for this sample only). Further investigation of the rapid method would have to include the use of more different samples and then comparison with the one-sided t-test would be justified (see 6.4.3.4, Example 1).
+6.4.3.3 t-Test for large data sets (n³ 30)
+
+In the example above (6.4.3.2) the conclusion happens to have been the same if the Student's t-test with pooled standard deviations had been used. This is caused by the fact that the difference in result of the Student and Cochran variants of the t-test is largest when small sets of data are compared, and decreases with increasing number of data. Namely, with increasing number of data a better estimate of the real distribution of the population is obtained (the flatter t-distribution converges then to the standardized normal distribution). When n³ 30 for both sets, e.g. when comparing Control Charts (see 8.3), for all practical purposes the difference between the Student and Cochran variant is negligible. The procedure is then reduced to the "normal" t-test by simply calculating tcal with Eq. (6.16) and comparing this with ttab at df = n1 + n2-2. (Note in App. 1 that the two-sided ttab is now close to 2).
+
+The proper choice of the t-test as discussed above is summarized in a flow diagram in Appendix 3.
+6.4.3.4 Paired t-test
+
+When two data sets are not independent, the paired t-test can be a better tool for comparison than the "normal" t-test described in the previous sections. This is for instance the case when two methods are compared by the same analyst using the same sample(s). It could, in fact, also be applied to the example of Table 6-1 if the two analysts used the same analytical method at (about) the same time.
+
+As stated previously, comparison of two methods using different levels of analyte gives more validation information about the methods than using only one level. Comparison of results at each level could be done by the F and t-tests as described above. The paired t-test, however, allows for different levels provided the concentration range is not too wide. As a rule of fist, the range of results should be within the same magnitude. If the analysis covers a longer range, i.e. several powers of ten, regression analysis must be considered (see Section 6.4.4). In intermediate cases, either technique may be chosen.
+
+The null hypothesis is that there is no difference between the data sets, so the test is to see if the mean of the differences between the data deviates significantly from zero or not (two-sided test). If it is expected that one set is systematically higher (or lower) than the other set, then the one-sided test is appropriate.
+
+Example 1
+
+The "promising" rapid single-extraction method for the determination of the cation exchange capacity of soils using the silver thiourea complex (AgTU, buffered at pH 7) was compared with the traditional ammonium acetate method (NH4OAc, pH 7). Although for certain soil types the difference in results appeared insignificant, for other types differences seemed larger. Such a suspect group were soils with ferralic (oxic) properties (i.e. highly weathered sesquioxide-rich soils). In Table 6-3 the results often soils with these properties are grouped to test if the CEC methods give different results. The difference d within each pair and the parameters needed for the paired t-test are given also.
+
+Table 6-3. CEC values (in cmolc/kg) obtained by the NH4OAc and AgTU methods (both at pH 7) for ten soils with ferralic properties.
+
+Sample
+	
+
+NH4OAc
+	
+
+AgTU
+	
+
+d
+
+1
+	
+
+7.1
+	
+
+6.5
+	
+
+-0.6
+
+2
+	
+
+4.6
+	
+
+5.6
+	
+
++1.0
+
+3
+	
+
+10.6
+	
+
+14.5
+	
+
++3.9
+
+4
+	
+
+2.3
+	
+
+5.6
+	
+
++3.3
+
+5
+	
+
+25.2
+	
+
+23.8
+	
+
+-1.4
+
+6
+	
+
+4.4
+	
+
+10.4
+	
+
++6.0
+
+7
+	
+
+7.8
+	
+
+8.4
+	
+
++0.6
+
+8
+	
+
+2.7
+	
+
+5.5
+	
+
++2.8
+
+9
+	
+
+14.3
+	
+
+19.2
+	
+
++4.9
+
+10
+	
+
+13.6
+	
+
+15.0
+	
+
++1.4
+
+¯d = +2.19
+	
+
+tcal = 2.89
+
+sd = 2.395
+	
+
+ttab = 2.26
+
+Using Equation (6.12) and noting that m d = 0 (hypothesis value of the differences, i.e. no difference), the t-value can be calculated as:
+
+where
+
+    = mean of differences within each pair of data
+    sd = standard deviation of the mean of differences
+    n = number of pairs of data
+
+The calculated t value (=2.89) exceeds the critical value of 1.83 (App. 1, df = n -1 = 9, one-sided), hence the null hypothesis that the methods do not differ is rejected and it is concluded that the silver thiourea method gives significantly higher results as compared with the ammonium acetate method when applied to such highly weathered soils.
+
+    Note. Since such data sets do not have a normal distribution, the "normal" t-test which compares means of sets cannot be used here (the means do not constitute a fair representation of the sets). For the same reason no information about the precision of the two methods can be obtained, nor can the F-test be applied. For information about precision, replicate determinations are needed.
+
+Example 2
+
+Table 6-4 shows the data of total-P in four plant tissue samples obtained by a laboratory L and the median values obtained by 123 laboratories in a proficiency (round-robin) test.
+
+Table 6-4. Total-P contents (in mmol/kg) of plant tissue as determined by 123 laboratories (Median) and Laboratory L.
+
+Sample
+	
+
+Median
+	
+
+Lab L
+	
+
+d
+
+1
+	
+
+93.0
+	
+
+85.2
+	
+
+-7.8
+
+2
+	
+
+201
+	
+
+224
+	
+
+23
+
+3
+	
+
+78.9
+	
+
+84.5
+	
+
+5.6
+
+4
+	
+
+175
+	
+
+185
+	
+
+10
+
+¯d = 7.70
+	
+
+tcal =1.21
+
+sd = 12.702
+	
+
+ttab = 3.18
+
+To verify the performance of the laboratory a paired t-test can be performed:
+
+Using Eq. (6.12) and noting that m d=0 (hypothesis value of the differences, i.e. no difference), the t value can be calculated as:
+
+The calculated t-value is below the critical value of 3.18 (Appendix 1, df = n - 1 = 3, two-sided), hence the null hypothesis that the laboratory does not significantly differ from the group of laboratories is accepted, and the results of Laboratory L seem to agree with those of "the rest of the world" (this is a so-called third-line control).
+6.4.4 Linear correlation and regression
+
+    6.4.4.1 Construction of calibration graph
+    6.4.4.2 Comparing two sets of data using many samples at different analyte levels
+
+These also belong to the most common useful statistical tools to compare effects and performances X and Y. Although the technique is in principle the same for both, there is a fundamental difference in concept: correlation analysis is applied to independent factors: if X increases, what will Y do (increase, decrease, or perhaps not change at all)? In regression analysis a unilateral response is assumed: changes in X result in changes in Y, but changes in Y do not result in changes in X.
+
+For example, in analytical work, correlation analysis can be used for comparing methods or laboratories, whereas regression analysis can be used to construct calibration graphs. In practice, however, comparison of laboratories or methods is usually also done by regression analysis. The calculations can be performed on a (programmed) calculator or more conveniently on a PC using a home-made program. Even more convenient are the regression programs included in statistical packages such as Statistix, Mathcad, Eureka, Genstat, Statcal, SPSS, and others. Also, most spreadsheet programs such as Lotus 123, Excel, and Quattro-Pro have functions for this.
+
+Laboratories or methods are in fact independent factors. However, for regression analysis one factor has to be the independent or "constant" factor (e.g. the reference method, or the factor with the smallest standard deviation). This factor is by convention designated X, whereas the other factor is then the dependent factor Y (thus, we speak of "regression of Y on X").
+
+As was discussed in Section 6.4.3, such comparisons can often been done with the Student/Cochran or paired t-tests. However, correlation analysis is indicated:
+
+    1. When the concentration range is so wide that the errors, both random and systematic, are not independent (which is the assumption for the t-tests). This is often the case where concentration ranges of several magnitudes are involved.
+
+    2. When pairing is inappropriate for other reasons, notably a long time span between the two analyses (sample aging, change in laboratory conditions, etc.).
+
+The principle is to establish a statistical linear relationship between two sets of corresponding data by fitting the data to a straight line by means of the "least squares" technique. Such data are, for example, analytical results of two methods applied to the same samples (correlation), or the response of an instrument to a series of standard solutions (regression).
+
+    Note: Naturally, non-linear higher-order relationships are also possible, but since these are less common in analytical work and more complex to handle mathematically, they will not be discussed here. Nevertheless, to avoid misinterpretation, always inspect the kind of relationship by plotting the data, either on paper or on the computer monitor.
+
+The resulting line takes the general form:
+
+y = bx + a
+	
+
+(6.18)
+
+where
+
+    a = intercept of the line with the y-axis
+    b = slope (tangent)
+
+In laboratory work ideally, when there is perfect positive correlation without bias, the intercept a = 0 and the slope = 1. This is the so-called "1:1 line" passing through the origin (dashed line in Fig. 6-5).
+
+If the intercept a ¹ 0 then there is a systematic discrepancy (bias, error) between X and Y; when b ¹ 1 then there is a proportional response or difference between X and Y.
+
+The correlation between X and Y is expressed by the correlation coefficient r which can be calculated with the following equation:
+
+	
+
+6.19
+
+where
+
+    xi = data X
+    ¯x = mean of data X
+    yi = data Y
+    ¯y = mean of data Y
+
+It can be shown that r can vary from 1 to -1:
+
+    r = 1 perfect positive linear correlation
+    r = 0 no linear correlation (maybe other correlation)
+    r = -1 perfect negative linear correlation
+
+Often, the correlation coefficient r is expressed as r2: the coefficient of determination or coefficient of variance. The advantage of r2 is that, when multiplied by 100, it indicates the percentage of variation in Y associated with variation in X. Thus, for example, when r = 0.71 about 50% (r2 = 0.504) of the variation in Y is due to the variation in X.
+
+The line parameters b and a are calculated with the following equations:
+
+	
+
+6.20
+
+and
+
+a = ¯y - b¯x
+	
+
+6.21
+
+It is worth to note that r is independent of the choice which factor is the independent factory and which is the dependent Y. However, the regression parameters a and do depend on this choice as the regression lines will be different (except when there is ideal 1:1 correlation).
+6.4.4.1 Construction of calibration graph
+
+As an example, we take a standard series of P (0-1.0 mg/L) for the spectrophotometric determination of phosphate in a Bray-I extract ("available P"), reading in absorbance units. The data and calculated terms needed to determine the parameters of the calibration graph are given in Table 6-5. The line itself is plotted in Fig. 6-4.
+
+Table 6-5 is presented here to give an insight in the steps and terms involved. The calculation of the correlation coefficient r with Equation (6.19) yields a value of 0.997 (r2 = 0.995). Such high values are common for calibration graphs. When the value is not close to 1 (say, below 0.98) this must be taken as a warning and it might then be advisable to repeat or review the procedure. Errors may have been made (e.g. in pipetting) or the used range of the graph may not be linear. On the other hand, a high r may be misleading as it does not necessarily indicate linearity. Therefore, to verify this, the calibration graph should always be plotted, either on paper or on computer monitor.
+
+Using Equations (6.20 and (6.21) we obtain:
+
+and
+
+a = 0.350 - 0.313 = 0.037
+
+Thus, the equation of the calibration line is:
+
+y = 0.626x + 0.037
+	
+
+(6.22)
+
+Table 6-5. Parameters of calibration graph in Fig. 6-4.
+
+xi
+	
+
+yi
+	
+
+x1-¯x
+	
+
+(xi-¯x)2
+	
+
+yi-¯y
+	
+
+(yi-¯y)2
+	
+
+(x1-¯x)(yi-¯y)
+
+0.0
+	
+
+0.05
+	
+
+-0.5
+	
+
+0.25
+	
+
+-0.30
+	
+
+0.090
+	
+
+0.150
+
+0.2
+	
+
+0.14
+	
+
+-0.3
+	
+
+0.09
+	
+
+-0.21
+	
+
+0.044
+	
+
+0.063
+
+0.4
+	
+
+0.29
+	
+
+-0.1
+	
+
+0.01
+	
+
+-0.06
+	
+
+0.004
+	
+
+0.006
+
+0.6
+	
+
+0.43
+	
+
+0.1
+	
+
+0.01
+	
+
+0.08
+	
+
+0.006
+	
+
+0.008
+
+0.8
+	
+
+0.52
+	
+
+0.3
+	
+
+0.09
+	
+
+0.17
+	
+
+0.029
+	
+
+0.051
+
+1.0
+	
+
+0.67
+	
+
+0.5
+	
+
+0.25
+	
+
+0.32
+	
+
+0.102
+	
+
+0.160
+
+3.0
+	
+
+2.10
+	
+
+0
+	
+
+0.70
+	
+
+0
+	
+
+0.2754
+	
+
+0.438 S
+
+¯x=0.5
+	
+
+¯y = 0.35
+	
+
+
+Fig. 6-4. Calibration graph plotted from data of Table 6-5. The dashed lines delineate the 95% confidence area of the graph. Note that the confidence is highest at the centroid of the graph.
+
+During calculation, the maximum number of decimals is used, rounding off to the last significant figure is done at the end (see instruction for rounding off in Section 8.2).
+
+Once the calibration graph is established, its use is simple: for each y value measured the corresponding concentration x can be determined either by direct reading or by calculation using Equation (6.22). The use of calibration graphs is further discussed in Section 7.2.2.
+
+    Note. A treatise of the error or uncertainty in the regression line is given.
+
+6.4.4.2 Comparing two sets of data using many samples at different analyte levels
+
+Although regression analysis assumes that one factor (on the x-axis) is constant, when certain conditions are met the technique can also successfully be applied to comparing two variables such as laboratories or methods. These conditions are:
+
+    - The most precise data set is plotted on the x-axis
+    - At least 6, but preferably more than 10 different samples are analyzed
+    - The samples should rather uniformly cover the analyte level range of interest.
+
+To decide which laboratory or method is the most precise, multi-replicate results have to be used to calculate standard deviations (see 6.4.2). If these are not available then the standard deviations of the present sets could be compared (note that we are now not dealing with normally distributed sets of replicate results). Another convenient way is to run the regression analysis on the computer, reverse the variables and run the analysis again. Observe which variable has the lowest standard deviation (or standard error of the intercept a, both given by the computer) and then use the results of the regression analysis where this variable was plotted on the x-axis.
+
+If the analyte level range is incomplete, one might have to resort to spiking or standard additions, with the inherent drawback that the original analyte-sample combination may not adequately be reflected.
+
+Example
+
+In the framework of a performance verification programme, a large number of soil samples were analyzed by two laboratories X and Y (a form of "third-line control", see Chapter 9) and the data compared by regression. (In this particular case, the paired t-test might have been considered also). The regression line of a common attribute, the pH, is shown here as an illustration. Figure 6-5 shows the so-called "scatter plot" of 124 soil pH-H2O determinations by the two laboratories. The correlation coefficient r is 0.97 which is very satisfactory. The slope (= 1.03) indicates that the regression line is only slightly steeper than the 1:1 ideal regression line. Very disturbing, however, is the intercept a of -1.18. This implies that laboratory Y measures the pH more than a whole unit lower than laboratory X at the low end of the pH range (the intercept -1.18 is at pHx = 0) which difference decreases to about 0.8 unit at the high end.
+
+Fig. 6-5. Scatter plot of pH data of two laboratories. Drawn line: regression line; dashed line: 1:1 ideal regression line.
+
+The t-test for significance is as follows:
+
+For intercept a: m a = 0 (null hypothesis: no bias; ideal intercept is then zero), standard error =0.14 (calculated by the computer), and using Equation (6.12) we obtain:
+
+Here, ttab = 1.98 (App. 1, two-sided, df = n - 2 = 122 (n-2 because an extra degree of freedom is lost as the data are used for both a and b) hence, the laboratories have a significant mutual bias.
+
+For slope: m b = 1 (ideal slope: null hypothesis is no difference), standard error = 0.02 (given by computer), and again using Equation (6.12) we obtain:
+
+Again, ttab = 1.98 (App. 1; two-sided, df = 122), hence, the difference between the laboratories is not significantly proportional (or: the laboratories do not have a significant difference in sensitivity). These results suggest that in spite of the good correlation, the two laboratories would have to look into the cause of the bias.
+
+    Note. In the present example, the scattering of the points around the regression line does not seem to change much over the whole range. This indicates that the precision of laboratory Y does not change very much over the range with respect to laboratory X. This is not always the case. In such cases, weighted regression (not discussed here) is more appropriate than the unweighted regression as used here.
+
+    Validation of a method (see Section 7.5) may reveal that precision can change significantly with the level of analyte (and with other factors such as sample matrix).
+
+6.4.5 Analysis of variance (ANOVA)
+
+When results of laboratories or methods are compared where more than one factor can be of influence and must be distinguished from random effects, then ANOVA is a powerful statistical tool to be used. Examples of such factors are: different analysts, samples with different pre-treatments, different analyte levels, different methods within one of the laboratories). Most statistical packages for the PC can perform this analysis.
+
+As a treatise of ANOVA is beyond the scope of the present Guidelines, for further discussion the reader is referred to statistical textbooks, some of which are given in the list of Literature.
+
+Error or uncertainty in the regression line
+
+The "fitting" of the calibration graph is necessary because the response points yi, composing the line do not fall exactly on the line. Hence, random errors are implied. This is expressed by an uncertainty about the slope and intercept b and a defining the line. A quantification can be found in the standard deviation of these parameters. Most computer programmes for regression will automatically produce figures for these. To illustrate the procedure, the example of the calibration graph in Section 6.4.3.1 is elaborated here.
+
+A practical quantification of the uncertainty is obtained by calculating the standard deviation of the points on the line; the "residual standard deviation" or "standard error of the y-estimate", which we assumed to be constant (but which is only approximately so, see Fig. 6-4):
+
+	
+
+(6.23)
+
+where
+
+    = "fitted" y-value for each xi, (read from graph or calculated with Eq. 6.22). Thus, is the (vertical) deviation of the found y-values from the line.
+
+    n = number of calibration points.
+
+    Note: Only the y-deviations of the points from the line are considered. It is assumed that deviations in the x-direction are negligible. This is, of course, only the case if the standards are very accurately prepared.
+
+Now the standard deviations for the intercept a and slope b can be calculated with:
+
+	
+
+6.24
+
+and
+
+	
+
+6.25
+
+To make this procedure clear, the parameters involved are listed in Table 6-6.
+
+The uncertainty about the regression line is expressed by the confidence limits of a and b according to Eq. (6.9): a ± t.sa and b ± t.sb
+
+Table 6-6. Parameters for calculating errors due to calibration graph (use also figures of Table 6-5).
+
+xi
+	
+
+yi
+	
+
+	
+
+	
+
+0
+	
+
+0.05
+	
+
+0.037
+	
+
+0.013
+	
+
+0.0002
+
+0.2
+	
+
+0.14
+	
+
+0.162
+	
+
+-0.022
+	
+
+0.0005
+
+0.4
+	
+
+0.29
+	
+
+0.287
+	
+
+0.003
+	
+
+0.0000
+
+0.6
+	
+
+0.43
+	
+
+0.413
+	
+
+0.017
+	
+
+0.0003
+
+0.8
+	
+
+0.52
+	
+
+0.538
+	
+
+-0.018
+	
+
+0.0003
+
+1.0
+	
+
+0.67
+	
+
+0.663
+	
+
+0.007
+	
+
+0.0001
+
+
+	
+
+
+	
+
+
+	
+
+
+	
+
+0.001364 S
+
+In the present example, using Eq. (6.23), we calculate
+
+and, using Eq. (6.24) and Table 6-5:
+
+and, using Eq. (6.25) and Table 6-5:
+
+The applicable ttab is 2.78 (App. 1, two-sided, df = n -1 = 4) hence, using Eq. (6.9):
+
+    a = 0.037 ± 2.78 × 0.0132 = 0.037 ± 0.037
+    and
+    b = 0.626 ± 2.78 × 0.0219 = 0.626 ± 0.061
+
+Note that if sa is large enough, a negative value for a is possible, i.e. a negative reading for the blank or zero-standard. (For a discussion about the error in x resulting from a reading in y, which is particularly relevant for reading a calibration graph, see Section 7.2.3)
+
+The uncertainty about the line is somewhat decreased by using more calibration points (assuming sy has not increased): one more point reduces ttab from 2.78 to 2.57 (see Appendix 1). 

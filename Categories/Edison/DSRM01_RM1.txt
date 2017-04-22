@@ -1,0 +1,72 @@
+The selection of the research method is crucial for what conclusions you can make about a phenomenon. It affects what you can say about the cause and factors influencing the phenomenon.
+
+It is also important to choose a research method which is within the limits of what the researcher can do. Time, money, feasibility, ethics and availability to measure the phenomenon correctly are examples of issues constraining the research.
+Choosing the Measurement
+
+Choosing the scientific measurements are also crucial for getting the correct conclusion. Some measurements might not reflect the real world, because they do not measure the phenomenon as it should.
+Results
+Significance Test
+
+To test a hypothesis, quantitative research uses significance tests to determine which hypothesis is right.
+
+The significance test can show whether the null hypothesis is more likely correct than the research hypothesis. Research methodology in a number of areas like social sciences depends heavily on significance tests.
+
+A significance test may even drive the research process in a whole new direction, based on the findings.
+
+The t-test (also called the Student's T-Test) is one of many statistical significance tests, which compares two supposedly equal sets of data to see if they really are alike or not. The t-test helps the researcher conclude whether a hypothesis is supported or not.
+Drawing Conclusions
+
+Drawing a conclusion is based on several factors of the research process, not just because the researcher got the expected result. It has to be based on the validity and reliability of the measurement, how good the measurement was to reflect the real world and what more could have affected the results.
+
+The observations are often referred to as 'empirical evidence' and the logic/thinking leads to the conclusions. Anyone should be able to check the observation and logic, to see if they also reach the same conclusions.
+
+Errors of the observations may stem from measurement-problems, misinterpretations, unlikely random events etc.
+
+A common error is to think that correlation implies a causal relationship. This is not necessarily true.
+Generalization
+
+Generalization is to which extent the research and the conclusions of the research apply to the real world. It is not always so that good research will reflect the real world, since we can only measure a small portion of the population at a time.
+
+Generalization in Research
+
+
+Validity and Reliability
+
+Validity refers to what degree the research reflects the given research problem, while Reliability refers to how consistent a set of measurements are.
+
+Validity and Reliability
+
+Types of validity:
+
+    External Validity
+    Population Validity
+    Ecological Validity
+    Internal Validity
+    Content Validity
+    Face Validity
+    Construct Validity
+    Convergent and Discriminant Validity
+    Test Validity
+    Criterion Validity
+    Concurrent Validity
+    Predictive Validity
+
+A definition of reliability may be "Yielding the same or compatible results in different clinical experiments or statistical trials" (the free dictionary). Research methodology lacking reliability cannot be trusted. Replication studies are a way to test reliability.
+
+Types of Reliability:
+
+    Test-Retest Reliability
+    Interrater Reliability
+    Internal Consistency Reliability
+    Instrument Reliability
+    Statistical Reliability
+    Reproducibility
+
+Both validity and reliability are important aspects of the research methodology to get better explanations of the world.
+Errors in Research
+
+Logically, there are two types of errors when drawing conclusions in research:
+
+Type 1 error is when we accept the research hypothesis when the null hypothesis is in fact correct.
+
+Type 2 error is when we reject the research hypothesis even if the null hypothesis is wrong.

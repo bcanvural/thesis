@@ -1,0 +1,54 @@
+A data steward is a person responsible for the management and fitness of data elements (also known as critical data elements) - both the content and metadata. Data stewards have a specialist role that incorporates processes, policies, guidelines and responsibilities for administering organizations' entire data in compliance with policy and/or regulatory obligations. A data steward may share some responsibilities with a data custodian.
+
+The overall objective of a Data Steward is metadata management, in regard to the key/critical data elements existing within a specific enterprise operating structure, of the elements in their respective domains. This includes capturing/documenting (meta)information for their elements (such as: definitions, related rules/governance, physical manifestation, related data models, etc. With most of these properties being specific to an attribute/concept relationship), identifying owners/custodians/various responsibilities, relations insight pertaining to attribute quality, aiding with project requirement data facilitation and documentation of capture rules.
+
+Data stewards begin the stewarding process with the identification of the elements which they will steward, with the ultimate result being standards, controls and data entry.[citation needed] The steward works closely with business glossary standards analysts (for standards), with data architect/modelers (for standards), with DQ analysts (for controls) and with operations team members (good-quality data going in per business rules) while entering data.
+
+Data stewardship roles are common when organizations attempt to exchange data precisely and consistently between computer systems and to reuse data-related resources.[citation needed] Master data management often[quantify] makes references to the need for data stewardship for its implementation to succeed. Data stewardship must have precise purpose, fit for purpose or fitness.
+
+Contents
+
+    1 Data Steward Responsibilities
+    2 Benefits of data stewardship
+    3 Examples
+    4 See also
+    5 References
+
+Data Steward Responsibilities
+
+A data steward ensures that each assigned data element:
+
+    Has clear and unambiguous data element definition.
+    Does not conflict with other data elements in the metadata registry (removes duplicates, overlap etc.)
+    Has clear enumerated value definitions if it is of type Code.
+    Is still being used (remove unused data elements)
+    Is being used consistently in various computer systems
+    Is being used, fit for purpose = Data Fitness.
+    Has adequate documentation on appropriate usage and notes
+    Documents the origin and sources of authority on each metadata element
+    Is protected against unauthorised access or change
+
+Benefits of data stewardship
+
+Systematic data stewardship can foster fitness thru:
+
+    consistent use of data management resources
+    easy mapping of data between computer systems and exchange documents
+    lower costs associated with migration to (for example) Service Oriented Architecture (SOA)
+
+Assignment of each data element to a person sometimes seems like an unimportant process. But many groups[which?] have found that users have greater trust and usage rates in systems where they can contact a person with questions on each data element.
+Examples
+[icon] 	This section needs expansion. You can help by adding to it. (July 2010)
+
+The  
+EPA metadata registry furnishes an example of data stewardship. Note that each data element therein has a "POC" (point of contact).
+See also
+
+    Metadata
+    Metadata registry
+    Data curation
+    Data element
+    Data element definition
+    Representation term
+    ISO/IEC 11179
+

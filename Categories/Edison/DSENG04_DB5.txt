@@ -1,0 +1,51 @@
+
+
+The hierarchical database model mandates that each child record has only one parent, whereas each parent record can have one or more child records. In order to retrieve data from a hierarchical database the whole tree needs to be traversed starting from the root node. This model is recognized as the first database model created by IBM in the 1960s[citation needed].
+
+Contents
+
+    1 History
+    2 Examples of hierarchical data represented as relational tables
+    3 See also
+    4 References
+    5 External links
+
+History
+
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS. Records' relationships form a treelike model. This structure is simple but inflexible because the relationship is confined to a one-to-many relationship. The IBM Information Management System (IMS) and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data. RDM Mobile is a newly designed embedded database for a mobile computer system.[citation needed]
+
+The hierarchical data model lost traction as Codd's relational model became the de facto standard used by virtually all mainstream database management systems. A relational-database implementation of a hierarchical model was first discussed in published form in 1992[1] (see also nested set model). Hierarchical data organization schemes resurfaced with the advent of XML in the late 1990s[2] (see also XML database). The hierarchical structure is used primarily today for storing geographic information and file systems.[citation needed]
+
+Currently hierarchical databases are still widely used especially in applications that require very high performance and availability such as banking and telecommunications. One of the most widely used commercial hierarchical databases is IMS.[3] Another example of the use of hierarchical databases is Windows Registry in the Microsoft Windows operating systems.[4]
+Examples of hierarchical data represented as relational tables
+
+An organization could store employee information in a table that contains attributes/columns such as employee number, first name, last name, and department number. The organization provides each employee with computer hardware as needed, but computer equipment may only be used by the employee to which it is assigned. The organization could store the computer hardware information in a separate table that includes each part's serial number, type, and the employee that uses it. The tables might look like this:
+employee table EmpNo 	First Name 	Last Name 	Dept. Num
+100 	sweet sonija 	Mohommad 	10-L
+101 	khalid ayub 	Hashim 	10-L
+102 	Abd e Wahab 	AW 	20-B
+103 	saadoo 	Sandakelum 	20-B
+	
+computer table Serial Num 	Type 	User EmpNo
+3009734-4 	Computer 	100
+3-23-283742 	Monitor 	100
+2-22-723423 	Monitor 	100
+232342 	Printer 	100
+
+In this model, the employee data table represents the "parent" part of the hierarchy, while the computer table represents the "child" part of the hierarchy. In contrast to tree structures usually found in computer software algorithms, in this model the children point to the parents. As shown, each employee may possess several pieces of computer equipment, but each individual piece of computer equipment may have only one employee owner.
+
+Consider the following structure:
+EmpNo 	Designation 	ReportsTo
+10 	Director 	
+20 	Senior Manager 	10
+30 	Typist 	20
+40 	Programmer 	20
+
+In this, the "child" is the same type as the "parent". The hierarchy stating EmpNo 10 is boss of 20, and 30 and 40 each report to 20 is represented by the "ReportsTo" column. In Relational database terms, the ReportsTo column is a foreign key referencing the EmpNo column. If the "child" data type were different, it would be in a different table, but there would still be a foreign key referencing the EmpNo column of the employees table.
+
+This simple model is commonly known as the adjacency list model, and was introduced by Dr. Edgar F. Codd after initial criticisms surfaced that the relational model could not model hierarchical data.
+See also
+
+    Tree structure
+    Hierarchical query
+    Hierarchical clustering

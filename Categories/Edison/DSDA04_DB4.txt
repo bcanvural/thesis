@@ -1,0 +1,75 @@
+Position data fusion
+
+The distance or position of an object can be measured with different sensors. By taking sensors based on different physical principles (magnetic, optical, mechanical) as well the resolution can be lowered as the bandwidth of measurement can be increased. Optimal filtering (in sense of minimizing some norm over a frequency) is a very effective tool used for combining sensor data in real-time. Applied methods with Matlab(TM) code and explanation can be found in the Master Thesis 'Sensor Fusion for Nanopositioning'.[4]
+Data fusion from multiple traffic sensing modalities
+
+The data from the different sensing technologies can be combined in intelligent ways to determine the traffic state accurately. A Data fusion based approach that utilizes the road side collected acoustic, image and sensor data has been shown to combine the advantages of the different individual methods.[5]
+Decision Fusion
+
+In many cases, geographically-dispersed sensors are severely energy- and bandwidth-limited. Therefore, the raw data concerning a certain phenomenon are often summarized in a few bits from each sensor. When inferring on a binary event (i.e., H 0 {\displaystyle {\mathcal {H}}_{0}} \mathcal{H}_0 or H 1 {\displaystyle {\mathcal {H}}_{1}} {\mathcal {H}}_{1} ), in the extreme case only binary decisions are sent from sensors to a Decision Fusion Center (DFC) and combined in order to obtain improved classification performance. [6][7][8]
+Data fusion for Enhanced Contextual Awareness
+
+With a multitude of built-in sensors including motion sensor, environmental sensor, position sensor, a modern mobile device gives mobile applications access to a number of sensory data which could be leveraged to enhance the contextual awareness. Using signal processing and data fusion techniques such as feature generation, feasibility study and Principal Component Analysis (PCA) to analyze such sensory data will greatly improve the positive rate of classifying the motion and contextual relevant status of the device.[9]
+See also
+
+    Data integration
+    Data mungling
+    Information integration
+    Image fusion
+    Sensor Fusion
+    Integrative level
+
+
+In computing and data management, data mapping is the process of creating data element mappings between two distinct data models. Data mapping is used as a first step for a wide variety of data integration tasks including:
+
+    Data transformation or data mediation between a data source and a destination
+    Identification of data relationships as part of data lineage analysis
+    Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project
+    Consolidation of multiple databases into a single data base and identifying redundant columns of data for consolidation or elimination
+
+For example, a company that would like to transmit and receive purchases and invoices with other companies might use data mapping to create data maps from a company's data to standardized ANSI ASC X12 messages for items such as purchase orders and invoices.
+
+Contents
+
+    1 Standards
+    2 Hand-coded, graphical manual
+    3 Data-driven mapping
+    4 Semantic mapping
+    5 See also
+    6 References
+    7 Bibliography
+    8 External links
+
+Standards
+
+X12 standards are generic Electronic Data Interchange (EDI) standards designed to allow a company to exchange data with any other company, regardless of industry. The standards are maintained by the Accredited Standards Committee X12 (ASC X12), with the American National Standards Institute (ANSI) accredited to set standards for EDI. The X12 standards are often called ANSI ASC X12 standards.
+
+In the future, tools based on semantic web languages such as Resource Description Framework (RDF), the Web Ontology Language (OWL) and standardized metadata registry will make data mapping a more automatic process. This process will be accelerated if each application performed metadata publishing. Full automated data mapping is a very difficult problem (see Semantic translation).
+Hand-coded, graphical manual
+
+Data mappings can be done in a variety of ways using procedural code, creating XSLT transforms or by using graphical mapping tools that automatically generate executable transformation programs. These are graphical tools that allow a user to "draw" lines from fields in one set of data to fields in another. Some graphical data mapping tools allow users to "Auto-connect" a source and a destination. This feature is dependent on the source and destination data element name being the same. Transformation programs are automatically created in SQL, XSLT, Java programming language or C++. These kinds of graphical tools are found in most ETL Tools (Extract, Transform, Load Tools) as the primary means of entering data maps to support data movement. Examples include SAP BODS and Informatica PowerCenter.
+Data-driven mapping
+
+This is the newest approach in data mapping and involves simultaneously evaluating actual data values in two data sources using heuristics and statistics to automatically discover complex mappings between two data sets. This approach is used to find transformations between two data sets and will discover substrings, concatenations, arithmetic, case statements as well as other kinds of transformation logic. This approach also discovers data exceptions that do not follow the discovered transformation logic.
+Semantic mapping
+
+Semantic mapping is similar to the auto-connect feature of data mappers with the exception that a metadata registry can be consulted to look up data element synonyms. For example, if the source system lists FirstName but the destination lists PersonGivenName, the mappings will still be made if these data elements are listed as synonyms in the metadata registry. Semantic mapping is only able to discover exact matches between columns of data and will not discover any transformation logic or exceptions between columns.
+
+Data Lineage is a track of the life cycle of each piece of data as it is ingested, processed and output by the analytics system. This provides visibility into the analytics pipeline and simplifies tracing errors back to their sources. It also enables replaying specific portions or inputs of the dataflow for step-wise debugging or regenerating lost output. In fact, database systems have used such information, called data provenance, to address similar validation and debugging challenges already.[1]
+See also
+
+    Big structure
+    Bots open source software for data mapping
+    Data integration
+    Data wrangling
+    Identity transform
+    ISO/IEC 11179 - The ISO/IEC Metadata registry standard
+    Metadata
+    Metadata publishing
+    Schema matching
+    Semantic heterogeneity
+    Semantic mapper
+    Semantic translation
+    Semantic web
+    Semantics
+    XSLT - XML Transformation Language

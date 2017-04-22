@@ -1,0 +1,77 @@
+ DATA MANAGEMENT SAMPLE PLAN 
+2 
+This study will only collect non-sensitive data. No pers
+onal identifiers will be recorded or retained by the 
+researchers  in  any  form.  There  are  no  copyright  or
+  licensing  issues  associated  with  the  data  being  
+submitted. 
+Access, Sharing and Re-use of Data 
+The  researchers  associated  with  this  study  are  no
+t  aware  of  any  reasons  which  might  prohibit  the  
+sharing  and  re-use  of  the  data  being  submitted.  Th
+e  researchers  are  not  required  to  make  this  data  
+available  publicly  but  have  elected  to  do  so.  The  da
+ta  being  submitted  will  be  made  publicly  available  
+through the Odum Institute for Research in Social Sc
+ience located at UNC-CH by January 1, 2013. There 
+will  be  no  additional  restrictions  or  permissions  required  for  accessing  the  data.  Findings  will  be  
+published by the researchers based on this data; the 
+estimated date of publication is June 1, 2012. There 
+is  an  agreement  regarding  the  right  of  the  original  
+data  collector,  creator  or  
+principal  investigator  for  
+first  use  of  the  data.  The  specified  embargo  period  associated  with  the  data  being  submitted  extends  
+from  the  projected  conclusion  date  for  initial  
+research  (December  31,  2011)  until  six  months  after  
+projected publication date for the fi
+ndings (June 1, 2012). The embargo 
+will be lifted by January 1, 2013. 
+Data Standards and Capture 
+The associated data types will be captured using Qual
+trics survey software and analyzed using SPSS data 
+analytics tools. The researchers are not aware of any 
+issues regarding the effects or limitations of these 
+formats regarding the data being submitted. 
+Metadata 
+General  metadata  related  to  the  survey  topic  wi
+ll  be  created  for  the  data  being  submitted.  The  
+associated  metadata  will  be  manually  created  in  
+XML  file  format.  DDI  metadata  standards  will  be  
+applied during the creation of the metadata.  
+Security, Storage, Management and Back-Up of Data 
+The Odum Institute’s experience with, and commitment 
+to, secure data archiving is well established and 
+is  in  keeping  with  established  
+UNC  Information  Security  Policies
+.  During  the  implementation  of  the  
+survey,  associated  research  data  will  be  physicall
+y  stored  on  a  password-protected  secure  server  
+maintained  by  UNC-CH  using  standard  SPSS  file  form
+ats.  No  data  will  reside  on  portable  or  laptop  
+devices, and no other external media/format(s) will be used for data storage.  
+Research  data  is  backed  up  on  a  daily  basis.  The  
+researchers  are  currently  responsible  for  storage,  
+maintenance  and  back-up  of  the  data.  The  specific  storage  volume  of  the  data  being  submitted  will  be  
+not  more  than  1GB  maximum.  The  long-term  strategy
+  for  the  maintenance,  curation  and  archiving  of  
+the  data  will  be  implemented  when  the  data  and  associated  research  are  migrated  to  the  Odum  
+Institute for archiving usin
+g the Odum Institute DVN. 
+Preservation, Review and Long-Term Management of Data 
+ODUM INSTITUTE 
+−
+ DATA MANAGEMENT SAMPLE PLAN 
+3 
+Data  collected  during  this  study  will  be  archived  with
+  the  Odum  Institute  at  UNC-CH.  The  data  will  be  
+stored in a specific virtual archive and will be ma
+de publicly available through 
+the Odum Institute DVN. 
+As  a  result  of  this  arrangement,  there  are  no  specif
+ic  financial  considerations  of  which  the  researchers  
+are  currently  aware  which  might  impact  the  long-term  management  of  the  data.  The  research  and  
+archival staff of the Odum Institute will review this
+ DMP upon accession of the data in order to ensure 
+and demonstrate compliance. The DMP will again be re
+viewed by Odum Institute research and archival 
+staff prior to ingest and release into the Odum DVN

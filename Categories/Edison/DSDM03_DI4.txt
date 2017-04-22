@@ -1,0 +1,84 @@
+Enterprise integration is a technical field of Enterprise Architecture, which focused on the study of topics such as system interconnection, electronic data interchange, product data exchange and distributed computing environments.[1]
+
+It is a concept in Enterprise engineering to provide the right information at the right place and at the right time and thereby enable communication between people, machines and computers and their efficient co-operation and co-ordination.[2]
+
+Contents
+
+    1 Overview
+    2 History
+    3 Enterprise integration topics
+        3.1 Enterprise modeling
+        3.2 Enterprise integration needs
+        3.3 Identification and use of information
+        3.4 Transfer of information
+    4 Enterprise Integration Act of 2002
+    5 See also
+    6 References
+    7 Further reading
+    8 External links
+
+Overview
+
+Requirements and principles deal with determining the business drivers and guiding principles that help in the development of the enterprise architecture. Each functional and non-functional requirement should be traceable to one or more business drivers. Organizations are beginning to become more aware of the need for capturing and managing requirements. Use-case modeling is one of the techniques that is used for doing this. Enterprise Integration, according to Brosey et al. (2001), "aims to connect and combines people, processes, systems, and technologies to ensure that the right people and the right processes have the right information and the right resources at the right time".[3]
+
+Enterprise Integration is focused on optimizing operations in a world which could be considered full of continuous and largely unpredictable change. Changes occur in single manufacturing companies just as well as in an "everchanging set of extended or virtual enterprises". It enables the actors to make "quick and accurate decisions and adaptation of operations to respond to emerging threats and opportunities".[3]
+History
+Evolution in Enterprise Integration: This figure summarizes these developments indicating the shift of emphasis from systems integration to enterprise integration with increasing focus on inter enterprise operations or networks.
+
+Enterprise integration has been discussed since the early days of computers in industry and especially in the manufacturing industry with Computer Integrated Manufacturing (CIM) as the acronym for operations integration. In spite of the different understandings of the scope of integration in CIM it has always stood for information integration across at least parts of the enterprise. Information integration essentially consists of providing the right information, at the right place, at the right time.[4]
+
+In the 1990s enterprise integration and enterprise engineering became a focal point of discussions with active contribution of many disciplines. The state of the art in enterprise engineering and integration by the end of the 1990s has been rather confusing, according to Jim Nell and Kurt Kosanke (1997):
+
+    On one hand, it claims to provide solutions for many of the issues identified in enterprise integration.
+    On the other hand, the solutions seem to compete with each other, use conflicting terminology and do not provide any clues on their relations to solutions on other issues.
+
+Workflow modelling, business process modelling, business process reengineering (BPR), and concurrent engineering all aim toward identifying and providing the information needed in the enterprise operation. In addition, numerous integrating-platforms concepts are promoted with only marginal or no recognition or support of information identification. Tools claiming to support enterprise modelling exist in very large numbers, but the support is rather marginal, especially if models are to be used by the end user, for instance, in decision support.
+Enterprise integration topics
+Enterprise modeling
+
+In his 1996 book "Enterprise Modeling and Integration: Principles and Applications" François Vernadat states, that "enterprise modeling is concerned with assessing various aspects of an enterprise in order to better understand, restructure or design enterprise operations. It is the basis of business process reengineering and the first step to achieving enterprise integration. Enterprise integration according to Vernadat is a rapidly developing technical field which has already shown proven solutions for system interconnection, electronic data interchange, product data exchange and distributed computing environments. His book combines these two methodologies and advocates a systematic engineering approach called Enterprise Engineering, for modeling, analysing, designing and implementing integrated enterprise systems".[5]
+Enterprise integration needs
+
+With this understanding the different needs in enterprise integration can be identified:[4]
+
+    Identify the right information: requires a precise knowledge of the information needed and created by the different activities in the enterprise operation. Knowledge has to be structured in the form of an accurate model of the enterprise operation, which describes product and administrative information, resources and organisational aspects of the operational processes and allows what-if analysis in order to optimize these processes.
+    Provide the right information at the right place: requires information sharing systems and integration platforms capable of handling information transaction across heterogeneous environments consisting of heterogeneous hardware, different operating systems and monolithic software applications (legacy systems). Environments which cross organizational boundaries and link the operation of different organisations on a temporal basis and with short set-up times and limited time horizon (extended and virtual enterprises).
+    Update the information in real time to reflect the actual state of the enterprise operation: requires not only the up-date of the operational data (information created during the operation), but adapting to environmental changes, which may originate from new customer demands, new technology, new legislation or new philosophies of the society at large. Changes may require modification of the operational processes, the human organization or even the overall scope and goals of the enterprise.
+    Coordinate business processes: requires precise modelling of the enterprise operation in terms of business processes, their relations with each other, with information, resources and organisation. This goes far beyond exchange of information and information sharing. It takes into account decisional capabilities and know-how within the enterprise for real time decision support and evaluation of operational alternatives.
+    Organize and adapt the enterprise: requires very detailed and up-to-date knowledge of both the current state of the enterprise operation and its environment (market, technology, society). Knowledge has to be available a priori and very well structured to allow easy identification of and access to relevant information.
+
+Identification and use of information
+Generalised Enterprise Reference Architecture and Methodology (GERAM) Framework for Enterprise Integration.
+Example of Enterprise integration: the US National Business Center's Human Resources Line of Business, Innovative Future Direction.
+
+Explicit knowledge on information needs during the operation of the enterprise can be provided by a model of the operational processes. A model which identifies the operational tasks, their required information supply and removal needs as well as the point in time of required information transactions. In order to enable consistent modelling of the enterprise operation the modelling process has to be guided and supported by a reference architecture, a methodology and IT based tools.[6]
+
+The Generalised Enterprise Reference Architecture and Methodology (GERAM) framework defined by the IFAC/IFIP Task Force provides the necessary guidance of the modelling process, see figure, and enables semantic unification of the model contents as well. The framework identifies the set of components necessary and helpful for enterprise modelling. The general concepts identified and defined in the reference architecture consist of life cycle, life history, model views among others. These concept help the user to create and maintain the process models of the operation and use them in her/his daily work. The modelling tools will support both model engineering and model use by providing an appropriate methodology and language for guiding the user and model representation, respectively.[6]
+Transfer of information
+
+To enable an integrated real time support of the operation, both the process descriptions and the actual information have to be available in real time for decision support, operation monitoring and control, and model maintenance.[6]
+
+The figure illustrates the concept of an integrating infrastructure linking the enterprise model to the real world systems. Integrating services act as a harmonising platform across the heterogeneous system environments (IT and others) and provide the necessary execution support for the model. The process dynamics captured in the enterprise model act as the control flow for model enactment. Therefore, access to information and its transfer to and from the location of use is controlled by the model and supported by the integrating infrastructure. The harmonising characteristics of the integrating infrastructure enables transfer of information across and beyond the organisation. Through the semantic unification of the modelling framework interoperability of enterprise models is assured as well.[6]
+Enterprise Integration Act of 2002
+
+The Public Law 107-277 (116 Stat. 1936-1938), known as the Enterprise Integration Act of 2002, authorizes the National Institute of Standards and Technology to work with major manufacturing industries on an initiative of standards development and implementation for electronic enterprise integration, etc. It requires the Director of the National Institute of Standards and Technology (NIST) to establish an initiative for advancing enterprise integration within the United States which shall:[7]
+
+    involve the various units of NIST, including NIST laboratories, the Manufacturing Extension Partnership program, and the Baldrige Performance Excellence Program, and consortia that include government and industry;
+    build upon ongoing efforts of NIST and the private sector; and
+    address the enterprise integration needs of each major U.S. manufacturing industry at the earliest possible date.
+
+See also
+
+    AMICE Consortium
+    Architecture of Integrated Information Systems
+    Architecture of Interoperable Information Systems
+    Integration Consortium
+    Canonical Model
+    CIMOSA
+    Configuration Management
+    Data integration
+    Enterprise application integration
+    Enterprise Information Integration
+    Generalised Enterprise Reference Architecture and Methodology
+    Semantic integration
+    Semantic Unification

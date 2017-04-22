@@ -1,0 +1,324 @@
+7
+Strategy&
+In the regulatory arena, new oversight requirements since the financial 
+crisis have expanded the categories of data that financial-services firms 
+need to manage, process, and disseminate. For example, new capital 
+and risk analytics will be required to efficiently manage Basel III and 
+Dodd-Frank. 
+Finally, consumer habits and expectations are changing rapidly, driving 
+some consumers to switch their banks and insurance providers. Social 
+sites such as Facebook, Twitter, and Pinterest have whetted people’s 
+appetite for more comprehensive information, and retail sites such as 
+Amazon and eBay are broadly influencing customer experience 
+expectations. Google and eBay are quickly entering into the payments 
+space, demonstrating how nontraditional competitors can enter the 
+landscape via a data advantage. 
+The end result for the industry will be a new group of high-margin 
+business opportunities. This is good news for the industry as a whole, 
+but it is also likely to attract outside firms with expertise in monetizing 
+data. Think of PayPal and Google Wallet as the first of these new 
+competitors. Companies from the computer industry could easily give 
+some established financial firms a run for their money. Strategy& 
+estimates that leading financial firms risk losing 10 percent or more of 
+their potential top-line revenue to nonfinancial competitors within the 
+next few years if they do not move aggressively to transform the 
+enterprise today.
+8
+Strategy&
+Five basic business models 
+The first step in seizing the opportunities of data monetization is 
+picking an appropriate business model for your data and analytics 
+transformation strategy. There are five basic models — five ways to use 
+data profitably and effectively (
+see Exhibit 2
+). Together they make up a 
+spectrum of activity for transforming your approach to information:
+• 
+Your current core business, improved through use of enhanced data
+• 
+Better return on your marketing investment using insights about 
+your customers or transactions
+Leverage enhanced 
+data for core 
+business
+Generate new 
+insights
+White-label 
+capabilities & 
+infrastructure
+Create new data
+Develop new businesses
+Enter adjacent businesses
+Enhance current business
+Create new offerings
+– 
+Seek opportunities to 
+enrich existing service 
+thr
+ough new data 
+sour
+ces
+– 
+Develop and leverage 
+new platforms 
+– 
+Deliver enhanced 
+services (e.g., in r
+eal 
+time) 
+– Understand deep client 
+insights
+– Enhance marketing 
+campaign ROI and 
+conversion 
+– Monetize existing 
+analytics capabilities via 
+white labeling to clients 
+and other partners 
+acr
+oss the value chain 
+– Commer
+cialize 
+infrastructur
+e to sell 
+platforms as a service 
+– Partner with adjacent 
+players acr
+oss the 
+business value chain
+– Identify new sour
+ces of 
+data (e.g., unstructur
+ed) 
+to join with existing data 
+sets 
+– Monetize new sets 
+of data 
+– Develop new sets 
+of analytics and 
+data pr
+oducts (e.g., 
+benchmarks, tools)
+– Develop new pr
+oducts 
+that benefit fr
+om 
+enhanced data and 
+analytics (e.g., re
+al-time 
+net asset value, active 
+non-disclosed exchange 
+traded funds) 
+Exhibit 2
+Data and analytics transformation spectrum
+Source: Strategy& 
+9
+Strategy&
+• 
+White-label capabilities and infrastructure delivered by other firms
+• 
+Delivery of new types of data directly to customers
+• 
+New products and services made possible by data and analytics 
+All these business models will generate incremental revenue. However, 
+some are more transformative than others — in other words, they are 
+more likely to reshape your business overall. Financial-services firms 
+that are creating new data and developing data and analytics products 
+are truly evolving into something more like a technology business. They 
+may even start to enjoy the higher valuation multiples associated with 
+technology and data firms. 
+Corporate leaders can ask themselves a series of questions to 
+understand where they would best fit on the data and analytics 
+transformation spectrum:
+1. 
+Does my firm have a strong product set but limited conversions, 
+cross-sells, or marketing results? 
+2. 
+Do I own the market in key categories but have trouble enticing 
+customers with new products? 
+3. 
+Do customers need my products in real time or integrated with 
+common industry platforms?
+4. 
+Is my firm’s accessible data robust? For example, do I see 20 percent 
+or more of the industry’s transactions or volume?
+5. 
+Can I partner with others to improve the quality, value, and delivery 
+of my data?
+6. 
+Can I use data to develop products and services in adjacent or new 
+business sectors?
+The answers to these questions will help a company identify the 
+best business model for its data and analytics transformation strategy 
+(
+see Exhibit 3, next page
+). Frequently, companies will pursue more than 
+one of these models to reach various customers and address different 
+needs.
+13
+Strategy&
+Case study: Tesco
+market adjacencies offer new opportunities to leverage your data. 
+For example, by understanding how merchants interact with order 
+management system vendors, a payments company can identify 
+potential partnerships and opportunities for its data. One merchant 
+might benefit from a better understanding of segment-specific demand 
+patterns; another might benefit from understanding sales volume by 
+time of day. To identify these relationships and opportunities, it’s 
+helpful to map the data ecosystem to see your adjacent relationships, 
+as well as those relationships’ adjacent relationships, and so on. 
+Size the value:
+ Understanding the market opportunity for 
+commercializing data is a key design principle. Each of these business 
+models can yield a substantial internal rate of return; indeed, each of 
+them can be self-funded with the right design. One reason is that 
+U.K.-based supermarket giant Tesco is a 
+prime example of a nonfinancial company 
+that’s using data to compete effectively 
+with traditional financial players. Until 
+2008, the company ran Tesco Bank as a 
+50/50 joint venture with the Royal Bank 
+of Scotland. That year Tesco bought out 
+RBS and began developing a completely 
+new infrastructure for the business, 
+built a new team, and brought in new 
+expertise. The transition was not always 
+smooth — for instance, online customers 
+were locked out of accounts for several 
+days in 2011 when Tesco moved data 
+from the RBS systems to its own — but 
+it’s now complete. To fully exploit this 
+treasure trove of data, the company took 
+a significant stake in Dunnhumby, a U.K. 
+data mining firm that will help Tesco 
+monetize the consumer data from both 
+the retail and banking operations. 
+At its core, Tesco Bank is underpinned by 
+the Clubcard. The insights the bank gains 
+from the Clubcard customer data allow 
+the company to understand customer 
+needs and make the most relevant offers 
+in the store and in the bank. The Clubcard 
+credit card rewards customers with points 
+whenever they use their card — one 
+Clubcard point for every £4 (US$6.12) 
+spent. Clubcard customers can also receive 
+preferential deals when buying Tesco Bank 
+products — including discounts on car, 
+home, pet, and travel insurance — and can 
+use points to buy Tesco Bank insurance. 
+This year, Tesco Bank gave customers 
+around £70 million (US$107 million) 
+worth of points to spend in the store or 
+on Clubcard rewards. In terms of systems 
+and IT, Tesco’s new platforms significantly 
+improve customer service. Instant decisions 
+are now possible on loan applications, 
+and customers can open and fund savings 
+accounts in just 10 minutes rather than the 
+two weeks required in the past. 
+The conversion is still in its early days, 
+but Tesco’s efforts are paying dividends 
+in the form of increased market share 
+across a range of products. In 2009, Tesco 
+Bank credit cards made up 9 percent 
+of all MasterCard and Visa credit card 
+transactions in the U.K., and by 2012 
+that figure had grown to 12 percent. 
+Meanwhile, from 2008 to 2012, the 
+company’s car insurance gross written 
+premiums increased by 39 percent and 
+pet insurance gross written premiums 
+rose 44 percent.
+14
+Strategy&
+investing to digitize your business can save 25 to 35 percent in 
+operating costs. To size value, you need to understand your competitors 
+and your own key inputs — such as the various costs — as well as the 
+marketplace demand for the data products.
+Enhance the infrastructure: 
+At the foundation of the data strategy must 
+be an information technology infrastructure that is sophisticated, 
+transparent, and flexible enough for a company to unlock the value of 
+its data. At a minimum, the infrastructure needs to provide single 
+sources of data truth, real-time data for messaging and transactions that 
+can be monetized (even without additional analytics), and a highly 
+available infrastructure.
+These five core design principles should guide your practice as you 
+design and execute your strategy for monetizing data. You will invest 
+and manage a host of new activities (
+see Exhibit 4
+). They will enable you 
+to build the capabilities you need for the data gold rush. 
+Exhibit 4
+Building capabilities for the data gold rush
+Source: Strategy& 
+Investment in 
+continuous 
+improvement
+Cataloging & 
+mapping 
+existing data
+Developing 
+insight 
+adjacencies
+Combining 
+structured & 
+unstructured data
+Building data 
+infrastructure
+- Invest in continuous lear
+ning and management of clients’ or customers’ unmet needs acr
+oss the value chain.
+- Truly understand the delivery and integration models that clients r
+equire
+ to benefit fr
+om enhancements to 
+products or new pr
+oducts and services.
+- Understand, catalog, and map data housed acr
+oss all business lines.
+- Map data and analytics services acr
+oss business units to understand what types of capabilities can be 
+leveraged to build new pr
+oducts and services. 
+- Determine additional opportunities acr
+oss the value chain by developing insights into adjacencies, for both 
+data and partners.
+- Create a compr
+ehensive view of the data ecosystem.
+- Combine “inter
+nally owned” structur
+ed data with both inte
+rnal and exter
+nally sour
+ced semi-structur
+ed and 
+unstructur
+ed data, market data, telemetry data, etc.
+- Seek out opportunities to enhance the cor
+e business or develop new pr
+oducts and services.
+- Put in place a data infrastructur
+e that can pr
+ovide the necessary foundation to enable the or
+ganization to 
+unlock the value of data assets. 
+- Continue to evaluate cor
+e capabilities to determine what suits the particular situation best
+.
+15
+Strategy&
+Conclusion
+Most financial-services companies still don’t think of their data as an 
+asset they can monetize if they build the right capabilities. They’re 
+overlooking an opportunity in plain sight. Not only can they make 
+better use of their data to enhance products and services for current 
+clients, but new technologies now allow them to take the next step and 
+combine their data with external data. This marriage will create 
+powerful new insights into the customer and supply base and could 
+transform the enterprise, unleashing a whole new generation of high-
+margin products and services for current customers and customers in 
+adjacent markets. The enormous revenue potential will not go ignored 
+by others. If financial-services firms don’t embark on data-led 
+transformations to seize this opportunity, more nimble nonfinancial 

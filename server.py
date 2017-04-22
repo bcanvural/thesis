@@ -16,7 +16,7 @@ db = client['thesis-database']
 def get_max_catid():
     return db['allcategories'].find().sort("catid", -1).limit(1)[0]["catid"]
 def validate_method(method):
-    if method not in ['tfidf', 'tfidf2', 'word2vec', 'countvectorizer', 'word2vec2']:
+    if method not in ['tfidf', 'word2vec', 'countvectorizer']:
         raise
 def validate_cats(cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5):
     #make sure they are distinct
@@ -89,7 +89,7 @@ def graph_data():
             pagenum = int(json_data['pagenum'])
             PAGESIZE = 6
             #get job-category similarities
-            similarity_str = 'distance' if method in ['word2vec', 'word2vec2'] else 'similarity'
+            similarity_str = 'distance' if method in ['word2vec'] else 'similarity'
             job_cat_1_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_1})[similarity_str]
             job_cat_2_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_2})[similarity_str]
             job_cat_3_sim = db[method +'-job-category'].find_one({"jobid": job_id, "catid": cat_id_3})[similarity_str]
@@ -98,7 +98,7 @@ def graph_data():
 
             job_diff_obj = {}
             #convert similarities to "distances" in the cases of tfidf,tfidf2,countvectorizer
-            if method in ['tfidf', 'tfidf2', 'countvectorizer']:
+            if method in ['tfidf', 'countvectorizer']:
                 job_diff_obj = {"jobid": job_id, "cat_1_diff": 1 - job_cat_1_sim, "cat_2_diff": 1 - job_cat_2_sim, "cat_3_diff": \
                 1 - job_cat_3_sim, "cat_4_diff": 1 - job_cat_4_sim, "cat_5_diff": 1 - job_cat_5_sim}
             else:
@@ -107,7 +107,7 @@ def graph_data():
 
             #Fetch 5 best CVs for this job
             cv_differences = []
-            cvs = db[method + '-job-cv'].find({"jobid": job_id}).sort(similarity_str, 1 if method in ['word2vec', 'word2vec2'] else -1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
+            cvs = db[method + '-job-cv'].find({"jobid": job_id}).sort(similarity_str, 1 if method in ['word2vec'] else -1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
             if cvs.count() == 0:
                 return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
             for cv in cvs:
@@ -117,7 +117,7 @@ def graph_data():
                 cv_cat_3_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_3})[similarity_str]
                 cv_cat_4_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_4})[similarity_str]
                 cv_cat_5_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_5})[similarity_str]
-                if method in ['tfidf', 'tfidf2', 'countvectorizer']:
+                if method in ['tfidf', 'countvectorizer']:
                     cv_obj["cat_1_diff"] = 1 - cv_cat_1_sim
                     cv_obj["cat_2_diff"] = 1 - cv_cat_2_sim
                     cv_obj["cat_3_diff"] = 1 - cv_cat_3_sim

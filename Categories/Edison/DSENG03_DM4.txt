@@ -1,0 +1,160 @@
+
+
+
+A decision support system (DSS) is a computer-based information system that supports business or organizational decision-making activities. DSSs serve the management, operations, and planning levels of an organization (usually mid and higher management) and help people make decisions about problems that may be rapidly changing and not easily specified in advance—i.e. Unstructured and Semi-Structured decision problems. Decision support systems can be either fully computerized, human-powered or a combination of both.
+
+While academics have perceived DSS as a tool to support decision making process, DSS users see DSS as a tool to facilitate organizational processes.[1] Some authors have extended the definition of DSS to include any system that might support decision making.[2] Sprague (1980) defines DSS by its characteristics:
+
+    DSS tends to be aimed at the less well structured, underspecified problem that upper level managers typically face;
+    DSS attempts to combine the use of models or analytic techniques with traditional data access and retrieval functions;
+    DSS specifically focuses on features which make them easy to use by noncomputer people in an interactive mode; and
+    DSS emphasizes flexibility and adaptability to accommodate changes in the environment and the decision making approach of the user.
+
+DSSs include knowledge-based systems. A properly designed DSS is an interactive software-based system intended to help decision makers compile useful information from a combination of raw data, documents, and personal knowledge, or business models to identify and solve problems and make decisions.
+
+Typical information that a decision support application might gather and present includes:
+
+    inventories of information assets (including legacy and relational data sources, cubes, data warehouses, and data marts),
+    comparative sales figures between one period and the next,
+    projected revenue figures based on product sales assumptions.
+
+DSSs are often contrasted with more automated decision-making systems known as Decision Management Systems.[3]
+
+Contents
+
+    1 History
+    2 Taxonomies
+    3 Components
+    4 Development frameworks
+    5 Classification
+    6 Applications
+    7 See also
+    8 References
+    9 Further reading
+
+History
+
+The concept of decision support has evolved from two main areas of research: The theoretical studies of organizational decision making done at the Carnegie Institute of Technology during the late 1950s and early 1960s, and the technical work on Technology in the 1960s.[4] DSS became an area of research of its own in the middle of the 1970s, before gaining in intensity during the 1980s. In the middle and late 1980s, executive information systems (EIS), group decision support systems (GDSS), and organizational decision support systems (ODSS) evolved from the single user and model-oriented DSS.
+
+According to Sol (1987)[5] the definition and scope of DSS has been migrating over the years. In the 1970s DSS was described as "a computer-based system to aid decision making". In the late 1970s the DSS movement started focusing on "interactive computer-based systems which help decision-makers utilize data bases and models to solve ill-structured problems". In the 1980s DSS should provide systems "using suitable and available technology to improve effectiveness of managerial and professional activities", and towards the end of 1980s DSS faced a new challenge towards the design of intelligent workstations.[5]
+
+In 1987, Texas Instruments completed development of the Gate Assignment Display System (GADS) for United Airlines. This decision support system is credited with significantly reducing travel delays by aiding the management of ground operations at various airports, beginning with O'Hare International Airport in Chicago and Stapleton Airport in Denver Colorado.[6] Beginning in about 1990, data warehousing and on-line analytical processing (OLAP) began broadening the realm of DSS. As the turn of the millennium approached, new Web-based analytical applications were introduced.
+
+The advent of more and better reporting technologies has seen DSS start to emerge as a critical component of management design. Examples of this can be seen in the intense amount of discussion of DSS in the education environment.
+
+DSS also have a weak connection to the user interface paradigm of hypertext. Both the University of Vermont PROMIS system (for medical decision making) and the Carnegie Mellon ZOG/KMS system (for military and business decision making) were decision support systems which also were major breakthroughs in user interface research. Furthermore, although hypertext researchers have generally been concerned with information overload, certain researchers, notably Douglas Engelbart, have been focused on decision makers in particular.
+Taxonomies
+
+Using the relationship with the user as the criterion, Haettenschwiler[7] differentiates passive, active, and cooperative DSS. A passive DSS is a system that aids the process of decision making, but that cannot bring out explicit decision suggestions or solutions. An active DSS can bring out such decision suggestions or solutions. A cooperative DSS allows the decision maker (or its advisor) to modify, complete, or refine the decision suggestions provided by the system, before sending them back to the system for validation. The system again improves, completes, and refines the suggestions of the decision maker and sends them back to them for validation. The whole process then starts again, until a consolidated solution is generated.
+
+Another taxonomy for DSS has been created by Daniel Power. Using the mode of assistance as the criterion, Power differentiates communication-driven DSS, data-driven DSS, document-driven DSS, knowledge-driven DSS, and model-driven DSS.[8]
+
+    A communication-driven DSS supports more than one person working on a shared task; examples include integrated tools like Google Docs or Groove[9]
+    A data-driven DSS or data-oriented DSS emphasizes access to and manipulation of a time series of internal company data and, sometimes, external data.
+    A document-driven DSS manages, retrieves, and manipulates unstructured information in a variety of electronic formats.
+    A knowledge-driven DSS provides specialized problem-solving expertise stored as facts, rules, procedures, or in similar structures.[8]
+    A model-driven DSS emphasizes access to and manipulation of a statistical, financial, optimization, or simulation model. Model-driven DSS use data and parameters provided by users to assist decision makers in analyzing a situation; they are not necessarily data-intensive. Dicodess is an example of an open source model-driven DSS generator.[10]
+
+Using scope as the criterion, Power[11] differentiates enterprise-wide DSS and desktop DSS. An enterprise-wide DSS is linked to large data warehouses and serves many managers in the company. A desktop, single-user DSS is a small system that runs on an individual manager's PC.
+Components
+Design of a drought mitigation decision support system
+
+Three fundamental components of a DSS architecture are:[7][8][12][13][14]
+
+    the database (or knowledge base),
+    the model (i.e., the decision context and user criteria)
+    the user interface.
+
+The users themselves are also important components of the architecture.[7][14]
+Development frameworks
+
+DSS systems are not entirely different from other systems and require a structured approach. Such a framework includes people, technology, and the development approach.[12]
+
+The Early Framework of Decision Support System consists of four phases:
+
+Intelligence Searching for conditions that call for decision.
+
+Design Developing and analyzing possible alternative actions of solution.
+
+Choice Selecting a course of action among those.
+
+Implementation Adopting the selected course of action in decision situation.
+
+DSS technology levels (of hardware and software) may include:
+
+    The actual application that will be used by the user. This is the part of the application that allows the decision maker to make decisions in a particular problem area. The user can act upon that particular problem.
+    Generator contains Hardware/software environment that allows people to easily develop specific DSS applications. This level makes use of case tools or systems such as Crystal, Analytica and iThink.
+    Tools include lower level hardware/software. DSS generators including special languages, function libraries and linking modules
+
+An iterative developmental approach allows for the DSS to be changed and redesigned at various intervals. Once the system is designed, it will need to be tested and revised where necessary for the desired outcome.
+Classification
+
+There are several ways to classify DSS applications. Not every DSS fits neatly into one of the categories, but may be a mix of two or more architectures.
+
+Holsapple and Whinston[15] classify DSS into the following six frameworks: text-oriented DSS, database-oriented DSS, spreadsheet-oriented DSS, solver-oriented DSS, rule-oriented DSS, and compound DSS.
+
+A compound DSS is the most popular classification for a DSS. It is a hybrid system that includes two or more of the five basic structures described by Holsapple and Whinston.[15]
+
+The support given by DSS can be separated into three distinct, interrelated categories:[16] Personal Support, Group Support, and Organizational Support.
+
+DSS components may be classified as:
+
+    Inputs: Factors, numbers, and characteristics to analyze
+    User Knowledge and Expertise: Inputs requiring manual analysis by the user
+    Outputs: Transformed data from which DSS "decisions" are generated
+    Decisions: Results generated by the DSS based on user criteria
+
+DSSs which perform selected cognitive decision-making functions and are based on artificial intelligence or intelligent agents technologies are called Intelligent Decision Support Systems (IDSS)[17]
+
+The nascent field of Decision engineering treats the decision itself as an engineered object, and applies engineering principles such as Design and Quality assurance to an explicit representation of the elements that make up a decision.
+Applications
+
+As mentioned above, there are theoretical possibilities of building such systems in any knowledge domain.
+
+One is the clinical decision support system for medical diagnosis. There are four stages in the evolution of clinical decision support system (CDSS). The primitive version is standalone which does not support integration. The second generation of CDSS supports integration with other medical systems. The third generation is standard-based while the fourth is service model-based.[18]
+
+Other examples include a bank loan officer verifying the credit of a loan applicant or an engineering firm that has bids on several projects and wants to know if they can be competitive with their costs.
+
+DSS is extensively used in business and management. Executive dashboard and other business performance software allow faster decision making, identification of negative trends, and better allocation of business resources. Due to DSS all the information from any organization is represented in the form of charts, graphs i.e. in a summarized way, which helps the management to take strategic decision. For example, one of the DSS applications is the management and development of complex anti-terrorism systems.[19]
+
+A growing area of DSS application, concepts, principles, and techniques is in agricultural production, marketing for sustainable development. For example, the DSSAT4 package,[20][21] developed through financial support of USAID during the 80s and 90s, has allowed rapid assessment of several agricultural production systems around the world to facilitate decision-making at the farm and policy levels. There are, however, many constraints to the successful adoption on DSS in agriculture.[22]
+
+DSS are also prevalent in forest management where the long planning horizon and the spatial dimension of planning problems demands specific requirements. All aspects of Forest management, from log transportation, harvest scheduling to sustainability and ecosystem protection have been addressed by modern DSSs. In this context the consideration of single or multiple management objectives related to the provision of goods and services that traded or non-traded and often subject to resource constraints and decision problems. The Community of Practice of Forest Management Decision Support Systems provides a large repository on knowledge about the construction and use of forest Decision Support Systems.[23]
+
+A specific example concerns the Canadian National Railway system, which tests its equipment on a regular basis using a decision support system. A problem faced by any railroad is worn-out or defective rails, which can result in hundreds of derailments per year. Under a DSS, CN managed to decrease the incidence of derailments at the same time other companies were experiencing an increase.
+See also
+Recommender systems
+Concepts
+
+    Collective intelligence Relevance Star ratings Long tail 
+
+Methods and challenges
+
+    Cold start Collaborative filtering Dimensionality reduction Implicit data collection Item-item collaborative filtering Preference elicitation Similarity search 
+
+Implementations
+
+    Collaborative search engine Content discovery platform Decision support system Music Genome Project Product finder 
+
+Research
+
+    GroupLens Research MovieLens Netflix Prize 
+
+    v t e 
+
+	Wikimedia Commons has media related to Decision support systems.
+
+    Clinical decision support system
+    Spatial decision support system
+    Land Allocation Decision Support System
+    Decision engineering
+    Decision-making software
+    Decision theory
+    Enterprise Decision Management
+    Expert system
+    Judge–advisor system
+    Morphological analysis (problem-solving)
+    Online deliberation
+    Predictive analytics
+    Self service software
+

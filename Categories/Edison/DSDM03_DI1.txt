@@ -1,0 +1,36 @@
+Core data integration
+From Wikipedia, the free encyclopedia
+	This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2007) (Learn how and when to remove this template message)
+
+Core data integration is the use of data integration technology for a significant, centrally planned and managed IT initiative within a company. Examples of core data integration initiatives could include:
+
+    ETL (Extract, transform, load) implementations
+    EAI (Enterprise Application Integration) implementations
+    SOA (Service-Oriented Architecture) implementations
+    ESB (Enterprise Service Bus) implementations
+
+Core data integrations are often designed to be enterprise-wide integration solutions. They may be designed to provide a data abstraction layer, which in turn will be used by individual core data integration implementations, such as ETL servers or applications integrated through EAI.
+
+Because it is difficult to promptly roll out a centrally managed data integration solution that anticipates and meets all data integration requirements across an organization, IT engineers and even business users create edge data integration, using technology that may be incompatible with that used at the core. In contrast to a core data integration, an edge data integration is not centrally planned and is generally completed with a smaller budget and a tighter deadline.
+See also
+
+    data integration
+    edge data integration
+An edge data integration is an implementation of data integration technology undertaken in an ad hoc or tactical fashion. This is also sometimes referred to as point-to-point integration because it connects two types of data directly to serve a narrow purpose. Many edge integrations, and actually the vast majority of all data integration, involves hand-coded scripts. Some may take the form of Business Mashups (web application hybrids), Rich Internet applications, or other browser-based models that take advantage of Web 2.0 technologies to combine data in a Web browser.
+
+Examples of edge data integration projects might be:
+
+    extracting a list of customers from a host Sales Force Automation application and writing the results to an Excel spreadsheet
+    creating a script-driven framework for managing RSS feeds
+    combining data from a weather Web site, a shipping company's Web site, and a company's internal logistics database to track shipments and estimated arrival times of packages
+
+It has been claimed that edge data integration do not typically require large budgets and centrally managed technologies, which is in contrast to a core data integration.
+See also
+
+    core data integration
+    Business Mashups
+    Rich Internet application
+    Web 2.0
+    Yahoo! Pipes
+    Microsoft Popfly
+    IBM Mashup Center

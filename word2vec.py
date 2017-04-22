@@ -1,12 +1,19 @@
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *
+import numpy as np
+
+def normalize(vec):
+    norm=np.linalg.norm(vec)
+    if norm == 0:
+       return vec
+    return vec/norm
+    # return vec
 
 def calculate_distance(vec1, vec2):
     from scipy import spatial
-    return float(spatial.distance.euclidean(vec1, vec2))
-    # result = spatial.distance.cosine(vec1, vec2)
-    # return 1 - float(result)
+    result = spatial.distance.cosine(vec1, vec2)
+    return 1 - float(result)
 
 def main():
     spark = SparkSession.builder \
@@ -36,8 +43,20 @@ def main():
 
     word2Vec = Word2Vec(vectorSize=VECTOR_SIZE, minCount=0, inputCol="filtered", outputCol="result")
     model = word2Vec.fit(removed)
-    result = model.transform(removed)
-
+    resultDF = model.transform(removed)
+    result = resultDF.rdd.map(lambda row: (row.text, row.id, row.type, row.words, row.filtered, normalize(row.result)))\
+    .toDF(["text", "id", "type", "words", "filtered", "result"])
+#     text: string (nullable = true)
+#  |-- id: long (nullable = true)
+#  |-- type: string (nullable = false)
+#
+#  |-- words: array (nullable = true)
+#  |    |-- element: string (containsNull = true)
+#  |-- filtered: array (nullable = true)
+#  |    |-- element: string (containsNull = true)
+#  |-- result: vector (nullable = true)
+    #
+    #
     result.registerTempTable("resultTable")
     jobs = spark.sql("SELECT result AS jobsVec, id AS jobId FROM resultTable WHERE type = 'job'")
     cvs = spark.sql("SELECT result AS cvsVec, id AS cvid FROM resultTable WHERE type = 'cv'")

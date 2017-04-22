@@ -1,0 +1,360 @@
+In library and archival science, digital preservation is a formal endeavor to ensure that digital information of continuing value remains accessible and usable.[1] It involves planning, resource allocation, and application of preservation methods and technologies,[2] and it combines policies, strategies and actions to ensure access to reformatted and "born-digital" content, regardless of the challenges of media failure and technological change. The goal of digital preservation is the accurate rendering of authenticated content over time.[3] According to the Harrod's Librarian Glossary, digital preservation is the method of keeping digital material alive so that they remain usable as technological advances render original hardware and software specification obsolete (Nabeela). [4]
+
+Contents
+
+    1 Preservation fundamentals
+        1.1 Appraisal
+        1.2 Identification (identifiers and descriptive metadata)
+        1.3 Integrity
+            1.3.1 Fixity
+        1.4 Characterization
+        1.5 Sustainability
+            1.5.1 Renderability
+            1.5.2 Physical media obsolescence
+            1.5.3 Format obsolescence
+            1.5.4 Significant properties
+        1.6 Authenticity
+        1.7 Access
+        1.8 Preservation metadata
+    2 Intellectual foundations of digital preservation
+        2.1 Preserving Digital Information (1996)
+        2.2 OAIS
+        2.3 Trusted Digital Repository Model
+        2.4 InterPARES
+    3 Challenges of digital preservation
+    4 Strategies
+        4.1 Refreshing
+        4.2 Migration
+        4.3 Replication
+        4.4 Emulation
+        4.5 Encapsulation
+        4.6 Persistent Archives concept
+        4.7 Metadata attachment
+    5 Preservation repository assessment and certification
+        5.1 Specific tools and methodologies
+            5.1.1 TRAC
+            5.1.2 DRAMBORA
+            5.1.3 European Framework for Audit and Certification of Digital Repositories
+            5.1.4 nestor Catalogue of Criteria
+            5.1.5 PLANETS Project
+            5.1.6 PLATTER
+            5.1.7 Audit and Certification of Trustworthy Digital Repositories (ISO 16363)
+    6 Digital preservation best practices
+        6.1 Audio preservation
+        6.2 Moving image preservation
+        6.3 Email preservation
+        6.4 Video game preservation
+        6.5 Personal archiving
+    7 Education for digital preservation
+    8 Examples of digital preservation initiatives
+    9 Large-scale digital preservation initiatives
+    10 See also
+    11 Footnotes
+    12 References
+    13 External links
+
+Preservation fundamentals
+Appraisal
+
+Archival appraisal (or, alternatively, selection[5]) refers to the process of identifying records and other materials to be preserved by determining their permanent value. Several factors are usually considered when making this decision.[6] It is a difficult and critical process because the remaining selected records will shape researchers’ understanding of that body of records, or fonds. Appraisal is identified as A4.2 within the Chain of Preservation (COP) model[7] created by the InterPARES 2 project.[8] Archival appraisal is not the same as monetary appraisal, which determines fair market value.
+
+Archival appraisal may be performed once or at the various stages of acquisition and processing. Macro appraisal,[9] a functional analysis of records at a high level, may be performed even before the records have been acquired to determine which records to acquire. More detailed, iterative appraisal may be performed while the records are being processed.
+
+Appraisal is performed on all archival materials, not just digital. It has been proposed that, in the digital context, it might be desirable to retain more records than have traditionally been retained after appraisal of analog records, primarily due to a combination of the declining cost of storage and the availability of sophisticated discovery tools which will allow researchers to find value in records of low information density.[10][11] In the analog context, these records may have been discarded or only a representative sample kept. However, the selection, appraisal, and prioritization of materials must be carefully considered in relation to the ability of an organization to responsibly manage the totality of these materials.
+
+Often libraries, and to a lesser extent, archives, are offered the same materials in several different digital or analog formats. They prefer to select the format that they feel has the greatest potential for long-term preservation of the content. The Library of Congress has created a set of recommended formats for long-term preservation.[12] They would be used, for example, if the Library was offered items for copyright deposit directly from a publisher.
+Identification (identifiers and descriptive metadata)
+
+In digital preservation and collection management, discovery and identification of objects is aided by the use of assigned identifiers and accurate descriptive metadata. An identifier is a unique label that is used to reference an object or record, usually manifested as a number or string of numbers and letters. As a crucial element of metadata to be included in a database record or inventory, it is used in tandem with other descriptive metadata to differentiate objects and their various instantiations.[13]
+
+Descriptive metadata refers to information about an object's content such as title, creator, subject, date etc...[13] Determination of the elements used to describe an object are facilitated by the use of a metadata schema.
+
+Another common type of file identification is the filename. Implementing a file naming protocol is essential to maintaining consistency and efficient discovery and retrieval of objects in a collection, and is especially applicable during digitization of analog media. Using a file naming convention, such as the 8.3 filename, will ensure compatibility with other systems and facilitate migration of data, and deciding between descriptive (containing descriptive words and numbers) and non-descriptive (often randomly generated numbers) file names is generally determined by the size and scope of a given collection.[14] However, filenames are not good for semantic identification, because they are non-permanent labels for a specific location on a system and can be modified without affecting the bit-level profile of a digital file.
+Integrity
+
+Data integrity provides the cornerstone of digital preservation, representing the intent to “ensure data is recorded exactly as intended [...] and upon later retrieval, ensure the data is the same as it was when it was originally recorded.” Unintentional changes to data are to be avoided, and responsible strategies put in place to detect unintentional changes and react as appropriately determined.
+
+However, digital preservation efforts may necessitate modifications to content or metadata through responsibly-developed procedures and by well-documented policies. Organizations or individuals may choose to retain original, integrity-checked versions of content and/or modified versions with appropriate preservation metadata. Data integrity practices also apply to modified versions, as their state of capture must be maintained and resistant to unintentional modifications.
+Fixity
+
+File fixity is the property of a digital file being fixed, or unchanged. File fixity checking is the process of validating that a file has not changed or been altered from a previous state.[15] This effort is often enabled by the creation, validation, and management of checksums.
+
+While checksums are the primary mechanism for monitoring fixity at the individual file level, an important additional consideration for monitoring fixity is file attendance. Whereas checksums identify if a file has changed, file attendance identifies if a file in a designated collection is newly created, deleted, or moved. Tracking and reporting on file attendance is a fundamental component of digital collection management and fixity.
+Characterization
+
+Characterization of digital materials is the identification and description of what a file is and of its defining technical characteristics [16] often captured by technical metadata, which records its technical attributes like creation or production environment.[17]
+Sustainability
+
+Digital sustainability encompasses a range of issues and concerns that contribute to the longevity of digital information.[18] Unlike traditional, temporary strategies, and more permanent solutions, digital sustainability implies a more active and continuous process. Digital sustainability concentrates less on the solution and technology and more on building an infrastructure and approach that is flexible with an emphasis on interoperability, continued maintenance and continuous development.[19] Digital sustainability incorporates activities in the present that will facilitate access and availability in the future.[20][21] The ongoing maintenance necessary to digital preservation is analogous to the successful, centuries-old, community upkeep of the Uffington White Horse (according to Stuart M. Shieber) or the Ise Grand Shrine (according to Jeffrey Schnapp).[22][23]
+Renderability
+
+Renderability refers to the continued ability to use and access a digital object while maintaining its inherent significant properties.[24]
+Physical media obsolescence
+
+Physical media obsolescence can occur when access to digital content requires external dependencies that are no longer manufactured, maintained, or supported. External dependencies can refer to hardware, software, or physical carriers.
+Format obsolescence
+
+File format obsolescence can occur when adoption of new encoding formats supersedes use of existing formats, or when associated presentation tools are no longer readily available.[25]
+
+Factors that should enter consideration when selecting sustainable file formats include disclosure, adoption, transparency, self-documentation, external dependencies, impact of patents, and technical protection mechanisms.[26]
+
+Formats proprietary to one software vendor are more likely to be affected by format obsolescence. Well-used standards such as Unicode and JPEG are more likely to be readable in future.
+Significant properties
+
+Significant properties refer to the "essential attributes of a digital object which affect its appearance, behavior, quality and usability" and which "must be preserved over time for the digital object to remain accessible and meaningful."[27]
+
+"Proper understanding of the significant properties of digital objects is critical to establish best practice approaches to digital preservation. It assists appraisal and selection, processes in which choices are made about which significant properties of digital objects are worth preserving; it helps the development of preservation metadata, the assessment of different preservation strategies and informs future work on developing common standards across the preservation community."[28]
+Authenticity
+
+Whether analog or digital, archives strive to maintain records as trustworthy representations of what was originally received. Authenticity has been defined as “. . . the trustworthiness of a record as a record; i.e., the quality of a record that is what it purports to be and that is free from tampering or corruption”.[29] Authenticity should not be confused with accuracy;[30] an inaccurate record may be acquired by an archives and have its authenticity preserved. The content and meaning of that inaccurate record will remain unchanged.
+
+A combination of policies, security procedures, and documentation can be used to ensure and provide evidence that the meaning of the records has not been altered while in the archives’ custody.
+Access
+
+Digital preservation efforts are largely to enable decision-making in the future. Should an archive or library choose a particular strategy to enact, the content and associated metadata must persist to allow for actions to be taken or not taken at the discretion of the controlling party.
+Preservation metadata
+
+Preservation metadata is a key component of digital preservation, and includes information that documents the preservation process. It supports collection management practices and allows organizations or individuals to understand the chain of custody. Preservation Metadata: Implementation Strategies (PREMIS), an international working group, sought to “define implementable, core preservation metadata, with guidelines/recommendations” to support digital preservation efforts by clarifying what the metadata is and its usage.
+Intellectual foundations of digital preservation
+Preserving Digital Information (1996)
+
+The challenges of long-term preservation of digital information have been recognized by the archival community for years.[31] In December 1994, the Research Libraries Group (RLG) and Commission on Preservation and Access (CPA) formed a Task Force on Archiving of Digital Information with the main purpose of investigating what needed to be done to ensure long-term preservation and continued access to the digital records. The final report published by the Task Force (Garrett, J. and Waters, D., ed. (1996). “Preserving digital information: Report of the task force on archiving of digital information.”[32]) became a fundamental document in the field of digital preservation that helped set out key concepts, requirements, and challenges.[31][33]
+
+The Task Force proposed development of a national system of digital archives that would take responsibility for long-term storage and access to digital information; introduced the concept of trusted digital repositories and defined their roles and responsibilities; identified five features of digital information integrity (content, fixity, reference, provenance, and context) that were subsequently incorporated into a definition of Preservation Description Information in the Open Archival Information System Reference Model; and defined migration as a crucial function of digital archives. The concepts and recommendations outlined in the report laid a foundation for subsequent research and digital preservation initiatives.[34][35]
+OAIS
+
+To standardize digital preservation practice and provide a set of recommendations for preservation program implementation, the Reference Model for an Open Archival Information System (OAIS) was developed. OAIS is concerned with all technical aspects of a digital object’s life cycle: ingest, archival storage, data management, administration, access and preservation planning.[36] The model also addresses metadata issues and recommends that five types of metadata be attached to a digital object: reference (identification) information, provenance (including preservation history), context, fixity (authenticity indicators), and representation (formatting, file structure, and what "imparts meaning to an object’s bitstream").[37]
+Trusted Digital Repository Model
+
+In March 2000, the Research Libraries Group (RLG) and Online Computer Library Center (OCLC) began a collaboration to establish attributes of a digital repository for research organizations, building on and incorporating the emerging international standard of the Reference Model for an Open Archival Information System (OAIS). In 2002, they published “Trusted Digital Repositories: Attributes and Responsibilities.” In that document a “Trusted Digital Repository” (TDR) is defined as "one whose mission is to provide reliable, long-term access to managed digital resources to its designated community, now and in the future." The TDR must include the following seven attributes: compliance with the reference model for an Open Archival Information System (OAIS), administrative responsibility, organizational viability, financial sustainability, technological and procedural suitability, system security, procedural accountability. The Trusted Digital Repository Model outlines relationships among these attributes. The report also recommended the collaborative development of digital repository certifications, models for cooperative networks, and sharing of research and information on digital preservation with regard to intellectual property rights.[38]
+
+In 2004 Henry M. Gladney proposed another approach to digital object preservation that called for the creation of “Trustworthy Digital Objects” (TDOs). TDOs are digital objects that can speak to their own authenticity since they incorporate a record maintaining their use and change history, which allows the future users to verify that the contents of the object are valid.[39]
+InterPARES
+
+International Research on Permanent Authentic Records in Electronic Systems (InterPARES) is a collaborative research initiative led by the University of British Columbia that is focused on addressing issues of long-term preservation of authentic digital records. The research is being conducted by focus groups from various institutions in North America, Europe, Asia, and Australia, with an objective of developing theories and methodologies that provide the basis for strategies, standards, policies, and procedures necessary to ensure the trustworthiness, reliability, and accuracy of digital records over time.[40]
+
+Under the direction of archival science professor Luciana Duranti, the project began in 1999 with the first phase, InterPARES 1, which ran to 2001 and focused on establishing requirements for authenticity of inactive records generated and maintained in large databases and document management systems created by government agencies.[41] InterPARES 2 (2002–2007) concentrated on issues of reliability, accuracy and authenticity of records throughout their whole life cycle, and examined records produced in dynamic environments in the course of artistic, scientific and online government activities.[42] The third five-year phase (InterPARES 3) was initiated in 2007. Its goal is to utilize theoretical and methodological knowledge generated by InterPARES and other preservation research projects for developing guidelines, action plans, and training programs on long-term preservation of authentic records for small and medium-sized archival organizations.[43]
+Challenges of digital preservation
+
+Society's heritage has been presented on many different materials, including stone, vellum, bamboo, silk, and paper. Now a large quantity of information exists in digital forms, including emails, blogs, social networking websites, national elections websites, web photo albums, and sites which change their content over time.[44] With digital media it is easier to create content and keep it up-to-date, but at the same time there are many challenges in the preservation of this content, both technical and economic.[45]
+
+Unlike traditional analog objects such as books or photographs where the user has unmediated access to the content, a digital object always needs a software environment to render it. These environments keep evolving and changing at a rapid pace, threatening the continuity of access to the content.[46] Physical storage media, data formats, hardware, and software all become obsolete over time, posing significant threats to the survival of the content.[3] This process can be referred to as digital obsolescence.
+
+In the case of born-digital content (e.g., institutional archives, Web sites, electronic audio and video content, born-digital photography and art, research data sets, observational data), the enormous and growing quantity of content presents significant scaling issues to digital preservation efforts. Rapidly changing technologies can hinder digital preservationists work and techniques due to outdated and antiquated machines or technology. This has become a common problem and one that is a constant worry for a digital archivist—how to prepare for the future.
+
+Digital content can also present challenges to preservation because of its complex and dynamic nature, e.g., interactive Web pages, virtual reality and gaming environments,[47] learning objects, social media sites.[48] In many cases of emergent technological advances there are substantial difficulties in maintaining the authenticity, fixity, and integrity of objects over time deriving from the fundamental issue of experience with that particular digital storage medium and while particular technologies may prove to be more robust in terms of storage capacity, there are issues in securing a framework of measures to ensure that the object remains fixed while in stewardship.[2]
+
+For the preservation of software as digital content, a specific challenge is the typically non-availability of the source code as commercial software is normally distributed only in compiled binary form. Without the source code an adaption (Porting) on modern computing hardware or operating system is most often impossible, therefore the original hardware and software context needs to be emulated. Another potential challenge for software preservation can be the copyright which prohibits often the bypassing of copy protection mechanisms (Digital Millennium Copyright Act) in case software has become an orphaned work (Abandonware). An exemption from the United States Digital Millennium Copyright Act to permit to bypass copy protection was approved in 2003 for a period of 3 years to the Internet Archive who created an archive of "vintage software", as a way to preserve them.[49][50] The exemption was renewed in 2006, and as of 27 October 2009, has been indefinitely extended pending further rulemakings[51] "for the purpose of preservation or archival reproduction of published digital works by a library or archive."[52]
+
+Another challenge surrounding preservation of digital content resides in the issue of scale. The amount of digital information being created along with the "proliferation of format types" [2] makes creating trusted digital repositories with adequate and sustainable resources a challenge. The Web is only one example of what might be considered the "data deluge".[2] For example, the Library of Congress currently amassed 170 billion tweets between 2006 and 2010 totaling 133.2 terabytes[53] and each Tweet is composed of 50 fields of metadata.[54]
+
+The economic challenges of digital preservation are also great. Preservation programs require significant up front investment to create, along with ongoing costs for data ingest, data management, data storage, and staffing. One of the key strategic challenges to such programs is the fact that, while they require significant current and ongoing funding, their benefits accrue largely to future generations.[55]
+Strategies
+
+In 2006, the Online Computer Library Center developed a four-point strategy for the long-term preservation of digital objects that consisted of:
+
+    Assessing the risks for loss of content posed by technology variables such as commonly used proprietary file formats and software applications.
+    Evaluating the digital content objects to determine what type and degree of format conversion or other preservation actions should be applied.
+    Determining the appropriate metadata needed for each object type and how it is associated with the objects.
+    Providing access to the content.[56]
+
+There are several additional strategies that individuals and organizations may use to actively combat the loss of digital information.
+Refreshing
+
+Refreshing is the transfer of data between two types of the same storage medium so there are no bitrot changes or alteration of data.[37] For example, transferring census data from an old preservation CD to a new one. This strategy may need to be combined with migration when the software or hardware required to read the data is no longer available or is unable to understand the format of the data. Refreshing will likely always be necessary due to the deterioration of physical media.
+Migration
+
+Migration is the transferring of data to newer system environments (Garrett et al., 1996). This may include conversion of resources from one file format to another (e.g., conversion of Microsoft Word to PDF or OpenDocument) or from one operating system to another (e.g., Windows to Linux) so the resource remains fully accessible and functional. Two significant problems face migration as a plausible method of digital preservation in the long terms. Due to the fact that digital objects are subject to a state of near continuous change, migration may cause problems in relation to authenticity and migration has proven to be time-consuming and expensive for "large collections of heterogeneous objects, which would need constant monitoring and intervention.[2] Migration can be a very useful strategy for preserving data stored on external storage media (e.g. CDs, USB flash drives, and 3.5” floppy disks). These types of devices are generally not recommended for long-term use, and the data can become inaccessible due to media and hardware obsolescence or degradation.[57]
+Replication
+
+Creating duplicate copies of data on one or more systems is called replication. Data that exists as a single copy in only one location is highly vulnerable to software or hardware failure, intentional or accidental alteration, and environmental catastrophes like fire, flooding, etc. Digital data is more likely to survive if it is replicated in several locations. Replicated data may introduce difficulties in refreshing, migration, versioning, and access control since the data is located in multiple places.
+
+Understanding digital preservation means comprehending how digital information is produced and reproduced. Because digital information (e.g., a file) can be exactly replicated down to the bit level, it is possible to create identical copies of data. Exact duplicates allow archives and libraries to manage, store, and provide access to identical copies of data across multiple systems and/or environments.
+Emulation
+
+Emulation is the replicating of functionality of an obsolete system. According to van der Hoeven, "Emulation does not focus on the digital object, but on the hard- and software environment in which the object is rendered. It aims at (re)creating the environment in which the digital object was originally created.".[58] Examples are having the ability to replicate or imitate another operating system.[59] Examples include emulating an Atari 2600 on a Windows system or emulating WordPerfect 1.0 on a Macintosh. Emulators may be built for applications, operating systems, or hardware platforms. Emulation has been a popular strategy for retaining the functionality of old video game systems, such as with the MAME project. The feasibility of emulation as a catch-all solution has been debated in the academic community. (Granger, 2000)
+
+Raymond A. Lorie has suggested a Universal Virtual Computer (UVC) could be used to run any software in the future on a yet unknown platform.[60] The UVC strategy uses a combination of emulation and migration. The UVC strategy has not yet been widely adopted by the digital preservation community.
+
+Jeff Rothenberg, a major proponent of Emulation for digital preservation in libraries, working in partnership with Koninklijke Bibliotheek and National Archief of the Netherlands, developed a software program called Dioscuri, a modular emulator that succeeds in running MS-DOS, WordPerfect 5.1, DOS games, and more.[61]
+
+Another example of emulation as a form of digital preservation can be seen in the example of Emory University and the Salman Rushdie's papers. Rushdie donated an outdated computer to the Emory University library, which was so old that the library was unable to extract papers from the harddrive. In order to procure the papers, the library emulated the old software system and was able to take the papers off his old computer.[62]
+Encapsulation
+
+This method maintains that preserved objects should be self-describing, virtually "linking content with all of the information required for it to be deciphered and understood".[2] The files associated with the digital object would have details of how to interpret that object by using "logical structures called "containers" or "wrappers" to provide a relationship between all information components[63] that could be used in future development of emulators, viewers or converters through machine readable specifications.[64] The method of encapsulation is usually applied to collections that will go unused for long periods of time.[64]
+Persistent Archives concept
+
+Developed by the San Diego Supercomputing Center and funded by the National Archives and Records Administration, this method requires the development of comprehensive and extensive infrastructure that enables "the preservation of the organisation of collection as well as the objects that make up that collection, maintained in a platform independent form".[2] A persistent archive includes both the data constituting the digital object and the context that the defines the provenance, authenticity, and structure of the digital entities.[65] This allows for the replacement of hardware or software components with minimal effect on the preservation system. This method can be based on virtual data grids and resembles OAIS Information Model (specifically the Archival Information Package).
+Metadata attachment
+
+Metadata is data on a digital file that includes information on creation, access rights, restrictions, preservation history, and rights management.[66] Metadata attached to digital files may be affected by file format obsolescence. ASCII is considered to be the most durable format for metadata [67] because it is widespread, backwards compatible when used with Unicode, and utilizes human-readable characters, not numeric codes. It retains information, but not the structure information it is presented in. For higher functionality, SGML or XML should be used. Both markup languages are stored in ASCII format, but contain tags that denote structure and format.
+Preservation repository assessment and certification
+
+A few of the major frameworks for digital preservation repository assessment and certification are described below. A more detailed list is maintained by the U.S. Center for Research Libraries.[68]
+Specific tools and methodologies
+TRAC
+
+In 2007, CRL/OCLC published Trustworthy Repositories Audit & Certification: Criteria & Checklist (TRAC), a document allowing digital repositories to assess their capability to reliably store, migrate, and provide access to digital content. TRAC is based upon existing standards and best practices for trustworthy digital repositories and incorporates a set of 84 audit and certification criteria arranged in three sections: Organizational Infrastructure; Digital Object Management; and Technologies, Technical Infrastructure, and Security.[69]
+
+TRAC "provides tools for the audit, assessment, and potential certification of digital repositories, establishes the documentation requirements required for audit, delineates a process for certification, and establishes appropriate methodologies for determining the soundness and sustainability of digital repositories".[70]
+DRAMBORA
+
+Digital Repository Audit Method Based On Risk Assessment (DRAMBORA), introduced by the Digital Curation Centre (DCC) and DigitalPreservationEurope (DPE) in 2007, offers a methodology and a toolkit for digital repository risk assessment.[71] The tool enables repositories to either conduct the assessment in-house (self-assessment) or to outsource the process.
+
+The DRAMBORA process is arranged in six stages and concentrates on the definition of mandate, characterization of asset base, identification of risks and the assessment of likelihood and potential impact of risks on the repository. The auditor is required to describe and document the repository’s role, objectives, policies, activities and assets, in order to identify and assess the risks associated with these activities and assets and define appropriate measures to manage them.[72]
+European Framework for Audit and Certification of Digital Repositories
+
+The European Framework for Audit and Certification of Digital Repositories 
+was defined in a memorandum of understanding signed in July 2010 between Consultative Committee for Space Data Systems (CCSDS), Data Seal of Approval (DSA) Board and German Institute for Standardization (DIN) "Trustworthy Archives – Certification" Working Group.
+
+The framework is intended to help organizations in obtaining appropriate certification as a trusted digital repository and establishes three increasingly demanding levels of assessment:
+
+    Basic Certification: self-assessment using 16 criteria of the Data Seal of Approval (DSA).
+    Extended Certification: Basic Certification and additional externally reviewed self-audit against ISO 16363 or DIN 31644 requirements.
+    Formal Certification: validation of the self-certification with a third-party official audit based on ISO 16363 or DIN 31644.[73]
+
+nestor Catalogue of Criteria
+
+A German initiative, nestor 
+(the Network of Expertise in Long-Term Storage of Digital Resources) sponsored by the German Ministry of Education and Research, developed a catalogue of criteria for trusted digital repositories in 2004. In 2008 the second version of the document was published. The catalogue, aiming primarily at German cultural heritage and higher education institutions, establishes guidelines for planning, implementing, and self-evaluation of trustworthy long-term digital repositories.[74]
+
+The nestor catalogue of criteria conforms to the OAIS reference model terminology and consists of three sections covering topics related to Organizational Framework, Object Management, and Infrastructure and Security.[75]
+PLANETS Project
+
+In 2002 the Preservation and Long-term Access through Networked Services (PLANETS) project, part of the EU Framework Programmes for Research and Technological Development 6, addressed core digital preservation challenges. The primary goal for Planets was to build practical services and tools to help ensure long-term access to digital cultural and scientific assets. The Open Planets project ended May 31, 2010.[76] The outputs of the project are now sustained by the follow-on organisation, the Open Planets Foundation.[77][78] On October 7, 2014 the Open Planets Foundation announced that it would be renamed the Open Preservation Foundation to align with the organization's current direction.[79]
+PLATTER
+
+Planning Tool for Trusted Electronic Repositories (PLATTER) is a tool released by DigitalPreservationEurope (DPE) to help digital repositories in identifying their self-defined goals and priorities in order to gain trust from the stakeholders.[80]
+
+PLATTER is intended to be used as a complementary tool to DRAMBORA, NESTOR, and TRAC. It is based on ten core principles for trusted repositories and defines nine Strategic Objective Plans, covering such areas as acquisition, preservation and dissemination of content, finance, staffing, succession planning, technical infrastructure, data and metadata specifications, and disaster planning. The tool enables repositories to develop and maintain documentation required for an audit.[81]
+Audit and Certification of Trustworthy Digital Repositories (ISO 16363)
+
+Audit and Certification of Trustworthy Digital Repositories (ISO 16363:2012), developed by the Consultative Committee for Space Data Systems (CCSDS), was approved as a full international standard in March 2012. Extending the OAIS Reference Model and based largely on the TRAC checklist, the standard is designed for all types of digital repositories. It provides a detailed specification of criteria against which the trustworthiness of a digital repository should be evaluated.[82]
+
+The CCSDS Repository Audit and Certification Working Group has also developed and submitted for approval a second standard, Requirements for Bodies Providing Audit and Certification of Candidate Trustworthy Digital Repositories (ISO 16919), that defines the external auditing process and requirements for organizations responsible for assessment and certification of digital repositories.[83]
+Digital preservation best practices
+
+Although preservation strategies vary for different types of materials and between institutions, adhering to nationally and internationally recognized standards and practices is a crucial part of digital preservation activities. Best or recommended practices define strategies and procedures that may help organizations to implement existing standards or provide guidance in areas where no formal standards have been developed.[84]
+
+Best practices in digital preservation continue to evolve and may encompass processes that are performed on content prior to or at the point of ingest into a digital repository as well as processes performed on preserved files post-ingest over time. Best practices may also apply to the process of digitizing analog material and may include the creation of specialized metadata (such as technical, administrative and rights metadata) in addition to standard descriptive metadata. The preservation of born-digital content may include format transformations to facilitate long-term preservation or to provide better access.[85]
+Audio preservation
+
+Various best practices and guidelines for digital audio preservation have been developed, including:
+
+    Guidelines on the Production and Preservation of Digital Audio Objects IASA-TC 04 (2009),[86] which sets out the international standards for optimal audio signal extraction from a variety of audio source materials, for analogue to digital conversion and for target formats for audio preservation
+    Capturing Analog Sound for Digital Preservation: Report of a Roundtable Discussion of Best Practices for Transferring Analog Discs and Tapes (2006),[87] which defined procedures for reformatting sound from analog to digital and provided recommendations for best practices for digital preservation
+    Digital Audio Best Practices (2006) prepared by the Collaborative Digitization Program Digital Audio Working Group, which covers best practices and provides guidance both on digitizing existing analog content and on creating new digital audio resources[88]
+    Sound Directions: Best Practices for Audio Preservation (2007) published by the Sound Directions Project,[84] which describes the audio preservation workflows and recommended best practices and has been used as the basis for other projects and initiatives[89][90]
+    Documents developed by the International Association of Sound and Audiovisual Archives (IASA), the European Broadcasting Union (EBU), the Library of Congress, and the Digital Library Federation (DLF).
+
+The Audio Engineering Society (AES) also issues a variety of standards and guidelines relating to the creation of archival audio content and technical metadata.[91]
+Moving image preservation
+
+The term "moving images" includes analog film and video and their born-digital forms: digital video, digital motion picture materials, and digital cinema. As analog videotape and film become obsolete, digitization has become a key preservation strategy, although many archives do continue to perform photochemical preservation of film stock.[92][93]
+
+"Digital preservation" has a double meaning for audiovisual collections: analog originals are preserved through digital reformatting, with the resulting digital files preserved; and born-digital content is collected, most often in proprietary formats that pose problems for future digital preservation.
+
+There is currently no broadly accepted standard target digital preservation format for analog moving images.[94]
+
+The following resources offer information on analog to digital reformatting and preserving born-digital audiovisual content.
+
+    The Library of Congress tracks the sustainability of digital formats, including moving images.[95]
+    The Digital Dilemma 2: Perspectives from Independent Filmmakers, Documentarians and Nonprofit Audiovisual Archives (2012).[94] The section on nonprofit archives reviews common practices on digital reformatting, metadata, and storage. There are four case studies.
+    Federal Agencies Digitization Guidelines Initiative (FADGI) 
+    . Started in 2007, this is a collaborative effort by federal agencies to define common guidelines, methods, and practices for digitizing historical content. As part of this, two working groups are studying issues specific to two major areas, Still Image and Audio Visual.[96]
+    PrestoCenter publishes general audiovisual information and advice at a European level. Its online library has research and white papers on digital preservation costs and formats.[97]
+    The Association of Moving Image Archivists (AMIA) sponsors conferences, symposia, and events on all aspects of moving image preservation, including digital. The AMIA Tech Review 
+    contains articles reflecting current thoughts and practices from the archivists’ perspectives. Video Preservation for the Millennia (2012), published in the AMIA Tech Review, details the various strategies and ideas behind the current state of video preservation.[98]
+
+Email preservation
+
+Email poses special challenges for preservation: email client software varies widely; there is no common structure for email messages; email often communicates sensitive information; individual email accounts may contain business and personal messages intermingled; and email may include attached documents in a variety of file formats. Email messages can also carry viruses or have spam content. While email transmission is standardized, there is no formal standard for the long-term preservation of email messages.[99]
+
+Approaches to preserving email may vary according to the purpose for which it is being preserved. For businesses and government entities, email preservation may be driven by the need to meet retention and supervision requirements for regulatory compliance and to allow for legal discovery. (Additional information about email archiving approaches for business and institutional purposes may be found under the separate article, Email archiving.) For research libraries and archives, the preservation of email that is part of born-digital or hybrid archival collections has as its goal ensuring its long-term availability as part of the historical and cultural record.[100]
+
+Several projects developing tools and methodologies for email preservation have been conducted based on various preservation strategies: normalizing email into XML format, migrating email to a new version of the software and emulating email environments: Memories Using Email 
+(MUSE), Collaborative Electronic Records Project 
+(CERP), E-Mail Collection And Preservation 
+(EMCAP), PeDALS Email Extractor Software 
+(PeDALS), XML Electronic Normalizing of Archives tool 
+(XENA).
+
+Some best practices and guidelines for email preservation can be found in the following resources:
+
+    Curating E-Mails: A Life-cycle Approach to the Management and Preservation of E-mail Messages (2006) by Maureen Pennock.[101]
+    Technology Watch Report 11-01: Preserving Email (2011) by Christopher J Prom.[100]
+    Best Practices: Email Archiving by Jo Maitland.[102]
+
+Video game preservation
+
+In 2007 the Keeping Emulation Environments Portable (KEEP) project, part of the EU Framework Programmes for Research and Technological Development 7, developed tools and methodologies to keep digital software objects available in their original context. Digital software objects as video games might get lost because of digital obsolescence and non-availability of required legacy hardware or operating system software; such software is referred to as abandonware. Because the source code is often not available any longer,[47] emulation is the only preservation opportunity. KEEP provided an emulation framework to help the creation of such emulators. KEEP was developed by Vincent Joguin, first launched in February 2009 and was coordinated by Elisabeth Freyre of the French National Library.[103]
+
+In January 2012 the POCOS project funded by JISC organised a workshop on the preservation of gaming environments and virtual worlds.[104]
+Personal archiving
+
+There are many things consumers and artists can do themselves to help care for their collections at home.
+
+    The Software Preservation Society is a group of computer enthusiasts that is concentrating on finding old software disks (mostly games) and taking a snapshot of the disks in a format that can be preserved for the future.
+    "Resource Center: Caring For Your Treasures" by American Institute for Conservation of Historic and Artistic Works details simple strategies for artists and consumers to care for and preserve their work themselves.[105]
+
+The Library of Congress also hosts a list for the self-preserver which includes direction toward programs and guidelines from other institutions that will help the user preserve social media, email, and formatting general guidelines (such as caring for CDs).[106] Some of the programs listed include:
+
+    HTTrack Website Copier 
+    : Software tool which allows the user to download a World Wide Web site from the Internet to a local directory, building recursively all directories, getting HTML, images, and other files from the server to their computer.
+    Muse 
+    : Muse (short for Memories Using Email) is a program that helps users revive memories, using their long-term email archives, run by Stanford University.
+
+Education for digital preservation
+
+The Digital Preservation Outreach and Education (DPOE), as part of the Library of Congress, serves to foster preservation of digital content through a collaborative network of instructors and collection management professionals working in cultural heritage institutions. Composed of Library of Congress staff, the National Trainer Network, the DPOE Steering Committee, and a community of Digital Preservation Education Advocates, as of 2013 the DPOE has 24 working trainers across the six regions of the United States.[107] In 2010 the DPOE conducted an assessment, reaching out to archivists, librarians, and other information professionals around the country. A working group of DPOE instructors then developed a curriculum [108] based on the assessment results and other similar digital preservation curricula designed by other training programs, such as LYRASIS, Educopia Institute, MetaArchive Cooperative, University of North Carolina, DigCCurr (Digital Curation Curriculum) and Cornell University-ICPSR Digital Preservation Management Workshops. The resulting core principles are also modeled on the principles outlined in "A Framework of Guidance for Building Good Digital Collections" by the National Information Standards Organization (NISO).[109]
+
+In Europe, Humboldt-Universität zu Berlin and King's College London offer a joint program in Digital Curation 
+that emphasizes both digital humanities and the technologies necessary for long term curation. The MSc in Information Management and Preservation (Digital) 
+offered by the HATII at the University of Glasgow has been running since 2005 and is the pioneering program in the field.
+Examples of digital preservation initiatives
+For more details on this topic, see List of digital preservation initiatives.
+Digitization at the British Library of a Dunhuang manuscript for the International Dunhuang Project
+
+    The Library of Congress operates the National Digital Stewardship Alliance 
+    The British Library is responsible for several programmes in the area of digital preservation and is a founding member of the Digital Preservation Coalition 
+    and Open Preservation Foundation 
+    . Their digital preservation strategy 
+    is publicly available. The National Archives of the United Kingdom have also pioneered various initiatives in the field of digital preservation.
+
+A number of open source products have been developed to assist with digital preservation, including Archivematica, DSpace, Fedora Commons, OPUS, SobekCM and EPrints. The commercial sector also offers digital preservation software tools, such as Ex Libris Ltd.'s Rosetta, Preservica's Cloud, Standard and Enterprise Editions, CONTENTdm, Digital Commons, Equella, intraLibrary, Open Repository and Vital.[110]
+Large-scale digital preservation initiatives
+
+Many research libraries and archives have begun or are about to begin large-scale digital preservation initiatives (LSDIs). The main players in LSDIs are cultural institutions, commercial companies such as Google and Microsoft, and non-profit groups including the Open Content Alliance (OCA), the Million Book Project (MBP), and HathiTrust. The primary motivation of these groups is to expand access to scholarly resources.
+
+Approximately 30 cultural entities, including the 12-member Committee on Institutional Cooperation (CIC), have signed digitization agreements with either Google or Microsoft. Several of these cultural entities are participating in the Open Content Alliance and the Million Book Project. Some libraries are involved in only one initiative and others have diversified their digitization strategies through participation in multiple initiatives. The three main reasons for library participation in LSDIs are: access, preservation, and research and development. It is hoped that digital preservation will ensure that library materials remain accessible for future generations. Libraries have a perpetual responsibility for their materials and a commitment to archive their digital materials. Libraries plan to use digitized copies as backups for works in case they go out of print, deteriorate, or are lost and damaged.
+See also
+
+    Backup
+    Charles M. Dollar
+    Data curation
+    Database preservation
+    Digital artifactual value
+    Digital asset management
+    Digital curation
+    Digital continuity
+    Digital dark age
+    Digital library
+    Digital obsolescence
+    Digital reformatting
+    DRAMBORA
+    Enterprise content management
+    ENUMERATE
+    File format
+    HD-Rosetta
+    Information Lifecycle Management
+    List of digital preservation initiatives
+    New media art preservation
+    Margaret Hedstrom
+    Preservation metadata
+    Section 108 Study Group
+    Seamus Ross
+    Trustworthy Repositories Audit & Certification
+    UVC-based preservation
+    Web archiving
+
+
