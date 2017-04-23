@@ -139,5 +139,18 @@ def graph_data():
             return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+@app.route('/edisonskills', methods=['GET'])
+def edison_skills():
+    if request.method == 'GET':
+        try:
+            skills = db['allcategories'].find({"category": "Edison"}, {"skillName": 1, "_id": 0})
+            if skills.count() == 0:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            return jsonify(response=list(skills), statusCode=200)
+
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
 if __name__ == "__main__":
     app.run(host=HOST, port=PORT, threaded=True)
