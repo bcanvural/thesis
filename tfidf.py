@@ -10,7 +10,7 @@ def calculate_cosine_similarity(vec_job, vec_cv):
     cv = vec_cv.toArray()
     jobs = vec_job.toArray()
     result = spatial.distance.cosine(cv, jobs)
-    return float(result)
+    return 1 - float(result)
 
 def main():
     spark = SparkSession.builder \
@@ -21,11 +21,11 @@ def main():
 
     NUM_FEATURES = 2**8
 
-    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
+    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL").cache()
     df_jobs.registerTempTable("jobs")
-    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
+    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl").cache()
     df_cvs.registerTempTable("cvs")
-    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
+    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl").cache()
     df_categories.registerTempTable("categories")
 
     joined = spark.sql("SELECT description AS text, jobId AS id, 'job' AS type FROM jobs UNION ALL \

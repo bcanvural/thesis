@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 import operator
 def main():
-    filepath = 'fpjobs/'
+    filepath = 'fpjobs-with-blacklist/'
     fp_obj = {}
     for filename in os.listdir(filepath):
         if filename[-3:] == "csv":

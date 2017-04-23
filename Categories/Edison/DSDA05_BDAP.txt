@@ -1,0 +1,21 @@
+Big Data Analytics platforms
+Big Data tools Hadoop, Spark
+Distributed computing tools a plus Spark, MapReduce, Hadoop, Hive
+Real time and streaming analytics systems Flume, Kafka, Storm
+Hadoop Ecosystem/platform
+Spotfire
+Azure Data Analytics platforms HDInsight, APS and PDW
+Amazon Data Analytics platform Kinesis, EMR
+Other cloud based Data Analytics platforms HortonWorks, Vertica LexisNexis HPCC System
+hadoop
+spark
+YARN
+HDFS
+MapReduce
+Apache Flink
+Apache Storm
+Apache Samza
+Apache Kafka
+Cloudera
+software framework
+big data framework

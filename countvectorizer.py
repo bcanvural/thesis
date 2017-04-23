@@ -10,7 +10,7 @@ def calculate_cosine_similarity(vec_job, vec_cv):
     cv = vec_cv.toArray()
     jobs = vec_job.toArray()
     result = spatial.distance.cosine(cv, jobs)
-    return float(result)
+    return 1 - float(result)
 
 def main():
     spark = SparkSession.builder \
@@ -19,7 +19,7 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
-    VOCAB_SIZE = 250
+    VOCAB_SIZE = 150
     MIN_DF = 1.0
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")

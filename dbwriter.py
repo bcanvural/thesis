@@ -248,6 +248,50 @@ def word2vec2_job_cv(db):
                     obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
                     collection.insert_one(obj)
 
+def count_pca_cv_category(db):
+        collection = db['count-pca-cv-category']
+        path = 'Calculated/count-pca/cv-category'
+        for filename in os.listdir(path):
+            if filename[-3:] == "csv":
+                fullpath = path + '/' + filename
+                q = Path(fullpath)
+                with q.open() as f:
+                    for line in f:
+                        # "cvid", "catid", "skillName", "similarity"
+                        cvid, catid, skillName, distance = line.strip().split(',')
+                        obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
+                        "distance": float(distance)}
+                        collection.insert_one(obj)
+
+def count_pca_job_category(db):
+        collection = db['count-pca-job-category']
+        path = 'Calculated/count-pca/job-category'
+        for filename in os.listdir(path):
+            if filename[-3:] == "csv":
+                fullpath = path + '/' + filename
+                q = Path(fullpath)
+                with q.open() as f:
+                    for line in f:
+                        # "jobid", "catid", "skillName", "similarity"
+                        jobid, catid, skillName, distance = line.strip().split(',')
+                        obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
+                        "distance": float(distance)}
+                        collection.insert_one(obj)
+
+def count_pca_job_cv(db):
+    collection = db['count-pca-job-cv']
+    path = 'Calculated/count-pca/job-cv'
+    for filename in os.listdir(path):
+        if filename[-3:] == "csv":
+            fullpath = path + '/' + filename
+            q = Path(fullpath)
+            with q.open() as f:
+                for line in f:
+                    #"jobid", "cvid", "similarity"
+                    jobid, cvid, distance = line.strip().split(',')
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
+                    collection.insert_one(obj)
+
 def main():
     client = MongoClient('localhost', 27017)
     db = client['thesis-database']
@@ -265,9 +309,13 @@ def main():
     word2vec_job_category(db)
     word2vec_job_cv(db)
 
-    # word2vec2_cv_category(db)
-    # word2vec2_job_category(db)
-    # word2vec2_job_cv(db)
+    word2vec2_cv_category(db)
+    word2vec2_job_category(db)
+    word2vec2_job_cv(db)
+
+    count_pca_cv_category(db)
+    count_pca_job_category(db)
+    count_pca_job_cv(db)
 
     write_all_jobs(db)
     write_all_categories(db)

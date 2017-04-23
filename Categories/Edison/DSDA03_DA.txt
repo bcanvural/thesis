@@ -1,0 +1,45 @@
+Analytics help decision makers determine risk, weigh outcomes, and quantify costs and benefits associated with decisions.
+Learning Objective
+
+    Recognize the decision-making value of utilizing statistics and analytics to create accurate predictions
+
+Key Points
+
+        Predictive and descriptive analytics are two methods of using data to inform and evaluate alternatives during decision making. They can also be used to explain performance outcomes.
+         encompass a variety of statistical techniques (such as modeling, machine learning, and data mining) that analyze current and historical facts to predictions about future events.
+        Descriptive analytics focus on developing new insights and understanding of business performance based on data and statistical methods; these analytics are then used to strategic decisions for the company.
+
+Term
+
+    analytics
+
+    The use of skills, technologies, and practices to explore and investigate past performance, gain insight, and drive business decision making.
+    
+    Analytics refer to the use of skills, technologies, and practices to explore and investigate past performance, gain insight, and drive business decision making. Predictive and descriptive analytics are two methods of using data and statistical methods to assess actual outcomes against target standards and s. These types of analysis can explain the relationship between factors that influence outcomes; they can also help prioritize improvement and other planning efforts. Companies can use their analytic capabilities to create advantages over competitors and better perform in the marketplace.
+    
+     and Decision Making
+
+ encompass a variety of statistical techniques (such as modeling, machine learning, and data mining) that analyze current and historical facts to estimates about future events. Models capture relationships among many factors, allowing an assessment of risk or potential associated with a particular set of conditions. This helps to guide decision making for candidate transactions. Data mining draws on large numbers of records to patterns that can then be identified as opportunities or risks. For example, by analyzing grades for an entire class of first-year students, academic advisers can predict which students are most likely to struggle in the class.
+
+ help decision makers to predict the outcome(s) of a decision before it is implemented. Using these probabilities, decision makers can calculate the expected value of alternatives once risks and benefits are taken into account.  are particularly useful when there is a high degree of uncertainty. By carefully considering what is not known, decision makers can build confidence in the estimates that inform their choices. Forecasting consumer behavior in response to a new product or marketing initiative are examples of the use of .
+Descriptive Analytics and Decision Making
+
+Descriptive analytics answer the questions, "What happened and why did it happen?" This approach seeks to understand past performances by using historical data to analyze the reasons behind past success or failure. Understanding cause and effect can help refine business and operational strategies. Most management reporting—such as sales, marketing, operations, and finance—uses this type of analysis. Descriptive analytics are used in quality management techniques and other methods of statistical process control.
+Analytics in the Modern Business World
+
+Descriptive and  have increased ly in popularity due to advances in computing technology, techniques for data analysis, and mathematical modeling. Desktop tools can easily create reports and summaries of analytic results that help decision makers readily understand the findings and their implications. These tools create tables, charts, and graphs to present the data visually, which can help to clearly communicate the meaning of the data.
+
+
+Data-driven decision management (DDDM) is an approach to business governance that values decisions that can be backed up with verifiable data. The success of the data-driven approach is reliant upon the quality of the data gathered and the effectiveness of its analysis and interpretation. 
+
+In the early days of computing, it usually took a specialist with a strong background in technology to mine data for information because it was necessary for that person to understand how databases and data warehouses worked. If a manager on the business side of an organization wanted to view data at a granular level, she had to reach out to the information technology department (IT) and request a report. Someone from the IT department would then create the report and schedule it to run on a periodic basis. Because the process was complex, ad hoc reports, also known as one-off reports, were discouraged.
+
+Today, business intelligence tools often require very little, if any, support from the IT department. Business managers can customize dashboards to display the data they want to see and run custom reports on the fly. The changes in how data can be mined and visualized allows business executives who have no technology backgrounds to be able to work with analytics tools and make data-driven decisions.
+
+Data-driven decision management is usually undertaken as a way to gain a competitive advantage. A study from the MIT Center for Digital Business found that organizations driven most by data-based decision making had 4% higher productivity rates and 6% higher profits. However, integrating massive amounts of information from different areas of the business and combining it to derive actionable data in real time can be easier said than done. Errors can creep into data analytics processes at any stage of the endeavor, and serious issues can result when they do.
+
+
+Data-informed decision-making (DIDM) gives reference to the collection and analysis of data to guide decisions that improve success.[1] DIDM is used in education communities (where data is used with the  of helping students) but is also applicable to (and thus also used in) other fields in which data is used to inform decisions. While data based decision making is a more common term, data-informed decision-making is a preferable term since decisions should not be based solely on quantitative data.[1][2] Most educators have access to a data system for the purpose of analyzing student data.[3] These data systems present data to educators in an over-the-counter data format (embedding labels, supplemental documentation, and a help system, making key package/display and content decisions) to improve the success of educators’ data-informed decision-making.[4] In Business, fostering and actively supporting DIDM in their firm and among their colleagues could be the  rôle of CIOs (Chief Information Officers) or CDOs (Chief Data Officers).[5]
+
+
+Data-driven decision making (DDDM), applied to student achievement testing data, is a central focus of many school and district reform efforts, in part because of federal and state test-based accountability policies. This paper uses RAND research to show how schools and districts are analyzing achievement test results and other types of data to make decisions to improve student success. It examines DDDM policies and suggests future research in the field. A conceptual framework, adapted from the literature and used to organize the discussion, recognizes that multiple data types (input, outcome, process, and satisfaction data) can inform decisions, and that the presence of raw data does not ensure its effective use. Research questions addressed are: what types of data are administrators and teachers using, and how are they using them; what support is available to help with the use of the data; and what factors influence the use of data for decision making? RAND research suggests that most educators find data useful for informing aspects of their work and that they use data to improve teaching and learning. The first implication of this work is that DDDM does not guarantee effective decision making: having data does not mean that it will be used appropriately or lead to improvements. Second, practitioners and policymakers should promote the use of various data types collected at multiple points in time. Third, equal attention needs to be paid to analyzing data and taking action based on data. Capacity-building efforts may be needed to achieve this . Fourth, RAND research raises concerns about the consequences of high-stakes testing and excessive reliance on test data. Fifth, attaching stakes to data such as local progress tests can lead to the same negative practices that appear in high-stakes testing systems. Finally, policymakers seeking to promote educators’ data use should consider giving teachers flexibility to alter instruction based on data analyses. More research is needed on the effects of DDDM on instruction, student achievement, and other outcomes; how the focus on state test results affects the validity of those tests; and the quality of data being examined, the analyses educators are undertaking, and the decisions they are making.

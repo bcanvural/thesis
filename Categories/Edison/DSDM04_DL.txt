@@ -1,0 +1,53 @@
+What is a data library?
+
+A data library is a collection of numeric and/or geospatial data sets for secondary use in research. (Scroll down to view definition from the Online Dictionary for Library and Information Science.) A data library is normally part of a larger institution (academic, corporate, scientific, medical, governmental, etc.) established to serve the data users of that organisation. The data library tends to house local data collections and provides access to them through various means (CD-/DVD-ROMs or central server for download). A data library may also maintain subscriptions to licensed data resources for its users to access. Whether a data library is also considered a data archive may depend on the extent of unique holdings in the collection, whether long-term preservation services are offered, and whether it serves a broader community (as national data archives do).
+Importance of data libraries and data librarianship
+
+In August 2001, the Association of Research Libraries (ARL) 
+published SPEC Kit 263: Numeric Data Products and Services 
+, presenting results from a survey of ARL member institutions involved in collecting and providing services for numeric data resources.
+Services offered by data libraries and data librarians
+
+Library service providing support at the institutional level for the use of numerical and other types of datasets in research. Amongst the support activities typically available:
+
+    Reference Assistance — locating numeric or geospatial datasets containing measurable variables on a particular topic or group of topics, in response to a user query.
+    User Instruction — providing hands-on training to groups of users in locating data resources on particular topics, how to download data and read it into spreadsheet, statistical, database, or GIS packages, how to interpret codebooks and other documentation.
+    Technical Assistance - including easing registration procedures, troubleshooting problems with the dataset, such as errors in the documentation, reformatting data into something a user can work with, and helping with statistical methodology.
+    Collection Development & Management - acquire, maintain, and manage a collection of data files used for secondary analysis by the local user community; purchase institutional data subscriptions; act as a site representative to data providers and national data archives for the institution.
+    Preservation and Data Sharing Services - act on a strategy of preservation of datasets in the collection, such as media refreshment and file format migration; download and keep records on updated versions from a central repository. Also, assist users in preparing original data for secondary use by others; either for deposit in a central or institutional repository, or for less formal ways of sharing data. This may also involve marking up the data into an appropriate XML standard, such as the Data Documentation Initiative, or adding other metadata to facilitate online discovery.
+
+Associations
+
+    IASSIST 
+    (International Association for Social Science Information and Service Technology)
+    DISC-UK 
+    (Data Information Specialists Committee—United Kingdom)
+    APDU 
+    (Association of Public Data Users - USA)
+    CAPDU 
+    (Canadian Association of Public Data Users)
+
+Examples of Data Library
+
+The Massachusetts Institute of Technology’s (MIT) Data Management and Publishing tutorial, 
+The EDINA Research Data Management Training (MANTRA), 
+The University of Edinburgh’s Data Library and 
+The University of Minnesota libraries’ Data Management Course for Structural Engineers
+The London School of Economics and Political Science Data and Statistics
+
+References
+
+    Clubb, J., Austin, E., and Geda, C. "'Sharing research data in the social sciences.'" In Sharing Research Data, S. Fienberg, M. Martin, and M. Straf, Eds. National Academy Press, Washington, D.C., 1985, 39-88.
+    Geraci, D., Humphrey, C., and Jacobs, J. Data Basics. Canadian Library Association, Ottawa, ON, 2005.
+    Martinez, Luis & Macdonald, Stuart, "'Supporting local data users in the UK academic community'" 
+    . Ariadne, issue 44, July 2005.
+    See the IASSIST Bibliography of Selected Works 
+    for articles tracing the history of data libraries and its relationship to the archivist profession, going back to the 1960s and '70s up to 1996.
+    See IASSIST Quarterly 
+    articles from 1993 to the present, focusing on data libraries, data archives, data support, and information technology for the social sciences.
+
+See also
+
+Digital curation
+Digital preservation
+Open Data

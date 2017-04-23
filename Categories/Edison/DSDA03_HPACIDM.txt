@@ -1,0 +1,84 @@
+From customer service to social media to fintech to your inbox, predictive analytics are more and more driving what you see and when you see it. In fact, director of product management at Blue Yonder retail predictive applications provider Lars Trieloff has estimated that more than half of all apps have predictive components.
+
+From our seat at the 2016  International Conference on Predictive APIs and Apps (PAPI) in Valencia Spain, we found some real-world applications of this out-of-this-world technology, taking it from Sci-Fi and academics to the board room.
+AI and Predictive Analytics
+
+“If you don’t have examples, you don’t have machine learning,” said PAPIs chair and machine learning Ph.D. Louis Dorard. “Predictive analytics is about description, predictive, prescriptive, and finally automating decisions.”
+
+Dorard offered an example: Look at the simple map below of blue and yellow dots. If you add in two more dots of unknown color, depending on where they fall in the groupings — based on the historical data of other blue and yellow dots — you can guess which one should be blue and which one should be yellow by which side of the invisible boundary you drew in the data.
+
+predictive-analytics-example
+
+You can make these predictions by satisfying three needs of predictive analytics:
+
+    Examples of inputs and outputs.
+    A sufficient amount of inputs and outputs.
+    Revision when similar inputs result in dissimilar outputs.
+
+You can apply this dot logic to simplify more complex situations too, which can range from determining if an email is spam or ham to an autonomous car deciding who to hit in an extreme situation.
+
+Predictive analytics is based on making generalizations and outputs based on certain inputs. Let’s continue to walk through some predictive analytics examples of how these inputs can bring outputs that affect your bottom line.
+Customer Service and Churn Detection
+
+Pretty much every business has to worry about gaining and retaining new customers, which makes for one of the most compelling use cases to predictive analytics. Through the combination of customer data and revenue, a business can better score leads and also serve customers better. The input of product and price can be used to make smarter sales, and the input of customer data and product could make for better prices.
+
+predictive-analytics-louis-dorard
+
+But where predictive analytics can best help churn analysis is by identifying a churn indicator based on current and previous customers. Dorard explained the different levels of analytics as applied to churn:
+
+    Descriptive Analytics: Know churn rate against time.
+    Predictive Analytics: Know who is going to churn next.
+    Prescriptive Analytics: Decide what you should do about each customer that’s going to leave.
+
+With prescriptive analytics, you start to apply strategies to reduce the possibility of churn — like switching customers to a different plan or providing them with more training on how to use your product or service.
+
+However, you must factor the following variables into your machine learning results:
+
+    Customer presentation and context.
+    Churn prediction and action prediction
+    Uncertainty in predictions (or percentage of inaccuracy)
+    Revenue brought by customer and cost of actions
+    Constraints of frequency
+
+From here you should be able to find the right level of accuracy and predictability to make sure that you are getting the desired results without missing clients or applying the wrong churn reduction strategy to the wrong customer. When done right, it should also let you prioritize who to woo back first, based on financial factors Dorard said.
+Filtering the Social Media Cacophony
+
+There are countless use cases for predictive analytics in social media, but let’s stick with customer service for now. Amazon’s Alex Ingerman also spoke at the PAPIs conference in Valencia about his experience using the Amazon Machine Learning Public API, applying it to predictive customer service, specifically to finding important social media conversations via the Twitter API.
+
+machine-learning-twitter-api
+
+Why is listening to Twitter important to @awscloud and its more than half a million followers? Ingerman explained:
+
+    A customer could be reporting a possible service issue.
+    A customer is making a feature request — Ingerman says about 90 percent of Amazon Web Services product roadmap is driven by customers.
+    A customer is angry or unhappy.
+    A customer asks a very specific question.
+
+So why would they need to use machine learning to automate this? “The social media stream is high-volume, and most of the messages—upwards of 80 to 90 percent of the @awscloud handle—are not customer service actionable.” Ingerman said. Most are not useful because that’s because they are:
+
+    jokes
+    self-promotional
+    a public conversation
+    thank you’s
+
+That’s why Amazon built an end-to-end application to filter out the important customer service calls to action and reroute them from the social media team to the proper support departments.
+
+Below are the steps Amazon took to use the Amazon platform to filter out these conversations. Note, while Amazon went through this process and have the full code sample publicly available on Github, Ingerman said this isn’t exactly how Amazon is filtering its social media — he couldn’t divulge the specifics — but it still serves as a good example of how to go about solving a business problem through predictive analytics and machine learning.
+
+    Formulate the business problem. Instantly find new tweets mentioning @awscloud, ingest and analyze each one to predict whether a CS agent should act on it
+    Establish the data flow.
+    Pick the machine learning strategy.
+    Get the data. Retrieve past tweets, which he says it’s easy to get the data, well-structured and clean.
+    Label the data. They labeled past tweets and discovered patterns connecting data points and labels. Ingerman suggests that you first try labeling by hand. “It’s fun for the first few dozen. Once you get past a hundred or so, it becomes a real problem,” he said. Amazon offers a marketplace for human intelligence so you can outsource this tedious machine learning step.
+    Align machine learning model with business requirements. Specifically, look out for a false positive, which tags as “actionable” but isn’t which could potentially waste a small amount of customer support time, and, more importantly, for a false negative, which is marked as “not actionable” but is which could have you risk losing a customer. In this situation, they set a threshold of how “certain” a model must be, accepting more false positives at the expense of fewer false negatives.
+
+Ingerman says that this same strategy could be applied to Facebook, email, customer reviews and even scanned faxes. The only part of the predictive analytics flow shown below that changes is the model.
+
+In the future, a company would try to then link these predictions to automatic results, like a knowledge base that can tweet responses to commonly asked questions.
+But where does the human fit in all this?
+
+It’s not called machine autonomous learning—at least yet! This is because predictive analytics needs to be a part of a business strategy. Try using a Machine Learning Canvas before even starting to implement anything as a way to make sure you’re targeting the right problem, using the right technology and, as often is the case, making sure team members of different backgrounds aren’t misunderstanding each other.
+
+machine-learning-canvas
+
+Finally, Dorard reminds us: “Garbage in, garbage out.” Models are only as good as the data that’s going into them, so, no matter how much machine-based automation is happening, you need a good couple humans to check that everything’s ok.

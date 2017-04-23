@@ -1,19 +1,11 @@
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *
-import numpy as np
-
-def normalize(vec):
-    norm=np.linalg.norm(vec)
-    if norm == 0:
-       return vec
-    return vec/norm
-    # return vec
 
 def calculate_distance(vec1, vec2):
     from scipy import spatial
     result = spatial.distance.cosine(vec1, vec2)
-    return 1 - float(result)
+    return float(result)
 
 def main():
     spark = SparkSession.builder \
@@ -22,13 +14,13 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
-    VECTOR_SIZE = 100
+    VECTOR_SIZE = 50
 
-    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL")
+    df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL").cache()
     df_jobs.registerTempTable("jobs")
-    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl")
+    df_cvs = spark.read.json("allcvs4rdd/allcvs.jsonl").cache()
     df_cvs.registerTempTable("cvs")
-    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl")
+    df_categories = spark.read.json("allcategories4rdd/allcategories.jsonl").cache()
     df_categories.registerTempTable("categories")
 
     joined = spark.sql("SELECT description AS text, jobId AS id, 'job' AS type FROM jobs UNION ALL \
@@ -44,20 +36,8 @@ def main():
     word2Vec = Word2Vec(vectorSize=VECTOR_SIZE, minCount=0, inputCol="filtered", outputCol="result")
     model = word2Vec.fit(removed)
     resultDF = model.transform(removed)
-    result = resultDF.rdd.map(lambda row: (row.text, row.id, row.type, row.words, row.filtered, normalize(row.result)))\
-    .toDF(["text", "id", "type", "words", "filtered", "result"])
-#     text: string (nullable = true)
-#  |-- id: long (nullable = true)
-#  |-- type: string (nullable = false)
-#
-#  |-- words: array (nullable = true)
-#  |    |-- element: string (containsNull = true)
-#  |-- filtered: array (nullable = true)
-#  |    |-- element: string (containsNull = true)
-#  |-- result: vector (nullable = true)
-    #
-    #
-    result.registerTempTable("resultTable")
+
+    resultDF.registerTempTable("resultTable")
     jobs = spark.sql("SELECT result AS jobsVec, id AS jobId FROM resultTable WHERE type = 'job'")
     cvs = spark.sql("SELECT result AS cvsVec, id AS cvid FROM resultTable WHERE type = 'cv'")
     categories = spark.sql("SELECT result AS categoriesVec, cat.id, cat.skillName FROM resultTable AS rt\
