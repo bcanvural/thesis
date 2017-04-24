@@ -105,7 +105,7 @@ def graph_data():
             if cvs.count() == 0:
                 return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
             for cv in cvs:
-                cv_obj = {"cvid": cv['cvid'], "job_similarity": cv["distance"]}
+                cv_obj = {"cvid": cv['cvid'], "job_distance": cv["distance"]}
                 cv_cat_1_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_1})["distance"]
                 cv_cat_2_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_2})["distance"]
                 cv_cat_3_sim = db[method + '-cv-category'].find_one({"cvid": cv['cvid'], "catid": cat_id_3})["distance"]
@@ -140,29 +140,30 @@ def edison_skills():
             pagenum = int(json_data['pagenum'])
             PAGESIZE = 6
             #get job-category similarities
-
-
-            job_cat_1_sim = db[method +'-job-category'].find({"jobid": job_id, "category": "Edison"})\
-                .sort("distance", 1)\
-                .skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
+            job_cat_diffs = db[method +'-job-category'].find({"jobid": job_id, "category": "Edison"}, {"distance": 1, "_id": 0, "skillName": 1})\
+                .sort("distance", 1)
+            job_diff_obj = {}
+            for job_cat_diff in job_cat_diffs:
+                job_diff_obj[job_cat_diff['skillName']] = job_cat_diff['distance']
 
             #Fetch  best CVs for this job
             cv_differences = []
             cvs = db[method + '-job-cv'].find({"jobid": job_id}).sort("distance", 1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
             for cv in cvs:
-                cv_obj = {"cvid": cv['cvid'], "job_similarity": cv["distance"]}
-                cv_cat_sims = db[method + '-cv-category'].find({"cvid": cv['cvid'], "category": "Edison"}, {"cvid": 1, "category": 1, "_id":0, "distance": 1})
-
-
-                    # cv_obj["cat_1_diff"] =  cv_cat_1_sim
-                    # cv_obj["cat_2_diff"] =  cv_cat_2_sim
-                    # cv_obj["cat_3_diff"] =  cv_cat_3_sim
-                    # cv_obj["cat_4_diff"] =  cv_cat_4_sim
-                    # cv_obj["cat_5_diff"] =  cv_cat_5_sim
-
+                cv_obj = {"cvid": cv['cvid'], "job_distance": cv["distance"]}
+                cv_cat_diffs = db[method + '-cv-category'].find({"cvid": cv['cvid'], "category": "Edison"}, {"_id":0, "distance": 1, "skillName": 1})
+                skill_differences = []
+                for cv_cat_diff in cv_cat_diffs:
+                    skill_differences.append({cv_cat_diff['skillName']:cv_cat_diff['distance']})
+                cv_obj["skill_differences"] = skill_differences
                 cv_differences.append(cv_obj)
 
-
+                final_obj = {"job_diff": job_diff_obj, "cv_differences": cv_differences}
+                return jsonify({"response": final_obj,"statusCode": 200})
+        except KeyError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Key error"})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
