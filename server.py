@@ -130,7 +130,7 @@ def graph_data():
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
 @app.route('/edisongraph', methods=['POST'])
-def edison_skills():
+def edison_graph():
     if request.method == 'POST':
         try:
             json_data = json.loads(request.get_data().decode('utf-8'))
@@ -154,9 +154,9 @@ def edison_skills():
                 print(cv["cvid"])
                 cv_obj = {"cvid": cv['cvid'], "job_distance": cv["distance"]}
                 cv_cat_diffs = db[method + '-cv-category'].find({"cvid": cv['cvid'], "category": "Edison"}, {"_id":0, "distance": 1, "skillName": 1})
-                skill_differences = []
+                skill_differences = {}
                 for cv_cat_diff in cv_cat_diffs:
-                    skill_differences.append({cv_cat_diff['skillName']:cv_cat_diff['distance']})
+                    skill_differences[cv_cat_diff['skillName']] = cv_cat_diff['distance']
                 cv_obj["skill_differences"] = skill_differences
                 cv_differences.append(cv_obj)
 
@@ -166,6 +166,18 @@ def edison_skills():
             return jsonify({"response": {}, "statusCode": 404, "message": "Key error"})
         except ValueError:
             return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+@app.route('/edisonskills', methods=['GET'])
+def edison_skills():
+    if request.method == 'GET':
+        try:
+            skills = db['allcategories'].find({"category": "Edison"}, {"skillName": 1, "_id": 0})
+            if skills.count() == 0:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            return jsonify(response=list(skills), statusCode=200)
+
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
