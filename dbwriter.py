@@ -12,10 +12,10 @@ def tfidf_cv_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "cvid", "catid", "skillName", "similarity"
-                    cvid, catid, skillName, similarity = line.strip().split(',')
+                    # "cvid", "catid", "skillName", "category", "distance"
+                    cvid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def tfidf_job_category(db):
@@ -27,10 +27,10 @@ def tfidf_job_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    #"jobid", "catid", "skillName", "similarity"
-                    jobid, catid, skillName, similarity = line.strip().split(',')
+                    # "jobid", "catid", "skillName", "category", "distance"
+                    jobid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def tfidf_job_cv(db):
@@ -42,54 +42,11 @@ def tfidf_job_cv(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    #"jobid", "cvid", "similarity"
-                    jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
+                    #"jobid", "cvid", "distance"
+                    jobid, cvid, distance = line.strip().split(',')
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
                     collection.insert_one(obj)
 
-def tfidf2_cv_category(db):
-    collection = db['tfidf2-cv-category']
-    path = 'Calculated/tfidf2/cv-category'
-    for filename in os.listdir(path):
-        if filename[-3:] == "csv":
-            fullpath = path + '/' + filename
-            q = Path(fullpath)
-            with q.open() as f:
-                for line in f:
-                    # "cvid", "catid", "skillName", "similarity"
-                    cvid, catid, skillName, similarity = line.strip().split(',')
-                    obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
-                    collection.insert_one(obj)
-
-def tfidf2_job_category(db):
-    collection = db['tfidf2-job-category']
-    path = 'Calculated/tfidf2/job-category'
-    for filename in os.listdir(path):
-        if filename[-3:] == "csv":
-            fullpath = path + '/' + filename
-            q = Path(fullpath)
-            with q.open() as f:
-                for line in f:
-                    # "jobid", "catid", "skillName", "similarity"
-                    jobid, catid, skillName, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
-                    collection.insert_one(obj)
-
-def tfidf2_job_cv(db):
-    collection = db['tfidf2-job-cv']
-    path = 'Calculated/tfidf2/job-cv'
-    for filename in os.listdir(path):
-        if filename[-3:] == "csv":
-            fullpath = path + '/' + filename
-            q = Path(fullpath)
-            with q.open() as f:
-                for line in f:
-                    #"jobid", "cvid", "similarity"
-                    jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
-                    collection.insert_one(obj)
 
 def countvectorizer_cv_category(db):
     collection = db['countvectorizer-cv-category']
@@ -100,10 +57,10 @@ def countvectorizer_cv_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "cvid", "catid", "skillName", "similarity"
-                    cvid, catid, skillName, similarity = line.strip().split(',')
+                    # "cvid", "catid", "skillName", "category", "distance"
+                    cvid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def countvectorizer_job_category(db):
@@ -115,10 +72,10 @@ def countvectorizer_job_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "jobid", "catid", "skillName", "similarity"
-                    jobid, catid, skillName, similarity = line.strip().split(',')
+                    # "jobid", "catid", "skillName", "category", "distance"
+                    jobid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "similarity": float(similarity)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def countvectorizer_job_cv(db):
@@ -130,9 +87,9 @@ def countvectorizer_job_cv(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    #"jobid", "cvid", "similarity"
-                    jobid, cvid, similarity = line.strip().split(',')
-                    obj = {"jobid": int(jobid), "cvid": int(cvid), "similarity": float(similarity)}
+                    #"jobid", "cvid", "distance"
+                    jobid, cvid, distance = line.strip().split(',')
+                    obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec_cv_category(db):
@@ -144,10 +101,10 @@ def word2vec_cv_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "cvid", "catid", "skillName", "similarity"
-                    cvid, catid, skillName, distance = line.strip().split(',')
+                    # "cvid", "catid", "skillName", "category", "distance"
+                    cvid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "distance": float(distance)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec_job_category(db):
@@ -159,10 +116,10 @@ def word2vec_job_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "jobid", "catid", "skillName", "similarity"
-                    jobid, catid, skillName, distance = line.strip().split(',')
+                    # "jobid", "catid", "skillName", "category", "distance"
+                    jobid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "distance": float(distance)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec_job_cv(db):
@@ -213,10 +170,10 @@ def word2vec2_cv_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "cvid", "catid", "skillName", "similarity"
-                    cvid, catid, skillName, distance = line.strip().split(',')
+                    # "cvid", "catid", "skillName", "category", "distance"
+                    cvid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                    "distance": float(distance)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec2_job_category(db):
@@ -228,10 +185,10 @@ def word2vec2_job_category(db):
             q = Path(fullpath)
             with q.open() as f:
                 for line in f:
-                    # "jobid", "catid", "skillName", "similarity"
-                    jobid, catid, skillName, distance = line.strip().split(',')
+                    # "jobid", "catid", "skillName", "category", "distance"
+                    jobid, catid, skillName, category, distance = line.strip().split(',')
                     obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                    "distance": float(distance)}
+                    "category": category, "distance": float(distance)}
                     collection.insert_one(obj)
 
 def word2vec2_job_cv(db):
@@ -257,10 +214,10 @@ def count_pca_cv_category(db):
                 q = Path(fullpath)
                 with q.open() as f:
                     for line in f:
-                        # "cvid", "catid", "skillName", "similarity"
-                        cvid, catid, skillName, distance = line.strip().split(',')
+                        # "cvid", "catid", "skillName", "category", "distance"
+                        cvid, catid, skillName, category, distance = line.strip().split(',')
                         obj = {"cvid": int(cvid), "catid": int(catid), "skillName": skillName, \
-                        "distance": float(distance)}
+                        "category": category, "distance": float(distance)}
                         collection.insert_one(obj)
 
 def count_pca_job_category(db):
@@ -272,10 +229,10 @@ def count_pca_job_category(db):
                 q = Path(fullpath)
                 with q.open() as f:
                     for line in f:
-                        # "jobid", "catid", "skillName", "similarity"
-                        jobid, catid, skillName, distance = line.strip().split(',')
+                        # "jobid", "catid", "skillName", "category", "distance"
+                        jobid, catid, skillName, category, distance = line.strip().split(',')
                         obj = {"jobid": int(jobid), "catid": int(catid), "skillName": skillName, \
-                        "distance": float(distance)}
+                        "category": category, "distance": float(distance)}
                         collection.insert_one(obj)
 
 def count_pca_job_cv(db):
@@ -296,29 +253,27 @@ def main():
     client = MongoClient('localhost', 27017)
     db = client['thesis-database']
 
-    tfidf_cv_category(db)
-    tfidf_job_category(db)
-    tfidf_job_cv(db)
-    # tfidf2_cv_category(db)
-    # tfidf2_job_category(db)
-    # tfidf2_job_cv(db)
-    countvectorizer_cv_category(db)
-    countvectorizer_job_category(db)
-    countvectorizer_job_cv(db)
-    word2vec_cv_category(db)
-    word2vec_job_category(db)
-    word2vec_job_cv(db)
+    # tfidf_cv_category(db)
+    # tfidf_job_category(db)
+    # tfidf_job_cv(db)
+
+    # countvectorizer_cv_category(db)
+    # countvectorizer_job_category(db)
+    # countvectorizer_job_cv(db)
+    # word2vec_cv_category(db)
+    # word2vec_job_category(db)
+    # word2vec_job_cv(db)
 
     word2vec2_cv_category(db)
     word2vec2_job_category(db)
     word2vec2_job_cv(db)
+    #
+    # count_pca_cv_category(db)
+    # count_pca_job_category(db)
+    # count_pca_job_cv(db)
 
-    count_pca_cv_category(db)
-    count_pca_job_category(db)
-    count_pca_job_cv(db)
-
-    write_all_jobs(db)
-    write_all_categories(db)
+    # write_all_jobs(db)
+    # write_all_categories(db)
 
 if __name__ == '__main__':
     main()

@@ -40,7 +40,7 @@ def main():
     resultDF.registerTempTable("resultTable")
     jobs = spark.sql("SELECT result AS jobsVec, id AS jobId FROM resultTable WHERE type = 'job'")
     cvs = spark.sql("SELECT result AS cvsVec, id AS cvid FROM resultTable WHERE type = 'cv'")
-    categories = spark.sql("SELECT result AS categoriesVec, cat.id, cat.skillName FROM resultTable AS rt\
+    categories = spark.sql("SELECT result AS categoriesVec, cat.id, cat.skillName, category FROM resultTable AS rt\
     LEFT JOIN categories AS cat ON rt.id = cat.id WHERE type = 'categories'")
 
     #Calculate job-cv similarity START
@@ -52,16 +52,16 @@ def main():
 
     #Calculate cv-category similarity START
     crossJoined_cv_cat = cvs.crossJoin(categories)
-    calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, calculate_distance(x.cvsVec, x.categoriesVec)))\
-    .toDF(["cvid", "category_id", "skillName", "distance"]).orderBy(asc("cvid"), asc("distance")).coalesce(2)
+    calculated_cv_cat = crossJoined_cv_cat.rdd.map(lambda x: (x.cvid, x.id, x.skillName, x.category, calculate_distance(x.cvsVec, x.categoriesVec)))\
+    .toDF(["cvid", "category_id", "skillName", "category", "distance"]).orderBy(asc("cvid"), asc("distance")).coalesce(2)
     calculated_cv_cat.write.csv('Calculated/word2vec/cv-category')
     #Calculate cv-category similarity END
 
     #Job-category START
-    crossJoined_job_cat = jobs.select("jobId", "jobsVec").crossJoin(categories.select("id", "skillName", "categoriesVec"))
+    crossJoined_job_cat = jobs.select("jobId", "jobsVec").crossJoin(categories.select("id", "skillName","category", "categoriesVec"))
     calculatedDF_job_cat = crossJoined_job_cat.rdd\
-    .map(lambda x: (x.jobId, x.id, x.skillName, calculate_distance(x.jobsVec, x.categoriesVec)))\
-    .toDF(["jobid", "catid", "skillName", "distance"])
+    .map(lambda x: (x.jobId, x.id, x.skillName, x.category, calculate_distance(x.jobsVec, x.categoriesVec)))\
+    .toDF(["jobid", "catid", "skillName", "category", "distance"])
     ordered_job_cat = calculatedDF_job_cat.orderBy( asc("distance")).coalesce(2)
     ordered_job_cat.write.csv('Calculated/word2vec/job-category')
     #Job-category END
