@@ -149,7 +149,9 @@ def edison_skills():
             #Fetch  best CVs for this job
             cv_differences = []
             cvs = db[method + '-job-cv'].find({"jobid": job_id}).sort("distance", 1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
+            print(cvs.count())
             for cv in cvs:
+                print(cv["cvid"])
                 cv_obj = {"cvid": cv['cvid'], "job_distance": cv["distance"]}
                 cv_cat_diffs = db[method + '-cv-category'].find({"cvid": cv['cvid'], "category": "Edison"}, {"_id":0, "distance": 1, "skillName": 1})
                 skill_differences = []
@@ -159,7 +161,7 @@ def edison_skills():
                 cv_differences.append(cv_obj)
 
                 final_obj = {"job_diff": job_diff_obj, "cv_differences": cv_differences}
-                return jsonify({"response": final_obj,"statusCode": 200})
+            return jsonify({"response": final_obj,"statusCode": 200})
         except KeyError:
             return jsonify({"response": {}, "statusCode": 404, "message": "Key error"})
         except ValueError:
