@@ -40,6 +40,22 @@ def job_by_id(id):
             return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+@app.route('/cv/<cvid>', methods=['GET'])
+def cv_by_id(cvid):
+    if request.method == 'GET':
+        try:
+            collection = db['allcvs']
+            doc = collection.find_one({"cvid":int(cvid)})
+            if not doc:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            obj = {"cvid": doc['cvid'], "description": doc['description']}
+            return jsonify({"response": obj, "statusCode": 200})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
 @app.route('/skill/<name>', methods=['GET'])
 def cat_by_name(name):
     if request.method == 'GET':

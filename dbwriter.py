@@ -249,31 +249,44 @@ def count_pca_job_cv(db):
                     obj = {"jobid": int(jobid), "cvid": int(cvid), "distance": float(distance)}
                     collection.insert_one(obj)
 
+def write_all_cvs(db):
+    collection = db['allcvs']
+    q = Path('allcvs4rdd/allcvs.jsonl')
+    with q.open() as f:
+        for line in f:
+            json_obj = json.loads(line.strip())
+            try:
+                obj = {"cvid": json_obj['cvid'], "description": json_obj["description"]}
+                collection.insert_one(obj)
+            except:
+                continue
+
 def main():
     client = MongoClient('localhost', 27017)
     db = client['thesis-database']
 
-    tfidf_cv_category(db)
-    tfidf_job_category(db)
-    tfidf_job_cv(db)
-
-    countvectorizer_cv_category(db)
-    countvectorizer_job_category(db)
-    countvectorizer_job_cv(db)
-    word2vec_cv_category(db)
-    word2vec_job_category(db)
-    word2vec_job_cv(db)
-
-    word2vec2_cv_category(db)
-    word2vec2_job_category(db)
-    word2vec2_job_cv(db)
-    
-    count_pca_cv_category(db)
-    count_pca_job_category(db)
-    count_pca_job_cv(db)
-
-    write_all_jobs(db)
-    write_all_categories(db)
+    # tfidf_cv_category(db)
+    # tfidf_job_category(db)
+    # tfidf_job_cv(db)
+    #
+    # countvectorizer_cv_category(db)
+    # countvectorizer_job_category(db)
+    # countvectorizer_job_cv(db)
+    # word2vec_cv_category(db)
+    # word2vec_job_category(db)
+    # word2vec_job_cv(db)
+    #
+    # word2vec2_cv_category(db)
+    # word2vec2_job_category(db)
+    # word2vec2_job_cv(db)
+    #
+    # count_pca_cv_category(db)
+    # count_pca_job_category(db)
+    # count_pca_job_cv(db)
+    #
+    # write_all_jobs(db)
+    # write_all_categories(db)
+    write_all_cvs(db)
 
 if __name__ == '__main__':
     main()
