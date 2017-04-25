@@ -1,0 +1,213 @@
+Analytic applications are a type of business application software, used to measure and improve the performance of business operations. More specifically, analytic applications are a type of business intelligence solution. As such they use collections of historical data about business operations to provide business users with information and tools that allow them to make improvements in business functions.
+
+The maturity levels for business intelligence solutions are as follows:
+
+    operational reporting
+    analytic reporting
+    business dashboards
+    analytic applications
+
+It may extend further to predictive analytics, or predictive analysis may form part of the analytic application - depending on both the subject matter under analysis, and the nature of the analysis required.
+
+Analytic applications are typically described as a subset of performance management. They specifically relate to the analysis of a business process (such as sales pipeline analysis, accounts payable analytics, or risk adjusted profitability analysis) in support of decision making.
+
+To qualify as an application (rather than simply as a data warehousing tool), these tools should promote some form of automation. The maturity level of this automation is as follows:
+
+    reading data from a nominated operational system (ERP, CRM, SCM, etc.) into a data warehouse optimized for analysis (data led automation),
+    reports, dashboards and scorecards based on that data structure (reporting led automation),
+    what-if analysis and scenario-modeling (predictive or analytic led automation).
+
+In most cases, these three levels are discrete functions, loosely banded together as a single product, and there is little automation of the process from end to end.
+Collecting reams of big data is one thing; doing something useful with all that information is another. But the former without the latter won't win business intelligence, analytics and IT teams any plaudits from corporate executives. As Gartner Inc. analyst Doug Laney put it at the consulting company's 2013 Business Intelligence and Analytics Summit in Grapevine, Texas, successful big data projects depend on companies "recognizing that there are opportunities to really innovate with this information" -- and then taking the required steps to capitalize on those opportunities.
+
+That's where big data analytics applications come in. Finding the business value hidden in hoards of big data can be a tough nut to crack -- but there's a growing body of examples that can help organizations get cracking. And more businesses are getting going. At the 2013 Pacific Northwest BI Summit, a gathering of about 20 IT vendor execs and industry consultants held in Grants Pass, Ore., Claudia Imhoff, president of consultancy Intelligent Solutions Inc., said she was seeing companies "starting to move more to the proactive side than the reactive side" on big data analytics. There's a compelling reason to do so, Imhoff noted: "As much as it's hyped, big data does open doors to things we couldn't do five years ago, or even two years ago."
+
+SearchBusinessAnalytics has published a variety of articles and multimedia items that can help prepare your organization to walk through those doors. We've compiled many of them in a comprehensive guide to big data analytics tools and project management best practices. Separately, in a pair of articles, consultant Lyndsay Wise outlines key factors to consider in planning a big data analytics architecture and offers advice on managing successful projects; meanwhile, consultant Rick Sherman details big data analytics worst practices that you'll want to avoid. Wayne Eckerson, TechTarget's BI and analytics industry analyst, discusses big data analytics basics in one video interview and assesses the potential benefits of using Hadoop systems in another. David Loshin, another consultant, weighs in on the upgraded analytical capabilities of Hadoop 2. In addition, we catalog tips on building analytical models with big data and look at the potential big data punch of in-memory analytics software. That's just a sample of our editorial content on big data analytics applications and projects -- and our doors are always open to you.
+In management information systems, a dashboard is "an easy to read, often single page, real-time user interface, showing a graphical presentation of the current status (snapshot) and historical trends of an organization’s or computer appliance's key performance indicators to enable instantaneous and informed decisions to be made at a glance."[1] Dashboards often provide at-a-glance views of KPIs (key performance indicators) relevant to a particular objective or business process (e.g. sales, marketing, human resources, or production).[2] In real-world terms, "dashboard" is another name for "progress report" or "report."
+
+Often, the "dashboard" is displayed on a web page that is linked to a database which allows the report to be constantly updated. For example, a manufacturing dashboard may show numbers related to productivity such as number of parts manufactured, or number of failed quality inspections per hour. Similarly, a human resources dashboard may show numbers related to staff recruitment, retention and composition, for example number of open positions, or average days or cost per recruitment.[3]
+
+The term dashboard originates from the automobile dashboard where drivers monitor the major functions at a glance via the instrument cluster.
+
+Contents
+
+    1 Benefits
+    2 Classification
+    3 Types of dashboards
+    4 Dashboards and scoreboards
+    5 Design
+    6 Assessing the quality of dashboards
+    7 History
+    8 See also
+        8.1 Dashboard software
+        8.2 Related terms
+    9 References
+    10 Further reading
+
+Benefits
+
+Digital dashboards allow managers to monitor the contribution of the various departments in their organization. To gauge exactly how well an organization is performing overall, digital dashboards allow you to capture and report specific data points from each department within the organization, thus providing a "snapshot" of performance.
+
+Benefits of using digital dashboards include:[3]
+
+    Visual presentation of performance measures
+    Ability to identify and correct negative trends
+    Measure efficiencies/inefficiencies
+    Ability to generate detailed reports showing new trends
+    Ability to make more informed decisions based on collected business intelligence
+    Align strategies and organizational goals
+    Saves time compared to running multiple reports
+    Gain total visibility of all systems instantly
+    Quick identification of data outliers and correlations
+
+Classification
+
+Dashboards can be broken down according to role and are either strategic, analytical, operational, or informational.[4] Strategic dashboards support managers at any level in an organization, and provide the quick overview that decision makers need to monitor the health and opportunities of the business. Dashboards of this type focus on high level measures of performance, and forecasts. Strategic dashboards benefit from static snapshots of data (daily, weekly, monthly, and quarterly) that are not constantly changing from one moment to the next. Dashboards for analytical purposes often include more context, comparisons, and history, along with subtler performance evaluators. Analytical dashboards typically support interactions with the data, such as drilling down into the underlying details. Dashboards for monitoring operations are often designed differently from those that support strategic decision making or data analysis and often require monitoring of activities and events that are constantly changing and might require attention and response at a moment's notice.
+Types of dashboards
+Dashboard of Sustainability screen shot illustrating example dashboard layout.
+
+Digital dashboards may be laid out to track the flows inherent in the business processes that they monitor. Graphically, users may see the high-level processes and then drill down into low level data. This level of detail is often buried deep within the corporate enterprise and otherwise unavailable to the senior executives.
+
+Three main types of digital dashboard dominate the market today: stand alone software applications, web-browser based applications, and desktop applications also known as desktop widgets. The last are driven by a widget engine.
+
+Specialized dashboards may track all corporate functions. Examples include human resources, recruiting, sales, operations, security, information technology, project management, customer relationship management and many more departmental dashboards. For a smaller organization like a startup a compact startup scorecard dashboard[5] tracks important activities across lot of domains ranging from social media to sales
+
+Digital dashboard projects involve business units as the driver and the information technology department as the enabler. The success of digital dashboard projects often depends on the metrics that were chosen for monitoring. Key performance indicators, balanced scorecards, and sales performance figures are some of the content appropriate on business dashboards.
+Dashboards and scoreboards
+
+Balanced Scoreboards and Dashboards have been linked together as if they were interchangeable. However, although both visually display critical information, the difference is in the format: Scoreboards can open the quality of an operation while dashboards provide calculated direction. A balanced scoreboard has what they called a "prescriptive" format. It should always contain these components (Active Strategy)...
+
+    Perspectives – groupings of high level strategic areas
+    Objectives – verb-noun phrases pulled from a strategy plan
+    Measures – also called Metric or Key Performance Indicators (KPIs)
+    Spotlight Indicators – red, yellow, or green symbols that provide an at-a-glance view of a measure’s performance.
+
+Each of these sections ensures that a Balanced Scorecard is essentially connected to the businesses critical strategic needs.
+
+The design of a dashboard is more loosely defined. Dashboards are usually a series of graphics, charts, gauges and other visual indicators that can be monitored and interpreted. Even when there is a strategic link, on a dashboard, it may not be noticed as such since objectives are not normally present on dashboards. However, dashboards can be customized to link their graphs and charts to strategic objectives.[6]
+Design
+
+Digital dashboard technology is available "out-of-the-box" from many software providers. Some companies however continue to do in-house development and maintenance of dashboard applications. For example, GE Aviation has developed a proprietary software/portal called "Digital Cockpit" to monitor the trends in aircraft spare parts business.
+
+A good information design will clearly communicate key information to users and makes supporting information easily accessible.[7]
+
+Assessing the quality of dashboards
+
+There are four key elements to a good dashboard:.[8]
+
+    Simple, communicates easily
+    Minimum distractions...it could cause confusion
+    Supports organized business with meaning and useful data
+    Applies human visual perception to visual presentation of information
+
+In management information systems, a dashboard is
+
+    "An easy to read, often single page, real-time user interface, showing a graphical presentation of the current status (snapshot) and historical trends of an organization’s key performance indicators (KPIs) to enable instantaneous and informed decisions to be made at a glance."[9]
+
+History
+
+The idea of digital dashboards followed the study of decision support systems in the 1970s. Early predecessors of the modern business dashboard were first developed in the 1980s in the form of Executive Information Systems (EISs). Due to problems primarily with data refreshing and handling, it was soon realized that the approach wasn’t practical as information was often incomplete, unreliable, and spread across too many disparate sources.[10] Thus, EISs hibernated until the 1990s when the information age quickened pace and data warehousing, and online analytical processing (OLAP) allowed dashboards to function adequately.[citation needed] Despite the availability of enabling technologies, the dashboard use didn't become popular until later in that decade, with the rise of key performance indicators (KPIs), and the introduction of Robert S. Kaplan and David P. Norton's Balanced Scorecard.[11] In the late 1990s, Microsoft promoted a concept known as the Digital Nervous System and "digital dashboards" were described as being one leg of that concept.[12] Today, the use of dashboards forms an important part of Business Performance Management (BPM).
+
+
+See also
+
+    Dashboard (disambiguation)
+
+Dashboard software
+
+    LogiAnalytics 
+    Graphite (software)
+    Kibana
+    QlikView
+    SAP Design Studio
+    SAP BusinessObjects Dashboards
+    SAP Lumira
+    Target Dashboard 
+    HipDash - Smart Dashboard 
+
+Related terms
+
+    Business activity monitoring
+    Complex event processing
+    Corporate performance management
+    Dashboard of Sustainability
+    Data presentation architecture
+    Enterprise manufacturing intelligence
+    Event stream processing
+    Information graphics
+    Information design
+    Management cockpit
+    Scientific visualization
+
+List of reporting software
+From Wikipedia, the free encyclopedia
+
+The following is a list of notable report generator software. Reporting software is used to generate human-readable reports from various data sources.
+Free software
+
+    BIRT Project
+    D3.js
+    GNU Enterprise (reporting sub-package)
+    JasperReports
+    jsreport
+    KNIME
+    LibreOffice Base
+    OpenOffice Base
+    Pentaho
+    SpagoBI
+
+Commercial software
+
+    ActiveReports
+    Actuate_Corporation
+    AnyChart
+    BOARD
+    Cognos BI
+    Crystal Reports
+    CyberQuery
+    DevExpress Reporting
+    GoodData
+    icCube
+    I-net Crystal-Clear
+    InetSoft
+    Information Builders' FOCUS and WebFOCUS
+    Infragistics NetAdvantage Reporting
+    InstantAtlas
+    Jedox
+    Jinfonet Software
+    List & Label
+    Logi Analytics
+    m-Power
+    MicroStrategy
+    Navicat
+    OBIEE
+    Oracle Discoverer
+    Oracle Reports
+    Hyperion
+    Oracle XML Publisher
+    Plotly
+    Proclarity
+    Procurify
+    QlikView
+    QuickBase
+    Roambi
+    RW3 Technologies
+    SiSense
+    Splunk
+    SQL Server Reporting Services
+    Stimulsoft Reports
+    Style Report
+    Tableau
+    Targit
+    TIBCO
+    Text Control
+    Windward Reports
+    XLCubed
+
+In data processing operational reporting is reporting about operational details that reflects current activity. Operational reporting is intended to support the day-to-day activities of the organization. "Examples of operational reporting include bank teller end-of-day window balancing reports, daily account audits and adjustments, daily production records, flight-by-flight traveler logs and transaction logs."[1]
+See also
+
+    Business reporting
+    List of reporting software
+    Reporting (disambiguation)
+

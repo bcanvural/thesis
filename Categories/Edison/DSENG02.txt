@@ -1,0 +1,276 @@
+Computational Science (also scientific computing or scientific computation (SC)) is a rapidly growing multidisciplinary field that uses advanced computing capabilities to understand and solve complex problems. Computational science fuses three distinct elements:[1]
+
+    Algorithms (numerical and non-numerical) and modeling and simulation software developed to solve science (e.g., biological, physical, and social), engineering, and humanities problems
+    Computer and information science that develops and optimizes the advanced system hardware, software, networking, and data management components needed to solve computationally demanding problems
+    The computing infrastructure that supports both the science and engineering problem solving and the developmental computer and information science
+
+In practical use, it is typically the application of computer simulation and other forms of computation from numerical analysis and theoretical computer science to solve problems in various scientific disciplines.
+
+The field is different from theory and laboratory experiment which are the traditional forms of science and engineering. The scientific computing approach is to gain understanding, mainly through the analysis of mathematical models implemented on computers.
+
+Scientists and engineers develop computer programs, application software, that model systems being studied and run these programs with various sets of input parameters. In some cases, these models require massive amounts of calculations (usually floating-point) and are often executed on supercomputers or distributed computing platforms.
+
+Numerical analysis is an important underpinning for techniques used in computational science.
+
+Contents
+
+    1 Applications of computational science
+        1.1 Numerical simulations
+        1.2 Model fitting and data analysis
+        1.3 Computational optimization
+    2 Methods and algorithms
+    3 Reproducibility and open research computing
+    4 Journals
+    5 Education
+    6 Related fields
+    7 See also
+    8 References
+    9 Additional sources
+    10 External links
+
+Applications of computational science
+
+Problem domains for computational science/scientific computing include:
+Numerical simulations
+
+Numerical simulations have different objectives depending on the nature of the task being simulated:
+
+    Reconstruct and understand known events (e.g., earthquake, tsunamis and other natural disasters).
+    Predict future or unobserved situations (e.g., weather, sub-atomic particle behaviour, and primordial explosions).
+
+Model fitting and data analysis
+
+    Appropriately tune models or solve equations to reflect observations, subject to model constraints (e.g. oil exploration geophysics, computational linguistics).
+    Use graph theory to model networks, such as those connecting individuals, organizations, websites, and biological systems.
+
+Computational optimization
+Main article: Mathematical optimization
+
+    Optimize known scenarios (e.g., technical and manufacturing processes, front-end engineering).
+    Machine learning
+
+Methods and algorithms
+
+Algorithms and mathematical methods used in computational science are varied. Commonly applied methods include:
+
+    Numerical analysis
+    Application of Taylor series as convergent and asymptotic series
+    Computing derivatives by Automatic differentiation (AD)
+    Computing derivatives by finite differences
+    Graph theoretic suites
+    High order difference approximations via Taylor series and Richardson extrapolation
+    Methods of integration on a uniform mesh: rectangle rule (also called midpoint rule), trapezoid rule, Simpson's rule
+    Runge Kutta method for solving ordinary differential equations
+    Monte Carlo methods
+    Molecular dynamics
+    Linear programming
+    Branch and cut
+    Branch and Bound
+    Numerical linear algebra
+    Computing the LU factors by Gaussian elimination
+    Cholesky factorizations
+    Discrete Fourier transform and applications.
+    Newton's method
+    Space mapping
+    Time stepping methods for dynamical systems
+
+Both historically and today, Fortran remains popular for most applications of scientific computing.[2][3] Other programming languages and computer algebra systems commonly used for the more mathematical aspects of scientific computing applications include GNU Octave, Haskell,[2] Julia,[2] Maple,[3] Mathematica,[4] MATLAB, Python (with third-party SciPy library), Perl (with third-party PDL library),[citation needed] R, SciLab, and TK Solver. The more computationally intensive aspects of scientific computing will often use some variation of C or Fortran and optimized algebra libraries such as BLAS or LAPACK.
+
+Computational science application programs often model real-world changing conditions, such as weather, air flow around a plane, automobile body distortions in a crash, the motion of stars in a galaxy, an explosive device, etc. Such programs might create a 'logical mesh' in computer memory where each item corresponds to an area in space and contains information about that space relevant to the model. For example, in weather models, each item might be a square kilometer; with land elevation, current wind direction, humidity, temperature, pressure, etc. The program would calculate the likely next state based on the current state, in simulated time steps, solving equations that describe how the system operates; and then repeat the process to calculate the next state.
+
+The term computational scientist is used to describe someone skilled in scientific computing. This person is usually a scientist, an engineer or an applied mathematician who applies high-performance computing in different ways to advance the state-of-the-art in their respective applied disciplines in physics, chemistry or engineering. Scientific computing has increasingly also impacted on other areas including economics, biology and medicine.
+
+Computational science is now commonly considered a third mode of science, complementing and adding to experimentation/observation and theory.[5] The essence of computational science is numerical algorithm[6] and/or computational mathematics. In fact, substantial effort in computational sciences has been devoted to the development of algorithms, the efficient implementation in programming languages, and validation of computational results. A collection of problems and solutions in computational science can be found in Steeb, Hardy, Hardy and Stoop, 2004.[7]
+Reproducibility and open research computing
+
+The complexity of computational methods is a threat to the reproducibility of research.[8] Jon Claerbout has become prominent for pointing out that reproducible research requires archiving and documenting all raw data and all code used to obtain a result.[9][10][11] Nick Barnes, in the Science Code Manifesto, proposed five principles that should be followed when software is used in open science publication.[12] Tomi Kauppinen et al. established and defined Linked Open Science, an approach to interconnect scientific assets to enable transparent, reproducible and transdisciplinary research.[13]
+Journals
+
+Most scientific journals do not accept software papers because a description of a reasonably mature software usually does not meet the criterion of novelty.[citation needed] Outside computer science itself, there are only few journals dedicated to scientific software. Established journals like Elsevier's Computer Physics Communications publish papers that are not open-access (though the described software usually is). To fill this gap, a new journal entitled Open research computation was announced in 2010;[14] it closed in 2012 without having published a single paper, for a lack of submissions probably due to excessive quality requirements.[15] A new initiative was launched in 2012, the Journal of Open Research Software.[16] In 2015, a new journal [17] dedicated to the replication of computational results has been started on GitHub.
+Education
+
+Scientific computation is most often studied through an applied mathematics or computer science program, or within a standard mathematics, sciences, or engineering program. At some institutions a specialization in scientific computation can be earned as a "minor" within another program (which may be at varying levels). However, there are increasingly many bachelor's and master's programs in computational science. Some schools also offer the Ph.D. in computational science, computational engineering, computational science and engineering, or scientific computation.
+
+There are also programs in areas such as computational physics, computational chemistry, etc.
+Related fields
+
+    Bioinformatics
+    Cheminformatics
+    Chemometrics
+    Computational archaeology
+    Computational biology
+    Computational chemistry
+    Computational economics
+    Computational electromagnetics
+    Computational engineering
+    Computational finance
+    Computational fluid dynamics
+    Computational forensics
+    Computational geophysics
+    Computational informatics
+    Computational intelligence
+    Computational law
+    Computational linguistics
+    Computational mathematics
+    Computational mechanics
+    Computational neuroscience
+    Computational particle physics
+    Computational physics
+    Computational sociology
+    Computational statistics
+    Computer algebra
+    Environmental simulation
+    Financial modeling
+    Geographic information system (GIS)
+    High performance computing
+    Machine learning
+    Network analysis
+    Neuroinformatics
+    Numerical linear algebra
+    Numerical weather prediction
+    Pattern recognition
+    Scientific visualization
+
+See also
+
+    iconScience portal Computing portal iconMathematics portal 
+
+    Computational science and engineering
+    Comparison of computer algebra systems
+    List of molecular modeling software
+    List of numerical analysis software
+    List of statistical packages
+    Timeline of scientific computing
+    Simulated reality
+    Extensions for Scientific Computation (XSC)
+
+
+
+Computational science refers to the use of computers, networks, storage devices, software, and algorithms to solve problems, do simulations, build things, or create new knowledge. The figure below shows how Computational Science can be viewed as the intersection of:
+
+    Computing and networking hardware
+    Algorithms, Numerical Analysis, and Mathematics
+    Software, Programming, and Databases
+    Discipline specific knowledge
+
+
+It is an incredibly broad discipline. The Institute of Electrical and Electronics Engineers (IEEE) states (paraphrased here):
+
+The term Computational Science presents a broader view, implying science (and engineering) that is "computational" as opposed to "experimental" or "theoretical" in nature. Computer Science, of course, deals with the science and engineering of computers.
+Some areas of computational science require large computers to perform trillions of floating point operations (computational fluid dynamics, computational chemistry, computational meteorology, computational physics, etc.). Other areas of computational science build and utilize large databases and require terabytes of storage (bioinformatics, business, knowledge management, geographical information systems, etc.). And some areas will require networks of computers to accomplish their goals (web technologies, grid computing, collaborative software, systems of systems, online communities, etc.). Graphics and visualization are also important areas. The most exciting computational science problems might involve all of these: computing, data storage, and networking (e.g. artificial intelligence, computational steering, mobile robots, virtual reality, etc.). Software development and programming are also crucial parts of computational science (e.g. Java, C++, MPI, CORBA, OpenGL, mySQL, PHP, Perl, Linux, etc.).
+
+logo
+
+
+
+The Krell Institite states (in http://www.krellinst.org/AiS/textbook/unit1/compsci_n1.html):
+
+"Computational science is a relatively new discipline, and there is currently no consensus on a precise definition of what computational science actually is. In broad terms, computational science involves using computers to study scientific problems and complements the areas of theory and experimentation in traditional scientific investigation. Computational science seeks to gain understanding of science principally through the use and analysis of mathematical models on high performance computers."
+
+"Computational science has emerged as a powerful and indispensable method of analyzing a variety of problems in research, product and process development, and manufacturing. Computational simulation is being accepted as a third methodology in scientific research, complementing the traditional approaches of theory and experiment. Computer simulations provide both qualitative and quantitative insights into many phenomena that are too complex to be dealt with by analytical methods or too expensive or dangerous to study by experiments. Many experiments and investigations that have traditionally been performed in a laboratory, a wind tunnel, or the field are being augmented or replaced by computer simulations. Some studies, such as nuclear repository integrity and global climate change, involve time scales that preclude the use of realistic physical experiments. The availability of high performance computers, graphic workstations, and high speed networks, coupled with major advances in algorithms and software, has brought about a revolution in the way scientific and engineering investigations are carried out."
+
+"Computational science should not be confused with computer science. Computational science focuses on a scientific or engineering problem and draws from computer science and mathematics to gain an improved understanding of the problem. Computer science focuses on the computer itself. Even though the areas are quite distinct, many of the topics typically considered to be in the domain of computer science are of much value in computational science. "
+
+"Traditional or established areas of computational science include:
+Computational fluid dynamics
+
+Atmospheric science Seismology
+Structural analysis
+Chemistry
+Magnetohydrodynamics
+Reservoir modeling
+Global ocean/climate modeling
+Environmental studies; and,
+Nuclear engineering
+
+
+Some nontraditional and emerging areas of computational science include:
+Biology
+Economics
+Materials research
+Medical imaging; and,
+Animal science.
+
+
+The list continues to grow. More recently, computational science has begun to make inroads into other areas, such as music and the visual arts."
+What is a Computational Scientist?
+
+The term computational scientist is commonly used to describe scientists, engineers, and mathematicians who apply high performance computer technologies in creative and essential ways to advance the state of knowledge in their respective fields. A computational scientist must have expertise in an applied discipline and must also be familiar with leading-edge computer architectures and the data structures issues associated with those architectures. A computational scientist must also have a good understanding of both the analysis and implementation of numerical algorithms and the ways that algorithms map to data structures and computer architectures, and additionally, must be comfortable with networking technologies that permit access to remote computers, massive databases, and visualization facilities. Recently, scientific visualization has become an essential tool of the computational scientist for the preprocessing of data sets and the interrogation of massive amounts of computational results. In summary, a computational scientist, using networking and visualization tools, works in the intersection of 1) an applied science or engineering discipline; 2) computer science; and 3) mathematics. This multi-disciplinary activity has given rise to a new way of conducting research.
+
+The Society of Industrial and Applied Mathematics ( SIAM ) states:
+
+"Computation is now regarded as an equal and indispensable partner, along with theory and experiment, in the advance of scientific knowledge and engineering practice. Numerical simulation enables the study of complex systems and natural phenomena that would be too expensive or dangerous, or even impossible, to study by direct experimentation. The quest for ever higher levels of detail and realism in such simulations requires enormous computational capacity, and has provided the impetus for dramatic breakthroughs in computer algorithms and architectures. Due to these advances, computational scientists and engineers can now solve large-scale problems that were once thought intractable."
+
+"Computational science and engineering (CSE) is a rapidly growing multidisciplinary area with connections to the sciences, engineering, mathematics and computer science. CSE focuses on the development of problem-solving methodologies and robust tools for the solution of scientific and engineering problems. We believe that CSE will play an important if not dominating role for the future of the scientific discovery process and engineering design."
+
+The Cornell theory Center defines Computational Science to be:
+
+"A field that concentrates on the effective use of computer software, hardware and mathematics to solve real problems. It is a term used when it is desirable to distinguish the more pragmatic aspects of computing from (1) computer science, which often deals with the more theoretical aspects of computing; and from (2) computing engineering, which deals primarily with the design and construction of computers themselves. Computational science is often thought of as the third leg of science along with experimental and theoretical science."
+
+
+Computational science and engineering (CSE) is a relatively new discipline that deals with the development and application of computational models and simulations, often coupled with high-performance computing, to solve complex physical problems arising in engineering analysis and design (computational engineering) as well as natural phenomena (computational science). CSE has been described as the "third mode of discovery" (next to theory and experimentation).[1] In many fields, computer simulation is integral and therefore essential to business and research. Computer simulation provides the capability to enter fields that are either inaccessible to traditional experimentation or where carrying out traditional empirical inquiries is prohibitively expensive. CSE should neither be confused with pure computer science, nor with computer engineering, although a wide domain in the former is used in CSE (e.g., certain algorithms, data structures, parallel programming, high performance computing) and some problems in the latter can be modeled and solved with CSE methods (as an application area).
+
+It is typically offered as a masters or doctorate program at several institutions.
+
+Contents
+
+    1 Methods
+    2 Applications
+    3 See also
+    4 References
+    5 External links
+
+Methods
+
+Computational Science and Engineering methods and frameworks include:
+
+    High performance computing and techniques to gain efficiency (through change in computer architecture, parallel algorithms etc.)
+    Modeling and simulation
+    Algorithms for solving discrete and continuous problems
+    Analysis and visualization of data
+    Mathematical foundations: Numerical and applied linear algebra, initial & boundary value problems, Fourier analysis, optimization
+    Data Science for developing methods and algorithms to handle and extract knowledge from large scientific data
+
+With regard to computing, computer programming, algorithms, and parallel computing play a major role in CSE. The most widely used programming language in the scientific community is FORTRAN. Recently, C++ and C have increased in popularity over FORTRAN. Due to the wealth of legacy code in FORTRAN and its simpler syntax, the scientific computing community has been slow in completely adopting C++ as the lingua franca. Because of its very natural way of expressing mathematical computations, and its built-in visualization capacities, the proprietary language/environment MATLAB is also widely used, especially for rapid application development and model verification. Python along with external libraries (such as NumPy, SciPy, Matplotlib) has gain some popularity as a free and Copycenter alternative to MATLAB.
+Applications
+A numerical solution to the heat equation on a pump casing model using the finite element method.
+
+Computational Science and Engineering finds diverse applications, including in:
+
+    Aerospace Engineering and Mechanical Engineering: combustion simulations, structural dynamics, computational fluid dynamics, computational thermodynamics, computational solid mechanics, vehicle crash simulation, biomechanics, trajectory calculation of satellites
+    Astrophysical systems
+    Battlefield simulations and military gaming, homeland security, emergency response
+    Biology and Medicine: protein folding simulations (and other macromolecules), bioinformatics, genomics, computational neurological modeling, modeling of biological systems (e.g., ecological systems), 3D CT ultrasound, MRI imaging, molecular bionetworks, cancer and seizure control
+    Chemistry: calculating the structures and properties of chemical compounds/molecules and solids, computational chemistry/cheminformatics, molecular mechanics simulations, computational chemical methods in solid state physics, chemical pollution transport
+    Civil Engineering: finite element analysis, structures with random loads, construction engineering, water supply systems, transportation/vehicle modeling
+    Computer Engineering, Electrical Engineering, and Telecommunications: VLSI, computational electromagnetics, semiconductor modeling, simulation of microelectronics, energy infrastructure, RF simulation, networks
+    Epidemiology: influenza spread
+    Environmental Engineering and Numerical weather prediction: climate research, Computational geophysics (seismic processing), modeling of natural disasters
+    Finance: derivative pricing, risk management
+    Industrial Engineering: discrete event and Monte-Carlo simulations (for logistics and manufacturing systems for example), queueing networks, mathematical optimization
+    Material Science: glass manufacturing, polymers, and crystals
+    Nuclear Engineering: nuclear blast modeling, fusion simulations
+    Petroleum engineering: petroleum reservoir modeling, oil and gas exploration
+    Physics: Computational particle physics, automatic calculation of particle interaction or decay, plasma modeling, cosmological simulations
+    Transportation
+
+See also
+
+    Computational science
+    Applied mathematics
+    Computational fluid dynamics
+    Numerical analysis
+    Multiphysics
+    Grand Challenges
+
+
+
+This new discipline in science combines computational thinking, modern computational methods, devices and collateral technologies to address problems far beyond the scope of traditional numerical methods.
+
+Computational science typically unifies three distinct elements:
+
+• Modeling, Algorithms and Simulations (e.g. numerical and non-numerical, discrete and continuous);
+• Software developed to solve science (e.g., biological, physical, and social), engineering, medicine, and humanities problems;
+• Computer and information science that develops and optimizes the advanced system hardware, software, networking, and data management components (e.g. problem solving environments).SE is a broad multidisciplinary area that encompasses applications in science/engineering, applied mathematics, numerical analysis, and computer science. Computer models and computer simulations have become an important part of the research repertoire, supplementing (and in some cases replacing) experimentation. Going from application area to computational results requires domain expertise, mathematical modeling, numerical analysis, algorithm development, software implementation, program execution, analysis, validation and visualization of results. CSE involves all of this.
+
+One point we would like to emphasize in this document is that CSE is a legitimate and important academic enterprise, even if it has yet to be formally recognized as such at some institutions. Although it includes elements from computer science, applied mathematics, engineering and science, CSE focuses on the integration of knowledge and methodologies from all of these disciplines, and as such is a subject which is distinct from any of them. 

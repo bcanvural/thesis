@@ -1,0 +1,667 @@
+Data blending lets analysts in the line of business access and combine data from multiple sources to reveal deeper intelligence that drives better business decision-making. Analysts use data blending to build an analytic dataset to answer a specific business question or take advantage of opportunities, with insight into customer preferences, marketing campaign results, financial operations, site and merchandising optimization, and much more. Alteryx's platform for self-service data analytics delivers the data blending needs that analysts require to create the most comprehensive data needed to answer these business questions.
+
+
+
+Data blending is when you combine data from multiple data source types in a single worksheet. The data is joined on common dimensions. Data Blending does not create row level joins and is not a way to add new dimensions or rows to your data. Refer to Join Your Data to learn how to create those types of joins. Instead, data blending should be used when you have related data in multiple data sources that you want to analyze together in a single view. For example, you may have Sales data collected in an Oracle database and Sales Goal data in an Excel spreadsheet. To compare actual sales to target sales, you can blend the data based on common dimensions to get access to the Sales Goal measure.
+
+To blend your data, you must first define common dimensions between the primary and secondary data sources. For example, when blending Actual and Target sales data, the two data sources may have a Date field in common. The Date field must be specified as a linking field. If the two dimensions don’t have the same name, you can define a custom relationship that creates the correct mapping between fields.
+
+For each data source that is used on the sheet, a query is sent to the database and the results are processed. Then all the results are left joined on the common dimensions. The join is done on the member aliases of the common dimensions so if the underlying values aren’t an exact match, you can fix it up in Tableau.
+
+With a left join, the view uses all data rows from the primary data source but only those data rows from the secondary data source that have values for fields that are in the view or for fields that are designated as linking fields. So changing the linking field, or designating multiple linking fields, can actually pull in different or additional data rows from the secondary data source, thereby changing the values returned by aggregations.
+
+In general, a good test to see whether data can be blended smoothly is to drag the dimensions from the primary data source into a text table on one sheet. Then on another sheet, drag the same fields from the secondary data source into a text table. If the two tables match up then the data is most likely going to blend correctly.
+
+
+Data integration involves combining data residing in different sources and providing users with a unified view of these data.[1] This process becomes significant in a variety of situations, which include both commercial (when two similar companies need to merge their databases) and scientific (combining research results from different bioinformatics repositories, for example) domains. Data integration appears with increasing frequency as the volume and the need to share existing data explodes.[2] It has become the focus of extensive theoretical work, and numerous open problems remain unsolved.
+
+Contents
+
+    1 History
+    2 Example
+    3 Theory of data integration
+        3.1 Definitions
+        3.2 Query processing
+    4 Data Integration tools
+    5 Data integration in the life sciences
+    6 See also
+    7 References
+
+History
+Figure 1:  schematic for a data warehouse. The ETL process extracts information from the source databases, transforms it and then loads it into the data warehouse.
+Figure 2:  schematic for a data-integration solution. A system designer constructs a mediated schema against which users can run queries. The virtual database interfaces with the source databases via wrapper code if required.
+
+Issues with combining heterogeneous data sources, often referred to as information silos, under a single query interface have existed for some time. In the early 1980s, computer scientists began designing systems for interoperability of heterogeneous databases.[3] The first data integration system driven by structured metadata was designed at the University of Minnesota in 1991, for the Integrated Public Use Microdata Series (IPUMS). IPUMS used a data warehousing approach, which extracts, transforms, and loads data from heterogeneous sources into a single view schema so data from different sources become compatible.[4] By making thousands of population databases interoperable, IPUMS demonstrated the feasibility of large-scale data integration. The data warehouse approach offers a tightly coupled architecture because the data are already physically reconciled in a single queryable repository, so it usually takes little time to resolve queries.[5]
+
+The data warehouse approach is less feasible for datasets that are frequently updated, requiring the ETL process to be continuously re-executed for synchronization. Difficulties also arise in constructing data warehouses when one has only a query interface to summary data sources and no access to the full data. This problem frequently emerges when integrating several commercial query services like travel or classified advertisement web applications.
+
+As of 2009 the trend in data integration favored loosening the coupling between data[citation needed] and providing a unified query-interface to access real time data over a mediated schema (see figure 2), which allows information to be retrieved directly from original databases. This is consistent with the SOA approach popular in that era. This approach relies on mappings between the mediated schema and the schema of original sources, and transform a query into specialized queries to match the schema of the original databases. Such mappings can be specified in 2 ways : as a mapping from entities in the mediated schema to entities in the original sources (the "Global As View" (GAV) approach), or as a mapping from entities in the original sources to the mediated schema (the "Local As View" (LAV) approach). The latter approach requires more sophisticated inferences to resolve a query on the mediated schema, but makes it easier to add new data sources to a (stable) mediated schema.
+
+As of 2010 some of the work in data integration research concerns the semantic integration problem. This problem addresses not the structuring of the architecture of the integration, but how to resolve semantic conflicts between heterogeneous data sources. For example, if two companies merge their databases, certain concepts and definitions in their respective schemas like "earnings" inevitably have different meanings. In one database it may mean profits in dollars (a floating-point number), while in the other it might represent the number of sales (an integer). A common strategy for the resolution of such problems involves the use of ontologies which explicitly define schema terms and thus help to resolve semantic conflicts. This approach represents ontology-based data integration. On the other hand, the problem of combining research results from different bioinformatics repositories requires bench-marking of the similarities, computed from different data sources, on a single criterion such as positive predictive value. This enables the data sources to be directly comparable and can be integrated even when the natures of experiments are distinct.[6]
+
+As of 2011 it was determined that current data modeling methods were imparting data isolation into every data architecture in the form of islands of disparate data and information silos. This data isolation is an unintended artifact of the data modeling methodology that results in the development of disparate data models. Disparate data models, when instantiated as databases, form disparate databases. Enhanced data model methodologies have been developed to eliminate the data isolation artifact and to promote the development of integrated data models.[7][8] One enhanced data modeling method recasts data models by augmenting them with structural metadata in the form of standardized data entities. As a result of recasting multiple data models, the set of recast data models will now share one or more commonality relationships that relate the structural metadata now common to these data models. Commonality relationships are a peer-to-peer type of entity relationships that relate the standardized data entities of multiple data models. Multiple data models that contain the same standard data entity may participate in the same commonality relationship. When integrated data models are instantiated as databases and are properly populated from a common set of master data, then these databases are integrated.
+
+Since 2011, Data hub approaches have been of greater interest than fully structured (relational) Enterprise Data Warehouses. Since 2013, Data lake approaches have risen to the level of Data Hubs. (See all three search terms popularity on Google Trends.[9] These approaches combine unstructured or varied data into one location, but do not necessarily require an (often complex) master relational schema to structure and define all data in the Hub.
+Example
+
+Consider a web application where a user can query a variety of information about cities (such as crime statistics, weather, hotels, demographics, etc.). Traditionally, the information must be stored in a single database with a single schema. But any single enterprise would find information of this breadth somewhat difficult and expensive to collect. Even if the resources exist to gather the data, it would likely duplicate data in existing crime databases, weather websites, and census data.
+
+A data-integration solution may address this problem by considering these external resources as materialized views over a virtual mediated schema, resulting in "virtual data integration". This means application-developers construct a virtual schema — the mediated schema — to best model the kinds of answers their users want. Next, they design "wrappers" or adapters for each data source, such as the crime database and weather website. These adapters simply transform the local query results (those returned by the respective websites or databases) into an easily processed form for the data integration solution (see figure 2). When an application-user queries the mediated schema, the data-integration solution transforms this query into appropriate queries over the respective data sources. Finally, the virtual database combines the results of these queries into the answer to the user's query.
+
+This solution offers the convenience of adding new sources by simply constructing an adapter or an application software blade for them. It contrasts with ETL systems or with a single database solution, which require manual integration of entire new dataset into the system. The virtual ETL solutions leverage virtual mediated schema to implement data harmonization; whereby the data are copied from the designated "master" source to the defined targets, field by field. Advanced Data virtualization is also built on the concept of object-oriented modeling in order to construct virtual mediated schema or virtual metadata repository, using hub and spoke architecture.
+
+Each data source is disparate and as such is not designed to support reliable joins between data sources. Therefore, data virtualization as well as data federation depends upon accidental data commonality to support combining data and information from disparate data sets. Because of this lack of data value commonality across data sources, the return set may be inaccurate, incomplete, and impossible to validate.
+
+One solution is to recast disparate databases to integrate these databases without the need for ETL. The recast databases support commonality constraints where referential integrity may be enforced between databases. The recast databases provide designed data access paths with data value commonality across databases.
+Theory of data integration
+
+The theory of data integration[1] forms a subset of database theory and formalizes the underlying concepts of the problem in first-order logic. Applying the theories gives indications as to the feasibility and difficulty of data integration. While its definitions may appear abstract, they have sufficient generality to accommodate all manner of integration systems,[10] including those that include nested relational / XML databases [11] and those that treat databases as programs.[12] Connections to particular databases systems such as Oracle or DB2 are provided by implementation-level technologies such as JDBC and are not studied at the theoretical level.
+Definitions
+
+Data integration systems are formally defined as a triple ⟨ G , S , M ⟩ {\displaystyle \left\langle G,S,M\right\rangle } \left\langle G,S,M\right\rangle where G {\displaystyle G} G is the global (or mediated) schema, S {\displaystyle S} S is the heterogeneous set of source schemas, and M {\displaystyle M} M is the mapping that maps queries between the source and the global schemas. Both G {\displaystyle G} G and S {\displaystyle S} S are expressed in languages over alphabets composed of symbols for each of their respective relations. The mapping M {\displaystyle M} M consists of assertions between queries over G {\displaystyle G} G and queries over S {\displaystyle S} S. When users pose queries over the data integration system, they pose queries over G {\displaystyle G} G and the mapping then asserts connections between the elements in the global schema and the source schemas.
+
+A database over a schema is defined as a set of sets, one for each relation (in a relational database). The database corresponding to the source schema S {\displaystyle S} S would comprise the set of sets of tuples for each of the heterogeneous data sources and is called the source database. Note that this single source database may actually represent a collection of disconnected databases. The database corresponding to the virtual mediated schema G {\displaystyle G} G is called the global database. The global database must satisfy the mapping M {\displaystyle M} M with respect to the source database. The legality of this mapping depends on the nature of the correspondence between G {\displaystyle G} G and S {\displaystyle S} S. Two popular ways to model this correspondence exist: Global as View or GAV and Local as View or LAV.
+Figure 3: Illustration of tuple space of the GAV and LAV mappings.[13] In GAV, the system is constrained to the set of tuples mapped by the mediators while the set of tuples expressible over the sources may be much larger and richer. In LAV, the system is constrained to the set of tuples in the sources while the set of tuples expressible over the global schema can be much larger. Therefore, LAV systems must often deal with incomplete answers.
+
+GAV systems model the global database as a set of views over S {\displaystyle S} S. In this case M {\displaystyle M} M associates to each element of G {\displaystyle G} G a query over S {\displaystyle S} S. Query processing becomes a straightforward operation due to the well-defined associations between G {\displaystyle G} G and S {\displaystyle S} S. The burden of complexity falls on implementing mediator code instructing the data integration system exactly how to retrieve elements from the source databases. If any new sources join the system, considerable effort may be necessary to update the mediator, thus the GAV approach appears preferable when the sources seem unlikely to change.
+
+In a GAV approach to the example data integration system above, the system designer would first develop mediators for each of the city information sources and then design the global schema around these mediators. For example, consider if one of the sources served a weather website. The designer would likely then add a corresponding element for weather to the global schema. Then the bulk of effort concentrates on writing the proper mediator code that will transform predicates on weather into a query over the weather website. This effort can become complex if some other source also relates to weather, because the designer may need to write code to properly combine the results from the two sources.
+
+On the other hand, in LAV, the source database is modeled as a set of views over G {\displaystyle G} G. In this case M {\displaystyle M} M associates to each element of S {\displaystyle S} S a query over G {\displaystyle G} G. Here the exact associations between G {\displaystyle G} G and S {\displaystyle S} S are no longer well-defined. As is illustrated in the next section, the burden of determining how to retrieve elements from the sources is placed on the query processor. The benefit of an LAV modeling is that new sources can be added with far less work than in a GAV system, thus the LAV approach should be favored in cases where the mediated schema is less stable or likely to change.[1]
+
+In an LAV approach to the example data integration system above, the system designer designs the global schema first and then simply inputs the schemas of the respective city information sources. Consider again if one of the sources serves a weather website. The designer would add corresponding elements for weather to the global schema only if none existed already. Then programmers write an adapter or wrapper for the website and add a schema description of the website's results to the source schemas. The complexity of adding the new source moves from the designer to the query processor.
+Query processing
+
+The theory of query processing in data integration systems is commonly expressed using conjunctive queries and Datalog, a purely declarative logic programming language.[14] One can loosely think of a conjunctive query as a logical function applied to the relations of a database such as " f ( A , B ) {\displaystyle f(A,B)} f(A,B) where A < B {\displaystyle A<B} A<B". If a tuple or set of tuples is substituted into the rule and satisfies it (makes it true), then we consider that tuple as part of the set of answers in the query. While formal languages like Datalog express these queries concisely and without ambiguity, common SQL queries count as conjunctive queries as well.
+
+In terms of data integration, "query containment" represents an important property of conjunctive queries. A query A {\displaystyle A} A contains another query B {\displaystyle B} B (denoted A ⊃ B {\displaystyle A\supset B} A\supset B) if the results of applying B {\displaystyle B} B are a subset of the results of applying A {\displaystyle A} A for any database. The two queries are said to be equivalent if the resulting sets are equal for any database. This is important because in both GAV and LAV systems, a user poses conjunctive queries over a virtual schema represented by a set of views, or "materialized" conjunctive queries. Integration seeks to rewrite the queries represented by the views to make their results equivalent or maximally contained by our user's query. This corresponds to the problem of answering queries using views (AQUV).[15]
+
+In GAV systems, a system designer writes mediator code to define the query-rewriting. Each element in the user's query corresponds to a substitution rule just as each element in the global schema corresponds to a query over the source. Query processing simply expands the subgoals of the user's query according to the rule specified in the mediator and thus the resulting query is likely to be equivalent. While the designer does the majority of the work beforehand, some GAV systems such as Tsimmis 
+involve simplifying the mediator description process.
+
+In LAV systems, queries undergo a more radical process of rewriting because no mediator exists to align the user's query with a  expansion strategy. The integration system must execute a search over the space of possible queries in order to find the best rewrite. The resulting rewrite may not be an equivalent query but maximally contained, and the resulting tuples may be incomplete. As of 2009 the MiniCon algorithm[15] is the leading query rewriting algorithm for LAV data integration systems.
+
+In general, the complexity of query rewriting is NP-complete.[15] If the space of rewrites is relatively small this does not pose a problem — even for integration systems with hundreds of sources.
+Data Integration tools
+
+    Alteryx
+    Analytics Canvas
+    Cloud Elements API Integration
+    DataWatch
+    Denodo Platform
+    HiperFabric 
+    Lavastorm
+    ParseKit (enigma.io)
+    Paxata
+    RapidMiner Studio
+    Red Hat JBoss Data Virtualization. Community project: teiid.
+    Azure Data Factory (ADF)
+    SQL Server Integration Services (SSIS)
+
+Data integration in the life sciences
+
+Large-scale questions in science, such as global warming, invasive species spread, and resource depletion, are increasingly requiring the collection of disparate data sets for meta-analysis. This type of data integration is especially challenging for ecological and environmental data because metadata standards are not agreed upon and there are many different data types produced in these fields. National Science Foundation initiatives such as Datanet are intended to make data integration easier for scientists by providing cyberinfrastructure and setting standards. The five funded Datanet initiatives are DataONE,[16] led by William Michener at the University of New Mexico; The Data Conservancy,[17] led by Sayeed Choudhury of Johns Hopkins University; SEAD: Sustainable Environment through Actionable Data,[18] led by Margaret Hedstrom of the University of Michigan; the DataNet Federation Consortium,[19] led by Reagan Moore of the University of North Carolina; and Terra Populus,[20] led by Steven Ruggles of the University of Minnesota. The Research Data Alliance,[21] has more recently explored creating global data integration frameworks. The OpenPHACTS project, funded through the European Union Innovative Medicines Initiative, built a drug discovery platform by linking datasets from providers such as European Bioinformatics Institute, Royal Society of Chemistry, UniProt, WikiPathways and DrugBank.
+See also
+
+    Business semantics management
+    Core data integration
+    Customer data integration
+    Data curation
+    Data fusion
+    Data mapping
+    Data virtualization
+    Data Warehousing
+    Data wrangling
+    Database model
+    Datalog
+    Dataspaces
+    Edge data integration
+    Enterprise application integration
+    Enterprise Architecture framework
+    Enterprise Information Integration (EII)
+    Enterprise integration
+    Extract, transform, load
+    Geodi: Geoscientific Data Integration
+    Information integration
+    Information Server
+    Information silo
+    Integration Competency Center
+    Integration Consortium
+    JXTA
+    Master data management
+    Object-relational mapping
+    Ontology based data integration
+    Open Text
+    Schema Matching
+    Semantic Integration
+    SQL
+    Three schema approach
+    UDEF
+    Web service
+
+
+data blending
+Informally: the answer is not always written at the same book as the question. Thus, we must learn to decipher it from multiple books. Some of them are in a foreign language, some are hundreds of times thicker than others, and most of them are by different authors who have never agreed on a literary style. And there is no catalogue.
+
+Data integration refers to collection of data from multiple sources, including changes of format and cleanup of redundant or useless entries. The outcome is a standardized, unified table.
+
+Data fusion almost invariably means integration of imperfect data sources overlapping over a small group of objects (perhaps a single object, think: target tracking).
+
+Data blending (as we have been using it) allows sources to be imperfect, incomplete, and overlap over a few objects or none at all, requiring inspired guesses and generalizations. These guesses will then be subjected to rigorous hypothesis testing, which is where it becomes science again, not narrative about data.
+
+We are at the initial stage of multidisciplinary investigation. Thus, we are happy with having just the narrative about data.
+Comparable Topics in Applied Science
+
+Consider the core data set describing patients in medical care. The variables (or features) describing patients are schematically divided into two groups: [A] [B]. There is also an outcome, or a set of outcomes of interest Y=F(A,B) approximated by a model M: Y=M(A,B). Here, F is unknowable “true” relationship between cause and effect. M is its practical approximation, with simplifications and noise.
+
+Features in A are private, highly specialized (difficult to obtain, transfer or interpret without additional skills and tools, e.g. 3-d internal scans); many of them are in the status of unknown knowns (i.e. we don’t know if such measurements are possible before we specifically ask for them). External researchers should not be able to see A until they have very specific reasons.
+
+Features in B are possible to share for research. They are standard clinical variables listed in our data dictionaries. We provide ~100 variables, but in practice there are time-dependent sets of thousands of features (more if we include genomic data). In ~1970s – 2010s they were extensively used in clinical informatics. Modern methods of statistics / machine learning were used to create models in the format Y=M(B). For many such models, we have reached a stage where incremental development continues, but qualitative improvement is very hard or impossible.
+
+The connected society of the 21st century offers another option to analysis of healthcare data – via blending with socioeconomic data. Consider the general population as represented through multiple information sources. In the population, a person (or aggregate of a group of people) will be characterized by features [B’] [C]. Here B’ is a much simplified subset of B, perhaps including only a few general labels for condition of interest, such as: ‘obesity’, or ‘PTSD’, or ‘clinical inpatient’. The most interesting part is variables in [C] as many of them were never considered as a part of healthcare study.
+
+The task of data blending, put very simply, consists of the two parts:
+
+    Given [B], find data sets that include [B’ C]. Even that valuable: many, if not most academic data science programs have not developed this capacity.
+    Make a case that [B’ C] can be used to predict Y. Does not have to predict “better”; we are happy with additional volume of data at the cost of prediction quality. The narrative does not have to be mathematically rigorous; we hope to see a lot of arguments using subject matter knowledge.
+
+Expectations for Participants
+
+Once we review the narratives from the teams, the next goal of the study would be to compare Y=M1(B) versus Y=M2(B’,C) , where M1 is some standard clinical model (we will be using very basic medical informatics literature) and M2 is innovative, based on subject knowledge and guesswork, perhaps not yet rigorously tested.
+
+Mature machine learning must imitate human ability to acquire data from multiple sources. While we have not achieved true AI yet, a modern data-driven organization with humans and computers is a working substitute. In the language of machine learning/statistical inference, data blending closely corresponds to inductive transfer, or transfer learning, and there is a good amount of mathematical literature on the subject.
+
+However, human and organizational intelligence does not consciously reproduce mathematical process. We transfer skills and portions of knowledge, and then test their appropriateness in the new situation. In that type of cognitive activity, thinking by analogy is allowed, and ability to set up the connection is relatively more valuable (we have statistical approaches to testing, so the latter part of the process is largely figured out).
+History of Data Blending
+
+When we turn to the practical experience in the industry that introduced the concept of data blending, we see that the concept emerged in the data science community as a topic of interest around 2014 or late 2013. At the time, software packages like Tableau were offering a “data blending” method, which was intended to improve productivity and experience for the segment of the user population whose primary interface to data was through the tool itself (as opposed to power users who could combine multiple data feeds themselves and often had no need for this convenience). The way this method worked is follows: suppose one is interested in combining spreadsheet-based data (e.g., in Excel or a local .csv file) with data stored in an enterprise data-management system, perhaps Oracle or Hadoop. Typically, a business analyst would require an exchange with the team responsible for data engineering or ETL in order to realize this workflow. In 2014, “Data Blending” meant that the BI tool was capable of providing this functionality directly for the end-user by, for example, treating Oracle and Excel abstractly as relational stores and leveraging user- or enterprise-defined metadata to reason about the necessary joining structure. At this point in time, the “data blending” workflow consisted of: 1) identifying the data sources one wishes to blend 2) describe to the tool some metadata concerning the desired join 3) perform some standard cleaning and sanity-checks against the results.
+
+This led to some interesting consequences, as the user community encountered certain performance bottlenecks in dealing with compute loads distributed across server and client. For instance, Teradata is designed to map the join of two large tables efficiently, and the underlying appliance has enough horsepower to return this result to the user in a timely manner. In a data blending scenario, the BI tool is performing the join across multiple systems, which are each (presumably) ignorant of the total data-space of the join. In this situation, it falls to the client (or some intermediary machine) to marshal resources to execute the join. In the worst-case scenario, this means transferring large amounts of data to the user’s machine and doing large-scale joins on the client-side. Users quickly sought to employ the typical trick, which is to coursen the join parameter and stage intermediate joins on the client side. For example, if joining by date, do the joins one-year-at-a-time. This is an asymmetrical method leveraging the asymmetrical computing power between server and host.
+Extending the Method
+
+The inversion of this use-pattern led to the idea of data blending as we have been presenting it. This method has been described as the creation of fictitious identifiers between clusters, and the joining thereof–which is true, and carries all of the caution tape associated with the intentional addition of bias into a data science workflow. However, it also represents an opportunity for the user to include domain-, method-, or problem-specific metadata which associates data the underlying system may not itself have a capacity to associate. In industry, it is not uncommmon, for example, to granularize features such as income, temperature, highest-education-level, occupation, etc, by zip code (geospatial discretization) in a way that the resulting set is its own commercially viable product or is representative of the knowledge base of a particular enterprise. Even subjective data has use–it is no stretch of the imagination that Google would happily pay a large amount for a model which would perfectly identify whether a given user was an active smoker. However, it is known that the company is in no hurry to retire whatever model they may already have, however imperfect it may be.
+
+This is not the only necessary approach. Analysts could condition their models upon different classes of clusters, resulting in a multitude of models for individual cluster-combinations. Practitioners realized that there aren’t that many dimensions of freedom in the underlying “universal” parametrization of the system, so either one is forced to take clever approaches toward aliasing cluster-combinations (e.g., probabilistically), or to have been gifted with a sufficiently large amount of data to properly train a respectable subset of the cluster-combinations
+Conclusions
+
+Another aspect is in getting systems to take the essential step to data-blending, even on their own. This is a ubiquitous challenge for those engineering Big Data systems. A technically-challenged user might “know” what they want to do–for instance, they want a 90-day moving average of the regional sale figures across the geographically-diverse business units of a company–but they don’t necessarily know how to make the system perform the requisite operations. Unfortunately, it is extraordinarily difficult to design a system which is capable of inferring this requirement, both with or without the introduction of carefully-curated metadata about the business and its underlying business processes. The insight here is that the successful user is performing operations of which the system is incapable: they are leveraging metadata to reason about the combination of data elements. Successful users leverage the bias they’ve gained as domain-experts in order to create solutions to what are otherwise combinatorially-challenging problems.
+
+Although this provides very few concrete examples of how to do so, we hope to convey at least one interest facet behind the intent of this Collider: leverage interesting metadata. Introductory statistics contains useful insight regarding how one quantifies and removes bias. An entire specialty is concerned with the careful design of experiment. The practitioner then performs complex operations with a degree of confidence that the “average case” holds. Contrast to the state-of-the-art in the field: introduce bias in a controlled manner, inspect its implications, and inject knowledge in a way that unlocks the true potential of the analyst and of the data.
+
+
+
+
+2
+Data Blending Defined
+Data blending is the process of combining data from multiple sources to create 
+an actionable analytic dataset for business decision-making (such as retail site 
+selection or multichannel profiling) or for driving a specific business process 
+(such as packaging data for sale by data aggregators).
+Data blending is needed when an organization’s data 
+management processes and infrastructure are insufficient 
+for bringing together analytic or specific datasets 
+required by line-of-business groups. It can, for example, 
+readily bring together disparate data, such as customer 
+information from a cloud sales automation system 
+(e.g., Salesforce.com) with clickstream web data stored 
+in a Hadoop file system and segmentation models 
+from Microsoft Excel. This is important, because while 
+organizations aspire to have a completely integrated 
+data management system, the majority of data required 
+to make strategic business decisions still resides outside 
+their IT-controlled data environment. 
+Data blending differs from data integration and data 
+warehousing in that its primary use is not to create the 
+single unified version of the truth that is stored in a 
+data warehouse, data mart, or other system of record 
+within an organization—and is conducted by 
+a data warehousing or business intelligence professional. 
+Instead, this process is conducted by a business or data 
+analyst with the goal of  an analytic dataset 
+to assist in answering a specific business question.
+Common Use Cases
+Implementing data blending into the line of business can deliver greater 
+benefits and deeper insight in hours—significantly faster than the weeks 
+required for manual processes and traditional IT approaches. 
+This time savings can be realized in the myriad business situations in which 
+data analysts find themselves. Let’s look at a few examples where data 
+blending can positively impact business decision-making.
+Sales and Marketing
+For every organization, growing revenue coincides with targeting 
+prospects who are ready to buy. Marketing departments spend a lot of time 
+trying to identify these prospects so they can focus campaigns, and allow 
+salespeople to concentrate their cross-sell and up-sell efforts most efficiently. 
+Most customer data is stored in a CRM system—either in a database or possibly 
+in a cloud solution, such as Salesforce.com—while marketing prospect data is 
+stored in a separate system, such as Marketo. And information about customer 
+and website prospect activity is captured by web analytics technology, such as 
+Google Analytics. Historically, finding the relevancy of this data could require 
+generating spreadsheet-based reports from both the marketing automation 
+and CRM systems. From there, an analyst might need to combine these into a 
+single spreadsheet with multiple tabs and construct formulas using VLOOKUP 
+functions to reference relevant information. Or, they may just combine the two 
+spreadsheets into one and manually look for duplications. What’s more, the 
+web analytics may not be something that can be incorporated at all without 
+some sort of custom work by IT staff. 
+3
+The beauty of data blending is that an analyst can access this data directly 
+from the environment in which it is located. All they need is the right 
+credentials to access the data. Then, they can pull the data from the right 
+systems and start combining the data on common fields, blending in the 
+specific information for which they are looking. They can combine data on 
+customer ID, for instance, and discover what products or services not only 
+have the biggest impact on sales, but also which of these drive the interest 
+of prospective buyers.
+Financial Operations
+Analysts within the realm of finance understand how critical it is to get the 
+right information to deliver the right results. For instance, data plays an 
+important role in the loan and credit card approval processes, making the 
+difference between approving individuals with a low probability of default 
+or fraud and those with a high probability, impacting the financial risk for the 
+organization. It can be as  as  out a customer model and then 
+tracking and trending detailed client information over several years. Typically, 
+this includes combining a lot of data from several sources, including web 
+logs, which can be unstructured or need to be cleaned up, and even multiple 
+third-party databases that contain information on past and current customers.
+Data blending reduces the time to insight from weeks to hours, allowing 
+analysts to work with the data directly to improve its quality and cleanliness, 
+and combine it into a usable format that can be fed directly into existing models. 
+Site and Merchandising Optimization
+In order to have a successful store, understanding your potential customers 
+and prospects is crucial. You may need to look at customer spend levels, 
+purchase history, and path-to-purchase to discover these customers. Once you 
+understand that, you can then use that insight for targeting, media planning, 
+and other multi-channel initiatives. This might mean taking data from an 
+existing CRM system, looking at loyalty card data, or even reviewing inventory 
+data. But what if you don’t have enough of this data to make a well-informed 
+decision about where to locate a new store or what merchandise you need 
+to stock in order to make that store successful?
+One way to do this is to analyze data from third-party providers, such as 
+Experian, Dun and Bradstreet, or the US Census Bureau, and combine it 
+with internal customer data to identify the factors that indicate the highest 
+propensity to buy. Examples include ethnicity mix, age, and consumer spending 
+on similar goods and services. By determining these market factors up front, 
+you can optimize your real estate investment by opening stores in the right 
+location and putting the right types of merchandise in each store to drive 
+profitability.
+Fulfilling the Requirements of Data Blending
+Data blending empowers data analysts to incorporate data of any type or 
+source into their analysis for faster, deeper business insight, but how do 
+organizations enable a data analyst to perform data blending? Many line-of-
+business analysts have abandoned spreadsheets and custom work projects in 
+favor of 
+Alteryx Analytics
+ because it fulfills today’s data blending requirements.
+Understand the progression of data.
+ The drag-and-drop workflow environment 
+in Alteryx allows analysts to build out analytic datasets the way they think. It 
+lets the analyst understand how data progresses through the process without 
+any “black boxes” and quickly identify where issues may lie. This drag-and-
+drop technology allows analysts to focus more on the data and less on the 
+technology by eliminating the need for coding or programming. 
+
+
+4
+Enable direct access to data. 
+Alteryx gives analysts direct access to data 
+of any type or source to help deliver a more complete view of the insight they 
+need to make more informed decisions. Because they no longer need to rely on 
+overworked IT staff or data specialists, analysts can access all the information 
+they need to make informed business decisions, including:
+• 
+Local data (spreadsheets, user device generated data, enterprise data 
+warehouses, etc.)
+• 
+Third-party data (Dun & Bradstreet, Experian, Tom Tom, US Census, etc.) 
+• 
+Cloud/social data (Twitter, Facebook, Salesforce.com, Marketo, etc.) 
+• 
+Other analytics platforms (SPSS, SAS, Google Analytics, etc.) 
+Expedite data cleansing and preparation.
+ Studies estimate that 60% to 80% 
+of an analyst’s time is spent preparing data for analysis. Alteryx offers extensive 
+tools for data preparation and data cleansing to speed up the time to create 
+the right dataset, without having to rely on outside intervention. With options 
+for restructuring, reformatting, and filling in missing or incomplete data, 
+Alteryx ensures that data quality, integration, and transformations are done 
+by the people who know the data and understand the business best, leading 
+to the right dataset in the least amount of time. 
+Simplify blending of data. 
+Alteryx gives users complete flexibility in joining 
+multiple datasets thanks to an array of tools that can address virtually any 
+data situation. Joining data in Alteryx is not limited to just one field or column; 
+Alteryx allows data of any type or level to be brought together. This means that 
+data can be joined at both the record and 
+field levels, and it can even be expanded 
+to include multiple key fields. What’s more, 
+Alteryx is flexible enough to join data 
+from non-identical fields as well as 
+incorporate spatial characteristics, such 
+as customer points, into the dataset. Other 
+tools, such as Fuzzy Matching, give users 
+the ability to match two datasets based on 
+non-matching data—names and 
+addresses. In addition, tools such as Append 
+Fields, Find Replace, and Make Group 
+allow users to do even more to effectively 
+blend or refine their resulting dataset.
+
+
+Automate and repeat processes.
+ With the amount of ad-hoc analysis required 
+by today’s analysts, what if there were a way to make this process easier, faster, 
+and repeatable? With Alteryx, there is. Alteryx workflows can easily be saved 
+and repeated for further data blending, processing, updates, and analysis. 
+Updating the analysis or report is as  as updating the data input(s). 
+Output data easily.
+ Once the heavy lifting of data blending is completed, 
+analysts can implement this data into the right processes of the business. 
+This means that resulting outputs can then be pushed back into a database, 
+incorporated into an operational process, analyzed further using statistical, 
+spatial, or predictive methods, or pumped into visualization software, 
+such as QlikView or Tableau.
+Conclusion
+Traditionally, data was the domain of IT and data scientists—doling out access 
+to a select few via careful SQL queries, heavily structured reports, BI dashboards, 
+and, maybe, programmatic access. With first-generation tools, the process to 
+generate results was long, expensive, and difficult. Highly skilled and expensive 
+data scientists would work with Ph.D.-level statisticians and IT professionals 
+to obtain and massage data, develop complex analytic models and, ultimately, 
+generate analytic results. Analysts were left at the door waiting for results that 
+would then have to be extensively reviewed, tested, and re-adjusted to fit their 
+original business cases. The result? Data was often neither timely nor adequate 
+to answer their questions.
+While traditional data analysts use traditional IT tools to generate reports on 
+historic data, today’s analysts must extend that capability with their business 
+insight and natural creativity to find information their organizations really 
+need. With improvements in information technology and the constant influx 
+of Big Data, a flood of new opportunities for business insight has appeared.
+Empowered by next-generation tools such as Alteryx, today’s analysts can now 
+do what previous generations of analysts could only dream of doing. These 
+analysts are able to perform data blending to create the analytic dataset they 
+need to deliver the deeper business insights they require.
+
+Data fusion is the process of integration of multiple data and knowledge representing the same real-world object into a consistent, accurate, and useful representation.
+fusion of the data from 2 sources (dimension #1 & #2) can yield a classifier superior to any classifiers based on dimension #1 or dimension #2 alone
+
+Data fusion processes are often categorized as low, intermediate or high, depending on the processing stage at which fusion takes place.[1] Low level data fusion combines several sources of raw data to produce new raw data. The expectation is that fused data is more informative and synthetic than the original inputs.
+
+For example, sensor fusion is also known as (multi-sensor) data fusion and is a subset of information fusion.
+
+Contents
+
+    1 Geospatial applications
+    2 Data integration
+    3 The JDL/DFIG model
+        3.1 Application areas
+    4 Position data fusion
+    5 Data fusion from multiple traffic sensing modalities
+    6 Decision Fusion
+    7 Data fusion for Enhanced Contextual Awareness
+    8 See also
+    9 References
+    10 General references
+    11 Books
+    12 External links
+
+Geospatial applications
+
+In the geospatial (GIS) domain, data fusion is often synonymous with data integration. In these applications, there is often a need to combine diverse data sets into a unified (fused) data set which includes all of the data points and time steps from the input data sets. The fused data set is different from a  combined superset in that the points in the fused data set contain attributes and metadata which might not have been included for these points in the original data set.
+
+A simplified example of this process is shown below where data set "α" is fused with data set β to form the fused data set δ. Data points in set "α" have spatial coordinates X and Y and attributes A1 and A2. Data points in set β have spatial coordinates X and Y and attributes B1 and B2. The fused data set contains all points and attributes
+
+Input Data Set α
+Point 	X 	Y 	A1 	A2
+α1 	10 	10 	M 	N
+α2 	10 	30 	M 	N
+α3 	30 	10 	M 	N
+α4 	30 	30 	M 	N
+
+Input Data Set β
+Point 	X 	Y 	B1 	B2
+β1 	20 	20 	Q 	R
+β2 	20 	40 	Q 	R
+β3 	40 	20 	Q 	R
+β4 	40 	40 	Q 	R
+
+Fused Data Set δ
+Point 	X 	Y 	A1 	A2 	B1 	B2
+δ1 	10 	10 	M 	N 	Q 	R
+δ2 	10 	30 	M 	N 	Q 	R
+δ3 	30 	10 	M 	N 	Q 	R
+δ4 	30 	30 	M 	N 	Q 	R
+δ5 	20 	20 	M 	N 	Q 	R
+δ6 	20 	40 	M 	N 	Q 	R
+δ7 	40 	20 	M 	N 	Q 	R
+δ8 	40 	40 	M 	N 	Q 	R
+
+In this  case all attributes are uniform across the entire analysis domain, so attributes may be simply assigned. In more realistic applications, attributes are rarely uniform and some type of interpolation is usually required to properly assign attributes to the data points in the fused set.
+Visualization of fused data sets for rock lobster tracks in the Tasman Sea. Image generated using Eonfusion software by Myriax Pty. Ltd. - eonfusion.myriax.com
+
+In a much more complicated application, marine animal researchers use data fusion to combine animal tracking data with bathymetric, meteorological, sea surface temperature (SST) and animal habitat data to examine and understand habitat utilization and animal behavior in reaction to external forces such as weather or water temperature. Each of these data sets exhibit a different spatial grid and sampling rate so a  combination would likely create erroneous assumptions and taint the results of the analysis. But through the use of data fusion, all data and attributes are brought together into a single view in which a more complete picture of the environment is created. This enables scientists to identify key locations and times and form new insights into the interactions between the environment and animal behaviors.
+
+In the figure at right, rock lobsters are studied off the coast of Tasmania. Dr. Hugh Pederson of the University of Tasmania used data fusion software to fuse southern rock lobster tracking data (color-coded for in yellow and black for day and night, respectively) with bathymetry and habitat data to create a unique 4D picture of rock lobster behavior.
+Data integration
+
+In applications outside of the geospatial domain, differences in the usage of the terms Data integration and Data fusion apply. In areas such as business intelligence, for example, data integration is used to describe the combining of data, whereas data fusion is integration followed by reduction or replacement. Data integration might be viewed as set combination wherein the larger set is retained, whereas fusion is a set reduction technique with improved confidence.
+The JDL/DFIG model
+
+In the mid-1980s, the Joint Directors of Laboratories formed the Data Fusion Subpanel (which later became known as the Data Fusion Group). With the advent of the World Wide Web, data fusion thus included data, sensor, and information fusion. The JDL/DFIG introduced a model of data fusion that divided the various processes. Currently, the six levels with the Data Fusion Information Group (DFIG) model are:
+
+Level 0: Source Preprocessing/subject Assessment
+
+Level 1: Object Assessment
+
+Level 2: Situation Assessment
+
+Level 3: Impact Assessment (or Threat Refinement)
+
+Level 4: Process Refinement
+
+Level 5: User Refinement (or Cognitive Refinement)
+
+Although the JDL Model (Level 1-4) is still in use today, it is often criticized for its implication that the levels necessarily happen in order and also for its lack of adequate representation of the potential for a human-in-the-loop. The DFIG model (Level 0 - 5) explored the implications of situation awareness, user refinement, and mission management.[2] Despite these shortcomings, the JDL/DFIG models are useful for visualizing the data fusion process, facilitating discussion and common understanding,[3] and important for systems-level information fusion design.[2]
+Application areas
+	This article is in a list format that may be better presented using prose. You can help by converting this article to prose, if appropriate. Editing help is available. (February 2012)
+	This section includes a list of references, related reading or external links, but its sources remain unclear because it lacks inline citations. Please help to improve this section by introducing more precise citations. (February 2012) (Learn how and when to remove this template message)
+
+    Geospatial Information Systems
+    Soil Mapping
+    Business intelligence
+    Oceanography
+    Discovery science
+    Business performance management
+    Intelligent transport systems
+    Loyalty card
+    Cheminformatics
+        Quantitative structure-activity relationship
+    Bioinformatics
+    Intelligence services
+    Wireless sensor networks
+    Biometrics
+Position data fusion
+
+The distance or position of an object can be measured with different sensors. By taking sensors based on different physical principles (magnetic, optical, mechanical) as well the resolution can be lowered as the bandwidth of measurement can be increased. Optimal filtering (in sense of minimizing some norm over a frequency) is a very effective tool used for combining sensor data in real-time. Applied methods with Matlab(TM) code and explanation can be found in the Master Thesis 'Sensor Fusion for Nanopositioning'.[4]
+Data fusion from multiple traffic sensing modalities
+
+The data from the different sensing technologies can be combined in intelligent ways to determine the traffic state accurately. A Data fusion based approach that utilizes the road side collected acoustic, image and sensor data has been shown to combine the advantages of the different individual methods.[5]
+Decision Fusion
+
+In many cases, geographically-dispersed sensors are severely energy- and bandwidth-limited. Therefore, the raw data concerning a certain phenomenon are often summarized in a few bits from each sensor. When inferring on a binary event (i.e., H 0 {\displaystyle {\mathcal {H}}_{0}} \mathcal{H}_0 or H 1 {\displaystyle {\mathcal {H}}_{1}} {\mathcal {H}}_{1} ), in the extreme case only binary decisions are sent from sensors to a Decision Fusion Center (DFC) and combined in order to obtain improved classification performance. [6][7][8]
+Data fusion for Enhanced Contextual Awareness
+
+With a multitude of built-in sensors including motion sensor, environmental sensor, position sensor, a modern mobile device gives mobile applications access to a number of sensory data which could be leveraged to enhance the contextual awareness. Using signal processing and data fusion techniques such as feature generation, feasibility study and Principal Component Analysis (PCA) to analyze such sensory data will greatly improve the positive rate of classifying the motion and contextual relevant status of the device.[9]
+See also
+
+    Data integration
+    Data mungling
+    Information integration
+    Image fusion
+    Sensor Fusion
+    Integrative level
+
+
+In computing and data management, data mapping is the process of creating data element mappings between two distinct data models. Data mapping is used as a first step for a wide variety of data integration tasks including:
+
+    Data transformation or data mediation between a data source and a destination
+    Identification of data relationships as part of data lineage analysis
+    Discovery of hidden sensitive data such as the last four digits of a social security number hidden in another user id as part of a data masking or de-identification project
+    Consolidation of multiple databases into a single data base and identifying redundant columns of data for consolidation or elimination
+
+For example, a company that would like to transmit and receive purchases and invoices with other companies might use data mapping to create data maps from a company's data to standardized ANSI ASC X12 messages for items such as purchase orders and invoices.
+
+Contents
+
+    1 Standards
+    2 Hand-coded, graphical manual
+    3 Data-driven mapping
+    4 Semantic mapping
+    5 See also
+    6 References
+    7 Bibliography
+    8 External links
+
+Standards
+
+X12 standards are generic Electronic Data Interchange (EDI) standards designed to allow a company to exchange data with any other company, regardless of industry. The standards are maintained by the Accredited Standards Committee X12 (ASC X12), with the American National Standards Institute (ANSI) accredited to set standards for EDI. The X12 standards are often called ANSI ASC X12 standards.
+
+In the future, tools based on semantic web languages such as Resource Description Framework (RDF), the Web Ontology Language (OWL) and standardized metadata registry will make data mapping a more automatic process. This process will be accelerated if each application performed metadata publishing. Full automated data mapping is a very difficult problem (see Semantic translation).
+Hand-coded, graphical manual
+
+Data mappings can be done in a variety of ways using procedural code, creating XSLT transforms or by using graphical mapping tools that automatically generate executable transformation programs. These are graphical tools that allow a user to "draw" lines from fields in one set of data to fields in another. Some graphical data mapping tools allow users to "Auto-connect" a source and a destination. This feature is dependent on the source and destination data element name being the same. Transformation programs are automatically created in SQL, XSLT, Java programming language or C++. These kinds of graphical tools are found in most ETL Tools (Extract, Transform, Load Tools) as the primary means of entering data maps to support data movement. Examples include SAP BODS and Informatica PowerCenter.
+Data-driven mapping
+
+This is the newest approach in data mapping and involves simultaneously evaluating actual data values in two data sources using heuristics and statistics to automatically discover complex mappings between two data sets. This approach is used to find transformations between two data sets and will discover substrings, concatenations, arithmetic, case statements as well as other kinds of transformation logic. This approach also discovers data exceptions that do not follow the discovered transformation logic.
+Semantic mapping
+
+Semantic mapping is similar to the auto-connect feature of data mappers with the exception that a metadata registry can be consulted to look up data element synonyms. For example, if the source system lists FirstName but the destination lists PersonGivenName, the mappings will still be made if these data elements are listed as synonyms in the metadata registry. Semantic mapping is only able to discover exact matches between columns of data and will not discover any transformation logic or exceptions between columns.
+
+Data Lineage is a track of the life cycle of each piece of data as it is ingested, processed and output by the analytics system. This provides visibility into the analytics pipeline and simplifies tracing errors back to their sources. It also enables replaying specific portions or inputs of the dataflow for step-wise debugging or regenerating lost output. In fact, database systems have used such information, called data provenance, to address similar validation and debugging challenges already.[1]
+See also
+
+    Big structure
+    Bots open source software for data mapping
+    Data integration
+    Data wrangling
+    Identity transform
+    ISO/IEC 11179 - The ISO/IEC Metadata registry standard
+    Metadata
+    Metadata publishing
+    Schema matching
+    Semantic heterogeneity
+    Semantic mapper
+    Semantic translation
+    Semantic web
+    Semantics
+    XSLT - XML Transformation Language
+Core data integration is the use of data integration technology for a significant, centrally planned and managed IT initiative within a company. Examples of core data integration initiatives could include:
+
+    ETL (Extract, transform, load) implementations
+    EAI (Enterprise Application Integration) implementations
+    SOA (Service-Oriented Architecture) implementations
+    ESB (Enterprise Service Bus) implementations
+
+Core data integrations are often designed to be enterprise-wide integration solutions. They may be designed to provide a data abstraction layer, which in turn will be used by individual core data integration implementations, such as ETL servers or applications integrated through EAI.
+
+Because it is difficult to promptly roll out a centrally managed data integration solution that anticipates and meets all data integration requirements across an organization, IT engineers and even business users create edge data integration, using technology that may be incompatible with that used at the core. In contrast to a core data integration, an edge data integration is not centrally planned and is generally completed with a smaller budget and a tighter deadline.
+See also
+
+    data integration
+    edge data integration
+User centered approaches are well known in the visualization community (although not always implemented) [D'Amico et al. 2005, Munzner et al. 2009]. Jointly developing the visualizations themselves, however, is rather rare. As we have very good experience with co-creative techniques in design and innovation, we wanted to apply them to the domain of data visualization as well. For example, we tried to experiment with data sets during a day-long workshop with a larger group of stakeholders (a session we called the “data picnic” because everyone brought his/her data and tools).
+Visualization
+
+For this paper, we focused on a pixel oriented technique [Keim 2000] to fullfill requirements such as visualization of raw data or a chronological view of data to preserve the course of events. We stack graphical representations for various parameters of a log line (such as IP, user name, request or message) so that we get small columns for each log line. Lining up these stacks produces a dense visual representation with distinct patterns. This is why we call it the Pixel Carpet. Other subgroups of our research group took different approaches that can be found at other places in this blog.
+Snapshot of the Pixel Carpet interface. Each "multi pixel" represents one log line, as it a appears at the bottom of the screen.Snapshot of the Pixel Carpet interface. Each “multi pixel” represents one log line, as it a appears at the bottom of the screen.
+Data and Code
+
+Our data sources included an ssh log (~13.000 lines, unpublished for privacy reasons) and an Apache (web server) access log (~145.000 lines, unpublished), and ~4.500 lines (raw data available, including countries from ip2geo .csv | .json ).
+
+We implemented our ideas in a demonstrator in plain HTML/JavaScript (demo online – caution, will heavily stress your CPU). It helped us iterate quickly and evaluate the idea at various stages, also with new stakeholders. While the code achieves what we need, we are also aware that computing performance is rather bad. If you want to take a look or even improve it, you can find it on github.
+
+To bring it closer to a productive tool, we would turn the Pixel Carpet into a plugin for state-of-the-art data processing engines such as ElasticSearch/Kibana or splunk (scriptable with d3.js since version 6).
+Time Series Visualizations – An overview
+by Kim Albrecht	on October 17, 2013, 1 comment
+
+“Time-series — sets of values changing over time”
+A Tour Through the Visualization Zoo 
+http://hci.stanford.edu/jheer/files/zoo/
+
+This description of the word “Time-Series” is very close to the explanation in Oxfords dictionary which adds that the word comes from a statistic background and often the intervals are equal within the time-series.
+http://www.oxforddictionaries.com/definition/english/time-series?q=time-series
+
+Within our research project we are mainly interested in the visualization part within the vast field of statistics. In the book “The Visual Display of Quantitative Information” Edward Tufte defines time-series visualizations as:
+
+“With one dimension marching along to the regular rhythm of seconds, minutes, hours, days, weeks, months, years, centuries, or millennia, the natural ordering of the time scale gives this design a strength and efficiency of interpretation found in no other graphic arrangement.” 
+Edward R. Tufte
+The Visual Display of Quantitative Information
+p. 28
+
+Classical datasets of time series visualizations are temperature, wind, condensation (or any other kind of weather measurement), stock data, population change, electricity usage etc. the field is so vast that Tufte writes that in a study that analysed graphics between 1974 and 1980 75% of the graphics where time-series visualizations. Obviously more than 30 years later the field has changed but time-series still seams to be an important part within the area.
+
+In my opinion most Security Network Data doesn’t provide information with changing values over time initially. For example Flow Data is structured through nodes and edges with additional information. These single incidents in time don’t hold the same characteristics as usual time-series datasets where one value changes. But on a certain level of abstraction (for example by counting incidents within set timeframes) or by combining time-series with other methods like network visualizations this kind of graphics could be very helpful for us.
+
+This article first summarises a few classical time-series examples and than looks at recent developments in the field.
+
+The first time-series visualization was designed in the tenth or possibly eleventh century. It shows the changing positions of the planets with the time on the x-axis.
+
+As we will see the use of the x-axis is still the most common form of presenting time-series graphics. Nathan Yau gives an overview of the most common forms of time-series visualizations in his book “data points” which are in his opinion bar graphs, line charts, dot plots & dot-bar graphs. All of this charts are actually similar in what they do. The only difference is the graphical representation of the data. While all of them use the time dimension on the x-axis, Nathan Yau gives two examples for different representation methods. Radial plots, which are similar to line charts, just circular and calendar heat maps.
+
+Jeffrey Heer, Michael Bostock, and Vadim Ogievetsky from Stanford University are giving a different overview of time-series visualizations in their article “A Tour Through the Visualization Zoo”. Their overview starts with index charts, which is an interactive line chart.
+Index Chart
+
+Stacked Graphs. Which are Area Charts that are stacked on top of each other. They are also called stream graphs. What makes them special is the fact that we get a visual summation of all time-series values.
+
+The controversy around stacked graphs is very big. Alberto Cairo, graphics director at El Mundo Online wrote in a blog article that stacked graphs are “one of the worst graphics the New York Times have published – ever!” on the other hand the publisher of the first paper on stacked graphs wrote: “simplifying the user’s task of tracking individual themes through time by providing a continuous ‘flow’ from one time point to the next”. Furthermore, “we believe this metaphor is familiar and easy to understand and that it requires little cognitive effort to interpret the visualization” both points seam valid to me the cognitive effort needed in some contemporary visualizations is so high that it becomes hard to understand them without putting a lot of effort into them. Stacked Graphs are very simple to understand for the complexity they hold but the information output that can be generated from them is questionable. Andy Kirk from visualisingdata.com credits both sides very fairly in his blog article about the graphs with these comments:
+
+“… a streamgraph is a fantastic solution to displaying large data sets to a mass audience.”
+
+“The main problem facing static streamgraphs lies in the difficulty of reading data points formed by uncommon shapes.”
+
+Tools: D3, Processing
+
+Paper: ThemeRiver: Visualizing Theme Changes over Time,
+
+Stacked Graphs – Geometry & Aesthetics
+
+Example: The Ebb and Flow of Movies, How Different Groups Spend Their Day, Trace (this one is about visualizing wireless networks)
+
+ 
+Stacked Graph
+
+Small Multiples are multiple time-series graphs (what kind these graphs are is another question, in this case, area charts) arranged within a grid. Small multiples are more use full to understand different datasets on its own and not as a summary apposed to the stacked graphs.
+Small Multiples
+
+The last example from the article are horizon graphs. These are actual also area charts which are mirrored and separated by occupacity. This is especially interesting in combination with small multiples because the “data density” is much higher than which classic area charts which leads to more information in a smaller space. An important factor when we are dealing with big datasets.
+Horizon Graph
+
+There is some interesting research about the usefulness of horizon graphs that I recommend: Tool, Paper, Article
+
+ 
+
+The list of graphics from the Stanford Group are much more contemporary than the examples from Nathan Yau, but still all of these examples use the same mechanism to visualize time-series data by using one axis as a dimension for time. This now more than 1.000 years old way to visualize time is helpful and very common but might not always be the best choice. As we know from scatter-plot visualizations our two space dimensions within a graphic are maybe the most powerful ones for pattern recognition and time might not be the main factor to identify these patterns. So what other ways are there to use time as a dimension within a visualization a part from space?
+
+Animation:
+At least since Hans Roslings famous TED talks the usage of animation for displaying time is common and it seams to be the most obvious way to visualize time very literal though time. But the technique needs to be used with caution.
+Tamara Munzners visualization principles give a great insight on page 59 why visualizing time with animation is dangerous:
+
+Principle: external cognition vs. internal memory
+
+    easy to compare by moving eyes between side-by-side views –harder to compare visible item to memory of what you saw
+
+Implications for animation
+
+    great for choreographed storytelling
+    great for transitions between two states
+    poor for many states with changes everywhere
+
+There is also a paper about the topic which gives more insights into the problem.
+
+Small multiples:
+I already mentioned small multiples above but as I raised before the idea behind small multiples is more of a frame for visualizations than an actual kind of visualization. Like this we can also use each multiple as a timeframe. A beautiful example of small multiples with time as a dimension comes from the NYTimes Graphics department.
+
+Binning time in bubbles:
+The idea here is to use bubble charts where the time dimension gets binned by minutes, days, years etc. into one bubble and compared to each other. In the Nasdaq 100 Index example each year is represented by one bubble.
+
+Scatterplots:
+Scatterplots where time is displayed as connected points against two variables. This is similar to the animation idea. But in this case the animated dots leave behind a path behind. Also here the NYTimes has a good example.

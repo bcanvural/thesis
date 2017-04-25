@@ -1,0 +1,270 @@
+Analytical skill is the ability to visualize, articulate, conceptualize or solve both complex and uncomplicated problems by making decisions that are sensible given the available information. Such skills include demonstration of the ability to apply logical thinking to breaking complex problems into their component parts[clarification needed].
+
+In 1999, Richards J. Heuer Jr., explained that: "Thinking analytically is a skill like carpentry or driving a car. It can be taught, it can be learned, and it can improve with practice. But like many other skills, such as riding a bike, it is not learned by sitting in a classroom and being told how to do it. Analysts learn by doing."[1]
+
+To test for analytical skills one might be asked to look for inconsistencies in an advertisement, put a series of events in the proper order, or critically read an essay[citation needed]. Usually standardized tests and interviews include an analytical section that requires the examiner to use their logic to pick apart a problem and come up with a solution.
+
+Although there is no question that analytical skills are essential, other skills are equally required[clarification needed]. For instance in systems analysis the systems analyst should focus on four sets of analytical skills:
+
+    systems thinking,
+    organizational knowledge,
+    problem identification, and
+    problem analyzing and solving.
+
+MAke The MosT of Your AnAl
+YTicAl T
+AlenT
+There are many implementations of analytic CoEs out there. However, a large 
+percentage of them can be described as specialized shared-service organizations. 
+These organizations receive requests from the business community to apply analytics 
+to solve problems. 
+There is no question that these types of structures provide value to the organization, 
+but they may not be able to change the internal culture without having a much 
+closer connection and integration with the various business units where many better 
+decisions could be enabled. When used in an ad hoc way and without the right level 
+of executive sponsorship, these shared-service organizations are limited in their 
+ability to have more lasting effects on the way decisions are made and the quality of 
+those decisions.  
+Many of these shared-service organizations are set up to deal with requirements from 
+a project perspective. Each project has a scope, deliverable and start and end dates. 
+Because of this setup, it may be difficult to identify the root cause of data issues 
+such as data consistency, availability of master data, data quality and integration. 
+Consequently, those working on a project may not be able to make changes 
+to address the root cause of problems. Many data extraction and manipulation 
+tasks tend to be repeated. Another challenge can be where people report within 
+organizational structures. Continuous executive support and high internal visibility are 
+required to empower any analytic CoE to put the results of analytics to work and to 
+implement changes to facilitate future and more advanced applications of analytics.
+More Strategic and Effective Implementation of an 
+Analytic CoE
+The best implementations of analytic CoEs have these traits:
+•  Partnering with business stakeholders for ongoing success.
+•  High-level executive sponsorship.
+•  Sufficient prominence in the organizational hierarchy to have visibility and impact.
+•  A reputation for proven results, excellent work ethic and ability to deploy results 
+that affect decision making.
+Such strategic implementations will have the highest chance of promoting 
+widespread analytically driven decisions and surfacing new opportunities.
+All CoEs share many common components and characteristics. 
+The following diagram illustrates the key possible focus areas and functions for 
+analytic centers of excellence. It is important to point out that not all of these 
+functions need to be managed by the analytic CoE. However, addressing these 
+functions is critical to ensure that analytics is used in an efficient, repeatable and 
+effective manner within the organization.
+4
+14
+MAke The MosT of Your AnAl
+YTicAl T
+AlenT
+The internal culture should effectively and continuously address the following key 
+areas:
+•  Communication of the organization’s business priorities and objectives.
+•  Alignments of internal groups, resources and information management and 
+analytical efforts around the changing organizational priorities and direction.
+•  Providing the incentives and mandate to foster collaboration and information 
+sharing between organization units on a consistent basis.
+•  Demonstrating the value of analytics and information in general as a corporate 
+asset.
+•  Rewarding individuals and groups for demonstrating effective applications and use 
+of analytics and information in the decision-making process.
+•  Facilitating acceptance of change by business units and resources.
+The analytic CoE will play a significant role in working very closely with the business 
+representatives to guide and facilitate the adoption of these key requirements.
+Organizational Benefits 
+A properly implemented analytic center of excellence will provide your organization 
+with the following key benefits:
+•  An effective way to use existing analytical skills.
+•  A structure and set of processes to develop and promote best practices.
+•  Support for ad hoc analytical requirements, but more importantly, the 
+establishment of the framework and foundation to implement repeatable and 
+more strategic analyses in an efficient way.
+•  A much-needed link and alignment between the business, analytical efforts and 
+the organization’s technology infrastructure. Alignment between the business, 
+analytical resources and IT is a critical requirement to enable effective use of 
+analytics. Analysts will be able to use their skills to apply effective analytics to 
+support decision making and organizational objectives.
+•  Support for analytical resources by allowing them to focus more on analytical 
+issues and less on data management and data quality tasks.
+•  The establishment of a solid, consistent communication and alignment between 
+the business community, especially the decision makers and the analytical 
+resources who conduct the analysis. This is the foundation needed to change the 
+internal culture to one that understands the value of analytics and uses a fact-
+based decision-making approach.
+MAke The MosT of Your AnAl
+YTicAl T
+AlenT
+15
+Approaches for Establishing an Analytic CoE
+The objective of analytic centers of excellence is focused on maximizing the 
+organizational benefit from the investment in data and analytics. The discussions 
+presented by this paper have highlighted the four critical organizational dimensions 
+that form the foundations necessary to gain the highest possible value from the 
+investment. The maturity, interaction and alignment of these four dimensions provide 
+essential requirements to identify the form, structure, vision and mandate of an 
+effective CoE in each organization. Analytic centers of excellence, and any other type 
+of centers of excellence, are not one-size-fits-all. Although there are common key 
+characteristics in all centers of excellence, the most effective structure and type will 
+have to be based on the nature and maturity of the four organizational dimensions 
+in each unique organization. The common characteristics of all centers of excellence 
+have been presented earlier in this paper.
+The following key areas must be considered as organizations think about this 
+valuable concept and about the approach to establishing an analytic CoE for their 
+own environment:
+• 
+Degree of centralization versus decentralization
+. Many organizational aspects 
+need to be considered to determine the right approach. Some of these factors 
+include the size of the organization, level of reach (global vs. local), the structure 
+of the business units and technical and IT resources, the existing culture and level 
+of collaboration between groups, the distribution of analytical resources, etc.
+• 
+Executive support
+. The support from an executive level is essential for 
+empowering the analytic CoE to produce accurate, repeatable and timely results 
+from applying analytics. Collaboration and discussion between groups are 
+necessary in many cases to collect the requirements and data to apply analytics 
+and, more importantly, to use the results in the decision-making process. 
+Many successful applications of analytics are promoted by the support of an 
+executive in a business unit that has a clear vision and need to use analytics. 
+Other implementations can have a broader scope to cover multiple business 
+units or even the entire enterprise. The common requirement is to have high-level 
+management support.
+• 
+Analytical skills
+. The availability of analytical resources, skill levels and 
+responsibilities are other critical factors. These analytical resources clearly are 
+needed to move forward. However, there are options for organizations to explore 
+if these resources are not available, if they are too few or if additional training is 
+needed. Some of these options include outsourcing some or all the analytical 
+work initially, or working with SAS and other partners in a collaborative way to 
+provide the initial resources while acquiring new resources or training existing staff 
+members.
+16
+MAke The MosT of Your AnAl
+YTicAl T
+AlenT
+• 
+Current data structure and quality
+. The availability of required data, the level of 
+data quality and the amount of data management that may be necessary to apply 
+analytics are also key factors. To effectively address these areas, other technical 
+resources and activities may be needed to facilitate and accelerate the use of 
+analytics. Some of these needs may be addressed by existing resources. There 
+are also options that include securing external resources to make progress and 
+tap into industry best practices.
+• 
+Level and scope of the required analytical work
+. There are many types 
+of analytic applications that can support the decision-making process and 
+strategy of organizations. Some of these analytical applications may be easier 
+to perform than others. Some may require a high level of processing power to 
+complete in a timely manner or specialized analytical skills. Another factor is how 
+aggressively the organization is planning to use analytics and its time frame. 
+Again, organizations may find it more cost-effective and faster to outsource some 
+of these types of analytics. SAS offers different types of outsourcing services that 
+can meet some of the most demanding analytical skills effectively. 
+The above list is not comprehensive, but it covers the essential areas. An assessment 
+of each one of these areas is recommended to identify an approach that balances the 
+requirements and characteristics of each of these areas. SAS offers several types of 
+services to assess the current environment of each organization and to develop the 
+most effective approach to promote analytics and assist organizations in establishing 
+their own analytic CoE. 
+The following approaches can be considered as organizations explore options and 
+assess the characteristics of their own environments:
+• 
+Outsourcing analytical projects
+. This may be the appropriate approach to 
+meet the need for a particular business unit, the entire organization or as an initial 
+phase to train existing staff – or an occasional way to tap into additional analytic 
+bandwidth and more effectively balance the workload.
+• 
+Outsourcing specific tasks
+. Depending on the requirements and the available 
+resources, certain analytical or even data management functions and steps may 
+be outsourced. In some cases, organizations may be outsourcing some of these 
+tasks. This process can be an initial phase, or it can be used on demand.
+• 
+Centralizing some or all functions
+. In some cases, centralizing some of 
+the analytical work or the data management work may be an effective way 
+to optimally use available resources. The IT team, or other members of the 
+organization, may be in the best position to take on the responsibilities of some 
+key functions. Existing information governance and policies may also be used 
+when appropriate to determine the best approach.
+MAke The MosT of Your AnAl
+YTicAl T
+AlenT
+17
+• 
+Decentralizing
+. Depending on the need, the executive support and the readiness 
+of internal groups, decentralizing specific analytical tasks may be the best 
+approach to ensure that analytical work is closely aligned with the business 
+requirements. This will require the availability and alignment of sufficient analytical 
+resources in business units. From a best-practice standpoint, some information 
+management tasks may still need to be centralize
+Big data analytics is a trending practice that many companies are adopting. Before jumping in and buying big data tools, though, organizations should first get to know the landscape.
+The analytics process, including the deployment and use of big data analytics tools, can help companies improve operational efficiency, drive new revenue and gain competitive advantages over business rivals. But there are different types of analytics applications to consider. For example, descriptive analytics focuses on describing something that has already happened, as well as suggesting its root causes. Descriptive analytics, which remains the lion's share of the analysis performed, typically hinges on basic querying, reporting and visualization of historical data.
+
+Alternatively, more complex predictive and prescriptive modeling can help companies anticipate business opportunities and make decisions that affect profits in areas such as targeting marketing campaigns, reducing customer churn and avoiding equipment failures. With predictive analytics, historical data sets are mined for patterns indicative of future situations and behaviors, while prescriptive analytics subsumes the results of predictive analytics to suggest actions that will best take advantage of the predicted scenarios.
+
+In many environments, the processing and data storage demands of advanced analytics applications have limited their adoption -- but those barriers are beginning to fall. The growing availability of big data platforms and big data analytics tools has enabled environments in which predictive and prescriptive analytics applications can scale to handle massive data volumes originating from a wide variety of sources.
+What does big data analytics mean?
+
+In essence, big data analytics tools are software products that support predictive and prescriptive analytics applications running on big data computing platforms -- typically, parallel processing systems based on clusters of commodity servers, scalable distributed storage and technologies such as Hadoop and NoSQL databases. The tools are designed to enable users to rapidly analyze large amounts of data, often within a real-time window.
+
+In addition, big data analytics tools provide the framework for using data mining techniques to analyze data, discover patterns, propose analytical models to recognize and react to identified patterns, and then enhance the performance of business processes by embedding the analytical models within the corresponding operational applications. For example, massive amounts of shipping delivery data, streaming traffic data, streaming weather data and historical vendor performance data can be analyzed to devise a model for optimal selection of shipping subcontractors within geographic regions to limit the risks of late delivery or damaged goods.
+Editor's note
+
+This article is part of a series on big data analytics tools. This first article looks at the benefits and uses of big data analytics tools in the enterprise; the second article examines the different use cases for big data analytics tools; part three offers insight into procuring and deploying big data analytics tools; and the last article examines the top big data analytics in the market.
+
+Big data analytics tools can ingest a wide variety of data types: structured data with defined and consistent fields, such as transaction data stored in relational databases; semi-structured data, such as Web server or mobile application log files; and unstructured data, encompassing things like text files, documents, emails, text messages and social media posts.
+Powering analytics: Inside big data and advanced analytics tools
+
+A Google search for big data analytics yields a long list of vendors. However, many of these vendors provide big data platforms and tools that support the analytics process -- for example, data integration, data preparation and other types of data management software. We focus on tools that meet the following criteria:
+
+    They provide the analyst with advanced analytics algorithms and models.
+    They're engineered to run on big data platforms such as Hadoop or specialty high-performance analytics systems.
+    They're easily adaptable to use structured and unstructured data from multiple sources.
+    Their performance is capable of scaling as more data is incorporated into analytical models.
+    Their analytical models can be or already are integrated with data visualization and presentation tools.
+    They can easily be integrated with other technologies.
+
+In addition, the tools must incorporate essential characteristics and include integrated algorithms and methods supporting the typical suite of data mining techniques, including (but not limited to):
+
+    Clustering and segmentation, which divides a large collection of entities into smaller groups that exhibit some (potentially unanticipated) similarities. An example is analyzing a collection of customers to differentiate smaller segments for targeted marketing.
+    Classification, which is a process of organizing data into predefined classes based on attributes that are either pre-selected by an analyst or identified as a result of a clustering model. An example is using the segmentation model to determine into which segment a new customer would be categorized.
+    Regression, which is used to discover relationships among a dependent variable and one or more independent variables, and helps determine how the dependent variable's values change in relation to the independent variable values. An example is using geographic location, mean income, average summer temperature and square footage to predict the future value of a property.
+    Association and item set mining, which looks for statistically relevant relationships among variables in a large data set. For example, this could help direct call-center representatives to offer specific incentives based on the caller's customer segment, duration of relationship and type of complaint.
+    Similarity and correlation, which is used to inform undirected clustering algorithms. Similarity-scoring algorithms can be used to determine the similarity of entities placed in a candidate cluster.
+    Neural networks, which are used in undirected analysis for machine learning based on adaptive weighting and approximation.
+
+This is just a subset of the types of analyses used for predictive and prescriptive analytics. In addition, different vendors are likely to provide a variety of algorithms supporting each of the different methods.
+The advanced analytics market
+
+The market for advanced analytics tools has evolved over time, and the types of tools that are available vary in degree of maturity and, consequently, in capability and ease of use. For example, there are tools with relatively long histories from some mega-vendors like IBM, Oracle and SAS. Other large vendors have acquired companies whose tools have a more recent history, such as those provided by Microsoft, Dell, Teradata and SAP.
+
+A number of smaller companies provide big data analytics products, including Angoss, Predixion, Alteryx, Alpine Data Labs, Pentaho, KNIME and RapidMiner. In some cases, companies have developed their own suite of algorithms. Others have adapted the open source statistical R language and provide predictive and prescriptive modeling capabilities using R's features, or use the software from the open source Weka project.
+
+A third category of products are those available as open source technologies. Examples include the previously mentioned R language, the Mahout software distribution that's part of the Hadoop stack, and Weka.
+
+In some of these cases (particularly with the mega-vendors), the big data analytics tools are incorporated into larger big data enterprise suites. In others, the tools are sold as standalone products. In the latter case, it's the customer's job to integrate with the big data platform being deployed. Most of the tools provide a visual interface to guide the analytics processes (data mining/discovery analysis, evaluation and scoring of models, integration with operational environments), and in most cases, the vendors provide guidance and services to get the customer up and running.
+Who uses big data and advanced analytics tools?
+
+While some individuals in the organization are looking to explore and devise new predictive models, others look to embed these models within their business processes, and still others will want to understand the overall impact that these tools will have on the business. In other words, organizations that are adopting big data analytics need to accommodate a variety of user types, such as:
+
+    The data scientist, who likely performs more complex analyses involving more complex data types and is familiar with how underlying models are designed and implemented to assess inherent dependencies or biases.
+    The business analyst, who is likely a more casual user looking to use the tools for proactive data discovery or visualization of existing information, as well as some predictive analytics.
+    The business manager, who is looking to understand the models and conclusions.
+    IT developers, who support all the prior categories of users.
+
+All of these roles would typically work together in the model development lifecycle. The data scientist subjects a swath of big data sets to the undirected analyses provided, and looks for any patterns that would be of business interest. After engaging the business analyst to review how the models work and evaluate how each of those discovered models or patterns could potentially positively affect the business, the business manager and IT teams are brought in to embed or integrate the models into business processes or devise new processes around the models.
+
+From a market perspective, though, it's interesting to consider the types of businesses that are embracing big data analytics. Many of the early users of big data technologies were Internet companies (e.g., Google, Yahoo, Facebook, LinkedIn and Netflix) or analytics services providers. Each of these companies relied on operational and analytical applications requiring fast-flowing streams of data to ingest, process, analyze, and then feed the results back to continuously improve performance.
+
+As appetites for data expand among companies in more mainstream industries, big data analytics has found a place in a more general corporate population. In the past, the cost factors for a large-scale analytics platform would have limited the adoption to only the very largest businesses. However, the availability of utility-style hosted big data platforms (such as those available via Amazon Web Services) and the ability to instantiate big data platforms such as Hadoop on-premises without a large investment have reduced the barrier to entry. In addition, open data sets and accessibility to fire hose data feeds from social media channels provide the raw material for larger-scale data analyses when blended with internal data sets.
+
+Larger businesses may still opt for high-end big data analytics tools, but lower-cost alternatives deployed on cost-effective platforms enable small and medium-size businesses to evaluate and launch big data analytics programs and achieve the desired business improvement results.
+
+Now that we've examined the different types of tools and their uses, the next step is to determine how these tools could benefit your company. By taking a look at the various use cases for big data analytics, you will begin to see where a general big data analytics capability can be leveraged for creating and enhancing value.
+

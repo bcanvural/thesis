@@ -1,0 +1,430 @@
+How do firms develop ideas, turn them into products, and decide which ones to bring to market? Most firms do so through a series of steps known as the New Product Development (NPD) or the Stage Gate process: idea generation; idea screening; idea development and testing; business analysis; beta testing and market testing; technical implementation; commercialization; and new product pricing. These steps, or stages (formalized by Dr. Robert G. Cooper in his book Robert’s Rules of Innovation based on industry research), are loose, with steps performed concurrently, and/or eliminated if unnecessary, and flexible enough to provide for firm or industry variation. This framework is also ongoing, with firms, ideally in a state of continuous development.
+Big Data and New Product Development
+
+© Shutterstock.com | tandaV
+
+The era of Big Data has created substantial opportunities for developing products aligned with consumer demands, forecasting their profitability, and production. Using the NPD framework in this article, we will discuss 1) the benefits of using big data in new product design, 2) transforming Big Data into actionable consumer insights, 3) developing new products using Big Data, 4) improving existing products using Big Data, 4) a case study of how Big Data informs and enhances Procter and Gamble’s new product development.
+
+THE BENEFITS OF USING BIG DATA IN NEW PRODUCT DEVELOPMENT
+
+Using Big Data to inform new product development has many benefits. Firms can create products that connect with the consumer, provide increased consumer value, minimize the risks associated with a new product’s launch, and both allocate, and coordinate the use of, internal R&D resources efficiently. Through data mining, firms can also identify consumer needs it might not otherwise have captured. By continuously developing products that fulfill consumer needs, firms can deepen customer brand engagement and increase customer lifetime value. Through modeling and predictive analytics, the firm can forecast the performance of the product(s) in the market both pre- and post-launch in near-real-time, determine the optimal distribution chains, and optimize marketing strategies to acquire the greatest number of customers at the lowest cost.
+
+In sum, Big Data can help transforming big data into actionable consumer insights; develop new products; and improve existing ones.
+TRANSFORMING BIG DATA INTO ACTIONABLE CONSUMER INSIGHTS
+
+When firms pare business intelligence tools, data mining, predictive analytics, and other Big Data tools with traditional market research techniques in order to collect actionable insights about their consumers’ needs, and/or similar or related brands/products, firms are able to develop a proactive approach to new product development. They are able to innovate by developing entirely new products, as well as identify opportunities to introduce new product features, new product extensions and/or improve existing product lines. By developing a proactive, rather than reactive approach in which they are responding to the actions of competitors, they are able to ensure product quality, brand consistency, and marketing effectiveness, and exert more influence in their market. Further, they are able to minimize the uncertainty that comes with new product launches, as failures can be quite expensive. This can be a springboard for stage one, idea generation, and aid greatly in stage two, the idea screening process.
+
+NPD teams – usually cross-functional groups consisting of marketers, engineers and data scientists, working in firms that implement Big Data architecture can mine their internal databases from across the firm, as well as firm data and industry data from external sources. Firms can filter and analyze this data to determine existing, latent, and untapped consumer needs; these needs may inspire product ideas and concepts. This analysis may also be used in the second stage, idea screening.
+
+Idea screening involves filtering out ideas that do not provide sufficient customer value, satisfy a profitable target market, face too much competition, and/or are difficult to produce. Internal data can answer these questions and more, allowing product developers to sharply refine the ideas they will pursue long before they conduct a single focus group.
+
+Stage three, which involves consumer outreach, involves a further refinement of ideas for profitability, supply chain logistics, originality, and consumer acceptance. Once again, Big Data can greatly aid in this endeavor. Firms may be able to pull detailed manufacturing data or supply chain data to determine the feasibility of production or distribution respectively. Data scientists can build mathematical models of the product’s hypothetical production and distribution, costs, and use predictive analytics to develop revenue and profitability projections. Beyond determining overall feasibility, these models can help determine optimal conditions for product launch; enhance focus group discussions and surveys, allowing the firm’s market researchers to drill down on specific aspects of the hypothetical product; and further help discard unprofitable ideas.
+
+Stage four – business analysis, involves projections – demand, performance, and profitability. Predictive analytics play a huge role here, though in the absence of historical data on which to draw, data scientists must forecast using different mathematical models. There are three primary methods for predicting new product success: the Bass model; the Fourt-Woodlock model; and the Assessor model.
+
+    Bass model: Data scientists using this model try to estimate the shape of the demand curve for existing products and apply it to the new products.
+    Fourt-Woodlock model: This model can be used to estimate product sales; it is based on the number of consumers who make trial purchases and those who repeat those purchases within the first year of the product being on the market.
+    Assessor model: This model relies on assessments of the strength of the firm’s brand, and is used to project both brand preference and brand awareness over time, the latter by analysis of the firm’s planned marketing mix.
+
+Firms may use other measures to project product performance in the absence of historical sales, including internal capacity; online and offline conversion rates for similar products in the firm’s portfolio; sales performance forecasting (especially for firms using direct sales methods); analysis of the firm’s other new product launches, among others. Big Data can provide a multiplicity of variables with which to refine a firm’s forecasts. However, it is worth noting that all of the aforementioned measures typically entail a much higher degree of uncertainty than regression-based forecasts using historical data.
+
+Stages two through four allow firms to broaden their criteria for what constitutes a profitable product or target market. Optimizing marketing, production, distribution and pricing, as well as employing market customization strategies, can allow firms to match the products to the consumer at the highest margin. Take a well-known manufacturer of thermal products that is considering introducing a new branded thermal curtain that is 30% more efficient than its closest competitor, but is expensive to produce. The producer might develop models of just those target consumers willing to buy the curtains at the highest price point; develop, test and refine marketing messages; forecast the demand for the product, accounting for seasonality; and enter into an agreement with a low cost third-party manufacturer to produce the branded curtains on demand and directly ship them to the customer. A product that might otherwise have been scuttled due to high costs, might become a cash cow for the manufacturer.
+
+The product concept that survives elimination at this point, is now ready for prototyping and beta testing begins in the following stage. Using mathematical models of target consumers before beta tests can yield insights on potential adoption rates, necessary marketing and sales strategies, optimal distribution channels, and desired product features and functions. Here, the theoretical meets the practical, as consumers provide their feedback. The firms that maximize Big Data will scour this feedback not just for insights about the product being beta tested, but also its overall brand and other exiting products.
+DEVELOPING NEW PRODUCTS USING BIG DATA
+
+Once beta testing is complete and successful, firms then begin to determine how to scale the product’s manufacturing and integrate it into existing operations. This includes everything from determining optimal suppliers to contingency planning. Firms can use optimization models to predict quality and yield; account for variation in production processes down to the machine or individual level, as well as outputs; forecast demand in order to set target yields; employ mass customization strategies; and determine return on investment for every component in the production process. This data can strengthen decision-making, and yield both higher ROI and greater performance.
+
+Stage seven, or commercialization, involves the actual product launch. Optimization models can predict the national, regional, or local distribution targets most likely to yield the greatest levels of consumer adoption with the lowest customer acquisition cost. This can help inform the ideal launch location(s), which will in turn inform the distribution strategy. Further, Big Data management tools can be used to optimize the operational aspects of the distribution chain, from packaging to delivery scheduling.
+
+Modeling tools can also help optimize media planning the process of finding the media (advertising, public relations, digital) channels that will help a firm achieve its marketing goals. Digital advertising, in particular, provides a wealth of performance data that, when analyzed, can yield terabytes of insights about consumer behavior and consumer purchase behavior in real-time. Marketing analytics firms and in-house quantitative marketing teams can analyze the impact of marketing across channels and across media, allowing firms to evaluate their marketing performance and adjust their marketing strategies in real-time to meet and exceed marketing objectives.
+
+The last stage, which begins earlier in the framework, involves adjusting pricing to reflect actual (rather than projected) supply, production, and distribution costs, as well as market demand, sales, and responses from competitors . This also involves assessing the new product’s actual performance in context to the firm’s overall product portfolio.
+IMPROVING PRODUCTS USING BIG DATA
+
+Sometimes, the consumer insights captured through market research about a new product involve the firm’s existing products. For example, customer service feedback is often ripe with constructive criticism about a firm’s existing product line – insights that can be used when launching a brand extension of a product. Aggregating that data and feeding it to product marketers at the idea generation stage can be a great source of new product ideas and concepts. Further, firms can mine social networks, industry websites, and other online sources for relevant data about their brand and how their products meet (or fail to meet) consumer needs. Firms can use this information to develop solutions to products currently on the market, or build solutions into planned product extensions/next generation products.
+
+The Internet of Things – a lasting business trend in which firms connect products (all products, but especially those that have been historically unconnected, such as household appliances) through wireless technologies, has tremendous applications for proactive product development. By providing firms with real-time data about consumer usage, firms can identify and exploit opportunities to maximize customer revenue and increase product value to the customer. For example, a smart refrigerator, one programmed to keep stock of the items inside it, also may be programmed to retain diagnostic information to aid the firm in preventative and/or emergency maintenance efforts. A firm, upon learning, that repeated customer complaints have been received about a particular feature, can proactively improve it for free or at cost.
+
+A firm can also use predictive analytics to determine which product features it should introduce to next generation products that will generate the most return for the least cost. For example, a firm might beta test a new video game console with different features, such as new controllers, wireless apps, and games, and analyze usage and purchase behavior to determine which combination should be rolled out with a mass-market strategy. Alternatively, the firm can use this data to determine pricing for various customized versions of the console that will enable the firm to achieve its revenue and profit goals.
+PROCTER AND GAMBLE: A CASE STUDY
+
+Procter and Gamble (P&G), the consumer goods manufacturer, is one firm that has leveraged Big Data successfully into its new product development process, by aggregating consumer data from multiple brand touchpoints and using it to both launch and promote new products. They use modeling and simulation tools extensively to minimize prototyping expenses. For example, they’ve used them to determine how the molecules in certain household products like dishwashing liquids will react over time to refine the product.
+
+P&G is not only able to use Big Data as a springboard for new ideas; it is able to strategically plan, produce, and launch them. Among other internal business initiatives which optimize operations, P&G has developed what its former CEO, Robert McDonald refers to as “consumer pulse”, which aggregates and filters external data, such as comments and news mentions, using Bayesian analysis (a method of statistical inference used for the dynamic analysis of data sequences) on P&G’s products and brands in real-time, allowing them to react as market developments occur.
+
+P&G has also implemented a system called Control Tower, which provides real-time data on all transportation activity at P&G in over 80 countries. They’ve used this system to not only improve their transportation, but also to reduce their carbon footprint. They use a similar system called Distributor Connect, which lets them manage inventory in real-time. Moreover, the firm keeps connected to their retailers through a globally synchronized data warehouse that allows them to manage commercial transactions in a completely automated fashion.
+
+These systems all aggregate data, which are harnessed by P&G’s marketers, data scientists, and engineers to develop new products and improve existing ones. The firm spends almost $2 billion dollars annually on R&D, and in recent years has worked to systematize innovation by creating multiple groups responsible for creating new products and development. Rather than innovation being pigeon-holed into a single department, P&G linked firm-wide company, business and innovation strategies together for senior executive leadership to review. Moreover, it harnessed Big Data tools and testing. Tide Dry Cleaners, a branded dry cleaning franchise, for example, was developed by leveraging consumer insights about the deficits of the existing dry cleaning industry, its brand, and its own insights into consumer household cleaning habits. There are Tide Dry Cleaners all over the country, featuring 24-hour pickup, drive-through service, and environmentally safe cleaning processes – all consumer preferences P&G packages into a franchise and sells entrepreneurs for a hefty fee.
+Big data spells big opportunity. Companies that understand how to leverage their structured and unstructured data can uncover valuable customer insights, new ways of marketing their products and services, and entirely new lines of business. But big data is new territory for many businesses, and that makes big data consulting services a potentially lucrative opportunity for IT solution providers with the proper experience, skill sets and know-how.According to CompTIA's Quick Start Guide for solution providers on easing into big data, "In many ways, big data has become a proxy for data initiatives in general. As such, the big data trend will present a range of direct and indirect business opportunities for IT channel partners with the right mix of technical skill and business savvy."
+
+Solution providers with established big data consulting practices agree that big data is simply an evolution of business intelligence and data warehousing. "The idea of being able to economically scale and manage machine-generated data has been around for at least a decade, if not more," explained Mike Fahey, CTO at Chicago-based solution provider Clarity Solution Group. "The advent of open source technologies that are reliable, as well as an industry that's gotten behind those technologies to make them feasible and accessible to more than just the very large, very mature organizations that have budget to spend is newer."
+
+Put more simply, Fahey said, "I would argue that Wal-Mart has done big data for ages, but now it's economically feasible for a business that's smaller than Wal-Mart [to do big data]."
+A new name means new business cases
+
+Solution providers like Clarity Solution Group have offered what they consider big data consulting services for the past two to three years. For these IT channel companies, it's been simply a matter of semantics. John Onder, principal for sales and strategic alliances at CBIG Consulting, a Rosemont, Ill.-based professional services firm, explained: "Some of it is just marketing and making sure you're addressing what the market is asking for. When the market started recognizing [big data] terms and the technologies, and they started becoming more accepted in traditional business models, and our clients started looking at those technologies -- that's when it made sense to start calling it big data services."
+
+The big data space, as a whole, is still being defined. "The business cases are still forming -- not all there yet -- and I think that's a big thing going on. Over the next couple years, those reference architectures and business use cases and how to use the technology will further define this space and what big data services are," Onder said.
+
+That uncertainty presents opportunities for IT channel companies. "The biggest opportunity for solution providers with this skill set is to do the consulting work around big data," said Carolyn April, director of industry analysis at CompTIA. End users aren't that far along in their big data projects, she explained. Many have IT departments that would love to leverage data, but they don't know what data assets they have or how to make use of them. Solution providers can do an assessment of data assets and put together a plan with the business owners regarding what they want to achieve and how to do so.
+
+"From a business perspective, it's being able to go in and be that consultant who can help the end user figure out what exactly they are trying to do or what the possibilities are. If you can provide some sort of use case and [return on investment] ROI, that's very valuable to the end customer," April said.
+
+Clarity's Fahey agreed. "Our larger clients already have mature data warehousing," he said. "We are helping them figure out how they can launch a big data initiative inside the infrastructure and get ROI out of it."
+Preparing staff to offer big data consulting services
+
+When it comes to acquiring the skill sets needed to offer big data consulting services, CompTIA advises channel firms to "be prepared to have a multifaceted customer engagement involving technical and business-objective problem-solving with staff across many functional areas."
+
+Certifications are helpful in this endeavor, but they must be accompanied by experience. "Anyone can go out and get a certification," explained Paul Cattrone, big data and analytics practice director at Lilien Systems, a Larkspur, Calif.-based solutions provider. "That doesn't necessarily mean that you have an understanding of technology and what its strengths and weaknesses are. It means you understand from a textbook point of view but not necessarily an implementation point of view. That's where growing up with the technology is a benefit."
+
+    When you have a conversation with a customer and can say, 'This is how I solved that [same] problem this year or two years ago,' … it gives us a lot of credibility.
+    Paul Cattrone, big data and analytics practice director, Lilien Systems
+
+Cattrone said his team has worked with big data tools like Hadoop since 2010. This hands-on experience enables them to successfully address customer problems. "When you have a conversation with a customer and can say, 'This is how I solved that [same] problem this year or two years ago,' … it gives us a lot of credibility," he said.
+
+IT channel companies that don't have a background and experience in big data can still develop a big data consulting practice. "Companies can make it a fit if they work hard enough at it and have the money to invest," CompTIA's April said. But, she added, "That's going to be a much more difficult adoption. It doesn't mean [those IT channel companies] shouldn't do it, but they need to start with a data management practice or database development work and get experience there before jumping into more complex types of analytics that you see being done under the big data scope."
+How to stand out in the big data crowd
+
+IT solution providers considering a foray into big data consulting services should be mindful of the size and scope of the marketplace. "While the set of pure-play big data firms is relatively small, the broader ecosystem of firms in the data space is quite large. When thinking about potential competitors, it's a good idea to think broadly," CompTIA advises in its report.
+
+Big data services can run the gamut from data assessments to business strategy to implementation. These services are being offered by a variety of businesses beyond VARs, systems integrators and IT consultants, including PR firms, survey research firms, brand management firms, marketing firms and business consultants. The CompTIA report advises that solution providers consider these competitors, as well as how they can offer services that are differentiated from those of competitors.
+
+April advised, "Don't bite off more than you can chew. Do a good self-assessment. Be honest about your skill level, your resources financially and from a human standpoint, and your commitment to this. If you don't do that, you could end up falling flat on your face and have a bad customer experience at the beginning."
+
+While the scope of the market is sizeable, April said she isn't seeing a huge immersion in the channel. "The differentiators are a, doing [big data consulting] and b, doing it competently right now," she said.
+
+Beyond those, the differentiators April identified for big data consulting services should sound familiar to IT solution providers, as they could apply to any practice: "The differentiators are competence and having a good relationship with the customer and being able to provide business advice. Know when to steer customers away from a solution that won't be beneficial and may be an unnecessary expense for them," she said.
+
+Of course, being able to make that call requires experience -- a differentiator that Onder said works well for CBIG Consulting. "The depth of knowledge of our people and [their] experience level and focus in this space is different than most. Most of our people have 10 years of experience in this space. From a big data perspective, we have people who have been there and done it, and seen the evolution and how the pieces fit together, versus someone that has just done Hadoop and doesn't understand where those technologies fit well and where they don't."
+Uncovering big data opportunities
+
+Like establishing differentiators, ramping up a big data consulting business is like starting any other practice area. CompTIA's April advised that IT solution providers begin by looking for opportunities among existing customers. "That's where you need to start if you're new to this business. You know how their business runs, and you have a relationship. Because the familiarity is there, it will be easier than going to a net-new customer and trying to apply the same insights into a company that you're not familiar with."
+
+That said, nearly any business can benefit from big data consulting services. "Even the smallest businesses are generating so much data internally, almost anyone is a good candidate," April said. "But if you work backwards from the goals of the customer, those are the ones that you want to target -- those that have a good sense of what they want to do."
+
+April said solution providers can gather case studies and proof points from these engagements and present them to net-new customers as proof of experience
+7
+Strategy&
+In the regulatory arena, new oversight requirements since the financial 
+crisis have expanded the categories of data that financial-services firms 
+need to manage, process, and disseminate. For example, new capital 
+and risk analytics will be required to efficiently manage Basel III and 
+Dodd-Frank. 
+Finally, consumer habits and expectations are changing rapidly, driving 
+some consumers to switch their banks and insurance providers. Social 
+sites such as Facebook, Twitter, and Pinterest have whetted people’s 
+appetite for more comprehensive information, and retail sites such as 
+Amazon and eBay are broadly influencing customer experience 
+expectations. Google and eBay are quickly entering into the payments 
+space, demonstrating how nontraditional competitors can enter the 
+landscape via a data advantage. 
+The end result for the industry will be a new group of high-margin 
+business opportunities. This is good news for the industry as a whole, 
+but it is also likely to attract outside firms with expertise in monetizing 
+data. Think of PayPal and Google Wallet as the first of these new 
+competitors. Companies from the computer industry could easily give 
+some established financial firms a run for their money. Strategy& 
+estimates that leading financial firms risk losing 10 percent or more of 
+their potential top-line revenue to nonfinancial competitors within the 
+next few years if they do not move aggressively to transform the 
+enterprise today.
+8
+Strategy&
+Five basic business models 
+The first step in seizing the opportunities of data monetization is 
+picking an appropriate business model for your data and analytics 
+transformation strategy. There are five basic models — five ways to use 
+data profitably and effectively (
+see Exhibit 2
+). Together they make up a 
+spectrum of activity for transforming your approach to information:
+• 
+Your current core business, improved through use of enhanced data
+• 
+Better return on your marketing investment using insights about 
+your customers or transactions
+Leverage enhanced 
+data for core 
+business
+Generate new 
+insights
+White-label 
+capabilities & 
+infrastructure
+Create new data
+Develop new businesses
+Enter adjacent businesses
+Enhance current business
+Create new offerings
+– 
+Seek opportunities to 
+enrich existing service 
+thr
+ough new data 
+sour
+ces
+– 
+Develop and leverage 
+new platforms 
+– 
+Deliver enhanced 
+services (e.g., in r
+eal 
+time) 
+– Understand deep client 
+insights
+– Enhance marketing 
+campaign ROI and 
+conversion 
+– Monetize existing 
+analytics capabilities via 
+white labeling to clients 
+and other partners 
+acr
+oss the value chain 
+– Commer
+cialize 
+infrastructur
+e to sell 
+platforms as a service 
+– Partner with adjacent 
+players acr
+oss the 
+business value chain
+– Identify new sour
+ces of 
+data (e.g., unstructur
+ed) 
+to join with existing data 
+sets 
+– Monetize new sets 
+of data 
+– Develop new sets 
+of analytics and 
+data pr
+oducts (e.g., 
+benchmarks, tools)
+– Develop new pr
+oducts 
+that benefit fr
+om 
+enhanced data and 
+analytics (e.g., re
+al-time 
+net asset value, active 
+non-disclosed exchange 
+traded funds) 
+Exhibit 2
+Data and analytics transformation spectrum
+Source: Strategy& 
+9
+Strategy&
+• 
+White-label capabilities and infrastructure delivered by other firms
+• 
+Delivery of new types of data directly to customers
+• 
+New products and services made possible by data and analytics 
+All these business models will generate incremental revenue. However, 
+some are more transformative than others — in other words, they are 
+more likely to reshape your business overall. Financial-services firms 
+that are creating new data and developing data and analytics products 
+are truly evolving into something more like a technology business. They 
+may even start to enjoy the higher valuation multiples associated with 
+technology and data firms. 
+Corporate leaders can ask themselves a series of questions to 
+understand where they would best fit on the data and analytics 
+transformation spectrum:
+1. 
+Does my firm have a strong product set but limited conversions, 
+cross-sells, or marketing results? 
+2. 
+Do I own the market in key categories but have trouble enticing 
+customers with new products? 
+3. 
+Do customers need my products in real time or integrated with 
+common industry platforms?
+4. 
+Is my firm’s accessible data robust? For example, do I see 20 percent 
+or more of the industry’s transactions or volume?
+5. 
+Can I partner with others to improve the quality, value, and delivery 
+of my data?
+6. 
+Can I use data to develop products and services in adjacent or new 
+business sectors?
+The answers to these questions will help a company identify the 
+best business model for its data and analytics transformation strategy 
+(
+see Exhibit 3, next page
+). Frequently, companies will pursue more than 
+one of these models to reach various customers and address different 
+needs.
+13
+Strategy&
+Case study: Tesco
+market adjacencies offer new opportunities to leverage your data. 
+For example, by understanding how merchants interact with order 
+management system vendors, a payments company can identify 
+potential partnerships and opportunities for its data. One merchant 
+might benefit from a better understanding of segment-specific demand 
+patterns; another might benefit from understanding sales volume by 
+time of day. To identify these relationships and opportunities, it’s 
+helpful to map the data ecosystem to see your adjacent relationships, 
+as well as those relationships’ adjacent relationships, and so on. 
+Size the value:
+ Understanding the market opportunity for 
+commercializing data is a key design principle. Each of these business 
+models can yield a substantial internal rate of return; indeed, each of 
+them can be self-funded with the right design. One reason is that 
+U.K.-based supermarket giant Tesco is a 
+prime example of a nonfinancial company 
+that’s using data to compete effectively 
+with traditional financial players. Until 
+2008, the company ran Tesco Bank as a 
+50/50 joint venture with the Royal Bank 
+of Scotland. That year Tesco bought out 
+RBS and began developing a completely 
+new infrastructure for the business, 
+built a new team, and brought in new 
+expertise. The transition was not always 
+smooth — for instance, online customers 
+were locked out of accounts for several 
+days in 2011 when Tesco moved data 
+from the RBS systems to its own — but 
+it’s now complete. To fully exploit this 
+treasure trove of data, the company took 
+a significant stake in Dunnhumby, a U.K. 
+data mining firm that will help Tesco 
+monetize the consumer data from both 
+the retail and banking operations. 
+At its core, Tesco Bank is underpinned by 
+the Clubcard. The insights the bank gains 
+from the Clubcard customer data allow 
+the company to understand customer 
+needs and make the most relevant offers 
+in the store and in the bank. The Clubcard 
+credit card rewards customers with points 
+whenever they use their card — one 
+Clubcard point for every £4 (US$6.12) 
+spent. Clubcard customers can also receive 
+preferential deals when buying Tesco Bank 
+products — including discounts on car, 
+home, pet, and travel insurance — and can 
+use points to buy Tesco Bank insurance. 
+This year, Tesco Bank gave customers 
+around £70 million (US$107 million) 
+worth of points to spend in the store or 
+on Clubcard rewards. In terms of systems 
+and IT, Tesco’s new platforms significantly 
+improve customer service. Instant decisions 
+are now possible on loan applications, 
+and customers can open and fund savings 
+accounts in just 10 minutes rather than the 
+two weeks required in the past. 
+The conversion is still in its early days, 
+but Tesco’s efforts are paying dividends 
+in the form of increased market share 
+across a range of products. In 2009, Tesco 
+Bank credit cards made up 9 percent 
+of all MasterCard and Visa credit card 
+transactions in the U.K., and by 2012 
+that figure had grown to 12 percent. 
+Meanwhile, from 2008 to 2012, the 
+company’s car insurance gross written 
+premiums increased by 39 percent and 
+pet insurance gross written premiums 
+rose 44 percent.
+14
+Strategy&
+investing to digitize your business can save 25 to 35 percent in 
+operating costs. To size value, you need to understand your competitors 
+and your own key inputs — such as the various costs — as well as the 
+marketplace demand for the data products.
+Enhance the infrastructure: 
+At the foundation of the data strategy must 
+be an information technology infrastructure that is sophisticated, 
+transparent, and flexible enough for a company to unlock the value of 
+its data. At a minimum, the infrastructure needs to provide single 
+sources of data truth, real-time data for messaging and transactions that 
+can be monetized (even without additional analytics), and a highly 
+available infrastructure.
+These five core design principles should guide your practice as you 
+design and execute your strategy for monetizing data. You will invest 
+and manage a host of new activities (
+see Exhibit 4
+). They will enable you 
+to build the capabilities you need for the data gold rush. 
+Exhibit 4
+Building capabilities for the data gold rush
+Source: Strategy& 
+Investment in 
+continuous 
+improvement
+Cataloging & 
+mapping 
+existing data
+Developing 
+insight 
+adjacencies
+Combining 
+structured & 
+unstructured data
+Building data 
+infrastructure
+- Invest in continuous lear
+ning and management of clients’ or customers’ unmet needs acr
+oss the value chain.
+- Truly understand the delivery and integration models that clients r
+equire
+ to benefit fr
+om enhancements to 
+products or new pr
+oducts and services.
+- Understand, catalog, and map data housed acr
+oss all business lines.
+- Map data and analytics services acr
+oss business units to understand what types of capabilities can be 
+leveraged to build new pr
+oducts and services. 
+- Determine additional opportunities acr
+oss the value chain by developing insights into adjacencies, for both 
+data and partners.
+- Create a compr
+ehensive view of the data ecosystem.
+- Combine “inter
+nally owned” structur
+ed data with both inte
+rnal and exter
+nally sour
+ced semi-structur
+ed and 
+unstructur
+ed data, market data, telemetry data, etc.
+- Seek out opportunities to enhance the cor
+e business or develop new pr
+oducts and services.
+- Put in place a data infrastructur
+e that can pr
+ovide the necessary foundation to enable the or
+ganization to 
+unlock the value of data assets. 
+- Continue to evaluate cor
+e capabilities to determine what suits the particular situation best
+.
+15
+Strategy&
+Conclusion
+Most financial-services companies still don’t think of their data as an 
+asset they can monetize if they build the right capabilities. They’re 
+overlooking an opportunity in plain sight. Not only can they make 
+better use of their data to enhance products and services for current 
+clients, but new technologies now allow them to take the next step and 
+combine their data with external data. This marriage will create 
+powerful new insights into the customer and supply base and could 
+transform the enterprise, unleashing a whole new generation of high-
+margin products and services for current customers and customers in 
+adjacent markets. The enormous revenue potential will not go ignored 
+by others. If financial-services firms don’t embark on data-led 
+transformations to seize this opportunity, more nimble nonfinancial 

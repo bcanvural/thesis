@@ -1,0 +1,520 @@
+Data Collection and  Integration
+
+Improving quality levels requires good actionable data. Many times projects stumble due to the difficulties of acquiring data or the key parameters that give data value: other software systems may hold needed information; different sources may have incompatible data formats; complex IT infrastructures can make it difficult for business users to find their data. Data acquisition provides the critical link of information between the shop floor and the rest of the organization.
+Data Collection and  Integration from ProFicient brings the ability to:
+
+    Eliminate the complexity of getting data into the software. Focus on continuous improvement efforts rather than endless data-loading exercises.
+    Obtain a complete picture of operations. Integrate all the silos of data you need without bothering IT or waiting until a quality team member frees up time to import and export data.
+    Include data from other commonly used software. Stop worrying about what might have been missed due to the complexity of just getting data from your existing systems and jump-start your quality improvement efforts.
+    Adjust the level of automation for data collection. Create a start-small win-big approach and roll out the data collection project at your own pace.
+    Collect data in any environment. Use any mobile device as an untethered way to collect and enter data into the system.
+
+Data integration involves combining data residing in different sources and providing users with a unified view of these data.[1] This process becomes significant in a variety of situations, which include both commercial (when two similar companies need to merge their databases) and scientific (combining research results from different bioinformatics repositories, for example) domains. Data integration appears with increasing frequency as the volume and the need to share existing data explodes.[2] It has become the focus of extensive theoretical work, and numerous open problems remain unsolved.
+
+Contents
+
+    1 History
+    2 Example
+    3 Theory of data integration
+        3.1 Definitions
+        3.2 Query processing
+    4 Data Integration tools
+    5 Data integration in the life sciences
+    6 See also
+    7 References
+
+History
+Figure 1: Simple schematic for a data warehouse. The ETL process extracts information from the source databases, transforms it and then loads it into the data warehouse.
+Figure 2: Simple schematic for a data-integration solution. A system designer constructs a mediated schema against which users can run queries. The virtual database interfaces with the source databases via wrapper code if required.
+
+Issues with combining heterogeneous data sources, often referred to as information silos, under a single query interface have existed for some time. In the early 1980s, computer scientists began designing systems for interoperability of heterogeneous databases.[3] The first data integration system driven by structured metadata was designed at the University of Minnesota in 1991, for the Integrated Public Use Microdata Series (IPUMS). IPUMS used a data warehousing approach, which extracts, transforms, and loads data from heterogeneous sources into a single view schema so data from different sources become compatible.[4] By making thousands of population databases interoperable, IPUMS demonstrated the feasibility of large-scale data integration. The data warehouse approach offers a tightly coupled architecture because the data are already physically reconciled in a single queryable repository, so it usually takes little time to resolve queries.[5]
+
+The data warehouse approach is less feasible for datasets that are frequently updated, requiring the ETL process to be continuously re-executed for synchronization. Difficulties also arise in constructing data warehouses when one has only a query interface to summary data sources and no access to the full data. This problem frequently emerges when integrating several commercial query services like travel or classified advertisement web applications.
+
+As of 2009 the trend in data integration favored loosening the coupling between data[citation needed] and providing a unified query-interface to access real time data over a mediated schema (see figure 2), which allows information to be retrieved directly from original databases. This is consistent with the SOA approach popular in that era. This approach relies on mappings between the mediated schema and the schema of original sources, and transform a query into specialized queries to match the schema of the original databases. Such mappings can be specified in 2 ways : as a mapping from entities in the mediated schema to entities in the original sources (the "Global As View" (GAV) approach), or as a mapping from entities in the original sources to the mediated schema (the "Local As View" (LAV) approach). The latter approach requires more sophisticated inferences to resolve a query on the mediated schema, but makes it easier to add new data sources to a (stable) mediated schema.
+
+As of 2010 some of the work in data integration research concerns the semantic integration problem. This problem addresses not the structuring of the architecture of the integration, but how to resolve semantic conflicts between heterogeneous data sources. For example, if two companies merge their databases, certain concepts and definitions in their respective schemas like "earnings" inevitably have different meanings. In one database it may mean profits in dollars (a floating-point number), while in the other it might represent the number of sales (an integer). A common strategy for the resolution of such problems involves the use of ontologies which explicitly define schema terms and thus help to resolve semantic conflicts. This approach represents ontology-based data integration. On the other hand, the problem of combining research results from different bioinformatics repositories requires bench-marking of the similarities, computed from different data sources, on a single criterion such as positive predictive value. This enables the data sources to be directly comparable and can be integrated even when the natures of experiments are distinct.[6]
+
+As of 2011 it was determined that current data modeling methods were imparting data isolation into every data architecture in the form of islands of disparate data and information silos. This data isolation is an unintended artifact of the data modeling methodology that results in the development of disparate data models. Disparate data models, when instantiated as databases, form disparate databases. Enhanced data model methodologies have been developed to eliminate the data isolation artifact and to promote the development of integrated data models.[7][8] One enhanced data modeling method recasts data models by augmenting them with structural metadata in the form of standardized data entities. As a result of recasting multiple data models, the set of recast data models will now share one or more commonality relationships that relate the structural metadata now common to these data models. Commonality relationships are a peer-to-peer type of entity relationships that relate the standardized data entities of multiple data models. Multiple data models that contain the same standard data entity may participate in the same commonality relationship. When integrated data models are instantiated as databases and are properly populated from a common set of master data, then these databases are integrated.
+
+Since 2011, Data hub approaches have been of greater interest than fully structured (typically relational) Enterprise Data Warehouses. Since 2013, Data lake approaches have risen to the level of Data Hubs. (See all three search terms popularity on Google Trends.[9] These approaches combine unstructured or varied data into one location, but do not necessarily require an (often complex) master relational schema to structure and define all data in the Hub.
+Example
+
+Consider a web application where a user can query a variety of information about cities (such as crime statistics, weather, hotels, demographics, etc.). Traditionally, the information must be stored in a single database with a single schema. But any single enterprise would find information of this breadth somewhat difficult and expensive to collect. Even if the resources exist to gather the data, it would likely duplicate data in existing crime databases, weather websites, and census data.
+
+A data-integration solution may address this problem by considering these external resources as materialized views over a virtual mediated schema, resulting in "virtual data integration". This means application-developers construct a virtual schema — the mediated schema — to best model the kinds of answers their users want. Next, they design "wrappers" or adapters for each data source, such as the crime database and weather website. These adapters simply transform the local query results (those returned by the respective websites or databases) into an easily processed form for the data integration solution (see figure 2). When an application-user queries the mediated schema, the data-integration solution transforms this query into appropriate queries over the respective data sources. Finally, the virtual database combines the results of these queries into the answer to the user's query.
+
+This solution offers the convenience of adding new sources by simply constructing an adapter or an application software blade for them. It contrasts with ETL systems or with a single database solution, which require manual integration of entire new dataset into the system. The virtual ETL solutions leverage virtual mediated schema to implement data harmonization; whereby the data are copied from the designated "master" source to the defined targets, field by field. Advanced Data virtualization is also built on the concept of object-oriented modeling in order to construct virtual mediated schema or virtual metadata repository, using hub and spoke architecture.
+
+Each data source is disparate and as such is not designed to support reliable joins between data sources. Therefore, data virtualization as well as data federation depends upon accidental data commonality to support combining data and information from disparate data sets. Because of this lack of data value commonality across data sources, the return set may be inaccurate, incomplete, and impossible to validate.
+
+One solution is to recast disparate databases to integrate these databases without the need for ETL. The recast databases support commonality constraints where referential integrity may be enforced between databases. The recast databases provide designed data access paths with data value commonality across databases.
+Theory of data integration
+
+The theory of data integration[1] forms a subset of database theory and formalizes the underlying concepts of the problem in first-order logic. Applying the theories gives indications as to the feasibility and difficulty of data integration. While its definitions may appear abstract, they have sufficient generality to accommodate all manner of integration systems,[10] including those that include nested relational / XML databases [11] and those that treat databases as programs.[12] Connections to particular databases systems such as Oracle or DB2 are provided by implementation-level technologies such as JDBC and are not studied at the theoretical level.
+Definitions
+
+Data integration systems are formally defined as a triple ⟨ G , S , M ⟩ {\displaystyle \left\langle G,S,M\right\rangle } \left\langle G,S,M\right\rangle where G {\displaystyle G} G is the global (or mediated) schema, S {\displaystyle S} S is the heterogeneous set of source schemas, and M {\displaystyle M} M is the mapping that maps queries between the source and the global schemas. Both G {\displaystyle G} G and S {\displaystyle S} S are expressed in languages over alphabets composed of symbols for each of their respective relations. The mapping M {\displaystyle M} M consists of assertions between queries over G {\displaystyle G} G and queries over S {\displaystyle S} S. When users pose queries over the data integration system, they pose queries over G {\displaystyle G} G and the mapping then asserts connections between the elements in the global schema and the source schemas.
+
+A database over a schema is defined as a set of sets, one for each relation (in a relational database). The database corresponding to the source schema S {\displaystyle S} S would comprise the set of sets of tuples for each of the heterogeneous data sources and is called the source database. Note that this single source database may actually represent a collection of disconnected databases. The database corresponding to the virtual mediated schema G {\displaystyle G} G is called the global database. The global database must satisfy the mapping M {\displaystyle M} M with respect to the source database. The legality of this mapping depends on the nature of the correspondence between G {\displaystyle G} G and S {\displaystyle S} S. Two popular ways to model this correspondence exist: Global as View or GAV and Local as View or LAV.
+Figure 3: Illustration of tuple space of the GAV and LAV mappings.[13] In GAV, the system is constrained to the set of tuples mapped by the mediators while the set of tuples expressible over the sources may be much larger and richer. In LAV, the system is constrained to the set of tuples in the sources while the set of tuples expressible over the global schema can be much larger. Therefore, LAV systems must often deal with incomplete answers.
+
+GAV systems model the global database as a set of views over S {\displaystyle S} S. In this case M {\displaystyle M} M associates to each element of G {\displaystyle G} G a query over S {\displaystyle S} S. Query processing becomes a straightforward operation due to the well-defined associations between G {\displaystyle G} G and S {\displaystyle S} S. The burden of complexity falls on implementing mediator code instructing the data integration system exactly how to retrieve elements from the source databases. If any new sources join the system, considerable effort may be necessary to update the mediator, thus the GAV approach appears preferable when the sources seem unlikely to change.
+
+In a GAV approach to the example data integration system above, the system designer would first develop mediators for each of the city information sources and then design the global schema around these mediators. For example, consider if one of the sources served a weather website. The designer would likely then add a corresponding element for weather to the global schema. Then the bulk of effort concentrates on writing the proper mediator code that will transform predicates on weather into a query over the weather website. This effort can become complex if some other source also relates to weather, because the designer may need to write code to properly combine the results from the two sources.
+
+On the other hand, in LAV, the source database is modeled as a set of views over G {\displaystyle G} G. In this case M {\displaystyle M} M associates to each element of S {\displaystyle S} S a query over G {\displaystyle G} G. Here the exact associations between G {\displaystyle G} G and S {\displaystyle S} S are no longer well-defined. As is illustrated in the next section, the burden of determining how to retrieve elements from the sources is placed on the query processor. The benefit of an LAV modeling is that new sources can be added with far less work than in a GAV system, thus the LAV approach should be favored in cases where the mediated schema is less stable or likely to change.[1]
+
+In an LAV approach to the example data integration system above, the system designer designs the global schema first and then simply inputs the schemas of the respective city information sources. Consider again if one of the sources serves a weather website. The designer would add corresponding elements for weather to the global schema only if none existed already. Then programmers write an adapter or wrapper for the website and add a schema description of the website's results to the source schemas. The complexity of adding the new source moves from the designer to the query processor.
+Query processing
+
+The theory of query processing in data integration systems is commonly expressed using conjunctive queries and Datalog, a purely declarative logic programming language.[14] One can loosely think of a conjunctive query as a logical function applied to the relations of a database such as " f ( A , B ) {\displaystyle f(A,B)} f(A,B) where A < B {\displaystyle A<B} A<B". If a tuple or set of tuples is substituted into the rule and satisfies it (makes it true), then we consider that tuple as part of the set of answers in the query. While formal languages like Datalog express these queries concisely and without ambiguity, common SQL queries count as conjunctive queries as well.
+
+In terms of data integration, "query containment" represents an important property of conjunctive queries. A query A {\displaystyle A} A contains another query B {\displaystyle B} B (denoted A ⊃ B {\displaystyle A\supset B} A\supset B) if the results of applying B {\displaystyle B} B are a subset of the results of applying A {\displaystyle A} A for any database. The two queries are said to be equivalent if the resulting sets are equal for any database. This is important because in both GAV and LAV systems, a user poses conjunctive queries over a virtual schema represented by a set of views, or "materialized" conjunctive queries. Integration seeks to rewrite the queries represented by the views to make their results equivalent or maximally contained by our user's query. This corresponds to the problem of answering queries using views (AQUV).[15]
+
+In GAV systems, a system designer writes mediator code to define the query-rewriting. Each element in the user's query corresponds to a substitution rule just as each element in the global schema corresponds to a query over the source. Query processing simply expands the subgoals of the user's query according to the rule specified in the mediator and thus the resulting query is likely to be equivalent. While the designer does the majority of the work beforehand, some GAV systems such as Tsimmis 
+involve simplifying the mediator description process.
+
+In LAV systems, queries undergo a more radical process of rewriting because no mediator exists to align the user's query with a simple expansion strategy. The integration system must execute a search over the space of possible queries in order to find the best rewrite. The resulting rewrite may not be an equivalent query but maximally contained, and the resulting tuples may be incomplete. As of 2009 the MiniCon algorithm[15] is the leading query rewriting algorithm for LAV data integration systems.
+
+In general, the complexity of query rewriting is NP-complete.[15] If the space of rewrites is relatively small this does not pose a problem — even for integration systems with hundreds of sources.
+Data Integration tools
+
+    Alteryx
+    Analytics Canvas
+    Cloud Elements API Integration
+    DataWatch
+    Denodo Platform
+    HiperFabric 
+    Lavastorm
+    ParseKit (enigma.io)
+    Paxata
+    RapidMiner Studio
+    Red Hat JBoss Data Virtualization. Community project: teiid.
+    Azure Data Factory (ADF)
+    SQL Server Integration Services (SSIS)
+
+Data integration in the life sciences
+
+Large-scale questions in science, such as global warming, invasive species spread, and resource depletion, are increasingly requiring the collection of disparate data sets for meta-analysis. This type of data integration is especially challenging for ecological and environmental data because metadata standards are not agreed upon and there are many different data types produced in these fields. National Science Foundation initiatives such as Datanet are intended to make data integration easier for scientists by providing cyberinfrastructure and setting standards. The five funded Datanet initiatives are DataONE,[16] led by William Michener at the University of New Mexico; The Data Conservancy,[17] led by Sayeed Choudhury of Johns Hopkins University; SEAD: Sustainable Environment through Actionable Data,[18] led by Margaret Hedstrom of the University of Michigan; the DataNet Federation Consortium,[19] led by Reagan Moore of the University of North Carolina; and Terra Populus,[20] led by Steven Ruggles of the University of Minnesota. The Research Data Alliance,[21] has more recently explored creating global data integration frameworks. The OpenPHACTS project, funded through the European Union Innovative Medicines Initiative, built a drug discovery platform by linking datasets from providers such as European Bioinformatics Institute, Royal Society of Chemistry, UniProt, WikiPathways and DrugBank.
+See also
+
+    Business semantics management
+    Core data integration
+    Customer data integration
+    Data curation
+    Data fusion
+    Data mapping
+    Data virtualization
+    Data Warehousing
+    Data wrangling
+    Database model
+    Datalog
+    Dataspaces
+    Edge data integration
+    Enterprise application integration
+    Enterprise Architecture framework
+    Enterprise Information Integration (EII)
+    Enterprise integration
+    Extract, transform, load
+    Geodi: Geoscientific Data Integration
+    Information integration
+    Information Server
+    Information silo
+    Integration Competency Center
+    Integration Consortium
+    JXTA
+    Master data management
+    Object-relational mapping
+    Ontology based data integration
+    Open Text
+    Schema Matching
+    Semantic Integration
+    SQL
+    Three schema approach
+    UDEF
+    Web service
+
+    
+Initiatives and organizations
+
+    Health Level 7
+    Open Knowledge Initiative
+    OSS through Java
+    Schools Interoperability Framework (SIF)
+
+Commercial products
+
+    Adeptia ESB Suite
+    Amtrix
+    Astera Software Centerprise Data Integrator
+    CEITON
+    Cloud Elements API Integration
+    Dell Boomi
+    ECS Financials IMS
+    IBM WebSphere Message Broker
+    Informatica Cloud Data Integration
+    Information Builders iWay ISM
+    Intersystems Ensemble
+    Jitterbit Integration Server
+    Magic Software xpi Integration Platform
+    Microsoft BizTalk Server
+    Mule Enterprise
+    Oracle SOA Suite
+    SAP NetWeaver Process Integration (PI)
+    SnapLogic
+    Software AG Suite
+    Tibco ActiveMatrix/Business Works
+    WebMethods
+    ACA
+
+Open-source projects
+
+    UltraESB
+    Apache ActiveMQ
+    Mule ESB
+    Apache Camel
+    Guaraná DSL
+    Fuse ESB (based on Apache ServiceMix)
+    Fuse Mediation Router (based on Apache Camel)
+    Fuse Message Broker (based on Apache ActiveMQ)
+    MuleSoft
+    Openadaptor
+    OpenESB
+    Petals ESB
+    Talend
+    Virtuoso Universal Server
+    RabbitMQ (based on AMQP protocol)
+
+
+
+Core data integration
+From Wikipedia, the free encyclopedia
+	This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (December 2007) (Learn how and when to remove this template message)
+
+Core data integration is the use of data integration technology for a significant, centrally planned and managed IT initiative within a company. Examples of core data integration initiatives could include:
+
+    ETL (Extract, transform, load) implementations
+    EAI (Enterprise Application Integration) implementations
+    SOA (Service-Oriented Architecture) implementations
+    ESB (Enterprise Service Bus) implementations
+
+Core data integrations are often designed to be enterprise-wide integration solutions. They may be designed to provide a data abstraction layer, which in turn will be used by individual core data integration implementations, such as ETL servers or applications integrated through EAI.
+
+Because it is difficult to promptly roll out a centrally managed data integration solution that anticipates and meets all data integration requirements across an organization, IT engineers and even business users create edge data integration, using technology that may be incompatible with that used at the core. In contrast to a core data integration, an edge data integration is not centrally planned and is generally completed with a smaller budget and a tighter deadline.
+See also
+
+    data integration
+    edge data integration
+An edge data integration is an implementation of data integration technology undertaken in an ad hoc or tactical fashion. This is also sometimes referred to as point-to-point integration because it connects two types of data directly to serve a narrow purpose. Many edge integrations, and actually the vast majority of all data integration, involves hand-coded scripts. Some may take the form of Business Mashups (web application hybrids), Rich Internet applications, or other browser-based models that take advantage of Web 2.0 technologies to combine data in a Web browser.
+
+Examples of edge data integration projects might be:
+
+    extracting a list of customers from a host Sales Force Automation application and writing the results to an Excel spreadsheet
+    creating a script-driven framework for managing RSS feeds
+    combining data from a weather Web site, a shipping company's Web site, and a company's internal logistics database to track shipments and estimated arrival times of packages
+
+It has been claimed that edge data integration do not typically require large budgets and centrally managed technologies, which is in contrast to a core data integration.
+See also
+
+    core data integration
+    Business Mashups
+    Rich Internet application
+    Web 2.0
+    Yahoo! Pipes
+    Microsoft Popfly
+    IBM Mashup Center
+    Enterprise application integration (EAI) is the use of software and computer systems' architectural principles to integrate a set of enterprise computer applications.
+
+Contents
+
+    1 Overview
+        1.1 Improving connectivity
+        1.2 Purposes
+        1.3 Patterns
+            1.3.1 Integration patterns
+            1.3.2 Access patterns
+            1.3.3 Lifetime patterns
+        1.4 Topologies
+        1.5 Technologies
+        1.6 Communication architectures
+        1.7 Implementation pitfalls
+        1.8 See also
+            1.8.1 Initiatives and organizations
+            1.8.2 Commercial products
+            1.8.3 Open-source projects
+        1.9 References
+
+Overview
+
+Enterprise application integration is an integration framework composed of a collection of technologies and services which form a middleware or "middleware framework" to enable integration of systems and applications across an enterprise.
+
+Many types of business software such as supply chain management applications, ERP systems, CRM applications for managing customers, business intelligence applications, payroll and human resources systems typically cannot communicate with one another in order to share data or business rules. For this reason, such applications are sometimes referred to as islands of automation or information silos. This lack of communication leads to inefficiencies, wherein identical data are stored in multiple locations, or straightforward processes are unable to be automated.
+
+Enterprise application integration is the process of linking such applications within a single organization together in order to simplify and automate business processes to the greatest extent possible, while at the same time avoiding having to make sweeping changes to the existing applications or data structures. Applications can be linked either at the back-end via APIs or (seldomly) the front-end (GUI).[1]
+
+In the words of the Gartner Group, EAI is the "unrestricted sharing of data and business processes among any connected application or data sources in the enterprise."[2]
+
+The various systems that need to be linked together may reside on different operating systems, use different database solutions or computer languages, or different date and time formats, or may be legacy systems that are no longer supported by the vendor who originally created them. In some cases, such systems are dubbed "stovepipe systems" because they consist of components that have been jammed together in a way that makes it very hard to modify them in any way.
+Improving connectivity
+
+If integration is applied without following a structured EAI approach, point-to-point connections grow across an organization. Dependencies are added on an impromptu basis, resulting in a complex structure that is difficult to maintain.[3] This is commonly referred to as spaghetti, an allusion to the programming equivalent of spaghetti code. For example:
+
+The number of connections needed to have fully meshed point-to-point connections, with n {\displaystyle n} n points, is given by ( n 2 ) = n ( n − 1 ) 2 {\displaystyle {\tbinom {n}{2}}={\frac {n(n-1)}{2}}} {\tbinom n2}={\frac {n(n-1)}{2}} (see binomial coefficient). Thus, for ten applications to be fully integrated point-to-point, 10 × 9 2 {\displaystyle {\frac {10\times 9}{2}}} {\frac {10\times 9}{2}}, or 45 point-to-point connections are needed.
+
+However the number of connections within organizations does not grow according to the square of the number points. In general, the number of connections to any point is independent of the number of other points in an organization. (Thought experiment: if an additional point is added to your organization, are you aware of it? Does it increase the number of connections other unrelated points have?) There are a small number of "collection" points for which this does not apply, but these do not require EAI patterns to manage.
+
+EAI can also increase coupling between systems and therefore increase management overhead and costs.
+
+However, EAI is not just about sharing data between applications; it focuses on sharing both business data and business process. A middleware analyst attending to EAI may also look at the system of systems.
+Purposes
+
+EAI can be used for different purposes:
+
+    Data integration: Ensures that information in multiple systems is kept consistent. This is also known as enterprise information integration (EII).
+    Vendor independence: Extracts business policies or rules from applications and implements them in the EAI system, so that even if one of the business applications is replaced with a different vendor's application, the business rules do not have to be re-implemented.
+    Common facade: An EAI system can front-end a cluster of applications, providing a single consistent access interface to these applications and shielding users from having to learn to use different software packages.
+
+Patterns
+
+This section describes common design patterns for implementing EAI, including integration, access and lifetime patterns. These are abstract patterns and can be implemented in many different ways. There are many other patterns commonly used in the industry, ranging from high-level abstract design patterns to highly specific implementation patterns.[4]
+Integration patterns
+
+There are two patterns that EAI systems implement:[5]
+
+Mediation (intra-communication)
+    Here, the EAI system acts as the go-between or broker between multiple applications. Whenever an interesting event occurs in an application (for instance, new information is created or a new transaction completed) an integration module in the EAI system is notified. The module then propagates the changes to other relevant applications.
+Federation (inter-communication)
+    In this case, the EAI system acts as the overarching facade across multiple applications. All event calls from the 'outside world' to any of the applications are front-ended by the EAI system. The EAI system is configured to expose only the relevant information and interfaces of the underlying applications to the outside world, and performs all interactions with the underlying applications on behalf of the requester.
+
+Both patterns are often used concurrently. The same EAI system could be keeping multiple applications in sync (mediation), while servicing requests from external users against these applications (federation).
+Access patterns
+
+EAI supports both asynchronous (fire and forget) and synchronous access patterns, the former being typical in the mediation case and the latter in the federation case.[citation needed]
+Lifetime patterns
+
+An integration operation could be short-lived (e.g. keeping data in sync across two applications could be completed within a second) or long-lived (e.g. one of the steps could involve the EAI system interacting with a human work flow application for approval of a loan that takes hours or days to complete).[citation needed]
+Topologies
+
+There are two major topologies:-- hub-and-spoke, and bus. Each has its own advantages and disadvantages. In the hub-and-spoke model, the EAI system is at the center (the hub), and interacts with the applications via the spokes. In the bus model, the EAI system is the bus (or is implemented as a resident module in an already existing message bus or message-oriented middleware).
+
+Most large enterprises use zoned network to create layered defense against network oriented threats. For example, an enterprise typically has a credit card processing (PCI-compliant) zone, a non-PCI zone, a data zone, a DMZ zone to proxy external user access, and an IWZ zone to proxy internal user access. Applications need to integrate across multiple zones. The Hub and spoke model would work better in this case.
+Technologies
+
+Multiple technologies are used in implementing each of the components of the EAI system:
+
+Bus/hub
+    This is usually implemented by enhancing standard middleware products (application server, message bus) or implemented as a stand-alone program (i. e., does not use any middleware), acting as its own middleware.
+Application connectivity
+    The bus/hub connects to applications through a set of adapters (also referred to as connectors). These are programs that know how to interact with an underlying business application. The adapter performs two-way communication, performing requests from the hub against the application, and notifying the hub when an event of interest occurs in the application (a new record inserted, a transaction completed, etc.). Adapters can be specific to an application (e. g., built against the application vendor's client libraries) or specific to a class of applications (e. g., can interact with any application through a standard communication protocol, such as SOAP, SMTP or Action Message Format (AMF)). The adapter could reside in the same process space as the bus/hub or execute in a remote location and interact with the hub/bus through industry standard protocols such as message queues, web services, or even use a proprietary protocol. In the Java world, standards such as JCA allow adapters to be created in a vendor-neutral manner.
+Data format and transformation
+    To avoid every adapter having to convert data to/from every other applications' formats, EAI systems usually stipulate an application-independent (or common) data format. The EAI system usually provides a data transformation service as well to help convert between application-specific and common formats. This is done in two steps: the adapter converts information from the application's format to the bus's common format. Then, semantic transformations are applied on this (converting zip codes to city names, splitting/merging objects from one application into objects in the other applications, and so on).
+Integration modules
+    An EAI system could be participating in multiple concurrent integration operations at any given time, each type of integration being processed by a different integration module. Integration modules subscribe to events of specific types and process notifications that they receive when these events occur. These modules could be implemented in different ways: on Java-based EAI systems, these could be web applications or EJBs or even POJOs that conform to the EAI system's specifications.
+Support for transactions
+    When used for process integration, the EAI system also provides transactional consistency across applications by executing all integration operations across all applications in a single overarching distributed transaction (using two-phase commit protocols or compensating transactions).
+
+Communication architectures
+
+Currently, there are many variations of thought on what constitutes the best infrastructure, component model, and standards structure for Enterprise Application Integration. There seems to be consensus that four components are essential for a modern enterprise application integration architecture:
+
+    A centralized broker that handles security, access, and communication. This can be accomplished through integration servers (like the School Interoperability Framework (SIF) Zone Integration Servers) or through similar software like the enterprise service bus (ESB) model that acts as a services manager.
+    An independent data model based on a standard data structure, also known as a canonical data model. It appears that XML and the use of XML style sheets has become the de facto and in some cases de jure standard for this uniform business language.
+    A connector, or agent model where each vendor, application, or interface can build a single component that can speak natively to that application and communicate with the centralized broker.
+    A system model that defines the APIs, data flow and rules of engagement to the system such that components can be built to interface with it in a standardized way.
+
+Although other approaches like connecting at the database or user-interface level have been explored, they have not been found to scale or be able to adjust. Individual applications can publish messages to the centralized broker and subscribe to receive certain messages from that broker. Each application only requires one connection to the broker. This central control approach can be extremely scalable and highly evolvable.
+
+Enterprise Application Integration is related to middleware technologies such as message-oriented middleware (MOM), and data representation technologies such as XML or JSON. Other EAI technologies involve using web services as part of service-oriented architecture as a means of integration. Enterprise Application Integration tends to be data centric. In the near future, it will come to include content integration and business processes.
+Implementation pitfalls
+
+In 2003 it was reported that 70% of all EAI projects fail. Most of these failures are not due to the software itself or technical difficulties, but due to management issues. Integration Consortium European Chairman Steve Craggs has outlined the seven main pitfalls undertaken by companies using EAI systems and explains solutions to these problems.[6]
+
+    Constant change: The very nature of EAI is dynamic and requires dynamic project managers to manage their implementation.
+    Shortage of EAI experts: EAI requires knowledge of many issues and technical aspects.
+    Competing standards: Within the EAI field, the paradox is that EAI standards themselves are not universal.
+    EAI is a tool paradigm: EAI is not a tool, but rather a system and should be implemented as such.
+    Building interfaces is an art: Engineering the solution is not sufficient. Solutions need to be negotiated with user departments to reach a common consensus on the final outcome. A lack of consensus on interface designs leads to excessive effort to map between various systems data requirements.
+    Loss of detail: Information that seemed unimportant at an earlier stage may become crucial later.
+    Accountability: Since so many departments have many conflicting requirements, there should be clear accountability for the system's final structure.
+
+Other potential problems may arise in these areas:
+
+    Lack of centralized co-ordination of EAI work.[7]
+    Emerging Requirements: EAI implementations should be extensible and modular to allow for future changes.
+    Protectionism: The applications whose data is being integrated often belong to different departments that have technical, cultural, and political reasons for not wanting to share their data with other departments
+
+See also
+
+    Enterprise architecture framework
+    Business semantics management
+    Data integration
+    Enterprise information integration
+    Enterprise integration
+    Enterprise Integration Patterns
+    Enterprise service bus
+    Generalised Enterprise Reference Architecture and Methodology
+    Integration appliance
+    Integration competency center
+    Integration platform
+    Straight through processing
+    System integration
+    Enterprise information integration (EII), is the ability to support a unified view of data and information for an entire organization. In a data virtualization application of EII, a process of information integration, using data abstraction to provide a unified interface (known as uniform data access) for viewing all the data within an organization, and a single set of structures and naming conventions (known as uniform information representation) to represent this data; the goal of EII is to get a large set of heterogeneous data sources to appear to a user or system as a single, homogeneous data source.
+
+Contents
+
+    1 Overview
+    2 Applications
+    3 Data access technologies
+    4 See also
+    5 References
+
+Overview
+
+Data within an enterprise can be stored in heterogeneous formats, including relational databases (which themselves come in a large number of varieties), text files, XML files, spreadsheets and a variety of proprietary storage methods, each with their own indexing and data access methods.
+
+Standardized data access APIs have emerged, that offer a specific set of commands to retrieve and modify data from a generic data source. Many applications exist that implement these APIs' commands across various data sources, most notably relational databases. Such APIs include ODBC, JDBC, XQJ, OLE DB, and more recently ADO.NET.
+
+There are also standard formats for representing data within a file, that are very important to information integration. The best-known of these is XML, which has emerged as a standard universal representation format. There are also more specific XML "grammars" defined for specific types of data, such as Geography Markup Language for expressing geographical features, and Directory Service Markup Language, for holding directory-style information. In addition, non-XML standard formats exist, such as iCalendar, for representing calendar information, and vCard, for business card information.
+
+Enterprise Information Integration (EII) applies data integration commercially. Despite the theoretical problems described above, the private sector shows more concern with the problems of data integration as a viable product.[1] EII emphasizes neither on correctness nor tractability, but speed and simplicity. An EII industry has emerged, but many professionals[who?] believe it does not perform to its full potential. Practitioners cite the following major issues which EII must address for the industry to become mature:[citation needed]
+
+Combining disparate data sets 
+    Each data source is disparate and as such is not designed to support EII. Therefore, data virtualization as well as data federation depends upon accidental data commonality to support combining data and information from disparate data sets. Because of this lack of data value commonality across data sources, the return set may be inaccurate, incomplete, and impossible to validate.
+
+    One solution is to recast disparate databases to integrate these databases without the need for ETL. The recast databases support commonality constraints where referential integrity may be enforced between databases. The recast databases provide designed data access paths with data value commonality across databases.
+Simplicity of understanding 
+    Answering queries with views arouses interest from a theoretical standpoint, but difficulties in understanding how to incorporate it as an "enterprise solution".[citation needed] Some developers[who?] believe it should be merged with EAI. Others[who?] believe it should be incorporated with ETL systems, citing customers' confusion over the differences between the two services.[citation needed]
+Simplicity of deployment 
+    Even if recognized as a solution to a problem, EII as of 2009 currently takes time to apply and offers complexities in deployment. People have proposed a variety of schema-less solutions such as "Lean Middleware",[2] but ease-of-use and speed of employment appear inversely proportional to the generality of such systems.[citation needed] Others[who?] cite the need for standard data interfaces to speed and simplify the integration process in practice.
+Handling higher-order information 
+    Analysts experience difficulty — even with a functioning information integration system — in determining whether the sources in the database will satisfy a given application. Answering these kinds of questions about a set of repositories requires semantic information like metadata and/or ontologies. The few commercial tools[which?] that leverage this information remain in their infancy.
+
+Applications
+
+EII products enable loose coupling between homogeneous-data consuming client applications and services and heterogeneous-data stores. Such client applications and services include Desktop Productivity Tools (spreadsheets, word processors, presentation software, etc.), development environments and frameworks (Java EE, .NET, Mono, SOAP or RESTful Web services, etc.), business intelligence (BI), business activity monitoring (BAM) software, enterprise resource planning (ERP), Customer relationship management (CRM), business process management (BPM and/or BPEL) Software, and web content management (CMS).
+Data access technologies
+
+    XQuery and XQuery API for Java
+    Service Data Objects (SDO) for Java, C++ and .Net clients and any type of data source
+
+See also
+
+    Big structure
+    Business Intelligence 2.0 (BI 2.0)
+    Data integration
+    Data warehouse
+    Disparate system
+    Enterprise integration
+    Federated database system
+    Resource Description Framework
+    Semantic heterogeneity
+    Semantic integration
+    Semantic Web
+    Web 2.0
+    Web services
+Enterprise integration is a technical field of Enterprise Architecture, which focused on the study of topics such as system interconnection, electronic data interchange, product data exchange and distributed computing environments.[1]
+
+It is a concept in Enterprise engineering to provide the right information at the right place and at the right time and thereby enable communication between people, machines and computers and their efficient co-operation and co-ordination.[2]
+
+Contents
+
+    1 Overview
+    2 History
+    3 Enterprise integration topics
+        3.1 Enterprise modeling
+        3.2 Enterprise integration needs
+        3.3 Identification and use of information
+        3.4 Transfer of information
+    4 Enterprise Integration Act of 2002
+    5 See also
+    6 References
+    7 Further reading
+    8 External links
+
+Overview
+
+Requirements and principles deal with determining the business drivers and guiding principles that help in the development of the enterprise architecture. Each functional and non-functional requirement should be traceable to one or more business drivers. Organizations are beginning to become more aware of the need for capturing and managing requirements. Use-case modeling is one of the techniques that is used for doing this. Enterprise Integration, according to Brosey et al. (2001), "aims to connect and combines people, processes, systems, and technologies to ensure that the right people and the right processes have the right information and the right resources at the right time".[3]
+
+Enterprise Integration is focused on optimizing operations in a world which could be considered full of continuous and largely unpredictable change. Changes occur in single manufacturing companies just as well as in an "everchanging set of extended or virtual enterprises". It enables the actors to make "quick and accurate decisions and adaptation of operations to respond to emerging threats and opportunities".[3]
+History
+Evolution in Enterprise Integration: This figure summarizes these developments indicating the shift of emphasis from systems integration to enterprise integration with increasing focus on inter enterprise operations or networks.
+
+Enterprise integration has been discussed since the early days of computers in industry and especially in the manufacturing industry with Computer Integrated Manufacturing (CIM) as the acronym for operations integration. In spite of the different understandings of the scope of integration in CIM it has always stood for information integration across at least parts of the enterprise. Information integration essentially consists of providing the right information, at the right place, at the right time.[4]
+
+In the 1990s enterprise integration and enterprise engineering became a focal point of discussions with active contribution of many disciplines. The state of the art in enterprise engineering and integration by the end of the 1990s has been rather confusing, according to Jim Nell and Kurt Kosanke (1997):
+
+    On one hand, it claims to provide solutions for many of the issues identified in enterprise integration.
+    On the other hand, the solutions seem to compete with each other, use conflicting terminology and do not provide any clues on their relations to solutions on other issues.
+
+Workflow modelling, business process modelling, business process reengineering (BPR), and concurrent engineering all aim toward identifying and providing the information needed in the enterprise operation. In addition, numerous integrating-platforms concepts are promoted with only marginal or no recognition or support of information identification. Tools claiming to support enterprise modelling exist in very large numbers, but the support is rather marginal, especially if models are to be used by the end user, for instance, in decision support.
+Enterprise integration topics
+Enterprise modeling
+
+In his 1996 book "Enterprise Modeling and Integration: Principles and Applications" François Vernadat states, that "enterprise modeling is concerned with assessing various aspects of an enterprise in order to better understand, restructure or design enterprise operations. It is the basis of business process reengineering and the first step to achieving enterprise integration. Enterprise integration according to Vernadat is a rapidly developing technical field which has already shown proven solutions for system interconnection, electronic data interchange, product data exchange and distributed computing environments. His book combines these two methodologies and advocates a systematic engineering approach called Enterprise Engineering, for modeling, analysing, designing and implementing integrated enterprise systems".[5]
+Enterprise integration needs
+
+With this understanding the different needs in enterprise integration can be identified:[4]
+
+    Identify the right information: requires a precise knowledge of the information needed and created by the different activities in the enterprise operation. Knowledge has to be structured in the form of an accurate model of the enterprise operation, which describes product and administrative information, resources and organisational aspects of the operational processes and allows what-if analysis in order to optimize these processes.
+    Provide the right information at the right place: requires information sharing systems and integration platforms capable of handling information transaction across heterogeneous environments consisting of heterogeneous hardware, different operating systems and monolithic software applications (legacy systems). Environments which cross organizational boundaries and link the operation of different organisations on a temporal basis and with short set-up times and limited time horizon (extended and virtual enterprises).
+    Update the information in real time to reflect the actual state of the enterprise operation: requires not only the up-date of the operational data (information created during the operation), but adapting to environmental changes, which may originate from new customer demands, new technology, new legislation or new philosophies of the society at large. Changes may require modification of the operational processes, the human organization or even the overall scope and goals of the enterprise.
+    Coordinate business processes: requires precise modelling of the enterprise operation in terms of business processes, their relations with each other, with information, resources and organisation. This goes far beyond exchange of information and information sharing. It takes into account decisional capabilities and know-how within the enterprise for real time decision support and evaluation of operational alternatives.
+    Organize and adapt the enterprise: requires very detailed and up-to-date knowledge of both the current state of the enterprise operation and its environment (market, technology, society). Knowledge has to be available a priori and very well structured to allow easy identification of and access to relevant information.
+
+Identification and use of information
+Generalised Enterprise Reference Architecture and Methodology (GERAM) Framework for Enterprise Integration.
+Example of Enterprise integration: the US National Business Center's Human Resources Line of Business, Innovative Future Direction.
+
+Explicit knowledge on information needs during the operation of the enterprise can be provided by a model of the operational processes. A model which identifies the operational tasks, their required information supply and removal needs as well as the point in time of required information transactions. In order to enable consistent modelling of the enterprise operation the modelling process has to be guided and supported by a reference architecture, a methodology and IT based tools.[6]
+
+The Generalised Enterprise Reference Architecture and Methodology (GERAM) framework defined by the IFAC/IFIP Task Force provides the necessary guidance of the modelling process, see figure, and enables semantic unification of the model contents as well. The framework identifies the set of components necessary and helpful for enterprise modelling. The general concepts identified and defined in the reference architecture consist of life cycle, life history, model views among others. These concept help the user to create and maintain the process models of the operation and use them in her/his daily work. The modelling tools will support both model engineering and model use by providing an appropriate methodology and language for guiding the user and model representation, respectively.[6]
+Transfer of information
+
+To enable an integrated real time support of the operation, both the process descriptions and the actual information have to be available in real time for decision support, operation monitoring and control, and model maintenance.[6]
+
+The figure illustrates the concept of an integrating infrastructure linking the enterprise model to the real world systems. Integrating services act as a harmonising platform across the heterogeneous system environments (IT and others) and provide the necessary execution support for the model. The process dynamics captured in the enterprise model act as the control flow for model enactment. Therefore, access to information and its transfer to and from the location of use is controlled by the model and supported by the integrating infrastructure. The harmonising characteristics of the integrating infrastructure enables transfer of information across and beyond the organisation. Through the semantic unification of the modelling framework interoperability of enterprise models is assured as well.[6]
+Enterprise Integration Act of 2002
+
+The Public Law 107-277 (116 Stat. 1936-1938), known as the Enterprise Integration Act of 2002, authorizes the National Institute of Standards and Technology to work with major manufacturing industries on an initiative of standards development and implementation for electronic enterprise integration, etc. It requires the Director of the National Institute of Standards and Technology (NIST) to establish an initiative for advancing enterprise integration within the United States which shall:[7]
+
+    involve the various units of NIST, including NIST laboratories, the Manufacturing Extension Partnership program, and the Baldrige Performance Excellence Program, and consortia that include government and industry;
+    build upon ongoing efforts of NIST and the private sector; and
+    address the enterprise integration needs of each major U.S. manufacturing industry at the earliest possible date.
+
+See also
+
+    AMICE Consortium
+    Architecture of Integrated Information Systems
+    Architecture of Interoperable Information Systems
+    Integration Consortium
+    Canonical Model
+    CIMOSA
+    Configuration Management
+    Data integration
+    Enterprise application integration
+    Enterprise Information Integration
+    Generalised Enterprise Reference Architecture and Methodology
+    Semantic integration
+    Semantic Unification
+
+Information integration (II) (also called deduplication and referential integrity) is the merging of information from heterogeneous sources with differing conceptual, contextual and typographical representations. It is used in data mining and consolidation of data from unstructured or semi-structured resources. Typically, information integration refers to textual representations of knowledge but is sometimes applied to rich-media content. Information fusion, which is a related term, involves the combination of information into a new set of information towards reducing uncertainty.[1][2]
+
+An example of technologies available to integrate information include string metrics which allow the detection of similar text in different data sources by fuzzy matching. A host of methods for these research areas are available such as those presented in the International Society of Information Fusion.
+
+Contents
+
+    1 See also
+    2 General references
+    3 Books
+    4 Citations
+    5 External links
+
+See also
+
+    Data fusion (is a subset of Information integration)
+    Sensor fusion
+    Data integration
+    Data deduplication
+    Dataspaces
+    Referential integrity

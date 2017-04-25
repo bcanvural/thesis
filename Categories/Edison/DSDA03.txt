@@ -1,0 +1,633 @@
+The decision-making process is marked by two kinds of :
+organizational and technical. The organizational  are those related to
+companies’ day-to-day functioning, where decisions must be made and aligned
+with the companies’ strategy. The technical  include the toolset used to
+aid the decision making process such as information systems, data repositories,
+formal modeling, and analysis of decisions. This work highlights a subset of the
+ combined to define an integrated model of decision making using big
+data, business intelligence, decision support systems, and organizational learning
+all working together to provide the decision maker with a reliable visualization
+of the decision-related opportunities. The  objective of this work is to
+perform a theoretical analysis and discussion about these , thus 
+an understanding of why and how they work together.
+
+
+Organizations need to use a structured view of information to improve their decision-
+making process. To achieve this structured view, they have to collect and store data,
+perform an analysis, and transform the results into useful and valuable information. To
+perform these analytical and transformational processes, it is necessary to use of
+an appropriate environment composed of a large and generalist repository, a processor
+core with the appropriate intelligence (Business Intelligence [BI]), and a user-friendly
+interface.
+The repository must be filled with data originating from many different kinds of
+external and internal data sources. These repositories are the data warehouses (gener‐
+alists) and data marts (when considering a specific company activity or sector), and most
+recently, Big Data.
+The Big Data concept and its applications have emerged from the increasing volumes
+of external and internal data from organizations that are differentiated from other data‐
+bases in four aspects: volume, velocity, variety, and value. Volume considers the data
+amount, velocity refers to the speediness with which data may be analyzed and processed,
+© Springer International Publishing Switzerland 2015
+B. Delibašić et al. (Eds.): ICDSST 2015, LNBIP 216, pp. 10–21, 2015.
+DOI: 10.1007/978-3-319-18533-0_2The Roles of Big Data in the Decision-Support Process
+11
+variety describes the different kinds and sources of data that may be structured, and value
+refers to valuable discoveries hidden in  datasets [1].
+Big Data has the potential to aid in identifying opportunities related to decision in
+the intelligence  of Simon’s [2] model. In some cases, the stored data may be used
+to aid the decision-making process. In this context, the term “intelligence” refers to
+knowledge discovery with mining algorithms. In this way, Big Data use can be aligned
+with the application of Business Intelligence (BI) tools to provide an intelligent aid for
+organizational processes. The data necessary to obtain the business perceptions must be
+acquired, filtered, stored, and analyzed after the available data are heterogeneous and in
+a  volume. The processes of filtering and analysis of the data are very complex,
+because of that it is necessary the use BI strategies and tools.
+The  proposal of the present study is to develop an investigation that describes
+the roles of Big Data, and BI in the decision-making process, and to provide researchers
+and practitioners with a clear vision of the challenges and opportunities of applying data
+storage technologies so that new knowledge can be discovered.
+The sequence of this work is as follows. Section 2 provides a background for Big Data
+and some of its applications. Section 3 introduces the concept of DSS. Section 4 concep‐
+tualize BI and presents its organizational and technological components. Section 5
+presents a scheme for the integration between Big Data, BI, decision structuring and
+making process, and organizational learning. Section 6 contains a discussion about the
+integration perspective of the decision-making process, according the scheme presented
+in Sect. 5. Finally, the conclusion presents the limitations of this study and highlights the
+insights this work has gained.
+2
+Big Data
+With data increasing globally, the term “Big Data” is ly used to describe large
+datasets. Compared with other traditional databases, Big Data includes a large amount
+of unstructured data that must be analyzed in real time. Big Data also brings new oppor‐
+tunities for the discovery of new values that are temporarily hidden [3].
+Big Data is a broad and abstract concept that is receiving  recognition and is
+being highlighted both in academics and business. It is a tool to support the decision-
+making, process by using technology to rapidly analyze large amounts of data of different
+types (e.g., structured data from relational databases and unstructured data such as
+images, videos, emails, transaction data, and social media interactions) from a variety
+of sources to produce a stream of actionable knowledge [4].
+After the data is collected and stored, the biggest challenge is not just about managing
+it but also the analysis and extraction of information with significant value for the
+organization. Big Data works in the presence of unstructured data and techniques of data
+analysis that are structured to solve the problem [1].
+A combination called the 4Vs characterizes Big Data in the literature: volume, velocity,
+variety, and value [5]. Volume has a  influence when describing Big Data as large
+amounts of data are generated by individuals, groups, and organizations. Zikopoulus et al.
+reports that the estimated data production by 2010 was about 35 zettabytes [6].12
+T. Poleto et al.
+The second item, velocity, refers to the rates at which Big Data are collected,
+processed, and prepared—a huge, steady stream of data that is impossible to process
+with traditional solutions, For this reason, it is important to consider not only “where”
+data are stored but also “how” they are stored.
+The third item, variety, is related to the types of data generated from social sources,
+including mobile and traditional data. With the explosion of social networks, smart
+devices, and sensors, data have become complex because they include semi-structured
+and unstructured information from log files, web pages, index searches, cross-
+media, e-mail, documents, and forums.
+Finally, the value can be discovered from the analysis of the hidden data, so Big Data
+can provide new findings of new values and opportunities to assist in making decisions.
+However, management of this data can be considered as a challenge for organizations [1].
+In order to demonstrate the differentiation between Big Data and Small Data, we
+analyzed them using five  characteristics: s, data location, data structure, data
+preparation, and analysis, in Table 1.
+Importantly, relational databases are not obsolete, on the contrary, they continue to
+be useful to a number of applications. In practice, how larger a database becomes, the
+higher the cost of processing and labor, so it is necessary to optimize and add new
+solutions to improve storage  er flexibility.
+For the purpose to better understand the impact of science and Big Data solutions,
+the applications and Big Data solutions in the following different contexts will be
+presented: education, social media and social networking, and smart cities.
+Grillenberger and Fau used educational data to analyze student performance [7].
+Their learning styles were also clarified by the use of Big Data in conjunction with
+teaching strategies to gain a better understanding of the students’ knowledge and an
+assessment of their progress. These data can also help groups of students with
+similar learning styles or their difficulties, thus defining a new form of personalized
+learning resources based on and supported by computational models.
+Big Data has created new opportunities for researchers to achieve high relevance
+when working in social networks. In this context, Chang, Kauffman and Kwon used
+communications environments to discuss the causes of the paradigm shift and explored
+the ways that decision support is researched, and, more broadly, applied to the social
+sciences [8].
+In the context of a smart city, Dobre and Xhafa provide a platform for process auto‐
+mation collection and aggregation of large-scale information. Moreover, they present
+an application for an intelligent transportation system [9]. The application is designed
+to assist users and cities to resolving the traffic problems in big cities. The combination
+of these services provides support for the application in intelligent cities that can, benefit
+from using the information dataset.
+The value of Big Data is driving the creation of new tools and systems to facilitate
+intelligence in consumer behavior, economic forecasting, and capital markets. Market
+domination may be driven by which companies absorb and use the best data the fastest.
+Understanding the social context of individuals’ and organizations’ actions means a
+company can track not only what their customers do but also get much closer to learning
+why they do what they do.The Roles of Big Data in the Decision-Support Process
+13
+Table 1. Comparison of  characteristics of Big Data and Small Data.
+Aspects
+s
+Big Data
+In general, they are projected from a predetermined
+Small Data
+They are generally designed to answer a specific
+ and have a er level of flexibility, question and control in a particular context.
+considering the context of the problem. For For example, inventory control, get only
+example, the market scenario analysis to iden‐ information concerning the entry and exit of
+tify forms to accelerate the sales can be consid‐ goods, is not always done interaction between
+ered customer and supplier, acting on the basis of
+current market
+Data location
+The location normally aggregates data spread
+In general, the data come from the internal organ‐
+across different media, which can be in several ization and the data files. For example,
+Internet servers. The architecture consists of a working with spreadsheets results in 
+distributed computing where multiple servers increases on internal control
+work together to store and process information.
+High power scalability, low cost of implemen‐
+tation
+Data structure
+The structure is usually able to absorb unstructured
+The structure usually contains structured data.
+data (e.g., free text documents, images, movies, Data are represented by uniform records in an
+sound recordings, and physical objects). In orderly spreadsheet. For example, the enter‐
+others words, Big Data is just to be able to work prise resource planning (ERP) that are
+with many variables simultaneously, as reading systems that have a pre-defined architecture
+and rendering images in minimal time and very and their records represents a structured way
+efficiently. For example, smart city applica‐ to work with data within organizations
+tions, using real-time information to describe
+the traffic of a big city
+Data prepara‐
+tion
+In general, the data come from different sources
+In many cases, the data users prepare their own
+and are prepared by several users. People who data for their own purposes. For example,
+use the data rarely are the ones who prepared. presenting the results according to a specific
+In this context, different people in different context to which the user is located
+organizational roles contributes to disseminate
+information
+Analysis
+Analysis is usually done in incremental steps. The
+In most cases, all the data for the project can be
+data are extracted, revised, normalized, analyzed all at once. In this case, the structure
+processed, visualized, interpreted, and then is pre-defined and based on the specific
+analyzed with different methods. For example, context. Also are used Structured Query
+complex techniques of data analysis combining Language (SQL) combined with appropriate
+data mining and artificial intelligence programming languages to create procedures
+to mining, process and analyze the data
+Sources: [4, 1].14
+T. Poleto et al.
+To date, for the use of Big Data, a modern infrastructure is needed to overcome the
+limitations related to language and methodology. Guidelines are needed in a short time
+in order to deal with such complexities, as different tools and techniques and specific
+solutions have to be defined and implemented. Furthermore, different channels through
+which data are collected daily increases the difficulties of companies in identifying which
+is the right solution to get relevant results from the data path. In this context, the tech‐
+nology of BI and DSS will be presented.
+3
+Decision Support Systems (DSS)
+Information and knowledge are the most valuable assets for organizations’ decision-
+making processes and need a medium to process data into information loaded with value
+and relevance for use in organizational processes. Information Systems (IS) represent
+these media. Specifically focused on the decision-making process, the DSS work for the
+processing, analyzing, sharing, visualizing of important information to aid in the process
+of knowledge aggregation and transformation, and thereby improve the organizational
+knowledge.
+DSS are IS designed to support solutions for decision-making problems. The term
+DSS has its origin in two streams: the original studies of Simon’s research team in the
+late 1950s and the early 1960s and the technical works on interactive computer systems
+by Gerrity’s research team in the 1960s [10]. In a more detailed definition, DSS are
+interactive, computer-based IS that help decision-makers utilize data, models, solvers,
+visualizations, and the user interface to solve semi-structured or unstructured problems.
+DSS are built using a DSS Generator (DSSG) as an assembling component [11].
+DSS have a strict link with intelligence-design-choice model, but acting with more
+power in the choice  [2]. Their  objective is to support a decision by determining
+which alternatives to solve the problem are more appropriate. Although the choice is made
+by a human agent (a manager, treated as a decision-maker within this process), the DSS
+role is to provide a friendly interface where the agents can build scenarios and simulate
+and obtain reports and visualizations to support the decisions [12].
+This kind of system has a set of basic  that includes a data base and a
+model base with their respective management, the business rules to process data
+according a chosen model (e.g., the core of the system), and a user interface [10]. Data
+and model bases and their respective management systems allow for business rules in
+processing data according to a model to formulate the possibilities of solutions for the
+problem.
+4
+Business Intelligence
+An organization’s decision-making process begins with the intelligence  of
+Simon’s [2] model. In this , the perception is made that there is a problem to be
+solved in the future by applying problem structuring methods. Also in this , the
+tools of BI may be used to support the organization’s discovery of opportunities for
+decision-making by,  advanced analytics and assuring data integration [13].The Roles of Big Data in the Decision-Support Process
+15
+So, besides the problem solving, decision opportunities can be added to the set of benefits
+that BI can bequeath to the scope of decision support.
+The definition of BI can be expressed in two ways: in a holistic organizational deci‐
+sion-making approach and in the technical point of view [14]. Similarly Handzic, Ozlen
+and Durmic presents two kinds of concepts for BI: one centered on data analytics
+supporting decision-making processes in organizations and the other focused on tools
+and technologies for data storage and mining for knowledge discovery [15]. This study
+will adopt the strategy of considering BI as a system that includes both organizational
+and technical perspectives that provide the information needed to perform an analysis
+the aid the generation of decision opportunities, the decision-making process, and the
+organizational learning process.
+Regarding this definition, BI covers all the processes involved in extracting valuable
+and useful information from the mass of data that exists within a typical organization to
+support the decision-making process. Business Intelligence Systems (BIS) are those that
+makes use of a combined process involving IT solutions and business experts’ knowl‐
+edge on the operation of business, integration and organizational management obtained
+as a result of intelligent decision-making [16, 17].
+According to Azma and Mostafapour, there are two  features of data: the organ‐
+izational learning process and the smart processing of data [17]. The organizational
+learning includes the discovery of new knowledge and dissemination of this knowledge
+to those who need it. The smart processing includes analyzing and assessing the infor‐
+mation,  decision support to ensure the aligning of the future performance of
+the organization with the planning, and  knowledge feedback about the
+involved processes to be combined with pre-existing (explicit) knowledge.
+Chang, Hsu and Shiau set up BI like both a product and a process. From the process
+perspective, the   of BI is to aid the decision-making process and reduce the
+time spent on the decision [18]. For this to occur, it is necessary that all the sets of basic
+components be defined and implemented. From the product perspective, the BI is the
+IT component that contains the referred to set of basic components and that can be used
+as the core engine of DSS to generate analytics for managers as the decision-makers.
+From an organizational perspective, BI is part of a decision environment that
+combines both technology sets and human capacities in order to obtain decisions stra‐
+tegically aligned with the organization’s planning. This is the holistic organizational
+decision-making approach that Işık, Jones and Sidorova mentioned and that still includes
+BI capabilities such as data quality, integration with other systems, user access, system
+flexibility, and risk management support [14]. These authors conceptualized the first
+three capabilities as technological BI and the last two as organizational BI.
+Handzic reinforces the Knowledge Management (KM) and organizational learning
+point of view for BI, considering some organizational aspects focused on human inter‐
+action which the authors called socio-technical perspective: organizational culture,
+leadership, and measurement for successful implementations [19]. Figure 1 shows this
+perspective.
+Considering the definitions by Handzic [19] and Grünwald and Taubner [20] leads
+to understanding that the information evolutionary scale is made possible through a
+technical toolset that supports the necessary transformations between the points of the16
+T. Poleto et al.
+Fig. 1. Business process support using BI. Source: Adapted from [20].
+scale (since data is until wisdom), including  of Artificial Intelligence (AI). The
+business process, in turn, includes the decision-making process and the action to imple‐
+ment the decision. In Fig. 1, the combination of BI, business process, and the technical
+toolset could be understood as the  that define a DSS, because they represent
+information transformations followed by their application in decision-making and the
+provision of feedback to initiate a new cycle of information transformation.
+The works cited previously describe intrinsic issues to Big Data and highlight the
+use of BI alone. The differential of our proposal is to get an integrated view of the
+technologies involved, aggregating value to the decision-making process.
+5
+Integrated Model for Decision-Making Process, Big Data,
+and BI Tools
+Simon’s decision model summarizes the decision-making process into three s, as
+introduced previously. Each  this model is susceptible to the use of methods and
+tools from organizational and technological perspectives. The organizational perspec‐
+tive may use Problem Structuring Methods (PSM); Multi-criteria Decision Aid
+(MCDA); and KM techniques such as brainstorming, communities of practice, best
+practices, narratives, yellow pages, peers assistance, and knowledge mapping. These
+methods and techniques aids in the knowledge elicitation of the actors involved in the
+decision-making process, thus contributing to the necessary expertise necessary
+for solve the specific problem in question, as in the case of PSM and KM techniques, or
+acting to provide recommendations to solve this problem, as in the case of MCDA.
+Technological tools involve data repositories (e.g., data warehouses and data marts)
+filled with data from public sources, BI or even AI and Problem Solving Methods
+(PSolM) originated from Knowledge Engineering (KE) (e.g., CommonKADs and Meth‐
+odology and Tools Oriented to Knowledge-Based Engineering Applications [MOKA]).The Roles of Big Data in the Decision-Support Process
+17
+These tools are important  that contribute to store, access and analyze infor‐
+mation, discovering and sharing knew knowledge in databases and even supporting the
+application of the organizational perspective’s methods and technics.
+The  purpose of this work is the integration of the decision-making process with
+some of these tools presented in Fig. 2, considering the perspective of the predictive
+approach to decision-making. In this perspective, the use of methods to structure deci‐
+sion problems and suggest alternatives to choose from is an important issue and an
+efficient way to support the DSS design and development. Combined with the predictive
+approach, this process makes use of BI tools to provide do information to aid all
+the s of the process.
+Identification of criteria
+for data extraction from
+Big Data
+Business
+Intelligence tools
+Fig. 2. Integrated model of the decision-making process.
+It is noteworthy that some of these  are framed within the s of Simon’s
+model. In the  of intelligence, by making use of Big Data powered by internal and
+external data sources, organizations can use of BI strategies and tools to aid in
+identifying relevant information, and then the generation of decision opportunities
+occurs.
+The function of the design  is to provide a methodology to aid the choice of
+the alternatives based in what was defined in the problem structuring process during the
+intelligence . This design must also be incorporated into this methodology, as
+formal aspects related to the method or model that are defined according the problems
+identified during the problem structuring process. The development of DSS has made18
+T. Poleto et al.
+the use of this model viable by allowing the decision-makers, through a friendly and
+easy-to-use interface, to perform a series of configurations.
+In the final  of choice, the decision-makers will use the results generated by
+DSS to complete the decision-making process with the choice of one, or a set of, alter‐
+natives, that will then be implemented by the organization.
+All these processes produce new knowledge to be combined with previous knowl‐
+edge about the do of the problem. This new knowledge will provide feedback to
+power the Big Data so that it can be used as necessary, thus fulfilling its role in the
+organizational learning process.
+Each element of the integrated model is described as follows:
+(a) Content acquisition through public and private organizational data sources: This
+is ly concerned with the collection, storage, and integration of relevant infor‐
+mation necessary to produce a content item. In the course of this process, informa‐
+tion is being pooled from internal or external sources for further processing. Big
+Data incorporates different types of sources, including text, audio, video, social
+networks, images, time forecasting, etc. Strictly, the  purpose of this element
+is none other than the data acquisition from Big Data to use in decision-making
+process.
+(b) Intelligence: The whole world is producing a  amount of data. Thus, this is
+relevant as Big Data obtains its value from three of the 4Vs: volume, variety, and
+velocity. In this , aggregated values from stored data have a fundamental role
+for the creation of opportunities and alternatives once the data are analyzed. More‐
+over, in this context it is important to highlight the importance of data visualization.
+For example, in a spreadsheet is difficult to trends in data. However, the
+use of graphics and images improve the perception for the data analysis helping a
+faster recognition of trends or patters and improving the capacity of the data analyst
+to perform his work. Based on the visualization provided by the  that
+composes Big Data concept, corrective actions can be done in case of deviations
+and negative trends. Therefore, in the intelligence  the concept of Big Data
+should not be analyzed only with volume, but can improve the ability to view this
+data, filtering a large volume of data in different contexts of information. Visuali‐
+zation techniques are now extremely important for the generation of value of the
+concept of Big Data. After all, Big Data is not a concept just about data, but we can
+extract insights and intelligence and visualization is the fundamental key to the
+decision-making process. The intelligence represents the capacity to aggregate
+value to acquired data in order to obtain relevant information, applicable in the
+organizational problem solving. These information should be capable of contextu‐
+alize with internal and external phenomena of the organization, ensuring the other
+following  the necessary power of action to satisfactorily contribute to
+resolve the problem.
+(c) Opportunities and alternatives generation: This is the process of creating alterna‐
+tives, which is not a trivial task. It starts with dataset analysis that enable decision-
+makers to obtain a global view of the process. Then, from the analyses performed
+through BI tools with Big Data content, decision-makers pro-actively create oppor‐
+tunities and generate opportunities to solve the decision problem. This  alsoThe Roles of Big Data in the Decision-Support Process
+19
+works for the definition of the criteria, which the decision-makers will use to judge
+or evaluate each alternative.
+(d) DSS: With the opportunities identified and having the criteria and alternatives to
+evaluate, DSS may be implemented according a decision problem that will predict
+which method is the most adequate. DSS will act in helping decision-makers in
+obtaining an indication or a recommendation of alternatives to choose from that
+will be implemented to solve the problem.
+(e) Implementation of decision: After a choice is made, alternatives will be imple‐
+mented in organizations to actively solve the identified problem.
+As a last element, the Organizational Learning says respect to all these processes’
+ generating important knowledge about the decision problem. This knowledge
+may be captured, registered, and stored in a knowledge repository to provide organiza‐
+tional memory about the problem do and will be available for use at any time. The
+standard flow of this new knowledge, after the implementation of the chosen action,
+runs to private (or internal) data sources, e.g., a base of managerial practices.
+6
+Discussion
+Knowledge extracted adequately from Big Data aggregates the value that decision-
+makers use to a decision . This work provided theoretical evidence
+to corroborate the idea that the perspective of historical data combined with decision-
+makers’ knowledge and experience, formal problem structuring, and use of decision
+methods or models may the decision-making process more robust and more reli‐
+able.
+Generally, companies use the descriptive approach to decisions, by performing
+an analysis based only on historical data. The focus solely on the past makes it difficult
+to concentrate on new strategies for the future. The proposition of the present work also
+considers this descriptive approach, but it recognizes the value of the predictive approach
+in order to provide recommendations to solve a decision problem, based on decision-
+makers’ knowledge and judgment, and information technology: Big Data, BI, and DSS.
+The Big Data study performed here started with the analysis of the data’s influence
+over the decision-making process by ensuring that decision-makers can discover oppor‐
+tunities to act problem solving.
+The  contributions of the theoretical approach presented here are (i) develop a
+perspective that combines the decision-making process, Big Data, BI, DSS, and organ‐
+izational learning and (ii) use the concept that Big Data works as a data provider over
+which may be applied BI techniques and tools may be applied ly in supporting the
+discovery of opportunities for a decision.
+Decision-makers, when preparing for making a decision, incorporate their knowl‐
+edge and discernment along with an organizational learning process that will help them
+to create an organizational memory that provides knowledge generated through the
+process for later use. Thus, beyond technological toolsets and decision-making and
+methodologies, the process described here takes into account the subjective character‐
+istics linked to the decision-makers’ perceptions, experiences, and personalities.20
+T. Poleto et al.
+The use of Big Data provides to managers the possibility to explore both internal and
+external information, not only identifying a decision problem but also having as proposal
+the potential to increase de intelligence power within the decision-making process.
+7
+Conclusion
+The increasing amount of data that arrives at organizations accumulate through elec‐
+tronic communication is amazing, in that not only has the volume of the data change,
+but also the variety of information collected in through several communication channels
+ranging from clicks on the Internet to the unstructured information from social media.
+In addition, the speed at which organizations can collect, analyze, and respond to infor‐
+mation in different dimensions is increasing.
+Big Data has become a generic term, but in essence, it presents two challenges for
+organizations. First, business leaders must implement new technologies and then prepare
+for a potential revolution in the collection and measurement of information. Second, and
+most important, the organization as a whole must adapt to this new philosophy about
+how decisions are made by understanding the real value of Big Data.
+Organizations must understand the role of the Big Data associated with decision-
+making, with the emphasis on creating opportunities from these decisions, because we
+live in a world that is always connected, and where consumer preferences change every
+hour. Thus, analysts can check multiple communication channels simultaneously and
+trace certain profiles or decider behaviors.
+The  contribution of this work is to promote the integrated view of Big Data,
+BI and DSS inside the context of decision-making process, assisting managers to create
+new opportunities to resolve a specific problem.
+The crucial point is to look widely for new sources of data to help a decision.
+Furthermore, Big Data not only transforms the processes of management and technology
+but it also promotes changes in culture and learning in organizations.
+Ultimately, Big Data can be very useful if used adequately in the decision-making
+process, but just its use will not guide the decision itself and it will not generate alter‐
+natives or predict the results. For this, the participation of decision-makers is essential,
+as their experience and tacit knowledge are necessary to aggregate value over informa‐
+tion and the possible knowledge stored.
+From this initial study, where the idea of get an integrated view of all these 
+as decision-making tools, we can create a set of perspectives to apply in future
+researches, as example a detailed exploration focused on each  of the model. Other
+ideas: semantic exploration of Big Data applied to decision problems structuring, direct
+integration between Big Data and BI tools to fulfil organizational repositories 
+data to the information systems.
+
+JULIE DEVOLL: This is Julie Devoll from Harvard Business Press. I’m here today with Tom Davenport, the President’s Distinguished Professor of Information Technology and Management at Babson College and author of the new book, Analytics at Work: Smarter Decisions, Better Results.
+
+Tom, thank you for joining us today.
+
+TOM DAVENPORT: My pleasure, Julie.
+
+JULIE DEVOLL: Tom, let’s first get everybody up to speed on analytics. Can you give us a quick definition of what you mean when you talk about organizations competing on analytics?
+
+TOM DAVENPORT: Well, by analytics we mean the systematic use of data and facts and typically, quantitative, but can be qualitative as well, analysis to make decisions. And this book is really about how any company can become more analytical in its decisions, more fact-based if you will.
+
+My the first book on this topic, Competing on Analytics, was how companies can really get competitive advantage out of analytics. And we found that a number of organizations said, we like the idea of becoming more analytical, but we’re not sure that we want to make it our primary source of competitive advantage. So this book is how any company can do more of that kind of decision-making.
+
+JULIE DEVOLL: Great. So let’s hone in a little on analytical leadership. What do you see analytical leaders doing that allows them to make better decisions?
+
+TOM DAVENPORT: Well, it’s a variety of things. One is that they insist on decisions being made on the basis of facts. So you see these kinds of leaders pushing back when people say, I think we should develop this particular product, or we should make this change to our website, or whatever. The best companies will say, well, where’s the data to support that particular hypothesis?
+
+One of the great examples of that is Google. There’s such a highly analytical culture at Google that you can’t really recommend any sort of change, a new product, or God knows, a change on the Search page without having substantial amounts of data that would suggest that it’s a good idea. Having tried it out on a small scale and how did that particular randomized experiment work? So it’s just establishing a culture that says we make decisions around data here. Maybe not all the time, maybe if we can’t get data, we obviously don’t let that paralyze us. But that’s a big factor.
+
+And I think for leaders setting a personal example. If you’re making decisions from the gut yourself, as an individual, and then telling other people that they need to have data, then they are going to see that you’re not really that serious about it.
+
+So we talk, for example, about two brothers, the McCann’s, Jim and Chris McCann, who run 1800flowers.com, and Jim, the CEO and founder, who was originally a social worker was originally not that analytical. His brother, Chris, much more so. And over time, Jim has come to see that he needs to ask for data as well, so that he can set that kind of personal example that others will believe in and emulate.
+
+JULIE DEVOLL: So it sounds like companies need to manage their analytical talent as a strategic resource. How do you recommend HR departments go about actually finding these people, hiring them, and then retaining them once they’re brought on board?
+
+TOM DAVENPORT: I think it is one of the key assets and because it’s limited in availability, there are only so many good, quantitative people around who are also good communicators that I think it will be a real strategic resource for the organizations that get those people at a relatively early stage and kind of lock them up. Obviously, nobody is totally locked up. But if you hire them and you provide them with challenging work, and my co-author Jeanne Harris did some research suggesting that the more centralized approaches to managing analysts, putting them in a center of excellence, or somehow managing them at the enterprise level, maybe it’s a centralized consulting group. More centralized approaches tended to create more engaged analysts who were, it would seem, more likely to hang around. They enjoyed their jobs, were more satisfied and engage in their work.
+
+So I think analysts are kind of a special breed sometimes, and they don’t want to be acting as solo practitioners. They’d like to be able to share ideas with other people. They’d like to feel like there were a valued resource and hence, not only one of them in a department or a business unit. So maybe that explains why the more centralized approaches to managing and organizing analysts tended to be the more successful in terms of yielding happy analysts.
+
+JULIE DEVOLL: So you mentioned Progressive Insurance. What are some other examples, or maybe one good example of a successful company that uses analytics to make better decisions?
+
+TOM DAVENPORT: Well, there are lots of examples in the book. I mentioned 1-800 Flowers as well. We profile Carnival Cruises. But I probably center in on the companies that have some decisions that are common and repetitive, if you will, made a lot of time, so they have good data on them. Google is certainly a great example. We talk about Amazon a fair amount, which makes a lot of decisions around pricing and supply chain and promotions with analytics. Certainly their web page, Jeff Bezos once fired, supposedly, 10 out of 12 web designers because they did not use analytics in the design of the web pages that they proposed.
+
+In retail, you have companies like Kroger that are very good now at targeting promotions. JC Penney very good at merchandising decisions. Best Buy uses analytics a lot for segmentation. We talk a fair amount about Best Buy.
+
+Generally what you don’t find, Julie, is a lot of companies using analytics for the really big decisions. Things like a merger, or acquisition, or a really big new product development project. The one exception that we found and talk about in the book is Chevron, which basically, they have a requirement that if you’re making a decision that involves more than $100 million dollars, which is not a huge number for a big oil company like Chevron. But if you’re making a decision that’s going to involve that much capital, you have to follow a certain quantitative decision analysis approach. And they’ve been generally quite successful at the kinds of decisions that they made, and they go back and have a mandatory review of how did that decision work out. So I think overall, it works very well for them.
+
+JULIE DEVOLL: Great. So I’ll put you on the spot a little bit here. What are some companies that you’re seeing out there that haven’t been successful, and maybe an analytical approach to their decision-making may have helped them?
+
+TOM DAVENPORT: Well, I think, I mentioned some retailers that have been pretty successful. Certainly historically, the department stores, Macy’s, for example, has not been highly analytical. They’re trying to change and they’ve hired the same consulting firm that Kroger has been using to try to help them out. But I think probably led to some deterioration in their success over time. I think they thought maybe if we acquire every other department store in the land that will be enough. But it didn’t turn out to be.
+
+I think industry-wise, probably health care is one of the least analytical industries that we have in the united States anyway, just because we don’t have good data.
+
+Now, of course, the government is now encouraging through financial stimulus, basically every hospital and physician practice to get electronic medical records. That will create a vast amount of data, and then we’ll be able to analyze it and figure out which medical interventions work well and which ones don’t. But right now, it’s definitely an underachiever in terms of analytics.
+
+I’d say retail, overall, has been an underachieving industry. In part because they just didn’t have the profit margins to devote to the analysts, paying the analysts to do that work. They relied in many cases, particularly in grocery, on the consumer products firms. But they’ve gotten a lot better. And companies like Walmart and JC Penney and so on have started to get a lot better at it. Target as well.
+
+JULIE DEVOLL: So Tom, I’ll just conclude by asking, what do you see next in the field of analytics?
+
+TOM DAVENPORT: One of the things we try to focus on in this book is creating a closer linkage between analytics and decision-making. Because after we wrote Competing on Analytics we found a number of analysts who would tell us, we did that marketing analysis, but nothing changed. We continued to make the same bad marketing decisions we’ve always made. Or the analytics were maybe telling us that some of these investments we made in financial services firms were not doing so well. Yet, we continue to go with those investments. So I think creating stronger ties between analytics and decision-making are a big thing from kind of a management standpoint.
+
+From a technology standpoint, I think we’re going to see a whole new class of data emerging from sensors all over the place. Some people call them smart dust. They’re going to be so many sensors everywhere, they’re all going to generate data, and we have to analyze it to get some value. We’re going to see things like video analytics, so that we’ll know somebody in a retail environment. Are they actually looking at a product and deciding not to do it, or do they just not pay any attention at all?
+
+For security purposes, we have all these video cameras now. We don’t have enough people to look at them all, so we’ll need analytics to deal with terrorism and intelligence issues and so on.
+
+I think we need analytics for all the social media out there. To know, does it really make a difference if you tweet about something? Are you more likely to buy it? We have some very rough tools for sentiment analysis now, but hardly anybody even uses those. I think we’ll see a lot more analytics relative to the social media and social networks. So those are just a few of the things that are coming down the road I think. 
+Analytics help decision makers determine risk, weigh outcomes, and quantify costs and benefits associated with decisions.
+Learning Objective
+
+    Recognize the decision-making value of utilizing statistics and analytics to create accurate predictions
+
+Key Points
+
+        Predictive and descriptive analytics are two methods of using data to inform and evaluate alternatives during decision making. They can also be used to explain performance outcomes.
+         encompass a variety of statistical techniques (such as modeling, machine learning, and data mining) that analyze current and historical facts to predictions about future events.
+        Descriptive analytics focus on developing new insights and understanding of business performance based on data and statistical methods; these analytics are then used to strategic decisions for the company.
+
+Term
+
+    analytics
+
+    The use of skills, technologies, and practices to explore and investigate past performance, gain insight, and drive business decision making.
+    
+    Analytics refer to the use of skills, technologies, and practices to explore and investigate past performance, gain insight, and drive business decision making. Predictive and descriptive analytics are two methods of using data and statistical methods to assess actual outcomes against target standards and s. These types of analysis can explain the relationship between factors that influence outcomes; they can also help prioritize improvement and other planning efforts. Companies can use their analytic capabilities to create advantages over competitors and better perform in the marketplace.
+    
+     and Decision Making
+
+ encompass a variety of statistical techniques (such as modeling, machine learning, and data mining) that analyze current and historical facts to estimates about future events. Models capture relationships among many factors, allowing an assessment of risk or potential associated with a particular set of conditions. This helps to guide decision making for candidate transactions. Data mining draws on large numbers of records to patterns that can then be identified as opportunities or risks. For example, by analyzing grades for an entire class of first-year students, academic advisers can predict which students are most likely to struggle in the class.
+
+ help decision makers to predict the outcome(s) of a decision before it is implemented. Using these probabilities, decision makers can calculate the expected value of alternatives once risks and benefits are taken into account.  are particularly useful when there is a high degree of uncertainty. By carefully considering what is not known, decision makers can build confidence in the estimates that inform their choices. Forecasting consumer behavior in response to a new product or marketing initiative are examples of the use of .
+Descriptive Analytics and Decision Making
+
+Descriptive analytics answer the questions, "What happened and why did it happen?" This approach seeks to understand past performances by using historical data to analyze the reasons behind past success or failure. Understanding cause and effect can help refine business and operational strategies. Most management reporting—such as sales, marketing, operations, and finance—uses this type of analysis. Descriptive analytics are used in quality management techniques and other methods of statistical process control.
+Analytics in the Modern Business World
+
+Descriptive and  have increased ly in popularity due to advances in computing technology, techniques for data analysis, and mathematical modeling. Desktop tools can easily create reports and summaries of analytic results that help decision makers readily understand the findings and their implications. These tools create tables, charts, and graphs to present the data visually, which can help to clearly communicate the meaning of the data.
+
+
+Data-driven decision management (DDDM) is an approach to business governance that values decisions that can be backed up with verifiable data. The success of the data-driven approach is reliant upon the quality of the data gathered and the effectiveness of its analysis and interpretation. 
+
+In the early days of computing, it usually took a specialist with a strong background in technology to mine data for information because it was necessary for that person to understand how databases and data warehouses worked. If a manager on the business side of an organization wanted to view data at a granular level, she had to reach out to the information technology department (IT) and request a report. Someone from the IT department would then create the report and schedule it to run on a periodic basis. Because the process was complex, ad hoc reports, also known as one-off reports, were discouraged.
+
+Today, business intelligence tools often require very little, if any, support from the IT department. Business managers can customize dashboards to display the data they want to see and run custom reports on the fly. The changes in how data can be mined and visualized allows business executives who have no technology backgrounds to be able to work with analytics tools and make data-driven decisions.
+
+Data-driven decision management is usually undertaken as a way to gain a competitive advantage. A study from the MIT Center for Digital Business found that organizations driven most by data-based decision making had 4% higher productivity rates and 6% higher profits. However, integrating massive amounts of information from different areas of the business and combining it to derive actionable data in real time can be easier said than done. Errors can creep into data analytics processes at any stage of the endeavor, and serious issues can result when they do.
+
+
+Data-informed decision-making (DIDM) gives reference to the collection and analysis of data to guide decisions that improve success.[1] DIDM is used in education communities (where data is used with the  of helping students) but is also applicable to (and thus also used in) other fields in which data is used to inform decisions. While data based decision making is a more common term, data-informed decision-making is a preferable term since decisions should not be based solely on quantitative data.[1][2] Most educators have access to a data system for the purpose of analyzing student data.[3] These data systems present data to educators in an over-the-counter data format (embedding labels, supplemental documentation, and a help system, making key package/display and content decisions) to improve the success of educators’ data-informed decision-making.[4] In Business, fostering and actively supporting DIDM in their firm and among their colleagues could be the  rôle of CIOs (Chief Information Officers) or CDOs (Chief Data Officers).[5]
+
+
+Data-driven decision making (DDDM), applied to student achievement testing data, is a central focus of many school and district reform efforts, in part because of federal and state test-based accountability policies. This paper uses RAND research to show how schools and districts are analyzing achievement test results and other types of data to make decisions to improve student success. It examines DDDM policies and suggests future research in the field. A conceptual framework, adapted from the literature and used to organize the discussion, recognizes that multiple data types (input, outcome, process, and satisfaction data) can inform decisions, and that the presence of raw data does not ensure its effective use. Research questions addressed are: what types of data are administrators and teachers using, and how are they using them; what support is available to help with the use of the data; and what factors influence the use of data for decision making? RAND research suggests that most educators find data useful for informing aspects of their work and that they use data to improve teaching and learning. The first implication of this work is that DDDM does not guarantee effective decision making: having data does not mean that it will be used appropriately or lead to improvements. Second, practitioners and policymakers should promote the use of various data types collected at multiple points in time. Third, equal attention needs to be paid to analyzing data and taking action based on data. Capacity-building efforts may be needed to achieve this . Fourth, RAND research raises concerns about the consequences of high-stakes testing and excessive reliance on test data. Fifth, attaching stakes to data such as local progress tests can lead to the same negative practices that appear in high-stakes testing systems. Finally, policymakers seeking to promote educators’ data use should consider giving teachers flexibility to alter instruction based on data analyses. More research is needed on the effects of DDDM on instruction, student achievement, and other outcomes; how the focus on state test results affects the validity of those tests; and the quality of data being examined, the analyses educators are undertaking, and the decisions they are making.
+From customer service to social media to fintech to your inbox, predictive analytics are more and more driving what you see and when you see it. In fact, director of product management at Blue Yonder retail predictive applications provider Lars Trieloff has estimated that more than half of all apps have predictive components.
+
+From our seat at the 2016  International Conference on Predictive APIs and Apps (PAPI) in Valencia Spain, we found some real-world applications of this out-of-this-world technology, taking it from Sci-Fi and academics to the board room.
+AI and Predictive Analytics
+
+“If you don’t have examples, you don’t have machine learning,” said PAPIs chair and machine learning Ph.D. Louis Dorard. “Predictive analytics is about description, predictive, prescriptive, and finally automating decisions.”
+
+Dorard offered an example: Look at the simple map below of blue and yellow dots. If you add in two more dots of unknown color, depending on where they fall in the groupings — based on the historical data of other blue and yellow dots — you can guess which one should be blue and which one should be yellow by which side of the invisible boundary you drew in the data.
+
+predictive-analytics-example
+
+You can make these predictions by satisfying three needs of predictive analytics:
+
+    Examples of inputs and outputs.
+    A sufficient amount of inputs and outputs.
+    Revision when similar inputs result in dissimilar outputs.
+
+You can apply this dot logic to simplify more complex situations too, which can range from determining if an email is spam or ham to an autonomous car deciding who to hit in an extreme situation.
+
+Predictive analytics is based on making generalizations and outputs based on certain inputs. Let’s continue to walk through some predictive analytics examples of how these inputs can bring outputs that affect your bottom line.
+Customer Service and Churn Detection
+
+Pretty much every business has to worry about gaining and retaining new customers, which makes for one of the most compelling use cases to predictive analytics. Through the combination of customer data and revenue, a business can better score leads and also serve customers better. The input of product and price can be used to make smarter sales, and the input of customer data and product could make for better prices.
+
+predictive-analytics-louis-dorard
+
+But where predictive analytics can best help churn analysis is by identifying a churn indicator based on current and previous customers. Dorard explained the different levels of analytics as applied to churn:
+
+    Descriptive Analytics: Know churn rate against time.
+    Predictive Analytics: Know who is going to churn next.
+    Prescriptive Analytics: Decide what you should do about each customer that’s going to leave.
+
+With prescriptive analytics, you start to apply strategies to reduce the possibility of churn — like switching customers to a different plan or providing them with more training on how to use your product or service.
+
+However, you must factor the following variables into your machine learning results:
+
+    Customer presentation and context.
+    Churn prediction and action prediction
+    Uncertainty in predictions (or percentage of inaccuracy)
+    Revenue brought by customer and cost of actions
+    Constraints of frequency
+
+From here you should be able to find the right level of accuracy and predictability to make sure that you are getting the desired results without missing clients or applying the wrong churn reduction strategy to the wrong customer. When done right, it should also let you prioritize who to woo back first, based on financial factors Dorard said.
+Filtering the Social Media Cacophony
+
+There are countless use cases for predictive analytics in social media, but let’s stick with customer service for now. Amazon’s Alex Ingerman also spoke at the PAPIs conference in Valencia about his experience using the Amazon Machine Learning Public API, applying it to predictive customer service, specifically to finding important social media conversations via the Twitter API.
+
+machine-learning-twitter-api
+
+Why is listening to Twitter important to @awscloud and its more than half a million followers? Ingerman explained:
+
+    A customer could be reporting a possible service issue.
+    A customer is making a feature request — Ingerman says about 90 percent of Amazon Web Services product roadmap is driven by customers.
+    A customer is angry or unhappy.
+    A customer asks a very specific question.
+
+So why would they need to use machine learning to automate this? “The social media stream is high-volume, and most of the messages—upwards of 80 to 90 percent of the @awscloud handle—are not customer service actionable.” Ingerman said. Most are not useful because that’s because they are:
+
+    jokes
+    self-promotional
+    a public conversation
+    thank you’s
+
+That’s why Amazon built an end-to-end application to filter out the important customer service calls to action and reroute them from the social media team to the proper support departments.
+
+Below are the steps Amazon took to use the Amazon platform to filter out these conversations. Note, while Amazon went through this process and have the full code sample publicly available on Github, Ingerman said this isn’t exactly how Amazon is filtering its social media — he couldn’t divulge the specifics — but it still serves as a good example of how to go about solving a business problem through predictive analytics and machine learning.
+
+    Formulate the business problem. Instantly find new tweets mentioning @awscloud, ingest and analyze each one to predict whether a CS agent should act on it
+    Establish the data flow.
+    Pick the machine learning strategy.
+    Get the data. Retrieve past tweets, which he says it’s easy to get the data, well-structured and clean.
+    Label the data. They labeled past tweets and discovered patterns connecting data points and labels. Ingerman suggests that you first try labeling by hand. “It’s fun for the first few dozen. Once you get past a hundred or so, it becomes a real problem,” he said. Amazon offers a marketplace for human intelligence so you can outsource this tedious machine learning step.
+    Align machine learning model with business requirements. Specifically, look out for a false positive, which tags as “actionable” but isn’t which could potentially waste a small amount of customer support time, and, more importantly, for a false negative, which is marked as “not actionable” but is which could have you risk losing a customer. In this situation, they set a threshold of how “certain” a model must be, accepting more false positives at the expense of fewer false negatives.
+
+Ingerman says that this same strategy could be applied to Facebook, email, customer reviews and even scanned faxes. The only part of the predictive analytics flow shown below that changes is the model.
+
+In the future, a company would try to then link these predictions to automatic results, like a knowledge base that can tweet responses to commonly asked questions.
+But where does the human fit in all this?
+
+It’s not called machine autonomous learning—at least yet! This is because predictive analytics needs to be a part of a business strategy. Try using a Machine Learning Canvas before even starting to implement anything as a way to make sure you’re targeting the right problem, using the right technology and, as often is the case, making sure team members of different backgrounds aren’t misunderstanding each other.
+
+machine-learning-canvas
+
+Finally, Dorard reminds us: “Garbage in, garbage out.” Models are only as good as the data that’s going into them, so, no matter how much machine-based automation is happening, you need a good couple humans to check that everything’s ok.

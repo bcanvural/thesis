@@ -1,0 +1,295 @@
+Data archaeology refers to the art and science of recovering computer data encoded and/or encrypted in now obsolete media or formats. Data archaeology can also refer to recovering information from damaged electronic formats after natural or man made disasters.
+
+The term originally appeared in 1993 as part of the Global Oceanographic Data Archaeology and Rescue Project (GODAR). The original impetus for data archaeology came from the need to recover computerized records of climatic conditions stored on old computer tape, which can provide valuable evidence for testing theories of climate change. These approaches allowed the reconstruction of an image of the Arctic that had been captured by the Nimbus 2 satellite on September 23, 1966, in higher resolution than ever seen before from this type of data.[1]
+
+NASA also utilizes the services of data archaeologists to recover information stored on 1960s era vintage computer tape, as exemplified by the Lunar Orbiter Image Recovery Project (LOIRP).[2]
+
+Contents
+
+    1 Recovery
+        1.1 Disaster Recovery
+        1.2 Recovery Techniques
+    2 Prevention
+    3 See also
+    4 References
+
+Recovery
+
+It is also important to make the distinction in data archaeology between data recovery, and data intelligibility. You may be able to recover the data, but not understand it. For data archeology to be effective the data must be intelligible. [3]
+Disaster Recovery
+
+Data archaeologists can also use data recovery after natural disasters such as fires, floods, earthquakes, or even hurricanes. For example, in 1995 during hurricane Marilyn the National Media Lab assisted the National Archives and Records Administration in recovering data at risk due to damaged equipment. The hardware was damaged from rain, salt water, and sand, yet it was possible to clean some of the disks and refit them with new cases thus saving the data within. [4]
+Recovery Techniques
+
+When deciding whether or not to try and recover data, the cost must be taken into account. If there is enough time and money, most data will be able to be recovered. In the case of magnetic media, which are the most common type used for data storage, there are various techniques that can be used to recover the data depending on the type of damage. [5]
+
+Humidity can cause tapes to become unusable as they begin to deteriorate and become sticky. In this case, a heat treatment can be applied to fix this problem, by causing the oils and residues to either be reabsorbed into the tape or evaporate off the surface of the tape. However, this should only be done in order to provide access to the data so it can be extracted and copied to a medium that is more stable. [6]
+
+Lubrication loss is another source of damage to tapes. This is most commonly caused by heavy use, but can also be a result of improper storage or natural evaporation. As a result of heavy use, some of the lubricant can remain on the read-write heads which then collect dust and particles. This can cause damage to the tape. Loss of lubrication can be addressed by re-lubricating the tapes. This should be done cautiously, as excessive re-lubrication can cause tape slippage, which in turn can lead to media being misread and the loss of data. [7]
+
+Water exposure will damage tapes over time. This often occurs in a disaster situation. If the media is in salty or dirty water, it should be rinsed in fresh water. The process of cleaning, rinsing, and drying wet tapes should be done at room temperature in order to prevent heat damage. Older tapes should be recovered prior to newer tapes, as they are more susceptible to water damage. [8]
+Prevention
+
+To prevent the need of data archeology, creators and holders of digital documents should take care to employ digital preservation.
+See also
+
+    Digital dark age
+    Knowledge discovery
+    Bit rot
+
+Data governance is a control that ensures that the data entry by an operations team member or by an automated process meets precisely standards, such as a Business rule, a data definition and data integrity constraints in the data model. The data governor uses data quality monitoring against production data to communicate errors in data back to operational team members, or to the technical support team, for corrective action. Data governance is used by organizations to exercise control over processes and methods used by their data stewards and data custodians in order to improve data quality.
+
+Data governance is a set of processes that ensures that important data assets are formally managed throughout the enterprise. Data governance ensures that data can be trusted and that people can be made accountable for any adverse event that happens because of low data quality. It is about putting people in charge of fixing and preventing issues with data so that the enterprise can become more efficient. Data governance also describes an evolutionary process for a company, altering the company’s way of thinking and setting up the processes to handle information so that it may be utilized by the entire organization. It’s about using technology when necessary in many forms to help aid the process. When companies desire, or are required, to gain control of their data, they empower their people, set up processes and get help from technology to do it.[1]
+
+According to one vendor, data governance is a quality control discipline for assessing, managing, using, improving, monitoring, maintaining, and protecting organizational information. It is a system of decision rights and accountabilities for information-related processes, executed according to agreed-upon models which describe who can take what actions with what information, and when, under what circumstances, using what methods.[2]
+
+Contents
+
+    1 Overview
+    2 Data governance drivers
+    3 Data governance initiatives
+    4 Implementation
+    5 Data governance tools
+    6 Data governance organizations
+    7 Data governance conferences
+    8 See also
+    9 References
+
+Overview
+
+Data governance encompasses the people, processes, and information technology required to create a consistent and proper handling of an organization's data across the business enterprise. Goals may be defined at all levels of the enterprise and doing so may aid in acceptance of processes by those who will use them. Some goals includes
+
+    Increasing consistency and confidence in decision making
+    Decreasing the risk of regulatory fines
+    Improving data security, also defining and verifying the requirements for data distribution policies[3]
+    Maximizing the income generation potential of data
+    Designating accountability for information quality
+    Enable better planning by supervisory staff
+    Minimizing or eliminating re-work
+    Optimize staff effectiveness
+    Establish process performance baselines to enable improvement efforts
+    Acknowledge and hold all gain
+
+These goals are realized by the implementation of Data governance programs, or initiatives using Change Management techniques
+Data governance drivers
+
+While data governance initiatives can be driven by a desire to improve data quality, they are more often driven by C-Level leaders responding to external regulations. Examples of these regulations include Sarbanes-Oxley, Basel I, Basel II, HIPAA, and a number of data privacy regulations. To achieve compliance with these regulations, business processes and controls require formal management processes to govern the data subject to these regulations.[4] Successful programs identify drivers meaningful to both supervisory and executive leadership.
+
+Common themes among the external regulations center on the need to manage risk. The risks can be financial misstatement, inadvertent release of sensitive data, or poor data quality for key decisions. Methods to manage these risks vary from industry to industry. Examples of commonly referenced best practices and guidelines include COBIT, ISO/IEC 38500, and others. The proliferation of regulations and standards creates challenges for data governance professionals, particularly when multiple regulations overlap the data being managed. Organizations often launch data governance initiatives to address these challenges.
+Data governance initiatives
+
+Data governance initiatives improve data quality by assigning a team responsible for data's accuracy, accessibility, consistency, and completeness, among other metrics. This team usually consists of executive leadership, project management, line-of-business managers, and data stewards. The team usually employs some form of methodology for tracking and improving enterprise data, such as Six Sigma, and tools for data mapping, profiling, cleansing, and monitoring data.
+
+Data governance initiatives may be aimed at achieving a number of objectives including offering better visibility to internal and external customers (such as supply chain management), compliance with regulatory law, improving operations after rapid company growth or corporate mergers, or to aid the efficiency of enterprise knowledge workers by reducing confusion and error and increasing their scope of knowledge. Many data governance initiatives are also inspired by past attempts to fix information quality at the departmental level, leading to incongruent and redundant data quality processes. Most large companies have many applications and databases that can't easily share information. Therefore, knowledge workers within large organizations often don't have access to the information they need to best do their jobs. When they do have access to the data, the data quality may be poor. By setting up a data governance practice or Corporate Data Authority, these problems can be mitigated.
+
+The structure of a data governance initiative will vary not only with the size of the organization, but with the desired objectives or the 'focus areas' [5] of the effort.
+Implementation
+
+Implementation of a Data Governance initiative may vary in scope as well as origin. Sometimes, an executive mandate will arise to initiate an enterprise wide effort, sometimes the mandate will be to create a pilot project or projects, limited in scope and objectives, aimed at either resolving existing issues or demonstrating value. Sometimes an initiative will originate lower down in the organization’s hierarchy, and will be deployed in a limited scope to demonstrate value to potential sponsors higher up in the organization. The initial scope of an implementation can vary greatly as well, from review of a one-off IT system, to a cross-organization initiative.
+Data governance tools
+
+Leaders of successful data governance programs declared in December 2006 at the Data Governance Conference in Orlando, Fl, that data governance is between 80 and 95 percent communication."[6] That stated, it is a given that many of the objectives of a Data Governance program must be accomplished with appropriate tools. Many vendors are now positioning their products as Data Governance tools; due to the different focus areas of various data governance initiatives, any given tool may or may not be appropriate, in addition, many tools that are not marketed as governance tools address governance needs.[7]
+Data governance organizations
+
+DAMA International[8]
+    DAMA (the Data Management Association) is a not-for-profit, vendor-independent, international association of technical and business professionals dedicated to advancing the concepts and practices of information resource management (IRM) and data resource management (DRM).
+
+Data Governance Professionals Organization (DGPO)[9]
+    The Data Governance Professionals Organization (DGPO) is a non-profit, vendor neutral, association of business, IT and data professionals dedicated to advancing the discipline of data governance. The objective of the DGPO is to provide a forum that fosters discussion and networking for members and to encourage, develop and advance the skills of members working in the data governance discipline.
+
+The Data Governance Society [10]
+    The Data Governance Society, Inc. is dedicated to fostering a new paradigm for the effective use and protection of information in which Data is governed and leveraged as a unique corporate asset.
+
+The Data Governance Council [11]
+    The Data Governance Council is an organization formed by IBM consisting of companies, institutions and technology solution providers with the stated objective to build consistency and quality control in governance, which will help companies better protect critical data."
+
+IQ International -- the International Association for Information and Data Quality[12]
+    IQ International is a not-for-profit, vendor neutral, professional association formed in 2004, dedicated to building the information and data quality profession.
+
+Data governance conferences
+
+A number of major conferences relevant to data governance are held annually:
+
+Data Governance and Information Quality Conference[13]
+    Commercial conferences held each year in the USA
+
+Data Governance Conference Europe,[14]
+    Commercial conferences held annually in London, England .
+Information and Data Quality Conference[15]
+    Not for profit conference run by IQ International in the USA
+Master Data Management & Data Governance Conferences[16]
+    Six major conferences are run annually by the MDM Institute in London, San Francisco, Sydney, Toronto, Madrid, Frankfurt, and New York City.
+Financial Information Summit series of conferences[17]
+Hosted by Inside Reference Data magazine in New York, London, Hong Kong, Toronto, Chicago, Frankfurt, Paris and Tokyo.
+
+See also
+
+    Information Architecture
+    Information technology governance
+    Semantics of Business Vocabulary and Business Rules
+    Master data management
+    COBIT
+    ISO/IEC 38500
+    ISO/TC 215
+    Operational risk management
+    Basel II Accord
+    HIPAA
+    Sarbanes-Oxley Act
+    Information technology controls
+    Data Protection Directive (EU)
+    Universal Data Element Framework
+    Asset Description Metadata Schema
+
+What is a data library?
+
+A data library is a collection of numeric and/or geospatial data sets for secondary use in research. (Scroll down to view definition from the Online Dictionary for Library and Information Science.) A data library is normally part of a larger institution (academic, corporate, scientific, medical, governmental, etc.) established to serve the data users of that organisation. The data library tends to house local data collections and provides access to them through various means (CD-/DVD-ROMs or central server for download). A data library may also maintain subscriptions to licensed data resources for its users to access. Whether a data library is also considered a data archive may depend on the extent of unique holdings in the collection, whether long-term preservation services are offered, and whether it serves a broader community (as national data archives do).
+Importance of data libraries and data librarianship
+
+In August 2001, the Association of Research Libraries (ARL) 
+published SPEC Kit 263: Numeric Data Products and Services 
+, presenting results from a survey of ARL member institutions involved in collecting and providing services for numeric data resources.
+Services offered by data libraries and data librarians
+
+Library service providing support at the institutional level for the use of numerical and other types of datasets in research. Amongst the support activities typically available:
+
+    Reference Assistance — locating numeric or geospatial datasets containing measurable variables on a particular topic or group of topics, in response to a user query.
+    User Instruction — providing hands-on training to groups of users in locating data resources on particular topics, how to download data and read it into spreadsheet, statistical, database, or GIS packages, how to interpret codebooks and other documentation.
+    Technical Assistance - including easing registration procedures, troubleshooting problems with the dataset, such as errors in the documentation, reformatting data into something a user can work with, and helping with statistical methodology.
+    Collection Development & Management - acquire, maintain, and manage a collection of data files used for secondary analysis by the local user community; purchase institutional data subscriptions; act as a site representative to data providers and national data archives for the institution.
+    Preservation and Data Sharing Services - act on a strategy of preservation of datasets in the collection, such as media refreshment and file format migration; download and keep records on updated versions from a central repository. Also, assist users in preparing original data for secondary use by others; either for deposit in a central or institutional repository, or for less formal ways of sharing data. This may also involve marking up the data into an appropriate XML standard, such as the Data Documentation Initiative, or adding other metadata to facilitate online discovery.
+
+Associations
+
+    IASSIST 
+    (International Association for Social Science Information and Service Technology)
+    DISC-UK 
+    (Data Information Specialists Committee—United Kingdom)
+    APDU 
+    (Association of Public Data Users - USA)
+    CAPDU 
+    (Canadian Association of Public Data Users)
+
+Examples of Data Library
+
+The Massachusetts Institute of Technology’s (MIT) Data Management and Publishing tutorial, 
+The EDINA Research Data Management Training (MANTRA), 
+The University of Edinburgh’s Data Library and 
+The University of Minnesota libraries’ Data Management Course for Structural Engineers
+The London School of Economics and Political Science Data and Statistics
+
+References
+
+    Clubb, J., Austin, E., and Geda, C. "'Sharing research data in the social sciences.'" In Sharing Research Data, S. Fienberg, M. Martin, and M. Straf, Eds. National Academy Press, Washington, D.C., 1985, 39-88.
+    Geraci, D., Humphrey, C., and Jacobs, J. Data Basics. Canadian Library Association, Ottawa, ON, 2005.
+    Martinez, Luis & Macdonald, Stuart, "'Supporting local data users in the UK academic community'" 
+    . Ariadne, issue 44, July 2005.
+    See the IASSIST Bibliography of Selected Works 
+    for articles tracing the history of data libraries and its relationship to the archivist profession, going back to the 1960s and '70s up to 1996.
+    See IASSIST Quarterly 
+    articles from 1993 to the present, focusing on data libraries, data archives, data support, and information technology for the social sciences.
+
+See also
+
+Digital curation
+Digital preservation
+Open Data
+Data sharing is the practice of making data used for scholarly research available to other investigators. Replication has a long history in science. The motto of The Royal Society is 'Nullius in verba', translated "Take no man's word for it."[1] Many funding agencies, institutions, and publication venues have policies regarding data sharing because transparency and openness are considered by many to be part of the scientific method.
+
+A number of funding agencies and science journals require authors of peer-reviewed papers to share any supplemental information (raw data, statistical methods or source code) necessary to understand, develop or reproduce published research. A great deal of scientific research is not subject to data sharing requirements, and many of these policies have liberal exceptions. In the absence of any binding requirement, data sharing is at the discretion of the scientists themselves. In addition, in certain situations agencies and institutions prohibit or severely limit data sharing to protect proprietary interests, national security, and subject/patient/victim confidentiality. Data sharing may also be restricted to protect institutions and scientists from use of data for political purposes.
+
+Data and methods may be requested from an author years after publication. In order to encourage data sharing and prevent the loss or corruption of data, a number of funding agencies and journals established policies on data archiving. Access to publicly archived data is a recent development in the history of science made possible by technological advances in communications and information technology.
+
+Despite policies on data sharing and archiving, data withholding still happens. Authors may fail to archive data or they only archive a portion of the data. Failure to archive data alone is not data withholding. When a researcher requests additional information, an author sometimes refuses to provide it.[2] When authors withhold data like this, they run the risk of losing the trust of the science community.[3]
+
+Contents
+
+    1 U.S. government policies
+        1.1 Federal law
+        1.2 NIH data sharing policy
+        1.3 NSF Policy from Grant General Conditions
+    2 Office of Research Integrity
+    3 Ideals in data sharing
+    4 International policies
+    5 Data sharing problems
+        5.1 Academic genetics
+        5.2 Academic psychology
+        5.3 Scientists in training
+    6 Differing approaches in different fields
+    7 See also
+    8 References
+    9 Literature
+    10 External links
+
+U.S. government policies
+Federal law
+
+On August 9, 2007, President Bush signed the America COMPETES Act (or the "America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act") requiring civilian federal agencies to provide guidelines, policy and procedures, to facilitate and optimize the open exchange of data and research between agencies, the public and policymakers. See Section 1009.[4]
+NIH data sharing policy
+
+    ‘The National Institutes of Health (NIH) Grants Policy Statement defines "data" as "recorded information, regardless of the form or medium on which it may be recorded, and includes writings, films, sound recordings, pictorial reproductions, drawings, designs, or other graphic representations, procedural manuals, forms, diagrams, work flow charts, equipment descriptions, data files, data processing or computer programs (software), statistical records, and other research data."’
+    — Council on Governamental Relations[5]
+
+The NIH Final Statement of Sharing of Research Data says:
+
+    ‘Final NIH statement on sharing research data 
+    .’[6]
+
+NSF Policy from Grant General Conditions
+
+    36. Sharing of Findings, Data, and Other Research Products
+
+    a. NSF …expects investigators to share with other researchers, at no more than incremental cost and within a reasonable time, the data, samples, physical collections and other supporting materials created or gathered in the course of the work. It also encourages awardees to share software and inventions or otherwise act to make the innovations they embody widely useful and usable.
+    b. Adjustments and, where essential, exceptions may be allowed to safeguard the rights of individuals and subjects, the validity of results, or the integrity of collections or to accommodate legitimate interests of investigators.
+    — "National Science Foundation 
+    : Grant General Conditions (GC-1)", April 1, 2001 (p. 17).
+
+Office of Research Integrity
+
+Allegations of misconduct in medical research carry severe consequences. The United States Department of Health and Human Services established an office to oversee investigations of allegations of misconduct, including data withholding. The website defines the mission:
+
+    "The Office of Research Integrity (ORI) promotes integrity in biomedical and behavioral research supported by the U.S. Public Health Service (PHS) at about 4,000 institutions worldwide. ORI monitors institutional investigations of research misconduct and facilitates the responsible conduct of research (RCR) through educational, preventive, and regulatory activities."
+    — Office of Research Integrity 
+    .
+
+Ideals in data sharing
+
+Some research organizations feel particularly strongly about data sharing. Stanford University's WaveLab has a philosophy about reproducible research and disclosing all algorithms and source code necessary to reproduce the research. In a paper titled "WaveLab and Reproducible Research," the authors describe some of the problems they encountered in trying to reproduce their own research after a period of time. In many cases, it was so difficult they gave up the effort. These experiences are what convinced them of the importance of disclosing source code.[7] The philosophy is described:
+
+    The idea is: An article about computational science in a scientific publication is not the scholarship itself, it is merely advertising of the scholarship. The actual scholarship is the complete software development environment and the complete set of instructions which generated the figures.[8]
+
+The Data Observation Network for Earth (DataONE) and Data Conservancy[9] are projects supported by the National Science Foundation to encourage and facilitate data sharing among research scientists and better support meta-analysis. In environmental sciences, the research community is recognizing that major scientific advances involving integration of knowledge in and across fields will require that researchers overcome not only the technological barriers to data sharing but also the historically entrenched institutional and sociological barriers.[10] Dr. Richard J. Hodes, director of the National Institute on Aging has stated, "the old model in which researchers jealously guarded their data is no longer applicable".[11]
+
+The Alliance for Taxpayer Access is a group of organizations that support open access to government sponsored research. The group has expressed a "Statement of Principles" explaining why they believe open access is important.[12] They also list a number of international public access policies.[13]
+International policies
+
+    Australia 
+    Austria 
+    Europe — Commission of European Communities 
+    Germany 
+    United Kingdom 
+    'Omic Data Sharing — a list of policies of major science funders BioSharing.org Catalogue of Data Policies 
+
+Data sharing problems
+Academic genetics
+
+Withholding of data has become so commonplace in academic genetics that researchers at Massachusetts General Hospital published a journal article on the subject. The study found that "Because they were denied access to data, 28% of geneticists reported that they had been unable to confirm published research."[14]
+Academic psychology
+
+In a 2006 study, it was observed that, of 141 authors of a publication from the American Psychology Association (APA) empirical articles, 103 (73%) did not respond with their data over a 6-month period.[15] In a follow up study published in 2015, it was found that 246 out of 394 contacted authors of papers in APA journals did not share their data upon request (62%).[16]
+Scientists in training
+
+A study of scientists in training indicated many had already experienced data withholding.[17] This study has given rise to the fear the future generation of scientists will not abide by the established practices.
+Differing approaches in different fields
+
+Requirements for data sharing are more commonly imposed by institutions, funding agencies, and publication venues in the medical and biological sciences than in the physical sciences. Requirements vary widely regarding whether data must be shared at all, with whom the data must be shared, and who must bear the expense of data sharing.
+
+Funding agencies such as the NIH and NSF tend to require greater sharing of data, but even these requirements tend to acknowledge the concerns of patient confidentiality, costs incurred in sharing data, and the legitimacy of the request. Private interests and public agencies with national security interests (defense and law enforcement) often discourage sharing of data and methods through non-disclosure agreements.
+
+Data sharing poses specific challenges in participatory monitoring initiatives, for example where forest communities collect data on local social and environmental conditions. In this case, a rights-based approach to the development of data-sharing protocols can be based on principles of free, prior and informed consent, and prioritise the protection of the rights of those who generated the data, and/or those potentially affected by data-sharing.[18]
+See also
+
+    Data archive
+    Data publishing
+    Data citation
+    re3data.org - Registry of Research Data Repositories
+

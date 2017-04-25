@@ -135,7 +135,7 @@ def edison_graph():
         try:
             json_data = json.loads(request.get_data().decode('utf-8'))
             job_id = int(json_data['jobid'])
-            method = json_data['method'] #tfidf, word2vec, etc..
+            method = json_data['method']
             validate_method(method)
             pagenum = int(json_data['pagenum'])
             PAGESIZE = 6
@@ -180,6 +180,31 @@ def edison_skills():
 
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+@app.route('/edisongraphcv', methods=['POST'])
+def edison_graph_by_cv():
+    if request.method == 'POST':
+        try:
+            json_data = json.loads(request.get_data().decode('utf-8'))
+            jobid = int(json_data['jobid'])
+            cvid = int(json_data['cvid'])
+            method = json_data['method']
+            validate_method(method)
+            job_cat_diffs = db[method +'-job-category'].find({"jobid": jobid, "category": "Edison"}, {"distance": 1, "_id": 0, "skillName": 1}).sort("distance", 1)
+            job_diff_obj = {}
+            for job_cat_diff in job_cat_diffs:
+                job_diff_obj[job_cat_diff['skillName']] = job_cat_diff['distance']
+            cv_cat_diffs = db[method + '-cv-category'].find({"cvid": cvid, "category": "Edison"}, {"_id":0, "distance": 1, "skillName": 1})
+            skill_differences = {}
+            for cv_cat_diff in cv_cat_diffs:
+                skill_differences[cv_cat_diff['skillName']] = cv_cat_diff['distance']
+            final_obj = {"job_diff": job_diff_obj, "skill_differences": skill_differences, "cvid": cvid}
+            return jsonify({"response": final_obj,"statusCode": 200})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
 
 if __name__ == "__main__":
     app.run(host=HOST, port=PORT, threaded=True)

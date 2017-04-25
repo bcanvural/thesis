@@ -1,0 +1,967 @@
+A NoSQL (originally referring to "non SQL" or "non relational")[1] database provides a mechanism for storage and retrieval of data which is modeled in means other than the tabular relations used in relational databases. Such databases have existed since the late 1960s, but did not obtain the "NoSQL" moniker until a surge of popularity in the early twenty-first century,[2] triggered by the needs of Web 2.0 companies such as Facebook, Google and Amazon.com.[3][4][5] NoSQL databases are increasingly used in big data and real-time web applications.[6] NoSQL systems are also sometimes called "Not only SQL" to emphasize that they may support SQL-like query languages.[7][8]
+
+Motivations for this approach include: simplicity of design, simpler "horizontal" scaling to clusters of machines (which is a problem for relational databases),[2] and finer control over availability. The data structures used by NoSQL databases (e.g. key-value, wide column, graph, or document) are different from those used by default in relational databases, making some operations faster in NoSQL. The particular suitability of a given NoSQL database depends on the problem it must solve. Sometimes the data structures used by NoSQL databases are also viewed as "more flexible" than relational database tables.[9]
+
+Many NoSQL stores compromise consistency (in the sense of the CAP theorem) in favor of availability, partition tolerance, and speed. Barriers to the greater adoption of NoSQL stores include the use of low-level query languages (instead of SQL, for instance the lack of ability to perform ad-hoc JOINs across tables), lack of standardized interfaces, and huge previous investments in existing relational databases.[10] Most NoSQL stores lack true ACID transactions, although a few databases, such as MarkLogic, Aerospike, FairCom c-treeACE, Google Spanner (though technically a NewSQL database), Symas LMDB and OrientDB have made them central to their designs. (See ACID and JOIN Support.)
+
+Instead, most NoSQL databases offer a concept of "eventual consistency" in which database changes are propagated to all nodes "eventually" (typically within milliseconds) so queries for data might not return updated data immediately or might result in reading data that is not accurate, a problem known as stale reads.[11] Additionally, some NoSQL systems may exhibit lost writes and other forms of data loss.[12] Fortunately, some NoSQL systems provide concepts such as write-ahead logging to avoid data loss.[13] For distributed transaction processing across multiple databases, data consistency is an even bigger challenge that is difficult for both NoSQL and relational databases. Even current relational databases "do not allow referential integrity constraints to span databases."[14] There are few systems that maintain both ACID transactions and X/Open XA standards for distributed transaction processing.
+
+Contents
+
+    1 History
+    2 Types and examples of NoSQL databases
+        2.1 Key-value stores
+        2.2 Document store
+        2.3 Graph
+        2.4 Object database
+        2.5 Tabular
+        2.6 Tuple store
+        2.7 Triple/quad store (RDF) database
+        2.8 Hosted
+        2.9 Multivalue databases
+        2.10 Multimodel database
+    3 Performance
+    4 Handling relational data
+        4.1 Multiple queries
+        4.2 Caching/replication/non-normalized data
+        4.3 Nesting data
+    5 ACID and JOIN Support
+    6 See also
+    7 References
+    8 Further reading
+    9 External links
+
+History
+
+The term NoSQL was used by Carlo Strozzi in 1998 to name his lightweight, Strozzi NoSQL open-source relational database that did not expose the standard SQL interface, but was still relational.[15] His NoSQL RDBMS is distinct from the circa-2009 general concept of NoSQL databases. Strozzi suggests that, as the current NoSQL movement "departs from the relational model altogether; it should therefore have been called more appropriately 'NoREL'",[16] referring to 'No Relational'.
+
+Johan Oskarsson of Last.fm reintroduced the term NoSQL in early 2009 when he organized an event to discuss "open source distributed, non relational databases".[17] The name attempted to label the emergence of an increasing number of non-relational, distributed data stores, including open source clones of Google's BigTable/MapReduce and Amazon's Dynamo. Most of the early NoSQL systems did not attempt to provide atomicity, consistency, isolation and durability guarantees, contrary to the prevailing practice among relational database systems.[18]
+
+Based on 2014 revenue, the NoSQL market leaders are MarkLogic, MongoDB, and Datastax.[19] Based on 2015 popularity rankings, the most popular NoSQL databases are MongoDB, Apache Cassandra, and Redis.[20]
+Types and examples of NoSQL databases
+
+There have been various approaches to classify NoSQL databases, each with different categories and subcategories, some of which overlap. What follows is a basic classification by data model, with examples:
+
+    Column: Accumulo, Cassandra, Druid, HBase, Vertica
+    Document: Apache CouchDB, Clusterpoint, Couchbase, DocumentDB, HyperDex, Lotus Notes, MarkLogic, MongoDB, OrientDB, Qizx, RethinkDB
+    Key-value: Aerospike, Couchbase, Dynamo, FairCom c-treeACE, FoundationDB, HyperDex, MemcacheDB, MUMPS, Oracle NoSQL Database, OrientDB, Redis, Riak, Berkeley DB
+    Graph: AllegroGraph, InfiniteGraph,Giraph, MarkLogic, Neo4J, OrientDB, Virtuoso, Stardog
+    Multi-model: Alchemy Database, ArangoDB, CortexDB, FoundationDB, MarkLogic, OrientDB
+
+A more detailed classification is the following, based on one from Stephen Yen:[21]
+Type 	Examples of this type
+Key-Value Cache 	Coherence, eXtreme Scale, GigaSpaces, GemFire, Hazelcast, Infinispan, JBoss Cache, Memcached, Repcached, Terracotta, Velocity
+Key-Value Store 	Flare, Keyspace, RAMCloud, SchemaFree, Hyperdex, Aerospike
+Key-Value Store (Eventually-Consistent) 	DovetailDB, Oracle NoSQL Database, Dynamo, Riak, Dynomite, MotionDb, Voldemort, SubRecord
+Key-Value Store (Ordered) 	Actord, FoundationDB, Lightcloud, LMDB, Luxio, MemcacheDB, NMDB, Scalaris, TokyoTyrant
+Data-Structures Server 	Redis
+Tuple Store 	Apache River, Coord, GigaSpaces
+Object Database 	DB4O, Objectivity/DB, Perst, Shoal, ZopeDB
+Document Store 	Clusterpoint, Couchbase, CouchDB, DocumentDB, Lotus Notes, MarkLogic, MongoDB, Qizx, RethinkDB, XML-databases
+Wide Column Store 	BigTable, Cassandra, Druid, HBase, Hypertable, KAI, KDI, OpenNeptune, Qbase
+
+Correlation databases are model-independent, and instead of row-based or column-based storage, use value-based storage.
+Key-value stores
+Main article: Key-value database
+
+Key-value (KV) stores use the associative array (also known as a map or dictionary) as their fundamental data model. In this model, data is represented as a collection of key-value pairs, such that each possible key appears at most once in the collection.[22][23]
+
+The key-value model is one of the simplest non-trivial data models, and richer data models are often implemented as an extension of it. The key-value model can be extended to a discretely ordered model that maintains keys in lexicographic order. This extension is computationally powerful, in that it can efficiently retrieve selective key ranges.[24]
+
+Key-value stores can use consistency models ranging from eventual consistency to serializability. Some databases support ordering of keys. There are various hardware implementations, and some users maintain data in memory (RAM), while others employ solid-state drives or rotating disks.
+
+Examples include Oracle NoSQL Database, Redis, and dbm.
+Document store
+Main articles: Document-oriented database and XML database
+
+The central concept of a document store is the notion of a "document". While each document-oriented database implementation differs on the details of this definition, in general, they all assume that documents encapsulate and encode data (or information) in some standard formats or encodings. Encodings in use include XML, YAML, and JSON as well as binary forms like BSON. Documents are addressed in the database via a unique key that represents that document. One of the other defining characteristics of a document-oriented database is that in addition to the key lookup performed by a key-value store, the database offers an API or query language that retrieves documents based on their contents
+
+Different implementations offer different ways of organizing and/or grouping documents:
+
+    Collections
+    Tags
+    Non-visible metadata
+    Directory hierarchies
+
+Compared to relational databases, for example, collections could be considered analogous to tables and documents analogous to records. But they are different: every record in a table has the same sequence of fields, while documents in a collection may have fields that are completely different.
+Graph
+Main article: Graph database
+
+This kind of database is designed for data whose relations are well represented as a graph consisting of elements interconnected with a finite number of relations between them. The type of data could be social relations, public transport links, road maps or network topologies.
+
+Graph databases and their query language
+
+Name 	Language(s) 	Notes
+AllegroGraph 	SPARQL 	RDF triple store
+DEX/Sparksee 	C++, Java, .NET, Python 	Graph database
+FlockDB 	Scala 	Graph database
+IBM DB2 	SPARQL 	RDF triple store added in DB2 10
+InfiniteGraph 	Java 	Graph database
+MarkLogic 	Java, JavaScript, SPARQL, XQuery 	Multi-model document database and RDF triple store
+Neo4j 	Cypher 	Graph database
+OWLIM 	Java, SPARQL 1.1 	RDF triple store
+Oracle 	SPARQL 1.1 	RDF triple store added in 11g
+OrientDB 	Java 	Multi-model document and graph database
+Sqrrl Enterprise 	Java 	Graph database
+OpenLink Virtuoso 	C++, C#, Java, SPARQL 	Middleware and database engine hybrid
+Stardog 	Java, SPARQL 	Graph database
+Object database
+Main article: Object database
+
+    db4o
+    GemStone/S
+    InterSystems Caché
+    JADE
+    NeoDatis ODB
+    ObjectDatabase++
+    ObjectDB
+    Objectivity/DB
+    ObjectStore
+    ODABA
+    Perst
+    OpenLink Virtuoso
+    Versant Object Database
+    ZODB
+
+Tabular
+
+    Apache Accumulo
+    BigTable
+    Apache Hbase
+    Hypertable
+    Mnesia
+    OpenLink Virtuoso
+
+Tuple store
+
+    Apache River
+    GigaSpaces
+    Tarantool
+    TIBCO ActiveSpaces
+    OpenLink Virtuoso
+
+Triple/quad store (RDF) database
+Main articles: Triplestore and Named graph
+
+    AllegroGraph
+    Apache JENA (It is a framework, not a database)
+    MarkLogic
+    Ontotext-OWLIM
+    Oracle NoSQL database
+    SparkleDB
+    Virtuoso Universal Server
+    Stardog
+
+Hosted
+
+    Amazon DynamoDB
+    Amazon SimpleDB
+    Datastore on Google Appengine
+    Clusterpoint database
+    Cloudant Data Layer (CouchDB)
+    Freebase
+    Microsoft Azure Tables[25]
+    Microsoft Azure DocumentDB[26]
+    OpenLink Virtuoso
+    Drenel Hosted MongoDB
+
+Multivalue databases
+
+    D3 Pick database
+    Extensible Storage Engine (ESE/NT)
+    InfinityDB
+    InterSystems Caché
+    jBASE Pick database
+    Northgate Information Solutions Reality, the original Pick/MV Database
+    OpenQM
+    Revelation Software's OpenInsight
+    Rocket U2
+
+Multimodel database
+
+    OrientDB
+    FoundationDB
+    ArangoDB
+    MarkLogic
+
+Performance
+
+Ben Scofield rated different categories of NoSQL databases as follows:[27]
+Data Model 	Performance 	Scalability 	Flexibility 	Complexity 	Functionality
+Key–Value Store 	high 	high 	high 	none 	variable (none)
+Column-Oriented Store 	high 	high 	moderate 	low 	minimal
+Document-Oriented Store 	high 	variable (high) 	high 	low 	variable (low)
+Graph Database 	variable 	variable 	high 	high 	graph theory
+Relational Database 	variable 	variable 	low 	moderate 	relational algebra
+
+Performance and scalability comparisons are sometimes done with the YCSB benchmark.
+See also: Comparison of structured storage software
+Handling relational data
+
+Since most NoSQL databases lack ability for joins in queries, the database schema generally needs to be designed differently. There are three main techniques for handling relational data in a NoSQL database. (See table Join and ACID Support for NoSQL databases that support joins.)
+Multiple queries
+
+Instead of retrieving all the data with one query, it's common to do several queries to get the desired data. NoSQL queries are often faster than traditional SQL queries so the cost of having to do additional queries may be acceptable. If an excessive number of queries would be necessary, one of the other two approaches is more appropriate.
+Caching/replication/non-normalized data
+
+Instead of only storing foreign keys, it's common to store actual foreign values along with the model's data. For example, each blog comment might include the username in addition to a user id, thus providing easy access to the username without requiring another lookup. When a username changes however, this will now need to be changed in many places in the database. Thus this approach works better when reads are much more common than writes.[28]
+Nesting data
+
+With document databases like MongoDB it's common to put more data in a smaller number of collections. For example, in a blogging application, one might choose to store comments within the blog post document so that with a single retrieval one gets all the comments. Thus in this approach a single document contains all the data you need for a specific task.
+ACID and JOIN Support
+
+If a database is marked as supporting ACID or joins, then the documentation for the database makes that claim. The degree to which the capability is fully supported in a manner similar to most SQL databases or the degree to which it meets the needs of a specific application is left up to the reader to assess.
+Database 	ACID 	Joins
+Aerospike 	Yes 	No
+ArangoDB 	Yes 	Yes
+CouchDB 	Yes 	Yes
+c-treeACE 	Yes 	Yes
+HyperDex 	Yes[nb 1] 	Yes
+InfinityDB 	Yes 	No
+LMDB 	Yes 	No
+MarkLogic 	Yes 	Yes[nb 2]
+OrientDB 	Yes 	Yes
+
+HyperDex currently offers ACID support via its Warp extension, which is a commercial add-on.
+
+    Joins do not necessarily apply to document databases, but MarkLogic can do joins using semantics.[29]
+
+See also
+
+    CAP theorem
+    Comparison of object database management systems
+    Comparison of structured storage software
+    Correlation database
+    Distributed cache
+    Faceted search
+    MultiValue database
+    Multi-model database
+    Triplestore
+
+
+
+In theoretical computer science, the CAP theorem, also named Brewer's theorem after computer scientist Eric Brewer, states that it is impossible for a distributed computer system to simultaneously provide all three of the following guarantees:[1][2][3]
+
+    Consistency (all nodes see the same data at the same time)
+    Availability (every request receives a response about whether it succeeded or failed)
+    Partition tolerance (the system continues to operate despite arbitrary partitioning due to network failures)
+
+In 2012 Brewer clarified some of his positions, including why the often-used "two out of three" concept can be misleading or misapplied, and the different definition of consistency used in CAP relative to the one used in ACID.[4]
+
+Contents
+
+    1 History
+        1.1 Brewer’s 2012 article
+    2 See also
+    3 References
+    4 External links
+
+History
+
+According to University of California, Berkeley computer scientist Eric Brewer, the theorem first appeared in autumn 1998.[4] It was published as the CAP principle in 1999[5] and presented as a conjecture by Brewer at the 2000 Symposium on Principles of Distributed Computing (PODC).[6] In 2002, Seth Gilbert and Nancy Lynch of MIT published a formal proof of Brewer's conjecture, rendering it a theorem.[1] This last claim has been criticized, however, this reference does not offer a peer-reviewed formal proof - just an informal assertion on a blog posting.[7]
+Brewer’s 2012 article
+
+CAP Twelve Years Later: How the "Rules" Have Changed 
+See also
+
+    Consistency model
+    Fallacies of Distributed Computing
+    Paxos (computer science)
+    Project management triangle
+    Raft (computer science)
+    Trilemma
+
+
+
+A correlation database is a database management system (DBMS) that is data-model-independent and designed to efficiently handle unplanned, ad hoc queries in an analytical system environment.
+
+Unlike row-oriented relational database management systems, which use a records-based storage approach, or column-oriented databases which use a column-based storage method, a correlation database uses a value-based storage (VBS) architecture in which each unique data value is stored only once and an auto-generated indexing system maintains the context for all values.[1]
+
+Contents
+
+    1 Structure
+    2 Comparison of DBMS storage structures
+        2.1 Storage in RDBMS
+        2.2 Storage in column-oriented databases
+        2.3 Storage in CDBMS
+    3 Advantages and disadvantages
+    4 References
+
+Structure
+
+Because a correlation DBMS stores each unique data value only once, the physical database size is significantly smaller than relational or column-oriented databases, without the use of data compression techniques. Above approximately 30GB, a correlation DBMS may become smaller than the raw data set.[citation needed]
+
+The VBS model used by a CDBMS consists of three primary physical sets of objects that are stored and managed:
+
+    a data dictionary (metadata);
+    an indexing and linking data set (additional metadata); and
+    the actual data values that comprise the stored information.
+
+In the VBS model, each unique value in the raw data is stored only once; therefore, the data is always normalized at the level of unique values.[2] This eliminates the need to normalize data sets in the logical schema.
+
+Data values are stored together in ordered sets based on data types: all integers in one set, characters in another, etc. This optimizes the data handling processes that access the values.
+
+In addition to typical data values, the data value store contains a special type of data for storing relationships between tables. This functions similarly to foreign keys in RDBMS structures, but with a CDBMS, the relationship is known by the dictionary and stored as a data value, making navigation between tables completely automatic.
+
+The data dictionary contains typical metadata plus additional statistical data about the tables, columns and occurrences of values in the logical schema. It also maintains information about the relationships between the logical tables. The index and linking storage includes all of the data used to locate the contents of a record from the ordered values in the data store.
+
+While not a RAM-based storage system, a CDBMS is designed to use as much RAM as the operating system can provide. For large databases, additional RAM improves performance. Generally, 4GB of RAM will provide optimized access times up to about 100 million records. 8GB of RAM is adequate for databases up to 10 times that size.[3] Because the incremental RAM consumed decreases as the database grows, 16GB of RAM will generally support databases containing up to approximately 20 billion records.
+Comparison of DBMS storage structures
+
+The sample records shown below illustrate the physical differences in the storage structures used in relational, column-oriented and correlation databases.
+Cust ID 	Name 	City 	State
+12222 	ABC Corp 	Minneapolis 	MN
+19434 	A1 Mfg 	Duluth 	MN
+20523 	J&J Inc 	St. Paul 	MN
+Storage in RDBMS
+
+The record-based structure used in an RDBMS stores elements in the same row adjacent to each other. Variations like clustered indexing may change the sequence of the rows, but all rows, columns and values will be stored as in the table. The above table might be stored as:
+
+      12222,ABC Corp,Minneapolis,MN;19434,A1 Mfg,Duluth,MN;20523,J&J Inc,St. Paul,MN
+
+Storage in column-oriented databases
+
+In the column-based structure, elements of the same column are stored adjacent to each other. Consecutive duplicates within a single column may be automatically removed or compressed efficiently.
+
+      12222,19434,20523;ABC Corp,A1 Mfg,J&J Inc;Minneapolis,Duluth,St.Paul;MN,MN,MN
+
+Storage in CDBMS
+
+In the VBS structure used in a CDBMS, each unique value is stored once and given an abstract (numeric) identifier, regardless of the number of occurrences or locations in the original data set. The original dataset is then constructed by referencing those logical identifiers. The correlation index may resemble the storage below. Note that the value "MN" which occurs multiple times in the data above is only included once. As the amount of repeat data grows, this benefit multiplies.
+
+      1:12222,2:19434,3:20523,4:ABC Corp,5:A1 Mfg,6:J&J Inc,7:Minneapolis,8:Duluth,9:St.Paul,10:MN
+
+The records in our example table above can then be expressed as:
+
+      11:[1,4,7,10],12:[2,5,8,10],13:[3,6,9,10]
+
+This correlation process is a form of database normalization. Just as one can achieve some benefits of column-oriented storage within an RDBMS, so too can one achieve some benefits of the correlation database through database normalization. However, in a traditional RDBMS this normalization process requires work in the form of table configuration, stored procedures, and SQL statements. We say that a database is a correlation database when it naturally expresses a fully normalized schema without this extra configuration. As a result, a correlation database may have more focused optimizations for this fully normalized structure.
+
+This correlation process is similar to what occurs in a text-search oriented Inverted index.
+Advantages and disadvantages
+
+For analytical data warehouse applications, a CDBMS has several advantages over alternative database structures. First, because the database engine itself indexes all data and auto-generates its own schema on the fly while loading, it can be implemented quickly and is easy to update. There is no need for physical pre-design and no need to ever restructure the database. Second, a CDBMS enables creation and execution of complex queries such as associative queries ("show everything that is related to x") that are difficult if not impossible to model in SQL. The primary advantage of the CDBMS is that it is optimized for executing ad hoc queries - queries not anticipated during the data warehouse design phase.[4]
+
+A CDBMS has two drawbacks in comparison to database alternatives. Unlike relational databases, which can be used in a wide variety of applications, a correlation database is designed specifically for analytical applications and does not provide transaction management features; it cannot be used for transactional processing. Second, because it indexes all data during the load process, the physical load speed of a CDBMS is slower than relational or column-oriented structures. However, because it eliminates the need for logical or physical pre-design, the overall "time to use" of a CDBMS is generally similar to or somewhat faster than alternative structures.
+A triplestore or RDF store is a purpose-built database for the storage and retrieval of triples[1] through semantic queries. A triple is a data entity composed of subject-predicate-object, like "Bob is 35" or "Bob knows Fred".
+
+
+Much like a relational database, one stores information in a triplestore and retrieves it via a query language. Unlike a relational database, a triplestore is optimized for the storage and retrieval of triples. In addition to queries, triples can usually be imported/exported using Resource Description Framework (RDF) and other formats.
+
+Contents
+
+    1 Implementations
+    2 Related database types
+    3 See also
+    4 References
+    5 External links
+
+Implementations
+Main article: List of subject-predicate-object databases
+
+Some triplestores have been built as database engines from scratch, while others have been built on top of existing commercial relational database engines (e.g., SQL-based),[2] or NoSQL document-oriented database engines.[3][4] Like the early development of online analytical processing (OLAP) databases, this intermediate approach allowed large and powerful database engines to be constructed for little programming effort in the initial phases of triplestore development. Long-term though it seems likely that native triplestores will have the advantage for performance. A difficulty with implementing triplestores over SQL is that although triples may thus be stored, implementing efficient querying of a graph-based RDF model (e.g., mapping from SPARQL) onto SQL queries is difficult.[5]
+Related database types
+
+Adding a name to the triple makes a "quad store" or named graph.
+
+A graph database has a more generalized structure than triplestore. Uses graph structures with nodes, edges, and properties to represent and store data. Provides index-free adjacency, meaning every element contains a direct pointer to its adjacent elements and no index lookups are necessary. General graph databases that can store any graph are distinct from specialized graph databases such as triplestores and network databases.
+See also
+	This article may require cleanup to meet Wikipedia's quality standards. The specific problem is: prose in "See also" section Please help improve this article if you can. (August 2015) (Learn how and when to remove this template message)
+
+    Dataspaces - notes that fact-based, subject-predicate-object triples (data entities) rely on existing matching and mapping generation techniques. The triple data structure allows a pay-as-you-go approach to data integration which effectively postpones the labor-intensive aspects of integration to the very end, just before the integrated data is absolutely needed.
+    Entity–relationship model - covers entities (things) and the relationships that can exist among them.
+    ISO/IEC 19788 - Metadata for learning resources (MLR). In a MLR triple, the subject is always the literal of an identifier of the learning resource, such as a URI or ISBN. The predicate is also a literal, the MLR data element specification identifier. Finally, the object can be a literal or a resource class (a set of accepted values, such as a list of terms identifiers from a controlled vocabulary list).
+    Metaweb's Graphd 
+    tuple store (owned by Google) used in Freebase and Knowledge Graph
+    Metadata - syntax section - subject-predicate-object triple a/k/a class-attribute-value triple. The first two elements of the triple (class, attribute) are pieces of some structural metadata having a defined semantic. The third element is a value, preferably from some controlled vocabulary, some reference (master) data. The combination of the metadata and master data elements results in a statement which is a metacontent statement i.e. "metacontent = metadata + master data". All these elements can be thought of as vocabulary. Both metadata and master data are vocabularies which can be assembled into metacontent statements. There are many sources of these vocabularies, both meta and master data: UML, EDIFACT, XSD, Dewey/UDC/LoC, SKOS, ISO-25964, Pantone, Linnaean Binomial Nomenclature, etc. Using controlled vocabularies for the components of metacontent statements, whether for indexing or finding, is endorsed by ISO-25964: If both the indexer and the searcher are guided to choose the same term for the same concept, then relevant documents will be retrieved.
+    Outline of databases
+    Semantic data model - covers semantic information, symbols (instance data), meaning from instances, facts as binary relations between data elements. Object-RelationType-Object'
+    RDFLib - a Python library for working with RDF including both in-memory and persistent Graph backends. Supports subject-predicate-object triple pattern matching.
+    Semantic wiki and Semantic MediaWiki - illustrates subject-predicate-object support for Wikis, advanced query support, and implementations by organizations including: Pfizer, Harvard Pilgrim Health Care, Johnson & Johnson Pharmaceutical Research and Development, Pacific Northwest National Laboratory,Metropolitan Museum of Art, and the U.S. Department of Defense.
+    SPARQL W3C specification involving subject-predicate-object triples and List of SPARQL implementations
+
+Relational databases like MySQL, PostgreSQL and SQLite3 represent and store data in tables and rows. They're based on a branch of algebraic set theory known as relational algebra. Meanwhile, non-relational databases like MongoDB represent data in collections of JSON documents. The Mongo import utility can import JSON, CSV and TSV file formats. Mongo query targets of data are technically represented as BSON (binary JASON).
+
+Relational databases use Structured Querying Language (SQL), making them a good choice for applications that involve the management of several transactions. The structure of a relational database allows you to link information from different tables through the use of foreign keys (or indexes), which are used to uniquely identify any atomic piece of data within that table. Other tables may refer to that foreign key, so as to create a link between their data pieces and the piece pointed to by the foreign key. This comes in handy for applications that are heavy into data analysis.
+
+If you want your application to handle a lot of complicated querying, database transactions and routine analysis of data, you’ll probably want to stick with a relational database. And if your application is going to focus on doing many database transactions, it’s important that those transactions are processed reliably. This is where ACID (the set of properties that guarantee database transactions are processed reliably) really matters, and where referential integrity comes into play.
+Referential integrity (and minimizing ORM Impedance Mismatch)
+
+Referential integrity is the concept in which multiple database tables share a relationship based on the data stored in the tables, and that relationship must remain consistent. This is usually enforced with cascading actions of adding, deleting and updating. To illustrate an example of enforcing referential integrity, let’s consider an app that helps victims of human trafficking locate a safe house and access victim services in real time.
+
+Suppose city or county X has two tables; a Trafficking Victim Shelter table and a Trafficking Shelter Funding table. In the Trafficking Shelter table we have two columns; the Shelter ID (which could be its EIN/FEIN number) and the name of the shelter. In the Trafficking Shelter Funding table, we also have two columns; the Shelter ID and the amount of funding received for that given Shelter ID. Now, suppose a dearth in funding forced Shelter A in city/county X to close its doors. We would need to remove that shelter from locale X since it’s no longer in existence. And since Shelter A also exists in the Shelter Funding table, we need to remove it from there as well. By enforcing referential integrity, we can make this accurate -- and with minimal headaches.
+
+Here’s how:
+
+First, define the Shelter ID column in the Shelter table to be our primary key. Then, define the Shelter ID column in the Shelter Funding table to be a foreign key that points to a primary key (that is the Shelter ID column in the Shelter table). Once we define our foreign-to-primary key relationship, we need to add constraints.  One constraint in particular is known as cascading delete. This means that anytime a shelter is deleted from the Shelter table in our database, all entries for that same shelter would be automatically removed from the Shelter Funding table.
+
+Relate_01
+
+Now, take note of what was designated as the primary key, and why. In our little example of anti-trafficking charities, every non-profit NGO with 501(3)c status is issued an EIN, much like an individual’s social security number. So, in tables where other data is linked to any particular trafficking victim’s shelter in the shelter table, it makes sense to have that unique identifier serve as the primary key and to have the foreign keys point to it.
+
+Relate_02
+
+Keep in mind, there are three rules that referential integrity enforces:
+
+
+    We may not add a record to the Shelter Funding table unless the foreign key for that record points to an existing shelter in the Shelter table. You can think of this as a “No Unattended Child” rule or a “No Orphans” rule.
+
+    If a record in the shelter table is deleted, all corresponding records in the Shelter Funding table must also be deleted. The best way to handle this is by using cascade delete.
+
+    If the primary key for a record in the Shelter table changes, all corresponding records in the Shelter Funding (and other possible future tables with data relating to the Shelter table) must also be modified using something called a cascade update.
+
+
+The burden of instilling and maintaining referential integrity rests on the person who designs the database schema. If designing a database schema seems like a daunting task, consider this: Prior to 1970 (when the relational database was born) all databases were flat; data was stored in a long text file called a tab delimited file where each entry was separated by the pipe character (“|”). Searching for specific information to compare and analyze was a difficult, tedious, time-consuming endeavor. With relational databases you can easily search, sort and analyze (usually for comparison to other data purposes) specific pieces of data without having to search sequentially through an entire file (or database), including all the data pieces you’re not interested in.
+
+In the previous example of a relational database (Postgresql), we don’t need to search through an entire database worth of information just to find the information on a shelter that either had its funding slashed or that was forced to close for lack of funds. We can use a simple SQL query to find which shelters closed in a particular region or locale without having to traverse all of the data, including shelters not in that specific area, by using a an SQL SELECT * FROM statement.
+
+Object Relational Mapping (ORM) refers to the programmatic process of converting data between incompatible type systems in object-oriented programming languages (like Ruby). In the context of a Ruby program (a Rails app in particular), the concept of ORM libraries was briefly discussed in our tutorial on Getting started with Rails.
+When to non-relate
+
+While relational databases are great, they do come with trade-offs. One of those is ORM Impedence Mismatching, because relational databases were not initially created with the OOP languages in mind. The best way to avoid this issue is to create your database schema with referential integrity at its core. So, when using a relational database with an OOP (like Ruby), you have to think about how to set up your primary and foreign keys, the use of constraints (including the cascade delete and update), and how you write your migrations.
+
+But, if you’re dealing with a phenomenally huge amount of data, it can be way too tedious, and the probability of error (in the form of an ORM Impedance Mismatch issue) increases. In that situation you may need to consider going with a non-relational database. A non-relational database just stores data without explicit and structured mechanisms to link data from different tables (or buckets) to one another.
+
+Mongo is a popular non-relational database for MongoDB Ember Angular and Node.js (MEAN) stack developers because it’s basically written in JavaScript; JSON is JavaScript Object Notation, which is a lightweight data interchange format. If your data model turns out to be very complex, or if you find yourself having to de-normalize your database schema, non-relational databases like Mongo may be the best way to go. Other reasons for choosing a non-relational database include:
+
+
+    The need to store serialized arrays in JSON objects
+
+    Storing records in the same collection that have different fields or attributes
+
+    Finding yourself de-normalizing your database schema or coding around performance and horizontal scalability issues
+
+    Problems easily pre-defining your schema because of the nature of your data model
+
+
+Suppose we were developing an app, and our example for the trafficking victim safe houses was part of a data model that was too complex and had too many tables, making referential integrity extremely difficult. We might handle the representation of our trafficking victim service-providing NGO’s like this instead, using Mongo:
+
+Relate_03
+
+Note the nice, easily readable output. Mongo is accessible with JavaScript, and from a MEAN stack developer’s point of view, it wouldn’t make sense to go with any database that wasn’t easily accessible. Additionally, the MongoDB site is well documented and provides clear, concise examples for how to set up a Mongo database and make the most of it. As a NoSQL database, MongoDB allows developers to define the application’s flow entirely on the code side. One of the biggest issues MEAN stack developers have with relational databases is facing the unavoidable fact that the objects represented in the database are stored in a format that is unable to be easily used by the frontend and vice-versa.
+
+But it isn’t only MEAN stack developers who decided that a non-relational database was the best way to go. Steve Klabnik (a well-known member of the Ruby/Ruby on Rails community and the maintainer of the open source project Hackety-Hack) also chose MongoDB. Of course, he had to make trade-offs in taking this route. This included difficulty in getting Hackety-Hack refactored to be set up for user authentication with Facebook, Twitter, Linkedin and Github accounts. But other Rails developers also like Mongo for its superior horizontal scalability.
+
+One of the biggest advantages in going with a non-relational database is that your database is not at risk for SQL injection attacks, because non-relational databases don’t use SQL and are, for the most part, schema-less. Another major advantage, at least with Mongo, is that you can theoretically shard it forever (although that does bring up replication issues). Sharding distributes the data across partitions to overcome hardware limitations.
+Non-relational database disadvantages
+
+In non-relational databases like Mongo, there are no joins like there would be in relational databases. This means you need to perform multiple queries and join the data manually within your code -- and that can get very ugly, very fast.
+
+Since Mongo doesn’t automatically treat operations as transactions the way a relational database does, you must manually choose to create a transaction and then manually verify it, manually commit it or roll it back. Even the documentation on the MongoDB site warns you that without taking some potentially time-consuming precautions, and since documents can be fairly complex and nested, the success or failure of a database operation cannot be all or nothing. To put it simply, some operations will succeed while others fail.
+
+Of course, this all brings us back to the beginning; knowing how to ask exactly the right questions in order to effectively whiteboard your data model. It's this key step that will allow you to determine the best route for you regarding your application’s flow. Taking the time to pinpoint the right questions will serve as a solid guide when choosing the programming language to write your application in, and the use of one particular database over another.
+A hierarchical database model is a data model in which the data is organized into a tree-like structure. The data is stored as records which are connected to one another through links. A record is a collection of fields, with each field containing only one value. The entity type of a record defines which fields the record contains.
+Example of a hierarchical model
+
+A record in the hierarchical database model corresponds to a row (or tuple) in the relational database model and an entity type corresponds to a table (or relation).
+
+
+
+The hierarchical database model mandates that each child record has only one parent, whereas each parent record can have one or more child records. In order to retrieve data from a hierarchical database the whole tree needs to be traversed starting from the root node. This model is recognized as the first database model created by IBM in the 1960s[citation needed].
+
+Contents
+
+    1 History
+    2 Examples of hierarchical data represented as relational tables
+    3 See also
+    4 References
+    5 External links
+
+History
+
+The hierarchical structure was developed by IBM in the 1960s, and used in early mainframe DBMS. Records' relationships form a treelike model. This structure is simple but inflexible because the relationship is confined to a one-to-many relationship. The IBM Information Management System (IMS) and the RDM Mobile are examples of a hierarchical database system with multiple hierarchies over the same data. RDM Mobile is a newly designed embedded database for a mobile computer system.[citation needed]
+
+The hierarchical data model lost traction as Codd's relational model became the de facto standard used by virtually all mainstream database management systems. A relational-database implementation of a hierarchical model was first discussed in published form in 1992[1] (see also nested set model). Hierarchical data organization schemes resurfaced with the advent of XML in the late 1990s[2] (see also XML database). The hierarchical structure is used primarily today for storing geographic information and file systems.[citation needed]
+
+Currently hierarchical databases are still widely used especially in applications that require very high performance and availability such as banking and telecommunications. One of the most widely used commercial hierarchical databases is IMS.[3] Another example of the use of hierarchical databases is Windows Registry in the Microsoft Windows operating systems.[4]
+Examples of hierarchical data represented as relational tables
+
+An organization could store employee information in a table that contains attributes/columns such as employee number, first name, last name, and department number. The organization provides each employee with computer hardware as needed, but computer equipment may only be used by the employee to which it is assigned. The organization could store the computer hardware information in a separate table that includes each part's serial number, type, and the employee that uses it. The tables might look like this:
+employee table EmpNo 	First Name 	Last Name 	Dept. Num
+100 	sweet sonija 	Mohommad 	10-L
+101 	khalid ayub 	Hashim 	10-L
+102 	Abd e Wahab 	AW 	20-B
+103 	saadoo 	Sandakelum 	20-B
+	
+computer table Serial Num 	Type 	User EmpNo
+3009734-4 	Computer 	100
+3-23-283742 	Monitor 	100
+2-22-723423 	Monitor 	100
+232342 	Printer 	100
+
+In this model, the employee data table represents the "parent" part of the hierarchy, while the computer table represents the "child" part of the hierarchy. In contrast to tree structures usually found in computer software algorithms, in this model the children point to the parents. As shown, each employee may possess several pieces of computer equipment, but each individual piece of computer equipment may have only one employee owner.
+
+Consider the following structure:
+EmpNo 	Designation 	ReportsTo
+10 	Director 	
+20 	Senior Manager 	10
+30 	Typist 	20
+40 	Programmer 	20
+
+In this, the "child" is the same type as the "parent". The hierarchy stating EmpNo 10 is boss of 20, and 30 and 40 each report to 20 is represented by the "ReportsTo" column. In Relational database terms, the ReportsTo column is a foreign key referencing the EmpNo column. If the "child" data type were different, it would be in a different table, but there would still be a foreign key referencing the EmpNo column of the employees table.
+
+This simple model is commonly known as the adjacency list model, and was introduced by Dr. Edgar F. Codd after initial criticisms surfaced that the relational model could not model hierarchical data.
+See also
+
+    Tree structure
+    Hierarchical query
+    Hierarchical clustering
+
+
+
+In mathematics graph theory is the study of graphs, which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of vertices, nodes, or points which are connected by edges, arcs, or lines. A graph may be undirected, meaning that there is no distinction between the two vertices associated with each edge, or its edges may be directed from one vertex to another; see Graph (discrete mathematics) for more detailed definitions and for other variations in the types of graph that are commonly considered. Graphs are one of the prime objects of study in discrete mathematics.
+
+Refer to the glossary of graph theory for basic definitions in graph theory.
+
+Contents
+
+    1 Definitions
+        1.1 Graph
+    2 Applications
+    3 History
+    4 Graph drawing
+    5 Graph-theoretic data structures
+    6 Problems in graph theory
+        6.1 Enumeration
+        6.2 Subgraphs, induced subgraphs, and minors
+        6.3 Graph coloring
+        6.4 Subsumption and unification
+        6.5 Route problems
+        6.6 Network flow
+        6.7 Visibility problems
+        6.8 Covering problems
+        6.9 Decomposition problems
+        6.10 Graph classes
+    7 See also
+        7.1 Related topics
+        7.2 Algorithms
+        7.3 Subareas
+        7.4 Related areas of mathematics
+        7.5 Generalizations
+        7.6 Prominent graph theorists
+    8 Notes
+    9 References
+    10 External links
+        10.1 Online textbooks
+
+Definitions
+
+Definitions in graph theory vary. The following are some of the more basic ways of defining graphs and related mathematical structures.
+Graph
+
+In the most common sense of the term,[1] a graph is an ordered pair G = (V, E) comprising a set V of vertices or nodes or points together with a set E of edges or arcs or lines, which are 2-element subsets of V (i.e. an edge is related with two vertices, and the relation is represented as an unordered pair of the vertices with respect to the particular edge). To avoid ambiguity, this type of graph may be described precisely as undirected and simple.
+
+Other senses of graph stem from different conceptions of the edge set. In one more generalized notion,[2] V is a set together with a relation of incidence that associates with each edge two vertices. In another generalized notion, E is a multiset of unordered pairs of (not necessarily distinct) vertices. Many authors call this type of object a multigraph or pseudograph.
+
+All of these variants and others are described more fully below.
+
+The vertices belonging to an edge are called the ends or end vertices of the edge. A vertex may exist in a graph and not belong to an edge.
+
+V and E are usually taken to be finite, and many of the well-known results are not true (or are rather different) for infinite graphs because many of the arguments fail in the infinite case. The order of a graph is |V|, its number of vertices. The size of a graph is |E|, its number of edges. The degree or valency of a vertex is the number of edges that connect to it, where an edge that connects a vertex to itself (a loop) is counted twice.
+
+For an edge {x, y}, graph theorists usually use the somewhat shorter notation xy.
+Applications
+The network graph formed by Wikipedia editors (edges) contributing to different Wikipedia language versions (vertices) during one month in summer 2013[3]
+
+Graphs can be used to model many types of relations and processes in physical, biological,[4] social and information systems. Many practical problems can be represented by graphs. Emphasizing their application to real-world systems, the term network is sometimes defined to mean a graph in which attributes (e.g. names) are associated with the nodes and/or edges.
+
+In computer science, graphs are used to represent networks of communication, data organization, computational devices, the flow of computation, etc. For instance, the link structure of a website can be represented by a directed graph, in which the vertices represent web pages and directed edges represent links from one page to another. A similar approach can be taken to problems in social media,[5] travel, biology, computer chip design, and many other fields. The development of algorithms to handle graphs is therefore of major interest in computer science. The transformation of graphs is often formalized and represented by graph rewrite systems. Complementary to graph transformation systems focusing on rule-based in-memory manipulation of graphs are graph databases geared towards transaction-safe, persistent storing and querying of graph-structured data.
+
+Graph-theoretic methods, in various forms, have proven particularly useful in linguistics, since natural language often lends itself well to discrete structure. Traditionally, syntax and compositional semantics follow tree-based structures, whose expressive power lies in the principle of compositionality, modeled in a hierarchical graph. More contemporary approaches such as head-driven phrase structure grammar model the syntax of natural language using typed feature structures, which are directed acyclic graphs. Within lexical semantics, especially as applied to computers, modeling word meaning is easier when a given word is understood in terms of related words; semantic networks are therefore important in computational linguistics. Still other methods in phonology (e.g. optimality theory, which uses lattice graphs) and morphology (e.g. finite-state morphology, using finite-state transducers) are common in the analysis of language as a graph. Indeed, the usefulness of this area of mathematics to linguistics has borne organizations such as TextGraphs 
+, as well as various 'Net' projects, such as WordNet, VerbNet, and others.
+
+Graph theory is also used to study molecules in chemistry and physics. In condensed matter physics, the three-dimensional structure of complicated simulated atomic structures can be studied quantitatively by gathering statistics on graph-theoretic properties related to the topology of the atoms. In chemistry a graph makes a natural model for a molecule, where vertices represent atoms and edges bonds. This approach is especially used in computer processing of molecular structures, ranging from chemical editors to database searching. In statistical physics, graphs can represent local connections between interacting parts of a system, as well as the dynamics of a physical process on such systems. Similarly, in computational neuroscience graphs can be used to represent functional connections between brain areas that interact to give rise to various cognitive processes, where the vertices represent different areas of the brain and the edges represent the connections between those areas. Graphs are also used to represent the micro-scale channels of porous media, in which the vertices represent the pores and the edges represent the smaller channels connecting the pores.
+
+Graph theory is also widely used in sociology as a way, for example, to measure actors' prestige or to explore rumor spreading, notably through the use of social network analysis software. Under the umbrella of social networks are many different types of graphs.[6] Acquaintanceship and friendship graphs describe whether people know each other. Influence graphs model whether certain people can influence the behavior of others. Finally, collaboration graphs model whether two people work together in a particular way, such as acting in a movie together.
+
+Likewise, graph theory is useful in biology and conservation efforts where a vertex can represent regions where certain species exist (or inhabit) and the edges represent migration paths, or movement between the regions. This information is important when looking at breeding patterns or tracking the spread of disease, parasites or how changes to the movement can affect other species.
+
+In mathematics, graphs are useful in geometry and certain parts of topology such as knot theory. Algebraic graph theory has close links with group theory.
+
+A graph structure can be extended by assigning a weight to each edge of the graph. Graphs with weights, or weighted graphs, are used to represent structures in which pairwise connections have some numerical values. For example, if a graph represents a road network, the weights could represent the length of each road.
+History
+The Königsberg Bridge problem
+
+The paper written by Leonhard Euler on the Seven Bridges of Königsberg and published in 1736 is regarded as the first paper in the history of graph theory.[7] This paper, as well as the one written by Vandermonde on the knight problem, carried on with the analysis situs initiated by Leibniz. Euler's formula relating the number of edges, vertices, and faces of a convex polyhedron was studied and generalized by Cauchy[8] and L'Huillier,[9] and represents the beginning of the branch of mathematics known as topology.
+
+More than one century after Euler's paper on the bridges of Königsberg and while Listing was introducing the concept of topology, Cayley was led by an interest in particular analytical forms arising from differential calculus to study a particular class of graphs, the trees.[10] This study had many implications for theoretical chemistry. The techniques he used mainly concern the enumeration of graphs with particular properties. Enumerative graph theory then arose from the results of Cayley and the fundamental results published by Pólya between 1935 and 1937. These were generalized by De Bruijn in 1959. Cayley linked his results on trees with contemporary studies of chemical composition.[11] The fusion of ideas from mathematics with those from chemistry began what has become part of the standard terminology of graph theory.
+
+In particular, the term "graph" was introduced by Sylvester in a paper published in 1878 in Nature, where he draws an analogy between "quantic invariants" and "co-variants" of algebra and molecular diagrams:[12]
+
+    "[…] Every invariant and co-variant thus becomes expressible by a graph precisely identical with a Kekuléan diagram or chemicograph. […] I give a rule for the geometrical multiplication of graphs, i.e. for constructing a graph to the product of in- or co-variants whose separate graphs are given. […]" (italics as in the original).
+
+The first textbook on graph theory was written by Dénes Kőnig, and published in 1936.[13] Another book by Frank Harary, published in 1969, was "considered the world over to be the definitive textbook on the subject",[14] and enabled mathematicians, chemists, electrical engineers and social scientists to talk to each other. Harary donated all of the royalties to fund the Pólya Prize.[15]
+
+One of the most famous and stimulating problems in graph theory is the four color problem: "Is it true that any map drawn in the plane may have its regions colored with four colors, in such a way that any two regions having a common border have different colors?" This problem was first posed by Francis Guthrie in 1852 and its first written record is in a letter of De Morgan addressed to Hamilton the same year. Many incorrect proofs have been proposed, including those by Cayley, Kempe, and others. The study and the generalization of this problem by Tait, Heawood, Ramsey and Hadwiger led to the study of the colorings of the graphs embedded on surfaces with arbitrary genus. Tait's reformulation generated a new class of problems, the factorization problems, particularly studied by Petersen and Kőnig. The works of Ramsey on colorations and more specially the results obtained by Turán in 1941 was at the origin of another branch of graph theory, extremal graph theory.
+
+The four color problem remained unsolved for more than a century. In 1969 Heinrich Heesch published a method for solving the problem using computers.[16] A computer-aided proof produced in 1976 by Kenneth Appel and Wolfgang Haken makes fundamental use of the notion of "discharging" developed by Heesch.[17][18] The proof involved checking the properties of 1,936 configurations by computer, and was not fully accepted at the time due to its complexity. A simpler proof considering only 633 configurations was given twenty years later by Robertson, Seymour, Sanders and Thomas.[19]
+
+The autonomous development of topology from 1860 and 1930 fertilized graph theory back through the works of Jordan, Kuratowski and Whitney. Another important factor of common development of graph theory and topology came from the use of the techniques of modern algebra. The first example of such a use comes from the work of the physicist Gustav Kirchhoff, who published in 1845 his Kirchhoff's circuit laws for calculating the voltage and current in electric circuits.
+
+The introduction of probabilistic methods in graph theory, especially in the study of Erdős and Rényi of the asymptotic probability of graph connectivity, gave rise to yet another branch, known as random graph theory, which has been a fruitful source of graph-theoretic results.
+Graph drawing
+Main article: Graph drawing
+
+Graphs are represented visually by drawing a dot or circle for every vertex, and drawing an arc between two vertices if they are connected by an edge. If the graph is directed, the direction is indicated by drawing an arrow.
+
+A graph drawing should not be confused with the graph itself (the abstract, non-visual structure) as there are several ways to structure the graph drawing. All that matters is which vertices are connected to which others by how many edges and not the exact layout. In practice it is often difficult to decide if two drawings represent the same graph. Depending on the problem domain some layouts may be better suited and easier to understand than others.
+
+The pioneering work of W. T. Tutte was very influential in the subject of graph drawing. Among other achievements, he introduced the use of linear algebraic methods to obtain graph drawings.
+
+Graph drawing also can be said to encompass problems that deal with the crossing number and its various generalizations. The crossing number of a graph is the minimum number of intersections between edges that a drawing of the graph in the plane must contain. For a planar graph, the crossing number is zero by definition.
+
+Drawings on surfaces other than the plane are also studied.
+Graph-theoretic data structures
+Main article: Graph (abstract data type)
+
+There are different ways to store graphs in a computer system. The data structure used depends on both the graph structure and the algorithm used for manipulating the graph. Theoretically one can distinguish between list and matrix structures but in concrete applications the best structure is often a combination of both. List structures are often preferred for sparse graphs as they have smaller memory requirements. Matrix structures on the other hand provide faster access for some applications but can consume huge amounts of memory.
+
+List structures include the incidence list, an array of pairs of vertices, and the adjacency list, which separately lists the neighbors of each vertex: Much like the incidence list, each vertex has a list of which vertices it is adjacent to.
+
+Matrix structures include the incidence matrix, a matrix of 0's and 1's whose rows represent vertices and whose columns represent edges, and the adjacency matrix, in which both the rows and columns are indexed by vertices. In both cases a 1 indicates two adjacent objects and a 0 indicates two non-adjacent objects. The Laplacian matrix is a modified form of the adjacency matrix that incorporates information about the degrees of the vertices, and is useful in some calculations such as Kirchhoff's theorem on the number of spanning trees of a graph. The distance matrix, like the adjacency matrix, has both its rows and columns indexed by vertices, but rather than containing a 0 or a 1 in each cell it contains the length of a shortest path between two vertices.
+Problems in graph theory
+Enumeration
+
+There is a large literature on graphical enumeration: the problem of counting graphs meeting specified conditions. Some of this work is found in Harary and Palmer (1973).
+Subgraphs, induced subgraphs, and minors
+
+A common problem, called the subgraph isomorphism problem, is finding a fixed graph as a subgraph in a given graph. One reason to be interested in such a question is that many graph properties are hereditary for subgraphs, which means that a graph has the property if and only if all subgraphs have it too. Unfortunately, finding maximal subgraphs of a certain kind is often an NP-complete problem. For example:
+
+    Finding the largest complete subgraph is called the clique problem (NP-complete).
+
+A similar problem is finding induced subgraphs in a given graph. Again, some important graph properties are hereditary with respect to induced subgraphs, which means that a graph has a property if and only if all induced subgraphs also have it. Finding maximal induced subgraphs of a certain kind is also often NP-complete. For example:
+
+    Finding the largest edgeless induced subgraph or independent set is called the independent set problem (NP-complete).
+
+Still another such problem, the minor containment problem, is to find a fixed graph as a minor of a given graph. A minor or subcontraction of a graph is any graph obtained by taking a subgraph and contracting some (or no) edges. Many graph properties are hereditary for minors, which means that a graph has a property if and only if all minors have it too. For example, Wagner's Theorem states:
+
+    A graph is planar if it contains as a minor neither the complete bipartite graph K3,3 (see the Three-cottage problem) nor the complete graph K5.
+
+A similar problem, the subdivision containment problem, is to find a fixed graph as a subdivision of a given graph. A subdivision or homeomorphism of a graph is any graph obtained by subdividing some (or no) edges. Subdivision containment is related to graph properties such as planarity. For example, Kuratowski's Theorem states:
+
+    A graph is planar if it contains as a subdivision neither the complete bipartite graph K3,3 nor the complete graph K5.
+
+Another problem in subdivision containment is Kelmans-Seymour conjecture:
+
+    Every 5-vertex-connected graph that is not planar contains a subdivision of the 5-vertex complete graph K5.
+
+Another class of problems has to do with the extent to which various species and generalizations of graphs are determined by their point-deleted subgraphs. For example:
+
+    The reconstruction conjecture
+
+Graph coloring
+
+Many problems have to do with various ways of coloring graphs, for example:
+
+    Four-color theorem
+    Strong perfect graph theorem
+    Erdős–Faber–Lovász conjecture (unsolved)
+    Total coloring conjecture, also called Behzad's conjecture (unsolved)
+    List coloring conjecture (unsolved)
+    Hadwiger conjecture (graph theory) (unsolved)
+
+Subsumption and unification
+
+Constraint modeling theories concern families of directed graphs related by a partial order. In these applications, graphs are ordered by specificity, meaning that more constrained graphs—which are more specific and thus contain a greater amount of information—are subsumed by those that are more general. Operations between graphs include evaluating the direction of a subsumption relationship between two graphs, if any, and computing graph unification. The unification of two argument graphs is defined as the most general graph (or the computation thereof) that is consistent with (i.e. contains all of the information in) the inputs, if such a graph exists; efficient unification algorithms are known.
+
+For constraint frameworks which are strictly compositional, graph unification is the sufficient satisfiability and combination function. Well-known applications include automatic theorem proving and modeling the elaboration of linguistic structure.
+Route problems
+
+    Hamiltonian path problem
+    Minimum spanning tree
+    Route inspection problem (also called the "Chinese postman problem")
+    Seven bridges of Königsberg
+    Shortest path problem
+    Steiner tree
+    Three-cottage problem
+    Traveling salesman problem (NP-hard)
+
+Network flow
+
+There are numerous problems arising especially from applications that have to do with various notions of flows in networks, for example:
+
+    Max flow min cut theorem
+
+Visibility problems
+
+    Museum guard problem
+
+Covering problems
+
+Covering problems in graphs are specific instances of subgraph-finding problems, and they tend to be closely related to the clique problem or the independent set problem.
+
+    Set cover problem
+    Vertex cover problem
+
+Decomposition problems
+
+Decomposition, defined as partitioning the edge set of a graph (with as many vertices as necessary accompanying the edges of each part of the partition), has a wide variety of question. Often, it is required to decompose a graph into subgraphs isomorphic to a fixed graph; for instance, decomposing a complete graph into Hamiltonian cycles. Other problems specify a family of graphs into which a given graph should be decomposed, for instance, a family of cycles, or decomposing a complete graph Kn into n − 1 specified trees having, respectively, 1, 2, 3, …, n − 1 edges.
+
+Some specific decomposition problems that have been studied include:
+
+    Arboricity, a decomposition into as few forests as possible
+    Cycle double cover, a decomposition into a collection of cycles covering each edge exactly twice
+    Edge coloring, a decomposition into as few matchings as possible
+    Graph factorization, a decomposition of a regular graph into regular subgraphs of given degrees
+
+Graph classes
+
+Many problems involve characterizing the members of various classes of graphs. Some examples of such questions are below:
+
+    Enumerating the members of a class
+    Characterizing a class in terms of forbidden substructures
+    Ascertaining relationships among classes (e.g. does one property of graphs imply another)
+    Finding efficient algorithms to decide membership in a class
+    Finding representations for members of a class
+
+See also
+
+    Gallery of named graphs
+    Glossary of graph theory
+    List of graph theory topics
+    List of unsolved problems in graph theory
+    Publications in graph theory
+
+Related topics
+
+    Algebraic graph theory
+    Citation graph
+    Conceptual graph
+    Data structure
+    Disjoint-set data structure
+    Dual-phase evolution
+    Entitative graph
+    Existential graph
+    Graph algebra
+    Graph automorphism
+    Graph coloring
+    Graph database
+    Graph data structure
+    Graph drawing
+    Graph equation
+    Graph rewriting
+    Graph sandwich problem
+    Graph property
+    Intersection graph
+    Logical graph
+    Loop
+    Network theory
+    Null graph
+    Pebble motion problems
+    Percolation
+    Perfect graph
+    Quantum graph
+    Random regular graphs
+    Semantic networks
+    Spectral graph theory
+    Strongly regular graphs
+    Symmetric graphs
+    Transitive reduction
+    Tree data structure
+
+Algorithms
+
+    Bellman–Ford algorithm
+    Dijkstra's algorithm
+    Ford–Fulkerson algorithm
+    Kruskal's algorithm
+    Nearest neighbour algorithm
+    Prim's algorithm
+    Depth-first search
+    Breadth-first search
+
+Subareas
+
+    Algebraic graph theory
+    Geometric graph theory
+    Extremal graph theory
+    Probabilistic graph theory
+    Topological graph theory
+
+Related areas of mathematics
+
+    Combinatorics
+    Group theory
+    Knot theory
+    Ramsey theory
+
+Generalizations
+
+    Hypergraph
+    Abstract simplicial complex
+
+Prominent graph theorists
+
+    Alon, Noga
+    Berge, Claude
+    Bollobás, Béla
+    Bondy, Adrian John
+    Brightwell, Graham
+    Chudnovsky, Maria
+    Chung, Fan
+    Dirac, Gabriel Andrew
+    Erdős, Paul
+    Euler, Leonhard
+    Faudree, Ralph
+    Golumbic, Martin
+    Graham, Ronald
+    Harary, Frank
+    Heawood, Percy John
+    Kotzig, Anton
+    Kőnig, Dénes
+    Lovász, László
+    Murty, U. S. R.
+    Nešetřil, Jaroslav
+    Rényi, Alfréd
+    Ringel, Gerhard
+    Robertson, Neil
+    Seymour, Paul
+    Szemerédi, Endre
+    Thomas, Robin
+    Thomassen, Carsten
+    Turán, Pál
+    Tutte, W. T.
+    Whitney, Hassler
+Databases
+SQL and relational databases
+NoSQL Databases
+NoSQL, Mongo, Redis
+NoSQL, Teradata
+Excel
+MongoDB
+sql
+nosql
+relatinal database
+nonrelational database
+Oracle
+MySQL 
+Microsoft SQL Server
+MongoDB 
+PostgreSQL
+DB2
+Cassandra 
+Microsoft Access
+SQLite
+Redis 
+Elasticsearch 
+Teradata
+SAP Adaptive Server
+Solr
+HBase
+FileMaker
+Hive
+Splunk
+SAP HANA 
+MariaDB
+Neo4j 
+Informix
+Memcached
+Couchbase 
+Amazon DynamoDB 
+CouchDB
+Microsoft Azure SQL Database
+Netezza
+Vertica
+Firebird
+Riak KV 
+Ingres
+MarkLogic
+dBASE
+Greenplum
+Amazon Redshift 
+Impala
+DB2
+MySQL
+Oracle
+PostgreSQL
+SQLite
+SQL Server
+Sybase
+RethinkDB
+Berkeley DB
+memcached
+redis
+couchDB
+mongoDB
+
+With non-relational databases you can store any type of content. Incorporate any kind of data in a single database. Build any feature. Faster. With less money.
+
+
+Relational (SQL)	Non-Relational (NoSQL)
+Stuck. Data now includes rich data types – tweets, videos, podcasts, animated gifs – which are hard, if not impossible, to store in a relational database. Development slows to a crawl, and ops is caught playing whack-a-mole.	Do the Impossible. NoSQL can incorporate literally any type of data, while providing all the features needed to build content-rich apps.
+Can’t Scale. Your audience is global, in many countries, speaking many languages, accessing content on many devices. Scaling a relational database is not trivial. And it isn’t cheap.	Scale Big. Scaling is built into the database. It is automatic and transparent. You can scale as your audience grows, both within a data center and across regions.
+$$$$. Large teams tied up for long periods of time make these applications expensive to build and maintain. Proprietary software and hardware, plus separate databases and file systems needed to manage your content, add to the cost.	$. More productive teams, plus commodity hardware, make your projects cost 10% what they would with a relational database.
+
+
+Download the white paper to understand in depth
+
+    Why organizations of all sizes are seeking alternatives to legacy relational databases like MySQL, SQL and PostgreSQL
+    The differences and similarities between NoSQL databases and relational databases
+    How to evaluate commercial support and community strength when selecting a NoSQL database
+
+1) Relational databases, which can also be called relational database management systems (RDBMS) or SQL databases.  The most popular of these are Microsoft SQL Server, Oracle Database, MySQL, and IBM DB2.  These RDBMS’s are mostly used in large enterprise scenarios, with the exception of MySQL, which is mostly used to store data for web applications, typically as part of the popular LAMP stack (Linux, Apache, MySQL, PHP/ Python/ Perl).
+
+2) Non-relational databases, also called NoSQL databases, the most popular being MongoDB, DocumentDB, Cassandra, Coachbase, HBase, Redis, and Neo4j.  These databases are usually grouped into four categories: Key-value stores, Graph stores, Column stores, and Document stores (see Types of NoSQL databases).
+
+All relational databases can be used to manage transaction-oriented applications (OLTP), and most non-relational databases that are in the categories Document stores and Column stores can also be used for OLTP, adding to the confusion.  OLTP databases can be thought of as “Operational” databases, characterized by frequent, short transactions that include updates and that touch a small amount of data and where concurrency of thousands of transactions is very important (examples including banking applications and online reservations).  Integrity of data is very important so they support ACID transactions (Atomicity, Consistency, Isolation, Durability).  This is opposed to data warehouses, which are considered “Analytical” databases characterized by long, complex queries that touch a large amount of data and require a lot of resources.  Updates are infrequent.  An example is analysis of sales over the past year.
+
+Relational databases usually work with structured data, while non-relational databases usually work with semi-structured data (i.e. XML, JSON).
+
+Let’s look at each group in more detail:
+Relational Databases
+
+A relational database is organized based on the relational model of data, as proposed by E.F. Codd in 1970.  This model organizes data into one or more tables (or “relations”) of rows and columns, with a unique key for each row.  Generally, each entity type that is described in a database has its own table with the rows representing instances of that type of entity and the columns representing values attributed to that instance.  Since each row in a table has its own unique key, rows in a table can be linked to rows in other tables by storing the unique key of the row to which it should be linked (where such unique key is known as a “foreign key”).  Codd showed that data relationships of arbitrary complexity can be represented using this simple set of concepts.
+
+Virtually all relational database systems use SQL (Structured Query Language) as the language for querying and maintaining the database.
+
+The reasons for the dominance of relational databases are: simplicity, robustness, flexibility, performance, scalability and compatibility in managing generic data.
+
+But to offer all of this, relational databases have to be incredibly complex internally.  For example, a relatively simple SELECT statement could have dozens of potential query execution paths, which a query optimizer would evaluate at run time.  All of this is hidden to users, but under the hood, the RDBMS determines the best “execution plan” to answer requests by using things like cost-based algorithms.
+
+For large databases, especially ones used for web applications, the main concern is scalability.  As more and more applications are created in environments that have massive workloads (i.e. Amazon), their scalability requirements can change very quickly and grow very large.  Relational databases scale well, but usually only when that scaling happens on a single server (“scale-up”).  When the capacity of that single server is reached, you need to “scale-out” and distribute that load across multiple servers, moving into so-called distributed computing.  This is when the complexity of relational databases starts to cause problems with their potential to scale.  If you try to scale to hundreds or thousands of servers the complexities become overwhelming.  The characteristics that make relational databases so appealing are the very same that also drastically reduce their viability as platforms for large distributed systems.
+Non-relational databases
+
+A NoSQL database provides a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+
+Motivations for this approach include:
+
+    Simplicity of design.  Not having to deal with the “impedance mismatch” between the object-oriented approach to write applications and the schema-based tables and rows of a relational database.  For example, storing all the customer order info in one document as opposed to having to join many tables together, resulting in less code to write, debug, and maintain
+    Better “horizontal” scaling to clusters of machines, which solves the problem when the number of concurrent users skyrockets for applications that are accessible via the web and mobile devices.  Using documents makes it much easier to scale-out as all the info for that customer order is contained in one place as opposed to being spread out on multiple tables.  NoSQL databases automatically spread data across servers without requiring application changes (auto-sharding), meaning that they natively and automatically spread data across an arbitrary number of servers, without requiring the application to even be aware of the composition of the server pool.  Data and query load are automatically balanced across servers, and when a server goes down, it can be quickly and transparently replaced with no application disruption
+    Finer control over availability.  Servers can be added or removed without application downtime.  Most NoSQL databases support data replication, storing multiple copies of data across the cluster or even across data centers, to ensure high availability and disaster recovery
+    To easily capture all kinds of data “Big Data” which include unstructured and semi-structured data.  Allowing for a flexible database that can easily and quickly accommodate any new type of data and is not disrupted by content structure changes.  This is because document database are schemaless, allowing you to freely add fields to JSON documents without having to first define changes (schema-on-read instead of schema-on-write).  You can have documents with a different number of fields than other documents.  For example, a patient record that may or may not contain fields that list allergies
+    Speed.  The data structures used by NoSQL databases (i.e. JSON documents) differ from those used by default in relational databases, making many operations faster in NoSQL than relational databases due to not having to join tables (at the cost of increased storage space due to duplication of data – but storage space is so cheap nowadays this is usually not an issue).  In fact, most NoSQL databases do not even support joins
+    Cost.  NoSQL databases usually use clusters of cheap commodity servers, while RDBMS tend to rely on expensive proprietary servers and storage systems.  Also, the licenses for RDBMS systems can be quite expensive while many NoSQL databases are open source and therefore free
+
+The particular suitability of a given NoSQL database depends on the problem it must solve.
+
+NoSQL databases are increasingly used in big data and real-time web applications.  They became popular with the introduction of the web, when databases went from a max of a few hundred users on an internal company application to thousands or millions of users on a web application.  NoSQL systems are also called “Not only SQL” to emphasize that they may also support SQL-like query languages.
+
+Many NoSQL stores compromise consistency (in the sense of the CAP theorem) in favor of availability and partition tolerance.  Some reasons that block adoption of NoSQL stores include the use of low-level query languages, the lack of standardized interfaces, and huge investments in existing SQL.  Also, most NoSQL stores lack true ACID transactions or only support transactions in certain circumstances and at certain levels (e.g., document level).  Finally, RDBMS’s are usually much simpler to use as they have GUI’s where many NoSQL solution use a command-line interface.
+Comparing the two
+
+One of the most severe limitations of relational databases is that each item can only contain one attribute.  If we use a bank example, each aspect of a customer’s relationship with a bank is stored as separate row items in separate tables.  So the customer’s master details are in one table, the account details are in another table, the loan details in yet another, investments in a different table, and so on.  All these tables are linked to each other through the use of relations such as primary keys and foreign keys.
+
+Non-relational databases, specifically a database’s key-value stores or key-value pairs, are radically different from this model.  Key-value pairs allow you to store several related items in one “row” of data in the same table.  We place the word “row” in quotes because a row here is not really the same thing as the row of a relational table.  For instance, in a non-relational table for the same bank, each row would contain the customer’s details as well as their account, loan and investment details.  All data relating to one customer would be conveniently stored together as one record.
+
+This seems an obviously superior method of storing data, but it has a major drawback: key-value stores, unlike relational databases, cannot enforce relationships between data items.  For instance, in our key-value database, the customer details (name, social security, address, account number, loan processing number, etc.) would all be stored as one data record (instead of being stored in several tables, as in the relational model).  The customer’s transactions (account withdrawals, account deposits, loan repayments, bank charges, etc.) would also be stored as another single data record.
+
+In the relational model, there is an built-in and foolproof method of ensuring and enforcing business logic and rules at the database layer, for instance that a withdrawal is charged to the correct bank account, through primary keys and foreign keys.  In key-value stores, this responsibility falls squarely on the application logic and many people are very uncomfortable leaving this crucial responsibility just to the application.  This is one reason why relational databases will continued to be used.
+
+However, when it comes to web-based applications that use databases, the aspect of rigorously enforcing business logic is often not a top priorities.  The highest priority is the ability to service large numbers of user requests, which are typically read-only queries.  For example, on a site like eBay, the majority of users simply browse and look through posted items (read-only operations).  Only a fraction of these users actually place bids or reserve the items (read-write operations).  And remember, we are talking about millions, sometimes billions, of page views per day.  The eBay site administrators are more interested in quick response time to ensure faster page loading for the site’s users, rather than the traditional priorities of enforcing business rules or ensuring a balance between reads and writes.
+
+Relational-model databases can be tweaked and set up to run large-scale read-only operations through data warehousing, and thus potentially serve a large amount of users who are querying a large amount of data, especially when using relational MPP architectures like Analytics Platform System, Teradata, Oracle Exadata, or IBM Netezza, which all support scaling.  As mentioned before, data warehouses are distinct from typical databases in that they are used for more complex analysis of data.  This differs from the transactional (OLTP) database, whose main use is to support operational systems and offer day-to-day, small scale reporting.
+
+However, the real challenge is the relational model’s lack of scalability when dealing with OLTP applications, or any solution with a lot of individual writes, which is the domain of relational SMP architectures.  This is where non-relational models can really shine.  They can easily distribute their data loads across dozens, hundreds and in extreme cases (think Google search) even thousands of servers.  With each server handling only a small percentage of the total requests from users, response time is very good for each individual user.  Although this distributed computing model can be built for relational databases, it is a real pain to implement, especially when there are a lot of writes (i.e OLTP), requiring techniques like sharding which usually requires significant coding outside of the application’s business logic.  This is because the relational model insists on data integrity at all levels, which must be maintained, even as the data is accessed and modified by several different servers.  This is the reason for the non-relational model as the architecture of choice for web applications such as cloud-computing and social networking.
+
+So in summary, RDBMS’s suffer from no horizontal scaling for high transaction loads (millions of read-writes), while NoSQL databases solve high transaction loads but at the cost of data integrity and joins.
+
+Keep in mind many solutions will use a combination of relational and non-relational databases (see What is Polyglot Persistence?).
+
+Also keep in mind that you may not need the performance of a non-relational database and instead just going with storing files in HDFS and using Apache Hive will be enough (Apache Hive is a data warehouse infrastructure built on top of Hadoop for providing data summarization, query, and analysis that it provides via an SQL-like language called HiveQL).
+
+And to end on a note that adds to the confusion, we have a another category forming called NewSQL: NewSQL is a class of modern RDBMS’s that seek to provide the same scalable performance of NoSQL systems for OLTP read-write workloads while still maintaining the ACID guarantees of a traditional relational database system.  The disadvantages is they are not for OLAP-style queries, and they are inappropriate for databases over a few terabytes.  Examples include VoltDB, NuoDB, MemSQL, SAP HANA, Splice Machine, Clustrix, and Altibase.
+
+
+
+
+

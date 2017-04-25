@@ -1,0 +1,2403 @@
+In the preceding chapters basic elements for the proper execution of analytical work such as personnel, laboratory facilities, equipment, and reagents were discussed. Before embarking upon the actual analytical work, however, one more tool for the quality assurance of the work must be dealt with: the statistical operations necessary to control and verify the analytical procedures (Chapter 7) as well as the resulting data (Chapter 8).
+
+It was stated before that making mistakes in analytical work is unavoidable. This is the reason why a complex system of precautions to prevent errors and traps to detect them has to be set up. An important aspect of the quality control is the detection of both random and systematic errors. This can be done by critically looking at the performance of the analysis as a whole and also of the instruments and operators involved in the job. For the detection itself as well as for the quantification of the errors, statistical treatment of data is indispensable.
+
+A multitude of different statistical tools is available, some of them simple, some complicated, and often very specific for certain purposes. In analytical work, the most important common operation is the comparison of data, or sets of data, to quantify accuracy (bias) and precision. Fortunately, with a few simple convenient statistical tools most of the information needed in regular laboratory work can be obtained: the "t-test, the "F-test", and regression analysis. Therefore, examples of these will be given in the ensuing pages.
+
+Clearly, statistics are a tool, not an aim. Simple inspection of data, without statistical treatment, by an experienced and dedicated analyst may be just as useful as statistical figures on the desk of the disinterested. The value of statistics lies with organizing and simplifying data, to permit some objective estimate showing that an analysis is under control or that a change has occurred. Equally important is that the results of these statistical procedures are recorded and can be retrieved.
+6.2 Definitions
+
+    6.2.1 Error
+    6.2.2 Accuracy
+    6.2.3 Precision
+    6.2.4 Bias
+
+Discussing Quality Control implies the use of several terms and concepts with a specific (and sometimes confusing) meaning. Therefore, some of the most important concepts will be defined first.
+6.2.1 Error
+
+Error is the collective noun for any departure of the result from the "true" value*. Analytical errors can be:
+
+    1. Random or unpredictable deviations between replicates, quantified with the "standard deviation".
+
+    2. Systematic or predictable regular deviation from the "true" value, quantified as "mean difference" (i.e. the difference between the true value and the mean of replicate determinations).
+
+    3. Constant, unrelated to the concentration of the substance analyzed (the analyte).
+
+    4. Proportional, i.e. related to the concentration of the analyte.
+
+        * The "true" value of an attribute is by nature indeterminate and often has only a very relative meaning. Particularly in soil science for several attributes there is no such thing as the true value as any value obtained is method-dependent (e.g. cation exchange capacity). Obviously, this does not mean that no adequate analysis serving a purpose is possible. It does, however, emphasize the need for the establishment of standard reference methods and the importance of external QC (see Chapter 9).
+
+6.2.2 Accuracy
+
+The "trueness" or the closeness of the analytical result to the "true" value. It is constituted by a combination of random and systematic errors (precision and bias) and cannot be quantified directly. The test result may be a mean of several values. An accurate determination produces a "true" quantitative value, i.e. it is precise and free of bias.
+6.2.3 Precision
+
+The closeness with which results of replicate analyses of a sample agree. It is a measure of dispersion or scattering around the mean value and usually expressed in terms of standard deviation, standard error or a range (difference between the highest and the lowest result).
+6.2.4 Bias
+
+The consistent deviation of analytical results from the "true" value caused by systematic errors in a procedure. Bias is the opposite but most used measure for "trueness" which is the agreement of the mean of analytical results with the true value, i.e. excluding the contribution of randomness represented in precision. There are several components contributing to bias:
+
+1. Method bias
+
+    The difference between the (mean) test result obtained from a number of laboratories using the same method and an accepted reference value. The method bias may depend on the analyte level.
+
+2. Laboratory bias
+
+    The difference between the (mean) test result from a particular laboratory and the accepted reference value.
+
+3. Sample bias
+
+    The difference between the mean of replicate test results of a sample and the ("true") value of the target population from which the sample was taken. In practice, for a laboratory this refers mainly to sample preparation, subsampling and weighing techniques. Whether a sample is representative for the population in the field is an extremely important aspect but usually falls outside the responsibility of the laboratory (in some cases laboratories have their own field sampling personnel).
+
+The relationship between these concepts can be expressed in the following equation:
+
+Figure
+
+The types of errors are illustrated in Fig. 6-1.
+
+Fig. 6-1. Accuracy and precision in laboratory measurements. (Note that the qualifications apply to the mean of results: in c the mean is accurate but some individual results are inaccurate)
+
+6.3 Basic Statistics
+
+    6.3.1 Mean
+    6.3.2 Standard deviation
+    6.3.3 Relative standard deviation. Coefficient of variation
+    6.3.4 Confidence limits of a measurement
+    6.3.5 Propagation of errors
+
+In the discussions of Chapters 7 and 8 basic statistical treatment of data will be considered. Therefore, some understanding of these statistics is essential and they will briefly be discussed here.
+
+The basic assumption to be made is that a set of data, obtained by repeated analysis of the same analyte in the same sample under the same conditions, has a normal or Gaussian distribution. (When the distribution is skewed statistical treatment is more complicated). The primary parameters used are the mean (or average) and the standard deviation (see Fig. 6-2) and the main tools the F-test, the t-test, and regression and correlation analysis.
+
+Fig. 6-2. A Gaussian or normal distribution. The figure shows that (approx.) 68% of the data fall in the range ¯ x± s, 95% in the range ¯x ± 2s, and 99.7% in the range ¯x ± 3s.
+6.3.1 Mean
+
+The average of a set of n data xi:
+
+¯
+
+
+(6.1)
+
+6.3.2 Standard deviation
+
+This is the most commonly used measure of the spread or dispersion of data around the mean. The standard deviation is defined as the square root of the variance (V). The variance is defined as the sum of the squared deviations from the mean, divided by n-1. Operationally, there are several ways of calculation:
+
+
+
+(6.1)
+
+or
+
+
+
+(6.3)
+
+or
+
+
+
+(6.4)
+
+The calculation of the mean and the standard deviation can easily be done on a calculator but most conveniently on a PC with computer programs such as dBASE, Lotus 123, Quattro-Pro, Excel, and others, which have simple ready-to-use functions. (Warning: some programs use n rather than n- 1!).
+6.3.3 Relative standard deviation. Coefficient of variation
+
+Although the standard deviation of analytical data may not vary much over limited ranges of such data, it usually depends on the magnitude of such data: the larger the figures, the larger s. Therefore, for comparison of variations (e.g. precision) it is often more convenient to use the relative standard deviation (RSD) than the standard deviation itself. The RSD is expressed as a fraction, but more usually as a percentage and is then called coefficient of variation (CV). Often, however, these terms are confused.
+
+
+
+
+
+(6.5; 6.6)
+
+    Note. When needed (e.g. for the F-test, see Eq. 6.11) the variance can, of course, be calculated by squaring the standard deviation:
+
+V = s2
+
+
+(6.7)
+
+6.3.4 Confidence limits of a measurement
+
+The more an analysis or measurement is replicated, the closer the mean x of the results will approach the "true" value m, of the analyte content (assuming absence of bias).
+
+A single analysis of a test sample can be regarded as literally sampling the imaginary set of a multitude of results obtained for that test sample. The uncertainty of such subsampling is expressed by
+
+
+
+(6.8)
+
+where
+
+    m = "true" value (mean of large set of replicates)
+    ¯x = mean of subsamples
+    t = a statistical value which depends on the number of data and the required confidence (usually 95%).
+    s = standard deviation of mean of subsamples
+    n = number of subsamples
+
+(The term is also known as the standard error of the mean.)
+
+The critical values for t are tabulated in Appendix 1 (they are, therefore, here referred to as ttab ). To find the applicable value, the number of degrees of freedom has to be established by: df = n -1 (see also Section 6.4.2).
+
+Example
+
+For the determination of the clay content in the particle-size analysis, a semi-automatic pipette installation is used with a 20 mL pipette. This volume is approximate and the operation involves the opening and closing of taps. Therefore, the pipette has to be calibrated, i.e. both the accuracy (trueness) and precision have to be established.
+
+A tenfold measurement of the volume yielded the following set of data (in mL):
+
+19.941
+
+
+19.812
+
+
+19.829
+
+
+19.828
+
+
+19.742
+
+19.797
+
+
+19.937
+
+
+19.847
+
+
+19.885
+
+
+19.804
+
+The mean is 19.842 mL and the standard deviation 0.0627 mL. According to Appendix 1 for n = 10 is ttab = 2.26 (df = 9) and using Eq. (6.8) this calibration yields:
+
+pipette volume = 19.842 ± 2.26 (0.0627/) = 19.84 ± 0.04 mL
+
+(Note that the pipette has a systematic deviation from 20 mL as this is outside the found confidence interval. See also bias).
+
+In routine analytical work, results are usually single values obtained in batches of several test samples. No laboratory will analyze a test sample 50 times to be confident that the result is reliable. Therefore, the statistical parameters have to be obtained in another way. Most usually this is done by method validation (see Chapter 7) and/or by keeping control charts, which is basically the collection of analytical results from one or more control samples in each batch (see Chapter 8). Equation (6.8) is then reduced to
+
+
+
+(6.9)
+
+where
+
+    m = "true" value
+    x = single measurement
+    t = applicable ttab (Appendix 1)
+    s = standard deviation of set of previous measurements.
+
+In Appendix 1 can be seen that if the set of replicated measurements is large (say > 30), t is close to 2. Therefore, the (95%) confidence of the result x of a single test sample (n = 1 in Eq. 6.8) is approximated by the commonly used and well known expression
+
+
+
+(6.10)
+
+where S is the previously determined standard deviation of the large set of replicates (see also Fig. 6-2).
+
+    Note: This "method-s" or s of a control sample is not a constant and may vary for different test materials, analyte levels, and with analytical conditions.
+
+Running duplicates will, according to Equation (6.8), increase the confidence of the (mean) result by a factor :
+
+where
+
+    ¯x = mean of duplicates
+    s = known standard deviation of large set
+
+Similarly, triplicate analysis will increase the confidence by a factor , etc. Duplicates are further discussed in Section 8.3.3.
+
+Thus, in summary, Equation (6.8) can be applied in various ways to determine the size of errors (confidence) in analytical work or measurements: single determinations in routine work, determinations for which no previous data exist, certain calibrations, etc.
+6.3.5 Propagation of errors
+
+    6.3.5.1. Propagation of random errors
+    6.3.5.2 Propagation of systematic errors
+
+The final result of an analysis is often calculated from several measurements performed during the procedure (weighing, calibration, dilution, titration, instrument readings, moisture correction, etc.). As was indicated in Section 6.2, the total error in an analytical result is an adding-up of the sub-errors made in the various steps. For daily practice, the bias and precision of the whole method are usually the most relevant parameters (obtained from validation, Chapter 7; or from control charts, Chapter 8). However, sometimes it is useful to get an insight in the contributions of the subprocedures (and then these have to be determined separately). For instance if one wants to change (part of) the method.
+
+Because the "adding-up" of errors is usually not a simple summation, this will be discussed. The main distinction to be made is between random errors (precision) and systematic errors (bias).
+6.3.5.1. Propagation of random errors
+
+In estimating the total random error from factors in a final calculation, the treatment of summation or subtraction of factors is different from that of multiplication or division.
+
+I. Summation calculations
+
+If the final result x is obtained from the sum (or difference) of (sub)measurements a, b, c, etc.:
+
+x = a + b + c +...
+
+then the total precision is expressed by the standard deviation obtained by taking the square root of the sum of individual variances (squares of standard deviation):
+
+If a (sub)measurement has a constant multiplication factor or coefficient (such as an extra dilution), then this is included to calculate the effect of the variance concerned, e.g. (2b)2
+
+Example
+
+The Effective Cation Exchange Capacity of soils (ECEC) is obtained by summation of the exchangeable cations:
+
+ECEC = Exch. (Ca + Mg + Na + K + H + Al)
+
+Standard deviations experimentally obtained for exchangeable Ca, Mg, Na, K and (H + Al) on a certain sample, e.g. a control sample, are: 0.30, 0.25, 0.15, 0.15, and 0.60 cmolc/kg respectively. The total precision is:
+
+It can be seen that the total standard deviation is larger than the highest individual standard deviation, but (much) less than their sum. It is also clear that if one wants to reduce the total standard deviation, qualitatively the best result can be expected from reducing the largest individual contribution, in this case the exchangeable acidity.
+
+2. Multiplication calculations
+
+If the final result x is obtained from multiplication (or subtraction) of (sub)measurements according to
+
+then the total error is expressed by the standard deviation obtained by taking the square root of the sum of the individual relative standard deviations (RSD or CV, as a fraction or as percentage, see Eqs. 6.6 and 6.7):
+
+If a (sub)measurement has a constant multiplication factor or coefficient, then this is included to calculate the effect of the RSD concerned, e.g. (2RSDb)2.
+
+Example
+
+The calculation of Kjeldahl-nitrogen may be as follows:
+
+where
+
+    a = ml HCl required for titration sample
+    b = ml HCl required for titration blank
+    s = air-dry sample weight in gram
+    M = molarity of HCl
+    1.4 = 14×10-3×100% (14 = atomic weight of N)
+    mcf = moisture correction factor
+
+Note that in addition to multiplications, this calculation contains a subtraction also (often, calculations contain both summations and multiplications.)
+
+Firstly, the standard deviation of the titration (a -b) is determined as indicated in Section 7 above. This is then transformed to RSD using Equations (6.5) or (6.6). Then the RSD of the other individual parameters have to be determined experimentally. The found RSDs are, for instance:
+
+    distillation: 0.8%,
+    titration: 0.5%,
+    molarity: 0.2%,
+    sample weight: 0.2%,
+    mcf: 0.2%.
+
+The total calculated precision is:
+
+Here again, the highest RSD (of distillation) dominates the total precision. In practice, the precision of the Kjeldahl method is usually considerably worse (» 2.5%) probably mainly as a result of the heterogeneity of the sample. The present example does not take that into account. It would imply that 2.5% - 1.0% = 1.5% or 3/5 of the total random error is due to sample heterogeneity (or other overlooked cause). This implies that painstaking efforts to improve subprocedures such as the titration or the preparation of standard solutions may not be very rewarding. It would, however, pay to improve the homogeneity of the sample, e.g. by careful grinding and mixing in the preparatory stage.
+
+    Note. Sample heterogeneity is also represented in the moisture correction factor. However, the influence of this factor on the final result is usually very small.
+
+6.3.5.2 Propagation of systematic errors
+
+Systematic errors of (sub)measurements contribute directly to the total bias of the result since the individual parameters in the calculation of the final result each carry their own bias. For instance, the systematic error in a balance will cause a systematic error in the sample weight (as well as in the moisture determination). Note that some systematic errors may cancel out, e.g. weighings by difference may not be affected by a biased balance.
+
+The only way to detect or avoid systematic errors is by comparison (calibration) with independent standards and outside reference or control samples.
+6.4 Statistical tests
+
+    6.4.1 Two-sided vs. one-sided test
+    6.4.2 F-test for precision
+    6.4.3 t-Tests for bias
+    6.4.4 Linear correlation and regression
+    6.4.5 Analysis of variance (ANOVA)
+
+In analytical work a frequently recurring operation is the verification of performance by comparison of data. Some examples of comparisons in practice are:
+
+    - performance of two instruments,
+
+    - performance of two methods,
+
+    - performance of a procedure in different periods,
+
+    - performance of two analysts or laboratories,
+
+    - results obtained for a reference or control sample with the "true", "target" or "assigned" value of this sample.
+
+Some of the most common and convenient statistical tools to quantify such comparisons are the F-test, the t-tests, and regression analysis.
+
+Because the F-test and the t-tests are the most basic tests they will be discussed first. These tests examine if two sets of normally distributed data are similar or dissimilar (belong or not belong to the same "population") by comparing their standard deviations and means respectively. This is illustrated in Fig. 6-3.
+
+Fig. 6-3. Three possible cases when comparing two sets of data (n1 = n2). A. Different mean (bias), same precision; B. Same mean (no bias), different precision; C. Both mean and precision are different. (The fourth case, identical sets, has not been drawn).
+
+6.4.1 Two-sided vs. one-sided test
+
+These tests for comparison, for instance between methods A and B, are based on the assumption that there is no significant difference (the "null hypothesis"). In other words, when the difference is so small that a tabulated critical value of F or t is not exceeded, we can be confident (usually at 95% level) that A and B are not different. Two fundamentally different questions can be asked concerning both the comparison of the standard deviations s1 and s2 with the F-test, and of the means¯x1, and ¯x2, with the t-test:
+
+    1. are A and B different? (two-sided test)
+    2. is A higher (or lower) than B? (one-sided test).
+
+This distinction has an important practical implication as statistically the probabilities for the two situations are different: the chance that A and B are only different ("it can go two ways") is twice as large as the chance that A is higher (or lower) than B ("it can go only one way"). The most common case is the two-sided (also called two-tailed) test: there are no particular reasons to expect that the means or the standard deviations of two data sets are different. An example is the routine comparison of a control chart with the previous one (see 8.3). However, when it is expected or suspected that the mean and/or the standard deviation will go only one way, e.g. after a change in an analytical procedure, the one-sided (or one-tailed) test is appropriate. In this case the probability that it goes the other way than expected is assumed to be zero and, therefore, the probability that it goes the expected way is doubled. Or, more correctly, the uncertainty in the two-way test of 5% (or the probability of 5% that the critical value is exceeded) is divided over the two tails of the Gaussian curve (see Fig. 6-2), i.e. 2.5% at the end of each tail beyond 2s. If we perform the one-sided test with 5% uncertainty, we actually increase this 2.5% to 5% at the end of one tail. (Note that for the whole gaussian curve, which is symmetrical, this is then equivalent to an uncertainty of 10% in two ways!)
+
+This difference in probability in the tests is expressed in the use of two tables of critical values for both F and t. In fact, the one-sided table at 95% confidence level is equivalent to the two-sided table at 90% confidence level.
+
+It is emphasized that the one-sided test is only appropriate when a difference in one direction is expected or aimed at. Of course it is tempting to perform this test after the results show a clear (unexpected) effect. In fact, however, then a two times higher probability level was used in retrospect. This is underscored by the observation that in this way even contradictory conclusions may arise: if in an experiment calculated values of F and t are found within the range between the two-sided and one-sided values of Ftab, and ttab, the two-sided test indicates no significant difference, whereas the one-sided test says that the result of A is significantly higher (or lower) than that of B. What actually happens is that in the first case the 2.5% boundary in the tail was just not exceeded, and then, subsequently, this 2.5% boundary is relaxed to 5% which is then obviously more easily exceeded. This illustrates that statistical tests differ in strictness and that for proper interpretation of results in reports, the statistical techniques used, including the confidence limits or probability, should always be specified.
+6.4.2 F-test for precision
+
+Because the result of the F-test may be needed to choose between the Student's t-test and the Cochran variant (see next section), the F-test is discussed first.
+
+The F-test (or Fisher's test) is a comparison of the spread of two sets of data to test if the sets belong to the same population, in other words if the precisions are similar or dissimilar.
+
+The test makes use of the ratio of the two variances:
+
+
+
+(6.11)
+
+where the larger s2 must be the numerator by convention. If the performances are not very different, then the estimates s1, and s2, do not differ much and their ratio (and that of their squares) should not deviate much from unity. In practice, the calculated F is compared with the applicable F value in the F-table (also called the critical value, see Appendix 2). To read the table it is necessary to know the applicable number of degrees of freedom for s1, and s2. These are calculated by:
+
+    df1 = n1-1
+    df2 = n2-1
+
+If Fcal £ Ftab one can conclude with 95% confidence that there is no significant difference in precision (the "null hypothesis" that s1, = s, is accepted). Thus, there is still a 5% chance that we draw the wrong conclusion. In certain cases more confidence may be needed, then a 99% confidence table can be used, which can be found in statistical textbooks.
+
+Example I (two-sided test)
+
+Table 6-1 gives the data sets obtained by two analysts for the cation exchange capacity (CEC) of a control sample. Using Equation (6.11) the calculated F value is 1.62. As we had no particular reason to expect that the analysts would perform differently, we use the F-table for the two-sided test and find Ftab = 4.03 (Appendix 2, df1, = df2 = 9). This exceeds the calculated value and the null hypothesis (no difference) is accepted. It can be concluded with 95% confidence that there is no significant difference in precision between the work of Analyst 1 and 2.
+
+Table 6-1. CEC values (in cmolc/kg) of a control sample determined by two analysts.
+
+1
+
+
+2
+
+10.2
+
+
+9.7
+
+10.7
+
+
+9.0
+
+10.5
+
+
+10.2
+
+9.9
+
+
+10.3
+
+9.0
+
+
+10.8
+
+11.2
+
+
+11.1
+
+11.5
+
+
+9.4
+
+10.9
+
+
+9.2
+
+8.9
+
+
+9.8
+
+10.6
+
+
+10.2
+
+¯x:
+
+
+10.34
+
+
+9.97
+
+s:
+
+
+0.819
+
+
+0.644
+
+n:
+
+
+10
+
+
+10
+
+Fcal = 1.62
+
+
+tcal = 1.12
+
+
+
+Ftab = 4.03
+
+
+ttab = 2.10
+
+
+
+Example 2 (one-sided test)
+
+The determination of the calcium carbonate content with the Scheibler standard method is compared with the simple and more rapid "acid-neutralization" method using one and the same sample. The results are given in Table 6-2. Because of the nature of the rapid method we suspect it to produce a lower precision then obtained with the Scheibler method and we can, therefore, perform the one sided F-test. The applicable Ftab = 3.07 (App. 2, df1, = 12, df2 = 9) which is lower than Fcal (=18.3) and the null hypothesis (no difference) is rejected. It can be concluded (with 95% confidence) that for this one sample the precision of the rapid titration method is significantly worse than that of the Scheibler method.
+
+Table 6-2. Contents of CaCO3 (in mass/mass %) in a soil sample determined with the Scheibler method (A) and the rapid titration method (B).
+
+A
+
+
+B
+
+2.5
+
+
+1.7
+
+2.4
+
+
+1.9
+
+2.5
+
+
+2.3
+
+2.6
+
+
+2.3
+
+2.5
+
+
+2.8
+
+2.5
+
+
+2.5
+
+2.4
+
+
+1.6
+
+2.6
+
+
+1.9
+
+2.7
+
+
+2.6
+
+2.4
+
+
+1.7
+
+-
+
+
+2.4
+
+-
+
+
+2.2
+
+
+
+
+2.6
+
+x:
+
+
+2.51
+
+
+2.13
+
+s:
+
+
+0.099
+
+
+0.424
+
+n:
+
+
+10
+
+
+13
+
+Fcal = 18.3
+
+
+tcal = 3.12
+
+
+
+Ftab = 3.07
+
+
+ttab* = 2.18
+
+
+
+(ttab* = Cochran's "alternative" ttab)
+6.4.3 t-Tests for bias
+
+    6.4.3.1. Student's t-test
+    6.4.3.2 Cochran's t-test
+    6.4.3.3 t-Test for large data sets (n³ 30)
+    6.4.3.4 Paired t-test
+
+Depending on the nature of two sets of data (n, s, sampling nature), the means of the sets can be compared for bias by several variants of the t-test. The following most common types will be discussed:
+
+    1. Student's t-test for comparison of two independent sets of data with very similar standard deviations;
+
+    2. the Cochran variant of the t-test when the standard deviations of the independent sets differ significantly;
+
+    3. the paired t-test for comparison of strongly dependent sets of data.
+
+Basically, for the t-tests Equation (6.8) is used but written in a different way:
+
+
+
+(6.12)
+
+where
+
+    ¯x = mean of test results of a sample
+    m = "true" or reference value
+    s = standard deviation of test results
+    n = number of test results of the sample.
+
+To compare the mean of a data set with a reference value normally the "two-sided t-table of critical values" is used (Appendix 1). The applicable number of degrees of freedom here is:
+
+df = n-1
+
+If a value for t calculated with Equation (6.12) does not exceed the critical value in the table, the data are taken to belong to the same population: there is no difference and the "null hypothesis" is accepted (with the applicable probability, usually 95%).
+
+As with the F-test, when it is expected or suspected that the obtained results are higher or lower than that of the reference value, the one-sided t-test can be performed: if tcal > ttab, then the results are significantly higher (or lower) than the reference value.
+
+More commonly, however, the "true" value of proper reference samples is accompanied by the associated standard deviation and number of replicates used to determine these parameters. We can then apply the more general case of comparing the means of two data sets: the "true" value in Equation (6.12) is then replaced by the mean of a second data set. As is shown in Fig. 6-3, to test if two data sets belong to the same population it is tested if the two Gauss curves do sufficiently overlap. In other words, if the difference between the means ¯x1-¯x2 is small. This is discussed next.
+
+Similarity or non-similarity of standard deviations
+
+When using the t-test for two small sets of data (n1 and/or n2<30), a choice of the type of test must be made depending on the similarity (or non-similarity) of the standard deviations of the two sets. If the standard deviations are sufficiently similar they can be "pooled" and the Student t-test can be used. When the standard deviations are not sufficiently similar an alternative procedure for the t-test must be followed in which the standard deviations are not pooled. A convenient alternative is the Cochran variant of the t-test. The criterion for the choice is the passing or non-passing of the F-test (see 6.4.2), that is, if the variances do or do not significantly differ. Therefore, for small data sets, the F-test should precede the t-test.
+
+For dealing with large data sets (n1, n2,³ 30) the "normal" t-test is used (see Section 6.4.3.3 and App. 3).
+6.4.3.1. Student's t-test
+
+(To be applied to small data sets (n1, n2 < 30) where s1, and s2 are similar according to F-test.
+
+When comparing two sets of data, Equation (6.12) is rewritten as:
+
+
+
+(6.13)
+
+where
+
+    ¯x1 = mean of data set 1
+    ¯x2 = mean of data set 2
+    sp = "pooled" standard deviation of the sets
+    n1 = number of data in set 1
+    n2 = number of data in set 2.
+
+The pooled standard deviation sp is calculated by:
+
+
+
+6.14
+
+where
+
+    s1 = standard deviation of data set 1
+    s2 = standard deviation of data set 2
+    n1 = number of data in set 1
+    n2 = number of data in set 2.
+
+To perform the t-test, the critical ttab has to be found in the table (Appendix 1); the applicable number of degrees of freedom df is here calculated by:
+
+    df = n1 + n2 -2
+
+Example
+
+The two data sets of Table 6-1 can be used: With Equations (6.13) and (6.14) tcal, is calculated as 1.12 which is lower than the critical value ttab of 2.10 (App. 1, df = 18, two-sided), hence the null hypothesis (no difference) is accepted and the two data sets are assumed to belong to the same population: there is no significant difference between the mean results of the two analysts (with 95% confidence).
+
+    Note. Another illustrative way to perform this test for bias is to calculate if the difference between the means falls within or outside the range where this difference is still not significantly large. In other words, if this difference is less than the least significant difference (lsd). This can be derived from Equation (6.13):
+
+
+
+6.15
+
+In the present example of Table 6-1, the calculation yields lsd = 0.69. The measured difference between the means is 10.34 -9.97 = 0.37 which is smaller than the lsd indicating that there is no significant difference between the performance of the analysts.
+
+In addition, in this approach the 95% confidence limits of the difference between the means can be calculated (cf. Equation 6.8):
+
+confidence limits = 0.37 ± 0.69 = -0.32 and 1.06
+
+Note that the value 0 for the difference is situated within this confidence interval which agrees with the null hypothesis of x1 = x2 (no difference) having been accepted.
+6.4.3.2 Cochran's t-test
+
+To be applied to small data sets (n1, n2, < 30) where s1 and s2, are dissimilar according to F-test.
+
+Calculate t with:
+
+
+
+6.16
+
+Then determine an "alternative" critical t-value:
+
+
+
+6.17
+
+where
+
+    t1 = ttab at n1-1 degrees of freedom
+    t2 = ttab at n2-1 degrees of freedom
+
+Now the t-test can be performed as usual: if tcal< ttab* then the null hypothesis that the means do not significantly differ is accepted.
+
+Example
+
+The two data sets of Table 6-2 can be used.
+
+According to the F-test, the standard deviations differ significantly so that the Cochran variant must be used. Furthermore, in contrast to our expectation that the precision of the rapid test would be inferior, we have no idea about the bias and therefore the two-sided test is appropriate. The calculations yield tcal = 3.12 and ttab*= 2.18 meaning that tcal exceeds ttab* which implies that the null hypothesis (no difference) is rejected and that the mean of the rapid analysis deviates significantly from that of the standard analysis (with 95% confidence, and for this sample only). Further investigation of the rapid method would have to include the use of more different samples and then comparison with the one-sided t-test would be justified (see 6.4.3.4, Example 1).
+6.4.3.3 t-Test for large data sets (n³ 30)
+
+In the example above (6.4.3.2) the conclusion happens to have been the same if the Student's t-test with pooled standard deviations had been used. This is caused by the fact that the difference in result of the Student and Cochran variants of the t-test is largest when small sets of data are compared, and decreases with increasing number of data. Namely, with increasing number of data a better estimate of the real distribution of the population is obtained (the flatter t-distribution converges then to the standardized normal distribution). When n³ 30 for both sets, e.g. when comparing Control Charts (see 8.3), for all practical purposes the difference between the Student and Cochran variant is negligible. The procedure is then reduced to the "normal" t-test by simply calculating tcal with Eq. (6.16) and comparing this with ttab at df = n1 + n2-2. (Note in App. 1 that the two-sided ttab is now close to 2).
+
+The proper choice of the t-test as discussed above is summarized in a flow diagram in Appendix 3.
+6.4.3.4 Paired t-test
+
+When two data sets are not independent, the paired t-test can be a better tool for comparison than the "normal" t-test described in the previous sections. This is for instance the case when two methods are compared by the same analyst using the same sample(s). It could, in fact, also be applied to the example of Table 6-1 if the two analysts used the same analytical method at (about) the same time.
+
+As stated previously, comparison of two methods using different levels of analyte gives more validation information about the methods than using only one level. Comparison of results at each level could be done by the F and t-tests as described above. The paired t-test, however, allows for different levels provided the concentration range is not too wide. As a rule of fist, the range of results should be within the same magnitude. If the analysis covers a longer range, i.e. several powers of ten, regression analysis must be considered (see Section 6.4.4). In intermediate cases, either technique may be chosen.
+
+The null hypothesis is that there is no difference between the data sets, so the test is to see if the mean of the differences between the data deviates significantly from zero or not (two-sided test). If it is expected that one set is systematically higher (or lower) than the other set, then the one-sided test is appropriate.
+
+Example 1
+
+The "promising" rapid single-extraction method for the determination of the cation exchange capacity of soils using the silver thiourea complex (AgTU, buffered at pH 7) was compared with the traditional ammonium acetate method (NH4OAc, pH 7). Although for certain soil types the difference in results appeared insignificant, for other types differences seemed larger. Such a suspect group were soils with ferralic (oxic) properties (i.e. highly weathered sesquioxide-rich soils). In Table 6-3 the results often soils with these properties are grouped to test if the CEC methods give different results. The difference d within each pair and the parameters needed for the paired t-test are given also.
+
+Table 6-3. CEC values (in cmolc/kg) obtained by the NH4OAc and AgTU methods (both at pH 7) for ten soils with ferralic properties.
+
+Sample
+
+
+NH4OAc
+
+
+AgTU
+
+
+d
+
+1
+
+
+7.1
+
+
+6.5
+
+
+-0.6
+
+2
+
+
+4.6
+
+
+5.6
+
+
++1.0
+
+3
+
+
+10.6
+
+
+14.5
+
+
++3.9
+
+4
+
+
+2.3
+
+
+5.6
+
+
++3.3
+
+5
+
+
+25.2
+
+
+23.8
+
+
+-1.4
+
+6
+
+
+4.4
+
+
+10.4
+
+
++6.0
+
+7
+
+
+7.8
+
+
+8.4
+
+
++0.6
+
+8
+
+
+2.7
+
+
+5.5
+
+
++2.8
+
+9
+
+
+14.3
+
+
+19.2
+
+
++4.9
+
+10
+
+
+13.6
+
+
+15.0
+
+
++1.4
+
+¯d = +2.19
+
+
+tcal = 2.89
+
+sd = 2.395
+
+
+ttab = 2.26
+
+Using Equation (6.12) and noting that m d = 0 (hypothesis value of the differences, i.e. no difference), the t-value can be calculated as:
+
+where
+
+    = mean of differences within each pair of data
+    sd = standard deviation of the mean of differences
+    n = number of pairs of data
+
+The calculated t value (=2.89) exceeds the critical value of 1.83 (App. 1, df = n -1 = 9, one-sided), hence the null hypothesis that the methods do not differ is rejected and it is concluded that the silver thiourea method gives significantly higher results as compared with the ammonium acetate method when applied to such highly weathered soils.
+
+    Note. Since such data sets do not have a normal distribution, the "normal" t-test which compares means of sets cannot be used here (the means do not constitute a fair representation of the sets). For the same reason no information about the precision of the two methods can be obtained, nor can the F-test be applied. For information about precision, replicate determinations are needed.
+
+Example 2
+
+Table 6-4 shows the data of total-P in four plant tissue samples obtained by a laboratory L and the median values obtained by 123 laboratories in a proficiency (round-robin) test.
+
+Table 6-4. Total-P contents (in mmol/kg) of plant tissue as determined by 123 laboratories (Median) and Laboratory L.
+
+Sample
+
+
+Median
+
+
+Lab L
+
+
+d
+
+1
+
+
+93.0
+
+
+85.2
+
+
+-7.8
+
+2
+
+
+201
+
+
+224
+
+
+23
+
+3
+
+
+78.9
+
+
+84.5
+
+
+5.6
+
+4
+
+
+175
+
+
+185
+
+
+10
+
+¯d = 7.70
+
+
+tcal =1.21
+
+sd = 12.702
+
+
+ttab = 3.18
+
+To verify the performance of the laboratory a paired t-test can be performed:
+
+Using Eq. (6.12) and noting that m d=0 (hypothesis value of the differences, i.e. no difference), the t value can be calculated as:
+
+The calculated t-value is below the critical value of 3.18 (Appendix 1, df = n - 1 = 3, two-sided), hence the null hypothesis that the laboratory does not significantly differ from the group of laboratories is accepted, and the results of Laboratory L seem to agree with those of "the rest of the world" (this is a so-called third-line control).
+6.4.4 Linear correlation and regression
+
+    6.4.4.1 Construction of calibration graph
+    6.4.4.2 Comparing two sets of data using many samples at different analyte levels
+
+These also belong to the most common useful statistical tools to compare effects and performances X and Y. Although the technique is in principle the same for both, there is a fundamental difference in concept: correlation analysis is applied to independent factors: if X increases, what will Y do (increase, decrease, or perhaps not change at all)? In regression analysis a unilateral response is assumed: changes in X result in changes in Y, but changes in Y do not result in changes in X.
+
+For example, in analytical work, correlation analysis can be used for comparing methods or laboratories, whereas regression analysis can be used to construct calibration graphs. In practice, however, comparison of laboratories or methods is usually also done by regression analysis. The calculations can be performed on a (programmed) calculator or more conveniently on a PC using a home-made program. Even more convenient are the regression programs included in statistical packages such as Statistix, Mathcad, Eureka, Genstat, Statcal, SPSS, and others. Also, most spreadsheet programs such as Lotus 123, Excel, and Quattro-Pro have functions for this.
+
+Laboratories or methods are in fact independent factors. However, for regression analysis one factor has to be the independent or "constant" factor (e.g. the reference method, or the factor with the smallest standard deviation). This factor is by convention designated X, whereas the other factor is then the dependent factor Y (thus, we speak of "regression of Y on X").
+
+As was discussed in Section 6.4.3, such comparisons can often been done with the Student/Cochran or paired t-tests. However, correlation analysis is indicated:
+
+    1. When the concentration range is so wide that the errors, both random and systematic, are not independent (which is the assumption for the t-tests). This is often the case where concentration ranges of several magnitudes are involved.
+
+    2. When pairing is inappropriate for other reasons, notably a long time span between the two analyses (sample aging, change in laboratory conditions, etc.).
+
+The principle is to establish a statistical linear relationship between two sets of corresponding data by fitting the data to a straight line by means of the "least squares" technique. Such data are, for example, analytical results of two methods applied to the same samples (correlation), or the response of an instrument to a series of standard solutions (regression).
+
+    Note: Naturally, non-linear higher-order relationships are also possible, but since these are less common in analytical work and more complex to handle mathematically, they will not be discussed here. Nevertheless, to avoid misinterpretation, always inspect the kind of relationship by plotting the data, either on paper or on the computer monitor.
+
+The resulting line takes the general form:
+
+y = bx + a
+
+
+(6.18)
+
+where
+
+    a = intercept of the line with the y-axis
+    b = slope (tangent)
+
+In laboratory work ideally, when there is perfect positive correlation without bias, the intercept a = 0 and the slope = 1. This is the so-called "1:1 line" passing through the origin (dashed line in Fig. 6-5).
+
+If the intercept a ¹ 0 then there is a systematic discrepancy (bias, error) between X and Y; when b ¹ 1 then there is a proportional response or difference between X and Y.
+
+The correlation between X and Y is expressed by the correlation coefficient r which can be calculated with the following equation:
+
+
+
+6.19
+
+where
+
+    xi = data X
+    ¯x = mean of data X
+    yi = data Y
+    ¯y = mean of data Y
+
+It can be shown that r can vary from 1 to -1:
+
+    r = 1 perfect positive linear correlation
+    r = 0 no linear correlation (maybe other correlation)
+    r = -1 perfect negative linear correlation
+
+Often, the correlation coefficient r is expressed as r2: the coefficient of determination or coefficient of variance. The advantage of r2 is that, when multiplied by 100, it indicates the percentage of variation in Y associated with variation in X. Thus, for example, when r = 0.71 about 50% (r2 = 0.504) of the variation in Y is due to the variation in X.
+
+The line parameters b and a are calculated with the following equations:
+
+
+
+6.20
+
+and
+
+a = ¯y - b¯x
+
+
+6.21
+
+It is worth to note that r is independent of the choice which factor is the independent factory and which is the dependent Y. However, the regression parameters a and do depend on this choice as the regression lines will be different (except when there is ideal 1:1 correlation).
+6.4.4.1 Construction of calibration graph
+
+As an example, we take a standard series of P (0-1.0 mg/L) for the spectrophotometric determination of phosphate in a Bray-I extract ("available P"), reading in absorbance units. The data and calculated terms needed to determine the parameters of the calibration graph are given in Table 6-5. The line itself is plotted in Fig. 6-4.
+
+Table 6-5 is presented here to give an insight in the steps and terms involved. The calculation of the correlation coefficient r with Equation (6.19) yields a value of 0.997 (r2 = 0.995). Such high values are common for calibration graphs. When the value is not close to 1 (say, below 0.98) this must be taken as a warning and it might then be advisable to repeat or review the procedure. Errors may have been made (e.g. in pipetting) or the used range of the graph may not be linear. On the other hand, a high r may be misleading as it does not necessarily indicate linearity. Therefore, to verify this, the calibration graph should always be plotted, either on paper or on computer monitor.
+
+Using Equations (6.20 and (6.21) we obtain:
+
+and
+
+a = 0.350 - 0.313 = 0.037
+
+Thus, the equation of the calibration line is:
+
+y = 0.626x + 0.037
+
+
+(6.22)
+
+Table 6-5. Parameters of calibration graph in Fig. 6-4.
+
+xi
+
+
+yi
+
+
+x1-¯x
+
+
+(xi-¯x)2
+
+
+yi-¯y
+
+
+(yi-¯y)2
+
+
+(x1-¯x)(yi-¯y)
+
+0.0
+
+
+0.05
+
+
+-0.5
+
+
+0.25
+
+
+-0.30
+
+
+0.090
+
+
+0.150
+
+0.2
+
+
+0.14
+
+
+-0.3
+
+
+0.09
+
+
+-0.21
+
+
+0.044
+
+
+0.063
+
+0.4
+
+
+0.29
+
+
+-0.1
+
+
+0.01
+
+
+-0.06
+
+
+0.004
+
+
+0.006
+
+0.6
+
+
+0.43
+
+
+0.1
+
+
+0.01
+
+
+0.08
+
+
+0.006
+
+
+0.008
+
+0.8
+
+
+0.52
+
+
+0.3
+
+
+0.09
+
+
+0.17
+
+
+0.029
+
+
+0.051
+
+1.0
+
+
+0.67
+
+
+0.5
+
+
+0.25
+
+
+0.32
+
+
+0.102
+
+
+0.160
+
+3.0
+
+
+2.10
+
+
+0
+
+
+0.70
+
+
+0
+
+
+0.2754
+
+
+0.438 S
+
+¯x=0.5
+
+
+¯y = 0.35
+
+
+
+Fig. 6-4. Calibration graph plotted from data of Table 6-5. The dashed lines delineate the 95% confidence area of the graph. Note that the confidence is highest at the centroid of the graph.
+
+During calculation, the maximum number of decimals is used, rounding off to the last significant figure is done at the end (see instruction for rounding off in Section 8.2).
+
+Once the calibration graph is established, its use is simple: for each y value measured the corresponding concentration x can be determined either by direct reading or by calculation using Equation (6.22). The use of calibration graphs is further discussed in Section 7.2.2.
+
+    Note. A treatise of the error or uncertainty in the regression line is given.
+
+6.4.4.2 Comparing two sets of data using many samples at different analyte levels
+
+Although regression analysis assumes that one factor (on the x-axis) is constant, when certain conditions are met the technique can also successfully be applied to comparing two variables such as laboratories or methods. These conditions are:
+
+    - The most precise data set is plotted on the x-axis
+    - At least 6, but preferably more than 10 different samples are analyzed
+    - The samples should rather uniformly cover the analyte level range of interest.
+
+To decide which laboratory or method is the most precise, multi-replicate results have to be used to calculate standard deviations (see 6.4.2). If these are not available then the standard deviations of the present sets could be compared (note that we are now not dealing with normally distributed sets of replicate results). Another convenient way is to run the regression analysis on the computer, reverse the variables and run the analysis again. Observe which variable has the lowest standard deviation (or standard error of the intercept a, both given by the computer) and then use the results of the regression analysis where this variable was plotted on the x-axis.
+
+If the analyte level range is incomplete, one might have to resort to spiking or standard additions, with the inherent drawback that the original analyte-sample combination may not adequately be reflected.
+
+Example
+
+In the framework of a performance verification programme, a large number of soil samples were analyzed by two laboratories X and Y (a form of "third-line control", see Chapter 9) and the data compared by regression. (In this particular case, the paired t-test might have been considered also). The regression line of a common attribute, the pH, is shown here as an illustration. Figure 6-5 shows the so-called "scatter plot" of 124 soil pH-H2O determinations by the two laboratories. The correlation coefficient r is 0.97 which is very satisfactory. The slope (= 1.03) indicates that the regression line is only slightly steeper than the 1:1 ideal regression line. Very disturbing, however, is the intercept a of -1.18. This implies that laboratory Y measures the pH more than a whole unit lower than laboratory X at the low end of the pH range (the intercept -1.18 is at pHx = 0) which difference decreases to about 0.8 unit at the high end.
+
+Fig. 6-5. Scatter plot of pH data of two laboratories. Drawn line: regression line; dashed line: 1:1 ideal regression line.
+
+The t-test for significance is as follows:
+
+For intercept a: m a = 0 (null hypothesis: no bias; ideal intercept is then zero), standard error =0.14 (calculated by the computer), and using Equation (6.12) we obtain:
+
+Here, ttab = 1.98 (App. 1, two-sided, df = n - 2 = 122 (n-2 because an extra degree of freedom is lost as the data are used for both a and b) hence, the laboratories have a significant mutual bias.
+
+For slope: m b = 1 (ideal slope: null hypothesis is no difference), standard error = 0.02 (given by computer), and again using Equation (6.12) we obtain:
+
+Again, ttab = 1.98 (App. 1; two-sided, df = 122), hence, the difference between the laboratories is not significantly proportional (or: the laboratories do not have a significant difference in sensitivity). These results suggest that in spite of the good correlation, the two laboratories would have to look into the cause of the bias.
+
+    Note. In the present example, the scattering of the points around the regression line does not seem to change much over the whole range. This indicates that the precision of laboratory Y does not change very much over the range with respect to laboratory X. This is not always the case. In such cases, weighted regression (not discussed here) is more appropriate than the unweighted regression as used here.
+
+    Validation of a method (see Section 7.5) may reveal that precision can change significantly with the level of analyte (and with other factors such as sample matrix).
+
+6.4.5 Analysis of variance (ANOVA)
+
+When results of laboratories or methods are compared where more than one factor can be of influence and must be distinguished from random effects, then ANOVA is a powerful statistical tool to be used. Examples of such factors are: different analysts, samples with different pre-treatments, different analyte levels, different methods within one of the laboratories). Most statistical packages for the PC can perform this analysis.
+
+As a treatise of ANOVA is beyond the scope of the present Guidelines, for further discussion the reader is referred to statistical textbooks, some of which are given in the list of Literature.
+
+Error or uncertainty in the regression line
+
+The "fitting" of the calibration graph is necessary because the response points yi, composing the line do not fall exactly on the line. Hence, random errors are implied. This is expressed by an uncertainty about the slope and intercept b and a defining the line. A quantification can be found in the standard deviation of these parameters. Most computer programmes for regression will automatically produce figures for these. To illustrate the procedure, the example of the calibration graph in Section 6.4.3.1 is elaborated here.
+
+A practical quantification of the uncertainty is obtained by calculating the standard deviation of the points on the line; the "residual standard deviation" or "standard error of the y-estimate", which we assumed to be constant (but which is only approximately so, see Fig. 6-4):
+
+
+
+(6.23)
+
+where
+
+    = "fitted" y-value for each xi, (read from graph or calculated with Eq. 6.22). Thus, is the (vertical) deviation of the found y-values from the line.
+
+    n = number of calibration points.
+
+    Note: Only the y-deviations of the points from the line are considered. It is assumed that deviations in the x-direction are negligible. This is, of course, only the case if the standards are very accurately prepared.
+
+Now the standard deviations for the intercept a and slope b can be calculated with:
+
+
+
+6.24
+
+and
+
+
+
+6.25
+
+To make this procedure clear, the parameters involved are listed in Table 6-6.
+
+The uncertainty about the regression line is expressed by the confidence limits of a and b according to Eq. (6.9): a ± t.sa and b ± t.sb
+
+Table 6-6. Parameters for calculating errors due to calibration graph (use also figures of Table 6-5).
+
+xi
+
+
+yi
+
+
+
+
+
+
+0
+
+
+0.05
+
+
+0.037
+
+
+0.013
+
+
+0.0002
+
+0.2
+
+
+0.14
+
+
+0.162
+
+
+-0.022
+
+
+0.0005
+
+0.4
+
+
+0.29
+
+
+0.287
+
+
+0.003
+
+
+0.0000
+
+0.6
+
+
+0.43
+
+
+0.413
+
+
+0.017
+
+
+0.0003
+
+0.8
+
+
+0.52
+
+
+0.538
+
+
+-0.018
+
+
+0.0003
+
+1.0
+
+
+0.67
+
+
+0.663
+
+
+0.007
+
+
+0.0001
+
+
+
+
+
+
+
+
+
+
+
+
+
+0.001364 S
+
+In the present example, using Eq. (6.23), we calculate
+
+and, using Eq. (6.24) and Table 6-5:
+
+and, using Eq. (6.25) and Table 6-5:
+
+The applicable ttab is 2.78 (App. 1, two-sided, df = n -1 = 4) hence, using Eq. (6.9):
+
+    a = 0.037 ± 2.78 × 0.0132 = 0.037 ± 0.037
+    and
+    b = 0.626 ± 2.78 × 0.0219 = 0.626 ± 0.061
+
+Note that if sa is large enough, a negative value for a is possible, i.e. a negative reading for the blank or zero-standard. (For a discussion about the error in x resulting from a reading in y, which is particularly relevant for reading a calibration graph, see Section 7.2.3)
+
+The uncertainty about the line is somewhat decreased by using more calibration points (assuming sy has not increased): one more point reduces ttab from 2.78 to 2.57 (see Appendix 1).
+
+Correlation is a statistical technique that can show whether and how strongly pairs of variables are related. For example, height and weight are related; taller people tend to be heavier than shorter people. The relationship isn't perfect. People of the same height vary in weight, and you can easily think of two people you know where the shorter one is heavier than the taller one. Nonetheless, the average weight of people 5'5'' is less than the average weight of people 5'6'', and their average weight is less than that of people 5'7'', etc. Correlation can tell you just how much of the variation in peoples' weights is related to their heights.
+
+Although this correlation is fairly obvious your data may contain unsuspected correlations. You may also suspect there are correlations, but don't know which are the strongest. An intelligent correlation analysis can lead to a greater understanding of your data.
+Techniques in Determining Correlation
+
+There are several different correlation techniques. The Survey System's optional Statistics Module includes the most common type, called the Pearson or product-moment correlation. The module also includes a variation on this type called partial correlation. The latter is useful when you want to look at the relationship between two variables while removing the effect of one or two other variables.
+
+Like all statistical techniques, correlation is only appropriate for certain kinds of data. Correlation works for quantifiable data in which numbers are meaningful, usually quantities of some sort. It cannot be used for purely categorical data, such as gender, brands purchased, or favorite color.
+Rating Scales
+
+Rating scales are a controversial middle case. The numbers in rating scales have meaning, but that meaning isn't very precise. They are not like quantities. With a quantity (such as dollars), the difference between 1 and 2 is exactly the same as between 2 and 3. With a rating scale, that isn't really the case. You can be sure that your respondents think a rating of 2 is between a rating of 1 and a rating of 3, but you cannot be sure they think it is exactly halfway between. This is especially true if you labeled the mid-points of your scale (you cannot assume "good" is exactly half way between "excellent" and "fair").
+
+Most statisticians say you cannot use correlations with rating scales, because the mathematics of the technique assume the differences between numbers are exactly equal. Nevertheless, many survey researchers do use correlations with rating scales, because the results usually reflect the real world. Our own position is that you can use correlations with rating scales, but you should do so with care. When working with quantities, correlations provide precise measurements. When working with rating scales, correlations provide general indications.
+Correlation Coefficient
+
+The main result of a correlation is called the correlation coefficient (or "r"). It ranges from -1.0 to +1.0. The closer r is to +1 or -1, the more closely the two variables are related.
+
+If r is close to 0, it means there is no relationship between the variables. If r is positive, it means that as one variable gets larger the other gets larger. If r is negative it means that as one gets larger, the other gets smaller (often called an "inverse" correlation).
+
+While correlation coefficients are normally reported as r = (a value between -1 and +1), squaring them makes then easier to understand. The square of the coefficient (or r square) is equal to the percent of the variation in one variable that is related to the variation in the other. After squaring r, ignore the decimal point. An r of .5 means 25% of the variation is related (.5 squared =.25). An r value of .7 means 49% of the variance is related (.7 squared = .49).
+
+A correlation report can also show a second result of each test - statistical significance. In this case, the significance level will tell you how likely it is that the correlations reported may be due to chance in the form of random sampling error. If you are working with small sample sizes, choose a report format that includes the significance level. This format also reports the sample size.
+
+A key thing to remember when working with correlations is never to assume a correlation means that a change in one variable causes a change in another. Sales of personal computers and athletic shoes have both risen strongly in the last several years and there is a high correlation between them, but you cannot assume that buying computers causes people to buy athletic shoes (or vice versa).
+
+The second caveat is that the Pearson correlation technique works best with linear relationships: as one variable gets larger, the other gets larger (or smaller) in direct proportion. It does not work well with curvilinear relationships (in which the relationship does not follow a straight line). An example of a curvilinear relationship is age and health care. They are related, but the relationship doesn't follow a straight line. Young children and older people both tend to use much more health care than teenagers or young adults. Multiple regression (also included in the Statistics Module) can be used to examine curvilinear relationships, but it is beyond the scope of this article.
+The concept of big data has been around for years; most organizations now understand that if they capture all the data that streams into their businesses, they can apply analytics and get significant value from it. But even in the 1950s, decades before anyone uttered the term “big data,” businesses were using basic analytics (essentially numbers in a spreadsheet that were manually examined) to uncover insights and trends.
+
+The new benefits that big data analytics brings to the table, however, are speed and efficiency. Whereas a few years ago a business would have gathered information, run analytics and unearthed information that could be used for future decisions, today that business can identify insights for immediate decisions. The ability to work faster – and stay agile – gives organizations a competitive edge they didn’t have before.
+
+ 
+The Importance of Big Data Analytics Graphic
+Why is big data analytics important?
+
+Big data analytics helps organizations harness their data and use it to identify new opportunities. That, in turn, leads to smarter business moves, more efficient operations, higher profits and happier customers. In his report Big Data in Big Companies, IIA Director of Research Tom Davenport interviewed more than 50 businesses to understand how they used big data. He found they got value in the following ways:
+
+    Cost reduction. Big data technologies such as Hadoop and cloud-based analytics bring significant cost advantages when it comes to storing large amounts of data – plus they can identify more efficient ways of doing business.
+    Faster, better decision making. With the speed of Hadoop and in-memory analytics, combined with the ability to analyze new sources of data, businesses are able to analyze information immediately – and make decisions based on what they’ve learned.
+    New products and services. With the ability to gauge customer needs and satisfaction through analytics comes the power to give customers what they want. Davenport points out that with big data analytics, more companies are creating new products to meet customers’ needs.
+
+
+Analysis of data is a process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, suggesting conclusions, and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names, in different business, science, and social science domains.
+
+Data mining is a particular data analysis technique that focuses on modeling and knowledge discovery for predictive rather than purely descriptive purposes. Business intelligence covers data analysis that relies heavily on aggregation, focusing on business information. In statistical applications, some people divide data analysis into descriptive statistics, exploratory data analysis (EDA), and confirmatory data analysis (CDA). EDA focuses on discovering new features in the data and CDA on confirming or falsifying existing hypotheses. Predictive analytics focuses on application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural techniques to extract and classify information from textual sources, a species of unstructured data. All are varieties of data analysis.
+
+Data integration is a precursor to data analysis, and data analysis is closely linked to data visualization and data dissemination. The term data analysis is sometimes used as a synonym for data modeling.
+
+Contents
+
+    1 The process of data analysis
+        1.1 Data requirements
+        1.2 Data collection
+        1.3 Data processing
+        1.4 Data cleaning
+        1.5 Exploratory data analysis
+        1.6 Modeling and algorithms
+        1.7 Data product
+        1.8 Communication
+    2 Quantitative messages
+    3 Techniques for analyzing quantitative data
+    4 Analytical activities of data users
+    5 Barriers to effective analysis
+        5.1 Confusing fact and opinion
+        5.2 Cognitive biases
+        5.3 Innumeracy
+    6 Other topics
+        6.1 Analytics and business intelligence
+        6.2 Education
+    7 Practitioner notes
+        7.1 Initial data analysis
+            7.1.1 Quality of data
+            7.1.2 Quality of measurements
+            7.1.3 Initial transformations
+            7.1.4 Did the implementation of the study fulfill the intentions of the research design?
+            7.1.5 Characteristics of data sample
+            7.1.6 Final stage of the initial data analysis
+            7.1.7 Analysis
+            7.1.8 Nonlinear analysis
+        7.2 Main data analysis
+            7.2.1 Exploratory and confirmatory approaches
+            7.2.2 Stability of results
+            7.2.3 Statistical methods
+    8 Free software for data analysis
+    9 See also
+    10 References
+        10.1 Citations
+        10.2 Bibliography
+    11 Further reading
+
+The process of data analysis
+Data science process flowchart
+
+Analysis refers to breaking a whole into its separate components for individual examination. Data analysis is a process for obtaining raw data and converting it into information useful for decision-making by users. Data is collected and analyzed to answer questions, test hypotheses or disprove theories.[1]
+
+Statistician John Tukey defined data analysis in 1961 as: "Procedures for analyzing data, techniques for interpreting the results of such procedures, ways of planning the gathering of data to make its analysis easier, more precise or more accurate, and all the machinery and results of (mathematical) statistics which apply to analyzing data."[2]
+
+There are several phases that can be distinguished, described below. The phases are iterative, in that feedback from later phases may result in additional work in earlier phases.[3]
+Data requirements
+
+The data necessary as inputs to the analysis are specified based upon the requirements of those directing the analysis or customers who will use the finished product of the analysis. The general type of entity upon which the data will be collected is referred to as an experimental unit (e.g., a person or population of people). Specific variables regarding a population (e.g., age and income) may be specified and obtained. Data may be numerical or categorical (i.e., a text label for numbers).[3]
+Data collection
+
+Data is collected from a variety of sources. The requirements may be communicated by analysts to custodians of the data, such as information technology personnel within an organization. The data may also be collected from sensors in the environment, such as traffic cameras, satellites, recording devices, etc. It may also be obtained through interviews, downloads from online sources, or reading documentation.[3]
+Data processing
+The phases of the intelligence cycle used to convert raw information into actionable intelligence or knowledge are conceptually similar to the phases in data analysis.
+
+Data initially obtained must be processed or organized for analysis. For instance, this may involve placing data into rows and columns in a table format for further analysis, such as within a spreadsheet or statistical software.[3]
+Data cleaning
+
+Once processed and organized, the data may be incomplete, contain duplicates, or contain errors. The need for data cleaning will arise from problems in the way that data is entered and stored. Data cleaning is the process of preventing and correcting these errors. Common tasks include record matching, deduplication, and column segmentation.[4] Such data problems can also be identified through a variety of analytical techniques. For example, with financial information, the totals for particular variables may be compared against separately published numbers believed to be reliable.[5] Unusual amounts above or below pre-determined thresholds may also be reviewed. There are several types of data cleaning that depend on the type of data. Quantitative data methods for outlier detection can be used to get rid of likely incorrectly entered data. Textual data spellcheckers can be used to lessen the amount of mistyped words, but it is harder to tell if the words themselves are correct.[6]
+Exploratory data analysis
+
+Once the data is cleaned, it can be analyzed. Analysts may apply a variety of techniques referred to as exploratory data analysis to begin understanding the messages contained in the data.[7][8] The process of exploration may result in additional data cleaning or additional requests for data, so these activities may be iterative in nature. Descriptive statistics such as the average or median may be generated to help understand the data. Data visualization may also be used to examine the data in graphical format, to obtain additional insight regarding the messages within the data.[3]
+Modeling and algorithms
+
+Mathematical formulas or models called algorithms may be applied to the data to identify relationships among the variables, such as correlation or causation. In general terms, models may be developed to evaluate a particular variable in the data based on other variable(s) in the data, with some residual error depending on model accuracy (i.e., Data = Model + Error).[1]
+
+Inferential statistics includes techniques to measure relationships between particular variables. For example, regression analysis may be used to model whether a change in advertising (independent variable X) explains the variation in sales (dependent variable Y). In mathematical terms, Y (sales) is a function of X (advertising). It may be described as Y = aX + b + error, where the model is designed such that a and b minimize the error when the model predicts Y for a given range of values of X. Analysts may attempt to build models that are descriptive of the data to simplify analysis and communicate results.[1]
+Data product
+
+A data product is a computer application that takes data inputs and generates outputs, feeding them back into the environment. It may be based on a model or algorithm. An example is an application that analyzes data about customer purchasing history and recommends other purchases the customer might enjoy.[3]
+Communication
+Data visualization to understand the results of a data analysis.[9]
+Main article: Data visualization
+
+Once the data is analyzed, it may be reported in many formats to the users of the analysis to support their requirements. The users may have feedback, which results in additional analysis. As such, much of the analytical cycle is iterative.[3]
+
+When determining how to communicate the results, the analyst may consider data visualization techniques to help clearly and efficiently communicate the message to the audience. Data visualization uses information displays such as tables and charts to help communicate key messages contained in the data. Tables are helpful to a user who might lookup specific numbers, while charts (e.g., bar charts or line charts) may help explain the quantitative messages contained in the data.
+Quantitative messages
+Main article: Data visualization
+A time series illustrated with a line chart demonstrating trends in U.S. federal spending and revenue over time.
+A scatterplot illustrating correlation between two variables (inflation and unemployment) measured at points in time.
+
+Author Stephen Few described eight types of quantitative messages that users may attempt to understand or communicate from a set of data and the associated graphs used to help communicate the message. Customers specifying requirements and analysts performing the data analysis may consider these messages during the course of the process.
+
+    Time-series: A single variable is captured over a period of time, such as the unemployment rate over a 10-year period. A line chart may be used to demonstrate the trend.
+    Ranking: Categorical subdivisions are ranked in ascending or descending order, such as a ranking of sales performance (the measure) by sales persons (the category, with each sales person a categorical subdivision) during a single period. A bar chart may be used to show the comparison across the sales persons.
+    Part-to-whole: Categorical subdivisions are measured as a ratio to the whole (i.e., a percentage out of 100%). A pie chart or bar chart can show the comparison of ratios, such as the market share represented by competitors in a market.
+    Deviation: Categorical subdivisions are compared against a reference, such as a comparison of actual vs. budget expenses for several departments of a business for a given time period. A bar chart can show comparison of the actual versus the reference amount.
+    Frequency distribution: Shows the number of observations of a particular variable for given interval, such as the number of years in which the stock market return is between intervals such as 0-10%, 11-20%, etc. A histogram, a type of bar chart, may be used for this analysis.
+    Correlation: Comparison between observations represented by two variables (X,Y) to determine if they tend to move in the same or opposite directions. For example, plotting unemployment (X) and inflation (Y) for a sample of months. A scatter plot is typically used for this message.
+    Nominal comparison: Comparing categorical subdivisions in no particular order, such as the sales volume by product code. A bar chart may be used for this comparison.
+    Geographic or geospatial: Comparison of a variable across a map or layout, such as the unemployment rate by state or the number of persons on the various floors of a building. A cartogram is a typical graphic used.[10][11]
+
+Techniques for analyzing quantitative data
+See also: Problem solving
+
+Author Jonathan Koomey has recommended a series of best practices for understanding quantitative data. These include:
+
+    Check raw data for anomalies prior to performing your analysis;
+    Re-perform important calculations, such as verifying columns of data that are formula driven;
+    Confirm main totals are the sum of subtotals;
+    Check relationships between numbers that should be related in a predictable way, such as ratios over time;
+    Normalize numbers to make comparisons easier, such as analyzing amounts per person or relative to GDP or as an index value relative to a base year;
+    Break problems into component parts by analyzing factors that led to the results, such as DuPont analysis of return on equity.[5]
+
+For the variables under examination, analysts typically obtain descriptive statistics for them, such as the mean (average), median, and standard deviation. They may also analyze the distribution of the key variables to see how the individual values cluster around the mean.
+An illustration of the MECE principle used for data analysis.
+
+The consultants at McKinsey and Company named a technique for breaking a quantitative problem down into its component parts called the MECE principle. Each layer can be broken down into its components; each of the sub-components must be mutually exclusive of each other and collectively add up to the layer above them. The relationship is referred to as "Mutually Exclusive and Collectively Exhaustive" or MECE. For example, profit by definition can be broken down into total revenue and total cost. In turn, total revenue can be analyzed by its components, such as revenue of divisions A, B, and C (which are mutually exclusive of each other) and should add to the total revenue (collectively exhaustive).
+
+Analysts may use robust statistical measurements to solve certain analytical problems. Hypothesis testing is used when a particular hypothesis about the true state of affairs is made by the analyst and data is gathered to determine whether that state of affairs is true or false. For example, the hypothesis might be that "Unemployment has no effect on inflation", which relates to an economics concept called the Phillips Curve. Hypothesis testing involves considering the likelihood of Type I and type II errors, which relate to whether the data supports accepting or rejecting the hypothesis.
+
+Regression analysis may be used when the analyst is trying to determine the extent to which independent variable X affects dependent variable Y (e.g., "To what extent do changes in the unemployment rate (X) affect the inflation rate (Y)?"). This is an attempt to model or fit an equation line or curve to the data, such that Y is a function of X.
+
+Necessary condition analysis 
+(NCA) may be used when the analyst is trying to determine the extent to which independent variable X allows variable Y (e.g., "To what extent is a certain unemployment rate (X) necessary for a certain inflation rate (Y)?"). Whereas (multiple) regression analysis uses additive logic where each X-variable can produce the outcome and the X's can compensate for each other (they are sufficient but not necessary), necessary condition analysis (NCA) uses necessity logic, where one or more X-variables allow the outcome to exist, but may not produce it (they are necessary but not sufficient). Each single necessary condition must be present and compensation is not possible.
+Analytical activities of data users
+
+Users may have particular data points of interest within a data set, as opposed to general messaging outlined above. Such low-level user analytic activities are presented in the following table. The taxonomy can also be organized by three poles of activities: retrieving values, finding data points, and arranging data points.[12][13][14]
+# 	Task 	General
+Description 	Pro Forma
+Abstract 	Examples
+1 	Retrieve Value 	Given a set of specific cases, find attributes of those cases. 	What are the values of attributes {X, Y, Z, ...} in the data cases {A, B, C, ...}? 	- What is the mileage per gallon of the Audi TT?
+
+- How long is the movie Gone with the Wind?
+2 	Filter 	Given some concrete conditions on attribute values, find data cases satisfying those conditions. 	Which data cases satisfy conditions {A, B, C...}? 	- What Kellogg's cereals have high fiber?
+
+- What comedies have won awards?
+
+- Which funds underperformed the SP-500?
+3 	Compute Derived Value 	Given a set of data cases, compute an aggregate numeric representation of those data cases. 	What is the value of aggregation function F over a given set S of data cases? 	- What is the average calorie content of Post cereals?
+
+- What is the gross income of all stores combined?
+
+- How many manufacturers of cars are there?
+4 	Find Extremum 	Find data cases possessing an extreme value of an attribute over its range within the data set. 	What are the top/bottom N data cases with respect to attribute A? 	- What is the car with the highest MPG?
+
+- What director/film has won the most awards?
+
+- What Robin Williams film has the most recent release date?
+5 	Sort 	Given a set of data cases, rank them according to some ordinal metric. 	What is the sorted order of a set S of data cases according to their value of attribute A? 	- Order the cars by weight.
+
+- Rank the cereals by calories.
+6 	Determine Range 	Given a set of data cases and an attribute of interest, find the span of values within the set. 	What is the range of values of attribute A in a set S of data cases? 	- What is the range of film lengths?
+
+- What is the range of car horsepowers?
+
+- What actresses are in the data set?
+7 	Characterize Distribution 	Given a set of data cases and a quantitative attribute of interest, characterize the distribution of that attribute’s values over the set. 	What is the distribution of values of attribute A in a set S of data cases? 	- What is the distribution of carbohydrates in cereals?
+
+- What is the age distribution of shoppers?
+8 	Find Anomalies 	Identify any anomalies within a given set of data cases with respect to a given relationship or expectation, e.g. statistical outliers. 	Which data cases in a set S of data cases have unexpected/exceptional values? 	- Are there exceptions to the relationship between horsepower and acceleration?
+
+- Are there any outliers in protein?
+9 	Cluster 	Given a set of data cases, find clusters of similar attribute values. 	Which data cases in a set S of data cases are similar in value for attributes {X, Y, Z, ...}? 	- Are there groups of cereals w/ similar fat/calories/sugar?
+
+- Is there a cluster of typical film lengths?
+10 	Correlate 	Given a set of data cases and two attributes, determine useful relationships between the values of those attributes. 	What is the correlation between attributes X and Y over a given set S of data cases? 	- Is there a correlation between carbohydrates and fat?
+
+- Is there a correlation between country of origin and MPG?
+
+- Do different genders have a preferred payment method?
+
+- Is there a trend of increasing film length over the years?
+Barriers to effective analysis
+
+Barriers to effective analysis may exist among the analysts performing the data analysis or among the audience. Distinguishing fact from opinion, cognitive biases, and innumeracy are all challenges to sound data analysis.
+Confusing fact and opinion
+
+You are entitled to your own opinion, but you are not entitled to your own facts.
+Daniel Patrick Moynihan
+
+Effective analysis requires obtaining relevant facts to answer questions, support a conclusion or formal opinion, or test hypotheses. Facts by definition are irrefutable, meaning that any person involved in the analysis should be able to agree upon them. For example, in August 2010, the Congressional Budget Office (CBO) estimated that extending the Bush tax cuts of 2001 and 2003 for the 2011-2020 time period would add approximately $3.3 trillion to the national debt.[15] Everyone should be able to agree that indeed this is what CBO reported; they can all examine the report. This makes it a fact. Whether persons agree or disagree with the CBO is their own opinion.
+
+As another example, the auditor of a public company must arrive at a formal opinion on whether financial statements of publicly traded corporations are "fairly stated, in all material respects." This requires extensive analysis of factual data and evidence to support their opinion. When making the leap from facts to opinions, there is always the possibility that the opinion is erroneous.
+Cognitive biases
+
+There are a variety of cognitive biases that can adversely effect analysis. For example, confirmation bias is the tendency to search for or interpret information in a way that confirms one's preconceptions. In addition, individuals may discredit information that does not support their views.
+
+Analysts may be trained specifically to be aware of these biases and how to overcome them. In his book Psychology of Intelligence Analysis, retired CIA analyst Richards Heuer wrote that analysts should clearly delineate their assumptions and chains of inference and specify the degree and source of the uncertainty involved in the conclusions. He emphasized procedures to help surface and debate alternative points of view.[16]
+Innumeracy
+
+Effective analysts are generally adept with a variety of numerical techniques. However, audiences may not have such literacy with numbers or numeracy; they are said to be innumerate. Persons communicating the data may also be attempting to mislead or misinform, deliberately using bad numerical techniques.[17]
+
+For example, whether a number is rising or falling may not be the key factor. More important may be the number relative to another number, such as the size of government revenue or spending relative to the size of the economy (GDP) or the amount of cost relative to revenue in corporate financial statements. This numerical technique is referred to as normalization[5] or common-sizing. There are many such techniques employed by analysts, whether adjusting for inflation (i.e., comparing real vs. nominal data) or considering population increases, demographics, etc. Analysts apply a variety of techniques to address the various quantitative messages described in the section above.
+
+Analysts may also analyze data under different assumptions or scenarios. For example, when analysts perform financial statement analysis, they will often recast the financial statements under different assumptions to help arrive at an estimate of future cash flow, which they then discount to present value based on some interest rate, to determine the valuation of the company or its stock. Similarly, the CBO analyzes the effects of various policy options on the government's revenue, outlays and deficits, creating alternative future scenarios for key measures.
+Other topics
+Analytics and business intelligence
+Main article: Analytics
+
+Analytics is the "extensive use of data, statistical and quantitative analysis, explanatory and predictive models, and fact-based management to drive decisions and actions." It is a subset of business intelligence, which is a set of technologies and processes that use data to understand and analyze business performance.[18]
+Education
+Analytic activities of data visualization users
+
+In education, most educators have access to a data system for the purpose of analyzing student data.[19] These data systems present data to educators in an over-the-counter data format (embedding labels, supplemental documentation, and a help system and making key package/display and content decisions) to improve the accuracy of educators’ data analyses.[20]
+Practitioner notes
+
+This section contains rather technical explanations that may assist practitioners but are beyond the typical scope of a Wikipedia article.
+Initial data analysis
+
+The most important distinction between the initial data analysis phase and the main analysis phase, is that during initial data analysis one refrains from any analysis that is aimed at answering the original research question. The initial data analysis phase is guided by the following four questions:[21]
+Quality of data
+
+The quality of the data should be checked as early as possible. Data quality can be assessed in several ways, using different types of analysis: frequency counts, descriptive statistics (mean, standard deviation, median), normality (skewness, kurtosis, frequency histograms, n: variables are compared with coding schemes of variables external to the data set, and possibly corrected if coding schemes are not comparable.
+
+    Test for common-method variance.
+
+The choice of analyses to assess the data quality during the initial data analysis phase depends on the analyses that will be conducted in the main analysis phase.[22]
+Quality of measurements
+
+The quality of the measurement instruments should only be checked during the initial data analysis phase when this is not the focus or research question of the study. One should check whether structure of measurement instruments corresponds to structure reported in the literature.
+There are two ways to assess measurement
+
+    Analysis of homogeneity (internal consistency), which gives an indication of the reliability of a measurement instrument. During this analysis, one inspects the variances of the items and the scales, the Cronbach's α of the scales, and the change in the Cronbach's alpha when an item would be deleted from a scale.[23]
+
+Initial transformations
+
+After assessing the quality of the data and of the measurements, one might decide to impute missing data, or to perform initial transformations of one or more variables, although this can also be done during the main analysis phase.[24]
+Possible transformations of variables are:[25]
+
+    Square root transformation (if the distribution differs moderately from normal)
+    Log-transformation (if the distribution differs substantially from normal)
+    Inverse transformation (if the distribution differs severely from normal)
+    Make categorical (ordinal / dichotomous) (if the distribution differs severely from normal, and no transformations help)
+
+Did the implementation of the study fulfill the intentions of the research design?
+
+One should check the success of the randomization procedure, for instance by checking whether background and substantive variables are equally distributed within and across groups.
+If the study did not need or use a randomization procedure, one should check the success of the non-random sampling, for instance by checking whether all subgroups of the population of interest are represented in sample.
+Other possible data distortions that should be checked are:
+
+    dropout (this should be identified during the initial data analysis phase)
+    Item nonresponse (whether this is random or not should be assessed during the initial data analysis phase)
+    Treatment quality (using manipulation checks).[26]
+
+Characteristics of data sample
+
+In any report or article, the structure of the sample must be accurately described. It is especially important to exactly determine the structure of the sample (and specifically the size of the subgroups) when subgroup analyses will be performed during the main analysis phase.
+The characteristics of the data sample can be assessed by looking at:
+
+    Basic statistics of important variables
+    Scatter plots
+    Correlations and associations
+    Cross-tabulations[27]
+
+Final stage of the initial data analysis
+
+During the final stage, the findings of the initial data analysis are documented, and necessary, preferable, and possible corrective actions are taken.
+Also, the original plan for the main data analyses can and should be specified in more detail or rewritten.
+In order to do this, several decisions about the main data analyses can and should be made:
+
+    In the case of non-normals: should one transform variables; make variables categorical (ordinal/dichotomous); adapt the analysis method?
+    In the case of missing data: should one neglect or impute the missing data; which imputation technique should be used?
+    In the case of outliers: should one use robust analysis techniques?
+    In case items do not fit the scale: should one adapt the measurement instrument by omitting items, or rather ensure comparability with other (uses of the) measurement instrument(s)?
+    In the case of (too) small subgroups: should one drop the hypothesis about inter-group differences, or use small sample techniques, like exact tests or bootstrapping?
+    In case the randomization procedure seems to be defective: can and should one calculate propensity scores and include them as covariates in the main analyses?[28]
+
+Analysis
+
+Several analyses can be used during the initial data analysis phase:[29]
+
+    Univariate statistics (single variable)
+    Bivariate associations (correlations)
+    Graphical techniques (scatter plots)
+
+It is important to take the measurement levels of the variables into account for the analyses, as special statistical techniques are available for each level:[30]
+
+    Nominal and ordinal variables
+        Frequency counts (numbers and percentages)
+        Associations
+            circumambulations (crosstabulations)
+            hierarchical loglinear analysis (restricted to a maximum of 8 variables)
+            loglinear analysis (to identify relevant/important variables and possible confounders)
+        Exact tests or bootstrapping (in case subgroups are small)
+        Computation of new variables
+    Continuous variables
+        Distribution
+            Statistics (M, SD, variance, skewness, kurtosis)
+            Stem-and-leaf displays
+            Box plots
+
+Nonlinear analysis
+
+Nonlinear analysis will be necessary when the data is recorded from a nonlinear system. Nonlinear systems can exhibit complex dynamic effects including bifurcations, chaos, harmonics and subharmonics that cannot be analyzed using simple linear methods. Nonlinear data analysis is closely related to nonlinear system identification.[31]
+Main data analysis
+
+In the main analysis phase analyses aimed at answering the research question are performed as well as any other relevant analysis needed to write the first draft of the research report.[32]
+Exploratory and confirmatory approaches
+
+In the main analysis phase either an exploratory or confirmatory approach can be adopted. Usually the approach is decided before data is collected. In an exploratory analysis no clear hypothesis is stated before analysing the data, and the data is searched for models that describe the data well. In a confirmatory analysis clear hypotheses about the data are tested.
+
+Exploratory data analysis should be interpreted carefully. When testing multiple models at once there is a high chance on finding at least one of them to be significant, but this can be due to a type 1 error. It is important to always adjust the significance level when testing multiple models with, for example, a Bonferroni correction. Also, one should not follow up an exploratory analysis with a confirmatory analysis in the same dataset. An exploratory analysis is used to find ideas for a theory, but not to test that theory as well. When a model is found exploratory in a dataset, then following up that analysis with a confirmatory analysis in the same dataset could simply mean that the results of the confirmatory analysis are due to the same type 1 error that resulted in the exploratory model in the first place. The confirmatory analysis therefore will not be more informative than the original exploratory analysis.[33]
+Stability of results
+
+It is important to obtain some indication about how generalizable the results are.[34] While this is hard to check, one can look at the stability of the results. Are the results reliable and reproducible? There are two main ways of doing this:
+
+    Cross-validation: By splitting the data in multiple parts we can check if an analysis (like a fitted model) based on one part of the data generalizes to another part of the data as well.
+    Sensitivity analysis: A procedure to study the behavior of a system or model when global parameters are (systematically) varied. One way to do this is with bootstrapping.
+
+Statistical methods
+
+Many statistical methods have been used for statistical analyses. A very brief list of four of the more popular methods is:
+
+    General linear model: A widely used model on which various methods are based (e.g. t test, ANOVA, ANCOVA, MANOVA). Usable for assessing the effect of several predictors on one or more continuous dependent variables.
+    Generalized linear model: An extension of the general linear model for discrete dependent variables.
+    Structural equation modelling: Usable for assessing latent structures from measured manifest variables.
+    Item response theory: Models for (mostly) assessing one latent variable from several binary measured variables (e.g. an exam).
+
+Free software for data analysis
+
+    NCA Calculator 
+    - a simple online calculator for finding necessary but not sufficient conditions in datasets
+    NCA Software 
+    - R package for finding necessary but not sufficient conditions in datasets
+    Data Applied - an online data mining and data visualization solution.
+    DataMelt - a multiplatform (Java-based) data analysis framework from the jWork.ORG 
+    community of developers led by Dr. S.Chekanov
+    DevInfo - a database system endorsed by the United Nations Development Group for monitoring and analyzing human development.
+    ELKI - data mining framework in Java with data mining oriented visualization functions.
+    KNIME - the Konstanz Information Miner, a user friendly and comprehensive data analytics framework.
+    MEPX 
+    - cross platform tool for regression and classification problems.
+    PAW - FORTRAN/C data analysis framework developed at CERN
+    Orange - A visual programming tool featuring interactive data visualization and methods for statistical data analysis, data mining, and machine learning.
+    QSoas - An open source, command-driven program for analyzing y=f(x) data (noise removal, baseline corrections, global fitting the solutions of differential equations or kinetic schemes, and more). Binaries available for Mac OSX and Windows. http://www.qsoas.org 
+    [35]
+    R - a programming language and software environment for statistical computing and graphics.
+    ROOT - C++ data analysis framework developed at CERN
+    dotplot - cloud based visual designer to create analytic models[36]
+    SciPy - A set of Python tools for data analysis http://scipy.org/stackspec.html 
+    Statsmodels - a Python module that allows users to explore data, estimate statistical models, and perform statistical tests http://statsmodels.sourceforge.net/ 
+    Pandas - A software library written for the Python programming language for data manipulation and analysis.
+    myInvenio [37]- a cloud based solution to automatically discover processes from event logs.
+
+See also
+Portal icon 	statistics portal
+
+    Analytics
+    Business intelligence
+    Censoring (statistics)
+    Computational physics
+    Data acquisition
+    Data governance
+    Data mining
+    Data Presentation Architecture
+    Data science
+    Digital signal processing
+    Dimension reduction
+    Early case assessment
+    Exploratory data analysis
+    Fourier analysis
+    Machine learning
+    Multilinear PCA
+    Multilinear subspace learning
+    Multiway Data Analysis
+    Nearest neighbor search
+    nonlinear system identification
+    Predictive analytics
+    Principal component analysis
+    Qualitative research
+    Scientific computing
+    Structured data analysis (statistics)
+    system identification
+    Test method
+    Text analytics
+    Unstructured data
+    Wavelet
+
+
+
+
+
+
+In the Information Age, data is no longer scarce – it’s overpowering. The key is to sift through the overwhelming volume of data available to organizations and businesses and correctly interpret its implications. But to sort through all this information, you need the right statistical data analysis tools.
+
+With the current obsession over “big data,” analysts have produced a lot of fancy tools and techniques available to large organizations. However, there are a handful of basic data analysis tools that most organizations aren’t using…to their detriment.
+
+We suggest starting your data analysis efforts with the following five fundamentals – and learn to avoid their pitfalls – before advancing to more sophisticated techniques.
+1. Mean
+
+The arithmetic mean, more commonly known as “the average,” is the sum of a list of numbers divided by the number of items on the list. The mean is useful in determining the overall trend of a data set or providing a rapid snapshot of your data. Another advantage of the mean is that it’s very easy and quick to calculate.
+
+Pitfall:
+
+Taken alone, the mean is a dangerous tool. In some data sets, the mean is also closely related to the mode and the median (two other measurements near the average). However, in a data set with a high number of outliers or a skewed distribution, the mean simply doesn’t provide the accuracy you need for a nuanced decision.
+2. Standard Deviation
+
+The standard deviation, often represented with the Greek letter sigma, is the measure of a spread of data around the mean. A high standard deviation signifies that data is spread more widely from the mean, where a low standard deviation signals that more data align with the mean. In a portfolio of data analysis methods, the standard deviation is useful for quickly determining dispersion of data points.
+
+Pitfall:
+
+Just like the mean, the standard deviation is deceptive if taken alone. For example, if the data have a very strange pattern such as a non-normal curve or a large amount of outliers, then the standard deviation won’t give you all the information you need.
+3. Regression
+
+Regression models the relationships between dependent and explanatory variables, which are usually charted on a scatterplot. The regression line also designates whether those relationships are strong or weak. Regression is commonly taught in high school or college statistics courses with applications for science or business in determining trends over time.
+
+Pitfall:
+
+Regression is not very nuanced. Sometimes, the outliers on a scatterplot (and the reasons for them) matter significantly. For example, an outlying data point may represent the input from your most critical supplier or your highest selling product. The nature of a regression line, however, tempts you to ignore these outliers. As an illustration, examine a picture of Anscombe’s quartet, in which the data sets have the exact same regression line but include widely different data points.
+4. Sample Size Determination
+
+When measuring a large data set or population, like a workforce, you don’t always need to collect information from every member of that population – a sample does the job just as well. The trick is to determine the right size for a sample to be accurate. Using proportion and standard deviation methods, you are able to accurately determine the right sample size you need to make your data collection statistically significant.
+
+Pitfall:
+
+When studying a new, untested variable in a population, your proportion equations might need to rely on certain assumptions. However, these assumptions might be completely inaccurate. This error is then passed along to your sample size determination and then onto the rest of your statistical data analysis
+5. Hypothesis Testing
+
+Also commonly called t testing, hypothesis testing assesses if a certain premise is actually true for your data set or population. In data analysis and statistics, you consider the result of a hypothesis test statistically significant if the results couldn’t have happened by random chance. Hypothesis tests are used in everything from science and research to business and economic
+
+Pitfall:
+
+To be rigorous, hypothesis tests need to watch out for common errors. For example, the placebo effect occurs when participants falsely expect a certain result and then perceive (or actually attain) that result. Another common error is the Hawthorne effect (or observer effect), which happens when participants skew results because they know they are being studied.
+
+Overall, these methods of data analysis add a lot of insight to your decision-making portfolio, particularly if you’ve never analyzed a process or data set with statistics before. However, avoiding the common pitfalls associated with each method is just as important. Once you master these fundamental techniques for statistical data analysis, then you’re ready to advance to more powerful data analysis tools.
+Statistical software are specialized computer programs for analysis in statistics and econometrics.
+
+Contents
+
+    1 Open-source
+    2 Public domain
+    3 Freeware
+    4 Proprietary
+        4.1 Add-ons
+    5 See also
+    6 References
+    7 External links
+
+Open-source
+gretl is an example of an open-source statistical package
+
+    ADaMSoft – a generalized statistical software with data mining algorithms and methods for data management
+    ADMB – a software suite for non-linear statistical modeling based on C++ which uses automatic differentiation
+    Bayesian Filtering Library
+    Chronux – for neurobiological time series data
+    CBEcon – web-based econometrics and statistical software
+    DataMelt (DMelt) – Java-based statistical analysis framework for scientists and engineers. It includes an IDE
+    DAP – free replacement for SAS
+    Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) a software framework for developing data mining algorithms in Java
+    Fityk – nonlinear regression software (GUI and command line)
+    GNU Octave – programming language very similar to MATLAB with statistical features
+    gretl – gnu regression, econometrics and time-series library
+    intrinsic Noise Analyzer (iNA) – For analyzing intrinsic fluctuations in biochemical systems
+    JASP – A free software alternative to IBM SPSS Statistics with additional option for Bayesian methods
+    Just another Gibbs sampler (JAGS) – a program for analyzing Bayesian hierarchical models using Markov chain Monte Carlo developed by Martyn Plummer. It is similar to WinBUGS
+    JMulTi
+    LDT - Automatic Time Series Analysis with Stationary VAR Models
+    LIBSVM – C++ support vector machine libraries
+    MLPACK (C++ library) – open-source library for machine learning, exploits C++ language features to provide maximum performance and flexibility while providing a simple and consistent application programming interface (API)
+    Mondrian – data analysis tool using interactive statistical graphics with a link to R
+    Neurophysiological Biomarker Toolbox - Matlab toolbox for data-mining of neurophysiological biomarkers
+    OpenBUGS
+    OpenEpi – A web-based, open-source, operating-independent series of programs for use in epidemiology and statistics based on JavaScript and HTML
+    OpenNN – A software library written in the programming language C++ which implements neural networks, a main area of deep learning research
+    OpenMx – A package for structural equation modeling running in R (programming language)
+    Orange, a data mining, machine learning, and bioinformatics software
+    Pandas – High-performance computing (HPC) data structures and data analysis tools for Python in Python and Cython (statsmodels, scikit-learn)
+    Perl Data Language – Scientific computing with Perl
+    Ploticus – software for generating a variety of graphs from raw data
+    PSPP – A free software alternative to IBM SPSS Statistics
+    R – free implementation of the S (programming language)
+        Programming with Big Data in R (pbdR) – a series of R packages enhanced by SPMD parallelism for big data analysis
+        R Commander – GUI interface for R
+        Rattle GUI – GUI interface for R
+        Revolution Analytics – production-grade software for the enterprise big data analytics
+        RStudio – GUI interface and development environment for R
+    ROOT – an open-source C++ system for data storage, processing and analysis, developed by CERN and used to find the Higgs boson
+    Salstat - menu-driven statistics software
+    Scilab – uses GPL-compatible CeCILL license
+    SciPy – Python library for scientific computing that contains the stats sub-package which is partly based on the venerable |STAT (a.k.a. PipeStat, formerly UNIX|STAT) software
+        scikit-learn - extends SciPy with a host of machine learning models (classification, clustering, regression, etc.)
+        statsmodels - extends SciPy with statistical models and tests (regression, plotting, example datasets, generalized linear model (GLM), time series analysis, autoregressive–moving-average model (ARMA), vector autoregression (VAR), non-parametric statistics, ANOVA, empirical likelihood)
+    Shogun (toolbox) – open-source, large-scale machine learning toolbox that provides several SVM (Support Vector Machine) implementations (like libSVM, SVMlight) under a common framework and interfaces to Octave, MATLAB, Python, R
+    Simfit – simulation, curve fitting, statistics, and plotting
+    SOCR
+    SOFA Statistics – desktop GUI program focused on ease of use, learn as you go, and beautiful output
+    Stan (software) – open-source package for obtaining Bayesian inference using the No-U-Turn sampler, a variant of Hamiltonian Monte Carlo. It’s somewhat like BUGS, but with a different language for expressing models and a different sampler for sampling from their posteriors
+    Statistical Lab – R-based and focusing on educational purposes
+    Torch (machine learning) – a deep learning software library written in Lua (programming language)
+    Weka (machine learning) – a suite of machine learning software written at the University of Waikato
+
+Public domain
+
+    CSPro
+    Epi Info
+    X-12-ARIMA
+
+Freeware
+
+    BV4.1
+    GeoDA
+    MaxStat Lite – general statistical software
+    MINUIT
+    WinBUGS – Bayesian analysis using Markov chain Monte Carlo methods
+    Winpepi – package of statistical programs for epidemiologists
+
+Proprietary
+
+    Analytica - visual analytics and statistics package
+    Angoss - products KnowledgeSEEKER and KnowledgeSTUDIO incorporate several data mining algorithms
+    ASReml – for restricted maximum likelihood analyses
+    BMDP – general statistics package
+    Data Applied – for building statistical models
+    DB Lytix - 800+ in-database models
+    EViews – for econometric analysis
+    FAME (database) – a system for managing time-series databases
+    GAUSS – programming language for statistics
+    Genedata – software solution for integration and interpretation of experimental data in the life science R&D
+    GenStat – general statistics package
+    GLIM – early package for fitting generalized linear models
+    GraphPad InStat – very simple with lots of guidance and explanations
+    GraphPad Prism – biostatistics and nonlinear regression with clear explanations
+    IMSL Numerical Libraries – software library with statistical algorithms
+    JMP – visual analysis and statistics package
+    LIMDEP – comprehensive statistics and econometrics package
+    LISREL – statistics package used in structural equation modeling
+    Maple – programming language with statistical features
+    Mathematica – a software package with statistical particularlyŋ features
+    MATLAB – programming language with statistical features
+    MaxStat Pro – general statistical software
+    MedCalc – for biomedical sciences
+    Microfit – econometrics package, time series
+    Minitab – general statistics package
+    MLwiN – multilevel models (free to UK academics)
+    NAG Numerical Library – comprehensive math and statistics library
+    Neural Designer – commercial deep learning package
+    NCSS – general statistics package
+    NLOGIT – comprehensive statistics and econometrics package
+    NMath Stats – statistical package for .NET Framework
+    O-Matrix – programming language
+    OriginPro – statistics and graphing, programming access to NAG library
+    PASS Sample Size Software (PASS) – power and sample size software from NCSS
+    Plotly – plotting library and styling interface for analyzing data and creating browser-based graphs. Available for R, Python, MATLAB, Julia, and Perl
+    Primer-E Primer – environmental and ecological specific
+    PV-WAVE – programming language comprehensive data analysis and visualization with IMSL statistical package
+    Qlucore Omics Explorer - interactive and visual data analysis software
+    Quantum Programming Language – part of the SPSS MR product line, mostly for data validation and tabulation in Marketing and Opinion Research
+    RapidMiner – machine learning toolbox
+    Regression Analysis of Time Series (RATS) – comprehensive econometric analysis package
+    SAS (software) – comprehensive statistical package
+    SHAZAM (Econometrics and Statistics Software) – comprehensive econometrics and statistics package
+    Simul - econometric tool for multidimensional (multi-sectoral, multi-regional) modeling
+    SigmaStat – package for group analysis
+    SmartPLS - statistics package used in partial least squares path modeling (PLS) and PLS-based structural equation modeling
+    SOCR – online tools for teaching statistics and probability theory
+    Speakeasy (computational environment) – numerical computational environment and programming language with many statistical and econometric analysis features
+    SPSS Modeler – comprehensive data mining and text analytics workbench
+    SPSS Statistics – comprehensive statistics package that stands for "Statistical Package for the Social Sciences"
+    Stata – comprehensive statistics package
+    Statgraphics – general statistics package to include cloud computing and Six Sigma for use in business development, process improvement, data visualization and statistical analysis, design of experiment, point processes, geospatial analysis, regression, and time series analysis are all included within this complete statistical package.
+    Statistica – comprehensive statistics package
+    StatsDirect – statistics package designed for biomedical, public health and general health science uses
+    StatXact – package for exact nonparametric and parametric statistics
+    Systat – general statistics package
+    SuperCROSS - comprehensive statistics package with ad-hoc, cross tabulation analysis
+    S-PLUS – general statistics package
+    Unistat – general statistics package that can also work as Excel add-in
+    The Unscrambler - free-to-try commercial multivariate analysis software for Windows
+    Wolfram Language[1] - the computer language that evolved from the program Mathematica. It has similar statistical capabilities as Mathematica.
+    World Programming System (WPS) – statistical package that supports the SAS language
+    XploRe
+
+Add-ons
+
+    Analyse-it – add-on to Microsoft Excel for statistical analysis
+    NumXL – add-on to Microsoft Excel for statistical and time series analysis
+    SigmaXL – add-on to Microsoft Excel for statistical and graphical analysis
+    SPC XL – add-on to Microsoft Excel for general statistics
+    Statgraphics Sigma Express - add-on to Microsoft Excel for Six Sigma statistical analysis
+    SUDAAN – add-on to SAS and SPSS for statistical surveys
+    XLfit add-on to Microsoft Excel for curve fitting and statistical analysis
+
+See also
+
+    Comparison of statistical packages
+    Econometric software
+    Free statistical software
+    List of computer algebra systems
+    List of graphing software
+    List of numerical analysis software
+    List of numerical libraries
+    Mathematical software
+    Psychometric software
+
+Statistical Techniques
+
+Statistical studies allow analysts to estimate key parameters of cost or production models. Econometric analyses require a large data set to ensure reliable results.  Obtaining the number of observations needed to derive an efficient and unbiased estimate of cost (or production) structures can often prove to be a difficult task.  Regression results are sensitive to model specification (for example, a linear vs. a non-linear functional form).  In addition, for some models, the interpretation of the error term becomes important.
+
+
+The early studies tended to utilize Ordinary Least Squares (OLS) to estimate cost functions for firms.  Due to data limitations, most of these studies were cross-sectional in nature.  Besides using data from only a single year researchers utilized data from England and Wales or from the United States. These academic studies often focused on the relative performance of private vs. publicly-owned water and sewerage utilities.  In addition, they investigated the extent of scale economies and economies of joint production (providing both water and sewerage services).  In some cases, they considered the impacts of residential vs. industrial/commercial customers.
+
+
+As data from Brazil, Peru, and other emerging nations became available, additional country studies were publishedoften using more advanced econometric (parametric) or non-parametric data analysis techniques. Studies of utilities in France, Italy, and other nations began to appear in the academic literature. Techniques associated with Stochastic Frontier Analysis began to be applied to both production functions and cost functions.  Panel data facilitated the incorporation of customer density, topology, and other variables.
+
+
+The most commonly used parametric methods are ordinary least squares (OLS) ,  corrected ordinary least squares (COLS) models and  Stochastic Frontier Analysis (SFA). The main difference between these models is that COLS attributes all the deviations to inefficiency while SFA models attribute part of the deviations to inefficiency and part of the deviations to random noise. In other words, the SFA models take both inefficiency and random noise into account. The most widely used stochastic frontier models include the stochastic production frontier model, stochastic cost frontier model, and stochastic distance function model. Before selecting a specific model, analysts have to make an initial choice between the two most widely used functional forms: Cobb-Douglas function and translog function.
+
+
+Ordinary least squares (OLS) models
+
+OLS techniques can be used to perform benchmarking that relates individual firm performance relative to what would be expected: an estimate of an average production or cost function of a sample of firms.  Average benchmarking methods may be used to compare firms with relatively similar costs or when there is a lack of sufficient data of comparable firms for the application of frontier methods.  Basically, the method refers to the estimation of a regression functional form for costs or production using the OLS approach.  Linear regression analysis seeks to derive a relationship between firm performance (in terms of output or total cost) and market conditions and characteristics of the production processes.  Statistical analysis can isolate the impacts of specific conditions or levels of outputso the roles of multiple independent variables can be determined.  Data from the firms being compared can then be used to arrive at expected dimensions of firm performance, given the variables characterizing each firm.
+
+
+The technique of regression analysis is defined by the following steps: 1) selecting both the cost (or output) measure and exogenous variables, 2) estimating a cost (or production) function for the industry, and 3) calculating the efficiency coefficient for each firm within the industry.  Predicted versus actual output provides a measure of relative performance.  The quality of these results can then be statistically evaluated to provide the policy-maker with a framework for evaluating firms. The linear vs. non-linear issue can be examined by including parameters that capture scale economies or diseconomies. 
+
+    Advantages:  The statistical method reveals information about cost structures and distinguishes between different variables’ roles in affecting output.  Coefficients can be interpreted in terms of cost drivers or how inputs contribute to output.
+
+    Disadvantages:  Large data set is necessary in order to obtain reliable results.  The regression results are sensitive to functional form if the error term is not adequately interpreted, which can lead to widely varying conclusions, depending on how the regression is initially set up. 
+
+    Application:  The UK water regulator OFWAT applies mean and average methods to the operating costs (OPEX) and capital expenditures (CAPEX) of water utilities when determining the price caps every five years. OFWAT has developed an efficiency analysis relying on mean and average methods that is a key part of its price determination process.
+
+
+Corrected ordinary least squares (COLS) models
+
+A slightly different approach than OLS involves shifting the line towards the best performing company, which is called Corrected Least Squares methodology (COLS).  In a general sense, COLS is merely a shifted average function. Two steps are needed, one to get the expected value of the error term and another to shift or to “center” the equation.
+
+
+When using OLS or COLS it is good practice to perform Quantile analysis. Quantile analysis helps to overcome the possible effect of outliers on the estimated mean allowing the analyst to detect the presence of performers on specific or extreme quantiles such as the lower (25%) or the upper (75%) quantiles.
+
+    Advantages: The statistical method reveals information about cost structures and distinguishes between different variables’ roles in affecting output.  The adjustment turns the OLS into a “frontier” approach.
+
+    Disadvantages: As with OLS, a large data set is necessary in order to obtain reliable results.  The regression results are sensitive to functional form if the error term is not adequately interpreted, which can lead to widely varying conclusions depending on how the regression is initially set up.  Furthermore, the results are especially sensitive to outliers, since the “best” performer along any dimension serves as the anchor for the estimate.  Thus, the performance scores are very sensitive to outliers.
+
+    Application:  Most studies that analyze frontier relationships utilize Stochastic Frontier Analysis (SFA).  Some simplicity is then lost, but tests of the sources of different types of errors can be identified with SFA.
+
+
+
+Ordinary least squares (OLS) models
+
+Stochastic Frontier Analysis attempts to estimate an efficient frontier which does incorporates the possibility of measurement error or chance factors in its estimation. To separate inefficiency and noise, strong assumptions are needed on the distribution of noise among each observed firm.  Stochastic frontiers may be classified as Production, Cost, and Input Distance frontiers.
+
+
+A production frontier reveals technical relationships between inputs and outputs of firms and represents an alternative when cost frontiers can not be calculated due to lack of data. The estimated output is the maximum possible output for given inputs of an individual firm.  The output difference obtained in the estimation is interpreted as technical inefficiency of each individual firm.  On a production frontier, variable returns to scale is the sensible option and appropriate scale efficiency changes need to be included when calculating total factor productivity.
+
+
+A cost frontier shows costs as a function of the level of output/s and the prices of inputs. It is useful when trying to access the wedge between tariff and minimum costs. Conceptually, the minimum cost function defines a frontier showing costs technically possible associated with various levels of inputs and control variables.  Total cost frontier rather than variable or expenditure cost frontier is preferable to account for substitutability of factor inputs.  Separate models for CAPEX and OPEX do not allow for allocation of expenditures between operating and capital expenditure.  Cost efficiency contains the effects of technical and allocative efficiency.
+
+
+Each approach (production or cost) may yield different results.  The difference will be larger if large allocative distortions are present.  In this case, the parameters of the cost frontier will be biased.  An important factor to consider when choosing between a cost frontier and a production frontier is that usually regulated firms are required to provide the service at a preset tariff and they must meet demand.  In this sense, firms are not allowed to choose their own level of output which makes output an exogenous variable.  The regulated firm maximizes benefits by minimizing its costs of producing a given level of output.  Cost is the choice variable for the firm so a cost frontier approach is a more sensible choice.
+
+
+Finally, an input distance frontier is the natural option for regulated industries where output quantity is exogenous and input quantities are endogenous, and when the nature of the technology is multiple outputs or there is not data available on price of inputs.  This is the case for water and sewerage as different outputs under the same firm where their provision comes from shared inputs which jointly determine the production function.
+
+
+A distance function may have either an input or an output orientation.  An input orientation looks at how much the input vector may be proportionally contracted with the output vector held fixed. An output orientation looks at how much the output vector may be proportionally expanded with the input vector held fixed.   Input distance functions can be estimated by either stochastic or DEA methods. The advantage of a distance frontier with regard to a cost frontier is that firm is not assumed to be minimizing costs. With respect to production frontier is that it avoids the endogenous problem.
+
+    Advantages of Stochastic Frontiers:  Accounts for data noise such as data errors and omitted variables.  Standard statistical tests can be used to test hypotheses on model specification and significance of the variables included on the model.  It is also more amenable to modeling effects of other variables (e.g., environment, quality)
+
+    Disadvantages of Stochastic Frontiers: There is a need of functional form and production technology specification. Also, the separation of noise and inefficiency relies on strong assumptions on the distribution of the error term
+
+    Application: A number of studies utilize these techniques, such as the relative efficiency of public and private water companies in East Asia and the Pacific. 
+
+Statistics is the study of the collection, analysis, interpretation, presentation, and organization of data.[1] In applying statistics to, e.g., a scientific, industrial, or social problem, it is conventional to begin with a statistical population or a statistical model process to be studied. Populations can be diverse topics such as "all people living in a country" or "every atom composing a crystal". Statistics deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments.[1]
+
+Some popular definitions are:
+
+    Merriam-Webster dictionary defines statistics as "classified facts representing the conditions of a people in a state – especially the facts that can be stated in numbers or any other tabular or classified arrangement[2]".
+    Statistician Sir Arthur Lyon Bowley defines statistics as "Numerical statements of facts in any department of inquiry placed in relation to each other[3]".
+
+When census data cannot be collected, statisticians collect data by developing specific experiment designs and survey samples. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation.
+
+Two main statistical methodologies are used in data analysis: descriptive statistics, which summarizes data from a sample using indexes such as the mean or standard deviation, and inferential statistics, which draws conclusions from data that are subject to random variation (e.g., observational errors, sampling variation).[4] Descriptive statistics are most often concerned with two sets of properties of a distribution (sample or population): central tendency (or location) seeks to characterize the distribution's central or typical value, while dispersion (or variability) characterizes the extent to which members of the distribution depart from its center and each other. Inferences on mathematical statistics are made under the framework of probability theory, which deals with the analysis of random phenomena.
+
+A standard statistical procedure involves the test of the relationship between two statistical data sets, or a data set and a synthetic data drawn from idealized model. A hypothesis is proposed for the statistical relationship between the two data sets, and this is compared as an alternative to an idealized null hypothesis of no relationship between two data sets. Rejecting or disproving the null hypothesis is done using statistical tests that quantify the sense in which the null can be proven false, given the data that are used in the test. Working from a null hypothesis, two basic forms of error are recognized: Type I errors (null hypothesis is falsely rejected giving a "false positive") and Type II errors (null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative").[5] Multiple problems have come to be associated with this framework: ranging from obtaining a sufficient sample size to specifying an adequate null hypothesis.[citation needed]
+
+Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.
+
+Statistics can be said to have begun in ancient civilization, going back at least to the 5th century BC, but it was not until the 18th century that it started to draw more heavily from calculus and probability theory. Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.
+Contents
+
+    1 Scope
+        1.1 Mathematical statistics
+    2 Overview
+    3 Data collection
+        3.1 Sampling
+        3.2 Experimental and observational studies
+    4 Types of data
+    5 Terminology and theory of inferential statistics
+        5.1 Statistics, estimators and pivotal quantities
+        5.2 Null hypothesis and alternative hypothesis
+        5.3 Error
+        5.4 Interval estimation
+        5.5 Significance
+        5.6 Examples
+    6 Misuse
+        6.1 Misinterpretation: correlation
+    7 History of statistical science
+    8 Applications
+        8.1 Applied statistics, theoretical statistics and mathematical statistics
+        8.2 Machine learning and data mining
+        8.3 Statistics in society
+        8.4 Statistical computing
+        8.5 Statistics applied to mathematics or the arts
+    9 Specialized disciplines
+    10 See also
+    11 References
+    12 Further reading
+    13 External links
+
+Scope
+
+Statistics is a mathematical body of science that pertains to the collection, analysis, interpretation or explanation, and presentation of data,[6] or as a branch of mathematics.[7] Some consider statistics to be a distinct mathematical science rather than a branch of mathematics. While many scientific investigations make use of data, statistics is concerned with the use of data in the context of uncertainty and decision making in the face of uncertainty.[8][9]
+Mathematical statistics
+Main article: Mathematical statistics
+
+Mathematical statistics is the application of mathematics to statistics, which was originally conceived as the science of the state — the collection and analysis of facts about a country: its economy, land, military, population, and so forth. Mathematical techniques used for this include mathematical analysis, linear algebra, stochastic analysis, differential equations, and measure-theoretic probability theory.[10][11]
+Overview
+
+In applying statistics to a problem, it is common practice to start with a population or process to be studied. Populations can be diverse topics such as "all persons living in a country" or "every atom composing a crystal".
+
+Ideally, statisticians compile data about the entire population (an operation called census). This may be organized by governmental statistical institutes. Descriptive statistics can be used to summarize the population data. Numerical descriptors include mean and standard deviation for continuous data types (like income), while frequency and percentage are more useful in terms of describing categorical data (like race).
+
+When a census is not feasible, a chosen subset of the population called a sample is studied. Once a sample that is representative of the population is determined, data is collected for the sample members in an observational or experimental setting. Again, descriptive statistics can be used to summarize the sample data. However, the drawing of the sample has been subject to an element of randomness, hence the established numerical descriptors from the sample are also due to uncertainty. To still draw meaningful conclusions about the entire population, inferential statistics is needed. It uses patterns in the sample data to draw inferences about the population represented, accounting for randomness. These inferences may take the form of: answering yes/no questions about the data (hypothesis testing), estimating numerical characteristics of the data (estimation), describing associations within the data (correlation) and modeling relationships within the data (for example, using regression analysis). Inference can extend to forecasting, prediction and estimation of unobserved values either in or associated with the population being studied; it can include extrapolation and interpolation of time series or spatial data, and can also include data mining.
+Data collection
+Sampling
+
+When full census data cannot be collected, statisticians collect sample data by developing specific experiment designs and survey samples. Statistics itself also provides tools for prediction and forecasting the use of data through statistical models. To use a sample as a guide to an entire population, it is important that it truly represents the overall population. Representative sampling assures that inferences and conclusions can safely extend from the sample to the population as a whole. A major problem lies in determining the extent that the sample chosen is actually representative. Statistics offers methods to estimate and correct for any bias within the sample and data collection procedures. There are also methods of experimental design for experiments that can lessen these issues at the outset of a study, strengthening its capability to discern truths about the population.
+
+Sampling theory is part of the mathematical discipline of probability theory. Probability is used in mathematical statistics to study the sampling distributions of sample statistics and, more generally, the properties of statistical procedures. The use of any statistical method is valid when the system or population under consideration satisfies the assumptions of the method. The difference in point of view between classic probability theory and sampling theory is, roughly, that probability theory starts from the given parameters of a total population to deduce probabilities that pertain to samples. Statistical inference, however, moves in the opposite direction—inductively inferring from samples to the parameters of a larger or total population.
+Experimental and observational studies
+
+A common goal for a statistical research project is to investigate causality, and in particular to draw a conclusion on the effect of changes in the values of predictors or independent variables on dependent variables. There are two major types of causal statistical studies: experimental studies and observational studies. In both types of studies, the effect of differences of an independent variable (or variables) on the behavior of the dependent variable are observed. The difference between the two types lies in how the study is actually conducted. Each can be very effective. An experimental study involves taking measurements of the system under study, manipulating the system, and then taking additional measurements using the same procedure to determine if the manipulation has modified the values of the measurements. In contrast, an observational study does not involve experimental manipulation. Instead, data are gathered and correlations between predictors and response are investigated. While the tools of data analysis work best on data from randomized studies, they are also applied to other kinds of data – like natural experiments and observational studies[12] – for which a statistician would use a modified, more structured estimation method (e.g., Difference in differences estimation and instrumental variables, among many others) that produce consistent estimators.
+Experiments
+
+The basic steps of a statistical experiment are:
+
+    Planning the research, including finding the number of replicates of the study, using the following information: preliminary estimates regarding the size of treatment effects, alternative hypotheses, and the estimated experimental variability. Consideration of the selection of experimental subjects and the ethics of research is necessary. Statisticians recommend that experiments compare (at least) one new treatment with a standard treatment or control, to allow an unbiased estimate of the difference in treatment effects.
+    Design of experiments, using blocking to reduce the influence of confounding variables, and randomized assignment of treatments to subjects to allow unbiased estimates of treatment effects and experimental error. At this stage, the experimenters and statisticians write the experimental protocol that will guide the performance of the experiment and which specifies the primary analysis of the experimental data.
+    Performing the experiment following the experimental protocol and analyzing the data following the experimental protocol.
+    Further examining the data set in secondary analyses, to suggest new hypotheses for future study.
+    Documenting and presenting the results of the study.
+
+Experiments on human behavior have special concerns. The famous Hawthorne study examined changes to the working environment at the Hawthorne plant of the Western Electric Company. The researchers were interested in determining whether increased illumination would increase the productivity of the assembly line workers. The researchers first measured the productivity in the plant, then modified the illumination in an area of the plant and checked if the changes in illumination affected productivity. It turned out that productivity indeed improved (under the experimental conditions). However, the study is heavily criticized today for errors in experimental procedures, specifically for the lack of a control group and blindness. The Hawthorne effect refers to finding that an outcome (in this case, worker productivity) changed due to observation itself. Those in the Hawthorne study became more productive not because the lighting was changed but because they were being observed.[13]
+Observational study
+
+An example of an observational study is one that explores the association between smoking and lung cancer. This type of study typically uses a survey to collect observations about the area of interest and then performs statistical analysis. In this case, the researchers would collect observations of both smokers and non-smokers, perhaps through a case-control study, and then look for the number of cases of lung cancer in each group.
+Types of data
+Main articles: Statistical data type and Levels of measurement
+
+Various attempts have been made to produce a taxonomy of levels of measurement. The psychophysicist Stanley Smith Stevens defined nominal, ordinal, interval, and ratio scales. Nominal measurements do not have meaningful rank order among values, and permit any one-to-one transformation. Ordinal measurements have imprecise differences between consecutive values, but have a meaningful order to those values, and permit any order-preserving transformation. Interval measurements have meaningful distances between measurements defined, but the zero value is arbitrary (as in the case with longitude and temperature measurements in Celsius or Fahrenheit), and permit any linear transformation. Ratio measurements have both a meaningful zero value and the distances between different measurements defined, and permit any rescaling transformation.
+
+Because variables conforming only to nominal or ordinal measurements cannot be reasonably measured numerically, sometimes they are grouped together as categorical variables, whereas ratio and interval measurements are grouped together as quantitative variables, which can be either discrete or continuous, due to their numerical nature. Such distinctions can often be loosely correlated with data type in computer science, in that dichotomous categorical variables may be represented with the Boolean data type, polytomous categorical variables with arbitrarily assigned integers in the integral data type, and continuous variables with the real data type involving floating point computation. But the mapping of computer science data types to statistical data types depends on which categorization of the latter is being implemented.
+
+Other categorizations have been proposed. For example, Mosteller and Tukey (1977)[14] distinguished grades, ranks, counted fractions, counts, amounts, and balances. Nelder (1990)[15] described continuous counts, continuous ratios, count ratios, and categorical modes of data. See also Chrisman (1998),[16] van den Berg (1991).[17]
+
+The issue of whether or not it is appropriate to apply different kinds of statistical methods to data obtained from different kinds of measurement procedures is complicated by issues concerning the transformation of variables and the precise interpretation of research questions. "The relationship between the data and what they describe merely reflects the fact that certain kinds of statistical statements may have truth values which are not invariant under some transformations. Whether or not a transformation is sensible to contemplate depends on the question one is trying to answer" (Hand, 2004, p. 82).[18]
+Terminology and theory of inferential statistics
+Statistics, estimators and pivotal quantities
+
+Consider independent identically distributed (IID) random variables with a given probability distribution: standard statistical inference and estimation theory defines a random sample as the random vector given by the column vector of these IID variables.[19] The population being examined is described by a probability distribution that may have unknown parameters.
+
+A statistic is a random variable that is a function of the random sample, but not a function of unknown parameters. The probability distribution of the statistic, though, may have unknown parameters.
+
+Consider now a function of the unknown parameter: an estimator is a statistic used to estimate such function. Commonly used estimators include sample mean, unbiased sample variance and sample covariance.
+
+A random variable that is a function of the random sample and of the unknown parameter, but whose probability distribution does not depend on the unknown parameter is called a pivotal quantity or pivot. Widely used pivots include the z-score, the chi square statistic and Student's t-value.
+
+Between two estimators of a given parameter, the one with lower mean squared error is said to be more efficient. Furthermore, an estimator is said to be unbiased if its expected value is equal to the true value of the unknown parameter being estimated, and asymptotically unbiased if its expected value converges at the limit to the true value of such parameter.
+
+Other desirable properties for estimators include: UMVUE estimators that have the lowest variance for all possible values of the parameter to be estimated (this is usually an easier property to verify than efficiency) and consistent estimators which converges in probability to the true value of such parameter.
+
+This still leaves the question of how to obtain estimators in a given situation and carry the computation, several methods have been proposed: the method of moments, the maximum likelihood method, the least squares method and the more recent method of estimating equations.
+Null hypothesis and alternative hypothesis
+
+Interpretation of statistical information can often involve the development of a null hypothesis which is usually (but not necessarily) that no relationship exists among variables or that no change occurred over time.[20][21]
+
+The best illustration for a novice is the predicament encountered by a criminal trial. The null hypothesis, H0, asserts that the defendant is innocent, whereas the alternative hypothesis, H1, asserts that the defendant is guilty. The indictment comes because of suspicion of the guilt. The H0 (status quo) stands in opposition to H1 and is maintained unless H1 is supported by evidence "beyond a reasonable doubt". However, "failure to reject H0" in this case does not imply innocence, but merely that the evidence was insufficient to convict. So the jury does not necessarily accept H0 but fails to reject H0. While one can not "prove" a null hypothesis, one can test how close it is to being true with a power test, which tests for type II errors.
+
+What statisticians call an alternative hypothesis is simply an hypothesis that contradicts the null hypothesis.
+Error
+
+Working from a null hypothesis, two basic forms of error are recognized:
+
+    Type I errors where the null hypothesis is falsely rejected giving a "false positive".
+    Type II errors where the null hypothesis fails to be rejected and an actual difference between populations is missed giving a "false negative".
+
+Standard deviation refers to the extent to which individual observations in a sample differ from a central value, such as the sample or population mean, while Standard error refers to an estimate of difference between sample mean and population mean.
+
+A statistical error is the amount by which an observation differs from its expected value, a residual is the amount an observation differs from the value the estimator of the expected value assumes on a given sample (also called prediction).
+
+Mean squared error is used for obtaining efficient estimators, a widely used class of estimators. Root mean square error is simply the square root of mean squared error.
+A least squares fit: in red the points to be fitted, in blue the fitted line.
+
+Many statistical methods seek to minimize the residual sum of squares, and these are called "methods of least squares" in contrast to Least absolute deviations. The latter gives equal weight to small and big errors, while the former gives more weight to large errors. Residual sum of squares is also differentiable, which provides a handy property for doing regression. Least squares applied to linear regression is called ordinary least squares method and least squares applied to nonlinear regression is called non-linear least squares. Also in a linear regression model the non deterministic part of the model is called error term, disturbance or more simply noise. Both linear regression and non-linear regression are addressed in polynomial least squares, which also describes the variance in a prediction of the dependent variable (y axis) as a function of the independent variable (x axis) and the deviations (errors, noise, disturbances) from the estimated (fitted) curve.
+
+Measurement processes that generate statistical data are also subject to error. Many of these errors are classified as random (noise) or systematic (bias), but other types of errors (e.g., blunder, such as when an analyst reports incorrect units) can also be important. The presence of missing data and/or censoring may result in biased estimates and specific techniques have been developed to address these problems.[22]
+Interval estimation
+Main article: Interval estimation
+Confidence intervals: the red line is true value for the mean in this example, the blue lines are random confidence intervals for 100 realizations.
+
+Most studies only sample part of a population, so results don't fully represent the whole population. Any estimates obtained from the sample only approximate the population value. Confidence intervals allow statisticians to express how closely the sample estimate matches the true value in the whole population. Often they are expressed as 95% confidence intervals. Formally, a 95% confidence interval for a value is a range where, if the sampling and analysis were repeated under the same conditions (yielding a different dataset), the interval would include the true (population) value in 95% of all possible cases. This does not imply that the probability that the true value is in the confidence interval is 95%. From the frequentist perspective, such a claim does not even make sense, as the true value is not a random variable. Either the true value is or is not within the given interval. However, it is true that, before any data are sampled and given a plan for how to construct the confidence interval, the probability is 95% that the yet-to-be-calculated interval will cover the true value: at this point, the limits of the interval are yet-to-be-observed random variables. One approach that does yield an interval that can be interpreted as having a given probability of containing the true value is to use a credible interval from Bayesian statistics: this approach depends on a different way of interpreting what is meant by "probability", that is as a Bayesian probability.
+
+In principle confidence intervals can be symmetrical or asymmetrical. An interval can be asymmetrical because it works as lower or upper bound for a parameter (left-sided interval or right sided interval), but it can also be asymmetrical because the two sided interval is built violating symmetry around the estimate. Sometimes the bounds for a confidence interval are reached asymptotically and these are used to approximate the true bounds.
+Significance
+Main article: Statistical significance
+
+Statistics rarely give a simple Yes/No type answer to the question under analysis. Interpretation often comes down to the level of statistical significance applied to the numbers and often refers to the probability of a value accurately rejecting the null hypothesis (sometimes referred to as the p-value).
+In this graph the black line is probability distribution for the test statistic, the critical region is the set of values to the right of the observed data point (observed value of the test statistic) and the p-value is represented by the green area.
+
+The standard approach[19] is to test a null hypothesis against an alternative hypothesis. A critical region is the set of values of the estimator that leads to refuting the null hypothesis. The probability of type I error is therefore the probability that the estimator belongs to the critical region given that null hypothesis is true (statistical significance) and the probability of type II error is the probability that the estimator doesn't belong to the critical region given that the alternative hypothesis is true. The statistical power of a test is the probability that it correctly rejects the null hypothesis when the null hypothesis is false.
+
+Referring to statistical significance does not necessarily mean that the overall result is significant in real world terms. For example, in a large study of a drug it may be shown that the drug has a statistically significant but very small beneficial effect, such that the drug is unlikely to help the patient noticeably.
+
+While in principle the acceptable level of statistical significance may be subject to debate, the p-value is the smallest significance level that allows the test to reject the null hypothesis. This is logically equivalent to saying that the p-value is the probability, assuming the null hypothesis is true, of observing a result at least as extreme as the test statistic. Therefore, the smaller the p-value, the lower the probability of committing type I error.
+
+Some problems are usually associated with this framework (See criticism of hypothesis testing):
+
+    A difference that is highly statistically significant can still be of no practical significance, but it is possible to properly formulate tests to account for this. One response involves going beyond reporting only the significance level to include the p-value when reporting whether a hypothesis is rejected or accepted. The p-value, however, does not indicate the size or importance of the observed effect and can also seem to exaggerate the importance of minor differences in large studies. A better and increasingly common approach is to report confidence intervals. Although these are produced from the same calculations as those of hypothesis tests or p-values, they describe both the size of the effect and the uncertainty surrounding it.
+    Fallacy of the transposed conditional, aka prosecutor's fallacy: criticisms arise because the hypothesis testing approach forces one hypothesis (the null hypothesis) to be favored, since what is being evaluated is probability of the observed result given the null hypothesis and not probability of the null hypothesis given the observed result. An alternative to this approach is offered by Bayesian inference, although it requires establishing a prior probability.[23]
+    Rejecting the null hypothesis does not automatically prove the alternative hypothesis.
+    As everything in inferential statistics it relies on sample size, and therefore under fat tails p-values may be seriously mis-computed.
+
+Examples
+
+Some well-known statistical tests and procedures are:
+
+    Analysis of variance (ANOVA)
+    Chi-squared test
+    Correlation
+    Factor analysis
+    Mann–Whitney U
+    Mean square weighted deviation (MSWD)
+    Pearson product-moment correlation coefficient
+    Regression analysis
+    Spearman's rank correlation coefficient
+    Student's t-test
+    Time series analysis
+    Conjoint Analysis
+
+Misuse
+Main article: Misuse of statistics
+
+Misuse of statistics can produce subtle, but serious errors in description and interpretation—subtle in the sense that even experienced professionals make such errors, and serious in the sense that they can lead to devastating decision errors. For instance, social policy, medical practice, and the reliability of structures like bridges all rely on the proper use of statistics.
+
+Even when statistical techniques are correctly applied, the results can be difficult to interpret for those lacking expertise. The statistical significance of a trend in the data—which measures the extent to which a trend could be caused by random variation in the sample—may or may not agree with an intuitive sense of its significance. The set of basic statistical skills (and skepticism) that people need to deal with information in their everyday lives properly is referred to as statistical literacy.
+
+There is a general perception that statistical knowledge is all-too-frequently intentionally misused by finding ways to interpret only the data that are favorable to the presenter.[24] A mistrust and misunderstanding of statistics is associated with the quotation, "There are three kinds of lies: lies, damned lies, and statistics". Misuse of statistics can be both inadvertent and intentional, and the book How to Lie with Statistics[24] outlines a range of considerations. In an attempt to shed light on the use and misuse of statistics, reviews of statistical techniques used in particular fields are conducted (e.g. Warne, Lazo, Ramos, and Ritter (2012)).[25]
+
+Ways to avoid misuse of statistics include using proper diagrams and avoiding bias.[26] Misuse can occur when conclusions are overgeneralized and claimed to be representative of more than they really are, often by either deliberately or unconsciously overlooking sampling bias.[27] Bar graphs are arguably the easiest diagrams to use and understand, and they can be made either by hand or with simple computer programs.[26] Unfortunately, most people do not look for bias or errors, so they are not noticed. Thus, people may often believe that something is true even if it is not well represented.[27] To make data gathered from statistics believable and accurate, the sample taken must be representative of the whole.[28] According to Huff, "The dependability of a sample can be destroyed by [bias]... allow yourself some degree of skepticism."[29]
+
+To assist in the understanding of statistics Huff proposed a series of questions to be asked in each case:[30]
+
+    Who says so? (Does he/she have an axe to grind?)
+    How does he/she know? (Does he/she have the resources to know the facts?)
+    What’s missing? (Does he/she give us a complete picture?)
+    Did someone change the subject? (Does he/she offer us the right answer to the wrong problem?)
+    Does it make sense? (Is his/her conclusion logical and consistent with what we already know?)
+
+The confounding variable problem: X and Y may be correlated, not because there is causal relationship between them, but because both depend on a third variable Z. Z is called a confounding factor.
+Misinterpretation: correlation
+
+The concept of correlation is particularly noteworthy for the potential confusion it can cause. Statistical analysis of a data set often reveals that two variables (properties) of the population under consideration tend to vary together, as if they were connected. For example, a study of annual income that also looks at age of death might find that poor people tend to have shorter lives than affluent people. The two variables are said to be correlated; however, they may or may not be the cause of one another. The correlation phenomena could be caused by a third, previously unconsidered phenomenon, called a lurking variable or confounding variable. For this reason, there is no way to immediately infer the existence of a causal relationship between the two variables. (See Correlation does not imply causation.)
+History of statistical science
+Gerolamo Cardano, the earliest pioneer on the mathematics of probability.
+Main articles: History of statistics and Founders of statistics
+
+Statistical methods date back at least to the 5th century BC.
+
+Some scholars pinpoint the origin of statistics to 1663, with the publication of Natural and Political Observations upon the Bills of Mortality by John Graunt.[31] Early applications of statistical thinking revolved around the needs of states to base policy on demographic and economic data, hence its stat- etymology. The scope of the discipline of statistics broadened in the early 19th century to include the collection and analysis of data in general. Today, statistics is widely employed in government, business, and natural and social sciences.
+
+Its mathematical foundations were laid in the 17th century with the development of the probability theory by Gerolamo Cardano, Blaise Pascal and Pierre de Fermat. Mathematical probability theory arose from the study of games of chance, although the concept of probability was already examined in medieval law and by philosophers such as Juan Caramuel.[32] The method of least squares was first described by Adrien-Marie Legendre in 1805.
+Karl Pearson, a founder of mathematical statistics.
+
+The modern field of statistics emerged in the late 19th and early 20th century in three stages.[33] The first wave, at the turn of the century, was led by the work of Francis Galton and Karl Pearson, who transformed statistics into a rigorous mathematical discipline used for analysis, not just in science, but in industry and politics as well. Galton's contributions included introducing the concepts of standard deviation, correlation, regression analysis and the application of these methods to the study of the variety of human characteristics – height, weight, eyelash length among others.[34] Pearson developed the Pearson product-moment correlation coefficient, defined as a product-moment,[35] the method of moments for the fitting of distributions to samples and the Pearson distribution, among many other things.[36] Galton and Pearson founded Biometrika as the first journal of mathematical statistics and biostatistics (then called biometry), and the latter founded the world's first university statistics department at University College London.[37]
+
+Ronald Fisher coined the term null hypothesis during the Lady tasting tea experiment, which "is never proved or established, but is possibly disproved, in the course of experimentation".[38][39]
+
+The second wave of the 1910s and 20s was initiated by William Gosset, and reached its culmination in the insights of Ronald Fisher, who wrote the textbooks that were to define the academic discipline in universities around the world. Fisher's most important publications were his 1918 seminal paper The Correlation between Relatives on the Supposition of Mendelian Inheritance, which was the first to use the statistical term, variance, his classic 1925 work Statistical Methods for Research Workers and his 1935 The Design of Experiments,[40][41][42][43] where he developed rigorous design of experiments models. He originated the concepts of sufficiency, ancillary statistics, Fisher's linear discriminator and Fisher information.[44] In his 1930 book The Genetical Theory of Natural Selection he applied statistics to various biological concepts such as Fisher's principle[45]). Nevertheless, A. W. F. Edwards has remarked that it is "probably the most celebrated argument in evolutionary biology".[45] (about the sex ratio), the Fisherian runaway,[46][47][48][49][50][51] a concept in sexual selection about a positive feedback runaway affect found in evolution.
+
+The final wave, which mainly saw the refinement and expansion of earlier developments, emerged from the collaborative work between Egon Pearson and Jerzy Neyman in the 1930s. They introduced the concepts of "Type II" error, power of a test and confidence intervals. Jerzy Neyman in 1934 showed that stratified random sampling was in general a better method of estimation than purposive (quota) sampling.[52]
+
+Today, statistical methods are applied in all fields that involve decision making, for making accurate inferences from a collated body of data and for making decisions in the face of uncertainty based on statistical methodology. The use of modern computers has expedited large-scale statistical computations, and has also made possible new methods that are impractical to perform manually. Statistics continues to be an area of active research, for example on the problem of how to analyze Big data.[53]
+Applications
+Applied statistics, theoretical statistics and mathematical statistics
+
+"Applied statistics" comprises descriptive statistics and the application of inferential statistics.[54][55] Theoretical statistics concerns both the logical arguments underlying justification of approaches to statistical inference, as well encompassing mathematical statistics. Mathematical statistics includes not only the manipulation of probability distributions necessary for deriving results related to methods of estimation and inference, but also various aspects of computational statistics and the design of experiments.
+Machine learning and data mining
+
+There are two applications for machine learning and data mining: data management and data analysis. Statistics tools are necessary for the data analysis.
+Statistics in society
+
+Statistics is applicable to a wide variety of academic disciplines, including natural and social sciences, government, and business. Statistical consultants can help organizations and companies that don't have in-house expertise relevant to their particular questions.
+Statistical computing
+gretl, an example of an open source statistical package
+Main article: Computational statistics
+
+The rapid and sustained increases in computing power starting from the second half of the 20th century have had a substantial impact on the practice of statistical science. Early statistical models were almost always from the class of linear models, but powerful computers, coupled with suitable numerical algorithms, caused an increased interest in nonlinear models (such as neural networks) as well as the creation of new types, such as generalized linear models and multilevel models.
+
+Increased computing power has also led to the growing popularity of computationally intensive methods based on resampling, such as permutation tests and the bootstrap, while techniques such as Gibbs sampling have made use of Bayesian models more feasible. The computer revolution has implications for the future of statistics with new emphasis on "experimental" and "empirical" statistics. A large number of both general and special purpose statistical software are now available.
+Statistics applied to mathematics or the arts
+
+Traditionally, statistics was concerned with drawing inferences using a semi-standardized methodology that was "required learning" in most sciences. This has changed with use of statistics in non-inferential contexts. What was once considered a dry subject, taken in many fields as a degree-requirement, is now viewed enthusiastically.[according to whom?] Initially derided by some mathematical purists, it is now considered essential methodology in certain areas.
+
+    In number theory, scatter plots of data generated by a distribution function may be transformed with familiar tools used in statistics to reveal underlying patterns, which may then lead to hypotheses.
+    Methods of statistics including predictive methods in forecasting are combined with chaos theory and fractal geometry to create video works that are considered to have great beauty.[citation needed]
+    The process art of Jackson Pollock relied on artistic experiments whereby underlying distributions in nature were artistically revealed.[citation needed] With the advent of computers, statistical methods were applied to formalize such distribution-driven natural processes to make and analyze moving video art.[citation needed]
+    Methods of statistics may be used predicatively in performance art, as in a card trick based on a Markov process that only works some of the time, the occasion of which can be predicted using statistical methodology.
+    Statistics can be used to predicatively create art, as in the statistical or stochastic music invented by Iannis Xenakis, where the music is performance-specific. Though this type of artistry does not always come out as expected, it does behave in ways that are predictable and tunable using statistics.
+
+Specialized disciplines
+Main article: List of fields of application of statistics
+
+Statistical techniques are used in a wide range of types of scientific and social research, including: biostatistics, computational biology, computational sociology, network biology, social science, sociology and social research. Some fields of inquiry use applied statistics so extensively that they have specialized terminology. These disciplines include:
+
+    Actuarial science (assesses risk in the insurance and finance industries)
+    Applied information economics
+    Astrostatistics (statistical evaluation of astronomical data)
+    Biostatistics
+    Business statistics
+    Chemometrics (for analysis of data from chemistry)
+    Data mining (applying statistics and pattern recognition to discover knowledge from data)
+    Data science
+    Demography
+    Econometrics (statistical analysis of economic data)
+    Energy statistics
+    Engineering statistics
+    Epidemiology (statistical analysis of disease)
+    Geography and Geographic Information Systems, specifically in Spatial analysis
+    Image processing
+    Medical Statistics
+    Psychological statistics
+    Reliability engineering
+    Social statistics
+    Statistical Mechanics
+
+In addition, there are particular types of statistical analysis that have also developed their own specialised terminology and methodology:
+
+    Bootstrap / Jackknife resampling
+    Multivariate statistics
+    Statistical classification
+    Structured data analysis (statistics)
+    Structural equation modelling
+    Survey methodology
+    Survival analysis
+    Statistics in various sports, particularly baseball - known as Sabermetrics - and cricket
+
+Statistics form a key basis tool in business and manufacturing as well. It is used to understand measurement systems variability, control processes (as in statistical process control or SPC), for summarizing data, and to make data-driven decisions. In these roles, it is a key tool, and perhaps the only reliable tool.
+See also
+Library resources about
+Statistics
+
+    Resources in your library 
+
+Main article: Outline of statistics
+
+    Abundance estimation
+    Data science
+    Glossary of probability and statistics
+    List of academic statistical associations
+    List of important publications in statistics
+    List of national and international statistical services
+    List of statistical packages (software)
+    List of statistics articles
+    List of university statistical consulting centers
+    Notation in probability and statistics
+
+Foundations and major areas of statistics
+
+    Foundations of statistics
+    List of statisticians
+    Official statistics
+    Multivariate analysis of variance
+
+

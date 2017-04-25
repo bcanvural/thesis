@@ -1,0 +1,969 @@
+Strategic financial management [1] refers to study of finance with a long term view considering the strategic goals of the enterprise. Financial management is nowadays increasingly referred to as "Strategic Financial Management" so as to give it an increased frame of reference.
+
+To understand what strategic financial management is about, we must first understand what is meant by the term "Strategic". Which is something that is done as part of a plan that is meant to achieve a particular purpose.
+
+Therefore, Strategic Financial Management are those aspect of the overall plan of the organisation that concerns financial managers. This includes different parts of the business plan, for example marketing and sales plan, production plan, personnel plan, capital expenditure, etc. These all have financial implications for the financial managers of an organisation.
+
+The objective of the Financial Management is the maximisation of shareholders wealth. To satisfy this objective a company requires a "long term course of action" and this is where strategy fits in.
+
+Contents
+
+    1 Strategic planning
+        1.1 Component of a financial strategy
+    2 Role of a financial manager
+    3 Decision making
+        3.1 Investment decisions
+            3.1.1 Long term assets - Capital Budgeting investment decisions
+            3.1.2 Short term assets investment decisions
+            3.1.3 Profitability management
+            3.1.4 Evaluation
+        3.2 Financing decisions
+            3.2.1 Decision making
+        3.3 Liquidity/ Working capital Decisions
+            3.3.1 Receivables management
+            3.3.2 Inventory management
+            3.3.3 Cash management
+        3.4 Dividend decisions
+    4 Strategic Financial Management tasks/ services provided
+    5 References
+
+Strategic planning
+
+Strategic planning is an organisation’s process to outlining and defining its strategy, direction it is going. This led to decision making and allocation of resources inline with this strategy. Some techniques used in strategic planning includes: SWOT analysis, PEST analysis, STEER analysis. Often it is a plan for one year but more typically 3 to 5 years if a longer term view is taken.
+Component of a financial strategy
+
+When making a financial strategy, financial managers need to include the following basic elements. More elements could be added, depending on the size and industry of the project.
+
+Startup cost: For new business ventures and those started by existing companies. Could include new fabricating equipment costs, new packaging costs, marketing plan.
+
+Competitive analysis: analysis on how the competition will affect your revenues.
+
+Ongoing costs: Includes labour, materials, equipment maintenance, shipping and facilities costs. Needs to be broken down into monthly numbers and subtracted from the revenue forecast (see below).
+
+Revenue forecast: over the length of the project, to determine how much will be available to pay the ongoing cost and if the project will be profitable.
+Role of a financial manager
+
+Broadly speaking, financial managers have to have decisions regarding 4 main topics within a company. Those are as follow:
+
+    Investment decisions - Regarding the long and short term investment decisions. For example: the most appropriate level and mix of assets a company should hold.
+    Financing decisions - concerns the optimal levels of each financing source - E.g. Debt - Equity ratio.
+    Liquidity decisions - Involves the current assets and liabilities of the company - one function is to maintain cash reserves.
+    Dividend decisions - Disbursement of dividend to shareholders and retained earnings.
+
+Decision making
+
+Each decisions made by financial managers must be strategic sound and not only have benefits financially (e.g. Increasing value on the Discounted Cash Flow Analysis) but must also consider uncertain, unquantifiable factors which could be strategically beneficial.
+
+To explain this further, a proposal could have a negative impact from the Discounted Cash Flow analysis, but if it is strategically beneficial to the company this decision will be accepted by the financial managers over a decision which has a positive impact on the Discounted Cash Flow analysis but is not strategically beneficial.
+Investment decisions
+
+For a financial manager in an organisation this will be mainly regarding the selection of assets which funds from the firm will be invested in. These assets will be acquired if they are proven to be strategically sound and assets are classified into 2 classifications:
+
+    Long term assets - also known as Capital Budgeting for financial managers.
+    Short term assets/current assets.
+    Profitability Management.
+
+Long term assets - Capital Budgeting investment decisions
+
+Financial managers in this field must select assets or an investment proposals which provides a beneficial course of action, that will most likely come in the future and over the lifetime of the project. This is one of the most crucial financial decisions for a firm.
+Short term assets investment decisions
+
+Important for short term survival of the organisation; thus prerequisite for long term success; mainly concerning the management of current assets that’s held on the company’s balance sheet.
+Profitability management
+
+As a more minor role under this section; it comes under investment decisions because revenue generated will be from investments and divestments.
+Evaluation
+
+Under each of the above headings: financial managers have to use the following financial figures as part of the evaluation process to determine if a proposal should be accepted. Payback period with NPV (Net Present Value), IRR (internal rate of return) and DCF (Discounted Cash Flow).
+Financing decisions
+
+For a financial managers, they have to decide the financing mix, capital structure or leverage of a firm. Which is the use of a combination of equity, debt or hybrid securities to fund a firm's activities, or new venture.
+Decision making
+
+Financial manager often uses the Theory of capital structure to determine the ratio between equity and debt which should be used in a financing round for a company.
+
+The basis of the theory is that debt capital used beyond the point of minimum weighted average cost of capital will cause devaluation and unnecessary leverage for the company.
+
+The equation of working out the average cost of capital can be found on the right.
+
+Where:
+
+Re = cost of equity
+Weighted Average Cost Of Capital.[2]
+
+Rd = cost of debt
+
+E = market value of the firm's equity
+
+D = market value of the firm's debt
+
+V = E + D
+
+E/V = percentage of financing that is equity
+
+D/V = percentage of financing that is debt
+
+Tc = corporate tax rate
+Liquidity/ Working capital Decisions
+
+The role of a financial manager often includes making sure the firm is liquid – the firm is able to finance itself in the short run, without running out of cash. They also have to make the firm’s decision in investing into current assets: which can generally be defined as the assets which can be converted into cash within one accounting year, which includes cash, short term securities debtors, etc.
+
+The main indicator to be used here is the net working capital: which is the difference between current assets and current liabilities. Being able to be positive and negative, indicating the companies current financial position and the health of the balance sheet.
+
+This can be further split into:
+Receivables management
+
+Which includes investment in receivables that is the volume of credit sales, and collection period. Credit policy which includes credit standards, credit terms and collection efforts.
+Inventory management
+
+Which are stocks of manufactured products and the material that make up the product, which includes raw materials, work-in-process, finished goods, stores and spares (supplies). For a retail business, for example, this will be a major component of their current assets.
+Cash management
+
+Concerned with the management of cash flow in and out of the firm, within the firm, and cash balances held by the firm at a point of time by financing deficit or investing surplus cash.
+Dividend decisions
+
+Financial managers often have to influence the dividend to 2 outcomes: The ratio as which this is distributed is called the dividend-pay out ratio.
+
+    Distribute to the shareholder in the form of dividends
+    Retain in the business itself
+
+This is largely dependent on the preference of the shareholders and the investment opportunities available within the firm. But also on the theory that there must be a balance between the pay out to satisfy shareholders for them to continue to invest in the company. But the company will also need to retain profits to be reinvested so more profits can be made for the future. This is also beneficial to the shareholders for growth in the value of shares and for increased dividends paid out in the future. This infers that it is important for management and shareholders to agree to a balanced ratio which both sides can benefit from, in the long term. Although this is often an exception for shareholders who only wish to hold for the short term dividend gain.
+Corporate finance
+
+Panorama clip3.jpg
+Working capital
+
+Cash conversion cycle
+Return on capital
+Economic value added
+Just in time
+Economic order quantity
+Discounts and allowances
+Factoring (finance)
+Capital budgeting
+
+Capital investment decisions
+The investment decision
+The financing decision
+Sections
+
+Managerial finance
+Financial accounting
+Management accounting
+Mergers and acquisitions
+Balance sheet analysis
+Business plan
+Corporate action
+Finance series
+
+Financial market
+Financial market participants
+Corporate finance
+Personal finance
+Public finance
+Banks and Banking
+Financial regulation
+This box:
+
+    view talk edit 
+
+Strategic Financial Management tasks/ services provided
+
+    Derivatives
+    Asset Pricing[3]
+    Investment Banking
+    M&A and other corporate restructuring
+
+Strategic management involves the formulation and implementation of the major goals and initiatives taken by a company's top management on behalf of owners, based on consideration of resources and an assessment of the internal and external environments in which the organization competes.[1]
+
+Strategic management provides overall direction to the enterprise and involves specifying the organization's objectives, developing policies and plans designed to achieve these objectives, and then allocating resources to implement the plans. Academics and practicing managers have developed numerous models and frameworks to assist in strategic decision making in the context of complex environments and competitive dynamics.[2] Strategic management is not static in nature; the models often include a feedback loop to monitor execution and inform the next round of planning.[3][4][5]
+
+Michael Porter identifies three principles underlying strategy: creating a "unique and valuable [market] position", making trade-offs by choosing "what not to do", and creating "fit" by aligning company activities with one another to support the chosen strategy.[6] Dr. Vladimir Kvint defines strategy as "a system of finding, formulating, and developing a doctrine that will ensure long-term success if followed faithfully."[7]
+
+Corporate strategy involves answering a key question from a portfolio perspective: "What business should we be in?" Business strategy involves answering the question: "How shall we compete in this business?"[8] In management theory and practice, a further distinction is often made between strategic management and operational management. Operational management is concerned primarily with improving efficiency and controlling costs within the boundaries set by the organization's strategy.
+
+Contents
+
+    1 Definition
+        1.1 Formulation
+        1.2 Implementation
+        1.3 Many definitions of strategy
+    2 Historical development
+        2.1 Origins
+        2.2 Change in focus from production to marketing
+        2.3 Nature of strategy
+    3 Concepts and frameworks
+        3.1 SWOT Analysis
+        3.2 Experience curve
+        3.3 Corporate strategy and portfolio theory
+        3.4 Competitive advantage
+        3.5 Industry structure and profitability
+        3.6 Generic competitive strategies
+        3.7 Value chain
+        3.8 Core competence
+        3.9 Theory of the business
+    4 Strategic thinking
+    5 Strategic planning
+        5.1 Environmental analysis
+        5.2 Scenario planning
+        5.3 Measuring and controlling implementation
+        5.4 Evaluation
+    6 Limitations
+    7 Strategic themes
+        7.1 Self-service
+        7.2 Globalization and the virtual firm
+        7.3 Internet and information availability
+    8 Strategy as learning
+    9 Strategy as adapting to change
+    10 Strategy as operational excellence
+        10.1 Quality
+        10.2 Reengineering
+    11 Other perspectives on strategy
+        11.1 Strategy as problem solving
+        11.2 Creative vs analytic approaches
+        11.3 Non-strategic management
+        11.4 Strategy as marketing
+        11.5 Information- and technology-driven strategy
+        11.6 Maturity of planning process
+        11.7 PIMS study
+    12 Other influences on business strategy
+        12.1 Military strategy
+    13 Traits of successful companies
+    14 See also
+    15 Further reading
+    16 References
+    17 External links
+
+Definition
+Strategic management processes and activities
+
+Strategic management involves the formulation and implementation of the major goals and initiatives taken by a company's top management on behalf of owners, based on consideration of resources and an assessment of the internal and external environments in which the organization competes.[1] Strategy is defined as "the determination of the basic long-term goals of an enterprise, and the adoption of courses of action and the allocation of resources necessary for carrying out these goals."[9] Strategies are established to set direction, focus effort, define or clarify the organization, and provide consistency or guidance in response to the environment.[10]
+
+Strategic management involves the related concepts of strategic planning and strategic thinking. Strategic planning is analytical in nature and refers to formalized procedures to produce the data and analyses used as inputs for strategic thinking, which synthesizes the data resulting in the strategy. Strategic planning may also refer to control mechanisms used to implement the strategy once it is determined. In other words, strategic planning happens around the strategic thinking or strategy making activity.[11]
+
+Strategic management is often described as involving two major processes: formulation and implementation of strategy. While described sequentially below, in practice the two processes are iterative and each provides input for the other.[11]
+Formulation
+
+Formulation of strategy involves analyzing the environment in which the organization operates, then making a series of strategic decisions about how the organization will compete. Formulation ends with a series of goals or objectives and measures for the organization to pursue. Environmental analysis includes the:
+
+    Remote external environment, including the political, economic, social, technological, legal and environmental landscape (PESTLE);
+    Industry environment, such as the competitive behavior of rival organizations, the bargaining power of buyers/customers and suppliers, threats from new entrants to the industry, and the ability of buyers to substitute products (Porter's 5 forces); and
+    Internal environment, regarding the strengths and weaknesses of the organization's resources (i.e., its people, processes and IT systems).[11]
+
+Strategic decisions are based on insight from the environmental assessment and are responses to strategic questions about how the organization will compete, such as:
+
+    What is the organization's business?
+    Who is the target customer for the organization's products and services?
+    Where are the customers and how do they buy? What is considered "value" to the customer?
+    Which businesses, products and services should be included or excluded from the portfolio of offerings?
+    What is the geographic scope of the business?
+    What differentiates the company from its competitors in the eyes of customers and other stakeholders?
+    Which skills and capabilities should be developed within the firm?
+    What are the important opportunities and risks for the organization?
+    How can the firm grow, through both its base business and new business?
+    How can the firm generate more value for investors?[11][12]
+
+The answers to these and many other strategic questions result in the organization's strategy and a series of specific short-term and long-term goals or objectives and related measures.[11]
+Implementation
+
+The second major process of strategic management is implementation, which involves decisions regarding how the organization's resources (i.e., people, process and IT systems) will be aligned and mobilized towards the objectives. Implementation results in how the organization's resources are structured (such as by product or service or geography), leadership arrangements, communication, incentives, and monitoring mechanisms to track progress towards objectives, among others.[11]
+
+Running the day-to-day operations of the business is often referred to as "operations management" or specific terms for key departments or functions, such as "logistics management" or "marketing management," which take over once strategic management decisions are implemented.[11]
+Many definitions of strategy
+
+Strategy has been practiced whenever an advantage was gained by planning the sequence and timing of the deployment of resources while simultaneously taking into account the probable capabilities and behavior of competition.
+Bruce Henderson[13]
+
+In 1988, Henry Mintzberg described the many different definitions and perspectives on strategy reflected in both academic research and in practice.[14][15] He examined the strategic process and concluded it was much more fluid and unpredictable than people had thought. Because of this, he could not point to one process that could be called strategic planning. Instead Mintzberg concludes that there are five types of strategies:
+
+    Strategy as plan – a directed course of action to achieve an intended set of goals; similar to the strategic planning concept;
+    Strategy as pattern – a consistent pattern of past behavior, with a strategy realized over time rather than planned or intended. Where the realized pattern was different from the intent, he referred to the strategy as emergent;
+    Strategy as position – locating brands, products, or companies within the market, based on the conceptual framework of consumers or other stakeholders; a strategy determined primarily by factors outside the firm;
+    Strategy as ploy – a specific maneuver intended to outwit a competitor; and
+    Strategy as perspective – executing strategy based on a "theory of the business" or natural extension of the mindset or ideological perspective of the organization.
+
+In 1998, Mintzberg developed these five types of management strategy into 10 “schools of thought” and grouped them into three categories. The first group is normative. It consists of the schools of informal design and conception, the formal planning, and analytical positioning. The second group, consisting of six schools, is more concerned with how strategic management is actually done, rather than prescribing optimal plans or positions. The six schools are entrepreneurial, visionary, cognitive, learning/adaptive/emergent, negotiation, corporate culture and business environment. The third and final group consists of one school, the configuration or transformation school, a hybrid of the other schools organized into stages, organizational life cycles, or “episodes”.[16]
+
+Michael Porter defined strategy in 1980 as the "...broad formula for how a business is going to compete, what its goals should be, and what policies will be needed to carry out those goals" and the "...combination of the ends (goals) for which the firm is striving and the means (policies) by which it is seeking to get there." He continued that: "The essence of formulating competitive strategy is relating a company to its environment."[17]
+Historical development
+Origins
+
+The strategic management discipline originated in the 1950s and 1960s. Among the numerous early contributors, the most influential were Peter Drucker, Philip Selznick, Alfred Chandler, Igor Ansoff, and Bruce Henderson.[2] The discipline draws from earlier thinking and texts on 'strategy' dating back thousands of years. Prior to 1960, the term "strategy" was primarily used regarding war and politics, not business.[18] Many companies built strategic planning functions to develop and execute the formulation and implementation processes during the 1960s.[19]
+
+Peter Drucker was a prolific management theorist and author of dozens of management books, with a career spanning five decades. He addressed fundamental strategic questions in a 1954 book The Practice of Management writing: "...the first responsibility of top management is to ask the question 'what is our business?' and to make sure it is carefully studied and correctly answered." He wrote that the answer was determined by the customer. He recommended eight areas where objectives should be set, such as market standing, innovation, productivity, physical and financial resources, worker performance and attitude, profitability, manager performance and development, and public responsibility.[20]
+
+In 1957, Philip Selznick initially used the term "distinctive competence" in referring to how the Navy was attempting to differentiate itself from the other services.[2] He also formalized the idea of matching the organization's internal factors with external environmental circumstances.[21] This core idea was developed further by Kenneth R. Andrews in 1963 into what we now call SWOT analysis, in which the strengths and weaknesses of the firm are assessed in light of the opportunities and threats in the business environment.[2]
+
+Alfred Chandler recognized the importance of coordinating management activity under an all-encompassing strategy. Interactions between functions were typically handled by managers who relayed information back and forth between departments. Chandler stressed the importance of taking a long term perspective when looking to the future. In his 1962 ground breaking work Strategy and Structure, Chandler showed that a long-term coordinated strategy was necessary to give a company structure, direction and focus. He says it concisely, “structure follows strategy.” Chandler wrote that:
+
+    "Strategy is the determination of the basic long-term goals of an enterprise, and the adoption of courses of action and the allocation of resources necessary for carrying out these goals."[9]
+
+Igor Ansoff built on Chandler's work by adding concepts and inventing a vocabulary. He developed a grid that compared strategies for market penetration, product development, market development and horizontal and vertical integration and diversification. He felt that management could use the grid to systematically prepare for the future. In his 1965 classic Corporate Strategy, he developed gap analysis to clarify the gap between the current reality and the goals and to develop what he called “gap reducing actions”.[22] Ansoff wrote that strategic management had three parts: strategic planning; the skill of a firm in converting its plans into reality; and the skill of a firm in managing its own internal resistance to change.[23]
+
+Bruce Henderson, founder of the Boston Consulting Group, wrote about the concept of the experience curve in 1968, following initial work begun in 1965. The experience curve refers to a hypothesis that unit production costs decline by 20-30% every time cumulative production doubles. This supported the argument for achieving higher market share and economies of scale.[24]
+
+Porter wrote in 1980 that companies have to make choices about their scope and the type of competitive advantage they seek to achieve, whether lower cost or differentiation. The idea of strategy targeting particular industries and customers (i.e., competitive positions) with a differentiated offering was a departure from the experience-curve influenced strategy paradigm, which was focused on larger scale and lower cost.[17] Porter revised the strategy paradigm again in 1985, writing that superior performance of the processes and activities performed by organizations as part of their value chain is the foundation of competitive advantage, thereby outlining a process view of strategy.[25]
+Change in focus from production to marketing
+
+The direction of strategic research also paralleled a major paradigm shift in how companies competed, specifically a shift from the production focus to market focus. The prevailing concept in strategy up to the 1950s was to create a product of high technical quality. If you created a product that worked well and was durable, it was assumed you would have no difficulty profiting. This was called the production orientation. Henry Ford famously said of the Model T car: "Any customer can have a car painted any color that he wants, so long as it is black."[26]
+
+Management theorist Peter F Drucker wrote in 1954 that it was the customer who defined what business the organization was in.[12] In 1960 Theodore Levitt argued that instead of producing products then trying to sell them to the customer, businesses should start with the customer, find out what they wanted, and then produce it for them. The fallacy of the production orientation was also referred to as marketing myopia in an article of the same name by Levitt.[27]
+
+Over time, the customer became the driving force behind all strategic business decisions. This marketing concept, in the decades since its introduction, has been reformulated and repackaged under names including market orientation, customer orientation, customer intimacy, customer focus, customer-driven and market focus.
+
+It's more important than ever to define yourself in terms of what you stand for rather than what you make, because what you make is going to become outmoded faster than it has at any time in the past.
+Jim Collins[28]
+
+Jim Collins wrote in 1997 that the strategic frame of reference is expanded by focusing on why a company exists rather than what it makes.[28] In 2001, he recommended that organizations define themselves based on three key questions:
+
+    What are we passionate about?
+    What can we be best in the world at?
+    What drives our economic engine?[29]
+
+Nature of strategy
+
+In 1985, Professor Ellen Earle-Chaffee summarized what she thought were the main elements of strategic management theory where consensus generally existed as of the 1970s, writing that strategic management:[8]
+
+    Involves adapting the organization to its business environment;
+    Is fluid and complex. Change creates novel combinations of circumstances requiring unstructured non-repetitive responses;
+    Affects the entire organization by providing direction;
+    Involves both strategy formulation processes and also implementation of the content of the strategy;
+    May be planned (intended) and unplanned (emergent);
+    Is done at several levels: overall corporate strategy, and individual business strategies; and
+    Involves both conceptual and analytical thought processes.
+
+Chaffee further wrote that research up to that point covered three models of strategy, which were not mutually exclusive:
+
+    Linear strategy: A planned determination of goals, initiatives, and allocation of resources, along the lines of the Chandler definition above. This is most consistent with strategic planning approaches and may have a long planning horizon. The strategist "deals with" the environment but it is not the central concern.
+    Adaptive strategy: In this model, the organization's goals and activities are primarily concerned with adaptation to the environment, analogous to a biological organism. The need for continuous adaption reduces or eliminates the planning window. There is more focus on means (resource mobilization to address the environment) rather than ends (goals). Strategy is less centralized than in the linear model.
+    Interpretive strategy: A more recent and less developed model than the linear and adaptive models, interpretive strategy is concerned with "orienting metaphors constructed for the purpose of conceptualizing and guiding individual attitudes or organizational participants." The aim of interpretive strategy is legitimacy or credibility in the mind of stakeholders. It places emphasis on symbols and language to influence the minds of customers, rather than the physical product of the organization.[8]
+
+Concepts and frameworks
+
+The progress of strategy since 1960 can be charted by a variety of frameworks and concepts introduced by management consultants and academics. These reflect an increased focus on cost, competition and customers. These "3 Cs" were illuminated by much more robust empirical analysis at ever-more granular levels of detail, as industries and organizations were disaggregated into business units, activities, processes, and individuals in a search for sources of competitive advantage.[18]
+SWOT Analysis
+Main article: SWOT Analysis
+A SWOT analysis, with its four elements in a 2×2 matrix.
+
+By the 1960s, the capstone business policy course at the Harvard Business School included the concept of matching the distinctive competence of a company (its internal strengths and weaknesses) with its environment (external opportunities and threats) in the context of its objectives. This framework came to be known by the acronym SWOT and was "a major step forward in bringing explicitly competitive thinking to bear on questions of strategy." Kenneth R. Andrews helped popularize the framework via a 1963 conference and it remains commonly used in practice.[2]
+Experience curve
+Experience curve
+Main article: Experience curve
+
+The experience curve was developed by the Boston Consulting Group in 1966.[18] It is a hypothesis that total per unit costs decline systematically by as much as 15-25% every time cumulative production (i.e., "experience") doubles. It has been empirically confirmed by some firms at various points in their history.[30] Costs decline due to a variety of factors, such as the learning curve, substitution of labor for capital (automation), and technological sophistication. Author Walter Kiechel wrote that it reflected several insights, including:
+
+    A company can always improve its cost structure;
+    Competitors have varying cost positions based on their experience;
+    Firms could achieve lower costs through higher market share, attaining a competitive advantage; and
+    An increased focus on empirical analysis of costs and processes, a concept which author Kiechel refers to as "Greater Taylorism."
+
+Kiechel wrote in 2010: "The experience curve was, simply, the most important concept in launching the strategy revolution...with the experience curve, the strategy revolution began to insinuate an acute awareness of competition into the corporate consciousness." Prior to the 1960s, the word competition rarely appeared in the most prominent management literature; U.S. companies then faced considerably less competition and did not focus on performance relative to peers. Further, the experience curve provided a basis for the retail sale of business ideas, helping drive the management consulting industry.[18]
+Corporate strategy and portfolio theory
+Main articles: Modern portfolio theory and Growth–share matrix
+Portfolio growth–share matrix
+
+The concept of the corporation as a portfolio of business units, with each plotted graphically based on its market share (a measure of its competitive position relative to its peers) and industry growth rate (a measure of industry attractiveness), was summarized in the growth–share matrix developed by the Boston Consulting Group around 1970. By 1979, one study estimated that 45% of the Fortune 500 companies were using some variation of the matrix in their strategic planning. This framework helped companies decide where to invest their resources (i.e., in their high market share, high growth businesses) and which businesses to divest (i.e., low market share, low growth businesses.)[18]
+
+Porter wrote in 1987 that corporate strategy involves two questions: 1) What business should the corporation be in? and 2) How should the corporate office manage its business units? He mentioned four concepts of corporate strategy; the latter three can be used together:[31]
+
+    Portfolio theory: A strategy based primarily on diversification through acquisition. The corporation shifts resources among the units and monitors the performance of each business unit and its leaders. Each unit generally runs autonomously, with limited interference from the corporate center provided goals are met.
+    Restructuring: The corporate office acquires then actively intervenes in a business where it detects potential, often by replacing management and implementing a new business strategy.
+    Transferring skills: Important managerial skills and organizational capability are essentially spread to multiple businesses. The skills must be necessary to competitive advantage.
+    Sharing activities: Ability of the combined corporation to leverage centralized functions, such as sales, finance, etc. thereby reducing costs.[31]
+
+Other techniques were developed to analyze the relationships between elements in a portfolio. The growth-share matrix, a part of B.C.G. Analysis, was followed by G.E. multi factoral model, developed by General Electric. Companies continued to diversify as conglomerates until the 1980s, when deregulation and a less restrictive anti-trust environment led to the view that a portfolio of operating divisions in different industries was worth more as many independent companies, leading to the breakup of many conglomerates.[18] While the popularity of portfolio theory has waxed and waned, the key dimensions considered (industry attractiveness and competitive position) remain central to strategy.[2]
+Competitive advantage
+Main article: Competitive advantage
+
+In 1980, Porter defined the two types of competitive advantage an organization can achieve relative to its rivals: lower cost or differentiation. This advantage derives from attribute(s) that allow an organization to outperform its competition, such as superior market position, skills, or resources. In Porter's view, strategic management should be concerned with building and sustaining competitive advantage.[25]
+Industry structure and profitability
+A graphical representation of Porter's Five Forces
+Main article: Porter five forces analysis
+
+Porter developed a framework for analyzing the profitability of industries and how those profits are divided among the participants in 1980. In five forces analysis he identified the forces that shape the industry structure or environment. The framework involves the bargaining power of buyers and suppliers, the threat of new entrants, the availability of substitute products, and the competitive rivalry of firms in the industry. These forces affect the organization's ability to raise its prices as well as the costs of inputs (such as raw materials) for its processes.[17]
+
+The five forces framework helps describe how a firm can use these forces to obtain a sustainable competitive advantage, either lower cost or differentiation. Companies can maximize their profitability by competing in industries with favorable structure. Competitors can take steps to grow the overall profitability of the industry, or to take profit away from other parts of the industry structure. Porter modified Chandler's dictum about structure following strategy by introducing a second level of structure: while organizational structure follows strategy, it in turn follows industry structure.[17]
+Generic competitive strategies
+Main article: Porter's generic strategies
+Michael Porter's Three Generic Strategies
+
+Porter wrote in 1980 that strategy target either cost leadership, differentiation, or focus.[17] These are known as Porter's three generic strategies and can be applied to any size or form of business. Porter claimed that a company must only choose one of the three or risk that the business would waste precious resources. Porter's generic strategies detail the interaction between cost minimization strategies, product differentiation strategies, and market focus strategies.
+
+Porter described an industry as having multiple segments that can be targeted by a firm. The breadth of its targeting refers to the competitive scope of the business. Porter defined two types of competitive advantage: lower cost or differentiation relative to its rivals. Achieving competitive advantage results from a firm's ability to cope with the five forces better than its rivals. Porter wrote: "[A]chieving competitive advantage requires a firm to make a choice...about the type of competitive advantage it seeks to attain and the scope within which it will attain it." He also wrote: "The two basic types of competitive advantage [differentiation and lower cost] combined with the scope of activities for which a firm seeks to achieve them lead to three generic strategies for achieving above average performance in an industry: cost leadership, differentiation and focus. The focus strategy has two variants, cost focus and differentiation focus."[25]
+
+The concept of choice was a different perspective on strategy, as the 1970s paradigm was the pursuit of market share (size and scale) influenced by the experience curve. Companies that pursued the highest market share position to achieve cost advantages fit under Porter's cost leadership generic strategy, but the concept of choice regarding differentiation and focus represented a new perspective.[18]
+Value chain
+Michael Porter's Value Chain
+Main article: Value chain
+
+Porter's 1985 description of the value chain refers to the chain of activities (processes or collections of processes) that an organization performs in order to deliver a valuable product or service for the market. These include functions such as inbound logistics, operations, outbound logistics, marketing and sales, and service, supported by systems and technology infrastructure. By aligning the various activities in its value chain with the organization's strategy in a coherent way, a firm can achieve a competitive advantage. Porter also wrote that strategy is an internally consistent configuration of activities that differentiates a firm from its rivals. A robust competitive position cumulates from many activities which should fit coherently together.[32]
+
+Porter wrote in 1985: "Competitive advantage cannot be understood by looking at a firm as a whole. It stems from the many discrete activities a firm performs in designing, producing, marketing, delivering and supporting its product. Each of these activities can contribute to a firm's relative cost position and create a basis for differentiation...the value chain disaggregates a firm into its strategically relevant activities in order to understand the behavior of costs and the existing and potential sources of differentiation."[2]
+Core competence
+Main article: Core competency
+
+Gary Hamel and C. K. Prahalad described the idea of core competency in 1990, the idea that each organization has some capability in which it excels and that the business should focus on opportunities in that area, letting others go or outsourcing them. Further, core competency is difficult to duplicate, as it involves the skills and coordination of people across a variety of functional areas or processes used to deliver value to customers. By outsourcing, companies expanded the concept of the value chain, with some elements within the entity and others without.[33] Core competency is part of a branch of strategy called the resource-based view of the firm, which postulates that if activities are strategic as indicated by the value chain, then the organization's capabilities and ability to learn or adapt are also strategic.[2]
+Theory of the business
+
+Peter Drucker wrote in 1994 about the “Theory of the Business,” which represents the key assumptions underlying a firm's strategy. These assumptions are in three categories: a) the external environment, including society, market, customer, and technology; b) the mission of the organization; and c) the core competencies needed to accomplish the mission. He continued that a valid theory of the business has four specifications: 1) assumptions about the environment, mission, and core competencies must fit reality; 2) the assumptions in all three areas have to fit one another; 3) the theory of the business must be known and understood throughout the organization; and 4) the theory of the business has to be tested constantly.
+
+He wrote that organizations get into trouble when the assumptions representing the theory of the business no longer fit reality. He used an example of retail department stores, where their theory of the business assumed that people who could afford to shop in department stores would do so. However, many shoppers abandoned department stores in favor of specialty retailers (often located outside of malls) when time became the primary factor in the shopping destination rather than income.
+
+Drucker described the theory of the business as a "hypothesis" and a "discipline." He advocated building in systematic diagnostics, monitoring and testing of the assumptions comprising the theory of the business to maintain competitiveness.[34]
+Strategic thinking
+Main article: Strategic thinking
+
+Strategic thinking involves the generation and application of unique business insights to opportunities intended to create competitive advantage for a firm or organization. It involves challenging the assumptions underlying the organization's strategy and value proposition. Mintzberg wrote in 1994 that it is more about synthesis (i.e., "connecting the dots") than analysis (i.e., "finding the dots"). It is about "capturing what the manager learns from all sources (both the soft insights from his or her personal experiences and the experiences of others throughout the organization and the hard data from market research and the like) and then synthesizing that learning into a vision of the direction that the business should pursue." Mintzberg argued that strategic thinking is the critical part of formulating strategy, more so than strategic planning exercises.[35]
+
+General Andre Beaufre wrote in 1963 that strategic thinking "is a mental process, at once abstract and rational, which must be capable of synthesizing both psychological and material data. The strategist must have a great capacity for both analysis and synthesis; analysis is necessary to assemble the data on which he makes his diagnosis, synthesis in order to produce from these data the diagnosis itself--and the diagnosis in fact amounts to a choice between alternative courses of action."[36]
+
+Will Mulcaster[37] argued that while much research and creative thought has been devoted to generating alternative strategies, too little work has been done on what influences the quality of strategic decision making and the effectiveness with which strategies are implemented. For instance, in retrospect it can be seen that the financial crisis of 2008–9 could have been avoided if the banks had paid more attention to the risks associated with their investments, but how should banks change the way they make decisions to improve the quality of their decisions in the future? Mulcaster's Managing Forces framework addresses this issue by identifying 11 forces that should be incorporated into the processes of decision making and strategic implementation. The 11 forces are: Time; Opposing forces; Politics; Perception; Holistic effects; Adding value; Incentives; Learning capabilities; Opportunity cost; Risk and Style.
+Strategic planning
+Main article: Strategic planning
+
+Strategic planning is a means of administering the formulation and implementation of strategy. Strategic planning is analytical in nature and refers to formalized procedures to produce the data and analyses used as inputs for strategic thinking, which synthesizes the data resulting in the strategy. Strategic planning may also refer to control mechanisms used to implement the strategy once it is determined. In other words, strategic planning happens around the strategy formation process.[11]
+Environmental analysis
+
+Porter wrote in 1980 that formulation of competitive strategy includes consideration of four key elements:
+
+    Company strengths and weaknesses;
+    Personal values of the key implementers (i.e., management and the board)
+    Broader societal expectations.[17]
+
+The first two elements relate to factors internal to the company (i.e., the internal environment), while the latter two relate to factors external to the company (i.e., the external environment).[17]
+
+There are many analytical frameworks which attempt to organize the strategic planning process. Examples of frameworks that address the four elements described above include:
+
+    External environment: PEST analysis or STEEP analysis is a framework used to examine the remote external environmental factors that can affect the organization, such as political, economic, social/demographic, and technological. Common variations include SLEPT, PESTLE, STEEPLE, and STEER analysis, each of which incorporates slightly different emphases.
+    Industry environment: The Porter Five Forces Analysis framework helps to determine the competitive rivalry and therefore attractiveness of a market. It is used to help determine the portfolio of offerings the organization will provide and in which markets.
+    Relationship of internal and external environment: SWOT analysis is one of the most basic and widely used frameworks, which examines both internal elements of the organization — Strengths and Weaknesses — and external elements — Opportunities and Threats. It helps examine the organization's resources in the context of its environment.
+
+Scenario planning
+
+A number of strategists use scenario planning techniques to deal with change. The way Peter Schwartz put it in 1991 is that strategic outcomes cannot be known in advance so the sources of competitive advantage cannot be predetermined.[38] The fast changing business environment is too uncertain for us to find sustainable value in formulas of excellence or competitive advantage. Instead, scenario planning is a technique in which multiple outcomes can be developed, their implications assessed, and their likeliness of occurrence evaluated. According to Pierre Wack, scenario planning is about insight, complexity, and subtlety, not about formal analysis and numbers.[39]
+
+Some business planners are starting to use a complexity theory approach to strategy. Complexity can be thought of as chaos with a dash of order. Chaos theory deals with turbulent systems that rapidly become disordered. Complexity is not quite so unpredictable. It involves multiple agents interacting in such a way that a glimpse of structure may appear.
+Measuring and controlling implementation
+Generic Strategy Map illustrating four elements of a balanced scorecard
+
+Once the strategy is determined, various goals and measures may be established to chart a course for the organization, measure performance and control implementation of the strategy. Tools such as the balanced scorecard and strategy maps help crystallize the strategy, by relating key measures of success and performance to the strategy. These tools measure financial, marketing, production, organizational development, and innovation measures to achieve a 'balanced' perspective. Advances in information technology and data availability enable the gathering of more information about performance, allowing managers to take a much more analytical view of their business than before.
+
+Strategy may also be organized as a series of "initiatives" or "programs", each of which comprises one or more projects. Various monitoring and feedback mechanisms may also be established, such as regular meetings between divisional and corporate management to control implementation.
+Evaluation
+
+A key component to strategic management which is often overlooked when planning is evaluation. There are many ways to evaluate whether or not strategic priorities and plans have been achieved, one such method is Robert Stake's Responsive Evaluation.[40] Responsive evaluation 
+provides a naturalistic and humanistic approach to program evaluation. In expanding beyond the goal-oriented or pre-ordinate evaluation design, responsive evaluation takes into consideration the program’s background (history), conditions, and transactions among stakeholders. It is largely emergent, the design unfolds as contact is made with stakeholders.
+Limitations
+
+While strategies are established to set direction, focus effort, define or clarify the organization, and provide consistency or guidance in response to the environment, these very elements also mean that certain signals are excluded from consideration or de-emphasized. Mintzberg wrote in 1987: "Strategy is a categorizing scheme by which incoming stimuli can be ordered and dispatched." Since a strategy orients the organization in a particular manner or direction, that direction may not effectively match the environment, initially (if a bad strategy) or over time as circumstances change. As such, Mintzberg continued, "Strategy [once established] is a force that resists change, not encourages it."[10]
+
+Therefore, a critique of strategic management is that it can overly constrain managerial discretion in a dynamic environment. "How can individuals, organizations and societies cope as well as possible with ... issues too complex to be fully understood, given the fact that actions initiated on the basis of inadequate understanding may lead to significant regret?"[41] Some theorists insist on an iterative approach, considering in turn objectives, implementation and resources.[42] I.e., a "...repetitive learning cycle [rather than] a linear progression towards a clearly defined final destination."[43] Strategies must be able to adjust during implementation because "humans rarely can proceed satisfactorily except by learning from experience; and modest probes, serially modified on the basis of feedback, usually are the best method for such learning."[44]
+
+In 2000, Gary Hamel coined the term strategic convergence to explain the limited scope of the strategies being used by rivals in greatly differing circumstances. He lamented that successful strategies are imitated by firms that do not understand that for a strategy to work, it must account for the specifics of each situation.[45] Woodhouse and Collingridge claim that the essence of being “strategic” lies in a capacity for "intelligent trial-and error"[44] rather than strict adherence to finely honed strategic plans. Strategy should be seen as laying out the general path rather than precise steps.[46] Means are as likely to determine ends as ends are to determine means.[47] The objectives that an organization might wish to pursue are limited by the range of feasible approaches to implementation. (There will usually be only a small number of approaches that will not only be technically and administratively possible, but also satisfactory to the full range of organizational stakeholders.) In turn, the range of feasible implementation approaches is determined by the availability of resources.
+Strategic themes
+
+Various strategic approaches used across industries (themes) have arisen over the years. These include the shift from product-driven demand to customer- or marketing-driven demand (described above), the increased use of self-service approaches to lower cost, changes in the value chain or corporate structure due to globalization (e.g., off-shoring of production and assembly), and the internet.
+Self-service
+
+One theme in strategic competition has been the trend towards self-service, often enabled by technology, where the customer takes on a role previously performed by a worker to lower the price.[6] Examples include:
+
+    Automated teller machine (ATM) to obtain cash rather via a bank teller;
+    Self-service at the gas pump rather than with help from an attendant;
+    Retail internet orders input by the customer rather than a retail clerk, such as online book sales;
+    Mass-produced ready-to-assemble furniture transported by the customer;
+    Self-checkout at the grocery store; and
+    Online banking and bill payment.[48]
+
+Globalization and the virtual firm
+
+One definition of globalization refers to the integration of economies due to technology and supply chain process innovation. Companies are no longer required to be vertically integrated (i.e., designing, producing, assembling, and selling their products). In other words, the value chain for a company's product may no longer be entirely within one firm; several entities comprising a virtual firm may exist to fulfill the customer requirement. For example, some companies have chosen to outsource production to third parties, retaining only design and sales functions inside their organization.[6]
+Internet and information availability
+
+The internet has dramatically empowered consumers and enabled buyers and sellers to come together with drastically reduced transaction and intermediary costs, creating much more robust marketplaces for the purchase and sale of goods and services. Examples include online auction sites, internet dating services, and internet book sellers. In many industries, the internet has dramatically altered the competitive landscape. Services that used to be provided within one entity (e.g., a car dealership providing financing and pricing information) are now provided by third parties.[49] Further, compared to traditional media like television, the internet has caused a major shift in viewing habits through on demand content which has led to an increasingly fragmented audience.[citation needed]
+
+Author Phillip Evans said in 2013 that networks are challenging traditional hierarchies. Value chains may also be breaking up ("deconstructing") where information aspects can be separated from functional activity. Data that is readily available for free or very low cost makes it harder for information-based, vertically integrated businesses to remain intact. Evans said: "The basic story here is that what used to be vertically integrated, oligopolistic competition among essentially similar kinds of competitors is evolving, by one means or another, from a vertical structure to a horizontal one. Why is that happening? It's happening because transaction costs are plummeting and because scale is polarizing. The plummeting of transaction costs weakens the glue that holds value chains together, and allows them to separate." He used Wikipedia as an example of a network that has challenged the traditional encyclopedia business model.[50] Evans predicts the emergence of a new form of industrial organization called a "stack", analogous to a technology stack, in which competitors rely on a common platform of inputs (services or information), essentially layering the remaining competing parts of their value chains on top of this common platform.[51]
+Strategy as learning
+See also: Organizational learning
+
+In 1990, Peter Senge, who had collaborated with Arie de Geus at Dutch Shell, popularized de Geus' notion of the "learning organization".[52] The theory is that gathering and analyzing information is a necessary requirement for business success in the information age. To do this, Senge claimed that an organization would need to be structured such that:[53]
+
+    People can continuously expand their capacity to learn and be productive.
+    New patterns of thinking are nurtured.
+    Collective aspirations are encouraged.
+    People are encouraged to see the “whole picture” together.
+
+Senge identified five disciplines of a learning organization. They are:
+
+    Personal responsibility, self-reliance, and mastery — We accept that we are the masters of our own destiny. We make decisions and live with the consequences of them. When a problem needs to be fixed, or an opportunity exploited, we take the initiative to learn the required skills to get it done.
+    Mental models — We need to explore our personal mental models to understand the subtle effect they have on our behaviour.
+    Shared vision — The vision of where we want to be in the future is discussed and communicated to all. It provides guidance and energy for the journey ahead.
+    Team learning — We learn together in teams. This involves a shift from “a spirit of advocacy to a spirit of enquiry”.
+    Systems thinking — We look at the whole rather than the parts. This is what Senge calls the “Fifth discipline”. It is the glue that integrates the other four into a coherent strategy. For an alternative approach to the “learning organization”, see Garratt, B. (1987).
+
+Geoffrey Moore (1991) and R. Frank and P. Cook[54] also detected a shift in the nature of competition. Markets driven by technical standards or by "network effects" can give the dominant firm a near-monopoly.[55] The same is true of networked industries in which interoperability requires compatibility between users. Examples include Internet Explorer's and Amazon's early dominance of their respective industries. IE's later decline shows that such dominance may be only temporary.
+
+Moore showed how firms could attain this enviable position by using E.M. Rogers' five stage adoption process and focusing on one group of customers at a time, using each group as a base for reaching the next group. The most difficult step is making the transition between introduction and mass acceptance. (See Crossing the Chasm). If successful a firm can create a bandwagon effect in which the momentum builds and its product becomes a de facto standard.
+Strategy as adapting to change
+
+In 1969, Peter Drucker coined the phrase Age of Discontinuity to describe the way change disrupts lives.[56] In an age of continuity attempts to predict the future by extrapolating from the past can be accurate. But according to Drucker, we are now in an age of discontinuity and extrapolating is ineffective. He identifies four sources of discontinuity: new technologies, globalization, cultural pluralism and knowledge capital.
+
+In 1970, Alvin Toffler in Future Shock described a trend towards accelerating rates of change.[57] He illustrated how social and technical phenomena had shorter lifespans with each generation, and he questioned society's ability to cope with the resulting turmoil and accompanying anxiety. In past eras periods of change were always punctuated with times of stability. This allowed society to assimilate the change before the next change arrived. But these periods of stability had all but disappeared by the late 20th century. In 1980 in The Third Wave, Toffler characterized this shift to relentless change as the defining feature of the third phase of civilization (the first two phases being the agricultural and industrial waves).[58]
+
+In 1978, Derek F. Abell (Abell, D. 1978) described "strategic windows" and stressed the importance of the timing (both entrance and exit) of any given strategy. This led some strategic planners to build planned obsolescence into their strategies.[59]
+
+In 1983, Noel Tichy wrote that because we are all beings of habit we tend to repeat what we are comfortable with.[60] He wrote that this is a trap that constrains our creativity, prevents us from exploring new ideas, and hampers our dealing with the full complexity of new issues. He developed a systematic method of dealing with change that involved looking at any new issue from three angles: technical and production, political and resource allocation, and corporate culture.
+
+In 1989, Charles Handy identified two types of change.[61] "Strategic drift" is a gradual change that occurs so subtly that it is not noticed until it is too late. By contrast, "transformational change" is sudden and radical. It is typically caused by discontinuities (or exogenous shocks) in the business environment. The point where a new trend is initiated is called a "strategic inflection point" by Andy Grove. Inflection points can be subtle or radical.
+
+In 1990, Richard Pascale wrote that relentless change requires that businesses continuously reinvent themselves.[62] His famous maxim is “Nothing fails like success” by which he means that what was a strength yesterday becomes the root of weakness today, We tend to depend on what worked yesterday and refuse to let go of what worked so well for us in the past. Prevailing strategies become self-confirming. To avoid this trap, businesses must stimulate a spirit of inquiry and healthy debate. They must encourage a creative process of self-renewal based on constructive conflict.
+
+In 1996, Adrian Slywotzky showed how changes in the business environment are reflected in value migrations between industries, between companies, and within companies.[63] He claimed that recognizing the patterns behind these value migrations is necessary if we wish to understand the world of chaotic change. In “Profit Patterns” (1999) he described businesses as being in a state of strategic anticipation as they try to spot emerging patterns. Slywotsky and his team identified 30 patterns that have transformed industry after industry.[64]
+
+In 1997, Clayton Christensen (1997) took the position that great companies can fail precisely because they do everything right since the capabilities of the organization also define its disabilities.[65] Christensen's thesis is that outstanding companies lose their market leadership when confronted with disruptive technology. He called the approach to discovering the emerging markets for disruptive technologies agnostic marketing, i.e., marketing under the implicit assumption that no one – not the company, not the customers – can know how or in what quantities a disruptive product can or will be used without the experience of using it.
+
+In 1999, Constantinos Markides reexamined the nature of strategic planning.[66] He described strategy formation and implementation as an ongoing, never-ending, integrated process requiring continuous reassessment and reformation. Strategic management is planned and emergent, dynamic and interactive.
+
+J. Moncrieff (1999) stressed strategy dynamics.[67] He claimed that strategy is partially deliberate and partially unplanned. The unplanned element comes from emergent strategies that result from the emergence of opportunities and threats in the environment and from "strategies in action" (ad hoc actions across the organization).
+
+David Teece pioneered research on resource-based strategic management and the dynamic capabilities perspective, defined as “the ability to integrate, build, and reconfigure internal and external competencies to address rapidly changing environments".[68] His 1997 paper (with Gary Pisano and Amy Shuen) "Dynamic Capabilities and Strategic Management" was the most cited paper in economics and business for the period from 1995 to 2005.[69]
+
+In 2000, Gary Hamel discussed strategic decay, the notion that the value of every strategy, no matter how brilliant, decays over time.[45]
+Strategy as operational excellence
+Quality
+
+A large group of theorists felt the area where western business was most lacking was product quality. W. Edwards Deming,[70] Joseph M. Juran,[71] A. Kearney,[72] Philip Crosby[73] and Armand Feignbaum[74] suggested quality improvement techniques such total quality management (TQM), continuous improvement (kaizen), lean manufacturing, Six Sigma, and return on quality (ROQ).
+
+Contrarily, James Heskett (1988),[75] Earl Sasser (1995), William Davidow,[76] Len Schlesinger,[77] A. Paraurgman (1988), Len Berry,[78] Jane Kingman-Brundage,[79] Christopher Hart, and Christopher Lovelock (1994), felt that poor customer service was the problem. They gave us fishbone diagramming, service charting, Total Customer Service (TCS), the service profit chain, service gaps analysis, the service encounter, strategic service vision, service mapping, and service teams. Their underlying assumption was that there is no better source of competitive advantage than a continuous stream of delighted customers.
+
+Process management uses some of the techniques from product quality management and some of the techniques from customer service management. It looks at an activity as a sequential process. The objective is to find inefficiencies and make the process more effective. Although the procedures have a long history, dating back to Taylorism, the scope of their applicability has been greatly widened, leaving no aspect of the firm free from potential process improvements. Because of the broad applicability of process management techniques, they can be used as a basis for competitive advantage.
+
+Carl Sewell,[80] Frederick F. Reichheld,[81] C. Gronroos,[82] and Earl Sasser[83] observed that businesses were spending more on customer acquisition than on retention. They showed how a competitive advantage could be found in ensuring that customers returned again and again. Reicheld broadened the concept to include loyalty from employees, suppliers, distributors and shareholders. They developed techniques for estimating customer lifetime value (CLV) for assessing long-term relationships. The concepts begat attempts to recast selling and marketing into a long term endeavor that created a sustained relationship (called relationship selling, relationship marketing, and customer relationship management). Customer relationship management (CRM) software became integral to many firms.
+Reengineering
+
+Michael Hammer and James Champy felt that these resources needed to be restructured.[84] In a process that they labeled reengineering, firm's reorganized their assets around whole processes rather than tasks. In this way a team of people saw a project through, from inception to completion. This avoided functional silos where isolated departments seldom talked to each other. It also eliminated waste due to functional overlap and interdepartmental communications.
+
+In 1989 Richard Lester and the researchers at the MIT Industrial Performance Center identified seven best practices and concluded that firms must accelerate the shift away from the mass production of low cost standardized products. The seven areas of best practice were:[85]
+
+    Simultaneous continuous improvement in cost, quality, service, and product innovation
+    Breaking down organizational barriers between departments
+    Eliminating layers of management creating flatter organizational hierarchies.
+    Closer relationships with customers and suppliers
+    Intelligent use of new technology
+    Global focus
+    Improving human resource skills
+
+The search for best practices is also called benchmarking.[86] This involves determining where you need to improve, finding an organization that is exceptional in this area, then studying the company and applying its best practices in your firm.
+Other perspectives on strategy
+Strategy as problem solving
+
+Professor Richard P. Rumelt described strategy as a type of problem solving in 2011. He wrote that good strategy has an underlying structure called a kernel. The kernel has three parts: 1) A diagnosis that defines or explains the nature of the challenge; 2) A guiding policy for dealing with the challenge; and 3) Coherent actions designed to carry out the guiding policy.[87] President Kennedy outlined these three elements of strategy in his Cuban Missile Crisis Address to the Nation of 22 October 1962:
+
+    Diagnosis: “This Government, as promised, has maintained the closest surveillance of the Soviet military buildup on the island of Cuba. Within the past week, unmistakable evidence has established the fact that a series of offensive missile sites is now in preparation on that imprisoned island. The purpose of these bases can be none other than to provide a nuclear strike capability against the Western Hemisphere.”
+    Guiding Policy: “Our unswerving objective, therefore, must be to prevent the use of these missiles against this or any other country, and to secure their withdrawal or elimination from the Western Hemisphere.”
+    Action Plans: First among seven numbered steps was the following: “To halt this offensive buildup a strict quarantine on all offensive military equipment under shipment to Cuba is being initiated. All ships of any kind bound for Cuba from whatever nation or port will, if found to contain cargoes of offensive weapons, be turned back.”[88]
+
+Active strategic management required active information gathering and active problem solving. In the early days of Hewlett-Packard (HP), Dave Packard and Bill Hewlett devised an active management style that they called management by walking around (MBWA). Senior HP managers were seldom at their desks. They spent most of their days visiting employees, customers, and suppliers. This direct contact with key people provided them with a solid grounding from which viable strategies could be crafted. Management consultants Tom Peters and Robert H. Waterman had used the term in their 1982 book In Search of Excellence: Lessons From America's Best-Run Companies.[89] Some Japanese managers employ a similar system, which originated at Honda, and is sometimes called the 3 G's (Genba, Genbutsu, and Genjitsu, which translate into “actual place”, “actual thing”, and “actual situation”).
+Creative vs analytic approaches
+
+In 2010, IBM released a study summarizing three conclusions of 1500 CEOs around the world: 1) complexity is escalating, 2) enterprises are not equipped to cope with this complexity, and 3) creativity is now the single most important leadership competency. IBM said that it is needed in all aspects of leadership, including strategic thinking and planning.[90]
+
+Similarly, Mckeown argued that over-reliance on any particular approach to strategy is dangerous and that multiple methods can be used to combine the creativity and analytics to create an "approach to shaping the future", that is difficult to copy.[91]
+Non-strategic management
+
+A 1938 treatise by Chester Barnard, based on his own experience as a business executive, described the process as informal, intuitive, non-routinized and involving primarily oral, 2-way communications. Bernard says “The process is the sensing of the organization as a whole and the total situation relevant to it. It transcends the capacity of merely intellectual methods, and the techniques of discriminating the factors of the situation. The terms pertinent to it are “feeling”, “judgement”, “sense”, “proportion”, “balance”, “appropriateness”. It is a matter of art rather than science.”[92]
+
+In 1973, Mintzberg found that senior managers typically deal with unpredictable situations so they strategize in ad hoc, flexible, dynamic, and implicit ways. He wrote, “The job breeds adaptive information-manipulators who prefer the live concrete situation. The manager works in an environment of stimulus-response, and he develops in his work a clear preference for live action.”[93]
+
+In 1982, John Kotter studied the daily activities of 15 executives and concluded that they spent most of their time developing and working a network of relationships that provided general insights and specific details for strategic decisions. They tended to use “mental road maps” rather than systematic planning techniques.[94]
+
+Daniel Isenberg's 1984 study of senior managers found that their decisions were highly intuitive. Executives often sensed what they were going to do before they could explain why.[95] He claimed in 1986 that one of the reasons for this is the complexity of strategic decisions and the resultant information uncertainty.[96]
+
+Zuboff claimed that information technology was widening the divide between senior managers (who typically make strategic decisions) and operational level managers (who typically make routine decisions). She alleged that prior to the widespread use of computer systems, managers, even at the most senior level, engaged in both strategic decisions and routine administration, but as computers facilitated (She called it “deskilled”) routine processes, these activities were moved further down the hierarchy, leaving senior management free for strategic decision making.
+
+In 1977, Abraham Zaleznik distinguished leaders from managers. He described leaders as visionaries who inspire, while managers care about process.[97] He claimed that the rise of managers was the main cause of the decline of American business in the 1970s and 1980s. Lack of leadership is most damaging at the level of strategic management where it can paralyze an entire organization.[98]
+
+Dr Maretha Prinsloo developed the Cognitive Process Profile (CPP) psychometric from the work of Elliott Jacques. The CPP is a computer-based psychometric which profiles a person's capacity for strategic thinking. It is used worldwide in selecting and developing people for strategic roles.
+
+According to Corner, Kinichi, and Keats,[99] strategic decision making in organizations occurs at two levels: individual and aggregate. They developed a model of parallel strategic decision making. The model identifies two parallel processes that involve getting attention, encoding information, storage and retrieval of information, strategic choice, strategic outcome and feedback. The individual and organizational processes interact at each stage. For instance, competition-oriented objectives are based on the knowledge of competing firms, such as their market share.[100]
+Strategy as marketing
+
+The 1980s also saw the widespread acceptance of positioning theory. Although the theory originated with Jack Trout in 1969, it didn’t gain wide acceptance until Al Ries and Jack Trout wrote their classic book Positioning: The Battle For Your Mind (1979). The basic premise is that a strategy should not be judged by internal company factors but by the way customers see it relative to the competition. Crafting and implementing a strategy involves creating a position in the mind of the collective consumer. Several techniques enabled the practical use of positioning theory. Perceptual mapping for example, creates visual displays of the relationships between positions. Multidimensional scaling, discriminant analysis, factor analysis and conjoint analysis are mathematical techniques used to determine the most relevant characteristics (called dimensions or factors) upon which positions should be based. Preference regression can be used to determine vectors of ideal positions and cluster analysis can identify clusters of positions.
+
+In 1992 Jay Barney saw strategy as assembling the optimum mix of resources, including human, technology and suppliers, and then configuring them in unique and sustainable ways.[101]
+
+James Gilmore and Joseph Pine found competitive advantage in mass customization.[102] Flexible manufacturing techniques allowed businesses to individualize products for each customer without losing economies of scale. This effectively turned the product into a service. They also realized that if a service is mass-customized by creating a “performance” for each individual client, that service would be transformed into an “experience”. Their book, The Experience Economy,[103] along with the work of Bernd Schmitt convinced many to see service provision as a form of theatre. This school of thought is sometimes referred to as customer experience management (CEM).
+Information- and technology-driven strategy
+
+Many industries with a high information component are being transformed.[104] For example, Encarta demolished Encyclopædia Britannica (whose sales have plummeted 80% since their peak of $650 million in 1990) before it was in turn, eclipsed by collaborative encyclopedias like Wikipedia. The music industry was similarly disrupted. The technology sector has provided some strategies directly. For example, from the software development industry agile software development provides a model for shared development processes.
+
+Peter Drucker conceived of the “knowledge worker” in the 1950s. He described how fewer workers would do physical labor, and more would apply their minds. In 1984, John Naisbitt theorized that the future would be driven largely by information: companies that managed information well could obtain an advantage, however the profitability of what he called “information float” (information that the company had and others desired) would disappear as inexpensive computers made information more accessible.
+
+Daniel Bell (1985) examined the sociological consequences of information technology, while Gloria Schuck and Shoshana Zuboff looked at psychological factors.[105] Zuboff distinguished between “automating technologies” and “informating technologies”. She studied the effect that both had on workers, managers and organizational structures. She largely confirmed Drucker's predictions about the importance of flexible decentralized structure, work teams, knowledge sharing and the knowledge worker's central role. Zuboff also detected a new basis for managerial authority, based on knowledge (also predicted by Drucker) which she called “participative management”.[106]
+Maturity of planning process
+
+McKinsey & Company developed a capability maturity model in the 1970s to describe the sophistication of planning processes, with strategic management ranked the highest. The four stages include:
+
+    Financial planning, which is primarily about annual budgets and a functional focus, with limited regard for the environment;
+    Forecast-based planning, which includes multi-year budgets and more robust capital allocation across business units;
+    Externally oriented planning, where a thorough situation analysis and competitive assessment is performed;
+    Strategic management, where widespread strategic thinking occurs and a well-defined strategic framework is used.[18]
+
+PIMS study
+
+The long-term PIMS study, started in the 1960s and lasting for 19 years, attempted to understand the Profit Impact of Marketing Strategies (PIMS), particularly the effect of market share. The initial conclusion of the study was unambiguous: the greater a company's market share, the greater their rate of profit. Market share provides economies of scale. It also provides experience curve advantages. The combined effect is increased profits.[107]
+
+The benefits of high market share naturally led to an interest in growth strategies. The relative advantages of horizontal integration, vertical integration, diversification, franchises, mergers and acquisitions, joint ventures and organic growth were discussed. Other research indicated that a low market share strategy could still be very profitable. Schumacher (1973),[108] Woo and Cooper (1982),[109] Levenson (1984),[110] and later Traverso (2002)[111] showed how smaller niche players obtained very high returns.
+Other influences on business strategy
+Military strategy
+See also: Military strategy
+
+In the 1980s business strategists realized that there was a vast knowledge base stretching back thousands of years that they had barely examined. They turned to military strategy for guidance. Military strategy books such as The Art of War by Sun Tzu, On War by von Clausewitz, and The Red Book by Mao Zedong became business classics. From Sun Tzu, they learned the tactical side of military strategy and specific tactical prescriptions. From von Clausewitz, they learned the dynamic and unpredictable nature of military action. From Mao, they learned the principles of guerrilla warfare. Important marketing warfare books include Business War Games by Barrie James, Marketing Warfare by Al Ries and Jack Trout and Leadership Secrets of Attila the Hun by Wess Roberts.
+
+The four types of business warfare theories are:
+
+    Offensive marketing warfare strategies
+    Defensive marketing warfare strategies
+    Flanking marketing warfare strategies
+    Guerrilla marketing warfare strategies
+
+The marketing warfare literature also examined leadership and motivation, intelligence gathering, types of marketing weapons, logistics and communications.
+
+By the twenty-first century marketing warfare strategies had gone out of favour in favor of non-confrontational approaches. In 1989, Dudley Lynch and Paul L. Kordis published Strategy of the Dolphin: Scoring a Win in a Chaotic World. "The Strategy of the Dolphin” was developed to give guidance as to when to use aggressive strategies and when to use passive strategies. A variety of aggressiveness strategies were developed.
+
+In 1993, J. Moore used a similar metaphor.[112] Instead of using military terms, he created an ecological theory of predators and prey(see ecological model of competition), a sort of Darwinian management strategy in which market interactions mimic long term ecological stability.
+
+Author Phillip Evans said in 2014 that "Henderson's central idea was what you might call the Napoleonic idea of concentrating mass against weakness, of overwhelming the enemy. What Henderson recognized was that, in the business world, there are many phenomena which are characterized by what economists would call increasing returns -- scale, experience. The more you do of something, disproportionately the better you get. And therefore he found a logic for investing in such kinds of overwhelming mass in order to achieve competitive advantage. And that was the first introduction of essentially a military concept of strategy into the business world... It was on those two ideas, Henderson's idea of increasing returns to scale and experience, and Porter's idea of the value chain, encompassing heterogenous elements, that the whole edifice of business strategy was subsequently erected."[113]
+Traits of successful companies
+
+Like Peters and Waterman a decade earlier, James Collins and Jerry Porras spent years conducting empirical research on what makes great companies. Six years of research uncovered a key underlying principle behind the 19 successful companies that they studied: They all encourage and preserve a core ideology that nurtures the company. Even though strategy and tactics change daily, the companies, nevertheless, were able to maintain a core set of values. These core values encourage employees to build an organization that lasts. In Built To Last (1994) they claim that short term profit goals, cost cutting, and restructuring will not stimulate dedicated employees to build a great company that will endure.[114] In 2000 Collins coined the term “built to flip” to describe the prevailing business attitudes in Silicon Valley. It describes a business culture where technological change inhibits a long term focus. He also popularized the concept of the BHAG (Big Hairy Audacious Goal).
+
+Arie de Geus (1997) undertook a similar study and obtained similar results.[115] He identified four key traits of companies that had prospered for 50 years or more. They are:
+
+    Sensitivity to the business environment — the ability to learn and adjust
+    Cohesion and identity — the ability to build a community with personality, vision, and purpose
+    Tolerance and decentralization — the ability to build relationships
+    Conservative financing
+
+A company with these key characteristics he called a living company because it is able to perpetuate itself. If a company emphasizes knowledge rather than finance, and sees itself as an ongoing community of human beings, it has the potential to become great and endure for decades. Such an organization is an organic entity capable of learning (he called it a “learning organization”) and capable of creating its own processes, goals, and persona.[115]
+
+Will Mulcaster[116] suggests that firms engage in a dialogue that centres around these questions:
+
+    Will the proposed competitive advantage create Perceived Differential Value?"
+    Will the proposed competitive advantage create something that is different from the competition?"
+    Will the difference add value in the eyes of potential customers?" – This question will entail a discussion of the combined effects of price, product features and consumer perceptions.
+    Will the product add value for the firm?" – Answering this question will require an examination of cost effectiveness and the pricing strategy.
+
+See also
+
+    Balanced Scorecard
+    Business analysis
+    Business model
+    Business plan
+    Business Strategy Mapping
+    Concept Driven Strategy
+    Cost overrun
+    Cognitive Process Profile
+
+	
+
+    Dynamic capabilities
+    Integrated business planning
+    Marketing
+    Marketing plan
+    Marketing strategies
+    Management
+
+	
+
+    Management consulting
+    Military strategy
+    Morphological analysis
+    Overall equipment effectiveness
+    Real options valuation
+    Results-based management
+    Revenue shortfall
+
+	
+
+    Strategy (game theory)
+    Strategy dynamics
+    Strategic planning
+    Strategic Management Society
+    Strategy map
+    Strategy Markup Language
+    Strategy visualization
+    Value migration
+    Six Forces Model
+    Adversarial purchasing
+
+Any person, corporation, or nation should know who or where they are, where they want to be, and how to get there.[2] The strategic-planning process utilizes analytical models that provide a realistic picture of the individual, corporation, or nation at its “consciously incompetent” level, creating the necessary motivation for the development of a strategic plan.[3] The process requires five distinct steps outlined below and the selected strategy must be sufficiently robust to enable the firm to perform activities differently from its rivals or to perform similar activities in a more efficient manner.[4]
+
+A good strategic plan includes metrics that translate the vision and mission into specific end points.[5] This is critical because strategic planning is ultimately about resource allocation and would not be relevant if resources were unlimited. This article aims to explain how finance, financial goals, and financial performance can play a more integral role in the strategic planning and decision-making process, particularly in the implementation and monitoring stage.
+The Strategic-Planning and Decision-Making Process
+
+1. Vision Statement
+
+The creation of a broad statement about the company’s values, purpose, and future direction is the first step in the strategic-planning process.[6] The vision statement must express the company’s core ideologies—what it stands for and why it exists—and its vision for the future, that is, what it aspires to be, achieve, or create.[7]
+
+2. Mission Statement
+
+An effective mission statement conveys eight key components about the firm: target customers and markets; main products and services; geographic domain; core technologies; commitment to survival, growth, and profitability; philosophy; self-concept; and desired public image.[8] The finance component is represented by the company’s commitment to survival, growth, and profitability.[9] The company’s long-term financial goals represent its commitment to a strategy that is innovative, updated, unique, value-driven, and superior to those of competitors.[10]
+
+3. Analysis
+
+This third step is an analysis of the firm’s business trends, external opportunities, internal resources, and core competencies. For external analysis, firms often utilize Porter’s five forces model of industry competition,[11] which identifies the company’s level of rivalry with existing competitors, the threat of substitute products, the potential for new entrants, the bargaining power of suppliers, and the bargaining power of customers.[12]
+
+For internal analysis, companies can apply the industry evolution model, which identifies takeoff (technology, product quality, and product performance features), rapid growth (driving costs down and pursuing product innovation), early maturity and slowing growth (cost reduction, value services, and aggressive tactics to maintain or gain market share), market saturation (elimination of marginal products and continuous improvement of value-chain activities), and stagnation or decline (redirection to fastest-growing market segments and efforts to be a low-cost industry leader).[13]
+
+Another method, value-chain analysis clarifies a firm’s value-creation process based on its primary and secondary activities.[14] This becomes a more insightful analytical tool when used in conjunction with activity-based costing and benchmarking tools that help the firm determine its major costs, resource strengths, and competencies, as well as identify areas where productivity can be improved and where re-engineering may produce a greater economic impact.[15]
+
+SWOT (strengths, weaknesses, opportunities, and threats) is a classic model of internal and external analysis providing management information to set priorities and fully utilize the firm’s competencies and capabilities to exploit external opportunities,[16] determine the critical weaknesses that need to be corrected, and counter existing threats.[17]
+
+4. Strategy Formulation
+
+To formulate a long-term strategy, Porter’s generic strategies model [18] is useful as it helps the firm aim for one of the following competitive advantages: a) low-cost leadership (product is a commodity, buyers are price-sensitive, and there are few opportunities for differentiation); b) differentiation (buyers’ needs and preferences are diverse and there are opportunities for product differentiation); c) best-cost provider (buyers expect superior value at a lower price); d) focused low-cost (market niches with specific tastes and needs); or e) focused differentiation (market niches with unique preferences and needs).[19]
+
+5. Strategy Implementation and Management
+
+In the last ten years, the balanced scorecard (BSC)[20] has become one of the most effective management instruments for implementing and monitoring strategy execution as it helps to align strategy with expected performance and it stresses the importance of establishing financial goals for employees, functional areas, and business units. The BSC ensures that the strategy is translated into objectives, operational actions, and financial goals and focuses on four key dimensions: financial factors, employee learning and growth, customer satisfaction, and internal business processes.[21]
+The Role of Finance
+
+Financial metrics have long been the standard for assessing a firm’s performance. The BSC supports the role of finance in establishing and monitoring specific and measurable financial strategic goals on a coordinated, integrated basis, thus enabling the firm to operate efficiently and effectively. Financial goals and metrics are established based on benchmarking the “best-in-industry” and include:
+
+1. Free Cash Flow
+
+This is a measure of the firm’s financial soundness and shows how efficiently its financial resources are being utilized to generate additional cash for future investments.[22] It represents the net cash available after deducting the investments and working capital increases from the firm’s operating cash flow. Companies should utilize this metric when they anticipate substantial capital expenditures in the near future or follow-through for implemented projects.
+
+2. Economic Value-Added
+
+This is the bottom-line contribution on a risk-adjusted basis and helps management to make effective, timely decisions to expand businesses that increase the firm’s economic value and to implement corrective actions in those that are destroying its value.[23] It is determined by deducting the operating capital cost from the net income. Companies set economic value-added goals to effectively assess their businesses’ value contributions and improve the resource allocation process.
+
+3. Asset Management
+
+This calls for the efficient management of current assets (cash, receivables, inventory) and current liabilities (payables, accruals) turnovers and the enhanced management of its working capital and cash conversion cycle. Companies must utilize this practice when their operating performance falls behind industry benchmarks or benchmarked companies.
+
+4. Financing Decisions and Capital Structure
+
+Here, financing is limited to the optimal capital structure (debt ratio or leverage), which is the level that minimizes the firm’s cost of capital. This optimal capital structure determines the firm’s reserve borrowing capacity (short- and long-term) and the risk of potential financial distress.[24] Companies establish this structure when their cost of capital rises above that of direct competitors and there is a lack of new investments.
+
+5. Profitability Ratios
+
+This is a measure of the operational efficiency of a firm. Profitability ratios also indicate inefficient areas that require corrective actions by management; they measure profit relationships with sales, total assets, and net worth. Companies must set profitability ratio goals when they need to operate more effectively and pursue improvements in their value-chain activities.
+
+6. Growth Indices
+
+Growth indices evaluate sales and market share growth and determine the acceptable trade-off of growth with respect to reductions in cash flows, profit margins, and returns on investment. Growth usually drains cash and reserve borrowing funds, and sometimes, aggressive asset management is required to ensure sufficient cash and limited borrowing.[25] Companies must set growth index goals when growth rates have lagged behind the industry norms or when they have high operating leverage.
+
+7. Risk Assessment and Management
+
+A firm must address its key uncertainties by identifying, measuring, and controlling its existing risks in corporate governance and regulatory compliance, the likelihood of their occurrence, and their economic impact. Then, a process must be implemented to mitigate the causes and effects of those risks.[26] Companies must make these assessments when they anticipate greater uncertainty in their business or when there is a need to enhance their risk culture.
+
+8. Tax Optimization
+
+Many functional areas and business units need to manage the level of tax liability undertaken in conducting business and to understand that mitigating risk also reduces expected taxes.[27] Moreover, new initiatives, acquisitions, and product development projects must be weighed against their tax implications and net after-tax contribution to the firm’s value. In general, performance must, whenever possible, be measured on an after-tax basis. Global companies must adopt this measure when operating in different tax environments, where they are able to take advantage of inconsistencies in tax regulations.
+Conclusion
+
+The introduction of the balanced scorecard emphasized financial performance as one of the key indicators of a firm’s success and helped to link strategic goals to performance and provide timely, useful information to facilitate strategic and operational control decisions. This has led to the role of finance in the strategic planning process becoming more relevant than ever.
+
+Empirical studies have shown that a vast majority of corporate strategies fail during execution. The above financial metrics help firms implement and monitor their strategies with specific, industry-related, and measurable financial goals, strengthening the organization’s capabilities with hard-to-imitate and non-substitutable competencies. They create sustainable competitive advantages that maximize a firm’s value, the main objective of all stakeholders.
+Management Information Systems (MIS) is the key factor to facilitate and attain efficient decision making in an organization. This research explores the extent to which management information systems implemented to make successful decisions at two selected financial organizations. The research examined whether the selected financial institutions of Bahrain vary as to the use of Management Information Systems leadership of decision making for strategic and tactical planning purposes. The research adapted the quantitative research design to examine two research hypotheses. A total of 190 forms were equally distributed to those who are working at different management levels at the selected organizations. The results of the research showed that MIS was primarily used to enhance strategic planning in both financial institutions. The regression analysis revealed that Tactical planning is found to have no effect on Decision Making, while Strategic planning has a clear effect on the Decision Making Effectiveness in both organizations.
+
+Keywords: Management Information Systems, Strategic Planning, Tactical Planning, Decision Making Process.
+
+ 
+
+ 
+
+1. INTRODUCTION
+
+Currently, organizations are in the race for enhancing their capability in order to survive in the competitions of the new century global market. Therefore, organizations are attempting to advance their agility level by improving the decision making process to be more efficient and highly effective to meet the successive fluctuations of the market. In an effort to achieve this, many modern organizations, either mid or large sized, have concerned with a cycle of progressive investments in and adopted new management information systems components. During last decade, a high percentage of financial organizations frequently used Management Information Systems to facilitate the provision of services; and that the speed of the adoption is expected to grow further as the technology expands.
+
+Whitten et al. (2004, p.12.), stated that "information is an arrangement of people, data, process, and information technology that interact to collect, process, store and provide as output the information needed to support an organization," which indicates that information system is an arrangement of groups, data, processes and technology that act together to accumulate, process, store and provide information output needed to enhance and speed up the process of decision making. In a Bank's information system, there is always a potential crisis which makes the bank endure an insufficiency; thus, an advanced information system supported by a superior mechanism control is required to make certain that an information system has achieved the required processes.
+
+If the relevant information required in a decision-making process or an organization planning is not available at the appropriate time, then there is a good change to be a poor organization planning, inappropriate decision-making, poor priority of needs, and defective programming or scheduling of activities (Adebayo, 2007).
+
+Information is essential for the endurance of a financial organization in the global and competitive market.
+
+The nature of globalization and competitiveness in the market stress on the importance of developing an organization capability through better enhancing MIS.
+
+Accordingly, the stored information must then be recalled and distributed for the use of an organization leadership and top management as well as mid-level managers to take effective long term (strategic) and short term (Tactical) decision-making. MIS is deemed to be a system which provides organizations top management and, even lower level management, with appropriate information based on data from both internal and external sources, to allow them to make effective and timely decisions that best achieve their organization goals and satisfy stakeholder requirements (Argyris, 1971, p. 291).
+
+The conception of information catches the attention of different professionals from different fields such as computer science, economics, business and management, political science, statistics, communication and information studies (Newman 2001). However, the question is "what type of information"? How Information management can play an essential role in the decision making process? How can the coordination between different departments (internal and/or external) and sharing information at the real time accelerate and enhance the process of decision making and avoid decision making errors?
+
+This paper focuses on how information management is needed to generate proper planning and then decisions at both strategic and tactical levels in the two selected financial organizations.
+
+The process of dealing with the financial institutions was tainted by a lot of sensitivity, because of the refusal of those institutions to reveal their decision-making mechanism due to their Disclosure Rules. So we decided to call the first selected institutions case one and case two referring to the second selected organizations.
+
+1.1 Significant Research
+
+Few authors have explored that the critical information required by midlevel and strategic level management is efficiently provided by MIS. A small amount of research has deliberated that the limitations and deficiencies in the process of management information system performance are the main reason for diminishing the efficiency of decision-making process in the organization (Fabunmi, 2003; Knight Moore, 2005).
+
+The questions related to what extent the managing of these information systems assists different decisions at different management levels and the type of responsibility of the financial institution's senior and tactical management in enhancing the management information has been raised with low empirically investigation and examination.
+
+1.2 The purpose of the research
+
+The purpose of this research is to explore the extent to which management information systems are used to make effective decisions of long and short term planning in two financial organizations at the Kingdom of Bahrain. The study will examine whether the government financial institution (Case one) and the Private financial institution (Case two) differ as to the use of management information systems for leadership decision makes in short and long term planning.
+
+This paper aims to evaluate the impact of current MIS models being developed at the selected organizations, and how far they practice this concept in order to enhance their tactical and strategic planning.
+
+1.3 The research organization
+
+The remainder of this paper is organized as follows. Sections 2 and 3 discuss the literature review and research methods. In Section 4, we present results and analysis. In section 5, a discussion will be presented. Finally, conclusion and recommendations are presented in sections 6 and 7, respectively.
+
+ 
+
+2 LITERATURE REVIEW
+
+There is a lof of research on the approaches, techniques and technologies for the design and development of MIS. However, there are a few articles that cover the impact of Management Information Systems on planning strategies and decision making. While there are no universally accepted definitions of MIS and those that exist in literatures are just prejudices of the researchers (Adeoti-Adekeye, 1997). Lee, (2001) defined MIS as "a system or process that provides information needed to manage organizations effectively".
+
+Additionally, Baskerville and Myers (2002) broadly define MIS as "the development, use and application of information systems by individuals, organizations and society". In his study, Becta (2005) describes an information system as "a system consisting of the network of all communication channels used within an organization". In their study, Laudon and Laudon (2003) have defined MIS as "the study of information systems focusing on their use in business and management". The abovementioned definitions showed that MIS has underlined the development, application and validation of relevant theories and models in attempts to encourage quality work in the area.
+
+Referring to the literatures, the field of Management Information Systems (MIS) has had a variegated development in its relatively short life span. MIS has developed its own theme of research and studies (Baskerville and Myers, 2002).
+
+Tracing previous literatures, we can report that during its first few decades, MIS concentrated on the information in the context of:
+
+    • Electronic data processing which carries out transaction processing functions and records detailed factual data.
+
+    • Management reporting systems which scrutinize the operational activities of an organization, providing summaries, information and feedback to management.
+
+Only during the last two decades, the MIS field has shifted to the primary, considered the second type of communication, namely, instruction-based. This has become known as the domain of expert systems (Sasan Rahmatian, 1999). In attempts to review published studies on MIS and articles, Alavi and Carlson (1992) have identified popular research topics, the dominant research perspective, and the relationship between MIS research and practice. In contrast, Baskerville and Myers (2002) have examined the MIS field and found a constant shift of MIS research from a technical focus to a technology-organizational and management-social focus.
+
+Skyrius (2001) underlines the decision maker's attitudes towards different factors influencing the quality of business decisions; these factors include information sources, analytical tools, and the role of information technologies.
+
+Handzic (2001) also pays attention to the impact of information availability on people's ability to process and use information in short and long term planning and in decision making tasks. He revealed that the better the availability of information, the better the impact on both efficiency and accuracy of business decisions.
+
+Liu and Young (2007) talk about key information models and their relationships in business decision support in three different scenarios. The authors proved that global businesses are in advance due to the Enterprise Applications System provided by modern IT tools such as Enterprise Resource Planning (ERP), Knowledge Management Systems (KMS) and Customer Relations Management (CRM) to enhance the efficiency and effectiveness of the Decision Making process.
+
+In order to improve the financial organizational capability and enhance its level of competition in the market, financial organizations should understand the dimensions of the Information Management, and clearly define and develop the resources in case of human, technological, and internal operations, among others,, and manage them well across the organizational boundaries. However, establishing the link between Information System Management, planning and decision making is, at best, tricky.
+
+In an article by Shu and Strassmann (2005), a survey was conducted at 12 banks in the US between 1989 and 1997. They noticed that even though Information Technology had been one of the most essentially dynamic factors relating all efforts, it could not improve banks' earnings.
+
+However, conversely, there are many literatures approving the positive impacts of Information Technology expenses on business value. Kozak (2005) investigates the influence of the evolution in Information Technology on the profit and cost effectiveness of the banking zone during the period between 1992 and 2003. The study indicates an optimistic relationship among the executed Information Technology, productivity and cost savings.
+
+Organizations that do not have formal Information sharing practices will fail to leverage their managers' intellectual capital for business innovation and growth (O'Neill & Adya, 2007). MIS enables the exchange of experiences, which transfers the required information to the management levels to sustain competitive advantage since it affects the decision making to improve the quality of services provided. Therefore, Barachini et al. (2009) supported that it is imperative that these organizations continuously motivate their employees to share valuable information so that their intellectual capital can be leveraged.
+
+Management Information System will give the banking management a new dimension in managing its knowledge and help in carrying out and maximizing the management's initiatives in harmonizing the appropriate strategies in the short and long planning (Edmondson, 2002).
+
+In his study, Obi (2003) suggested that MIS is indispensible in the area of decision-making as it can monitor by itself the instability in a system, verify a course of action and take action to keep the system in control. Literatures also suggested that non-programmed decisions are relevant as they provide support by supplying information to the search, the analysis, the evaluation and the choice and implementation process of decision making.
+
+More recently, Adebayo (2007) explained that the existence of MIS is needed to improve and enhance decision making on the issues affecting human and material resources.
+
+From the literatures presented, we can easily perceive that the importance of the role of both middle and top management to maintain a consistent approach to develop, use, and evaluate MIS systems within the institution. To financial institutions, MIS is used at various levels by top-management, middle and even by the operational staff as a support for decision making that aims to meet strategic goals and strategic objectives.
+
+The above literatures also explore the importance of MIS in providing decision makers with facts, which consequently support and enhance the entire decision-making process. Furthermore, at the most senior level, MIS and DSS supply the data and required information to assist the board of directors and management levels to make an accurate and on time strategic decisions.
+
+ 
+
+3 METHODOLOGY
+
+The current study attempts to explain the relationship between various factors. Due to the nature of the current study and its hypothesis, the primary research purpose of the current study is, thus, explanatory. Explanatory (or causal) explains the complexity of the interrelated variables identified that were posited in the hypothesis and research
+
+By developing several hypotheses, the study thus adapt the quantitative research design to better test those hypotheses. Quantitative research uses survey as the main instrument to collect data.
+
+3.2 Research questions and hypotheses
+
+To achieve the purpose of the current study, the following research questions have been formulated:
+
+    1. To what extent is MIS being utilized to support Strategic planning for decisions in Bahrain's financial organizations?
+
+    2. To what extent is MIS being utilized to support Tactical planning for decisions in Bahrain's financial organizations?
+
+To answer these questions, the current study carries out various hypotheses that developed from previous literatures and studies (Ajayi et. al, 2007). Figure 1 presents the proposed model and factors affecting the process of decision making.
+
+ 
+
+ 
+
+Thus, we consider the hypothesis below:
+
+    a. H1: The Tactical Planning (short term) generated by MIS is positively affecting the decision making process.
+
+    b. H2: The Strategic Planning (long term) generated by MIS is positively affecting the decision making process.
+
+3.3 Survey Instrument
+
+The participants were asked to indicate their perception on a likert scales (1-5) with response ranging from "strongly disagree" to "strongly agree". The collected data were analyzed based on correlation and regression analyses using the statistical package for social sciences (SPSS).
+
+The questionnaire of this study is adapted from previous literature and studies (e.g. Ajayi et. al, 2007). The main reason why we need to refer to literatures when developing a questionnaire is to ensure the high reliability and validity of the survey.
+
+The questionnaire we prepared for this paper was divided into 2 sections. The first section concentrates on the general profile of the respondent including his/her age group, education level and profession and income group. In the second section we were interested in gathering information about the importance of MIS and its use in Case one and Case two of financial institutions in Bahrain. The respondents were provided with a list of questions related to the following factors;
+
+    • The important of MIS in supporting Tactical planning and consequently enhancing the decision-making process
+
+    • The important of MIS in supporting Strategic planning and consequently enhancing the decision-making process
+
+    • The effectiveness of a bank's decision making process
+
+Using a personal relationship, the questionnaire has been discussed with various levels of bank management and a pilot study has been conducted amongst low-level members of the bank's staff. This improved the questionnaire, which has been used for the research presented in this study.
+
+3.4 Population and Data collection
+
+The population for the study is the top management (strategic), mid level management (tactical) and normal staff in Case one (government financial institution) and Case two (private financial institution). This population is deemed to be fully aware of the MIS use at the bank level.
+
+A total of 190 forms were distributed equally (each bank with 95 survey forms). 12% for case one and 14% for case two are having management positions. In a convenience sample, the managers and bank staff were randomly approached.
+
+The distribution took place for a three-week period in early March, 2010. The survey was designed in English language. The research tested the time to fill the survey and it took approximately 5-8 minutes to be completed.
+
+The questionnaire we prepared and used had been pre-tested initially with few people (5 users) working in different sectors to ensure consistency, clarity and relevance to the Bahraini case. Minor changes (related to the questions content, wording, and sequence) were requested by those people, which we implemented before carrying out the final copy.
+
+3.5 Data Analysis
+
+The current study used SPSS (Statistical Package for Social Science), software V.19 to analyze the data obtained from the survey. The current study use ANOVA to see if there are any differences between Case one and Case two when using MIS for supporting decision making processes. Moreover, the simple Regression was implemented to test the hypothesis and the linkages between dependent and independent variables.
+
+ 
+
+4 RESULTS AND ANALYSIS
+
+This section presents the factor analysis test. Then, the results of correlation analysis of the three variables (Strategic planning, Tactical Planning, and The Effectiveness of Decision-making) are discussed. Finally, the results of the paper are discussed in accordance with the research objectives and hypothesis of the study.
+
+4.2 Correlation Tests
+
+Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two independent variables and the dependent variable (Pallant, 2001). Effectiveness of the bank's decision-making processes, which are the dependent variables considered to be the bank's succession in management building and facility, financial aspects and staff issues. Previous studies underpinned the importance of conducting correlation tests before the regression testing, the correlation between variables thus necessary (Coakes and Steed, 2007). The result of the correlations is presented in the following table (table 1).
+
+The results of correlation reveals that Strategic planning (r=0. 318, p < 0.01) found to be strongly and positively correlated with the bank's Decision Making (D.M) Effectiveness, while Tactical Planning (r=0. 263, p < 0.05) found to be positively correlated with the bank's D.M Effectiveness.
+
+4.3 Regression
+
+For further analysis, a Linear Regression analysis was conducted to examine the extent to which the independent variables (Strategic planning and Tactical Planning) influence the succession Effectiveness of the bank's decision making (dependent variable). The independent variables were regressed across organizational outcomes. Tables 2, 3 and 4 summarized the results of the Linear Regression analysis.
+
+The results of regression reveals that the model is significant (p < 0.01) and the coefficient of determination (R2) for the regression is (0.490), indicating that (49%) of the variation in the dependent variable (decision-making effectiveness) was explained by the independent variables included in the regression. The results of regression indicated that the variance in the Effectiveness of the bank's decision making is explained by only one variable; Strategic planning, while Tactical Planning found not to affect the Effectiveness of the bank's decision making process.
+
+The regression analysis was implemented to support the correlation test. However, the study revealed that the Tactical planning is found to have no effect on D.M Effectiveness (Sig=.128 > 0.05). The regression analysis showed that Strategic planning, on the other hand (Sig=.016 < 0.05), affects the D.M Effectiveness in the bank.
+
+Table 5 reveals the research hypotheses accepting/rejecting based on the regression analysis.
+
+ 
+
+5 DISCUSSION
+
+The current study intended to measure the implementation and the use of MIS in two banks in the Kingdom of Bahrain. Two different planning activities have been identified to measure the banks implementation and use of MIS, these activities are: Strategic planning and Tactical Planning. Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two independent variables and the dependent variable.
+
+The results of the descriptive statistics reveal that MIS was primarily used to enhance Strategic planning (long term) in the bank. The study also revealed that MIS is the least implemented in the Tactical Planning (short term).
+
+Correlation test thus implemented investigate the relationship between the two variables. The result reveals that the two variables in this study are correlated with the effectiveness of the decision-making process in the banks. As for Cohen (1992), the result revealed that the Strategic planning is medium correlated with the effectiveness of the decision making process in the bank, while Tactical planning indicates small correlation with the effectiveness of the decision making process in the bank.
+
+Moreover, the results of regression indicated that the variance in the Effectiveness of the bank's decision making process is explained by only one variable, the Strategic planning, while Tactical Planning found not to affect the Effectiveness of the bank's decision making process.
+
+ 
+
+6 CONCLUSION
+
+Management Information Systems is of paramount importance to reach effective decisions in an organization. The literatures presented in this study explained the significant role of MIS in the decision-making process enhancing in an organization. MIS is deemed to be an integrated user-machine system that provides information to support operations, management and decision-making functions at various levels of an organization. Organizations are aware that MIS is a special-purpose system useful for management objectives. The study has highlighted that MIS should be accessible in supplying appropriate and high quality of information from its generation to its users. To MIS, to be vital and effective, a carefully conceived, designed and executed database should exist to communicate the adaptive decisions.
+
+The study has developed two independent variables (Strategic planning and Tactical planning) and one dependant variable (the Effectiveness of Bank Decisionmaking). To answer the research questions and to test the hypotheses, the study adapted the quantitative research design and implemented advance statistic methods (Correlation, ANOVA and regression). The study considered applied research as the results of this study expected to specifically assist bank top management and organizations in general to develop MIS designing, maintaining and implementation in order to enhance the process of decision-making.
+
+In short, the results of the descriptive statistics revealed that MIS primarily used to enhance Strategic planning in the banks. The study also revealed that MIS is the least implemented in the Tactical planning.
+
+Correlation analysis was incorporated to describe the strength and direction of the linear relationship between the two study variables. The results of correlation revealed that Strategic planning and Tactical Planning are positively correlated with the bank D.M Effectiveness.
+
+For further analysis, a Linear Regression analysis was conducted to examine the extent to which the independent variables (Strategic planning and Tactical Planning) influence the succession Effectiveness of the bank decision making (dependent variable). The results of regression revealed that the model is significant and the coefficient of determination (R) for the regression is (0.490). The result of regression indicated that the variance in the Effectiveness of the bank decision making is explained by only one variable: Strategic planning. However, the study revealed that Tactical Planning is found to have no effect on D.M Effectiveness.
+
+ 
+
+7 RECOMMENDATIONS
+
+Based on the findings of this study, MIS was not very adequately implemented for decision making on Strategic planning and Tactical Planning in Bahrain banks. Although there are differences (Case one) in the use of MIS for decision-making processes, the results revealed that the effectiveness of decision making is similar to the Case two. It is therefore recommended that the MIS units should be adequately maintained to ensure the free flow of information and adequate use of MIS in decision making in Strategic and Tactical Planning. The study also recommends that a proper orientation should be conducted in order to help managers at all levels as to ensure proper and adequate use of MIS facilities in generating and disseminating information for better decisions in the banks.
+
+The organization management does not always recognize the information needed, while the information professionals often do not comprehend and are aware of management in order to produce relevant information for the managers they serve. To be successful, an MIS should be designed and operated related to organizations, management and technical factors. The study encourages the organizations' top management to participate in enhancing MIS and make an effective contribution to system design. The information specialists (including systems analysts, designer, ITC personnel, accountants and operations researchers) should cooperate and become more conscious and ware of managerial functions needs so that more effective MIS is developed.
+
+Finally, we believe that to enhance MIS, banks or any organization that use MIS to enhance its decision making processes should develop effective communication channels between management and information professionals. Good communications then facilitates the task of developing relevant and appropriate information systems. It is no simple checklist to automatically produce the perfect MIS. Organization thus would be aware that what is required is an awareness and understanding of key principles and functions in which the design, implementation and operation of MIS are the results of rational decisions rather than haphazard development without considering the real organizational needs. 

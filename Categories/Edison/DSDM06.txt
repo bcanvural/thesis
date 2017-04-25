@@ -1,0 +1,298 @@
+Maximising Contribution: Archiving data 
+
+Archiving data for secondary analysis 
+
+Seen as ethical practice 
+
+Ability to validate and refine or refute published 
+findings using publically available data (Albright 
+& Lyle, 2010). 
+
+May ensure greater transparency of data 
+(
+Arrison
+ et al., 2009; 
+Carusi
+ & 
+Jirotka
+, 2009).  
+
+Reduces burden of repeat data collection on 
+particpants
+ (
+Corti
+ et al., 2000).  
+Ongoing debate regarding archiving 
+qualitative data ...  
+Less debate in the literature regarding 
+quantitative archiving 
+
+“Preparing and preserving all data for sharing is 
+perhaps even more wasteful of scientific and social 
+resources as destroying all data after their first use. 
+The ethical dilemma, then, is to discover the most 
+intelligent course through a thicket of ever-shifting 
+circumstances surrounding the preparation, storage, 
+and ultimate secondary usefulness of data” (
+Sieber
+, 
+2005, p.165). 
+Respecting Privacy 
+
+Quantitative data assumed to be less identifiable 
+
+Albright and Lyle (2010)  
+
+Concerns regarding impact of technology on the 
+potential to identify participants in quantitative 
+research  
+
+Masking of potentially identifiable data though 
+
+Data swapping,  
+
+Microaggregation,  
+
+Adding random observations
+Awareness 
+
+Are researchers aware of the benefits and 
+challenges of archiving data? 
+
+Relatively recent phenomenon for many disciplines 
+
+Good vs best practice? 
+
+Changing legislative framework 
+Issues ... 
+
+When is an archive not an archive? 
+
+Distinction between formal managed archives 
+and researchers holding data for personal use. 
+
+Ethical issues in personal archives (who 
+manages them) 
+
+Must ensure data quality 
+
+“Each set of data an investigator obtains is a 
+slice of reality that may or may not be valid or 
+reliable” (
+Sieber
+, 2005, p.166) 
+What are our ethical obligations when sharing research data?
+
+Ethics dictionary entryWhen sharing or archiving confidential data, you have a duty:‌
+
+    of confidentiality towards participants.
+    to protect participants from harm by not disclosing personal and sensitive information.
+    to treat participants as intelligent beings, able to make their own decisions on how the information they provide is used, shared or made.
+    to inform participants how information and data will be used and shared.
+    to the wider society to make available resources produced by researchers.
+
+When collecting personal or sensitive data, you should consider:
+
+    Do you really need to collect them or are these being collected for administrative purposes only?
+    That you should inform your participants about the use of personal data.
+    Not all research obtained from participants constitute personal data.
+
+Data protection and research data
+
+ 
+
+If you handle personal information about individuals, you have a number of legal obligations to protect that information under the Data Protection Act 1998.
+
+The Data Protection Act (1998) gives individuals certain rights, and imposes obligations on those who record and use personal information to be open about how information is used.  There are eight data protection principles concerning how personal data should be managed:
+
+    processed fairly and lawfully
+    obtained for specified and lawful purposes
+    adequate, relevant and not excessive
+    accurate and, where necessary, kept up-to-date
+    not kept for longer than necessary
+    processed in accordance with the subject's rights
+    kept secure
+    not transferred abroad without adequate protection
+
+More Information
+
+    The Data Protection Act (1998)
+    University Data Protection and Data Protection policy
+    Data Protection: UK Data Archive
+    Data protection, rights and access: MANTRA (University of Edinburgh)
+
+... and our legal obligations?
+
+There are a number of different laws and guidelines surrounding research data such as the Data Protection Act, Freedom of Information Act, etc. and these must be adhered to when managing or sharing personal or sensitive research data. When collecting personal or sensitive data, you should consider:
+
+    Do you really need to collect them or are these being collected for administrative purposes only?
+    That you should inform your participants about the use of personal data.
+    Not all research obtained from participants constitute personal data.
+    Will you be able to supply information requested under Freedom of Information (FoI) legislation within 20 days (unless there is an exemption that allows the University not to disclose it (see below)?
+
+Freedom of Information and research data
+
+ 
+
+The Freedom of Information Act 2000 (FOI) gives the public a general right of access to information a public authority (in this case the University) holds and places an obligation on the authority to provide the information which has been requested, subject to any valid exemptions. Your research data may be covered by the terms of the Act. Most requests you receive are part of routine business as usual.
+
+Researchers share or trade data all the time, so if you normally agree to share data, you should continue to do so; paying due care to normal research considerations; e.g. ethics, privacy and confidentiality. However, in circumstances where you don't want to supply the data, or you think there are legal or ethical reasons why you shouldn't supply it, or the request is specifically identified as a FoI request, you should consult the University Freedom of Information Officer.
+
+The legislation requires the University to supply information, or a refusal notice within 20 working days from receipt of the request.
+
+NB: requests may come to any member of the University; not just, say, the FoI officer.
+
+More information
+
+    Freedom of Information Act (2000)
+    Freedom of Information (Scotland) Act 2002
+    University of St Andrews Freedom of Information (FoI) guidance
+    FoI and Research Data Q&A: JISC
+    Freedom of Information: UK Data Archive
+    FoI - specialist guidance for datasets: Information Commissioner's Office (ICO)
+
+Environmental information
+
+ 
+
+You may additionally receive requests for data under Environmental Information Regulations where applicable, which exist to provide public access to environmental information held by public authorities. Rules for requests of environmental data are similar to regular FOI requests; however, in compliance with European requirements, publicly-funded bodies have greater responsibility to provide requested environmental data, so it is harder to meet the criteria for an exception (i.e. harder to avoid providing data).
+
+Both FoI and EIR include a number of exemptions and exceptions to protect information such as confidentiality or sensitive data or financially valuable information. If you are concerned, consult the University's FoI Officer.
+Research data and copyright
+
+ 
+
+Copyright is an intellectual property right, assigned automatically to the creator, that prevents unauthorised copying and publishing of an original work. Copyright applies to research data and plays a role when creating, sharing and reusing data. More information on copyright and how it applies to research data can be found at the UK Data Service website.
+Does my data have any unrealised commercial value?
+
+The University's Knowledge Transfer Centre (KTC) can help you determine the value or your research, in this case data, and identify any patent potentiality. The KTC plays a substantial role in assisting you as researchers exploit opportunities for the transfer of know-how, data, results and IP to business and industry and in the University, achieving economic impact from its research activities.
+The management of confidential, sensitive and/or personal data has ethical as well as legal implications. The core principle underpinning the University's Code of practice and principles for good ethical governance is that of avoidance of harm. This includes harm to the welfare and interests of human participants (whether participating actively or through observation/use of their data) and harm to the welfare and interests of the wider community. Two key considerations when managing your research data are:
+
+    To ensure the security of confidential, sensitive and/or personal data, including access control. For more information see our Storing your data securely web page.
+    To ensure that appropriate consent is in place for the use or reuse of human data.
+
+Further detail can be found in the Code of practice and principles for good ethical governance.
+
+    For further guidance on the ethics of research data management, speak to a member of your departmental/subject level ethics committee in the first instance.
+
+All research undertaken in the University's name or on its behalf which falls within the University's framework of ethical principles, regardless of funding source, should undergo review by a University ethics sub-committee, and have been signed off by the sub-committee before the research commences, even where ethical scrutiny is also undertaken by an outside body.
+
+The review process will include addressing the above considerations where they apply. Details of the University's procedures for conducting ethical review are set out in the Code.
+
+Your funder and/or your professional body may also have requirements and/or guidance relating to the ethical management of research data, which you will need to take into account when addressing the above considerations.
+
+Many research funders now require the researchers they fund to share and preserve their research data. Writing a Data Management Plan at the start of your research project will help you to consider these issues and how you might produce a version of your data that you can share.
+University guidance on Data Protection, FOI and IPR
+
+Click on the one of the options below to read the University's guidance on Data Protection, Freedom of Information or Intellectual Property Rights.
+Data Protection
+
+The Data Protection Act 1998 establishes key principles that govern the collection, use and handling of personal information and provides individuals with important rights.
+
+    Data Protection information on data protection provided by University Records Manager.
+
+    The Data Protection Act: University policy, procedures and guidelines summarises the implications of the Data Protection Act for the University, sets out the University's general policy on adherence to the Act (e.g. procuring, storing and the disposing of personal data), and offers specific guidance relating to research involving data from human participants.
+
+    Records management guides a series of guides, with tips and examples, to help support the maintenance and good management of records. Data Security (PDF , 255kb) offers guidance on data acquisition, storage, data retention and the disposal of personal and sensitive data to meet ethical and legal requirements.
+
+For help with data protection compliance, contact dataprotection@york.ac.uk
+
+    Data Protection: Online a short online training session covering data protection, freedom of information and records management. For the University to meet its legal obligations all members of staff should complete this module.
+
+For help with data protection compliance, contact dataprotection@york.ac.uk
+Freedom of Information
+
+The Freedom of Information Act and Environmental Information Regulations provide members of the public with a general right of access to the recorded information held by the University. The legislation works to promote openness across the public sector. So you could be required to release information about your research based on FOI and EIR requests.
+
+    Freedom of Information information on FOI provided by the University Records Manager. It includes the University’s Freedom of Information Policy and guidance to staff on enquiry handling.
+
+    Freedom of information and research guidance to staff relating to research data and publications. Included in this information is a link to JISC's FOI and research data: questions and answers, a useful FAQs on how researchers should respond if faced with FOI or EIR requests.
+
+    Data Protection: Online a short online training session covering freedom of information, data protection and records management. In order for the University to meet its legal obligations all members of staff should complete this module.
+
+For FOI advice, contact records-manager@york.ac.uk
+Intellectual Property Rights
+
+Intellectual Property Rights (IPR), for example copyright or patents, affect and may limit the way you and others can use the outputs of your research. It's therefore important to clarify copyright and intellectual property ownership of any data that you will create or use before your research begins.
+
+If you agree or purchase licences to reuse third party data, be aware of any restrictions this places on what the data can be used for in the future. You should read carefully the terms and conditions associated with the use of third party data as its probable that copyright and/or licensing issues are associated.
+
+Research funders may expect you to clarify IPR ownership in your Data Management Plan.
+
+    Intellectual property guidance provided by the University Intellectual Property Manager.
+
+    University policy on intellectual property outlines the ownership of IP (including copyright) for research materials and procedures for commercialisation.
+
+    Copyright guidance that includes information on copyright exceptions and how to seek the permission of the copyright holder before reusing their work in your research. For further information and guidance about copyright compliance, contact lib-copyright-advice@york.ac.uk.
+
+For advice on IPR, contact the Intellectual Property Manager sue.final@york.ac.uk
+Recommended ethical and legal guidance from other organisations
+
+    RCUK Guidance on best practice in the management of research data [PDf]
+    RCUK recognises that there are legal, ethical and commercial constraints on release of research data. This document provides useful guidance on RCUK's expectations in relation to legal, ethical and commercial constraints.
+
+    UK Data Archive Copyright
+    Information on the implications of copyright ownership when creating, sharing and reusing data. The pages include example cases illustrating where issues may arise.
+
+    UK Data Archive Consent and ethics
+    Outlines strategies that you can utilise to allow you to share your personal and sensitive data, and meet your funder expectations, whilst protecting data integrity. Consult with your departmental/subject level ethics committee if you are unsure whether your data can be shared or published.
+
+    Australian National Data Service Publishing and sharing sensitive data
+    Step-by-step advice on what you need to know and do before publishing and sharing your sensitive data, in the Australian context.
+    PrePARe Project  Is it yours? Dealing with copyright & other intellectual property rights
+    A checklist to help you think about the steps to take to protect your own IPR and to respect the copyright in material created by someone else when you publish, share and deposit research material.
+
+    DCC How to license research data
+    A guide to help you decide how to apply a licence to your research data, and which licence would be most suitable.
+
+    JISC Legal
+    Offers guidance on legal issues that affect your data.
+
+    Medical Research Council Tool kits
+    The Data and tissues tool kit suggests practical ways to meet legal and ethical requirements relating to the use of personal information (and human tissue samples) in healthcare research.
+
+    MRC Regulatory Support Centre Research data and confidentiality
+    This e-learning module explores the concepts of confidentiality and data protection. It is aimed at all researchers working with data.
+
+    University of Edinburgh, Research Data MANTRA Data protection, rights and access
+    A training module from the MANTRA research data management online course. This module covers ethical obligations, data confidentiality and disclosure, data protection and anonymisation.
+
+Intellectual property rights (IPR) management is an important part of any data management program. A builder of a database or other data resource will have an interest in who owns that resource and how others may use it. Someone who may populate that resource with data provided in part by others will want to make sure that all legal, ethical, and professional obligations that one may have to the provider of the data are met. Since the benefits of data sharing are so well known and documented, a researcher may wish to share their database and/or content with others. Others can only fully utilize external data if they know the terms of use (if any) for that data. This fact sheet provides a brief overview of some of the issues associated with managing IPR in data projects.
+
+    Data versus database
+    Data licensing
+    Data ownership at Cornell
+    Related information
+
+Data versus database
+
+In any data project, there are likely to be two components. The first is the data collected, assembled, or generated. Think of it as the raw content in the system. It could be hourly temperature readings from a sensor, the age of individuals in a survey, recordings of individual voices, or photographs of plant specimens. The second component is the data system in which the data is stored and managed.
+
+We usually do not think of data content separate from the system in which it is stored, but the distinction is important in terms of intellectual property rights. The question is what, if anything, is protected by copyright. Data that is factual has no copyright protection under U.S. law; it is not possible to copyright facts. Not all data is in the public domain. A project might, for example, use copyrighted photographs; the photographs are part of the project’s “data.” In many cases, the data in a data management system as well as the metadata describing that data will be factual, and hence not protected by copyright.
+
+A database, on the other hand, can have a thin layer of copyright protection. Deciding what data needs to be included in a database, how to organize the data, and how to relate different data elements are all creative decisions that may receive copyright protection.
+
+Because of the different copyright status of databases and data content, different mechanisms are required to manage each. Copyright can govern the use of databases and some data content (that which is itself original), but contract law, trademarks, and other mechanisms are required to regulate factual data.
+Data licensing
+
+In order to facilitate the reuse of data, it is imperative that others know the terms of use for the database and the data content. Fortunately, the Open Data Commons group (http://opendatacommons.org) has been developing legally binding tools to govern the use of data sets. Using a combination of copyright and contractual standards, they have created three standard licenses that one can use in conjunction with data projects. In addition, it is possible to articulate a set of “community norms” that complement the use of formal licenses. While not having the force of law, norms can express the shared beliefs of a community vis-à-vis data sharing and reuse.
+
+The three ODC licenses are:
+
+    Public Domain Dedication and License (PDDL): This dedicates the database and its content to the public domain, free for everyone to use as they see fit.
+    Attribution License (ODC-By): Users are free to use the database and its content in new and different ways, provided they provide attribution to the source of the data and/or the database.
+    Open Database License (ODC-ODbL): ODbL stipulates that any subsequent use of the database must provide attribution, an unrestricted version of the new product must always be accessible, and any new products made using ODbL material must be distributed using the same terms. It is the most restrictive of all ODC licenses.
+
+Creative Commons (http://www.creativecommons.org/) also has a library of standardized licenses, and some of them apply to data and databases. The ODC-By license, for example, is the equivalent of a Creative Commons Attribution license (CC BY). CC BY licenses, however, require copyright ownership of the underlying work, whereas the ODC-By license applies to works not protected by copyright (such as factual data)
+
+The two CC licenses that are of greatest relevance to data management are:
+
+    CC0 (i.e., "CC Zero"): When an owner wishes to waive her copyright and/or database rights, she can use the CC0 mark. It effectively places the database and data into the public domain. It is the functional equivalent of an ODC PDDL license.
+    Public Domain mark (PDM): It is used to mark works that are in the public domain, and for which there are no known copyright or database restrictions. It is possible to flag factual data as PDM in a database, for example, in order to make it clear it is free to use.
+
+Selecting a data license
+
+There is no single right answer as to which license to assign to a database or content. Note, however, that anything other than an ODC PDDL or CC0 license may cause serious problems for subsequent scientists and other users. This is because of the problem of attribution stacking. It may be possible to extract data from a data set, use it in a research project, and still maintain information as to the source of that data. It is possible to create a data set derived from hundreds of sources with each source requiring acknowledgement. Furthermore, the data in the other databases may not have originated with it, but instead sourced from other databases that also demand attribution. Rather than legally require that everyone provide attribution to the data, it might be enough to have a community norm that says “if you make extensive use of data from this data set, please credit the authors.”
+Data ownership at Cornell
+
+The ownership of works produced by Cornell faculty, students, and non-academic staff is governed by the Cornell University Policy 1.5, Inventions and Related Property Rights, and especially the Cornell Copyright Policy. The precise answer will depend on whether the project was created as part of sponsored research; the employment status of the creator; whether the work was conducted “pursuant to a specific direction or assigned duty…from the University”; and, if deemed to be an “encoded work,” whether substantial university resources were used in the creation of the encoded work.
