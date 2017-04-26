@@ -221,6 +221,55 @@ def edison_graph_by_cv():
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
+@app.route('/singleedisongraphcv', methods=['POST'])
+def single_edison_graph_by_cv():
+    if request.method == 'POST':
+        try:
+            json_data = json.loads(request.get_data().decode('utf-8'))
+            jobid = int(json_data['jobid'])
+            cvid = int(json_data['cvid'])
+            method = json_data['method']
+            validate_method(method)
+            cat_id_1 = int(json_data['cat_id_1'])
+            cat_id_2 = int(json_data['cat_id_2'])
+            cat_id_3 = int(json_data['cat_id_3'])
+            cat_id_4 = int(json_data['cat_id_4'])
+            cat_id_5 = int(json_data['cat_id_5'])
+            validate_cats(cat_id_1, cat_id_2, cat_id_3, cat_id_4, cat_id_5)
+            print(1)
+            job_cat_1_diff = db[method +'-job-category'].find_one({"jobid": jobid, "catid": cat_id_1})
+            job_cat_2_diff = db[method +'-job-category'].find_one({"jobid": jobid, "catid": cat_id_2})
+            job_cat_3_diff = db[method +'-job-category'].find_one({"jobid": jobid, "catid": cat_id_3})
+            job_cat_4_diff = db[method +'-job-category'].find_one({"jobid": jobid, "catid": cat_id_4})
+            job_cat_5_diff = db[method +'-job-category'].find_one({"jobid": jobid, "catid": cat_id_5})
+
+            job_diff_obj = {}
+
+            job_diff_obj[job_cat_1_diff['skillName']] = job_cat_1_diff['distance']
+            job_diff_obj[job_cat_2_diff['skillName']] = job_cat_2_diff['distance']
+            job_diff_obj[job_cat_3_diff['skillName']] = job_cat_3_diff['distance']
+            job_diff_obj[job_cat_4_diff['skillName']] = job_cat_4_diff['distance']
+            job_diff_obj[job_cat_5_diff['skillName']] = job_cat_5_diff['distance']
+
+            cv_cat_1_diff = db[method + '-cv-category'].find_one({"cvid": cvid, "catid": cat_id_1})
+            cv_cat_2_diff = db[method + '-cv-category'].find_one({"cvid": cvid, "catid": cat_id_2})
+            cv_cat_3_diff = db[method + '-cv-category'].find_one({"cvid": cvid, "catid": cat_id_3})
+            cv_cat_4_diff = db[method + '-cv-category'].find_one({"cvid": cvid, "catid": cat_id_4})
+            cv_cat_5_diff = db[method + '-cv-category'].find_one({"cvid": cvid, "catid": cat_id_5})
+
+            skill_differences = {}
+            skill_differences[cv_cat_1_diff['skillName']] = cv_cat_1_diff['distance']
+            skill_differences[cv_cat_2_diff['skillName']] = cv_cat_2_diff['distance']
+            skill_differences[cv_cat_3_diff['skillName']] = cv_cat_3_diff['distance']
+            skill_differences[cv_cat_4_diff['skillName']] = cv_cat_4_diff['distance']
+            skill_differences[cv_cat_5_diff['skillName']] = cv_cat_5_diff['distance']
+
+            final_obj = {"job_diff": job_diff_obj, "skill_differences": skill_differences, "cvid": cvid}
+            return jsonify({"response": final_obj,"statusCode": 200})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
 if __name__ == "__main__":
     app.run(host=HOST, port=PORT, threaded=True)
