@@ -4,8 +4,11 @@ from pathlib import Path
 import json
 
 def main():
+    try:
+        os.remove('jobs-collected')
+    except OSError:
+        pass
 
-    
     path = os.getcwd() + '/jobs/'
     jobid = 0
     for filename in os.listdir(path):

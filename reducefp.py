@@ -4,7 +4,7 @@ from pathlib import Path
 import sys
 import operator
 def main():
-    filepath = 'fpjobs-with-blacklist/'
+    filepath = 'fpjobs-as-is/'
     fp_obj = {}
     for filename in os.listdir(filepath):
         if filename[-3:] == "csv":
@@ -19,7 +19,7 @@ def main():
                         for word in words:
                             fp_obj.pop(word, None)
                         fp_obj[" ".join(words)] = int(freq)
-    out_file = 'fpreduced.txt'
+    out_file = 'fpreduced-as-is.txt'
     if len(sys.argv) > 1:
         out_file = sys.argv[1]
     my_file = Path(out_file)
