@@ -1,0 +1,197 @@
+   
+  [2a14de6c-f7c1-4a1b-bf6]
+  
+  Join the GE Insiders Network
+
+  
+  Thank you for your interest in our position.  We invite you to join our GE
+  Insiders Network.  To continue to the job application, complete the form
+  below and click Save and Continue, or click Skip and Continue.
+
+  Click Expand below to view more information about this position. 
+
+   
+  ....  read more -->>
+  About Us: GE is the world’s Digital Industrial Company, transforming
+  industry with software-defined machines and solutions that are connected,
+  responsive and predictive. Through our people, lead
+
+
+  About Us:
+  GE is the world’s Digital Industrial Company, transforming industry with
+  software-defined machines and solutions that are connected, responsive and
+  predictive. Through our people, leadership development, services,
+  technology and scale, GE delivers better outcomes for global customers by
+  speaking the language of industry.
+
+
+  GE Power is a world leader in power generation with deep domain expertise
+  that helps customers deliver electricity from a wide spectrum of fuel
+  sources. We are transforming the electricity industry with the digital
+  power plant, the world’s largest & most efficient gas turbine, full balance
+  of plant solutions and our data-leveraging software. Our innovative
+  technologies and digital offerings help make power and water more
+  affordable, reliable, accessible and sustainable.
+
+
+
+  GE offers a great work environment, professional development, challenging
+  careers, and competitive compensation. GE is an Equal Opportunity Employer.
+  Employment decisions are made without regard to race, color, religion,
+  national or ethnic origin, sex, sexual orientation, gender identity or
+  expression, age, disability, protected veteran status or other
+  characteristics protected by law.
+
+  Role Summary:
+  In this role, you will drive Data Governance for the organization that
+  supports the data requirements of GE Power including functional and
+  regional business users as well as Data Scientists who are using analytics
+  to achieve business outcomes including building new customer analytics
+  products to increase revenue, driving internal productivity to reduce cost
+  and managing risk of our contractual services portfolio.
+
+  Essential Responsibilities:
+
+  As the Sr. Director - Data & Analytics you will:
+
+    • Focus on three main aspects of the Power Data Services organization –
+      Governance, Project Management and manage the Financials of the team
+    • Define the Data Governance Policy and Standards for the Enterprise Data
+      Landscape for GE Power.
+    • Implement operating mechanisms for ensuring governance standards
+      including metadata management and data lineage - includes the Ingestion
+      layer, Primary and Secondary Consumption layers and visualization/
+      analytics tools like Tableau.
+    • Document the end to end business data landscape aligned with Business
+      Processes.
+    • Drive consistency in data definitions, sources, consumable models, data
+      usage and quality.
+    • Identify, track and collate all critical metadata in GE Power into the
+      Power Data Lake.
+    • Actively participate in strategic and tactical initiatives to ensure
+      that a data stewardship mindset is incorporated into all projects
+    • Implement off-the-shelf / open source tools for data governance like
+      Metadata Management. Alternatively build data governance solutions on
+      the Predix platform or use Tableau for reporting/visualizations.
+    • Provide Project Management structure and tracking for the different
+      projects in the team – including driving Fastworks / Agile approach
+      using Scrum tools like Rally and Aha.
+    • Manage the Finances of the Power Data Services organization including
+      tracking SII, OP Budgets and Actuals working with the Finance
+      representatives for the IT organization.
+
+
+
+
+  Qualifications/Requirements:
+
+    • Bachelor’s Degree in Computer Science or related field from an
+      accredited college or university
+    • Minimum of 10 years experience in a Data Management role including
+      running queries and compiling data for analytic
+    • Minimum of 5 years experience in data design, data architecture and
+      data modeling (both transactional and analytic)
+    • Minimum of 3 years experience in Big Data / NoSQL technologies
+      including Greenplum and Hadoop (HDFS, MapReduce, Hive, Shark, Spark,
+      etc.)
+
+
+                                                                               
+  Desired Characteristics:
+
+    • Experience in data dictionary and metadata management using automated
+      tools
+    • Proven experience in data integration / data federation projects
+    • Experience in data design, data architecture and data modeling (both
+      transactional and analytic)
+    • Knowledge of data transfer and ingestion technologies including Talend
+      and HVR
+    • Write complex SQL queries needed to query and analyze data
+    • Communicates complex solution concepts in simple terms
+    • Quickly learn and adapt the capabilities of new technologies and share
+      with the team
+    • Strong Oral and written communication skills
+    • Ability to build visualizations using Tableau to show insights
+    • Good knowledge of Predix Platform. Working knowledge and hand on
+      Experience with Restful Webservices, Angular JS and Polymer and other
+      web components like HTML5 and CSS
+    • Usage of Agile / Scrum tools like Rally and Aha
+
+
+  To stay connected with exciting news and the latest job opportunities from
+  GE businesses, follow us on twitter: @geconnections
+
+  Locations: United States ; New York, Georgia; Atlanta, Schenectady
+
+  GE offers a great work environment, professional development, challenging
+  careers, and competitive compensation.  GE is an Equal Opportunity Employer
+  .  Employment decisions are made without regard to race, color, religion,
+  national or ethnic origin, sex, sexual orientation, gender identity or
+  expression, age, disability, protected veteran status or other
+  characteristics protected by law.
+  ....  read more -->>
+   
+
+   
+
+  We're looking forward to staying connected with you!
+  
+  *First Name
+  [                    ]
+  *Last Name
+  [                    ]
+  *Primary Email
+  [                    ]
+  *City
+  [                    ]
+  *Country
+  [-- select one --                 ]
+  *Region
+  [                    ]
+  *Functional Area of Interest
+
+  [ ]Asset Management
+  [ ]Business Development
+  [ ]Business Leadership Programs
+  [ ]Business Management
+  [ ]Capital Markets
+  [ ]Collections
+  [ ]Communications
+  [ ]Customer Service
+  [ ]EPC Project Management
+  [ ]Engineering/Technology
+  [ ]Environmental Health & Safety
+  [ ]Executive Management
+  [ ]Finance
+  [ ]Financial Services Operations
+  [ ]Human Resources
+  [ ]Information Technology
+  [ ]Legal
+  [ ]Logistics
+  [ ]Manufacturing
+  [ ]Marketing
+  [ ]Product Management
+  [ ]Project Management
+  [ ]Quality
+  [ ]Regulatory & Compliance
+  [ ]Risk Management
+  [ ]Sales
+  [ ]Security
+  [ ]Services
+  [ ]Sourcing
+  LinkedIn Profile URL (www.linkedin.com)
+  [                    ]
+  Resume
+  [                    ]
+  
+     
+    [Save & Continue]  [Skip & Continue]
+
+   
+
+  © General Electric | GE Candidate Privacy Policy
+  
+
+  Internal use only: [GE-TF-400]
+
+   

@@ -1,0 +1,349 @@
+1-800-NO-SOFTWARE | 1-800-667-6389 | Contact
+
+CRM The World's Favorite Customer Relationship Management - Salesforce.com
+
+  • 1-800-NO-SOFTWARE | 1-800-667-6389 | Contact
+
+  • [Search              ] [search-for]
+
+  • Login
+  • 
+  • Menu
+
+Salesforce
+
+Cloud Nav Free Trial >
+Call us at 1-800-667-6389
+
+  • Login
+  • Home
+
+Products
+
+  • Sales CloudSales force automation and CRM
+  • Service CloudCustomer service, support, and help desk
+  • ExactTarget Marketing CloudEmail, mobile, social, and web marketing.
+  • Salesforce1 PlatformCloud application development
+  • Products Overview
+  • Editions & Pricing
+  • Small Business Solutions
+
+Resources & Additional Information
+
+  • Customer Community
+  • Developer Community
+  • Partner Community
+  • AppExchange Marketplace
+  • Industries
+  • Services
+  • Customer Success Stories
+  • Events
+  • About Us
+  • Careers
+
+Questions? Contact us.
+Get your FREE 30-day trial. Start by selecting a product: 
+[Sales Cloud: World’s #1 CRM]
+
+  • Products
+      □ 
+          ☆ Product Overview
+          ☆ Sales Cloud Sales force automation and CRM
+          ☆ Service Cloud Customer service, support, and help desk
+          ☆ ExactTarget Marketing Cloud Email, mobile, social, & website
+            marketing
+          ☆ Salesforce1 Platform Cloud application development
+          ☆ Salesforce Communities Connect customers, partners, and employees
+          ☆ Pardot B2B marketing automation
+          ☆ Work.com Sales performance management
+      □ 
+          ☆ Editions & Pricing
+          ☆ Small Business Solutions
+  • Community
+      □ 
+          ☆ Customer Community
+          ☆ Developer Community
+          ☆ Partner Community
+          ☆ AppExchange Marketplace
+  • Industries
+      □ 
+          ☆ Overview
+          ☆ Financial Services
+          ☆ Health Care
+          ☆ Life Sciences
+          ☆ Communications
+          ☆ Retail
+          ☆ Media
+          ☆ Public Sector
+          ☆ Automotive
+          ☆ Higher Ed
+          ☆ Nonprofit
+  • Services
+      □ 
+          ☆ Support
+          ☆ Customer Support
+          ☆ Partner Support
+      □ 
+          ☆ Training
+          ☆ Training Options
+          ☆ Certifications
+      □ 
+          ☆ Consulting
+          ☆ Salesforce Services
+          ☆ Find a Partner
+          ☆ Find a Developer
+  • Customers
+      □ 
+          ☆ Customer Success Stories
+  • Events
+      □ 
+          ☆ Overview
+          ☆ Dreamforce
+          ☆ Developer Events
+          ☆ Webinars
+          ☆ Event Videos
+  • About Us
+      □ 
+          ☆ Overview
+          ☆ Awards
+          ☆ Blogs
+          ☆ Careers
+          ☆ Leadership
+          ☆ Press and News
+          ☆ Investor Information
+          ☆ Global Offices
+          ☆ Salesforce.org
+          ☆ Sustainability
+          ☆ Trust
+          ☆ Legal Information
+
+Job Title:    Data Engineer, Product Data Science
+Job Category: Product Management - Engineering
+Location:     US - California - San Francisco (HQ)
+SF-Y:         Salesforce will consider for employment qualified applicants with
+              criminal histories in a manner consistent with the requirements
+              of the San Francisco Fair Chance Ordinance.
+
+Share | |[email_icon]Email this job
+
+Department Overview - Product Data Science:
+The Product Data Science (PDS) team is made up of data scientists, engineers,
+and growth analysts who are dedicated to driving product strategy with
+data-driven insights. The PDS team works with executives, product managers,
+designers, developers, user researchers, marketers, and sales strategy team
+members across all Cloud businesses to discover new opportunities for growth
+and optimization, experiment with data, drive adoption, and provide actionable
+insights that impact product strategy.
+
+Role Description:
+The Data Engineer (DE) position will be responsible for designing, developing &
+maintaining all parts of the data pipeline for statistical and machine learning
+computational requirements. This role involves making an impact by driving
+continuous improvements in moving, aggregating, profiling, sampling, testing
+and analyzing terabytes of data.
+
+The DE will work closely with various functional groups on projects involving
+data discovery, assessing data samples, massaging, and preparing data for
+hypothesis testing and machine learning algorithms.
+
+Responsibilities:
+
+  • Build data pipelines using Oracle, Hadoop, Pig, Hive, HBase, Spark, and
+    Salesforce API.
+  • Identify incomplete data, improve quality of data, and integrate data from
+    several data sources.
+  • Design and develop tailored data structures in database and Hadoop.
+  • Query Hadoop/Hive and Oracle EDW to provide data-sets for data scientists.
+  • Quickly create functioning ETL prototypes to address quickly changing
+    business needs.
+  • Revamp prototypes to create production-ready data flows.
+  • Support Data Science research by designing, developing, and maintaining all
+    parts of the Big Data pipeline for reporting, statistical and machine
+    learning, and computational requirements.
+  • Perform data profiling, complex sampling, statistical testing, and testing
+    of reliability on data.
+  • Endorse open source tools & techniques in development, management, and
+    release process,  utilizing in-house software effectively.
+  • Harness operational excellence & continuous improvement with a can do
+    leadership attitude.
+
+Job Requirements:
+
+  • BS/MS degree in Computer Science, Engineering, Statistics, Mathematics,
+    Physics, Operations Research, Econometrics, or equivalent/related degree.
+  • 4+ years of ETL experience using SQL, Shell Scripting, and Python
+  • 2+ years of development experience using Big data technologies including
+    Hadoop, Pig, Hive, HBase, Spark.
+  • 2+ years of development experience using Java for data processing.
+  • Very strong skills working with very large data sets with a variety of
+    tools; experience in dealing with performance and scaling issues.
+  • Ability to work effectively in an unstructured and fast-paced environment
+    both independently and in a team setting, with a high degree of
+    self-management with clear communication and commitment to delivery
+    timelines.
+  • Expert knowledge of Oracle SQL, including building stored procedures.
+  • Expert knowledge of Hadoop, particularly Hive and Pig.
+  • SQL & Hive performance tuning including the ability to interpret explain
+    plans and perform tuning.
+  • Familiarity in building a layered architecture database with multi stage
+    tables for several kinds of business analytics.
+  • Familiarity with Scrum/Agile project management methodologies and SDLC
+    stages.
+  • Familiarity with Salesforce data model and APIs to extract and load data.
+  • Ability to prioritize and execute multiple tasks in a highly dynamic
+    environment with a results oriented mindset.
+  • Experience in data profiling, complex sampling, statistical testing, and
+    performing test of reliability on enterprise data.
+  • Data modeling experience and familiarity with all sorts of standard data
+    models.
+  • Knowledge of working with business intelligence tools (e.g., Tableau,
+    MicroStrategy).
+  • Strong problem solving with acute attention to detail and ability to meet
+    tight deadlines and project plans.
+  • Ability to research, analyze, interpret, and produce accurate results
+    within reasonable turnaround times with an iterative mindset with rapid
+    prototyping designs.
+  • Above average capabilities with basic analysis tools of Microsoft Office
+    suite.
+
+
+Salesforce, the Customer Success Platform and world's #1 CRM, empowers
+companies to connect with their customers in a whole new way. The company was
+founded on three disruptive ideas: a new technology model in cloud computing, a
+pay-as-you-go business model, and a new integrated corporate philanthropy
+model. These founding principles have taken our company to great heights,
+including being named one of Forbes’s “World’s Most Innovative Company” five
+years in a row and one of Fortune’s “100 Best Companies to Work For” eight
+years in a row. We are the fastest growing of the top 10 enterprise software
+companies, and this level of growth equals incredible opportunities to grow a
+career at Salesforce. Together, with our whole Ohana (Hawaiian for "family")
+made up of our employees, customers, partners and communities, we are working
+to improve the state of the world.
+
+*LI-Y
+
+Would you like to apply to this job?
+
+Apply for the Data Engineer, Product Data Science position
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and
+Affirmative Action Employers. Qualified applicants will receive consideration
+for employment without regard to race, color, religion, sex, sexual
+orientation, gender perception or identity, national origin, age, marital
+status, protected veteran status, or disability status. Headhunters and
+recruitment agencies may not submit resumes/CVs through this Web site or
+directly to managers. Salesforce.com and Salesforce.org do not accept
+unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org
+will not pay fees to any third-party agency or company that does not have a
+signed agreement with Salesforce.com or Salesforce.org.
+EEO - It's the law.
+
+Accessibility – If you require accessibility assistance applying for open
+positions please contact the Salesforce.com Recruiting Department.
+
+Pay Transparency Policy Statement – The contractor will not discharge or in any
+other manner discriminate against employees or applicants because they have
+inquired about, discussed, or disclosed their own pay or the pay of another
+employee or applicant. However, employees who have access to the compensation
+information of other employees or applicants as a part of their essential job
+functions cannot disclose the pay of other employees or applicants to
+individuals who do not otherwise have access to compensation information,
+unless the disclosure is (a) in response to a formal complaint or charge, (b)
+in furtherance of an investigation, proceeding, hearing, or action, including
+an investigation conducted by the employer, or (c) consistent with the
+contractor’s legal duty to furnish information.
+
+
+Find your #dreamjob Search jobs ›
+
+Follow us
+
+[facebook_3] [twitter_32] [linkedin_3] [instagram_] [youtube_32] [blog_32]
+
+[50x50]
+Careers
+Questions? 1-800-667-6389   |   Contact
+ 
+ 
+ 
+
+  •  Contact
+  •  Phone
+  •  Phone
+  •  Offices
+
+  •  
+  •  
+  •  
+  •  
+  •  
+  •  
+
+Contact Follow us
+
+  • 1-800-NO-SOFTWARE | 1-800-667-6389 | Contact
+  • |
+  • Careers
+
+      
+© Copyright 2000-2015 salesforce.com, inc. All rights reserved. Various
+trademarks held by their respective owners.
+Salesforce.com, inc. The Landmark @ One Market, Suite 300, San Francisco, CA,
+94105, United States
+
+  • Privacy Statement
+  • |
+  • Security Statement
+  • |
+  • Site Map
+  • Rate<br>this<br>page Rate
+    this
+    page
+
+ 
+Select region
+ 
+Americas
+
+  • América Latina (Español)
+  • Brasil (Português)
+  • Canada (English)
+  • Canada (Français)
+  • United States (English)
+
+Europe, Middle East and Africa
+
+  • España (Español)
+  • Deutschland (Deutsch)
+  • France (Français)
+  • Italia (Italiano)
+  • Nederland (Nederlands)
+  • Sverige (Svenska)
+  • United Kingdom (English)
+  • All other countries (English)
+
+Asia Pacific
+
+  • Australia (English)
+  • India (English)
+  • 日本 (日本語)
+  • 한국 (한국어)
+  • 中国 (简体中文)
+  • 台灣 (繁體中文)
+  • All other countries (English)
+
+  •  
+  • 
+  •  
+
+Live Chat
+Live Chat
+Previous Month[January  ]Next Month[2016]
+Sun Mon Tue Wed Thu Fri Sat
+                         
+                         
+                         
+                         
+                         
+                         
+Today

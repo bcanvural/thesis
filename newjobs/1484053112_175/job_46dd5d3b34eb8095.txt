@@ -1,0 +1,142 @@
+ 
+[cropped]
+ 
+ 
+ 
+Privacy Policy
+Job Openings
+
+Data Scientist
+
+Informatics – Somerville, Massachusetts
+Apply for this Job
+Department Informatics
+Employment Type Full-Time
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Data Scientist at Finch Therapeutics
+
+About Finch Therapeutics:
+
+Finch Therapeutics is unlocking the therapeutic potential of the microbiome via
+a human-first drug discovery platform. We support clinical studies that
+intentionally manipulate the microbiome to investigate causality in diseases
+that are otherwise poorly understood. Using high-throughput molecular data from
+clinical studies and ex-vivo experiments, we identify specific strains that
+drive clinical phenotypes and responses to microbial therapies. Our team values
+transparency, integrity, humility, and collaboration, and we intend to have fun
+while maximizing our ability to make an impact on patients’ lives. We are
+searching for passionate teammates eager to support this mission.
+
+ Job Description:
+
+As a member of our Data Science team, you be will be reporting to the Director
+of Data Science, Sonia Timberlake. Your mission will be to develop tools and
+intuition to predict successful microbial therapies and design experiments,
+both computational and wetlab, that extract mechanistic understanding from
+high-throughput microbial data. You will further our microbial drug development
+platform by mining microbial datasets, developing our machine learning
+platform, and working closely with both bench scientists and clinicians to
+brainstorm and test functional hypotheses about microbial community disease. 
+
+Responsibilities will include but are not limited to:
+
+  • Propose new biological hypotheses for potential microbial drivers and
+    therapies based on literature and proprietary data, develop and perform
+    statistical tests of these hypotheses
+  • Use machine learning effectively and develop new analysis strategies for
+    large biological datasets (eg 16S, metagenomics)
+  • Work closely with bench scientists to design and analyze microbial function
+    experiments
+  • Work with clinicians to help design and analyze clinical trials
+    (particularly of microbial therapeutics)
+  • Communicate analysis results with a variety of audiences including
+    clinicians, bench scientists, industry executives, and academic
+    researchers, especially with effective graphical output.
+  • Work effectively as part of a multifunctional team in support of a
+    commercially viable therapeutics discovery platform
+
+ Qualifications:
+
+  • PhD in computational biology or computer engineering
+  • Strong understanding of machine learning and/or mathematics, particularly
+    statistics
+  • Proven ability to design and code new algorithms
+  • Experience testing biological hypotheses using large datasets
+  • Facility with big data visualization, especially with R or python
+    matplotlib
+  • Ability to work independently
+  • Eager to work collaboratively in a team and to both give and receive
+    feedback to support professional development for self and others
+
+  •  Ability to perform complex analyses in a time sensitive fashion
+  • Strong organizational and communications skills
+  • Passion, humility, and excitement for doing whatever it takes to drive
+    research forward
+  • Must be legally eligible for work in the United States
+
+ Additional Desired Skills & Experience (not required)
+
+  • Familiarity with AWS, in particular Amazon EC2
+  • Experience with microbial ecology or evolution, genomics, GWAS
+  • Experience with immunology or gastroenterology
+  • Experience with machine learning in biological datasets.
+  • Previous experience developing database architecture
+
+ At Finch Therapeutics, you can expect to engage deeply in the core of our
+mission. You will grow with a dynamic, rapidly expanding organization, and have
+an opportunity to contribute to cutting edge research that will truly impact
+patients’ lives. We offer a competitive starting salary, plus healthcare and
+other benefits. As we grow, there will be opportunities for promotion and
+professional development.
+
+Application Instructions:
+
+We are interviewing for this position already, however, the start date for this
+position is flexible. To apply, please go to http://finchtherapeutics.com/
+join-finch/, then follow the link for Data Scientist to submit your cover
+letter and resume. Promising candidates will be contacted to further evaluate
+their fit for this role and our organization.
+
+Apply for this Job
+
+Apply for this Position
+
+*Required
+First Name
+[                    ]
+Last Name
+[                    ]
+Email
+[                    ]
+Phone
+[                    ]
+Cover Letter
+No file selected
+Resume
+No file selected
+Date Available
+[                    ]
+LinkedIn Profile URL
+[                    ]
+Submit Application
+Thank You
+Your application was submitted successfully.
+Apply for this Job
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Link to this job
+[https://finch.bamboo]
+ 
+ 
+ 
+
+  • Location
+    Somerville, Massachusetts
+  • Department
+    Informatics
+  • Employment Type
+    Full-Time
+  • Powered by  
+
+Privacy Policy
+Powered by  

@@ -1,0 +1,54 @@
+[enlitic_lo]
+
+Deep Learning / Machine Learning Researcher
+
+San Francisco
+Engineering
+Full-time
+Apply for this job
+
+As one of the first 20 full-time team members, you will develop Enlitic’s next
+generation of machine learning algorithms for medical decision making. Our
+ideal candidate enjoys translating deep learning techniques into
+production-level code.  
+
+About You:
+
+      □ You are capable of working from high-levels of abstraction, such as a
+        library in Python, to the low-level high performance code that powers
+        those libraries in C++ or CUDA
+      □ Your excellent understanding of the foundations of deep learning allows
+        you to explain CNNs to a four year old.
+      □ You keep up to date with the cutting edge of deep learning research,
+        and have experimented with implementing these new architectures
+      □ You are capable of managing the trade-off of when to write kludgy
+        one-off programs and when to write robust generalizable software
+      □ You have implemented a variety of  deep learning architectures with
+        excellent results
+
+Once you are here you will:
+
+      □ Build maintainable pipelines for deep learning that can handle
+        terabytes of data
+      □ Implement modular techniques for deep learning at all levels of the
+        stack, from CUDA operations to visualizations of training curves and
+        model outputs.
+      □ Keep up to date with the cutting edge of deep learning, and transition
+        those techniques to the medical domain
+      □ Design and build novel models to solve unique medical problems
+      □ Participate in a feedback loop to figure out the ways we can use deep
+        learning to maximize the impact for patients
+
+Location
+This position is based in San Francisco, CA reporting to the CEO
+
+We are an equal opportunity employer and value diversity at our company. We do
+not discriminate on the basis of race, religion, color, national origin,
+gender, sexual orientation, age, marital status, veteran status, or disability
+status.
+
+Apply for this job
+
+Enlitic Home Page
+
+Jobs powered by [lever-logo]

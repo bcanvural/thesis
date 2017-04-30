@@ -1,0 +1,277 @@
+Menu ToggleMenu Hide
+
+  • NYU Langone Home
+  • Find a Doctor
+  • News
+  • Make a Gift
+  • Calendars
+  • Careers
+  • Directions & Parking
+  • Contact Us
+
+NYU Langone Medical Center
+
+  • Home
+  • Why Choose NYU Langone
+      □ Why Choose NYU Langone
+      □ Our Organization
+          ☆ Our Organization
+          ☆ Our Hospitals Center
+          ☆ NYU School of Medicine
+          ☆ Ambulatory Care Sites & Faculty Practice
+          ☆ Hospital for Joint Diseases
+          ☆ NYU Lutheran
+      □ Major Initiatives
+          ☆ Major Initiatives
+          ☆ Patient Care
+          ☆ Research
+          ☆ Education
+          ☆ Campus Transformation
+      □ Culture and Diversity
+      □ Professional Development
+      □ Benefits
+      □ Working in NYC
+      □ Our Values
+          ☆ Our Values
+          ☆ Living Our Values
+      □ Residents, Interns, and Fellows
+          ☆ Residents, Interns, and Fellows
+          ☆ New Graduates
+          ☆ Internships
+          ☆ Administrative Fellowship
+      □ Veteran’s Corner
+      □ Employee Testimonials
+  • Talent Areas
+      □ Talent Areas
+      □ Admin & Temp Support
+          ☆ Admin & Temp Support
+          ☆ Business Office
+          ☆ Physician Practice
+          ☆ NYU In-House Temp Program
+      □ Allied Health
+          ☆ Allied Health
+          ☆ Clinical Labs
+          ☆ Pharmacy
+          ☆ Physician Assistants
+          ☆ Radiology
+          ☆ Rehabilitation Therapy
+          ☆ Respiratory Therapy
+          ☆ Psychology
+          ☆ Food & Nutrition Services
+          ☆ Social Work
+      □ Clinical Support
+          ☆ Clinical Support
+          ☆ Medical Assistants
+          ☆ Nursing Support
+      □ IT & Epic
+      □ Leadership Professionals
+          ☆ Leadership Professionals
+          ☆ Hospital Administration
+          ☆ Department Administration
+          ☆ Academic Administration
+      □ Non-Clinical Professionals
+          ☆ Non-Clinical Professionals
+          ☆ Development & Alumni Affairs
+          ☆ Finance & Revenue Cycle
+          ☆ Human Resources
+          ☆ Communications
+          ☆ Supply Chain
+          ☆ Strategic Planning
+          ☆ Facilities
+      □ Nursing
+          ☆ Advanced Practice Nursing
+          ☆ Cardiac and Surgical Services
+          ☆ Care Management
+          ☆ Critical Care
+          ☆ Emergency Department
+          ☆ Medical Services
+          ☆ Neurosciences
+          ☆ Nursing
+          ☆ Nursing Professional Development
+          ☆ Nursing Support
+          ☆ Oncology
+          ☆ Perioperative Services
+          ☆ Scheduling Alternatives
+          ☆ Welcome from the CNO
+          ☆ Women’s & Children’s Services
+      □ Research
+      □ Support Services
+          ☆ Support Services
+          ☆ Dietary
+          ☆ Housekeeping
+          ☆ Central Service
+          ☆ Security
+  • Locations
+  • FAQs
+  • Current Employees
+  • Job Search
+
+{{title}} job at NYU Langone Medical Center – {{ref}}
+You are here: Home / {{title}} job at NYU Langone Medical Center – {{ref}}
+
+Sr. Data Analyst
+
+Job ID: 1034194_RR00012860
+Area of Talent: Research
+Position Type: Full-Time/Regular
+Location: NYU School of Medicine
+Shift: 09:00 AM to 05:00 PM
+Back to Job Search Results
+
+Apply
+
+Existing Resume Apply here
+Add to Cart
+View Cart
+
+NYU Langone Medical Center, a world-class, patient-centered, integrated,
+academic medical center, is one of the nation’s premier centers for excellence
+in clinical care, biomedical research and medical education. Located in the
+heart of Manhattan, NYU Langone is composed of four hospitals – Tisch Hospital,
+its flagship acute care facility; Rusk Rehabilitation; the Hospital for Joint
+Diseases, one of only five hospitals in the nation dedicated to orthopaedics
+and rheumatology; and Hassenfeld Children’s Hospital, a comprehensive pediatric
+hospital supporting a full array of children’s health services across the
+medical center – plus the NYU School of Medicine, which since 1841 has trained
+thousands of physicians and scientists who have helped to shape the course of
+medical history. The medical center’s tri-fold mission to serve, teach and
+discover is achieved 365 days a year through the seamless integration of a
+culture devoted to excellence in patient care, education and research. For more
+information, go to www.NYULMC.org.
+
+Position Summary:
+We have an exciting opportunity to join our team as a Sr. Data Analyst.
+
+In this role, the successful candidate The NYU Langone Comprehensive Obesity
+Initiative is a new, institution-wide effort to better understand, treat and
+manage obesity at the population and clinical levels. The Initiative unites
+cutting-edge population health, clinical, and basic science research through a
+uniquely comprehensive electronic data source — a multi-disciplinary
+DataBridge. This rich resource will enable investigators to address
+long-standing questions from completely new perspectives, using cutting-edge
+machine learning and other big data techniques. Key insights will be translated
+into real, evidence-based obesity prevention, treatment, and management
+solutions.>>This position helps to build and test a large, comprehensive
+repository for integration of diverse data pertaining to obesity (basic,
+clinical, and population sciences). Contributes to the creation of a
+user-friendly infrastructure that integrates and makes usable diverse and
+disparate data, and provides foundations for integration of advanced machine
+learning methods. Conducts wide-ranging analyses on these data, interprets and
+presents outcomes.
+
+Job Responsibilities:
+
+  • Cultivate deep familiarity with methodological approaches and data from
+    diverse sources including big data platforms, large administrative
+    databases, small-scale survey data, clinical and basic science, and others,
+    and work to construct a database integrating them together.
+  • Build and test large, comprehensive repository for integration of diverse
+    data (basic, clinical, and population sciences).
+  • Continually manage ongoing additions to database. Import and clean raw
+    datasets and create analytic datasets. Develop, manage, and improve
+    databases to track provenance and versioning.
+  • Advanced programming
+  • Conduct comprehensive statistical analyses according to the study design
+    (e.g., cross-sectional, time series, difference-in-difference, machine
+    learning) and prepare sophisticated reports, charts and tables. Accurately
+    and appropriately interpret and communicate results
+  • Monitor, evaluate, and improve data quality. Detect and address issues in
+    data, analytic results, and databases.
+  • Suggest innovative solutions to data questions
+  • Develop programs, methodologies, and files for analyzing and presenting
+    data. Clearly communicate processes used and results achieved, and suggest
+    new and alternative approaches.
+  • Participate in data-driven decision making with investigators
+  • Conduct relevant literature reviews to inform cohort selection, variable
+    definitions, and analytic methods
+  • Assist in writing and editing manuscripts for publication.
+
+Minimum Qualifications:
+To qualify you must have a 1. Masters in Data Science or equivalent combination
+of education and experience>2. 5-6 years experience in database construction.
+We are open to considering advanced and early-career data scientists.>3.
+Familiarity with major machine learning models and data mining techniques.>4.
+Able to write code well in Python, R, or C++. Prior extensive experience with
+Python.>5. Experience with SQL database design and operations. >6. Passion
+about being part of a team that solves big problems in health care.
+
+Preferred Qualifications:
+1. Familiarity with electronic health record databases.>2. Familiarity with
+data driven modeling is a plus (including gathering and cleaning data,
+exploratory analysis, implementing models, error analysis, and presenting the
+findings)>3. Comfortable with interfacing between database and python-pandas or
+other packages.>4. Experience with a few machine learning open-source packages
+(such as sklearn)>5. Excellent communication skills
+
+Qualified candidates must be able to effectively communicate with all levels of
+the organization.
+
+NYU Langone Medical Center provides its staff with far more than just a place
+to work. Rather, we are an institution you can be proud of, an institution
+where you’ll feel good about devoting your time and your talents. And just as
+our employees invest so much in us, we invest in our employees. We’re pleased
+to have one of the most competitive compensation packages not only among New
+York’s hospitals and healthcare institutions, but within the corporate sector
+as well. We begin with exceptional medical, dental, and drug coverage. We
+enhance this basic coverage with comprehensive wellness programs, and
+supplement those with retirement investment and benefits plans, and generous
+paid time off allowances. Add to that a very attractive tuition program, and
+you’ll see just some of the ways that NYU Langone Medical Center demonstrates
+our commitment to our employees.
+
+NYU Langone Medical Center is an equal opportunity and affirmative action
+employer committed to diversity and inclusion in all aspects of recruiting and
+employment. All qualified individuals are encouraged to apply and will receive
+consideration without regard to race, color, gender, gender identity or
+expression, sexual orientation, national origin, age, religion, creed,
+disability, military and veteran status, genetic information or any other
+factor which cannot lawfully be used as a basis for an employment decision. We
+require applications to be completed online.
+If you wish to view NYU Langone Medical Center’s EEO policies, please click
+here. Please click here to view the Federal “EEO is the law” poster or visit
+http://www1.eeoc.gov/employers/poster.cfm for more information.
+
+Job Search
+
+[                    ]
+[Area of Talent                   ]
+[Location                   ]
+[Site Location                                      ]
+[Search]
+Tip: Use the Site Location menu to filter down to specific facilities for "NYU
+School of Medicine" and "Ambulatory/Outpatient" locations.
+Check Application Status
+Click Here To View NYU Lutheran Opportunities
+
+Hot Jobs
+
+Registered Nurse - Labor and Delivery
+New York, NY
+Patient Care Technician - Neuro Epilepsy
+New York, NY
+Project Assistant
+New York, NY
+Business Manager
+New York, NY
+FGP Medical Assistant - Huntington, NY (LONG ISLAND)
+Huntington, NY
+
+Connect With Us
+
+Join Our Talent Network
+Follow Us
+Follow Us
+
+Share this job
+
+  • Share on Facebook
+  • Share on Twitter
+  • Share on Linkedin
+  • Share by Mail
+
+NYU Langone Home NYU School of Medicine For Faculty For Staff MyChart at NYU
+Langone
+Policies & Disclaimers Academic Departments
+Disability: If you need assistance in accessing the careers site:212-404-3618
+If you are experiencing technical difficulties:866-803-9663
+Scroll to top

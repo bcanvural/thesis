@@ -1,0 +1,104 @@
+JavaScript is turned off in your web browser. Turn it on to take full advantage
+of this site, then refresh the page.
+
+Loading...
+Powered by SuccessFactors
+Sign In
+
+Career Opportunities: Data Scientist / Software Engineer (13161)
+
+Req Id 13161 - Posted 12/27/2016 - 10 - ISR & Tactical Systems - 10-04 -
+Intelligence and Decision Technologies - MIT Lincoln Laboratory, Lexington MA
+ - Engineering / Science / Technology - Mid-Level
+?  Job Description Print Preview
+Apply Apply using LinkedIn? Save Job Email Job to Friend Return to List
+
+ 
+
+The Intelligence and Decision Technologies Group develops advanced software
+techniques for processing, exploitation, and dissemination of data from many
+types of sensors, including radar, electro-optic, video, and radio frequency,
+as well as from people and the Internet. The goal is to develop and prototype
+analytics and architectures that support decision makers. This work begins with
+an understanding of the workflows of intelligence analysts and military
+commanders, often through operations research. Operational data sets are
+amassed to support all types of algorithm development, such as multi-sensor
+fusion, data mining, graph-based network detection, and entity tracking. An
+agile development methodology then creates prototype systems for data
+exploitation and knowledge management which are then delivered to our user
+community for feedback and iterative refinement. The challenges of
+heterogeneous sensor systems and overwhelmingly large data volumes drive
+experimentation with architectures for network-centric exploitation and
+distributed storage and computation. Areas of technical staff expertise in the
+group include machine learning, computer vision, natural language processing,
+graph analytics, distributed software systems analysis and development,
+modeling and simulation, software development, and field experimentation.
+
+ A research position is currently available to develop automated intelligence
+systems for large multi-sensor and open source data sets. Projects involve
+system design and architecture and the development of algorithms for machine
+learning, computer vision, natural language processing, and graph analytics
+implemented on enterprise big data architectures.  Data Scientists and/or
+Software Engineers/Architects are encouraged to apply.
+
+ 
+
+Position Requirements
+
+ 
+
+  * MS or PhD in Computer Science, Engineering, Mathematics, Statistics or
+    Physics (with emphasis in Artificial Intelligence/Machine Learning,
+    Computer Vision or Natural Language Processing).
+  * In lieu of the above, a minimum of 5-8 years of directly related experience
+    will be considered.
+  * Proficient mathematical skills, significant experience with machine
+    learning and programming competence in one or more high-level languages
+    (e.g. Java/Python/C++/ MATLAB).
+  * Candidates must be experienced in working within a team-oriented
+    environment and have strong interpersonal skills, including oral and
+    written communication.
+  * Familiarity with remote sensing technologies or military Intelligence,
+    Surveillance, and Reconnaissance (ISR) systems is a plus.
+  * Occasional travel may be required.
+
+
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All
+qualified applicants will receive consideration for employment and will not be
+discriminated against on the basis of race, color, religion, sex, sexual
+orientation, gender identity, national origin, age, veteran status, disability
+status, or genetic information; U.S. citizenship is required.
+
+ 
+
+Apply Apply using LinkedIn? Save Job Email Job to Friend Return to List
+Email this job to a friend
+ 
+
+    ?
+
+ 
+ 
+
+    ?
+    The job has been sent to
+
+ 
+
+                     Please provide the information below
+             Job title:              
+        *Your email address:         [                                        ]
+   *Your friend's email address:     [                                        ]
+                                     [                                        ]
+                                     [                                        ]
+                                     [                                        ]
+              Message:               [                                        ]
+   Maximum character limit: 1000     [                                        ]
+                                     [                                        ]
+                                     [                                        ]
+                                     [                                        ]
+         Verification code:          
+*Please enter the verification code  
+               here:
+
+Send Cancel

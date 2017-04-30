@@ -1,0 +1,95 @@
+Atlas Informatics Careers
+
+Applied Data Scientist - Machine Intelligence Group
+
+Engineering Seattle, Washington
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+About Us
+
+Atlas Informatics is a startup in Seattle with an audacious goal to redefine
+search as we know it. Atlas Recall, the company?s first product, is a personal
+search engine that helps you find EVERYTHING you have seen across all of your
+devices, apps and cloud services. Recall gives you centralized control over
+your scattered data saving you time, hassle, and heartache. Two-years running,
+the great Atlas team was awarded Seattle Business Magazine 100 Best Places to
+Work For.  
+
+About the Role
+
+Atlas Informatics is looking for an experimental research scientist to join our
+Machine Intelligence Group (MIG) to research, validate, and implement
+techniques for extracting meaning from data. Our mission is to help users find
+and organize their content across applications and devices.
+
+MIG leverages knowledge of search algorithms, machine learning, NLP, and data
+pipelines. This opportunity is unique and challenging because you will be
+dealing with an unprecedented scope of data (docs, chat messages, email, web
+pages, spreadsheets, we capture it all!). Our next teammate will be an
+adventurous problem solver, fearlessly creating new datasets and applying
+existing techniques in novel ways.
+
+Responsibilities
+
+  * Prototype and design algorithms to understand the behavior of our users,
+    creating valuable context to improve search.
+  * Design and conduct experiments to evaluate the aforementioned algorithms.
+    Share these findings with our team to foster an experimental, data-driven
+    culture.
+  * Work with the engineering team to implement prototypes in production.
+  * Build a smarter platform - stay on top of the latest research and
+    techniques, anticipate opportunities for applying them to better our
+    product.
+
+Requirements
+
+  * BS in Computer Science or equivalent
+  * 5+ years of experience working with machine learning, data mining or
+    recommendation systems
+  * Familiarity with supervised and unsupervised machine learning algorithms,
+    such as decision trees, logistic regression, Naive Bayes, SVM, kNN
+  * Proficient coder who is open to learning new languages - MIG primarily
+    works with Python (R&D), Ruby, and Golang
+
+Preferred Qualifications
+
+  * Masters in Computer Science or equivalent
+  * Domain expertise in search
+  * Familiarity with natural language processing (NLP) problem space and
+    techniques, such as stemming and tokenization, topic identification (LDA
+    and others), and semantic parsing
+  * Experience using Elasticsearch or Lucene
+  * Experience with deep learning, using toolkits such as TensorFlow, Theano,
+    Caffe
+  * Familiarity with data pipelines and processing large quantities of
+    streaming data
+  * Experience with distributed version control like Git
+
+Bonus:
+
+Atlas Informatics provides competitive compensation, robust benefits, early
+stage stock and some of the most talented people you?ll have the pleasure of
+working with.
+
+Atlas Informatics is an EEOC.
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

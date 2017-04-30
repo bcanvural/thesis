@@ -1,0 +1,98 @@
+HomeAway
+
+Senior Data Scientist - Revenue Management
+
+IT - Global Data Science (326) | Information Technology | Austin, TX
+
+About HomeAway:
+Have you ever had the opportunity to impact the lives of millions of people in
+a meaningful way and help them enjoy time away with their friends and families
+building memories?
+
+That is what we do here at HomeAway.com. We are the leading vacation rental
+website in the world with more than 1 million online bookable vacation rentals.
+Our mission is to make every vacation rental in the world available to every
+traveler in the world through our online marketplace and we're committed to
+helping families and friends find the perfect vacation rental to create
+unforgettable travel experiences together. As for engineering,we solve problems
+of scale and work on cutting edge and open-source technologies. Our culture is
+one that strives on solving difficult problems focusing on product engineering
+based on hypothesis testing to empower people to come up with ideas.
+
+Job Description:
+The Revenue Management team at HomeAway is growing fast and adding a Data
+Scientist to the mix.  From modeling demand, building forecasts and price
+response functions, we are working to help property owners maximize their
+occupancy and revenue on the platform.  Unlike the hotel or airline space, our
+owners aren’t studied statisticians - they could be anyone.  Building a
+scalable and intuitive self-service revenue management system is no easy task.
+ Our team will be challenged by data problems,story-telling, education and
+design.  The opportunity is so promising that the revenue management teams is
+one of the central investments for the future of HomeAway.
+
+As a Data Scientist on the Revenue Management Team, you’ll play a major role in
+how we architect, visualize, and interpret critical data that is at the very
+core of our business. You’ll partner with our leaders to understand objectives,
+and then work alongside our Analysts and Engineers to execute and communicate
+findings back to the business through visualizations and presentations. Simply
+put – we want you to be HomeAway’s leading expert on data and predictive
+analytics for revenue management. 
+
+Responsibilities:
+
+  • Work with the team on demand modeling, forecasting and dynamic pricing
+  • Devise techniques for model localization, calibration,monitoring and alerts
+  • Be aware of data streams captured in the company in any format (structured,
+    unstructured, semi-structured, external API etc.) and how to overcome their
+    obstacles
+  • Assist others in the company in data discovery and data preparation phase
+  • Work closely with various Product, Business andEngineering teams
+  • Understand the “big picture” our data presents and frame analytic problem
+    statements in response to business and product challenges
+  • Be an expert in the Exploratory phase and prescriptive analysis - i.e build
+    and assess models, review results, etc.
+  • Articulate storytelling to business stakeholders - focus on telling the
+    “business” story (abstracting data complexities and processes)and
+    influencing the audience
+
+Qualifications:
+
+  • 8+ years of experience in Data Science and analytics fields with projects
+    from ideation to production
+  • Experience working in internet-based/eCommerce/travel industry is preferred
+  • Experience with programming languages such as R, Python,or Scala
+  • Experience in processing and analyzing large scale data volumes for
+    semi-structured and unstructured data at near real-time throughput
+  • Experience working in Hadoop ecosystem, Spark, strong alternative database
+    knowledge and expertise in SQL
+  • Experience building various machine learning models and implementation in a
+    production system
+  • Revenue management or pricing domain expertise strongly preferred
+  • Masters or Ph.D in Decision Systems, Operations Research, Statistics, Math,
+    Computer Science, Market Economics
+
+Benefits:
+
+  • Great Medical & Dental Plans
+  • Highly Competitive Pay
+  • Target Annual Bonus
+  • 4 weeks Paid Vacation
+  • Employee Purchase Discount Plan
+  • Discounted vacation rental on a yearly basis (taxable benefit)
+  • Free drinks & snacks
+  • Weekly company update talks with our leadership team
+  • Free Listing on HomeAway.com
+  • Discounted Metro Bus & Rail pass
+  • Electronic adjustable stand up desk
+  • Casual dress code
+
+To understand the mission of HomeAway, watch our ad by Prince EA, https://
+www.youtube.com/watch?v=TNRldP18bH8”'>Working to Live or Living to Work, on our
+YouTube channel!
+
+Visit our https://tech.homeaway.com/science/'>Engineering Blog.
+
+Apply
+
+Jobvite
+

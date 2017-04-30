@@ -1,0 +1,128 @@
+Seven Bridges Careers
+
+Computational Scientist
+
+Research & Development Cambridge, Massachusetts
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+About Seven Bridges
+
+Seven Bridges is the biomedical data analysis company accelerating
+breakthroughs in genomics research for cancer, drug development and precision
+medicine. We democratize genomics by enabling researchers anywhere to process
+and understand genomic data quickly and efficiently, at any scale.
+
+Thousands of researchers in government, biotech, pharmaceutical and academic
+labs use Seven Bridges, including three of the largest genomics projects in the
+world: U.S. National Cancer Institute?s Cancer Genomics Cloud pilot, the
+Million Veteran Program, and Genomics England?s 100,000 Genomes Project. As the
+NIH?s only commercial Trusted Partner, Seven Bridges authenticates and
+authorizes access to one of the world?s largest cancer genomics dataset.
+
+Our biomedical data analysis platform will be used by the Cancer Moonshot?s
+Blood Profiling Atlas project, designed to accelerate the development and
+approval of simple, accurate, and reliable blood tests for cancer diagnosis and
+precision treatment.
+
+Named one of the world's smartest companies by MIT Technology Review, Seven
+Bridges has offices in Cambridge, Mass., San Francisco, London, Belgrade, and
+Istanbul.
+
+
+
+Computational Scientist
+
+We are seeking a Computational Scientist to become a member of our
+computational biology team at our Cambridge office. As a Computational
+Scientist, you will work internally and externally to operationalize the graph
+technical vision by executing, evaluating and refining an integrated
+graph-based genomic analyses toolset to process raw data in high priority areas
+including calling hereditary variants, calling somatic/cancer variants, and
+calling RNA-Seq expression and variants (isomers). As a Computational Scientist
+you will work in teams to create and develop tools in an integrated graph
+genomic analyses toolset that will include global and local alignment,
+integrated graph caller, local iterative
+assembly, global assembly and phased haplotype assembly.
+
+As a Computational Scientist, you will work internally and directly with the
+largest research institutions in the world to create graph-based bioinformatics
+workflow that can efficiently analyze genomic data while being able to scale to
+analyze data from national programs. In this role, you will plan graph-based
+workflow validation and analysis studies. This will require working in teams to
+customize workflows, develop new tools and to manage data analysis projects
+including algorithm/tool development. Computational scientist will collaborate
+with our customer project and product development teams to insure transition of
+graph-based tools from research applications to operational use by our
+customers including several national programs.
+
+Seven Bridges works with some of the largest research organizations in the
+world, which means you will, too. You can expect to work with individual
+research groups and departments at top ten universities, pharmaceutical
+companies, and large consortia. On a regular basis, you can expect to develop,
+optimize, and apply tools and workflows for processing and analyzing biological
+data. You will evaluate tools and report internally across functional areas to
+define, validate and implement software to improve our graph-based workflows
+and to help researchers around the world.
+
+A successful Computational Scientist enjoys building computational systems that
+will have a large user base. They are adept in algorithm development, large
+scale data analyses, and have a deep understanding of biology and genomics. And
+they are very people-oriented and eager to work to resolve problems and to
+maintain a positive and productive relationship.  
+
+An ideal candidate has:
+
+PhD in computational biology, bioinformatics, or statistics (or foreign
+equivalent degree) is required
+
+Relevant experience or skills in computational biology, bioinformatics, machine
+learning, or statistics
+
+Proficiency with several of the following technologies: Java, C/C++, R, Python,
+Perl, and Unix
+
+Proficient in next-generation sequencing data analysis and variant analysis
+
+Great presentation skills
+
+The proven ability to use, troubleshoot, and teach software.
+
+Strong communication skills and the ability to work effectively with others.
+
+We also think that...
+
+Previous experience with large-scale genomic data (e.g. RNA-seq, Exome-seq,
+ChIP-seq, etc.) is a big plus.
+
+Strong publication record in top tier scientific journals to include first
+author publications is also a big plus.
+
+If you would like to help us advance genomics at our leading, well-funded, and
+dynamic startup, please apply here.
+
+All qualified applicants will receive consideration for employment without
+regard to race, color, religion, sex, sexual orientation, gender identity or
+national origin.
+
+
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

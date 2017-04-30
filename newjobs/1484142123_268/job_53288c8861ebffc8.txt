@@ -1,0 +1,690 @@
+Advanced Search
+
+ 1. [Search              ]
+ 2. [Careers             ]
+ 3. [5 ]Results per Page
+ 4. [Search]
+
+Homepage ASML
+
+ 1. [                ]
+ 2. [Go][Advanced Search]
+
+[Cymer          ]
+AAA | Mobile | Help | 
+
+  * Company
+      + Key Facts & Figures
+      + Vision and Mission
+      + Markets and Products
+      + History
+      + FAQ
+      + Company Calendar
+      + The role of lithography
+      + Strategy and Business Model
+      + Organizational Structure
+      + Corporate videos
+      + Management
+    Company
+
+    ASML is one of the world?s leading manufacturers of chip-making equipment.
+    Headquartered in Veldhoven, the Netherlands, ASML employs more than 14,000
+    people.
+
+  * Products
+      + Systems
+          o TWINSCAN NXE  | 
+          o TWINSCAN NXT  | 
+          o TWINSCAN XT  | 
+          o YieldStar  | 
+          o PAS 5500
+      + ASML Brion
+      + Products Calendar
+      + System Enhancements
+      + Mature Products and Services
+      + Customer Support
+          o Maintenance & Operations Support  | 
+          o Application Programs and Products  | 
+          o Training  | 
+          o Documentation  | 
+          o Contacts  | 
+          o CustomerNet
+      + Images Customer Magazine
+    Products
+
+    EUV is at the cusp of being introduced in volume chip production. What will
+    drive the decision?
+
+    Read more
+
+  * Governance
+      + Introduction
+      + Board of Management
+          o Composition  | 
+          o Appointment  | 
+          o Remuneration  | 
+          o Securities Holdings  | 
+          o Disclosure Committee
+      + Shareholders
+          o AGM 2016  | 
+          o AGM 2015  | 
+          o AGM 2014  | 
+          o AGM 2013  | 
+          o EGM 2012  | 
+          o AGM 2012  | 
+          o AGM 2011  | 
+          o AGM 2010  | 
+          o AGM 2009  | 
+          o AGM 2008
+      + Code of Conduct
+          o Speak Up Policy  | 
+          o California Supply Chain Act and UK Modern Slavery Act
+      + Corporate Structure
+      + Supervisory Board
+          o Composition  | 
+          o Appointment  | 
+          o Remuneration  | 
+          o Securities Holdings  | 
+          o Supervisory Board Committees
+      + Auditor
+          o Internal Auditor
+      + General
+          o Articles of Association  | 
+          o Links
+    Governance
+
+    ASML endorses the importance of good corporate governance, of which
+    independence, accountability and transparency are the most significant
+    elements.
+
+    Read more
+
+Careers
+
+  * Go back
+
+  * PDF version
+  * Printfriendly
+  * Add to my favorites
+  * Send to a friend
+  * Add comments
+
+Principal Data Scientist - San Jose
+
+Location        San Jose - CA, US
+Activity
+Level           PhD
+Experience      5-10 Experienced
+Available since 2016-12-01
+Functional area Research & Development
+Background      Software Engineering
+Reference       US02191
+
+Apply for this job
+
+Introduction
+
+Brion Technologies is a division of ASML and an industry leader in
+computational lithography for integrated circuits. Computational lithography is
+the application of computationally-intensive physical and empirical models to
+predict and optimize semiconductor device feature patterning. Brion?s software
+products enable capabilities that address the interrelated challenges of chip
+design, photomask making and wafer printing for semiconductor manufacturing. At
+Brion, we are proud of bringing together the brightest minds from all over the
+world to tackle the most challenging problems in software algorithms and
+simulation that result in making faster and smaller chips. As part of our team,
+you will have the opportunity to go beyond yourself in developing more advanced
+techniques and pushing the boundaries of technology. Brion is located in
+Silicon Valley in California. Brion?s corporate parent, ASML, is the world's
+leading provider of lithography systems for the semiconductor industry,
+manufacturing complex machines that are critical to the production of
+integrated circuits or chips. ASML designs, develops, integrates, markets and
+services advanced systems used by customers ? the major global semiconductor
+manufacturers ? to create chips that power a wide array of electronic,
+communications and information technology products.
+
+Job Mission
+
+Advanced Technology Development (ATD) Organization at ASML-Brion is looking for
+an experienced data scientist who has a passion to build data products and data
+systems. The ATD technology exploration team began to make the most use of a
+vast data acquired from our hardware and software products from 2014. As our
+vision expands, the opportunity to make important contributions to the company
+and to our customers through data analytics is also expanding. We seek a
+principle data scientist with practical experience in exploring big data
+opportunity at ASML-Brion. The Principal Data Scientist will be responsible for
+utilizing disparate data sources in novel ways, with the aim of generating
+actionable insights. The insights can create new offerings or improve the
+capabilities, performance and efficiency of existing products and services
+throughout the company. Key Roles and Responsibilities: You will work closely
+with individual team leads to formulate problem statements and work through the
+lifecycle of delivering these insights to production. You will design and
+organize large and complex data sets from varied sources, while thinking
+strategically about uses of data and issues such as scalability. You will
+deliver mathematical and statistical models with proven predictive power.
+
+Job Description
+
+Understand existing business flow and product features, dive into the
+underlying data, apply relevant Data Mining techniques and/or Machine Learning
+algorithms and propose data analytic product to improve the product
+intelligence Implement the applicable Machine Learning or statistics based
+algorithm for prediction and optimization and deliver the trained model to
+production Build and maintain code to populate HDFS, Hadoop with log from
+products or data loaded from SQL production systems. Design, build and support
+algorithms of data transformation, conversion, computation on Hadoop and other
+distributed Big Data Systems
+
+Education
+
+Ph.D of Computer Science/Engineering/Mathematics or equivalent plus a minimum
+of 5 years relevant experience.
+
+Experience
+
+Expert of Mining large data sets, Machine Learning techniques such as
+regression and classification, cluster analysis, neural networks, ensembles,
+random forests and related algorithms. Experience in building Machine Learning
+based data products in production Experience with Hadoop and MapReduce Database
+experience with MySQL, MSSQL or equivalent Experience with HBase or comparable
+NoSQL. Proficient in one or two of the languages: Java, Python, C++ in Linux/
+Unix Desired: Experience in Spark MLLib, Mahout Experience with R and/or MatLab
+Familiarity out data formats and serialization, XML or equivalent Experience in
+optimization and strong problem solving skills Strong communication skills
+Desire and ability to work well with others in a team environment
+
+Other Information
+
+EEO/AA Employer
+Apply for this job
+Bookmark and ShareBookmark and Share
+ 
+Go Back
+ 
+Go Back to Search
+
+  * Home
+  * Press
+  * Investors
+  * Careers
+  * myPanels
+
+Home
+
+Q4 Financial Results 2016
+
+Q4 Financial Results 2016
+
+[latesteven]
+ASML Holding N.V. will announce its 2016 Fourth Quarter and Annual Financial
+Results on Wednesday, January 18, 2017.
+Read More
+
+Q3 Financial Results 2016
+
+Q3 Financial Results 2016
+
+Press ReleaseFinancial statements (USGAAP)Financial statements (IFRS)
+PresentationConference Call: Archived Webcast
+Q3 Results 2016 Overview
+
+Annual Report 2015
+
+Annual Report 2015
+
+[panel_annu]
+
+Shareholder Meeting 2016
+
+Finance
+
+[asml_agm20]
+
+Select calendars:
+
+ 1. [*]Careers
+ 2. [*]Investors
+ 3. [*]Products
+
+-------------------------------------------------------------------------------
+[ ]Hide calendar
+
+Company Calendar
+
+Investor Day 2016
+
+Investor Day 2016
+
+[asml_inves]
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+[asml_inter]
+
+Corporate Responsibility
+
+Corporate Responsibility
+
+[panel_resp]
+
+A look into ASML?s cleanroom
+
+A look into ASML?s cleanroom
+
+[asml_video]
+
+Share Information
+
+Year Overview - AEX
+
+asml image
+ASML share (15 min. delayed)
+AEX:
+NASDAQ:
+
+  * Press Releases
+  * Presentations
+  * Image Library
+
+  * Financial Results
+  * Factsheet
+  * FAQ
+
+  * Annual Reports
+  * Glossary
+  * Press Contacts
+
+Press
+
+Q4 Financial Results 2016
+
+Q4 Financial Results 2016
+
+[latesteven]
+ASML Holding N.V. will announce its 2016 Fourth Quarter and Annual Financial
+Results on Wednesday, January 18, 2017.
+Read More
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+[asml_inter]
+# of Tweets[3]
+
+Twitter live
+
+Q3 Financial Results 2016
+
+Q3 Financial Results 2016
+
+Press ReleaseFinancial statements (USGAAP)Financial statements (IFRS)
+PresentationConference Call: Archived Webcast
+Q3 Results 2016 Overview
+
+ASML customer co-investment program
+
+ASML customer co-investment program
+
+Press ReleaseConference Call: Audio WebcastPresentationProspectus
+Overview
+
+EUV: Questions and answers
+
+EUV: Questions and answers
+
+[euvqa]
+
+  * Annual Reports
+  * Dividend
+  * Financial Overview
+  * Press Releases
+  * FAQ
+
+  * Financial Results
+  * Share Buyback
+  * Financial Calendar
+  * SEC Filings
+  * IR Contacts
+
+  * Share Information
+  * Bonds & Credit Rating
+  * Presentations
+  * Shareholders
+  * US Form 8937
+
+Investors
+
+Q4 Financial Results 2016
+
+Q4 Financial Results 2016
+
+[latesteven]
+ASML Holding N.V. will announce its 2016 Fourth Quarter and Annual Financial
+Results on Wednesday, January 18, 2017.
+Read More
+
+Q3 Financial Results 2016
+
+Q3 Financial Results 2016
+
+Press ReleaseFinancial statements (USGAAP)Financial statements (IFRS)
+PresentationConference Call: Archived Webcast
+Q3 Results 2016 Overview
+
+Annual Report 2015
+
+Annual Report 2015
+
+[panel_annu]
+
+ASML customer co-investment program
+
+ASML customer co-investment program
+
+Press ReleaseConference Call: Audio WebcastPresentationProspectus
+Overview
+
+Select calendars:
+
+ 1. [*]Careers
+
+-------------------------------------------------------------------------------
+[ ]Hide calendar
+
+Careers Calendar
+
+Investor Day 2016
+
+Investor Day 2016
+
+[asml_inves]
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+Video Interview: CFO Wolfgang Nickl Q3 Financial Results 2016
+
+[asml_inter]
+
+Finance
+
+Finance
+
+[asml_agm20]
+
+Share Information
+
+Year Overview - AEX
+
+asml image
+ASML share (15 min. delayed)
+AEX:
+NASDAQ:
+
+  * Global
+  * Japan
+  * Korea
+  * Taiwan
+
+  * Your Background
+  * Calendar
+  * For Starters
+  * Internships
+
+  * Working at ASML
+  * FAQ
+  * ASML Connection
+  * Vacancies
+
+  * Business Areas
+  * For Students
+  * Careers Contacts
+
+Careers
+
+ASML achievements 2015
+
+[asml_ASML_]
+
+Jobs at Cymer
+
+Jobs at Cymer
+
+[jobs_at_cy]
+
+Your Background
+
+[icoon-back]
+[image-back]
+
+Working at ASML
+
+[icoon-work]
+[image-work]
+
+Business Areas
+
+[icoon-busi]
+[image-busi]
+
+Internships
+
+[icoon-inte]
+[image-inte]
+
+Select calendars:
+
+ 1. [*]Careers
+
+-------------------------------------------------------------------------------
+[ ]Hide calendar
+
+Careers Calendar
+
+# of Tweets[3]
+
+Twitter live
+
+Vacancies
+
+[icoon-vaca]
+[image-vaca]
+
+For Starters
+
+[icoon-star]
+[image-star]
+
+ASML Connection
+
+[icoon-asml]
+[image-asml]
+
+myPanels
+
+Edit panels
+Select a topic[Careers   ]
+[asml_logo-]
+
+Contacts
+
+  * Headquarters
+  * Main Offices
+  * 
+  * Europe
+  * United States
+  * Asia
+  * 
+  * Customized Imaging Solutions
+  * Optics
+  * 
+  * Investor Relations
+  * Press
+  * Customer Training Centers
+  * ASML Foundation
+
+  * Company
+      + Key Facts & Figures
+      + The role of lithography
+      + Vision and Mission
+      + Strategy and Business Model
+      + Markets and Products
+      + Organizational Structure
+      + History
+      + Corporate videos
+      + FAQ
+      + Management
+      + Company Calendar
+  * Investors
+      + Annual Reports
+      + Financial Results
+      + Share Information
+      + Dividend
+      + Share Buyback
+      + Bonds & Credit Rating
+      + Financial Overview
+      + Financial Calendar
+      + Presentations
+      + Press Releases
+      + SEC Filings
+      + Shareholders
+      + FAQ
+      + IR Contacts
+      + US Form 8937
+
+  * Products
+      + Systems
+      + Mature Products and Services
+      + ASML Brion
+      + Customer Support
+      + Products Calendar
+      + Images Customer Magazine
+      + System Enhancements
+  * Press
+      + Press Releases
+      + Financial Results
+      + Annual Reports
+      + Presentations
+      + Factsheet
+      + Glossary
+      + Image Library
+      + FAQ
+      + Press Contacts
+
+  * Governance
+      + Introduction
+      + Corporate Structure
+      + Board of Management
+      + Supervisory Board
+      + Shareholders
+      + Auditor
+      + Code of Conduct
+      + General
+  * Careers
+      + Your Background
+      + Working at ASML
+      + Business Areas
+      + Calendar
+      + FAQ
+      + For Students
+      + For Starters
+      + ASML Connection
+      + Careers Contacts
+      + Internships
+      + Vacancies
+
+  * RSS
+  * Youtube
+  * Twitter
+  * Facebook
+  * Linkedin
+
+Copyright
+
+  * Legal Terms and Conditions
+  * Privacy Policy
+  * Cookie Policy
+
+Copyright ? 2017 (ASML)
+All rights reserved
+
+  * Archive
+
+    Archive
+
+      + Video
+      + Press Releases
+      + Presentations
+      + Annual Reports
+      + Q Results
+      + Images Online
+  * Glossary
+
+    Glossary
+
+    [                  ]
+   
+    Glossary View[ ]
+    Glossary A-Z
+  * Calendar
+
+    Calendar
+
+  * Rss feeds
+
+    Rss feeds
+
+      + Press Releases
+      + Careers General
+      + Investor
+      + RSS
+  * Send to a Friend
+
+    Send to a Friend
+
+      + Send to a friend
+  * Share Information
+
+    Share Information
+
+    Year Overview - AEX
+
+    asml image
+    ASML share (15 min. delayed)
+    AEX:
+    NASDAQ:
+  * Sitemap
+
+    Sitemap
+
+      + Sitemap
+  * Social Bookmarks
+
+    Social Bookmarks
+
+      + Add to my favorites
+      + Add to Delicious
+      + Digg this
+      + Add to Google
+      + Add to Technorati
+      + Add to Yahoo
+      + Share on Twitter
+      + Share on Facebook
+  * Back to Top
+  * Settings
+
+    Settings
+
+    [ ]Archive
+    [ ]Glossary
+    [ ]Calendar
+    [ ]Rss feeds
+    [ ]Send to a Friend
+    [ ]Share Information
+    [ ]Sitemap
+    [ ]Social Bookmarks
+    ---------------------------------------------------------------------------
+    [ ]Show all
+

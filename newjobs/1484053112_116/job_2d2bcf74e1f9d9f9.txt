@@ -1,0 +1,319 @@
+  • Wireless
+  • Residential
+  • Business
+  • About Verizon
+
+Contact us
+Toggle navigation About Verizon
+Enter a search term 
+[                                                            ]
+  • Our Company
+      □ Who We Are
+          ☆ Diversity & Inclusion
+          ☆ History & Timeline
+      □ What We Do
+          ☆ Wireless Network
+          ☆ Broadband & Fiber
+          ☆ Video & Advertising
+          ☆ Internet of Things
+          ☆ Managed Security
+          ☆ Innovation Programs
+      □ How We Operate
+          ☆ Code of Conduct
+          ☆ Supplier Diversity
+              ○ Supplier FAQs
+          ☆ Public Policy & Regulatory
+          ☆ State Government Affairs
+          ☆ Company Policies
+          ☆ Retirees
+      □ Leadership
+      □ Awards
+  • Responsibility
+      □ Verizon Innovative
+        Learning
+          ☆ App challenge
+          ☆ Minority males
+          ☆ Schools
+          ☆ Design Thinking
+          ☆ Innovative Learning Labs
+      □ Domestic Violence
+        Prevention
+          ☆ Get Involved
+          ☆ FAQs
+      □ Sustainability
+          ☆ Emissions Profile
+      □ Product Responsibility
+          ☆ Accessibility
+          ☆ Online Safety
+          ☆ Frauds and Scams
+      □ Reporting
+      □ Giving and Grants
+          ☆ Grant Requirements
+  • News
+      □ Stories
+          ☆ Personal Tech
+          ☆ Enterprise Tech
+          ☆ Community
+          ☆ People
+      □ Media Center
+          ☆ News Releases
+          ☆ Media Resources
+          ☆ Media Contacts
+  • Investors
+      □ Financial Reporting
+          ☆ SEC Filings
+          ☆ Annual Reports
+          ☆ Quarterly Earnings
+          ☆ Stock Information
+          ☆ Dividend History
+          ☆ Fixed Income
+      □ News & Events
+          ☆ Investor News
+          ☆ Investor Webcasts
+          ☆ Investor Calendar
+      □ Corporate Governance
+          ☆ Board of Directors
+      □ Shareowner Services
+          ☆ Cost Basis
+          ☆ Shareowner FAQs
+      □ Contact Investor Relations
+  • Careers
+      □ Career Areas
+          ☆ Stores
+          ☆ Sales
+              ○ Retail Sales
+              ○ Inside Sales
+              ○ Enterprise Sales
+              ○ B2B Sales
+          ☆ Customer Service
+              ○ Call Center
+              ○ In-store
+          ☆ Technology
+              ○ Software Engineering
+              ○ Network Engineering
+              ○ Information Technology
+              ○ Research & Development
+          ☆ Corporate
+      □ Working Here
+          ☆ Benefits
+      □ College Students
+      □ Military
+          ☆ Military Skills Matcher
+          ☆ Contact a Military Recruiter
+          ☆ Military FAQs
+      □ Locations
+      □ Events
+      □ FAQs
+      □ Search Jobs
+      □ Search Jobs
+
+Go to
+
+  • Verizon Wireless
+  • Verizon Business
+  • Verizon Residential
+  • Contact Us
+
+Search Jobs
+
+  • Career Areas
+      □ Stores
+      □ Sales
+      □ Customer Service
+      □ Technology
+      □ Corporate
+  • Working Here
+      □ Benefits
+  • College Students
+  • Military
+      □ Military Skills Matcher
+      □ Contact a Military Recruiter
+      □ Military FAQs
+  • Locations
+  • Events
+  • FAQs
+
+ 1. Home
+ 2. Search Careers
+ 3. Strategic Planning - Full-Time
+ 4. Data Scientist
+
+Data Scientist
+
+  • Basking Ridge, NJ - United States
+  • Strategic Planning - Full-Time
+  • Job # 445739
+  • Date posted - 12-30-2016
+
+Apply Share this Job
+
+Responsibilities
+
+As a Data Scientist on the Verizon Innovation Team, you will be an
+authoritative subject matter expert on algorithms and techniques to predict and
+optimize conditions in Verizon’s network that ultimately extract business value
+out of Verizon’s data.  You will be responsible for understanding the Team's
+big data objectives, how they contribute to Verizon's success, and then
+investigating and implementing data science technologies that best support the
+Team's mission.  You will analyze cutting-edge technologies and make
+recommendations to Verizon executives on the future technologies Verizon should
+implement.
+
+As part of the Innovation Team, you will be working in a fast-paced environment
+focused on rapidly identifying, evaluating, and deploying big data solutions
+for Verizon.  You will interact with the data engineers ingesting and storing
+the data, the AnalyticOps teams who are productizing the new algorithms, the
+Verizon teams collecting data, vendors, and open source communities to develop
+a comprehensive understanding of data science techniques and trends so that
+Verizon big data becomes a competitive advantage in Verizon's mission to deploy
+the highest-quality, lowest-cost network.
+
+Your responsibilities will include:
+
+  • Work with data owners inside Verizon to understand what Verizon network and
+    IT data is available.
+  • Work with business unit stakeholders to understand high-cost areas and use
+    cases that could be improved via prediction and optimization
+  • Perform exploratory data analysis to understand the relationships between
+    Verizon data sets and the most valuable data sets.
+  • Develop and implement big data, machine learning, and artificial
+    intelligence capabilities that can predict and optimize key quantities and
+    events in the Verizon network.
+  • Author and collaborate on Technical Requirements, Specifications,
+    Proposals, High Level Designs, and other applicable engineering documents.
+  • Conduct detailed technology research on industry and vendor solutions for
+    analyzing data and implement new solutions in the Innovation Team's lab to
+    identify those which are the most promising.
+  • Provide thought leadership for the Data Infrastructure & Analysis team and
+    collaborate with cross-functional engineering teams to streamline or
+    improve adoption of analytics into their projects.
+
+Qualifications
+
+Must have:
+
+  • A Bachelor's degree in Computer Science, Electrical Engineering, or
+    Computer Engineering, or equivalent experience.
+  • Four or more years of relevant experience.
+  • Experience developing and implementing machine learning and artificial
+    intelligence algorithms.
+  • Familiarity and practical experience with modern machine learning tools
+    such as TensorFlow, Caffee, scikit-learn, and Theano.
+  • Familiarity and practical experience with programming languages such as R
+    and Python.
+  • Familiarity and practical experience in the areas of machine learning,
+    neural networks, statistical learning, and exploratory data analysis.
+
+Ideally, you’ll also have:
+
+  • Demonstrated ability to work in a team and independently on multiple high
+    priority projects. Proven ability to manage multiple high-visibility,
+    complex technical projects.
+  • Extremely strong problem solving skills.
+  • Strong written and verbal communication skills.
+  • Demonstrated capabilities and knowledge in machine learning and machine
+    intelligence.
+  • Experience using machine learning technology to work efficiently with
+    datasets such as scripting and Unix/Linux experience.
+
+Not to boast, but a little bit about us
+
+Verizon powers America’s fastest and most reliable network. We’re also leading
+the way in cloud and security solutions, Internet of Things and video
+entertainment. Technology moves fast and so do we. We believe that bringing
+great ideas and customer experiences to life should be recognized and
+rewarded.  Whether you think in code, words, pictures or numbers, find your
+future at Verizon.
+
+Equal Employment Opportunity
+
+We're proud to be an equal opportunity employer - and celebrate our employees'
+differences, regardless of race, color, religion, gender, sexual orientation,
+gender identity, national origin, age, disability, or Veteran status. 
+Different makes us better.
+
+ 
+Apply Share this Job
+
+BACK TO SEARCH RESULTS
+
+Learn more
+
+Learn more about Strategic Planning jobs
+
+Your Careers Account
+
+Create or update your career account
+
+Related Careers
+
+Manager – Business Intelligence - Basking Ridge, NJ, United States
+Senior Business Intelligence Analyst - Basking Ridge, NJ, United States
+Data Engineer - Basking Ridge, NJ, United States
+AnalyticOps Engineer - Basking Ridge, NJ, United States
+Data Scientist - Basking Ridge, NJ, United States
+Data Analytics Manager - Piscataway, NJ, United States
+Principal - Predictive Analytics - Basking Ridge, NJ, United States
+Principal Data Scientist - Supply Chain - Basking Ridge, NJ, United States
+External Fraud and Organized Crime Analytics Manager - Basking Ridge, NJ,
+United States
+Performance Assurance Manager - Basking Ridge, NJ, United States
+show all...
+
+Follow Verizon Careers
+
+Stay up-to-date with the latest news stories from Verizon.
+Follow us on TwitterFollow us on LinkedIn
+See all Verizon social channels
+
+Follow Verizon News
+
+Follow us on TwitterFollow us on LinkedIn
+
+Follow Verizon Giving
+
+Follow us on TwitterFollow us on FacebookFollow us on Google PlusFollow us on
+YouTube
+
+Follow Verizon Wireless
+
+Follow us on TwitterFollow us on FacebookFollow us on LinkedInFollow us on
+Google PlusFollow us on YouTube
+
+Follow Verizon FIOS
+
+Follow us on TwitterFollow us on FacebookFollow us on Google PlusFollow us on
+YouTube
+
+Follow Verizon Enterprise
+
+Follow us on TwitterFollow us on FacebookFollow us on LinkedInFollow us on
+YouTube
+
+  • Our Company
+  • Responsibility
+  • News
+  • Media Center
+  • Investors
+  • Careers
+
+Shop:
+
+  • Wireless
+  • Residential
+  • Business
+
+Verizon is a global leader delivering innovative communications and technology
+solutions that improve the way our customers live, work and play.
+
+©2017 Verizon
+BBB Accredited Business
+
+  • Privacy Policy
+  • Terms & Conditions
+  • Accessibility
+  • Important Wireless Issues
+  • Contact Us
+  • Sitemap
+
+stats

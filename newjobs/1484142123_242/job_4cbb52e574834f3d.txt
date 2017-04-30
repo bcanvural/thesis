@@ -1,0 +1,173 @@
+Jump to navigation
+
+VentureFizz Logo
+
+  * Login / Register
+
+[                              ]
+[Search]
+  * BizzPages
+  * Job Board
+  * Stories
+  * Deals
+  * Calendar
+
+[utilidata_cover_photo_6]
+
+Job Post
+
+Tuesday, January 10th, 2017
+Data Scientist
+Utilidata
+245 Chapman St., Ste 200
+Providence, RI 02905
+Javascript is required to view this map.
+
+DATA Scientist
+
+About Utilidata:
+
+Utilidata is a global software company that utilizes patented technologies to
+leverage real-time information about the electric distribution grid.  We make
+the grid smarter by reducing waste, increasing reliability, and saving
+money-working with utilities to scale solar, wind, and other power resources to
+get out ahead of today?s transforming energy market.  We do this by connecting,
+automating, and managing control throughout the utility?s distribution system. 
+Given how we interact with the grid, Utilidata is in a unique position to
+address today?s quickly evolving cyber security challenges.
+
+Position Role:
+
+The successful candidate will be proficient in the modeling, estimation and
+identification of stochastic systems, and will be skilled in the art of
+stochastic time series analysis.  The practice of methods drawn from these
+disciplines would preferably have been focused on physical processes, likely in
+the context of design of control systems which operate in an uncertain
+measurement environment.  Qualified candidates may be found in any organization
+that designs control systems of complex processes.  Alternatively, candidates
+experienced in the analysis and predication of financial time series likely
+possess many of the requisite skills.  Some categorical examples of the subject
+methods are recited below.
+
+The ideal candidate is a smart mathematically inclined engineer or scientist
+who will interface with the Chief Scientist, Product Development, Product
+Management, Sales and key constituents within the organization as well as with
+customer organizations to help develop new algorithms and solutions which can
+be deployed within Utilidata systems deployed at the customer distribution
+grid.
+
+Position Requirements:
+
+  * 7+ years of experience
+  * Advanced expertise in Matlab
+  * Modern Control Theory ? Knowledge of state space representation and its
+    application in modelling system behavior and feedback
+  * State Space Representation ? Proficient applying a time-domain approach to
+    modelling and analyzing systems with a multitude of inputs and outputs
+  * System Identification ? Experience with System Identification as a
+    discipline in the broader field of control theory, primarily concerned with
+    the formulation and estimation of mathematical representations of processes
+    based on behavioral records, in turn almost always uniformly sampled time
+    series
+  * (Stochastic) Subspace Identification ? Proficient analyzing data signatures
+    and extracting dynamic properties of the system from the collected
+    monitoring data
+  * Blind Identification ? Experience with signal processing in order to
+    understand behavior of multi-dimensional systems from outputs
+  * Source Separation ? Experience with digital signal processing, recovering,
+    original component signals from a combined signal
+
+Additional Skills:
+
+  * Deep knowledge of applied mathematics and statistical analysis, especially
+    as it relates to the electric power grid
+  *  Must possess experience in data management, and the analysis of complex
+    datasets
+  * Ability to develop models and algorithms, and generate results in a timely
+    manner
+  * Ability to quickly get up to speed with a range of projects to meet the
+    needs of the business
+  * Ability to summarize and synthesize inferences
+  * Ability to work with teams comprising of engineers, software developers,
+    technical sales and marketing to drive the measurement process and satisfy
+    customer requirements
+  * Data analysis skills using various packages such as SAS, R, and Excel.
+  * Excellent presentation, written and verbal communication skills.
+
+Education:
+
+Minimum of a BSEE with related experience.  Master?s Degree in Applied
+Mathematics, Electrical Engineering or similar field with relevant coursework
+in applied statistics or information theory preferred.
+
+ 
+
+NOTE: This job description is not intended to be all-inclusive.  Employee may
+perform other related duties to meet the ongoing needs of the organization.
+
+ 
+Category: Other
+
+See What It's Like To Work Here
+
+[util]
+
+At Utilidata, we develop innovative solutions that help utilities address a
+range of challenges. Our experience and thought leadership in this space is
+unmatched. We are making the grid smarter to reduce waste, increase
+reliability, and save money?working with utilities to scale solar, wind and
+other power resources to get out ahead of today?s transforming energy market.
+
+ 
+
+Visit Our BIZZpage
+
+More Jobs From This Company
+
+Java Developer
+January 10, 2017
+Software Quality Assurance Engineer
+January 2, 2017
+VP Cyber Product Management
+January 10, 2017
+Software Development Engineer
+January 10, 2017
+Data Analyst
+January 3, 2017
+
+[postajob]
+
+60 day posting for only $99
+
+Similar Jobs
+
+Customer Support Engineer
+January 10, 2017
+Project Implementation Manager
+January 10, 2017
+Sales Operations Analyst
+January 10, 2017
+Threat Research Engineer
+January 10, 2017
+Principal Big Data Architect
+January 10, 2017
+
+[bizzpagesp]
+
+VentureFizz Newsletters
+
+Stay plugged in! Signup for our daily & weekly emails!
+Email Address * [                         ]
+Newsletters
+[ ] VentureFizz Weekly Tech Buzz
+[ ] Job Alerts
+[ ] VentureFizz Daily
+[Subscribe]
+Copyright ? 2015 VentureFizz. All rights reserved.
+
+  * About
+  * Member Login
+  * Contact
+  * Terms of Service
+  * Privacy Policy
+

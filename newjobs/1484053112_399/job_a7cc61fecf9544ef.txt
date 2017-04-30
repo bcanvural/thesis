@@ -1,0 +1,96 @@
+Infoblox Careers
+
+Data Scientist
+
+Engineering Tacoma, Washington
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply
+
+Description
+
+As a subject matter expert in the analytics domain, you will be designing and
+building complex models that learn from Infoblox networks and DNS data to
+provide security solutions. We are seeking professionals who are well versed in
+scalable data mining, machine learning techniques, and love to build analytics
+models. The successful candidate will be working in a fast-paced,
+geographically diverse, multidisciplinary environment and a competitive
+landscape where new data flows in rapidly and the world is constantly changing.
+
+This is a key position in the CTO organization with very high visibility to
+upper management.  You will have the opportunity to work with experts of next
+generation technology and help drive the project and product portfolio to
+achieve the departmental and corporate goals.  This position is located in
+Tacoma, WA.
+
+Responsibilities:
+
+  • Apply data-mining and machine learning techniques for a variety of modeling
+    and relevance problems involving DNS and networking data
+  • Build complex statistical models that learn from and scale to petabytes of
+    data
+  • Work with architects and product managers to identify analytics initiatives
+    and develop efficient and reliable algorithms
+  • Work collaboratively across multi-disciplinary teams throughout the company
+    as a subject matter expert in analytics with a focus on security solutions
+    and implementation
+
+Requirements:
+
+  • Experience in software development working with big data and analytics
+    products
+  • Expertise in data mining, machine learning, statistical models, data
+    clustering and classification techniques
+  • Experience in architecting/designing large and complex data analytics
+    including data modeling and feature extraction
+  • This is a hands-on position, must be able to write code individually or
+    part of a team
+  • Full software development life-cycle experience, with proven track record
+    of shipping product
+
+Preferred Experience:
+
+  • Expertise in streaming analytics frameworks such as Apache Spark,
+    STORM, MOA and WekA
+  • Knowledge of Hadoop architecture, HDFS, Map-Reduce Algorithms and Elastic
+    Search
+  • Understanding of distributed system and clustering architectures – massive
+    grid scale performance with reliability
+  • Network security background, familiarity with botnets, DDoS,
+  • Experience with SQL and NoSQL(e.g. Cassandra) and data visualization
+    techniques
+
+Education
+
+  • B.S. in CS, CE or EE is required
+  • Masters or PhD in CS, CE or EE is preferred
+
+It’s an exciting time to be at Infoblox. We are the market leader in technology
+for network control. Our success depends on bright, energetic, talented people
+who share a passion for excellence in building the next generation of
+networking technologies—and having fun along the way. Infoblox offers a
+fast-paced, action-oriented environment. We promote a culture that embraces
+innovation, change, teamwork, and strong partnerships. Join the winning
+Infoblox team—our future looks bright, and so will yours.  To check out what
+it’s like to be a Bloxer click here.
+
+ 
+
+#LI-DN1
+
+Apply
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Powered by Jobvite
+

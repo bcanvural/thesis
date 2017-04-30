@@ -1,0 +1,143 @@
+Fractal Industries Careers
+
+Data Analytics Engineer - Cyber
+
+Engineering Reston, Virginia
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+Data Analytics Engineer - Cyber
+
+Location:         Reston, VA
+Reports to:      Director Cyber Technology
+Start Date:      Immediately
+  
+
+About Fractal 
+
+Fractal is tackling the most challenging problem in information technology ?
+reliably helping companies make the best possible decisions with the most
+relevant data and best available algorithms.  By combining the most important
+aspects of data analytics, modeling simulation, and artificial intelligence/
+deep learning into Fractal OS, we have built the next generation operating
+system for the enterprise.
+
+Our proprietary technology allows enterprises to monitor complex real-world
+systems, model potential outcomes, efficiently allocate resources and manage
+risk in real-time. We are currently focused on the finance sector with specific
+applications for cyber-physical security, insurance and high-frequency trading,
+leveraging our SaaS platform to translate complex systems planning and
+operations into actionable metrics.
+
+We pride ourselves on integrity, humility, resourcefulness, collaboration and
+our ability to tackle the world?s most demanding problems and are looking for
+exceptional talent to help us grow.
+
+If this type of environment sounds exciting, we would encourage you to look in
+detail at the job summary.  Fractal has not released any public information
+about our technology platform or business. So, if there is a strong fit, please
+reach out to us directly at https://app.jobvite.com/j?aj=o7tR3fwe&s=DAE-Cyber.
+
+Job Summary 
+
+Our Data Analytics Engineer will engineer elegant and performant analytic code,
+predominantly in Scala (and Spark), C++, and Python.  You will join a growing
+multi-disciplinary team of Data Scientists, Engineers, and Solutions Experts
+with deep domain knowledge working to develop new capabilities and workflows to
+solve real-world client problems. 
+
+Your work will include ?notebook?-style ad hoc analytic development (similar to
+tools such as Beaker, Julia, Zeppelin) within the Fractal OS SaaS platform as
+well as true server-side analytic development.  Projects may include near
+real-time and batch-oriented data processing for analytics and simulation
+modeling.  As an internal user of the Fractal platform, your experience will
+inform the development of the Fractal product suite to improve capability,
+usability and performance. 
+
+Our ideal candidate will have a strong work ethic, fantastic attitude and be
+comfortable tackling any challenge set before him or her. We provide
+significant flexibility and autonomy to team members, have high expectations
+and expect everyone to contribute meaningfully to our broader collective
+goals. 
+
+Responsibilities 
+
+  * Developing state-of-the-art analytics ranging from ad hoc analysis to
+    production-grade pipelines and workflows for customer applications
+  * Providing mathematical algorithms and implementations to serve the needs of
+    data analysis workflows in Fractal?s modular SaaS platform
+  * Understanding customer business challenges and sourcing the most
+    appropriate data sets, algorithms, and architectures (using Fractal OS) to
+    solve them quickly and cost-effectively
+  * Refactor algorithms created by our Data Scientists into production-quality
+    and operational code
+  * Working collaboratively to ensure consistent and performant approaches for
+    analytical code
+  * Interacting directly with client project team members and operational staff
+    to support live customer deployments 
+
+Qualifications 
+
+  * Reside in the greater Washington D.C. area or be able to relocate
+  * 2+ years of data analytics experience
+  * Expert knowledge of Scala and Python
+  * Expert knowledge of SQL
+  * Experience applying advanced mathematics and machine learning to
+    information security ? where there are additional unique challenges
+    resulting from the adversarial nature of the domain
+  * Experience with network security monitoring tools and analysis approaches
+  * Interest and experience in data analytic technologies which may include
+    tools such as Apache Spark, Apache Pig, AWS Pipelines, Google Dataflow and
+    MapReduce
+  * Experience with agile development within commercial projects or elite
+    non-commercial research
+  * Adept at learning and applying new technologies and solving new problems
+  * Experience blending analytic and simulation modeling approaches to problem
+    solving
+  * Effective organizational skills with strong attention to detail
+  * Strong communication skills - both written and verbal 
+
+Desirable 
+
+  * Experience with other functional programming languages including Erlang
+  * Advanced mathematical modeling skills
+  * Experience with Kerberos and Active Directory
+  * Experience with OSQuery, server and application monitoring agents, and
+    advanced endpoint tools
+  * Working knowledge of Docker, Mesos, Mesosphere, Saltstack, Ansible, Puppet,
+    and Chef
+  * Experience with infosec topics including fuzzing, malware analysis,
+    incident response, etc?
+
+Compensation & Benefits 
+
+  * Competitive salary
+  * Incentive stock options
+  * Full range of benefits starting day one, including 401(k) and medical,
+    dental and vision coverage
+  * Flexible "Personal Time Off (PTO)? plan and 10+ paid holiday days per year
+
+Contact Us 
+
+  * Apply for this role at https://app.jobvite.com/j?aj=o7tR3fwe&s=DAE-Cyber.
+  * Please include a cover letter and your current resume with all inquiries
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

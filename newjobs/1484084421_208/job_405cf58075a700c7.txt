@@ -1,0 +1,95 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Data Scientist 3
+
+Data Scientist 3
+
+Job ID 
+    16-7196
+
+Job Location 
+    US-CA-San Diego
+
+Type 
+    Regular Hire
+
+More information about this job
+
+Company Overview
+
+Mitchell International, Inc. is a leading provider of information and workflow
+solutions to the Property & Casualty Claims and Automotive Collision Repair
+industries. Founded in 1946, Mitchell has delivered advanced information and
+technology solutions to over 100,000 customers throughout North America,
+helping them to improve their business process performance. The company's
+comprehensive solution portfolio streamlines the entire auto physical damage,
+bodily injury and workers' compensation claims processes. Mitchell was recently
+named by the San Diego Business Journal as the No. 1 Software Company in San
+Diego, based on the number of full-time employees, which is approaching the
+2,000 milestone. The company offers a competitive compensation and benefits
+package including outstanding career growth opportunities and has been
+recognized as one of the Fastest Growing Companies in San Diego.
+
+Job Description
+
+We are looking for a Data Scientist that will help us discover the information
+hidden in vast amounts of data (Text and/or Image), and help us make smarter
+decisions to deliver even better products. Your primary focus will be in
+applying machine learning technologies, doing statistical analysis, and
+building high quality prediction systems integrated with our products.
+
+ 
+
+  • Selecting features, building and optimizing classifiers using machine
+    learning techniques
+  • Data mining using state-of-the-art methods
+  • Extending company’s data with third party sources of information when
+    needed
+  • Enhancing data collection procedures to include information that is
+    relevant for building analytic systems
+  • Processing, cleansing, and verifying the integrity of data used for
+    analysis
+  • Doing ad-hoc analysis and presenting results in a clear manner
+  • Creating automated anomaly detection systems and constant tracking of its
+    performance
+
+Qualifications
+
+  • 3+ years commercial machine learning experience.
+  • Solid foundation in machine learning, data structures, algorithms, and
+    software design.
+  • A strong understanding of machine learning theory.
+  • Excellent understanding of machine learning techniques and algorithms, such
+    as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+  • Experience with common data science toolkits, such as scikit-learn, Google
+    tensorflow, R, Weka, NumPy, MatLab, Excellence in at least two of these is
+    highly desirable
+  • Great communication skills
+  • Proficiency in using query languages such as SQL, PL/SQL, Hive, Pig or
+    PostgreSQL.
+  • Experience with NoSQL databases, such as MongoDB, Cassandra, HBase is a
+    plus
+  • Good applied statistics skills, such as distributions, statistical testing,
+    regression, etc.
+  • Good scripting and programming skills. Expert at Python and/or Java.
+  • Data-oriented personality
+  • Experience with data visualization tools, such as D3.js, GGplot is a plus.
+
+Options
+
+ 
+Apply for this job onlineApply
+Share
+ 
+Email this job to a friendRefer
+Share on your newsfeed
+●Go back to the welcome page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

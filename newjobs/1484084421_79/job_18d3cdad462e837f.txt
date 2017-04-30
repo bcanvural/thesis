@@ -1,0 +1,80 @@
+[84963f7c-5]
+
+Data Scientist
+
+Redwood City, CA
+Data Science
+Full-time
+Apply for this job
+
+Reputation.com is the leader in Online Reputation Management, and our mission
+is to sort through the vast amounts of information about our customers
+represented in surveys, reviews, and other sources and derive actionable
+insights and tangible business results for our customers.
+ 
+As a Data Scientist you will be at the center of this mission. We want you to
+develop the best algorithms to extract insights from that corpus of customer
+feedback, build the best models to measure the value of those insights, and
+lead the way in creating data products out of these model
+
+Responsibilities
+
+      □ You will be expected to own one or more of our core models and take it
+        end-to-end from understanding business needs, to problem formulation,
+        to modeling, prototyping, and into production.
+      □ You should be comfortable taking feedback from everyone – Product
+        Mangers, Engineers, customers, the CEO, etc. – to help understand
+        business objectives and constraints and deliver the most powerful
+        models and data products, as well as build and maintain a roadmap
+        beyond v1.
+
+Requirements
+
+      □ Demonstrated ability to solve problems using data
+      □ Advanced degree in Data Science, Analytics, Operations Research,
+        Statistics or a related field with 3+ years of industry experience
+      □ A strong background in machine learning, stochastic modeling, and
+        predictive analytics, and experience building data products with these
+        techniques. Experience with NLP/text analytics are a plus
+      □ Strong communication skills. You are able to explain models intuitively
+        to engineers, PMs, executives, and clients.
+      □ Proficiency in Python, R, or similar and with related machine learning
+        packages
+      □ Proficient with SQL.
+      □ Data visualization experience a plus.
+      □ Strong programming skills and/or experience or a strong interest in
+        cluster computing framework such as Apache Spark are a plus
+
+We are an equal opportunity employer and value diversity at our company. We do
+not discriminate on the basis of race, religion, color, national origin,
+gender, sexual orientation, age, marital status, veteran status, or disability
+status.
+
+About Reputation.com
+
+Ninety percent of buyers say online reviews influence their purchasing
+decisions.  A difference of one “star” in a rating leads to a 9 percent
+difference in revenue. Yet companies struggle to ensure that their reviews and
+ratings reflect actual customer satisfaction.
+
+CMOs find themselves at the mercy of algorithms they don’t control on Google,
+Facebook and thousands of specialty sites – where no amount of marketing spend
+can offset the negative impact of a weak online reputation.
+
+We deliver the category-leading Online Reputation Management (ORM) platform for
+large, multi-location enterprises. Our intelligent platform helps them:
+
+* Monitor review sites and social media
+* Generate more representative star ratings and reviews
+* Make operational changes to improve customer experience
+* Maximize customer retention and revenue
+
+Reputation.com is a World Economic Forum Global Growth Company and is funded by
+the same top-tier venture capital firms that backed Google, Skype, Intuit and
+Microsoft.
+
+Apply for this job
+
+Reputation.com Home Page
+
+Jobs powered by [lever-logo]

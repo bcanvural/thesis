@@ -1,0 +1,65 @@
+[graphiqlog]
+
+Data Scientist (Data team)
+
+Santa Barbara
+Engineering
+Full-time
+Apply for this job
+
+At Graphiq, we?re building the deepest and broadest knowledge graph on the
+planet. We have billions of entities, hundreds of billions of attributes, an
+amazing presentation layer, and a growing distribution network of premium
+publishers. Everyone needs knowledge, and we?re here to satisfy that need.
+
+As a Data Scientist on Graphiq?s data team, you will eat, breathe, and sleep
+data. You will be responsible for building full-fledged data products that help
+our product managers provide users with deeper insights and tell a more
+compelling story with our data. You will research, design, and implement robust
+methods for statistical analysis that can be used to help understand our
+billions of data points. You will build production-grade, scalable solutions
+for analyzing our large and very connected knowledge graph.
+
+You will have a significant impact on the organization by helping us build
+amazing products that deliver our knowledge and insights to hundreds of
+millions of users.
+
+What You'll Do:
+
+      + Implement robust methods for statistical analysis such as timeseries
+        decomposition, changepoint and correlation analysis, and bayesian
+        network structure learning
+      + Research, prototype and deploy scalable methods for data analysis in
+        production (i.e. write production code)
+      + Work with the product team to identify and implement domain specific
+        statistical analyses
+      + Use statistics to help compose a compelling story with our data
+
+What We're Looking For:
+
+      + High GPA in computer science (or related fields) with significant
+        coursework in statistics or machine learning
+      + Knowledge in at least one of the following: timeseries analysis,
+        bayesian networks, clustering, or dimensionality reduction techniques
+      + Experience writing high quality code in Python or Java and the relevant
+        modules/libraries (numpy, scipy, scikit-learn, pandas, weka, Mahout,
+        etc.)
+      + Experience with relational databases (MySQL or Postgres)
+      + Data-driven mindset, strong problem solving skills, and a bias to
+        action
+      + A passion for using data to make sense of the world
+
+Start Date: As soon as possible
+
+Experience Level: our openings span from new grad to experienced professionals
+with 5+ years experience. Title and compensation package will be commensurate
+with experience.
+
+Graphiq is an equal opportunity employer, and we value diversity at our
+company.
+
+Apply for this job
+
+Graphiq Home Page
+
+Jobs powered by [lever-logo]

@@ -1,0 +1,164 @@
+Atos
+
+[trusted-partner-for-your-digital-journey]
+
+[Language  ] [go]
+Vacancy Search
+
+  * Atos
+  * Search & Apply
+  * Atos Job Alerts
+  * My Profile
+  * Open Application
+
+Job Details
+
+  * Apply for this job
+
+Job Details
+
+Sr Data Scientist
+
+Reference no.
+    225497
+Country
+    USA
+Region
+    US - TEXAS
+City
+    US - TEXAS - DALLAS
+Position Type
+    Professional
+Job Area
+    IT Support
+Job Type
+    Full Time
+Company
+    Atos
+
+Company Information
+
+Atos is a leader in digital services with annual revenue of ? 12 billion and
+100,000 employees in 72 countries. Serving a global client base, Atos offers
+Consulting & Systems Integration, Managed Services & BPO, Cloud, Big Data &
+Cyber-security solutions. With deep technology expertise and industry
+knowledge, Atos works with clients across many business sectors: Defense,
+Financial Services, Health, Manufacturing, Media, Utilities, Public Sector,
+Retail, Telecommunications, and Transportation.
+
+Atos is focused on business technology that powers progress and helps
+organizations to create their firm of the future. In addition, Atos is the
+Worldwide Information Technology Partner for the Olympic & Paralympic Games and
+operates under the brands Atos, Bull, Canopy, Unify and Worldline.
+
+Atos offers a broad professional perspective and the opportunity to build a
+rewarding career across either the technical or business paths. With our
+worldwide presence and our broad range of professional services, Atos provides
+training programs across all our competencies and markets worldwide for
+employees in all stages of their career. In addition, we offer programs that
+are focused on engaging and developing people who are at the beginning of their
+career through internships and graduate opportunities. 
+ 
+For more information, please see the Atos corporate web site:  www.atos.net.
+ 
+Atos is an EEO employer, providing employment opportunity regardless of race,
+color, religion, sex, age, national origin veteran status, disability or other
+factors protected by law.
+
+Job Description
+
+The Sr. Data Science Consultant is responsible for helping Atos clients
+understand and extract value from their data. Working both independently and as
+part of a team, the Sr Data Science Consultant will be involved in all phases
+of (Big Data) analytics projects including: question formulation, design,
+research and development, implementation, and testing. The ideal candidate is
+able to explore and understand data and build advanced analytical models
+independently, then present and discuss the resulting models to any level of
+audience.
+The data scientist role is a self-directive role, requiring very high level of
+initiative and investigative/detective capabilities in achieving goals/
+objectives for business clients.
+The Data Scientist uses scientific /analytical approaches to explore and
+visualize available data, identifies gaps and needs for additional data, builds
+/validates required analytic models (such as classification, clustering or
+association, to name a few) for potential deployment/ implementation by
+business clients in operations.
+This role will require working on multiple projects simultaneously in
+collaboration with various cross-functional teams. The Data Scientist will be
+responsible for periodically providing data-driven insights and conclusions
+through presentations and prototype demonstrations.
+Responsibilities:
+- Work with clients to gather and refine specific business problems and
+scenarios and document analytical solution requirements
+- Create and maintain documentation of technical requirements including use
+cases
+- Define the data requirements for specific business problems and Identify
+sources of data in consultation with business clients (e.g., in-house data
+store/warehouse, external data mart, etc.)
+- Identify and resolve data/information gaps for meeting business objectives/
+goals including data quality issues and sources (data feeds, the master data,
+etc.), and identify training and validation datasets as appropriate
+- Build multiple analytical models to solve specific business problems using
+commercial or open source toolsets
+- Work with stakeholders to establish minimum levels of performance criteria
+for model selection
+- Work with Business clients to Validate/Test subset of model(s) and obtain
+approval for models that achieve specified business goals
+- Report Analytical results in a variety of creative visual formats that
+appropriately provides insights to business clients
+- Define technical requests for Technical Specialists to perform, such as
+detailed data linking or parallel processing requests.
+ 
+*LI-POST
+
+Job Requirements
+
+Bachelor?s or Master?s degree in Industrial Engineering, Applied Mathematics,
+Statistics, Computer Science or related fields (equivalent work experience
+considered).
+- 5 years + hands-on experience in one or more Statistical Methods, such as
+machine learning, information retrieval, data mining, Text Mining, Natural
+Language Processing, Web Analytics or similar.
+- Experience with Java
+- Experience with SQL and relational database programming and/or distributed
+computing platforms and query interfaces such as MapReduce, Pig, Hive.
+- Excellent verbal and written communication skills; ability to express complex
+ideas to any level of audience.
+- Strong team player capable of working in a demanding environment.
+- Eager to learn and apply new technologies.
+- Experience working with very large data sets, grouping together data and
+visualizing results
+- Familiarity with extracting data from Hadoop using frameworks like Hive and
+from MPP platforms, experience with some Java / python / simple map-reduce jobs
+development
+- Experience with commercial modelling and simulation tools such as SAS
+Enterprise Miner, SAS Visual Analytics, IBM SPSS Modeller, and open source
+tools such as R, Weka.
+- Analytical Reasoning Skills: Adept at mathematical reasoning, Applies
+scientific experimentation to business problems
+- Possess skills such as Analytical Model Design & Implementation,
+Visualization/Report Design & Implementation
+- Business skills: Some level of industry sector understanding, product
+understanding and process understanding
+- Strategic Thinking and Creativity Skills: See the Big Picture, have high
+level of curiosity and willingness to experiment
+- Communication Skills: Excellent Written and Verbal Skills, Ability to
+communicate effectively with senior level executives clients
+Desired:
+- Ability to write production level code.
+- Exposure to Big Data technologies (Hadoop, HDFS, Pig, Hive, etc.).
+- Familiarity with NoSQL databases (e.g., HBase, Cassandra, Mongo DB).
+- Experience with Tableau or other data visualization tools.
+- Experience working with customers (consulting experience a plus).
+- Diverse data set experience.
+- Experience with PMML.
+- Experience with Python or Scala
+
+  * Apply for this job
+
+  * Back to search results
+
+? Atos SE 2013 all rights reserved.
+
+Privacy Terms Of Use Sitemap
+

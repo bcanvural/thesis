@@ -1,0 +1,197 @@
+
+The Boston Consulting Group [claim]
+
+
+
+ 
+                                                                      ?     [p]
+[pixel]       Completed [progressLi]  [progressLi]  Completed [progressLi]  [progressLi]  Completed [progressLi]  [progressLi]  Current [pixel]
+                page                                  page                                  page                                 page
+                Home                                 Search                                Search                                 Job                                                                                                          
+                                                    openings                               results                              details
+                                                                                                                                                                                                                                                                                                                                      
+   ● Job details
+                  
+   [pixel]                                    [pixel]
+   [pixel]
+
+  [pixel]
+                                  Job 1 of 1
+  [pixel]
+                                                                               
+               Apply   Recommend to a friend   Save to cart   
+
+   [pixel]
+
+   Job Title          Data Scientist
+
+   Function           Analytics
+
+   Country            United States
+
+   City/Town          Los Angeles
+
+   Employee Type      Regular
+
+   Job Type           Full time
+
+   Company            The Boston Consulting Group (BCG) is a global
+   Information        management consulting firm and the world’s leading
+                      advisor on business strategy. We partner with clients
+                      from the private, public, and not-for-profit sectors
+                      in all regions to identify their highest value
+                      opportunities, address their most critical
+                      challenges, and transform their enterprises. BCG was
+                      founded in 1963 and is a privately owned firm with
+                      more than 7,000 employees across 85 offices in 48
+                      countries. Integrity, respect for the individual,
+                      delivering value, and making an impact on society are
+                      just some of BCG's core values. BCG's commitment to
+                      both our clients' success and our own standards is
+                      what sets BCG apart as a world-class professional
+                      services organization. Join BCG - start your career
+                      at a company that is consistently ranked as the
+                      leader in its field, and is acknowledged as one of
+                      the best places to work.
+
+   Position Summary   BCG Gamma is seeking highly skilled, creative, and
+                      driven Data Scientist to design and build
+                      breakthrough approaches and solutions for our
+                      clients.
+                       
+                      Our ideal Data Scientist is an accomplished expert
+                      with deep technical credibility and implementation
+                      skills – he/she designs, prototypes, develops, and
+                      fields predictive models and analytical approaches
+                      that power a critical business function. The
+                      successful candidate will also have demonstrated
+                      ability to manage projects, provide thought
+                      leadership and act as an autonomous member of a BCG
+                      case team. Strong communication and presence,
+                      collaboration, leadership skills, and ability to
+                      operate effectively in a matrix organization are key
+                      success factors.
+                       
+                      The Data Scientist will also proactively work with
+                      Gamma senior leadership to explore new analytics
+                      opportunities and grow Gamma's portfolio of
+                      proprietary content. He/she will support the creation
+                      of proposal / selling documents and provide
+                      perspective on relevant analytics value propositions.
+                       
+                      The work environment is fast-paced, intellectually
+                      intense, and service-oriented. We are looking for
+                      professionals in Los Angeles or San Francisco. 
+                       
+
+   Job                We are seeking a strong candidate with advanced
+   Responsibilities   analytics experience to fill an exciting Data
+                      Scientist (DS) position within BCG Gamma. The DS is a
+                      valuable expert in Data Science and Analytics and
+                      will design and build analytics methodologies,
+                      solutions, and products to deliver value to BCG's
+                      clients in collaboration with case teams. Exceptional
+                      candidates will also show an analytical curiosity,
+                      going beyond the immediate requirements of the
+                      project to find deep insights that others have
+                      missed. They will ask questions about outliers, seek
+                      to understand the fundamental drivers of advantage
+                      and look for clues that may change the basis of
+                      competition.
+                       
+                      As a Data Scientist you design and build analytics
+                      solutions for our clients where data and analytics
+                      are at the heart of the question. The team
+                      interaction centers on use of statistical programs
+                      and others tools to conduct intensive analysis of
+                      objective data and open discussion, complemented by
+                      objective research into the competitive environment.
+                      Responsibilities / duties to include: understand
+                      problems from the client’s point of view, build and
+                      execute solid analytics work plans, gather and
+                      organize large and complex data assets, perform
+                      relevant analyses (data exploration and statistical
+                      modeling), manage priorities and deadlines, foster
+                      teamwork in interactions, develop client
+                      relationships with client counterparts, and
+                      communicate hypotheses and findings in a structured
+                      way.
+                       
+                      As the field of advanced analytics is rapidly
+                      evolving, the DS is responsible for staying current
+                      on leading-edge business applications, tools and
+                      approaches, proactively working with the Analytics
+                      Leadership to enhance offerings that deliver
+                      competitive advantage to BCG.
+                       
+
+   Basic Job          Strong primary expertise as data engineer or data
+   Requirements       scientist, with the ability to stretch beyond one’s
+                      core field of expertise. Successful candidates share
+                      the following requirements:
+
+                        • PhD or MA/MS + 2-5 years relevant experience as a
+                          strong contributor on a data science team
+                        • Relevant degree in Statistics, Math / Applied
+                          Math, Geo and special analysis, Operations
+                          Research, Computer Science, Economics or
+                          Quantitative Finance
+                        • Domain expertise in at least one analytics
+                          function: attribution, segmentation, response
+                          modeling, churn, propensity, customer LTV, supply
+                          chain / logistics, geospatial inference,
+                          recommender systems, causal inference,
+                          forecasting, pricing, NLP or image processing
+                        • Proficiency in a core programming language, such
+                          as: Python, C/C++, Scala, Java, Ruby
+                        • Proficiency in R, particularly to prototype
+                          mathematical models
+                        • Proficiency with SQL and/or NoSQL
+                        • Proficiency with Tableau, R-Shiny /or other data
+                          visualization tools
+                        • Ability to scope and define data sets needed for
+                          specific use cases and identifying data gaps
+                        • Ability to translate scientific insights into
+                          product decisions and work streams
+                        • Flexibility to handle directional changes and
+                          moving priorities to ensure project success
+                        • Strong oral and written communication skills
+                        • Strong client management skills – ability to lead
+                          and persuade, positive energy, relentless focus
+                          on business impact
+                        • Travel expected 40-70% of time
+                      
+   Additional         To learn more about BCG Gamma please visit: 
+   Information        http://www.bcg.com/about/bcg-today/gamma.aspx 
+                       
+
+   Non-discrimination The Boston Consulting Group is an Equal Opportunity
+   Statement          Employer. All qualified applicants will receive
+                      consideration for employment without regard to race,
+                      color, age, religion, sex, sexual orientation, gender
+                      identity / expression, national origin, disability,
+                      protected veteran status, or any other characteristic
+                      protected under federal, state or local law, where
+                      applicable. BCG is an E-Verify Employer. Click here 
+                      for more information on E-Verify. VEVRAA Federal
+                      Contractor
+
+   Job ID             3079BR
+                                                                               
+               Apply   Recommend to a friend   Save to cart   
+                                                                               
+
+
+
+© 2015 The Boston Consulting Group
+Privacy
+Terms of Use
+
+The Boston Consulting Group is an Equal Opportunity Employer. All qualified
+applicants will receive consideration for employment without regard to race,
+color, age, religion, sex, sexual orientation, gender identity/expression,
+national origin, disability, protected veteran status, or any other
+characteristic protected under federal, state or local law, where applicable.
+In addition to our privacy policy, the following information protection policy
+also applies to your application with The Boston Consulting Group.
+

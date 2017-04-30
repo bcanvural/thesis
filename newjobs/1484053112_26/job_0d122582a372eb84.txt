@@ -1,0 +1,87 @@
+
+Data Scientist - Machine Learning Platform
+
+Data Scientist - Machine Learning Platform
+
+Los Angeles, USA
+
+Apply
+Print 
+
+Riot Games was established in 2006 by entrepreneurial gamers who believe that
+player-focused game development can result in great games. In 2009, Riot
+released its debut title League of Legends to critical and player acclaim. As
+the most played PC game in the world, over 100 million play every month.
+Players form the foundation of our community and it’s for them that we continue
+to evolve and improve the League of Legends experience. 
+
+We’re looking for humble but ambitious, razor-sharp professionals who can teach
+us a thing or two. We promise to return the favor. Like us, you take play
+seriously; you’re passionate about games. We embrace those who see things
+differently, aren’t afraid to experiment, and who have a healthy disregard for
+constraints.
+
+That's where you come in.
+
+As Data Scientist – Machine Learning Platform, you'll develop advanced machine
+learning algorithms and statistical models to solve critical problems and help
+deliver awesome player experience. You'll partner with product teams to
+implement data science models into live production systems. You'll work closely
+with software engineers and combine your top-notch modeling and coding skills
+to create tools and infrastructure to empower and level-up data science at
+Riot.
+
+You are:
+
+  • Educated: you've earned a BS or equivalent in Statistics, Computer Science,
+    Math, Physics, or an applied quantitative field and likely added an MS or
+    PhD in the same field to keep your BS company; you're more ninja than
+    rockstar, preferring precision strikes to chest-thumping grandstanding; you
+    have broad knowledge of machine learning, statistics, algorithm design, or
+    software engineering
+  • Experienced: you've earned badges in statistical modeling, machine
+    learning, distributed system, and database; you understand how to
+    architect, implement, deploy, and maintain data science intensive
+    applications in a cloud environment; you've also aced one or more of: deep
+    learning, natural language processing, server architecture, software
+    engineering, full stack web development, visualization  – maybe earning a
+    byline or two
+  • Big data passionate: you have a firm grasp of SQL and NoSQL databases,
+    cloud environment, streaming, as well as the Hadoop ecosystem (Hadoop,
+    Hive, Spark); you are very curious about the frontier of big data
+    technology and committed to exploring the newest
+  • Up to code: you write well-abstracted and reusable code in Python, R, Java,
+    or Scala; you freely navigate in Linux environment; you can stand up web
+    applications with JavaScript; documentation, version control, and code
+    review are in your blood
+  • Innovative and analytical: you're a skilled lateral thinker, pulling
+    insight from data and free-associating yourself into unique perspectives on
+    problems that stump lesser innovators
+  • A problem solver: you conduct problem reconnaissance and termination with
+    the skill and ruthlessness of Bond, but in an elegant, scalable manner; you
+    easily identify and troubleshoot problems, quickly resolving issues
+  • Player-focused: as a gamer yourself, you know the importance of listening
+    to player needs, especially the implicit needs that can only be uncovered
+    by analyzing and understanding player data 
+
+You will:
+
+  • Develop tools that will help data scientists and stakeholders more
+    efficiently plumb the dark depths of our very deep, very rich data stores
+  • Bring data science to life by working with software engineers to architect,
+    develop, and deploy production level applications powered by advanced
+    machine learning algorithms that can help us improve player experiences
+  • Bring data science to people through designing, prototyping, and
+    implementing new ways to effectively communicate data science findings so
+    that non-tech audiences can enjoy the beauty of advanced machine learning
+  • Bring fresh perspective and new dimensions of analysis to bear on the
+    challenge of identifying what we could do better; develop algorithms and
+    predictive models to solve critical Riot Games problems and validate models
+    to ensure proper behavior
+  • Work closely with fellow data scientists and engineers to identify
+    opportunities and improve our Insights data ecosystem
+
+Don’t forget to include a resume and cover letter. We receive a lot of
+applications, but we’ll notice a fun, well-written intro that shows us you take
+play seriously. 
+

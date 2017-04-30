@@ -1,0 +1,137 @@
+  * North American Careers Home
+  * Careers At Bendix
+  * Careers At KBC
+  * Careers At NYAB
+  * Current Opportunities
+  * Contact Us
+
+  * Search Current Openings
+  * Update Your Profile
+  * Create a Job Agent
+  * Update Job Agent
+  * Recruiting Agency Login
+  * Event Calendar
+
+ 
+
+Your user session will timeout in 5 minutes. Please click OK to continue with
+your application.
+
+Database Developer, Big Data
+
+Tracking Code
+    13166
+Job Description
+   
+     
+
+    This position is responsible for the design, development and testing of
+    databases for software applications focusing on machine data collected from
+    fleets of complex machines. They will work within a software development
+    team and with DBAs, Data Scientists, Software Engineers and Engineering
+    Subject Matter Experts as a database consultant in support of developing
+    new databases or enhancing existing databases.
+
+     
+
+    Essential Functions:
+
+     
+
+      + Manage SQL Server databases through multiple product lifecycle
+        environments, from development to production systems
+      + Assist in the design of data models and physical databases, data
+        dictionaries and schemas
+      + Install, configure and maintain multiple MS SQL Instances
+      + Install, upgrade and test database hardware and software
+      + Apply data modeling techniques to ensure development and implementation
+        support efforts meet integration and performance expectations
+      + Monitor the system health and performance, to ensure high levels of
+        performance, availability and security
+      + Assist with managing database size and scalability
+      + Conduct performance analysis related to database storage, CPU and
+        Memory
+      + Provide information by collecting, analyzing, and summarizing database
+        performance and trends
+      + Solve and correct issues in real time, providing problem resolution
+        end-to-end
+      + Assist developers with the creation and maintenance of robust, scalable
+        database code
+      + Enforce SQL standards and guidelines
+      + Implementation and support of SQL Server Clustering
+      + Participate in 24x7 on call support rotation
+      + Perform tuning and optimization of stored procedures, Transact SQL, and
+        SQL queries
+      + Design, implement and troubleshooting backup/recovery for SQL Server
+        databases
+      + Perform Disaster Recovery planning and execution with database
+        restoration in alternate locations
+
+     
+
+Required Skills
+   
+     
+
+      + Familiarity with the Hadoop ecosystem including HBase, Impala, and Hive
+      + Familiarity with MySQL, Microsoft SQL Server, or Oracle
+      + Familiarity with software development lifecycle including source code
+        control and agile development techniques
+      + Coding skills with Java, Scala, and Python
+      + Strong interpersonal, oral, and written communication skills required.
+      + Possesses excellent presentation skills.
+      + Customer focused and team player.
+Required Experience
+   
+     
+
+      + Experience with data warehouse development and constructing SQL and MDX
+        queries.
+      + Experience developing models with VBA, Base SAS, SAS Enterprise Miner,
+        R or similar programming language.
+      + Experience creating dashboards and visualizations with Tablueau,
+        QlikView or similar data visualization tool.
+      + Strong understanding of probability, statistics and six sigma concepts.
+      + 5 years in database design and gathering database requirements
+      + 5 years importing, merging and exporting data via ETL processes, CSV
+        files, etc.
+      + 5 years of writing complex SQL
+      + 5 years developing and testing stored procedures, table views,
+        triggers, etc.
+
+    Education:
+
+      + Bachelor?s Degree in Computer Science
+      + Master?s Degree, a plus.
+      + 5+ years? experience in big data centered role
+
+     
+
+    Position Requirements:
+
+     
+
+      + Must be capable of traveling to customers, meetings, manufacturing
+        plants and corporate headquarters up to 25% of the time.
+
+     
+
+    *LI-TA1
+
+Job Location
+    Santa Ana, California, United States
+Position Type
+    Full-Time/Regular
+
+Apply
+
+[New Resume/CV]
+
+[Existing Resume/CV]
+
+Share
+
+Return To Job Listings 
+
+
+[marken_kb_] ? 2017 Knorr-Bremse - All Rights Reserved

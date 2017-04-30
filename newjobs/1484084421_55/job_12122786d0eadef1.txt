@@ -1,0 +1,58 @@
+[civisanaly]
+
+Data Scientist - Natural Language Processing
+
+Chicago, IL
+Data Science
+Full-time
+Apply for this job
+
+The Research and Development team is responsible for developing the fundamental
+data science methods, techniques, and best practices that power the mission of
+our company.  Our diverse work includes predictive analytics, algorithm
+development, experimental design, visualization, and survey research.  As a
+data scientist on our Chicago-based Research and Development team, you will
+work closely and collaboratively with analysts and engineers to develop and
+operationalize the techniques that quantify and solve big, meaningful problems.
+Our team dives deeply into big problems and works in a variety of areas.
+
+With a specialization in natural language processing, this data scientist role
+will apply expertise in machine learning to the analysis of text datasets being
+collected at Civis Analytics. Areas of particular interest include neural
+networks for text classification, sequence tagging, and unsupervised clustering
+of text data. In this role, you will be a critical voice shaping both how
+textual data informs existing Civis Analytics products and services, and how it
+leads to the development of entirely new ways of serving our clients.
+
+We are looking for individuals from a diversity of backgrounds with
+demonstrated quantitative and problem-solving skills. We value creativity, hard
+work, and on-the-job-excellence and offer competitive compensation and benefits
+packages. In compliance with federal law, all persons hired will be required to
+verify identity and eligibility to work in the United States.
+
+Minimum Qualifications
+
+      + Bachelor?s degree in a quantitative field, such as computer science,
+        statistics, machine learning, or electrical engineering
+      + Experience with core NLP techniques and tasks
+      + Familiarity with languages for statistical & scientific computing, such
+        as Python, Lua, R, and associated libraries
+      + Strong programming skills
+      + An ability and eagerness to constantly learn and teach others
+
+Preferred Qualifications
+
+      + Master?s or PhD degree in a quantitative field such as computer
+        science, statistics, machine learning, or electrical engineering
+      + Experience using compiled programming languages (e.g., C/C++,  Go,
+        Java) for high-performance statistical computing
+      + Experience with common toolkits for deep learning, such as Theano,
+        Tensorflow, Torch, or caffe
+      + Significant work experience addressing NLP tasks such as text
+        classification, sequence labeling or structure prediction.
+
+Apply for this job
+
+Civis Analytics Home Page
+
+Jobs powered by [lever-logo]

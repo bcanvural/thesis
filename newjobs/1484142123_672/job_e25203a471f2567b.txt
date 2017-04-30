@@ -1,0 +1,83 @@
+Zynga
+
+Zynga Careers
+
+US Jobs
+
+Principal Data Scientist
+
+Data, Analytics & User Research San Francisco, California
+
+-------------------------------------------------------------------------------
+Apply
+Position at Zynga
+
+Zynga?s data science team uses our unique and expansive data to model and
+predict user behavior, making our games more personalized and more fun to play!
+We strive for a better understanding of our players which translates into
+challenges and features that delight them and increased social engagement
+within our games.
+
+Here?s where you would come in: identify and formalize problems predicting user
+behavior. Then create and implement your models to find solutions. Be
+innovative, be creative, use every bit of that key commodity ? data. Millions
+of people play Zynga games every day, so our data is tremendously rich and we
+have a lot of it!
+
+We will rely on you to communicate your findings to your peers ? both technical
+and non-technical. Your solutions will need to be demonstrably impactful and
+visual. You will work with our game teams to put your models into production.
+
+We would like you to be able to:
+
+
+  * Work with large amounts of data
+  * Identify opportunities that would help improve the experience our players
+    have with our games
+  * Apply predictive modeling techniques for a variety of user modeling tasks
+  * Work closely with game teams to design, test, verify and implement
+    statistical models
+  * Design and evaluate novel approaches to experiments for gameplay
+  * Recognize that sometimes (If not most times) the simple solution is the
+    best solution
+
+We love candidates who have:
+
+
+  * Advanced degrees in Computer Science, Math, Statistics, Economics,
+    Astrophysics or other quantitative field; Masters or PhD strongly preferred
+  * At least 10 + years of experience working with some or all of the
+    following: probability, statistics, data mining, predictive modeling,
+    experimental design, computational analytics, econometric modeling
+  * Experience with fraud detection and mitigation preferred
+  * Fluency in SQL
+  * Fluency in some or all of the following: R, Python, Spark (Or equivalent)
+  * An ability to work independently to get an idea from inception to
+    implementation, including knowledge of techniques for validation and A/B
+    testing
+  * Strong written and oral communication skills
+  * Comfort working effectively in a fast-paced environment with changing
+    priorities
+  * Comfort collaborating effectively across departments: engineers, product
+    managers, analysts, business, and marketing functions
+  * A strong business acumen and are results-oriented
+  * A scrappy, action-driven ability to work autonomously
+  * Highly developed skills in data visualization (That one gets more love!)
+  * Comfort with Hadoop
+  * Experience managing Data Scientists and Analysts
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+Powered by Jobvite
+

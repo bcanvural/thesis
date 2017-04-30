@@ -1,0 +1,129 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Fran?ais
+Espa?ol                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [tijdnwd8oyptrw5q49fk]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-07610 - Dat]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Data Scientist
+Next Job
+Next
+
+Ref No.:  16-07610
+Location: Charlotte, North Carolina
+
+**Required
+Keyword:      Data Analysis
+Job Category: Information Technology
+
+ Business Unit/Global Function Description 
+
+our financial client's Customer Information and Analytics (CIA) Program offers
+the opportunity for candidates to join a multi-year effort in its early stages
+that will have high organizational impact and offer experience with a wide
+array of current business and technology topics, tools, and deployments. These
+include Master Data Management (MDM), Big Data, Information Governance, Data
+Quality Assurance, Digital Marketing, and Predictive and Prescriptive
+Analytics. Successful team members will enjoy the transformation of building an
+information-centric organization, leveraging information as an enterprise
+asset, and advancing the state of Master Data Management. 
+
+This effort is transformational to our financial client in the following ways: 
+
+? CIA is foundational for an enriched user experience across digital
+interaction channels. 
+? New 360? view of customers will enable cross-sell and up-sell offers. 
+? Improved capabilities in data and analytics will fuel growth opportunities
+and superior financial performance. 
+? Multi-structured (big data) analytics will enable advanced predictive and
+prescriptive analytics. 
+Position Description 
+
+The Senior Data Systems Analyst/Data Scientist serves has a data expert for the
+Customer Information Analytics (CIA)Program. This role will assists with
+eliciting, analyzing, validating and managing the real data needs of project
+stakeholders, including business customers and end-users. Serves as a conduit
+between the business/customer community and the application team. Focus on data
+exploration based on business knowledge, for extracting valuable "KPIs ".
+Provides analytical support and consulting on the CIA Advanced Analytics
+Project to ensure system and business requirements are clearly documented and
+understood during the design and development of the application. Analyzes and
+interprets complex data, of any kind, to assist the stand up of an Advanced
+Analytics Platform. 
+
+Job Responsibilities 
+
+? Work in the CIA Advanced Analytics Project. 
+? Partner with Program and Project Manager to design, deploy and support a big
+data platform required to support our financial client's CIA efforts. 
+? Responsible for managing the technical aspects and making recommendations
+regarding a wide variety of software products including in the platform. 
+? Leverage internal and external technical expertise to design and implement an
+analytic platform and provide analytical resources as required. 
+? Help integrate data sources and link analysis capabilities to the platform 
+? Help set milestones and monitor project progress. 
+? Effectively communicate technical project risks and issues along with
+recommendations to senior level management. 
+? Coordinate architecture tradeoffs and successfully decision and communicate
+system tradeoffs (In partnership with Project Manager). 
+? Supervise technical aspects of the project, sustain staff and make personnel
+recommendations are requested by management. 
+? Resolve complex data related issues 
+Qualifications 
+
+? BS and 7+ years' experience or equivalent in the Data Scientist role 
+? Thorough understanding of technical and data concepts 
+? Knowledge of all phases of software development including design, coding,
+testing, debugging, implementation, and support
+? Ability to thoroughly understand the business client requirements 
+? Ability to troubleshoot when issues arise
+[applicatio]Apply by creating/using account
+
+OK

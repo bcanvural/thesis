@@ -1,0 +1,261 @@
+-------------------------------------------------------------------------------
+Data Scientist (MACSM)
+
+Minimum Education:                       HS Graduate or Equivalent
+Clearance Level:                         Top Secret - SCI
+ID:                                      2036
+Location:                                Missouri, St Louis
+-------------------------------------------------------------------------------
+Description
+
+The Celestar Corporation has an IMMEDIATE NEED to identify a DATA SCIENTIST for
+an upcoming contract re-compete. Please review the position description below.
+If interested and qualified, we welcome you to apply for this challenging
+opportunity.
+
+CLEARANCE REQUIREMENT: Active Top Secret Level Clearance with SCI Access;
+Clearance, Access and Investigation must appear in JPAS and be within scope (5
+? Years)
+
+ATTENTION INCUMBENT CANDIDATES
+Don?t Limit Yourself to One Company ? Keep Your Options Open!
+Your Expressed Interest will be kept in the Strictest of Confidence!
+
+PROPOSAL SUBMISSION DATE:   21 December 2015
+ANTICIPATED AWARD DATE:        November/December 2016
+ANTICIPATED START DATE:          December 2016/January 2017
+
+SCOPE OF WORK
+The largest agency directorate and supporter of GEOINT Full Time Equivalents
+(FTEs) is the Analysis Directorate.  This directorate assists in providing
+timely, relevant, accurate GEOINT analysis, data, and services to customers in
+support of the national security.  The Analysis Directorate does so by
+producing products and technical support that serves the constantly growing
+national and international demand for imagery and geospatial
+applications?mapping, navigation, environmental monitoring, urban planning,
+resource management, homeland defense, national security, and emergency
+preparedness.  
+
+The second largest agency directorate and user of GEOINT FTEs is the Source
+Operations and Management Directorate.  The Source Directorate provides the
+ability to register and adjudicate GEOINT users needs, develop strategies to
+acquire or produce all GEOINT sources, and manage/monitor the delivery of all
+GEOINT sources to those creating actionable intelligence.  This mission is
+accomplished through identifying existing source material in agency holdings or
+accessible from our GEOINT partners worldwide, gathering existing geospatial
+data and imagery from our US and foreign production partners, and creating
+products and data giving the select agency the ability to ?Know the Earth ...
+Show the Way?.  The Source Directorate is responsible for national satellite
+imagery, commercial and airborne imagery and GEOINT foundation data--including
+elevation, feature, and gravity data.  Source data is any resource that
+contributes to the creation of GEOINT and encompasses imagery, mapping, and any
+data describing the Earth?s natural and manmade features, as well as activities
+that can be referenced.
+
+RESPONSIBILITIES
+
+Apprentice
+
+  * Identify and evaluate standardized methods, models and algorithms to
+    address intelligence problems of limited scale and as directed.
+  * Provide informal documentation for methods and algorithms use in data
+    science solutions.
+
+Journeyman
+
+  * Conceive and prepare thorough, well-articulated tactical or strategic data
+    science products (e.g. technical articles, visualizations, graphics, and
+    intelligence reports) that summarize the methods and results of data
+    science solutions.
+  * Design a range of research projects, data collection and methodologies
+  * Identify, retrieve, manipulate, relate and/or exploit multiple structured
+    data sets from various sources.
+  * Identify problems to which data science can be applied and initiate
+    appropriate solutions.
+
+Senior
+
+  * Determine the most appropriate research projects, data collection and
+    methodologies.
+  * Identify, retrieve, manipulate, relate and/or exploit multiple structured
+    and unstructured data sets from various sources, including building or
+    generating new data sets as appropriate.
+  * Interpret and evaluate the results of data science community?s methods
+    models and/or algorithms, understanding the meaning, limitations and scope
+    of results, translating into insightful output data science and/or mission
+    and identifying other applications for use.
+  * Initiate the efficient implementation of methods, tools, algorithms,
+    including preliminary data exploration, data visualization and preparation,
+    model calibration, specification or estimation: and algorithm validation
+    and verification using a comprehensive range of technologies (e.g. software
+    packages, programming languages, computational environments).  
+  * Educate managers, senior internal officers and the Intelligence Community
+    (IC) thought mediums such as presentations, documentation and discussions.
+  * Lead work unit proactively addressing and responding to the most difficult
+    data science-related challenges in a timely manner wile effectively
+    balancing competing priorities.  
+  * Coordinate subtasks for successful project task and integration.
+
+Expert
+
+  * Identify and effectively evaluate an extensive range of methods, models and
+    algorithms and design novel solutions for complex mission-driven problems
+    of high importance without existing applied or theoretical solutions in
+    both familiar and unfamiliar domains.
+  * Determine the most appropriate research design for challenging data
+    collection and research projects.
+  * Initiate and lead the efficient implementation and/or productization of
+    methods, tools, algorithms; exploit the unique values of an extensive range
+    of technologies (e.g. software packages, programming languages,
+    computational environments).  
+  * Identify collection opportunities that enhance organizational holdings and
+    minimize gaps or lead implementation of novel strategies to enable
+    exploitation or further refinement of complex structured and unstructured
+    data sets. 
+  * Interpret and evaluate the results of data science community?s methods,
+    models and/or algorithms, understanding the meaning, limitations and scope
+    of results.  Translate into insightful output for data science and/or
+    mission and identifying other applications for multiple uses across a wide
+    variety of mission domains.
+  * Drive data science tradecraft within IC (e.g. course design,
+    executive-level briefings).  
+  * Educate leaders through presentations, documentation for discussions.
+
+REQUIREMENTS
+
+Apprentice
+
+  * High School Diploma with 1-3 Years experience
+  * General knowledge of the Intelligence Community (IC)
+  * Familiarity with Microsoft Office (Outlook, Word, Excel, Access,
+    PowerPoint)
+  * Must be able to demonstrate good oral and written communication skills. 
+  * Ability to work independently with minimal or no oversight.
+  * Active Top Secret Level Clearance with SCI Access; Clearance, Access and
+    Investigation must appear in JPAS and be within scope (5 ? Years)
+
+Journeyman
+
+  * High School Diploma with 3-10 Years experience; A Bachelor Degree in a
+    related field may count for up to four years of this experience
+  * General knowledge of the Intelligence Community (IC)
+  * Familiarity with Microsoft Office (Outlook, Word, Excell, Access,
+    PowerPoint)
+  * Must be able to demonstrate good oral and written communication skills. 
+  * Ability to work independently with minimal or no oversight.
+  * Active Top Secret Level Clearance with SCI Access; Clearance, Access and
+    Investigation must appear in JPAS and be within scope (5 ? Years)
+
+Senior
+
+  * High School Diploma with 10-20 Years experience; A Bachelor Degree in a
+    related field may count for up to four years of this experience ? A
+    Master?s Degree in a related field may count for up to two additional years
+    of this experience
+  * Proven ability to work independently with no oversight
+  * Demonstrated strong writing and briefing skills consistent with
+    national-level performance
+  * Ability to provide advice on processes, procedures, technology, and items
+    of interest.
+  * Ability to lead collaboration in the performance of services
+  * Active Top Secret Level Clearance with SCI Access; Clearance, Access and
+    Investigation must appear in JPAS and be within scope (5 ? Years)
+
+Expert
+
+  * High School Diploma with 20+ Years experience; A Bachelor Degree in a
+    related field may count for up to four years of this experience ? A
+    Master?s Degree in a related field may count for up to two additional years
+    of this experience ? A Doctorate Degree in a related field may count up to
+    three years of this experience
+  * Demonstrated strong writing and briefing skills consistent with
+    national-level performance
+  * Ability to provide senior level advice to senior leadership and at
+    directorate level.
+  * Active Top Secret Level Clearance with SCI Access; Clearance, Access and
+    Investigation must appear in JPAS and be within scope (5 ? Years)
+
+Come onboard with a company that Values its Employees!
+Celestar, a Veteran Owned Company, is Very Competitive with Salaries and
+Benefits. As an example, we offer Company Paid Benefits that include Employee
+and Family Dental Insurance, Employee Health Insurance, Life Insurance and
+Short Term Disability Insurance. We also offer a 401k retirement company match,
+paid Holidays and Personal Time Off!
+
+__ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __ __
+
+Minimum physical demands for on task positions: Employee needs to be able to
+sit at a workstation for extended periods; use hand(s) to handle or feel
+objects, tools, or controls; reach with hands and arms; talk and hear. Most
+positions require ability to work on desktop or laptop computer for extended
+periods of time reading, reviewing/analyzing information, and providing
+recommendations, summaries and/or reports in written format. Must be able to
+effectively communicate with others verbally and in writing. Employee may be
+required to occasionally lift and/or move moderate amounts of weight, typically
+less than 20 pounds. Regular and predictable attendance is essential.
+Team Members on Task (CONUS only, minimal or no job-related travel):
+? Work Environment: The noise level in the work environment is usually
+moderate.
+? Office Type Environment with Temperature Control. May be exposed to chemicals
+related to office equipment. The noise level in the work environment is usually
+moderate. General office environment.
+Team Members on task (CONUS and OCONUS assignments, some travel):
+? Specific vision abilities required by the job may include close vision,
+distance vision, color vision, peripheral vision, depth perception, and the
+ability to adjust focus.
+? Team Members deployed to a combat zone must be physically able to live in
+austere conditions during off duty time that may include extremes in
+temperature, noise, and must not have any medical conditions that require
+access to uninterrupted power sources.
+? Team Members deployed to a combat zone will be subject to hazardous
+conditions which may require them to wear a kevlar helmet, individual body
+armor and/or wear a gas mask for extended periods of time.
+
+PAY TRANSPARENCY POLICY STATEMENT
+The contractor will not discharge or in any other manner discriminate against
+employees or applicants because they have inquired about, discussed, or
+disclosed their own pay or the pay of another employee or applicant. However,
+employees who have access to the compensation information of other employees or
+applicants as a part of their essential job functions cannot disclose the pay
+of other employees or applicants to individuals who do not otherwise have
+access to compensation information, unless the disclosure is (a) in response to
+a formal complaint or charge, (b) in furtherance of an investigation,
+proceeding, hearing, or action, including an investigation conducted by the
+employer, or (c) consistent with the contractor?s legal duty to furnish
+information.
+
+Celestar is an Equal Employment Opportunity Affirmative Action Employer that is
+committed to providing equal opportunity for all applicants or employees on the
+basis of their race, color, sex, sexual orientation, gender identity, national
+origin, age, religion, veteran status, disability, or any other characteristic
+protected by law.
+
+If you should have difficulty accessing our online application, please call us
+during normal working hours for immediate assistance @ (813)-627-9069
+
+
+[Apply for this Position]                                    [Send to a Friend]
+
+<< Back to Search Results
+
+New Search
+
+-------------------------------------------------------------------------------
+
+Are you a returning applicant?
+
+
+Previous Applicants:
+                                       Email: [                    ]
+[                    ] [                    ]
+                                    Password: [                    ]
+[Add to My Jobs]
+
+If you do not remember your password click here.
+
+
+
+                                                               Powered By Taleo
+
+
+

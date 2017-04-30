@@ -2,8 +2,7 @@
 import os
 import json
 from pathlib import Path
-import sys
-import codecs
+
 def main():
     dir_path = "alljobs4rdd"
     if not os.path.exists(dir_path):

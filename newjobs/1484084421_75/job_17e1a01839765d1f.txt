@@ -1,0 +1,116 @@
+Apply Now
+
+Data Scientist
+
+at ShopKeep
+ShopKeep Headquarters
+
+About Us
+
+Born out of frustration with the traditional cash register business, Shopkeep
+was designed by a retailer with a noble aim: to rescue independent business
+owners from the nightmare of archaic point of sale systems, and to replace it
+with something beautiful, simple, and affordable. It turned out that by doing
+this, we were giving our fellow merchants a fighting chance against the big
+guys, so we kept doing it.
+
+Today, our mission is simple: empower independent business owners to dream big
+and fight smart. We’re doing this by disrupting the industry through our
+cloud-based architecture, amazing customer care, and intuitive software that
+delivers the data small business owners need to run smarter businesses.
+
+At Shopkeep, we’ve been successful because of our awesome team that believes
+small businesses make up the heart of their communities. If you want to defend
+the independent spirit of “Main Street,” you’ve come to the right place.
+
+About This Role
+
+ShopKeep's customers are business owners themselves and need actionable
+intelligence as much as us; the Data Science team builds internal and external
+data products to service our merchants and our company alike. We're still
+small, so you should be comfortable working on a variety of things. This role
+is not pure analysis; some days you’ll be in the Python weeds doing things like
+writing tests for an API client.
+
+What You Will Do
+
+  • Build machine learning models and productionize them yourself. Currently,
+    we build models to: predict customer retention, offer merchants insight
+    into how they compare with each other, improve sales and customer care
+    operational flows, and more.
+  • Work directly with Product to build data scientific solutions that empower
+    our merchants.
+  • Design and implement statistical experiments around business decisions.
+  • Build pipelines to pull in new sources of data for your models in a way
+    that is scalable and robust. Manage / debug previously written pipelines.
+  • Help tens of thousands of growing businesses get smarter.
+
+What You Need
+
+  • Experience building and productionizing predictive models with Python
+  • Appreciation for testing and TDD
+  • Comfort with a git-based workflow
+  • Fluency with Python / Pandas and a deep desire to improve
+  • Understanding of probability, simulation, and statistical inference
+  • Experience writing SQL
+
+Bonus Points If You’re Experienced With
+
+  • Time series modeling
+  • NLP and word2vec
+  • Data visualization / exploration tools (especially Looker)
+  • Columnar databases (especially Redshift)
+  • Document databases (especially Elasticsearch)
+  • AWS
+  • Postgres
+  • Apache Spark
+  • Designing data architecture from table to dashboard
+  • Side projects
+  • Graduate school
+
+Our Offer
+
+  • Competitive salary and equity
+  • Opportunity to focus and work on the problems that most interest you
+  • Career growth
+  • Benefits package with subsidized health, dental, and vision plans
+  • NYC startup perks like catered lunch, bagels, yoga, bootcamp, meditation,
+    beer on tap, and hackathons
+
+Application
+
+If you are interested, please send a note to recruiting@shopkeep.com to give us
+an idea of who you are. The role is for our HQ in SoHo, New York City.
+
+Shopkeep is an equal opportunity employer.
+
+Apply for this Job
+* Required
+First Name * [                    ]
+Last Name * [                    ]
+Email * [                    ]
+Phone [                    ]
+Resume/CV
+Drop files here
+File   X
+Attach Dropbox Google Drive Paste
+X
+[                    ]
+Cover Letter
+Drop files here
+File   X
+Attach Dropbox Google Drive Paste
+X
+[                    ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+LinkedIn Profile
+[                    ]
+Website
+[                    ]
+How did you hear about this job?
+[                    ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Submit Application]
+Share this job:  
+Powered by  Greenhouse Logo
+Read our Privacy Policy

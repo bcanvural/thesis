@@ -1,0 +1,211 @@
+Careers at the U
+
+  * facebook
+  * twitter
+  * rss
+  * plus
+
+  * Login
+  * Help
+
+Statistical Programmer / Data Analyst
+
+  * Home
+  * Search Jobs
+  * Benefits
+  * Choose Michigan
+  * Temporary Employment
+  * Career Development
+
+[DILSlidesh]
+Apply Now Clicking "Apply Now" opens the link in a new window.
+
+How to Apply
+
+A cover letter is required for consideration for this position and should be
+attached as the first page of your resume. The cover letter should address your
+specific interest in the position and outline skills and experience that
+directly relate to this position.
+
+Job Summary
+
+Working Title: Statistical Programmer/Data Analyst
+Market Title: Statistician Intermediate (100926)
+ 
+ 
+Job Description
+We are a small team of data scientists using cutting-edge statistical models
+and machine learning algorithms to help the University of Michigan raise money.
+We?re looking to hire someone who can help us transform data into action.
+Though it would be helpful to know something about statistics and data mining,
+this position is primarily focused on gaining insight from messy, real-world
+data by writing understandable and reusable code, and by developing interactive
+dashboards and web applications. 
+ 
+ 
+About the Prospect Development & Analytics Team
+The Prospect Development & Analytics (PDA) team comprises qualitative and
+quantitative analysts who help identify, cultivate, and understand prospects
+who are interested in making philanthropic contributions to the University of
+Michigan. The Analytics Team is a subset of PDA, primarily focused on using
+large quantities of data to inform fundraising strategies. We collaborate
+extensively with fundraisers at all of UM?s schools, colleges, and units in
+order to promote data-driven best practices university-wide. We attempt to
+solve deep and difficult problems, many without easy answers, by investigating
+them little-by-little over long periods of time, and sharing the results with
+the community. We value open-source software, scalable and repeatable code,
+presenting and publishing our findings, and digging for answers rather than
+speculating. Besides being immensely interesting and challenging, our work has
+the potential to shape fundraising at UM for many years in the future.
+ 
+
+ 
+
+Responsibilities*
+
+A typical work week will include a large amount of programming and algorithm
+development (50%); a fair amount of data management, analysis, and
+visualization (25%); as well as some outreach, usability testing,
+brainstorming, and other tasks (25%).
+
+Required Qualifications*
+
+
+* The desire and ability to do serious data munging and data wrangling is
+essential. At minimum, we expect demonstrated experience with SQL plus
+knowledge of another data preparation language (preferably R and/or Python).
+Must be able to use these tools to merge large datasets, locate and clean messy
+records, recode missing values, convert between data formats, and construct
+standardized datasets for wider use.
+
+
+* Because we believe in reusable, self-service analytics, the candidate should
+be prepared to develop interactive online tools to acquire and deliver data
+from/to our clients. We use the JavaScript MEAN stack (Mongo, Express, Angular,
+Node) but will look for those with a demonstrated ability to put data to work
+online.
+
+
+* We need the persistence, curiosity, and teamwork skills to collaborate with
+technical and non-technical peers and to tackle challenging questions head-on.
+Candidates should be capable of directing their own work and asking (and later
+answering) questions that lead to effective utilization of our data and the
+philanthropic behaviors it represents.
+
+
+*The candidate should be passionate about data and algorithms and should have a
+nose for finding new and innovative ways to collect, analyze, and visualize
+data in easy to consume formats. Demands change rapidly, so those who
+understand the importance of reproducible research and the value of detailed
+documentation are greatly preferred.
+
+
+ 
+
+Desired Qualifications*
+
+
+* We don?t require a specific background, but we look for the types of skills
+gained with training in computer science, information science, or applied
+mathematics. Advanced degrees (or similar self-directed research experience)
+are a plus.
+
+
+* Experience with, exposure to, or interest in learning machine learning and
+data mining concepts such as regression analysis, network / graph analysis,
+text mining, market basket analysis, decision trees, association rules,
+geographic analysis is important.
+
+
+* Experience with version control tools like Git is strongly preferred.
+
+
+* Our work involves using data to tell stories. Therefore, the ability or
+interest in creating data visualizations in Tableau, ggplot, or similar will be
+helpful.
+
+
+ 
+
+
+ 
+
+
+ 
+
+Additional Information
+
+For additional information about this position and to review other current
+openings in Development, please visit our website at: www.giving.umich.edu/
+careers
+
+Mission Statement
+
+The Office of University Development maximizes private support for the
+University of Michigan through high-quality collaboration with the development
+programs of schools, colleges, and units. We also provide fundraising
+leadership through the stimulation and facilitation of healthy, productive and
+life-long relationships with our colleagues, alumni, friends, foundations and
+corporations.
+
+Application Deadline
+
+Although the Posting End Date may indicate otherwise, this job may be filled
+and closed anytime after a posting duration of seven calendar days.
+
+U-M EEO/AA Statement
+
+The University of Michigan is an equal opportunity/affirmative action employer.
+
+Job Detail
+
+  * Job Opening ID
+
+    136071
+  * Working Title
+
+    Statistical Programmer / Data Analyst
+  * Job Title
+
+    Statistician Intermediate
+  * Work Location
+
+    Ann Arbor Campus
+    Ann Arbor, MI
+  * Full/Part Time
+
+    Full-Time
+  * Regular/Temporary
+
+    Regular
+  * FLSA Status
+
+    Exempt
+  * Organizational Group
+
+    Vp For Development
+  * Department
+
+    Dev Svcs & Strategic Solutions
+  * Posting Begin/End Date
+
+    1/06/2017 ? 1/27/2017
+  * Salary
+
+    $57,000.00 ? $60,000.00
+  * Career Interests
+
+    Development / Institutional Advancement
+    Information Technology
+    Research
+
+Apply Now
+University of Michigan
+Contact
+
+  * Non-discrimination Statement
+  * Accessibility
+  * Security & Safety Annual Report
+  * Labor Law Notices
+
+? 2017 The Regents of the University of Michigan

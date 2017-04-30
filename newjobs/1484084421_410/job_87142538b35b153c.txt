@@ -1,0 +1,80 @@
+[84963f7c-5]
+
+Senior Data Scientist
+
+Mountain View or San Francisco
+Data
+Full Time
+Apply for this job
+
+Join one of the most exciting companies in Silicon Valley that is poised to
+disrupt the way we live our daily lives.  Named CNBC's Top 50 Disruptors and on
+its way to becoming the brand for the way we learn to get jobs, Udacity is
+looking for people to join its Data team to have a 10X impact on the world.  If
+you love a challenge, can take risks and truly want to make a difference, read
+on.
+
+At Udacity, our mission is to democratize education.  We aim to bring
+accessible, affordable, engaging, and highly relevant higher education to the
+world. We believe that education is no longer limited to four years or four
+walls – it’s a lifelong pursuit. Technology is advancing rapidly, and there is
+a growing skills gap between job-seekers and career opportunities that Udacity
+is dedicated to closing through education. To do this, we're rethinking how
+education is made and delivered by empowering our students to advance
+themselves personally and professionally, and help them land their dream job.
+
+As a Senior Data Scientist on the Data Team at Udacity, you'll directly impact
+our students' lives – be it by predicting students that need more help to
+effectively complete a course, devising strategies for effective and timely
+communication, or by analyzing which content is not resonating with students.
+
+Job Responsibilities
+
+      □ Guide the evolution of product using Data driven analysis.
+      □ Analyze the student data and predict student engagement and churn.
+      □ Understand the data architecture, improve it by proposing effective
+        data table layouts, and write data pipelines to transform data.
+      □ Improve efficiency of course and Nanodegree program content by
+        analyzing which content works and which doesn't.
+      □ Devise effective A/B tests and effectively analyze data to establish a
+        causal impact.
+      □ Optimize marketing spend by effectively segmenting students
+      □ Establish best practices for data science workflows, thorough analysis,
+        and evangelize data driven decision making.
+      □ Mentor data analysts and other data scientists on the team.
+
+Skills required
+
+      □ SQL (intermediate) - Thorough understanding of SQL JOINs, Common table
+        expressions (window functions) to gather and aggregate data.
+      □ Data munging - Ability to manipulate data effortlessly using Pandas/R.
+      □ Data visualization - Ability to tell a story with data using
+        appropriate visualizations (packages like matplotlib, ggplot2, etc.).
+      □ Scripting - Python (intermediate level)
+      □ ML algorithms (scikit-learn/R) - Prior experience/knowledge of machine
+        learning algorithms such as logistic regression, SVM, k-means, random
+        forests etc.
+      □ Statistical Inference and Modeling - Thorough understanding of
+        inferential statistics, p-values, confidence intervals, t-tests, etc.
+      □ Some experience with web frameworks such as Flask/Django is preferred
+        but not required.
+
+Our Tech Stack
+
+      □ AWS Redshift & Postgres - Data warehousing
+      □ Airflow - Data pipelines and ETL
+      □ AWS Database Migration Service (DMS) - for ETL
+      □ Scikit-learn for ML algorithms
+      □ Docker Stacks for sharing a common dev environment
+      □ Github, Docker Hub, CircleCI, Datadog, New Relic, Airbrake, Pager Duty
+
+We are an equal opportunity employer and value diversity at our company. We do
+not discriminate on the basis of race, religion, color, national origin,
+gender, sexual orientation, age, marital status, veteran status, or disability
+status.
+
+Apply for this job
+
+Udacity Home Page
+
+Jobs powered by [lever-logo]

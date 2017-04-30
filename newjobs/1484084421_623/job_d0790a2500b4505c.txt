@@ -1,0 +1,53 @@
+POP Careers
+
+Senior Data Scientist
+
+Technology Seattle, Washington
+
+Apply
+
+Data is your crystal ball. Machine learning is your passion.
+
+POP seeks a data scientist to build predictive models from raw data. We’re
+looking for someone with experience doing data munging, performing exploratory
+data analysis, conducting feature engineering and building machine learning
+models. This person will work with POP’s software engineering and IT operations
+teams to build and deploy classification and regression models in production.
+
+What You’ll Do
+
+  • Work with business stakeholders to understand desired outcomes
+  • Analyze raw data and transform it into useful datasets
+  • Develop and optimize machine learning models
+  • Collaborate with UX and design to devise highly effective data
+    visualizations
+  • Work with software engineering and IT operations to deploy models in
+    production
+
+What We’re Looking For
+
+  • Experience building predictive models, end-to-end, including data munging,
+    feature engineering, algorithm selection and model optimization
+  • Python experience is preferred, but R experience is okay
+  • Experience with Azure Cognitive Services is a plus
+  • Knowledge of MapReduce, Hadoop and Spark is a plus
+  • SQL skills are required
+  • Experience working with a wide-range of machine learning algorithms is a
+    must. We are looking for an expert who can work independently to find the
+    right models and optimize them
+
+Apply Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+Powered by Jobvite
+

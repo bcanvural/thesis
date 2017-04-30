@@ -1,0 +1,47 @@
+[casetext-l]
+
+Data Scientist/Machine Learning Engineer
+
+San Francisco, CA
+Data
+Full-time
+Apply for this job
+
+Machine learning is at the core of Casetext's mission to make the law free and
+understandable and we're looking for an ML engineer/data scientist to help us
+build the next generation of legal research products. The data team at Casetext
+is working on groundbreaking legal technology for document recommendation and
+search. If you have industry experience developing production software for
+machine learning, especially in areas like NLP, graph models, topic modeling,
+and/or recommendation engines, we'd love to talk to you.
+
+Our data science stack includes AWS EMR, Apache Spark (core, mllib, and
+streaming), Elasticsearch and raw Lucene, scikit-learn, and more.  Our team
+works primarily in Scala, Java, and Python but we're open to new technologies
+as well. As an engineer on our data team, you'll work with an exceptional team
+of engineers, scientists, and attorneys to build data science products that
+solve real problems for our customers. We're looking for people who will
+naturally take ownership of data products and who can bring a project all the
+way from fast prototype to production.
+
+Key Qualifications
+
+      + Passion for software engineering as evidenced by at least 2 years of
+        industry experience in a primarily engineering focused role .
+      + Experience in data science fundamentals (e.g. classification models,
+        clustering, topic models) with knowledge (and preferably some
+        experience) in a more advanced area such as recommendation engines,
+        neural networks, or NLP.
+      + Solid skills in Python or similar scripting language and in a compiled
+        language (preferably Java, Scala, Rust, or C++).
+      + Experience working with modern data stores such as MySQL/Postgres, S3,
+        Cassandra or similar.
+      + Some experience working with AWS, Google Cloud, or Heroku.
+      + Knowledge and some experience with apache Spark or similar data
+        platform.
+
+Apply for this job
+
+Casetext Home Page
+
+Jobs powered by [lever-logo]

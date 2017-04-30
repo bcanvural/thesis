@@ -1,0 +1,102 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Français
+Español                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [sgjdnwxoo6ic70s4d45a]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-01020 - Ana]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Analyst Research (Research/Data Analyst)
+Next Job
+Next
+
+Ref No.:       16-01020
+Location:      Baltimore, Maryland
+Position Type: Contract
+Start Date:    12/27/2016
+
+Must Have
+1. Data analysis experience
+2. Writing Skills
+3. Education- Statistics major /minor
+4. Report Analysis- experience
+5. Tableau use experience
+Optional
+6. Writing Samples (opp)
+7. Reporting Samples. (opp)
+8. Certifications if any (opp)
+
+1. Analyzes existing and potential product and service information, prospective
+customers and markets. Collates information into meaningful reports and
+presentation material. Maintains any technical information in a systems
+library.
+2. Performs education research and data analysis with SLDS information.
+3. Creates Rapid Turnaround Reports utilizing Tableau Desktop and Interactor
+visualization software.
+
+Education:
+1. High School Diploma or Associate's Degree in Business, or related field.
+b. General Experience:
+1. A minimum of one (1) year of work or equivalent education experience in a
+research analyst role.
+c. Specialized Experience:
+1. At least one (1) year of experience word processing, using electronic
+spreadsheets and other administrative software products. General knowledge of
+governmental documents and procedures.
+2. At least one (1) year of experience implementing reports, analyses and
+research briefs to be used for decision-making that are relevant and timely and
+can be used for program evaluation.
+3. A minimum of one (1) year of experience using software tools to create
+reports, dashboards, analyses, or research briefs utilizing education data.
+
+
+
+[applicatio]Apply by creating/using account
+
+OK

@@ -1,0 +1,68 @@
+Data Scientist
+Engineering | New York, NY, United States
+
+
+
+Data Scientist
+Location: New York City
+Reports To: Director, Engineering
+
+Our Company:
+
+DoubleVerify is the recognized market innovator with the technology and tools
+that accurately authenticate the quality of digital media and drive ad
+performance for the world's largest brands. DV provides media transparency and
+accountability to deliver the highest level of impression quality for maximum
+advertising performance. Since 2008, DV has helped hundreds of Fortune 500
+companies gain the most from their media spend by delivering best in class
+solutions across the digital ecosystem that help build a better industry. Learn
+more at doubleverify.com.
+
+Position Overview
+
+As a Data Scientist at DV you will be a part of a highly motivated and talented
+team delivering creative statistical solutions for a variety of challenging
+problems such as  identifying machines infected by malware, detecting automated
+bots mimicking human users, developing targeting segments for real time bidding
+environments, detecting fraudulent sites.
+
+You will be responsible for analyzing terabytes of daily data, creating state
+of the art visualizations, building statistical models, developing machine
+learning systems capable of processing billions of events a day and producing
+insights that drive DV?s business forward. You will work closely with the
+product team to successfully deliver DV?s product roadmap.
+
+What you will do:
+
+  * Build statistical models for various problems including: projections,
+    clustering, classification, sampling, fraud detection, anomaly detection,
+    etc.
+  * Conduct researches and perform POCs involving analysis of terabytes of data
+  * Come up with superb visualizations and illustrations of data
+  * Develop Machine Learning systems working along side with DV?s production
+    environment
+  * Write production quality code while implementing your own ideas
+
+What you have done / who you are:
+
+  * MS in Statistics, Mathematics or related field
+  * Strong analytical thinker
+  * Hands-on experience in analysis and modeling of complex data sets
+  * Expert level in R, Matlab or a similar environment
+  * Experience with a programming language (e.g Python)
+  * Experience working with 'Big Data' using technologies such as SQL, Hive/
+    Hadoop, Spark is a plus
+
+
+
+<< Back to Current Openings
+
+[Apply]  #
+
+
+
+Jobvite
+
+
+
+

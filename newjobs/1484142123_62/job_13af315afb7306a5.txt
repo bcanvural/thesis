@@ -1,0 +1,88 @@
+adMarketplace
+
+adMarketplace Careers
+
+Data Scientist
+
+Data Analytics New York, New York
+
+Apply
+
+The Data Scientist will be bridging the gap between data science and
+engineering while building our next generation of highly targeted search,
+bidding and matching platform. You will be a member of a small but highly
+talented team that has data scientists and data analysts. Our matching,
+categorization and user targeting services have only milliseconds to make
+accurate decisions using both historical and real time data. You will be
+enhancing and utilizing these services with scalable solutions. The ideal
+candidate will thrive on solving complex technical challenges involving big
+data and motivated by pushing the boundaries of using real time data to make
+automated decisions. Our team uses cutting edge software, including Akka,
+Apache SPARK, Kafka, NoSQL and more.
+
+
+Requirements:
+
+  * At least 2 years experience in Data Science and Machine Learning with a
+    degree in Computer Science, Mathematics or empirical science.
+
+  * Experience in designing and coding optimization algorithms like Yield
+    Optimization and Supply Chain Optimization.
+
+  * Strong mathematical and statistical background, with thorough understanding
+    of probability.
+
+  * Data Analysis and manipulation skills with relational data (SQL, Spark
+    DataFrames, pandas...etc).
+
+  * Software engineering skills with coding experience using Java and Python.
+    In addition to machine learning and data mining libraries (Sci-kit learn,
+    scipy, SparkMLib)
+
+  * Must have machine learning skills and experience in Regression, Time Series
+    Forecasting, Classification and Stochastic processes.
+
+  * Great communication skills, innovative and self-starter
+
+  * Comfortable juggling multiple projects, demonstrated strong work ethic.
+
+
+Desired skills (nice to have):
+
+  * Strategy Machines and Game Theory.
+
+  * Deep Learning and TensorFlow
+
+  * Advanced graduate degree in Computer science, Math or Statistics.
+
+  * An understanding of asynchronous design patterns, Akka reactive
+    programming.
+
+  * HPC, GPU and parallel processing
+
+  * Big Data architectures and computation
+
+  * AdTech industry experience.
+
+About Us:
+adMarketplace is the largest search advertising marketplace outside of Google
+and Yahoo. Named one of New York's fastest growing companies for two years
+running, adMarketplace delivers performance traffic to large, data-savvy
+marketers and their agencies. The Advertiser 3D interface is the only
+pay-per-click platform that allows advertisers to bid by individual traffic
+source and device type.
+
+Experience Big Data in your career?at 1 billion query requests per day and 1 TB
+of data generated per hour, we ARE Big Data.
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

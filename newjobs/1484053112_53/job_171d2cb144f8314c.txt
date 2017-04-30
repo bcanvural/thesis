@@ -1,0 +1,131 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Reinforcement Learning Research Scientist
+
+Reinforcement Learning Research Scientist
+
+Requisition ID 
+    2016-2677
+
+Job Locations 
+    US-NC-Cary
+
+Category 
+    Research and Development
+
+Visa Sponsorship 
+    Yes
+
+Travel Requirements 
+    None
+
+Overview
+
+Germany SAS
+
+SAS believes in the whole employee experience. Meaningful work. Empowerment to
+make a difference that changes people’s lives. Dynamic work environments that
+foster innovation. And an award-winning culture that makes it all possible. We
+believe great ideas can come from anywhere. Whether you're a university
+recruit, or an experienced professional ready for the next big challenge, SAS
+brings perks, passion, and the potential to grow. No limits.
+
+ 
+
+ 
+
+The Advanced Analytics Division at SAS is looking for a Research Scientist with
+a strong analytical background and excellent programming skills to develop
+algorithms for the areas of data mining and machine learning, with the focus in
+Reinforcement Learning (RL). You will be responsible for designing, developing
+and maintaining software involving various techniques such as machine learning,
+large scale data mining, and predictive modelling.
+
+ 
+
+In this position, you will implement specialized methods in new and existing
+SAS procedures for multi-threaded and distributed algorithms. You will stay at
+the forefront of machine learning techniques and data mining methodology,
+identify appropriate algorithms and methods for implementation in SAS, and
+program these methods in C using agile development methods.
+
+ 
+
+Duties include researching of statistical methodology and computational
+algorithms; designing of software tools for machine learning and data mining;
+programming and testing of modules; guiding junior developers in performance of
+supporting programming tasks; authoring user documentation and papers to
+communicate the best use of the software; presenting to professional audiences
+about the product and analytical methods; communicating with other SAS
+professional staff in Testing, Technical Support, Education, Marketing, and
+other departments; and performing other tasks as assigned.
+
+ 
+
+Essential Qualifications :
+
+  • PhD in computer science, statistics, data science, operations research, or
+    other related areas
+  • Knowledge of distributed programming in MPP environment using MPI and
+    multi-threading
+  • Experience writing large, complex programs in C or similar programming
+    language
+  • Background in machine learning and/or data mining
+  • Understanding of the Reinforcement Learning problem such as the
+    agent-environment interface, the goals and rewards
+
+Additional:
+
+  • Experience mentoring junior developers
+  • Excellent written and verbal communication skills
+  • Ability to work both independently and as part of a team
+
+Preferences:
+
+  • 3+ years of equivalent experience in the industry
+  • Experience developing code in an agile environment
+  • Understanding of neural networks is a plus
+  • Equivalent combination of education, training, and relevant experience may
+    be considered in place of the education requirement stated above.
+
+Additional Information:
+SAS is an equal opportunity employer. All qualified applicants will receive
+consideration for employment without regard to race, color, religion, sex,
+national origin, disability status, protected veteran status or any other
+characteristic protected by law.
+
+The level of this position will be determined based on the applicant's
+education, skills and experience.
+
+Resumes may be considered in the order they are received.
+
+SAS employees performing certain job functions may require access to technology
+or software subject to export or import regulations. To comply with these
+regulations, SAS may obtain nationality or citizenship information from
+applicants for employment. SAS collects this information solely for trade law
+compliance purposes and does not use it to discriminate unfairly in the hiring
+process.
+
+ 
+
+Want to stay up to date on SAS culture, products and jobs? Follow us on
+LinkedIn LinkedIn Logo
+
+Options
+
+ 
+Apply Now!Apply
+Share
+ 
+Share with a FriendRefer
+Share with your networks
+[back]Back to Start/Home Page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

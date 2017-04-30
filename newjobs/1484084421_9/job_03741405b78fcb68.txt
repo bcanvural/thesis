@@ -1,0 +1,158 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Data Scientist Internship Summer of 2017
+
+Data Scientist Internship Summer of 2017
+
+Job Locations 
+    US-NY-New York
+
+Category 
+    Internship
+
+Travel 
+    None
+
+Level 
+    Individual Contributor
+
+More information about this job:
+
+Overview:
+
+MediaMath is a technology platform that brings together all forms of digital
+media, massive amounts of data, and sophisticated algorithms to power smarter
+marketing for the world’s leading advertisers. Technology like real-time
+bidding is revolutionizing marketing and MediaMath is at the cutting edge. Our
+platform handles millions of transactions per second and we reach hundreds of
+millions of desktop and mobile internet users worldwide. Our engineers develop
+complex, innovative, and highly scalable technology that is changing the face
+of digital media – devising new approaches, inventing new products, and opening
+up new markets. It’s a very exciting company in a very exciting industry. We’ve
+enjoyed massive growth since our founding in 2007, and we’re now a global
+company with offices in 20 locations – but this revolution has just begun!
+
+ 
+
+We are currently looking for a Data Scientist Intern to support the ongoing
+development of MediaMath’s proprietary algorithms and analytics. This
+individual will be a member of the Data Science team, working closely with the
+Product & Engineering teams on the conception, design, development, testing,
+and deployment of real-world applications of models & data that impact billions
+of dollars of marketing spend. From optimizing real-time bidding auctions, to
+separating human from non-human web traffic, to building out a global
+cross-device graph across billions of users, this individual will have the
+opportunity to work on numerous cutting-edge problems and develop scalable,
+high-performance solutions to big data problems using state-of-the art
+technologies, languages and frameworks.
+
+ 
+
+
+ 
+
+Responsibilities:
+
+  • Develop a solid understanding of MediaMath’s business context, key problems
+    and issues of importance to the company, and the ways in which data-driven
+    models and algorithms can help drive performance and provide insights.
+  • Develop a deep understanding of business data-sets through a combination of
+    database queries, and exploratory statistical analysis and visualization.
+  • Rapidly develop a deep understanding of the quantitative methodologies and
+    implementation details behind existing machine learning algorithms in
+    place, and the currently-planned roadmap of enhancements.
+  • Formulate business needs as data science problems where applicable and
+    effectively communicate these to peers, managers, and key stakeholders,
+    including the benefits and limitations of models.
+  • Design and develop Machine Learning models and algorithms that drive
+    performance and provide insights, from prototyping to production
+    deployment, across key areas of interest to the company (e.g., bidding
+    optimization, messaging optimization, multi-touch attribution, fraud
+    detection, device identification, cross-device association)
+  • Partner closely with Engineering on the architecture and implementation of
+    modeling efforts to ensure performance and scalability
+  • Partner closely with Product on the incorporation of new modeling features
+    into our product set, including UI & API layers
+  • Develop tools and processes to monitor performance of existing models and
+    implement enhancements to improve scalability, reliability, and
+    performance.
+  • Create supporting documentation for algorithms and models.
+  • Stay abreast of new developments in Machine Learning and Data Science, and
+    investigate & develop new “challenger” approaches to compete against
+    current “champions”
+  • Communicate effectively with other Data Scientists, with Product/
+    Engineering, and with business stakeholders across the company to identify
+    and define strategic data-intensive projects based on business needs.
+  • Take ownership of significant large projects, develop an overall
+    architecture and roadmap, and supervise junior Data Scientists or
+    Engineers.
+  • Act as a subject matter expert on areas of ownership, for both internal and
+    external audiences
+  • Contribute to MediaMath Data Science thought leadership via publication of
+    new-to-the-world research in relevant journals, blog entries, etc.
+
+Qualifications:
+
+  • Studying in a quantitative discipline (e.g., Computer Science, Math,
+    Physics, Statistics, Electrical Engineering, or similar)
+  • Strong quantitative skills, with solid grasp of key concepts in
+    Probability, Statistics, Algorithm design, and Machine Learning.
+  • Strong communication skills, and the ability to effectively discuss models
+    with other data-scientists as well as business partners at the appropriate
+    level of technical detail.
+  • Experience developing software, with at least a year in Scala and/or
+    Python.
+  • Experience with machine learning, predictive modeling, and statistical
+    analysis techniques in a business environment.
+  • Passion for hands-on "in-the-trenches" work with real-world data-sets.
+  • Desirable: Experience with Machine-Learning/Big-Data Platforms and modeling
+    frameworks, especially Spark and Hadoop.
+  • Desirable: Experience with Statistical modeling and Visualization with R or
+    Python
+
+Attributes:
+
+  • Fast learner
+  • Analytic thinker
+  • Creative problem solver
+  • Passion for applying quantitative methods to rea-world problems
+  • Highly motivated
+  • Collaborative team player
+  • Focus on impact and scalability
+  • Direct, honest communication style
+
+MediaMath is a global technology company that's leading the movement to
+revolutionize traditional marketing and empowering marketers to unleash the
+power of goal-based marketing at scale, transparently across the enterprise.
+Our platform - TerminalOne Marketing Operating System - handles billions of
+transactions every hour and hundreds of millions of internet users every day,
+which means every solution must be built to scale. Our breakthroughs create new
+marketplaces and solve long-standing problems in an industry that is constantly
+evolving. Our engineers are building the leading technology platform to power
+the new digital marketing ecosystem, and we are looking for driven, curious
+innovators to join our team.  
+
+ 
+
+In achieving their duties and responsibilities, MediaMath employees embody the
+Math Values of SPACE: Scalable Innovation, Performance, Accountability,
+Collaboration, and Empowerment.
+
+Options:
+
+ 
+Apply for this job onlineApply
+Share
+ 
+Refer this job to a friendRefer
+Share on your newsfeed
+●Go back to the welcome page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

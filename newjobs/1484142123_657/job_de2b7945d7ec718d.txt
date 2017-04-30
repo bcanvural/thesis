@@ -1,0 +1,71 @@
+[wish]
+
+Data Science Engineer
+
+San Francisco
+Engineering - Relevancy
+Full-time
+Apply for this job
+
+Data driven decision-making is an integral part of life at Wish. It drives our
+success with customers and merchants. We?re looking for talented Research
+Scientists to continue to drive decisions company-wide through the use of
+statistical modeling and machine learning.
+
+You should have an extensive background in a quantitative field, a strong
+research background, and experience working with large data sets. You should be
+results-driven, highly motivated, and have a track record of using data
+analytics to drive the understanding, growth, and the success of a product.
+
+What you'll be doing
+
+      + Developing data infrastructure that is able to ingest and transform
+        data at huge scale coming from many different sources, different
+        customers, and in many different varieties.
+      + Developing machine learning infrastructure that can generalize across
+        hundreds of thousands of Wish customers, but is expressive enough to
+        actually generate high lift.
+      + Brainstorming data product ideas with the data scientists and engineers
+        that built some of the most exciting data products that hundreds of
+        millions people use every day.
+
+Who you are
+
+      + You have to be a very quick learner - we face new challenges every day.
+        No school could prepare you for all of these, so you need to be very
+        quick on your feet.
+      + We develop real products. You need to be an expert in coding
+      + We have massive scale. You need to have experience in distributed,
+        scalable systems. Consistency / availability tradeoffs are made here.
+        You?ve tinkered with modern data storage, messaging, and processing
+        tools (Kafka, Spark, Hadoop, Cassandra, etc.)
+      + We run on AWS. You should have some notion of how to build, test, and
+        deploy code to run on cloud infrastructure.
+      + ?You have to be self sufficient - we are a billion dollar startup, so
+        everyone might do a bit of everything to get things done. We are
+        looking for people who want to excel at everything they do, while still
+        being able to prioritize between the must-haves and nice-to-haves.
+
+Company Description
+
+Wish brings together top technical talent from Google, Facebook, LinkedIn,
+Uber, Pinterest, and Yahoo! Wish, www.wish.com, is changing the way people shop
+by making it more convenient and accessible to everyone on a global scale. We
+are passionate about connecting relevant products to relevant people. Using our
+top-notch recommendation system, we create a personalized shopping experience
+for each of our users. It?s a digital mall, right in your back pocket!
+
+Wish was launched in November 2011 and already has over 200 million registered
+users, making it one of the top 5 mobile shopping applications, and highest
+downloaded shopping app on Black Friday 2015!
+
+Learn more about us:
+- Recode
+- TechCrunch
+
+
+Apply for this job
+
+Wish Home Page
+
+Jobs powered by [lever-logo]

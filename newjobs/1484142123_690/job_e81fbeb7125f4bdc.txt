@@ -1,0 +1,171 @@
+Skip to main content
+Home
+QB3
+
+QB3 Sites
+
+  * About
+      + Mission
+      + Organization
+      + People
+          o Leadership
+          o Faculty
+          o Staff
+          o Advisory Board
+      + Economic Impact
+      + Academic Excellence
+      + Global Innovation Program
+      + Contact Us
+  * Startups
+      + Bridging-the-Gap Awards
+      + QED@QB3 Seminars
+      + Rosenman Institute
+          o D-Series
+          o In the News
+          o Rosenman Fellows
+          o Submit a Proposal
+      + Incubators
+          o Resident Companies
+          o QB3@953
+          o QB3 Garage@Berkeley
+          o QB3 Garage@UCSF
+          o QB3 East Bay Innovation Center
+          o StartX-QB3 Labs
+          o Jobs
+      + QB3 Startup in a Box
+          o Legal Services
+          o Mentorship
+          o Bank Account
+          o SBIR/STTR Workshop
+          o Pitch Workshop
+          o Apply to the Program
+      + QB3-BayBio Accelerator
+          o Accelerator Services
+          o Networking Events
+          o Consulting
+          o Become a Member
+          o FAQs
+      + Mission Bay Capital
+  * Industry Alliances
+      + QB3 Collaborative Startups
+          o Join the program
+      + QB3-Pfizer Alliance
+          o RFP
+      + Partners
+      + Quadrant seminars
+  * Research
+      + Affiliated Centers
+      + Buildings
+      + Core Facilities
+          o LBNL Cores
+  * Education
+      + QB3 Malaysia
+      + QB3-UCSF Teaching Lab
+      + SynBERC
+      + UCB Biophysics
+      + UCB Computational Biology
+  * Events
+  * Get Involved
+      + Event Planning
+      + Sponsor an event
+      + Become a mentor
+      + Offer internships
+      + Donate equipment
+      + Give to QB3
+      + Invest
+
+You are here
+
+Home ? Startups
+
+  * Startups
+  * Have an Idea?
+      + Bridging-the-Gap Awards
+      + QED@QB3 Seminars
+      + Rosenman Institute
+  * Ready to Start?
+      + QB3 Startup in a Box
+  * Time to Accelerate?
+      + Incubators
+          o Resident Companies
+          o QB3@953
+          o QB3 Garage@Berkeley
+          o QB3 Garage@UCSF
+          o QB3 East Bay Innovation Center
+          o StartX-QB3 Labs
+          o Jobs
+      + Success Stories
+      + QB3-BayBio Accelerator
+      + Mission Bay Capital
+
+Careers
+
+? View all jobs
+Computational/ Image analysis Scientist at Cairn Biosciences at Cairn
+Biosciences
+San Francisco, CA, US
+Apply for this job
+Cairn Biosciences is delivering next-generation live cell-based assays to guide
+the efficient and rapid discovery and optimization of safe and efficacious
+medicines for serious diseases. We provide the only high-throughput assay
+platform that rapidly pinpoints compound mechanism of action and potential
+toxicities through its unique ability to monitor multiple facets of previously
+inaccessible biology in live cells in real-time.
+
+We are seeking an innovative and goal-oriented Scientist with demonstrated
+expertise in image and data analysis to lead the development of computer vision
+and machine learning methods for quantitative microscopy and image-based
+screening in cellular models of human disease. The successful candidate will
+have scientific programming experience and be motivated to develop new
+learning-based image analysis methods for large-scale microscopy datasets.
+Cairn Biosciences fosters a dynamic start-up environment where self-driven,
+enthusiastic employees thrive. The successful candidate will be a highly
+collaborative and effective team player who is motivated to own projects that
+will directly impact Cairn Biosciences? future success.
+
+Key responsibilities
+? Implement computational analysis on microscopy image datasets to provide for
+robust and testable hypothesis from analyzed experimental data.
+? Structure, design, and implement an image analysis platform to be used
+in-house and to be expanded for client access.
+? Multi-dimensional data mining to extract statistically robust quantitative
+data
+
+Required qualifications and experience
+
+? Ph.D. or equivalent (M.S. considered) with an emphasis in computer science,
+image analysis, physics, mathematics, cell biology, bioengineering or a related
+field.
+? Proficiency in developing and applying image analysis methods.
+? Experience with programming languages such as Python, Matlab, R and Java.
+? Strong background in statistics/machine learning/data mining
+? Familiarity with instrument control and automation software (Arduino,
+LabView, uManager, etc.)
+? Knowledge of live-cell microscopy, ImageJ and Fiji.
+? Demonstrated understanding of biology and ability to identify biological
+problems that can be efficiently solved through computational analysis.
+? Ability to work closely with bench scientists to solve complex biological
+problems.
+? Strong written and verbal communication skills.
+? Excellent attention to detail with strong organizational and documentation
+skills.
+? Ability to critically assess scientific findings and publications.
+
+The following skills and experience are also highly desirable:
+
+? Experience in microscopy and/or understanding of microscopy principles.
+? Experience in deep learning.
+? Experience with high throughput and/or high content screening and related
+laboratory automation.
+? Experience with microfluidic devices
+? 1-2+ years of industry experience in a drug discovery or related setting.
+Apply for this job
+Careers Powered by VentureLoop - Portfolio Company Sign In
+
+  * QB3-Berkeley
+  * QB3-UCSF
+  * QB3-Santa Cruz
+  * Contact QB3
+  * Join Our Mailing List
+
+? 2008 - 2015 QB3 All Rights Reserved

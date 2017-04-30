@@ -1,0 +1,66 @@
+[c1843acd-3]
+
+Data Science Internship
+
+New York, NY
+Engineering
+Intern
+Apply for this job
+
+Knewton is on a mission is to personalize learning for the world. Teachers,
+schools, and education companies use Knewton to power digital course materials
+that dynamically adapt to each student’s unique needs. Knewton provides
+students with tailored recommendations for exactly what to study, teachers with
+analytics to better support each student, and publishers with content insights
+to develop more effective digital products.
+
+Knewton has delivered more than 15 billion personalized recommendations to over
+10 million students on every continent except Antarctica. Knewton was founded
+in 2008 and is headquartered in New York City with offices in London, Tokyo,
+Singapore, and Dubai. We have also been recognized as a Technology Pioneer at
+the World Economic Forum in Davos, one of the top 100 Best Places to work by
+Crain’s New York Business and one of the Fast Company’s Top 10 Most Innovative
+Companies in Big Data.  Investments top $150M from well-known angel investors
+plus Accel, Bessemer, First Round Capital, Firstmark, Founders Fund, GSV and
+Atomico.
+
+We're looking for data science interns to help build an innovative online
+education system that adapts to each individual student. You will join a
+world-class team of data scientists and engineers who are pushing the
+boundaries of machine learning. Interns will get to work with a mountain of
+data and an exciting array of projects. Knewton actively adopts and contributes
+to open source data science technologies such as Hadoop, Cassandra, Storm,
+HBase, and SciPy, and interns will be encouraged to interact with these
+communities.
+
+
+
+Here are some of the things we're looking for in our interns:
+
+      □ Passion and enthusiasm for building scalable systems that analyze huge
+        data sets and make actionable recommendations
+      □ Coursework in machine learning, statistics, and advanced mathematics
+      □ Familiarity with JAVA or Python and a statistical programming language
+        (R, Matlab)
+      □ Familiarity with some of following technologies: collaborative
+        filtering, decision trees (and automatic tree generation), Bayesian
+        methods, clustering techniques (principal components analysis, k-means,
+        etc.), probabilistic graphical models, neural networks, and support
+        vector machines
+      □ Bonus if you have actually implemented a data mining or machine
+        learning system in a side project or other work experience.
+
+Perks Include:
+
+      □ High-quality equipment (Mac or PC)
+      □ Frequent guest speakers and tech/edtech Meetups hosted at Knewton HQ
+      □ Social groups and sports teams
+      □ Catered lunch everyday in the office, all-day snacks, and a full bar
+      □ Free monthly MetroCards/PATH cards
+      □ Pet Friendly
+
+Apply for this job
+
+knewton.com Home Page
+
+Jobs powered by [lever-logo]

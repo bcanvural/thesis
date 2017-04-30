@@ -1,0 +1,54 @@
+[93f573a6-0]
+
+Data Scientist
+
+Palo Alto, CA
+Data Science
+Full-time
+Apply for this job
+
+NAUTO is an autonomous car startup on a mission to make better drivers out of
+us all and cities safer and more efficient. We're looking for engineering and
+business professionals  who love to design, build and scale real-time
+distributed systems to join our growing team in Palo Alto.
+ 
+Merging artificial intelligence with computer vision, NAUTO?s systems detect
+and react to what?s happening on the road ahead of a driver and within the
+vehicle.  NAUTO algorithms sense when there is an issue on the road ahead, or a
+distraction within the vehicle, and helps the driver respond. NAUTO also
+automatically understands when a collision is about to happen, and records the
+scene inside and outside of the car. Then images and data about the incident
+are stored in the cloud, and can be shared via NAUTO?s app and fleet management
+tools.
+ 
+NAUTO is selling to automobile OEMs, insurance providers and commercial fleets.
+Its systems are running on several classes of high-volume commercial vehicles.
+Investors in our recent A-round included Andy Rubin?s Playground Global, Draper
+Nexus and strategics such as BMW, Toyota, and Germany?s largest insurer,
+Allianz.
+ 
+Long-term NAUTO will continue to partner with auto manufacturers to evolve its
+systems from an on-board safety AI into a platform that becomes the brain
+controlling autonomous vehicles.
+
+Responsibilities:
+
+      +     Design and maintain well-structured relational database schemas.
+      +     Create automated ETL pipelines and APIs for a variety of raw data
+        sources.
+      +     Research and develop new data storage architectures for growing
+        data volumes.
+      +     Transfer prototype algorithms to a production-ready system. 
+      +     Maintain excellent documentation for understanding and accessing
+        data storage.
+
+The ideal candidate takes pride in her/his work, analytical ability, ability to
+explain technical issues to non-technical people, and attention to detail.  She
+/he appreciates an environment where superior work is encouraged, noticed and
+rewarded and where individuals carry tremendous responsibility.
+
+Apply for this job
+
+Nauto Home Page
+
+Jobs powered by [lever-logo]

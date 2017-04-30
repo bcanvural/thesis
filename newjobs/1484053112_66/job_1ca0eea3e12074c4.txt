@@ -1,0 +1,114 @@
+Vista Consulting Group
+
+Data Scientist - Vista Intelligence Group
+
+US-IL-Chicago
+
+  • Apply
+  • 
+  • View All Jobs
+
+Share This Job
+
+Job Description
+
+Data Scientist 
+
+Chicago, IL
+
+Vista Intelligence Group (“VIG”) drives Vista’s big data and strategic
+intelligence. Together with our portfolio companies, we transform software to
+ensure continued market leadership in an intelligence driven economy and
+capitalize on the emergence of the Internet of Things. 
+ 
+VIG identifies, develops and deploys software to deliver real-time,
+differentiated and actionable intelligence, driving industry transformation and
+associated value creation. Using data assets and data derived intelligence, the
+VIG team partners with industry and portfolio companies to create disruptive
+and compelling new offerings. 
+ 
+Technology: 
+ 
+Vista Intelligence Group uses industry leading technologies for data
+aggregation and analysis to derive insights and enable our portfolio companies
+to maximize their data intelligence opportunities. Our team of engineers, data
+scientists and domain experts employ advanced technologies to run computational
+analytics, build representational models and enable software applications with
+predictive and prescriptive analytics – while employing advanced technologies
+including machine learning, deep learning and AI systems. 
+ 
+Job Description 
+ 
+Vista Intelligence Group (VIG) is looking for a data scientist with experience
+cleaning and distilling insights from large disparate data sets. Join a team of
+system architects, software engineers, data scientists, and product managers as
+we build a cutting edge data platform. In this role you will execute projects
+to clean and understand data from Vista’s portfolio companies. You will use
+standard munging and analysis techniques along with advanced technologies like
+machine learning, NLP, and deep learning to solve complex data cleaning and
+insight generation problems. Work with software engineers to automate and
+deploy tools, analysis, and models in products.  The Vista Intelligence
+Platform is built on cutting edge data technologies like Hadoop, Spark, Python,
+and Scala. We are on a mission to disrupt how software companies monetize their
+data through intelligence. VIG is looking for creative, entrepreneurial
+individuals, who have a passion for delivering high impact products.  
+
+Skills & Requirements
+
+Responsibilities
+
+• Help create a platform for Vista’s big data and strategic intelligence
+• Build and use the world’s best tools for cleaning, exploring and distributing
+data as insight
+• Solve complex commercial problems with unique data
+• Be part of cross-functional team building new products and services – while
+interacting with trusted data science vendors
+• You should be effective communicator. Our team is spread across multiple
+locations and communication is a critical element of execution
+ 
+Desired Skills and Experience
+ 
+• 4+ years of experience in an information, software or financial services
+environment
+• Hands-on experience with the full life cycle of insight generation and
+delivery: data collection/cleansing , idea generation, analysis, back-testing,
+and deployment
+• Strong analytical skills with sound understanding of mathematics,
+probability, and statistics and exposure to financial mathematics and
+econometrics concepts
+• Experience with server-side web service frameworks for Java or Scala
+• Proficiency in Python, R, Matlab, or other data analysis packages
+• Desire to learn Scala to develop business logic and data management in a
+Spark environment
+• ORM tools
+• Experience with RDMSs like SQL and Oracle
+• Understanding of NoSQL database technologies
+• Code management, versioning, and deployment using tools like Bitbucket,
+Jenkins, Slack, and Jira
+• Familiarity with practical applications of advanced analytical concepts
+(Machine Learning, NLP, Deep Learning, etc.)
+• Familiarity with LEAN/Agile concepts
+• Preferred Educational Qualifications: BS or MS in Computer Science, Computer
+Engineering or equivalent is preferred
+
+ 
+
+  • Apply
+  • 
+  • View All Jobs
+
+Want to work for one of our companies?
+
+Are you confident, energetic, and passionate about business and technology?
+
+Vista Equity Partners employs a network of skilled and dedicated investment
+professionals, consultants, and business leaders. We are committed to long-term
+value creation, and we help software and technology companies to reach their
+full potential by combining investment with operation improvements, best
+practices, and long-term strategy.
+
+Send us a resume if you think you’re a good match for our team and our
+portfolio of companies. If there is a match found between your employment
+background and our current needs, we will contact you to schedule an interview.
+Otherwise, we will keep your resume and profile in our database for future
+opportunities.

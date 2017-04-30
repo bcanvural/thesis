@@ -1,0 +1,96 @@
+[civisanaly]
+
+New Graduate - Software Engineer
+
+Chicago, IL
+Tech
+Full-time
+Apply for this job
+
+Software Engineers are responsible for building and maintaining the backbone of
+Civis Analytics -- the processing, automation, tooling and front-end products
+that create new opportunities for our clients and serve as a multiplier of the
+work done by our teams. As a Software Engineer, you will join our Chicago-based
+technology team, working collaboratively with other engineers, analysts, and
+data scientists to serve internal and customer needs. Software Engineers have
+near-endless opportunities to create new products and improve existing
+processes, from backend data processing to visualization and analytics tools,
+and we welcome your creativity. Whether you're a generalist or an expert in web
+apps, big data, stats, or visualization, we want to talk to you.
+
+We are looking for individuals from a wide range of backgrounds with
+demonstrated quantitative and problem-solving skills. We value creativity, hard
+work and on-the-job-excellence and offer competitive compensation and benefits
+packages. In compliance with federal law, all persons hired will be required to
+verify their identity and eligibility to work in the United States.
+
+What's great about being an engineer at Civis Analytics?
+
+Your code will make the world a better place. Our engineers don’t just
+experience the thrill of solving interesting problems, they also have the
+satisfaction of knowing that their work makes a difference in the world. We
+don’t shy away from helping companies beef up their bottom line, but we also
+devote significant resources to projects that do good.
+
+You will learn. Our engineers, data scientists and analysts are not only the
+best and brightest in their fields, but are also eager to teach and learn from
+you. We send our engineers to conferences and workshops they're interested in.
+Need software, a book, or AWS instance to help you with your work? Consider it
+done.
+
+Your work will be diverse. It is not like we have just one or two problems
+we're trying to solve over here. Every day we're learning and working on new,
+cutting edge problems at the intersection of technology, data science, and
+practical application. Engineers at Civis have the opportunity to move around
+from problem to problem.
+
+We trust our engineers. One of the perks of working with the best and brightest
+is that you're given the trust you deserve. Are you interested in pursuing a
+new way of solving an old problem? Nice -- give it a shot. Yes, you will still
+have a manager and deliverable, but we make a point of giving creativity the
+room and respect it deserves.
+
+Your voice can change the direction of a project. We strongly encourage our
+engineers to participate in the brainstorming and prioritization process. We
+don't want people that mindlessly program. We want your perspective and
+experience. Challenge our assumptions, make us rethink our strategy, and help
+us improve our solutions. Your expertise will be a critical part of our success
+and you'll be recognized for your contributions.
+
+We are smart, fun, and a little bit weird. Does this sound like you?
+
+MINIMUM QUALIFICATIONS
+
+      □ Bachelor’s degree in Computer Science, a related subject, or
+        commensurate work experience
+      □ Working familiarity with SQL databases
+      □ Experience with Ruby, Python and/or web frameworks such as Rails
+      □ 1+ years experience as a software developer/engineer (or for recent
+        graduates, a software development internship)
+      □ Love of problem-solving
+      □ An ability and eagerness to constantly learn and teach others
+
+
+PREFERRED QUALIFICATIONS
+
+      □ Experience with one or more of the following:
+      □ Developing large web applications
+      □ AngularJS (and HTML/CSS/Javascript/CoffeeScript)
+      □ Query optimization, database administration, analytics databases, and/
+        or NoSQL
+      □ Building APIs
+      □ Go (golang)
+      □ Automated software testing and continuous integration
+      □ Cloud application deployment and monitoring
+      □ Using and administering Amazon Web Services (AWS) products
+      □ Data visualization for the web (using D3 or similar)
+      □ MapReduce (AWS EMR, Hive, Pig, and/or Streaming)
+      □ Statistics and predictive modeling (using tools like pandas,
+        scikit-learn, NumPy, SciPy, R, STATA)
+      □ Political technology and data
+
+Apply for this job
+
+Civis Analytics Home Page
+
+Jobs powered by [lever-logo]

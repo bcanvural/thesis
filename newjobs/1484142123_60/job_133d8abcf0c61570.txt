@@ -1,0 +1,78 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Fran?ais
+Espa?ol                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [t9jdnwjj02jz641o5rfu]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-22676 - Sta]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Statistical Analyst / SAS Certification
+Next Job
+Next
+
+Ref No.:  16-22676
+Location: Irving, Texas
+
+Statistical Analyst
+1 Year Project
+Fortune 500 Company
+
+Years Experience: Must have the correct level of degree and years of experience
+required Skills: Familiar with a variety of the field's concepts, practices,
+and procedures. A wide degree of creativity and latitude is expected. SAS
+certification is required. Advanced certification is preferred. Education:
+Bachelor's degree in Statistics with at least 1 year of experience OR Masters
+degree in Statistics or related field with no prior experienceDuties: Analyzes
+and interprets data from various sources. Compiles reports, charts, and tables
+based on established statistical methods. Relies on extensive experience and
+judgment to plan and accomplish goals. Performs a variety of tasks. Typically
+reports to a supervisor or manager.
+[applicatio]Apply by creating/using account
+
+OK

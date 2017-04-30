@@ -1,0 +1,228 @@
+Skip to main content
+Menu
+
+  * Cotiviti Healthcare
+      + Who we serve
+      + Our clients? needs
+      + Our solutions
+      + Our service commitment
+      + Events
+      + CMS RAC
+  * Connolly
+      + Who we serve
+      + Our clients? needs
+      + Our solutions
+      + Our service commitment
+      + Events
+  * About Cotiviti
+      + Our focus
+      + Leadership Team
+      + News
+  * Careers
+      + Working at Cotiviti
+      + University Recruiting
+      + Opportunities
+  * Contact us
+
+  * Cotiviti
+  * Cotiviti Healthcare
+  * Connolly
+
+  * Home
+  * Careers
+
+Careers
+
+header image
+
+  * Careers
+      + Working at Cotiviti
+      + University Recruiting
+      + Benefits
+      + Diversity
+      + Opportunities
+
+Browse Open Jobs  |   Search Open Jobs  |   Edit Your Profile  |   View
+Submitted Applications
+
+Job Details
+
+Requisition Number    16-0948
+Title                 Data Scientist
+City                  Atlanta
+State                 GA
+Description           Cotiviti is looking for an industry leading Data
+                      Scientist to join a revolution in Healthcare and build a
+                      first-in-market analytics capability. This is a
+                      pioneering data scientist who will participate in
+                      expanding the new analytics backbone of the company.
+                      Cotiviti?s first-in-market analytics capability is
+                      powered by social networking technology and enables a
+                      more efficient experience for both healthcare providers
+                      and customers. As a Data Scientist at Cotiviti you will
+                      be given the opportunity to work directly with a team of
+                      healthcare professionals including analysts, clinicians,
+                      coding specialists, auditors and innovators to set
+                      aggressive goals and execute on them with the team. This
+                      is for an ambitious technologist with the guts,
+                      flexibility, and personal drive to succeed in a dynamic
+                      environment.
+
+                      Who You Are
+
+                        * Curious: You enjoy peeling apart a problem and
+                          examining the interrelationships between data that
+                          may appear superficially unrelated.
+                        * Creative: You constantly invent and try new
+                          approaches to solving problems, which often times
+                          have never been applied in such contexts before.
+                        * Practical: You explore theories with an eye to the
+                          real world application to the business and the
+                          potential for improving performance for clients and
+                          customers.
+                        * Focused: You're intent on designing and testing a
+                          technique over periods of days and weeks, discovering
+                          what is successful and what should be optimized
+                          further. Furthermore, you learn from the failure and
+                          trying again.
+                        * Determined: You will have both the challenge and
+                          opportunity to help design our analytical backend
+                          from the ground-up, and therefore must be comfortable
+                          as both a team member and a leader in our data
+                          science effort.
+
+                      Key Responsibilities
+
+                      You will build innovative tools to provide our clients
+                      with insights on how to improve their business. You will
+                      have responsibility for architecting and developing
+                      best-in-class analytics that create quantifiable value
+                      for our business. You will have responsibility for
+                      establishing and sustaining processes and practices that
+                      support big data and analytics solutions and applications
+                      in an open source environment. You should have a passion
+                      for creating solutions and driving innovation with an
+                      interest in collaborating with team members.  This role
+                      demands time spent working independently and as part of a
+                      team. You will also focus on specific deadlines defined
+                      by the management team.
+
+                        * Function as Data Scientist which carries the
+                          expectation to enhance an SaaS platform that
+                          integrates both relational and non-relational
+                          databases at scale with both algorithmic logic and
+                          front-end interfaces.
+                        * Participate in product development with leadership
+                          team meetings and communicate with advisors regularly
+                          on all matters regarding insights and technology
+                          developments.
+                        * Define the software architecture of the growing data
+                          analytics capability and build substantial portions
+                          yourself.
+                        * Architect and hands-on development of analytics
+                          solutions
+                        * Define and develop analytical, statistical and
+                          machine learning algorithms for advanced analysis and
+                          prediction
+                        * Architect, design, build and integrate solutions
+                          using Hadoop and open source solutions: Pig, Hive,
+                          Python, Ruby, Whatever, the Mahout machine learning
+                          library
+                        * Drive automation capabilities into platforms and
+                          solutions
+                        * Establish credibility and strong working relationship
+                          with development teams to review design and code for
+                          adherence to established standards and best practices
+                        * Acquire and ingest data from a variety of sources to
+                          extend our products and solutions (innovate)
+                        * Evaluate current databases to determine if we can do
+                          better using Hadoop
+                        * Deliver using an Agile development process
+                        * Maintain our repository and other relevant
+                          documentation
+                        * Architect and hands-on development of Analytics
+                          solutions
+                        * Define and develop analytical, statistical and
+                          machine learning algorithms for advanced analysis and
+                          prediction
+                        * Architect, design, build and integrate solutions
+                          using Hadoop and open source solutions: Pig, Hive,
+                          Python, Ruby, Whatever, the Mahout machine learning
+                          library
+                      
+Requirements          Basic Qualifications
+
+                        * MS or PhD. Degree in relevant discipline (Math,
+                          Statistics, Computer Science, Engineering or Health
+                          Sciences)
+                        * 7 - 10 years? experience in advanced analytics
+                        * 5 - 10 years? experience in a data architecture role
+                          with deep understanding of architecture principles &
+                          best practices
+                        * Experience in Big Data and Hadoop analytics
+                          environments
+                        * Experience with multiple scripting languages (Python,
+                          Ruby, Spark, Scala, Hive, etc.)
+                        * Experience in Agile environment
+                        * Working knowledge of the Hadoop ecosystem (including
+                          creating and debugging)
+                        * Must have flexibility and willingness to participate
+                          in the work processes of an international
+                          organization, including conference calls scheduled to
+                          accommodate global time zones
+                        * Extensive experience in fully architecting and
+                          executing complex analytical backends
+                        * Expert proficiency with Node.js and SQL; Expert
+                          proficiency in one or more programming languages such
+                          as Java, Perl, Python, et al; Expert proficiency in
+                          at least one statistical modeling program like R,
+                          MATLAB, or Stata
+                        * Expert experience in machine learning, artificial
+                          intelligence and/or artificial neural networks
+                        * Expert knowledge of various mathematical and
+                          statistical models to include, but not limited to:
+                          Discrete Event Simulation, Factor Analysis, Genetic
+                          Algorithms, Bayesian
+                        * Probability Models, Hidden Markov Models and
+                          Sensitivity Analysis
+                        * Ability to setup and maintain database for extremely
+                          large datasets using current database technologies
+                          (ex. Hadoop)
+                        * Strong experience in using application programming
+                          interfaces (API)
+                        * Proficient in the big data ecosystem with familiarity
+                          with Hadoop, Yarn, Spark, and/or Storm
+                        * Proficient in at least one big data store, for
+                          example: hBase, Cassandra, Hive, etc.
+                        * Proficiency with MongoDB with BSON
+                        * Demonstrated technical abilities to engineer products
+                          that large datasets, with tools that may include:
+                          Cluster computing, Grid Computing, Graphical
+                          Processing Unit Computing
+                        * Commercial Cloud Systems such as Amazon Elastic Cloud
+                          Compute EC2
+                      
+  * We are an Equal Opportunity Employer.
+  * Please view Equal Employment Opportunity Posters provided by OFCCP here.
+
+  * Cotiviti is an Equal Opportunity Employer. The Company provides equal
+    employment opportunities to all applicants for employment without regard to
+    gender, sexual orientation or preference, gender identity or expression,
+    race, color, religion, national origin, ethnicity, ancestry, age, marital
+    status, pregnancy, childbirth or related medical conditions, mental or
+    physical disability, veteran status or any other characteristic protected
+    by federal, state or local law, ordinance or regulation.
+
+                      Apply On-line
+                      Send This Job to a Friend
+  * Twitter
+  * Facebook
+  * LinkedIn
+  * YouTube
+  * Google+
+
+  * Privacy Policy
+  * Terms of Use
+
+? Cotiviti Corporation.
+

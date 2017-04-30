@@ -1,0 +1,96 @@
+Conviva Careers
+
+Data Scientist
+
+Engineering Foster City, California
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+Conviva's real time big data platform processes over 4.5 billion video streams
+a month from more than 1.6 Billion unique devices, receiving and analyzing
+anywhere between 300 Billion events on an average day to 2 Trillion events a
+day during high visibility and popular events. Our platform has global reach,
+with customers in over 180 countries and our global customer base includes
+premium entertainment, news, sports and media brands, as well as leading
+service providers such as HBO, Disney, ESPN, Major League Baseball (MLB) and
+Comcast, delivering live and on demand content in both subscription and
+ad-supported models. As a valued, strategic partner, Conviva is helping the
+world?s most respected media brands to take control of their viewing experience
+and navigate the changing business of television.
+
+
+The Data Scientist position requires solid mathematics and statistics training,
+and good experience using various data analysis models (such as various
+regression, clustering, machine learning and data mining methods) and tools
+(such as R, scikit-Learn or similar packages) to help analyzing billions of
+streams per month Conviva collects for the on-line video services. The work
+involves uncovering key insights about how customers discover and interact with
+on-line access media to support and qualify critical business decisions,
+identifying the important relationships among various quality metrics (such as
+video start failure, re-buffering and nitrates) and user engagement metrics
+(such as play time, retention) and providing input to client and backend
+optimization algorithms that improves the viewers' experience.
+
+Our data collection and analysts are unparalleled in the industry and top
+candidates for this position should be experts in identifying new trends and
+new opportunity for analysis, as well as be capable of providing innovative
+interpretation and presentation of data and discovery.
+
+ 
+
+Detailed Responsibilities
+
+  * Mine and analyze data pertaining to customers? discovery and viewing
+    experiences to identify critical product insights
+  * Proactively develop new metrics and studies to quantify the value of
+    different aspects of discovery
+  * Establish ongoing reports to continually measure performance
+  * Use and develop data mining tools and portals for analysis and reporting of
+    online video streaming statistics
+  * Interpret analytical insight of statistical data with the appropriate
+    business context and provide guidance to business decisions
+  * Partner closely with product and engineering leaders throughout the
+    lifecycle of launching products and features
+  * Ensure necessary data is captured, analytic needs are well-defined, and
+    development timelines are coordinated with analytic needs
+  * Prepare high-level presentations of data for board and executive review
+  * Research/analyze and prepare requirements for data products by engaging
+    directly with content publishers, as well as work with the team to execute
+    on these products
+
+Requirements
+
+  * Bachelor?s or Master?s degree in Computer Science, Engineering, Math,
+    Statistics, or related
+  * Experience with mining large data-sets
+  * Experience utilizing SQL, Hive/Hadoop, or similar technologies
+  * Experience with distributed systems such as Spark and Hadoop.
+  * General-purpose languages such as Scala, Java, or Python.
+  * Familiarity with data analysis using R, Python or MLlib
+  * Proficiency in Data Visualization tools
+  * Must be focused on data accuracy and integrity
+  * Expert in data presentation/communication both internally and with
+    publisher clientele
+  * Detail-oriented and organized with all work product
+  * Excellent verbal and written communication skills
+  * Ability to work well in a fast-paced start-up environment
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

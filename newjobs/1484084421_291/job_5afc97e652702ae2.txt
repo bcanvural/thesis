@@ -1,0 +1,127 @@
+View Our Website View All Jobs
+[2016031620]
+
+Thanks for visiting our Job Board. Please review our open positions and apply
+to the positions that match your qualifications.
+
+Network Data Scientist
+
+  * San Francisco, CA
+  * Full Time
+  * Software Engineering
+  * Mid Level
+
+  *  
+  *  
+  *  
+
+About ThousandEyes
+
+The name ThousandEyes was born from two big ideas: the power to see things not
+ordinarily possible and the ability to collect insights from a multitude of
+vantage points. As organizations rely more on cloud services and the Internet,
+the network has become a "black box" outside of their control. ThousandEyes
+gives organizations visibility and insight into the now borderless network. It
+arms them with an accurate understanding of how the network impacts their
+applications, users and customers. ThousandEyes is used by some of the world's
+largest and fastest growing brands, including 4 of the top 5 SaaS companies, 4
+of the top 5 US banks and 3 of the Fortune 5. ThousandEyes is backed by Sequoia
+Capital, Google Ventures, Tenaya Capital and Sutter Hill Ventures, with
+headquarters in San Francisco, CA.
+
+About the Role
+
+We are looking for a network measurements expert that can apply big data
+analysis and advanced visualization techniques to massive volumes of data
+collected from some of the largest enterprise and public networks in the world.
+You will help us analyze a wide-ranging array of network events, long-term
+trends, benchmark service providers, Internet-wide outages, DDoS attacks and
+overall network health. The analysis will be used to educate the market on what
+really happens in the Internet as well as to improve the inference schemes
+within the ThousandEyes product. This role requires a deep domain knowledge of
+Internet protocols (DNS, TCP/IP, BGP, HTTP), previous experience with network
+measurements and a record of publications in technical conferences in computer
+networks.
+
+Requirements:
+
+  * Existing portfolio of network measurement projects
+  * Expert knowledge in Internet protocols (TCP/IP, DNS, BGP, HTTP)
+  * Expert in Python or Java
+  * Experience with MySQL and NoSQL (e.g. Mongo, Hadoop)
+  * Superb written, verbal and persuasive communication skills
+  * PhD or MS in Computer Science 
+
+A plus if you have:
+
+  * Experience analyzing BGP routing streams
+  * Experience with traffic analysis (netflow/IPFIX)
+  * Experience with tcpdump and libpcap
+  * Experience with distributed/real-time systems
+
+Read More
+Apply for Position
+
+Apply for this position
+
+Required*
+ 
+Apply with LinkedIn
+Apply with Indeed
+First Name* [                    ]
+Last Name* [                    ]
+Email Address* [                    ]
+Phone* [                    ]
+Resume*
+Attach resume or Paste resume
+Attach resume as .pdf, .doc, or .docx (limit 2MB) or Paste resume
+[                    ]
+
+Paste your resume here or Attach resume file
+
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+             [                    ]
+             [                    ]
+             [                    ]
+             [                    ]
+Cover Letter [                    ]
+Can you tell us about the biggest project on network data analysis you were
+involved in? Which tools did you use?* [                    ]
+What software development experience do you have and what languages are you
+more familiar with? If you have a github or code sample please send it.* 
+[                    ]
+Can you tell us about the networking-related publication that you wrote which
+had the most citations/views? [                    ]
+What networking-related projects are you following?* [                    ]
+Based on what you know about us, what would you find most interesting about
+working at a company like ThousandEyes?* [                    ]
+Are you willing to relocate? [No answer]
+What's your citizenship / employment eligibility?* 
+[No answer                                       ]
+Submit Application
+?Close
+
+Forward This Position
+
+Recipient Email Address (one) [                    ]
+Your Name [                    ]
+Your Email Address [                    ]
+Enter a message (optional)
+The message cannot contain links
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+Human Check*
+
+[                                        ] 
+[                                        ] 
+[                                        ] 
+[Send Message]
+Powered by [jazz-logo]

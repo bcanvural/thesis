@@ -1,0 +1,106 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Français
+Español                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [hujdnwvdls154ljxyxi7]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-03477 - Dat]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+        How were you referred to us? []
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Data Scientist
+Next Job
+Next
+
+Ref No.:       16-03477
+Location:      Sunnyvale, California
+Position Type: Contract
+
+Who We Are
+Watched a movie online ?accessed an email? Used a cloud ? Odds are that you are
+already been using Equinix data centers in some form.
+Equinix operates International Business ExchangeTM where information driven
+world lives and thrives. Equinix IBXs provide a platform where many of the
+world's best brands are launching their next break through innovations.
+
+What we are looking for
+We are looking for highly motivated Individual who will work with various
+members of Data Intelligence & Science (DISc) team to address challenging data
+science problems by leveraging techniques in statistics, machine learning or/
+and data mining.
+
+
+Ideal Candidate should be :
+
+• Masters/Bachelor degree in Statistics/Applied Math/Operational Research or
+related field
+• 5+ experience of working experience in software or related industry
+• 2+ experience as data scientist working on various data science projects.
+• Experienced in developing machine learning models for real-world problems
+using R, python or other languages
+• Familiar with big data technologies like Hadoop, Hive, Pig and Spark
+• Able to conceptualize prototypes and evolve them to full fledge solutions
+• Able to articulate the findings and work in a team environment
+
+Do not share the info below with candidates (only for internal use):
+Phd/Masters in Statistics/Math
+-          We work extensively on R/Python/Spark. We would love to see atleast
+one in the resume.  Any resumes with none of these will not be looking into
+seriously.
+-          Experience wrt to Data science specific work. Note that I am
+interested in development of algorithms and models.
+-          Ability to analyze data that is not clean. I do this by asking them
+data analysis questions of day to day things. There is no perfect answer here,
+but I would like to see how they think to solve the problem.
+-          Communications. Ability to articulate complex problem with
+simplicity is a big winner.
+[applicatio]Apply by creating/using account
+For all W2 Contract positions, no C2C is allowed.  Please respond only if you
+are applying for position yourself and can be a direct employee of Intellipro
+Group Inc.  *No Recruiters or C2C*
+OK

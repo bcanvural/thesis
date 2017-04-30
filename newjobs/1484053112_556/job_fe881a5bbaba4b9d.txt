@@ -1,0 +1,159 @@
+Go to our website »
+
+[2014052820]
+
+« Go back to job listings
+
+Data Scientist, Group Leader
+
+Location: South San Francisco, CA
+
+Department: Informatics
+
+Type: Full Time
+
+Min. Experience: Mid Level
+
+Description: A fast-paced and innovative venture capital funded biotechnology
+company seeks an energetic and experienced Data Scientist with a passion for
+exploring complex challenges in machine learning for metagenomics
+applications.  The ideal candidate for this position will likely have a Ph.D.
+degree, or equivalent experience, in CS, Machine Learning, Bioinformatics,
+Statistics, Molecular Biology, Microbiology or related field with publications
+demonstrating the application of machine learning techniques to novel problems,
+ideally to solve molecular biological questions.  This group leader will
+manage two other informaticists.  An ability to innovate is a key attribute;
+therefore we are looking for a scientist who has advanced the field with novel
+approaches in data pre-processing/normalization, feature engineering, feature
+selection or novel biological interpretations.
+
+Key responsibilities:
+
+  • Set weekly goals for group and coordinate with Project Managers (diverse
+    biologists) to ensure timely delivery of analyses.
+  • Meet with internal and external collaborators to plan the scope and
+    sequence of ML experiments then oversee feature extraction, feature
+    engineering, method selection, parameter tuning, and overall
+    interpretation.
+  • Prepare internal and external communications (presentations and papers).
+  • Implement multiple machine learning approaches to determine the feature
+    combinations useful for classification or regression.  Create classifier
+    models and estimate performance.  Determine the model’s predictive value
+    relative to the purpose.
+  • Mine Second Genome’s KnowledgeBase of genomic, metagenomic and
+    metatranscriptomic gene sequences to identify sequences matching a
+    predictive model. 
+  • Incorporate laboratory findings into training data to further refine
+    models.
+  • AWS cloud deployment of “big data” processing pipelines.
+  • Present results internally and externally to computational biologists and
+    molecular biologists, integrate observations and feedback and execute
+    follow-up analyses.
+
+Minor responsibilities:
+
+  • High-throughput decomposition of sequence data into hundreds of features
+    including structural, physicochemical, and genomic neighborhood attributes.
+  • Assist in the design of metagenomics experiments to reveal gene, protein
+    and metabolite diversity in complex microbial communities.
+  • Annotate proteins using reference databases such as Pfam, KEGG, MetaCyc,
+    Uniprot and others.
+
+Required attributes:
+
+  • Able to leverage existing machine learning software packages with
+    proficiency in Python/scikit-learn/TensorFlow, R/caret, Scala, Spark, etc,
+    to execute analyses in a Linux environment.
+  • Experience with software deployment in cloud, especially Amazon AWS (EC2,
+    RDS, SQS and S3).
+  • Ability to manage multiple fast-paced projects simultaneously.
+  • Source code revision control such as SVN, git, or related systems.
+  • Four years of machine learning experience.
+  • Two years of full time biotech or pharma experience.
+
+Preferred attributes:
+
+  • Ability to analyze large-dimensional data from a variety of meta‘omics
+    platforms including metagenomics, metatranscriptomics, metametabolomics,
+    metaproteomics, microarrays and16S rRNA gene profiling.
+
+The ability to work as a team member and a willingness to become part of a
+fast-paced, entrepreneurial biotech drug discovery atmosphere is a must. Strong
+interpersonal communication skills and self-motivation are highly desirable and
+the candidate must demonstrate an understanding of the general business aspects
+of a biotech organization. Competitive salary and benefits commensurate with
+experience; stock options and annual bonus are part of a compensation package.
+
+ 
+
+  • Share on Facebook
+  • Share on LinkedIn
+  • Share on Twitter
+
+Forward this Position
+Recipient email address (one)
+[                    ]
+Your name
+[                    ]
+Your email address
+[                    ]
+Enter a message (optional)
+[                    ]
+[Send Message] [Cancel]
+
+« Go back to job listings
+
+Apply for this Position
+* Required fields
+[apply_with]
+First name*
+[                    ]
+Last name*
+[                    ]
+Email address*
+[                    ]
+Location *
+[                    ][                    ][                    ]
+[                    ]
+Phone number*
+[                    ]
+Resume*
+
+Attach resume or Paste resume
+
+Attach resume as .pdf, .doc, or .docx (limit 2MB) or paste resume
+
+[                    ]
+
+Paste your resume here or attach resume file
+
+[                    ]
+[                    ]
+Cover Letter
+[                    ]
+How many publications have you authored/co-authored applying machine learning
+techniques to solve molecular biological problems?*
+[                    ]
+How many years of machine learning experience do you have after you completed
+your formal education?*
+[                    ]
+How many years of biotech/pharma experience do you have?*
+[                    ]
+What’s your citizenship / employment eligibility?
+[No answer                                       ]
+What’s your highest level of education completed?
+[No answer                                  ]
+Website, blog or portfolio:
+[                    ]
+Earliest start date?
+[                    ]
+In 150 characters or fewer, tell us what makes you unique. Try to be creative
+and say something that will catch our eye!*
+[                    ]
+Human Check*
+
+[                                        ] 
+[                                        ] 
+[                                        ] 
+Social recruiting and Applicant Tracking System [Submit Application] [Cancel]
+Social recruiting and Applicant Tracking System

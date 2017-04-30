@@ -1,0 +1,130 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Fran?ais
+Espa?ol                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [f9jdnw9axoq1t0ibwwck]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-01674 - Sr.]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Sr. Data Scientist
+Next Job
+Next
+
+Ref No.:       16-01674
+Location:      Memphis, Tennessee
+Position Type: Direct Placement
+Start Date:    12/22/2016
+
+Overall Responsibilities:
+
+  * Research various analytical approaches
+  * Recommend and develop mathematical algorithms for related business problems
+  * Communicate and direct development teams on implementation of statistical
+    models
+  * Interface with Business users and gather feedback on delivered analytical
+    data.
+  * Deploy solutions on to big data platforms
+  * Functional Responsibilities:
+  * Specific tasks include but are not limited to:
+  * Work on one of following initiatives within Predictive Client Analytics
+    group: RFM recommendations, CCAR and other projects TBD
+  * Validation of analytical approaches produced by vendor and 3rd party
+    consulting teams
+  * Developing data validation methods
+
+Technical / Analytical Skills:
+
+  * Excellent understanding and experience with application of machine learning
+    concepts and techniques (linear/logistic regression, clustering,
+    classification, PCA, Naive Bayes, association rules, Collaborative
+    Filtering, recommendation techniques etc.)
+  * Experience with regression techniques for modeling the relationship between
+    an output variable and several input variables
+  * Experience with Big Data technologies
+  * Experience with visualization tools like Tableau
+  * Experience creating interface specification documents, attribute mapping
+    documents, functional specifications
+  * Experience with web scraping
+  * Experience with Text Matching applications
+
+Nice to have:   
+
+  * Understanding of regulatory guidelines (CCAR, Basel) around Model Risk
+    Management
+  * Working knowledge of various Fixed Income and Equities products, for
+    example Derivatives, FX and Cash Equities
+  * Essential Skills
+  * Strong verbal and written communication skills
+  * Strong research skills
+  * Python, R, SQL, Hive, Spark
+  * Statistical analysis: To understand and work around possible limitations in
+    models
+  * Being able to develop hypothesis and test the Hypothesis  with careful
+    experiments
+  * Research and implement data mining machine learning algorithms in
+    supervised and unsupervised learning areas
+  * Should have experience with time series modeling
+  * Should have experience with optimization approaches
+  * Familiarity with the Big Data Ecosystem tools: Hadoop, Hive, Impala,
+    Mahout, Spark(Spark SQL, MLLib),Hbase and be comfortable with the using the
+    tools
+  * Strong experience in data manipulation using SQL on Hive/Impala  or other
+    Databases
+  * Experience in developing and deploying model with Mahout, Spark MLLib is
+    preferable.
+  * Must be proficient in programming either R/Python/Scala.
+  * Should have experience in Financial services industry -Capital market would
+    be preferable
+  * Should have exposure to Data Visualization tools: Tableu(Preferable)/
+    Qlickview/Excel
+
+ 
+[applicatio]Apply by creating/using account
+
+OK

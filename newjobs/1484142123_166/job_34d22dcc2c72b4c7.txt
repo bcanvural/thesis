@@ -1,0 +1,80 @@
+[Machine]
+
+Data Science Engineer
+
+Palo Alto, CA
+Data Platform
+Full-time
+Apply for this job
+
+Data driven decision-making is an integral part of life at MZ. It spans all
+business units and projects and keeps us on the cutting edge of the market.
+We?re looking for talented Research Scientists to continue to drive decisions
+company-wide through the use of statistical modeling and machine learning.
+
+You should have an extensive background in a quantitative field, a strong
+research background, and experience working with large data sets. You should be
+results-driven, highly motivated, and have a track record of using data
+analytics to drive the understanding, growth, and the success of a product.
+
+You?ll work with top-talent and cutting edge technology on next-generation
+games and platform technologies, and you?ll have a unique opportunity to turn
+your insights into products used by millions!
+
+About You:
+
+      + You have a deep research interest in developing novel statistical
+        modeling and machine learning algorithms 
+      + Data analysis is second nature for you 
+      + You love building new products and can take an idea from inception, to
+        development and production 
+      + You?re a team player and an effective communicator
+
+What you'll do:
+
+      + Research new algorithms for real-time anomaly/breakout detection 
+      + Collaborate with colleagues across multiple teams on unique challenges
+        at scale 
+      + Research new algorithms to assess the efficacy of marketing campaigns 
+      + Research and develop methodologies to guide marketing strategies 
+      + Research and develop algorithms to analyze high velocity streaming
+        data 
+      + Design and evaluate experiments to monitor key product metrics,
+        understand root causes of changes in performance 
+      + Build user behavior models to guide product roadmaps 
+      + Design experiments to answer targeted questions 
+      + Understand ecosystems,user behaviors, and long-term trends 
+      + Identify levers tohelp improve key metrics across the organization 
+      + Represent MZ Research at external forums and conferences
+
+Your background:
+
+      + Ph.D. in Computer Science (with a Data Mining/Machine Learning
+        emphasis), or a Ph.D. in Statistics, or 5+ years of industry research
+        experience 
+      + Successfully published papers in top-tier peer-reviewed journals and/or
+        conferences 
+      + Extensive knowledge of time series analysis, classification,
+        clustering, or game theory 
+      + 3+ years experience with statistical modeling and validation 
+      + 3+ years experience with R/Matlab/Python 
+      + Experience mining data streams and frameworks (such as Spark streaming)
+        is a plus 
+      + Experience developinga nomaly and/or breakout detection algorithms
+      + Contributions to opensource (e.g., R packages) is a big plus
+
+What you'll play with:
+
+      + Massive amounts of real-time production data from the world?s largest
+        social game 
+      + R/Matlab/Python 
+      + Data stores such as Redis, Cassandra, MySQL 
+      + Diverse sets of other technologies (such as MapR, Erlang)
+
+#LI-POST
+
+Apply for this job
+
+MZ Home Page
+
+Jobs powered by [lever-logo]

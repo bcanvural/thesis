@@ -1,0 +1,324 @@
+  * Wireless
+  * Residential
+  * Business
+  * About Verizon
+
+Contact us
+Toggle navigation About Verizon
+Enter a search term 
+[                                                            ]
+  * Our Company
+      + Who We Are
+          o Diversity & Inclusion
+          o History & Timeline
+      + What We Do
+          o Wireless Network
+          o Broadband & Fiber
+          o Video & Advertising
+          o Internet of Things
+          o Managed Security
+          o Innovation Programs
+      + How We Operate
+          o Code of Conduct
+          o Supplier Diversity
+              # Supplier FAQs
+          o Public Policy & Regulatory
+          o State Government Affairs
+          o Company Policies
+          o Retirees
+      + Leadership
+      + Awards
+  * Responsibility
+      + Verizon Innovative
+        Learning
+          o App challenge
+          o Minority males
+          o Schools
+          o Design Thinking
+          o Innovative Learning Labs
+      + Domestic Violence
+        Prevention
+          o Get Involved
+          o FAQs
+      + Sustainability
+          o Emissions Profile
+      + Product Responsibility
+          o Accessibility
+          o Online Safety
+          o Frauds and Scams
+      + Reporting
+      + Giving and Grants
+          o Grant Requirements
+  * News
+      + Stories
+          o Personal Tech
+          o Enterprise Tech
+          o Community
+          o People
+      + Media Center
+          o News Releases
+          o Media Resources
+          o Media Contacts
+  * Investors
+      + Financial Reporting
+          o SEC Filings
+          o Annual Reports
+          o Quarterly Earnings
+          o Stock Information
+          o Dividend History
+          o Fixed Income
+      + News & Events
+          o Investor News
+          o Investor Webcasts
+          o Investor Calendar
+      + Corporate Governance
+          o Board of Directors
+      + Shareowner Services
+          o Cost Basis
+          o Shareowner FAQs
+      + Contact Investor Relations
+  * Careers
+      + Career Areas
+          o Stores
+          o Sales
+              # Retail Sales
+              # Inside Sales
+              # Enterprise Sales
+              # B2B Sales
+          o Customer Service
+              # Call Center
+              # In-store
+          o Technology
+              # Software Engineering
+              # Network Engineering
+              # Information Technology
+              # Research & Development
+          o Corporate
+      + Working Here
+          o Benefits
+      + College Students
+      + Military
+          o Military Skills Matcher
+          o Contact a Military Recruiter
+          o Military FAQs
+      + Locations
+      + Events
+      + FAQs
+      + Search Jobs
+      + Search Jobs
+
+Go to
+
+  * Verizon Wireless
+  * Verizon Business
+  * Verizon Residential
+  * Contact Us
+
+Search Jobs
+
+  * Career Areas
+      + Stores
+      + Sales
+      + Customer Service
+      + Technology
+      + Corporate
+  * Working Here
+      + Benefits
+  * College Students
+  * Military
+      + Military Skills Matcher
+      + Contact a Military Recruiter
+      + Military FAQs
+  * Locations
+  * Events
+  * FAQs
+
+ 1. Home
+ 2. Search Careers
+ 3. Strategic Planning - Full-Time
+ 4. Data Engineer
+
+Data Engineer
+
+  * Basking Ridge, NJ - United States
+  * Strategic Planning - Full-Time
+  * Job # 445697
+  * Date posted - 01-03-2017
+
+Apply Share this Job
+
+Responsibilities
+
+As the Lead Data Engineer for the Verizon's Innovation Team, you will be the
+authoritative subject matter expert on technologies that ensure the Team has
+access to the necessary data and the data is stored in a manner that
+facilitates analysis.  You will be responsible for understanding the Team's big
+data objectives, how they contribute to Verizon's success, and then
+investigating and implementing data engineering technologies that best support
+the Team's mission.  You will analyze cutting-edge technologies and make
+recommendations to Verizon executives on the future technologies Verizon should
+implement.
+
+As part of the Innovation Team, you will be working in a fast-paced environment
+focused on rapidly identifying, evaluating, and deploying big data solutions
+for Verizon.  You will interact with the data scientists developing new
+algorithms, the AnalyticOps teams who are productizing the new algorithms, the
+Verizon teams collecting data, vendors, and open source communities to develop
+a comprehensive understanding of data engineering techniques and trends so that
+Verizon big data becomes a competitive advantage in Verizon's mission to deploy
+the highest-quality, lowest-cost network.
+
+  * Work with data owners inside Verizon to understand what Verizon network and
+    IT data is available and get access to that data.
+  * Develop and implement solutions to move network and IT data into the
+    Innovation Team's lab environment.
+  * Modify, transform, clean, and normalize network and IT data so that is
+    usable by the Innovation Team's data scientists.
+  * Implement security mechanisms to ensure network and IT data is sufficiently
+    protected and only authorized personnal have access to the data.
+  * Author and collaborate on Technical Requirements, Specifications,
+    Proposals, High Level Designs, and other applicable engineering documents.
+  * Conduct detailed technology research on industry and vendor solutions for
+    managing data and implement new solutions in the Innovation Team's lab to
+    identify those which are the most promising.
+  * Provide thought leadership for the Data Infrastructure & Analysis team and
+    collaborate with cross-functional engineering teams to streamline or
+    improve adoption of analytics into their projects.
+
+Qualifications
+
+Must have:
+
+  * A Bachelor's degree in Computer Science, Electrical Engineering, or
+    Computer Engineering, or equivalent experience.
+  * One or more years of experience engineering ingestion and storage systems
+    for big data environments.
+  * Familiarity and practical experience with modern big data environments such
+    as Hadoop and Apache Spark.
+  * Familiarity and practical experience with modern big data storage
+    technologies such as HDFS and Apache Spark.
+  * Familiarity and practical experience with SQL and NoSQL databases.
+  * Familiarity and practical experience with modern big data access
+    technologies such as MapReduce, Hive, and Pig.
+  * Familiarity and practical experience with modern big data ingest
+    technologies such as Apache NiFi, Kafka, and Apache Flume.
+  * Experience with statistical software and scripting languages (R, Python).
+  * Experience with machine learning / machine intelligence techniques and
+    methodologies.
+
+Ideally, you?ll also have:
+
+  * Demonstrated ability to work in a team and independently on multiple high
+    priority projects. Proven ability to manage multiple high-visibility,
+    complex technical projects.
+  * Extremely strong problem solving skills.
+  * Strong written and oral communication skills.
+  * Demonstrated capabilities and knowledge in machine learning and machine
+    intelligence.
+  * Experience using machine learning technology to work efficiently with
+    datasets such as scripting and Unix/Linux experience.
+
+Not to boast, but a little bit about us
+
+Verizon powers America?s fastest and most reliable network. We?re also leading
+the way in cloud and security solutions, Internet of Things and video
+entertainment. Technology moves fast and so do we. We believe that bringing
+great ideas and customer experiences to life should be recognized and
+rewarded.  Whether you think in code, words, pictures or numbers, find your
+future at Verizon.
+
+ 
+
+Equal Employment Opportunity
+
+We're proud to be an equal opportunity employer - and celebrate our employees'
+differences, regardless of race, color, religion, gender, sexual orientation,
+gender identity, national origin, age, disability, or Veteran status. 
+Different makes us better.
+
+ 
+Apply Share this Job
+
+BACK TO SEARCH RESULTS
+
+Learn more
+
+Learn more about Strategic Planning jobs
+
+Your Careers Account
+
+Create or update your career account
+
+Related Careers
+
+Senior Manager - Predictive and Prescriptive Analytics - Basking Ridge, NJ,
+United States
+Business Intelligence Manager - Retail Distribution - Basking Ridge, NJ, United
+States
+Digital Analytics Specialist - Piscataway, NJ, United States
+Manager ? Business Intelligence - Basking Ridge, NJ, United States
+Senior Business Intelligence Analyst - Basking Ridge, NJ, United States
+Data Engineer - Basking Ridge, NJ, United States
+AnalyticOps Engineer - Basking Ridge, NJ, United States
+Data Scientist - Basking Ridge, NJ, United States
+Data Analytics Manager - Piscataway, NJ, United States
+Principal - Predictive Analytics - Basking Ridge, NJ, United States
+show all...
+
+Follow Verizon Careers
+
+Stay up-to-date with the latest news stories from Verizon.
+Follow us on TwitterFollow us on LinkedIn
+See all Verizon social channels
+
+Follow Verizon News
+
+Follow us on TwitterFollow us on LinkedIn
+
+Follow Verizon Giving
+
+Follow us on TwitterFollow us on FacebookFollow us on Google PlusFollow us on
+YouTube
+
+Follow Verizon Wireless
+
+Follow us on TwitterFollow us on FacebookFollow us on LinkedInFollow us on
+Google PlusFollow us on YouTube
+
+Follow Verizon FIOS
+
+Follow us on TwitterFollow us on FacebookFollow us on Google PlusFollow us on
+YouTube
+
+Follow Verizon Enterprise
+
+Follow us on TwitterFollow us on FacebookFollow us on LinkedInFollow us on
+YouTube
+
+  * Our Company
+  * Responsibility
+  * News
+  * Media Center
+  * Investors
+  * Careers
+
+Shop:
+
+  * Wireless
+  * Residential
+  * Business
+
+Verizon is a global leader delivering innovative communications and technology
+solutions that improve the way our customers live, work and play.
+
+?2017 Verizon
+BBB Accredited Business
+
+  * Privacy Policy
+  * Terms & Conditions
+  * Accessibility
+  * Important Wireless Issues
+  * Contact Us
+  * Sitemap
+
+stats

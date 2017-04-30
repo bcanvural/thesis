@@ -1,0 +1,140 @@
+V live copy
+Apply Now
+
+Data Scientist
+
+at Virtually Live (View all jobs)
+San Francisco
+
+The concept
+
+Virtually Live is a revolutionary, immersive technology which sits between
+attending a live game or event and watching it on TV. Our patented media system
+uses tracked statistical data and transposes it into a virtual venue. These
+productions may include sporting events in which the objects are players, balls
+or vehicles. Equally, performers can be tracked in live events such as music
+festivals, concerts and religious festivals.
+
+Initially, Virtually Live is focused on delivering a variety of sport
+experiences including soccer and motor racing. Data is streamed optically from
+multiple cameras or via GPS in real-time to track the positions of the actors
+in the event. This data is used to compute the positions and trajectories of
+all of the actors in the event and then render the event in a virtual stadium
+allowing any number of virtual participants to attend the event live. Through
+the Virtually Live participant-interface, one can witness the event from any
+angle including the POV of a race car driver, any player on the pitch.
+Participants can access all parts of the Virtual Stadium, make
+micro-transactions to buy the latest virtual fan merchandise for their personal
+avatar and interact with other virtual participants.
+
+The problem
+
+The crux of the problem is in processing the real-time data obtained from
+sensors in the real world into information rich enough to create VR
+experiences. The first challenge is related to data integrity - although
+technology is continually improving, tracking data cannot be completely
+accurate. Moreover due to the use of independent data capture methods, the data
+is frequently inconsistent. These data integrity issues need to be identified
+and corrected using a variety of analytical approaches. Another challenge is to
+determine the actions and/or events from the data streams by applying feature
+engineering and machine learning techniques to the game data. The relatively
+large number (dozens) of possible events of interest make this especially
+challenging. Finally, these methods have to be implemented into a low latency
+data processing engine for real-time viewership.
+
+Responsibilities
+
+As a data scientist you will work in a multi-disciplinary, international team
+on the challenging problems described above. Some of the responsibilities
+include:
+
+  • Perform specialized/advanced data analysis to develop algorithms for
+    sense-checking of real time streams
+  • Propose algorithms for correction of live sports tracking data.  Understand
+    systematic and random sources of errors and build algorithms to handle
+    these while honoring various physical and event constraints
+  • Apply machine learning techniques on large data sets of sports data to
+    identify events of interest in data
+  • Define a reusable toolkit and best practices for data processing of real
+    time streaming data
+  • Identify new datasets, problems; Propose, prove and implement
+    out-of-the-box ideas for solving problems never solved before!
+  • Contribute to defining the logic of the production system depending on the
+    integrity of the data  stream
+
+Qualifications
+
+  • Higher degree in a quantitative discipline, e.g., engineering/computer
+    science/statistics/applied mathematics/physics. Prefer background in one of
+    the following - real time sensor data applications (e.g. wearables, IOT
+    etc.), computer vision, robotics, signal processing, machine learning,
+    simulation, tracking etc.
+  • Experience handling large and high-dimensional data sets
+  • Advanced programming experience
+
+Ideal Skills
+
+  • Extensive programming in an analytical language/framework - Python, R,
+    Matlab etc.
+  • Demonstrable passion for sports  
+  • Passionate about technology development, particularly virtual reality  
+  • Keen to work in a startup culture
+  • Interested in the entertainment industry and positive about social media  
+
+What We Can Offer You
+
+  • Working within a remarkably diverse environment with an equally remarkable
+    diverse  group of international colleagues all of whom are passionate about
+    developing novel technologies.
+  • Competitive compensation package
+  • Comprehensive Health Care Benefits including Medical, Dental & Vision at no
+    cost to the employee!
+  • A generous PTO policy
+  • Monthly Healthy Lifestyle & Commuter Reimbursements
+  • 401K Plan
+
+About Virtually Live
+
+Virtually Live is the next generation media for global fans to experience and
+enjoy live sports and events.
+
+Founded by a track-record team responsible for some of the top media and
+technology businesses in Europe (Neuropro, TVN, SuperAwesome, WAYN.com, Intuit,
+Vungle), the company’s partners include some of the biggest names in Sports and
+Positional Tracking data.
+
+Virtually Live is based in San Francisco, with offices in Seattle, Zürich,
+London and Spain. For more information please visit www.virtuallylive.com or
+see our Angel List profile.
+
+ 
+
+Apply for this Job
+* Required
+First Name * [                    ]
+Last Name * [                    ]
+Email * [                    ]
+Phone * [                    ]
+Location (City) [                    ]
+Resume/CV *
+Drop files here
+File   X
+Attach Dropbox Google Drive Paste
+X
+[                    ]
+Cover Letter
+Drop files here
+File   X
+Attach Dropbox Google Drive Paste
+X
+[                    ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Why are you interested in joining Virtually Live?
+[                    ]
+LinkedIn Profile
+[                    ]
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[Submit Application]
+Share this job:  
+Powered by  Greenhouse Logo
+Read our Privacy Policy

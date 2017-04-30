@@ -1,0 +1,67 @@
+[radius]
+
+Machine Learning Software Engineer
+
+San Francisco, CA
+Engineering
+Full-time
+Apply for this job
+
+Radius is a fast-growing, venture-backed startup in the heart of San Francisco.
+Radius applies advanced data science to deliver the freshest, most accurate,
+and most comprehensive view on 20M+ US companies?from small businesses to the
+largest enterprises. We build cutting-edge machine learning solutions that help
+our customers discover markets, acquire customers, and measure performance
+through an app that?s intuitive, secure, and enterprise-ready.
+
+Radius is looking for a Machine Learning Engineer who is interested in using
+data science and engineering to enhance the graph of all U.S. businesses that
+is used by Radius applications. You will work on the Decisions team at Radius
+which is responsible for building the Radius Business Graph (which models about
+18+ million U.S. businesses and is built from dozens of sources and billions of
+records) and serves as the foundation of our Radius SaaS predictive marketing
+platform.
+
+Responsibilities:
+
+      + Working alongside top-notch data engineers and scientists to improve
+        our graph
+      + Designing, implementing distributed large-scale Machine Learning models
+        running in the Radius Graph data pipeline using Spark, Scala, GraphX
+        and MLLib
+      + Maintaining and improving some of our data pipeline, Machine Learning
+        infrastructure  and existing Machine Learning models using Spark,
+        Scala, GraphX and MLLib
+      + Assessing the impact of using new data sources on data quality and
+        comprehensiveness of our graph
+      + Partnering with other Radius engineering teams sourcing the data or
+        doing data quality analysis
+
+Requirements:
+
+      + Strong desire to work at a rapidly growing startup and make it a
+        success
+      + Thorough knowledge of machine learning, statistics, graph algorithms,
+        linear algebra, and numerical optimization
+      + 5+ years full lifecycle software engineering experience including:
+        coding, testing, troubleshooting and deployment using general-purpose
+        languages such as: Scala, Java, Python, and C++
+      + 2+ years experience with building production end-to-end machine
+        learning models at scale using distributed platforms such as Hadoop or
+        Spark
+      + Comfortable working in a remote Linux environment and Cloud (EC2)
+      + Advanced degree in computer science, statistics, mathematics, or
+        similar fields
+
+Additional Preferred Qualifications:
+
+      + Scala development experience
+      + Publications in top machine learning conferences or journals
+
+Radius is an Equal Opportunity Employer.
+
+Apply for this job
+
+Home Page
+
+Jobs powered by [lever-logo]

@@ -1,0 +1,104 @@
+[s]
+[vanahcm__t]   [vanahcm__l]   [vanahcm__f]   [vanahcm__E]
+   Title    Data Scientist
+ Location   Campbell
+Department  
+   Name
+            
+            Data Scientist
+
+            San Jose/Campbell, CA
+
+            THE COMPANY
+
+            As the #1 eCommerce platform for the Alexa top one million sites,
+            Magento empowers our clients to focus on engaging their customers
+            and growing their business. Our clients choose Magento so they can
+            build their business with the eCommerce platform that puts them in
+            control. We offer flexible, scalable eCommerce solutions designed
+            to help our clients grow and succeed online. Our cost-effective
+            technology platform makes it possible for our clients to control
+            the content, functionality, and look and feel of their online
+            store.
+
+            Magento is seeking a Data Scientist with a strong background in
+            Business Intelligence, mathematics, machine learning and a passion
+            for solving hard problems using computational methods.
+
+            The Data Scientist will be responsible for creating predictive
+            analytics, machine learning platform at Magento . He/she will be
+            interacting with Business understanding the analytical needs and
+            challenges and then work on creating solution for the Business.
+            Work with world class engineers and facilitate the development of
+            the analytics platform and products for the #1 Ecommerce Platform
+            on Internet Retailer B2B eCommerce guide.
+
+            Responsibilities
+
+            · Analyze data in source systems, build machine learning
+            algorithms, conduct A/B tests
+
+            · Conduct time series analysis, principal component analysis and
+            visualization to perform exploratory analysis of the target market
+
+            · Build models for business clients based on data aggregated from
+            various sources
+
+            · Propose accuracy measures and validation criteria for the model
+
+            · Communicate the results and methodology effectively within the
+            team and to external stakeholders
+
+            Requirements
+
+Description Educational background in relevant field (Computer Science, Applied
+            Math, Statistics, Operations Research, Physics, Computational
+            Biology, or other quantitative fields)
+
+            Experience with R or Python is critical
+
+            Skills
+
+            · Languages: Python (Scikit-learn, PySpark, MLlib, Pandas, NumPy),
+            R, Spark, SQL, JavaScript, A/B tests
+
+            · Data science workflows: Docker, Jupyter Notebook, R Studio, Mode
+            Analytics, Git
+
+            · Cloud computing: AWS (Redshift, S3, EMR), Talend, Tableau
+
+            · Any experience with EMR/Hadoop/Spark/ElasticSearch and buiding
+            applications end to end.
+
+            Cultural Attributes –
+
+              • Extend the understanding to the Business
+              • Capable of dealing directly with Business
+              • Passionate about building data sets to drive business decisions
+              • Able to think outside the box and come up with creative
+                solutions
+              • Self-starters with good communication skills
+              • Capable of multi-tasking
+              • Capable of holding meetings and making presentations to
+                audience
+              • Ability to clearly layout the challenges and work within BI
+                team and DW team
+              • Ability to write SQL, create tables, throw quick prototype etc
+
+            WORKING FOR MAGENTO
+
+            Working at Magento means becoming part of one of the fastest
+            growing commerce solutions companies on the planet. More than
+            240,000 merchants rely on us to fuel their growth.
+
+            A career at Magento puts you on the cutting-edge of the commerce
+            industry and offers many opportunities for advancement. And, as a
+            part of our family of products and services, you’ll also gain
+            valuable exposure to a wealth of commerce knowledge, experience, a
+            global customer and employee base, and world-class resources.
+
+            We’re always looking for talented people who want to help shape the
+            future of commerce, and who believe in the power of collaboration
+                                                                               
+  [Apply Now]
+[s]

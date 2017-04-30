@@ -1,0 +1,87 @@
+CrowdStrike Careers
+
+Sr. Data Scientist
+
+R&D Los Angeles, California
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply
+
+CrowdStrike’s Data Science team is expanding -- we are at the exciting
+intersection of Machine Learning, Big Data, and Security and are looking to add
+a Machine Learning expert to our growing team. You will have the opportunity to
+apply your ML skills to the bleeding edge of security technology. You’ll be
+able to leverage large-scale rich data sets and the corresponding ground truth
+to conduct meaningful supervised learning on it. We are a diverse and
+multidisciplinary team, and you’ll have the chance to broaden your horizons by
+working jointly with Big Data and Security domain experts on hard and impactful
+problems. We offer a fast-paced high-growth startup environment along with the
+safety that comes from being backed by Google Capital.
+
+<p
+
+You will…
+
+  • Work on cutting-edge research using rich and unique data sets coveted by
+    many in the industry, which include large-scale behavioral data with
+    billions of daily events and over 600,000,000,000,000 bytes of malware
+    sample files at your fingertips
+  • Mine large scale and high dimensional data, identify patterns, and
+    visualize trends
+  • Create predictive models using supervised learning techniques to detect and
+    stop the most sophisticated threats
+  • Work closely with domain experts to improve our raw data and to derive more
+    value from data collected
+
+<p
+
+You are…
+
+  • Very versed in utilizing Machine Learning techniques and intimately
+    familiar with the standard algorithms, their trade-offs, their usage, and
+    how to tune them
+  • Comfortable to work on very large data sets of sparse high dimensional
+    data; experienced in pre-processing and analyzing such data to gain
+    actionable insights
+  • An independent self-starter who likes to take ownership and independently
+    seeks out new challenges
+  • Always ready to learn and step outside of your comfort zone to blaze the
+    trail for new technology
+  • Comfortable to dive into a Python codebase; familiar with a scientific
+    computing framework such as Numpy or R
+  • Ready to learn and work with Big Data technologies such as Spark, Hadoop,
+    Pig, Cassandra, Redshift
+  • Comfortable to work in a Linux environment in the AWS cloud
+  • Interested to dive into the field of cybersecurity
+
+
+
+Location: Los Angeles (remote work is possible)
+
+
+
+
+
+
+CrowdStrike is an Equal Opportunity employer.  All qualified applicants will
+receive consideration for employment without regard to race, color, religion,
+sex including sexual orientation and gender identity, national origin,
+disability, protected veteran status, or any other characteristic protected by
+applicable federal, state, or local law.
+
+Apply Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Powered by Jobvite
+

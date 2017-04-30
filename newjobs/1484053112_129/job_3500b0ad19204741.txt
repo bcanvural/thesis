@@ -1,0 +1,117 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Français
+Español                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [dkjdnwsd3qobb1x3x7n5]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-43475 - Sci]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Scientific Programmer Analyst
+Next Job
+Next
+
+Ref No.:       16-43475
+Category:      eTeam United States
+Location:      San Diego, California
+Position Type: Contract
+
+Job Title - Scientific Programmer Analyst
+
+
+
+Scientific Information Systems
+2016
+Job Description-
+- Work with scientists to build quick turnaround tools to facilitate generic
+workflow capabilities of scientific data management
+- Maintain existing scientific system protocols and scripts on demand.
+- Assist vendors to implement new release update, develop and deploy new or
+enhanced protocols
+- Provide on demand data processing and transfer using PL/SQL procedures, shell
+scripts, wrapped up in cron jobs on Linux hosts, and etc
+- Create and implement new data processing templates
+- Provide end user support on data upload and search using existing templates
+and forms
+- Provide technical leadership to support successful delivery of technical
+solutions following defined company SDLC process as needed.
+- Collaborate with project architect, infrastructure team, project manager,
+vendor as needed.
+- Work with cross-functional teams to resolve technical issues
+
+
+Minimal Requirements-
+- Bachelor's Degree in Chemistry, Biology, Computer Science, Information
+Systems or equivalent
+- Basic understanding of the drug discovery process and chemical/biological
+data structures
+- Demonstrated experience with protocol development and maintenance for one or
+more of the following scientific systems: Dotmatics, ActivityBase, Electronic
+Laboratory Notebook (ELN), Spotfire, Genedata.
+- Experienced with KNIME, Pipeline Pilot, PL/SQL, VBA, Perl, Python, Linux
+Shell Scripting, MatLab, HTML, or any other similar script languages
+- Understanding and knowledge of Amazon Web Service (AWS) services and usage.
+- Excellent communication skills: Demonstrated experience of interacting with
+end user to gather requirements and business needs, and ability to perform
+designated tasks in a timely manner
+- Proactive approach to customers' needs and ability to design and demonstrate
+solution plans to improve current workflows
+- Project related technical leadership
+- Ability to multitask in a fast paced research environment
+- Ability to work independently and as part of a team
+- Highly motivated self-starter
+
+Desirable Skill and Experience-
+- Relational database development with oracle, or mySQL, and etc.
+- 5+ year working experience in pharmaceutical or biotech industry
+- Strong knowledge of solution development life-cycle (SDLC) techniques and
+industry best practice
+- Have both hands-on lab experience as well as computer/programming skills.
+[applicatio]Apply by creating/using account
+
+OK

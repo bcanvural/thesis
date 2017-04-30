@@ -1,0 +1,129 @@
+AlixPartners Careers
+
+Digital Data Scientist Analyst/ Associate
+
+Digital US - Nationwide, United States
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply Now
+Digital
+Predictive Modeling Data Scientist
+Analyst/Associate
+
+AlixPartners, a top tier-consulting firm, is seeking data science candidates
+for our team of highly successful predictive analysts.  If you have a passion
+for “wowing” business leaders with exceedingly progressive analytics
+techniques, working with managers who “get” the work you are doing and support
+your efforts fully, consistently jumping into new projects focused on
+innovation rather than “minding the lever” of past projects, working alongside
+a highly professional and astute team with IT support that’s lightning fast to
+jump to your aid, then AlixPartners is the place for you.
+
+Our Applied Analytics experts work within integrated teams from enterprise
+improvement to turnaround and restructuring; meaning the jobs we do cover the
+gamut of every layer of business.  Along with this, our seasoned professionals
+are recognized as experts in their respective fields, leveraging their skills
+and experience to create measurably improved outcomes for our clients.  In this
+challenging role, you will be responsible for using your new-age analytics
+skillset to drive both revenue and cost improvements for your clients in ‘high
+stakes’ situations.
+
+Specifically, in your role as a data scientist at AlixPartners, you will build
+predictive and prescriptive models and be challenged to then present the
+business case for the value of these models to your client.  Some examples of
+past work include predicting store performance for retailers, customer
+retention for telecoms, cross-selling opportunities for banks and hotel
+occupancy for the hospitality industry.  I hope that this sounds like the work
+environment you are looking for.
+
+The preferred location of this professional is in our Boston office.
+
+Responsibilities
+
+  • Predictive Modeling
+      □ Utilizing your algorithmic/programming toolkit, build predictive models
+        to improve profitability, growth, retention and other such key
+        performance indicators for our clients
+      □ Apply algorithms equal or similar to the following: elastic net
+        regularization for regression, random forests, generalized boosted
+        models, generalized additive models, support vector machines, neural
+        networks, and time-series forecasting
+      □ Implement formal modeling processes from end to end including data
+        gathering, data profiling, numerical model building, calibration,
+        cross-validation, putting product into production, etc.
+      □ After building the models, pilot “scorecards” to track model
+        performance and calculated improvement to business
+      □ Explain complex modeling approaches in layman’s terms and discuss
+        modeling results and business case impacts with non-technical business
+        users
+
+     Data Munging
+
+  • 
+      □ Collect data from a wide variety of corporate databases, including
+        various SQL databases (Microsoft, Oracle, Netezza, etc.), no-SQL
+        databases, Access databases, and Excel files
+      □ Utilize your toolset in regular expressions to extract information from
+        un-structured text documents
+      □ Handle missing data through an algorithmic approach such as multiple
+        imputation to enable insights in sparse and messy data.
+      □ Use your inner whiz-kid to feature engineer the data to boost model
+        accuracy
+
+Minimum Qualifications
+
+  • Bachelor’s degree in mathematics, business, statistics, economics, computer
+    science or equivalent combination of education and experience.
+  • 2-5 years of directly related experience
+  • Strongly motivated to be a player in a team which is constantly working to
+    improve themselves through discovering new analytics techniques and
+    software tools to improve the quality of our work
+  • Strong understanding and proficiency of predictive modeling techniques
+  • Superior research, statistical, analytical, processing and mathematical
+    skills with ability to structure and conduct analyses
+  • Ability to engage in model discussions with co-workers and give feedback as
+    required
+  • Proficiency in Microsoft Office Suite, SQL, and at least one of the
+    following: SAS, R, and/or Python
+  • Strong verbal and written communication skills
+  • Adaptability and the capability of multi-tasking and strong time management
+  • Thrive in a fast‐paced, entrepreneurial environment comprised of high
+    achievers and high client expectations
+  • Ability to work in a team environment and dynamically align to changing
+    business conditions
+  • Ability and willingness to travel 80%
+
+ 
+
+In addition to a positive workplace, the firm offers a competitive compensation
+package including an excellent benefit program (health, vision, dental,
+disability, 401K, tuition reimbursement).
+
+AlixPartners is a global firm of senior business and consulting professionals
+that specializes in improving corporate financial and operational performance,
+executing corporate turnarounds and providing litigation consulting and
+forensic accounting services when it really matters – in urgent, high-impact
+situations.  More information is available at www.alixpartners.com.
+
+All qualified applicants will receive consideration for employment without
+regard to among other things, race, color, religion, sex, sexual orientation,
+gender identity, national origin, (age), status as a protected veteran, or
+disability. AlixPartners is a proud Bronze award-winning Veteran Friendly
+Employer.
+
+Apply Now Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+  Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Powered by Jobvite
+

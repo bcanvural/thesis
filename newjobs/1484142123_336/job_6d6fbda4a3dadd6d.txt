@@ -1,0 +1,93 @@
+[logo]
+
+  * Browse Open Jobs
+  * Search Open Jobs
+  * Edit Your Profile
+  * View Submitted Applications
+
+Job Details
+
+
+                                                                   Apply Online
+                                                      Send This Job to a Friend
+
+
+Requisition Number    16-0127
+Post Date             11/11/2016
+Title                 Sr. Data Scientist
+City                  San Diego
+State                 CA
+Description           General Summary:
+
+                      We are a globally distributed technology firm that develops next generation
+                      financial products focused on managing life?s everyday expenses.  The decision
+                      science team will focus their efforts conceptualizing, developing, deploying,
+                      and maintaining new product and acquisition strategies by leveraging cutting
+                      edge technology and analytical concepts.  The Sr. Data Scientist ? Modeler will
+                      play a critical role in this process by performing cutting-edge predictive
+                      analytics and modeling to both drive growth and control risk within the
+                      business.
+
+                      Primary Responsibilities:
+
+                        * Design and Develop statistical models for usage in: Underwriting, Existing
+                          Customer Management, Marketing Campaigns, and Collections/Recovery.
+                        * Assessing, cleaning, merging, and analyzing large datasets.
+                        * Design and Develop business logic, pricing strategies, business forecasts,
+                          while optimizing profitability
+                        * Utilize advanced statistical software to develop linear/non-linear,
+                          parametric/non-parametric, and classical/machine learning based predictive
+                          modeling/data mining analytic methodologies to minimize credit/fraud
+                          losses, maximize response and approval rates, and/or profitability of
+                          products
+                        * Function as a leader within the Decision Sciences team and act as a mentor
+                          towards Data Scientists.
+                        * Assist with the implementation of scorecards
+                        * Writing of clear and detailed model documentation.
+                        * Frequent interaction with business partners to understand the needs and
+                          goals of the portfolio.
+                        * Provide solutions and ideas to business partners to solve complex modeling
+                          and other analytic problems.
+                        * Present findings and make recommendations to Risk Management team and
+                          business leaders including executives.
+                        * Complete all other projects as assigned.
+                      
+Requirements          Experience and Education
+                      :                                                                                     
+
+                        * Minimum M.S./M.A. in a highly quantitative field (Statistics, Economics,
+                          Mathematics, or other quantitatively-oriented degree) required.  Doctoral
+                          Degree is a plus.
+                        * Strong quantitative / statistical modeling capabilities, including with 2-3
+                          years of experience in credit scoring and model development.
+                        * 2-3+ years of experience within the consumer lending environment required.
+                        * Strong SAS (Statistical Analytical Software) skills preferred, with ability
+                          to conduct extensive data research required.  Candidates with experience
+                          with other software such as R, SPSS, SQL, MATLAB may also be considered.
+                        * Knowledge of typical data mining techniques is a plus.
+                           
+
+                      Required Skills and Abilities:
+
+                        * Ability to work in fast-paced environment with ever-changing demands.
+                        * Ability to manage multiple projects at one time, possibly including
+                          overseeing others projects.
+                        * Strong communication skills.  Must be able to clearly communicate in speech
+                          and writing with Risk Management peers, Marketing, Operations, Collections,
+                          Finance, and executives. 
+                        * You are comfortable working with Terabytes of information, coming from a
+                          large number of diverse sources, possibly in various formats.
+                        * You are comfortable working with a highly skilled analytics team.
+                        * You are comfortable being seen as a leader within the decision sciences
+                          community.
+                        * You will be required to be curious and innovative.  Problems to you are not
+                          unsolvable, they just need to be looked and explored differently. 
+                        * Works effectively in the face of stress, ambiguity, difficult situations
+                          and shifting priorities.
+                      
+                      Apply On-line
+                      Send This Job to a Friend
+
+                         An Equal Opportunity Employer
+
+Copyright ? Ultimate Software

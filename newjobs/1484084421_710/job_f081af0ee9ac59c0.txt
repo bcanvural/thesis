@@ -1,0 +1,250 @@
+
+xentity corporation
+
+Data Science Analyst (Denver, CO)
+
+
+Our Government and Large Commercial high-profile clients are high-tech
+organizations with programs in science, technology, engineering and math. For
+these positions, they are asking for us to provide data analysts that are
+passionate about transforming and making data usable for new services, business
+models, and to help economic development. We are looking for people that
+believe data is the new gold.
+
+We are looking for data analysts, data wranglers, data scientists with
+excellent leadership, technical, and subject matter expertise qualities.  We
+have projects lining up developing research-grade science data algorithms from
+in-situ sensors to bringing together data sources from disparate sub-agencies
+into enterprise platforms to make available on open-data platforms. We have
+projects that are creating data and bigdata prototypes whether it be on CartoDB
+geospatial, D3 Sankeys and various libraries, feeding and harvesting RDF
+Triplets into catalogs, or integrating into SEO environments. Admittedly, we
+have some less sexy data wrangling and janitor tasks that will require more ETL
+skills to hone in on.
+
+To boot, we want our analysts to be natural change agents and passionate about
+change while empathetic to the clients environment on how they leverage,
+mature, and incorporate data products, services, and new capabilities. We want
+leaders who can both support the influence of the right change direction while
+managing the technical and business analysis and design, and are skilled and
+self-motivated with solid domain/subject matter expertise.
+
+Our analysts will be on teams that, through facilitated analysis, work
+shoulder-to-shoulder with teammates to come up with the conceptual and logical
+design and architecture. Analysts will also be working very closely with client
+staff or system integrators to rapidly implement changes or agile release.
+Furthermore, we devise and craft strategies and communications solutions to
+broadcast and brag about their change efforts and results. This is what we do –
+we bring transformations to life.
+
+Position Requirements:
+You will be expected to rapidly ramp-up on client lingo, proactively make
+observations of patterns, anomalies, problems, and be customer service focused.
+You will be expected to be highly self-motivated and understand you will be
+held accountable to commitments. We look for decisive individuals able to
+rapidly respond to change requests and able to communicate, track, and escalate
+risk. We expect you to be proactive, efficient, and ready to learn quickly in
+response to all client and team member needs. This is a bootcamp-type position
+setup for growth.
+
+We want you to not only gain technical skills, but also grow your interactive
+and client facing skills. All roles will require strong communication and
+interactive skills - oral, written, visual especially for triaging conflict,
+ideation barriers, mitigating risk, foster thought diversity and team
+environment. We expect all our roles to have a mastery of their technical level
+at their role whether that be in architectural methods, languages, work
+products, consulting techniques, and client culture. If they are not, they need
+to demonstrate how they are VERY fast learners.
+
+For the technical prowess, we will want you to demonstrate your data science
+nerd-dom and technology stack as part of normal vernacular in one or many of
+these stacks (with the first being default requirement):
+
+  • Data Transformation – ETL, perl, python, SQL, FTP, Informatica, SAFE/FME,
+    Kettle, GeoKettle
+  • Machine Learning - Markov or Markov Chain, Naive Bayes, N-Grams,
+    Levenshtein distance or Damerau-Levenshtein distance, Fuzzy Search, NLP,
+  • Algorithm Development and Visualization – R, Octave, MatLAB, OpenCV,
+    Viola-Jones Haar-Cascade
+  • Geospatial Transformation – GEOJson, CartoDB, K-Means, Nearest Neighbor,
+    Anselin Local Moran's, Monte Carlo Simulation, Mantel Index, Standard
+    Deviational Ellipse, GeoServer, ESRI, ESRI/Hadoop, PostGIS
+  • Web BI – NodeJS, PHP, Web JavaScript libs like jQuery, ExtJS, D3JS, R
+    Project, HTML5, CSS3, Many more.
+  • NoSQL – MongDB, Hadoop, CouchDB, Solr, ElasticSearch
+  • Candidate should be experts in one of the disruptions cited on the Xentity
+    Home page
+  • 1 year of consulting experience – higher compensation for additional 3 more
+    years in related analytical work products and additional 2 more years in
+    subject matter
+  • Could pass ad-hoc technical and whiteboard test given various data ETL and
+    other patterns of real-time, large data, data cleanup, etc. scenarios
+  • For Federal work, our work is traditionally unclassified, but will require
+    certain amount of background, reference, and other checks
+  • Travel will be maximum 20%
+  • We emphasize a balance of work and life and target 40-50 hour weeks with
+    ample times to refresh with great paid-time off.
+
+More about Xentity
+We are a fast-growing data-first technology consulting and support services
+firm. Check out www.xentity.com to learn about our focus, services, clients,
+missions, values as well as our excellent benefits package and career
+information.
+
+
+We have high profile clients and projects that our staff really delivery for,
+as well enjoy knowing they make a large difference.
+
+Our President has a vision to continue to focus on solutions that transform the
+Next Generation. He seeks projects in renewable energy,
+integrating geosciences, high performance computing, big data and advanced
+concepts like fuzzy logic, changing interfaces points mobile or augmented
+reality and many more disruptions. He wants to continue to put the I back in
+Information Technology by concentrating on pragmatic designs, leadership and
+management, and the all too forgotten focus on outreach and engagement
+strategies and solutions.
+
+Department: Architecture
+This is a non-management position
+This is a analyst position
+
+Visit Careers at xentity corporation
+
+Subscribe to be notified of new jobs
+
+If we don't have an open position that fits you, feel free to subscribe to our
+Talent Team email! Enter your name, email address and position(s) you're
+interested in, and whenever we open a new position matching your criteria we'll
+notify you immediately.
+
+* First name: [                    ]
+* Last name: [                    ]
+* Email address: [                    ]
+* Send me openings in these areas:
+[ ] Architecture
+[ ] Operations
+[ ] Communications
+[ ]
+I'm interested in:
+
+[ ]Management [ ]Non-mgt
+
+Subscribe
+
+Share this job
+Apply Now
+Leave this field blank 
+
+Personal Information
+
+* First name [                    ]
+* Last name [                    ]
+* Email [                    ]
+Address [                    ]
+* City [                    ]
+* State [                    ]
+Zip code [                    ]
+* Phone number [                    ]
+
+Attachments
+
+* Attach your Resume [                    ] [file-uploa] Attach
+[                    ] [paste_18x1] Paste
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+[                    ]
+Attach a Cover letter [                    ] [file-uploa] Attach
+Portfolio Samples [                    ] [file-uploa] Attach
+
+Other Information
+
+* Can you pass a mandatory background check? ( ) Yes ( ) No
+* Can you show proof of your legal right to work in the United States? ( ) Yes 
+( ) No
+* Can you pass a mandatory drug test? ( ) Yes ( ) No
+* Can you work Locally to location in job description? ( ) Yes ( ) No
+* Below, did you provide a targeted salary you believe to be in-line with the
+position requirements? ( ) Yes ( ) No
+* Do you have 2 years work experience as a data analyst? ( ) Yes ( ) No
+* Would your pride allow yourself to say you are an "Expert Data Janitor"? ( ) 
+Yes ( ) No
+* Would you say you are at least intermediate in one of the other Tech Tiers
+(Middleware, Web App, Database, Configuration)? ( ) Yes ( ) No
+* Do you have either Bachelor's degree in field (CS, Geo, STEM) or 5 yrs
+experience in data support of Development Projects or Operations? ( ) Yes ( ) 
+No
+* Do you have Knowledge of data lifecycle engineering and warehouse
+architecture principles, concepts, and best practices? ( ) Yes ( ) No
+* Can you start within 1 month? ( ) Yes ( ) No
+* Do you have experience in either Agile/Iterative Development or Developing
+Demos/Pilots for Executives/Managers? ( ) Yes ( ) No
+How did you hear about this position? [                           ]
+* Please enter who you were referred by [                    ]
+* Please enter how you heard about this position [                    ]
+* Will you Relocate (Assistance may not be provided) to client location? 
+[                            ] * Salary desired (please provide number or
+       [                    ]                                                  
+range) [                    ] * Do you have 3 years of Government Experience as
+described? [                                                 ] Which Products
+Middleware Languages and products do you have hands-on experience? [ ] Apache
+[ ] Tomcat [ ] Lucene / Solr [ ] ElasticSearch [ ] Java / J2EE [ ] C [ ] 
+Finagle [ ] Finatra [ ] HA-Proxy [ ] Kafka [ ] Scala [ ] Thrift [ ] Other [ ] 
+None * Which Products Database Products do you have hands-on experience? [ ] 
+SQL Server [ ] Oracle [ ] MySQL [ ] Postgres [ ] Cloudera [ ] Hadoop, HDFS,
+HIVE, H-Base [ ] MongoDB [ ] MapReduce [ ] VoltDB [ ] DB on Linux [ ] Redis [ ]
+Other [ ] None Which Products integrated development environments/tools do you
+have hands-on experience? [ ] Intellij [ ] Eclipse [ ] Textmate [ ] Command
+line [ ] GIT [ ] Git-Flow [ ] Subversion [ ] Atlassian Agile capabilities [ ] 
+Maven [ ] Bower [ ] Puppet [ ] Other [ ] None Which Products web-based
+application technologies do you have hands-on experience? [ ] Ruby / Rails [ ] 
+Javascript frameworks (JQuery, etc.) [ ] MVC JS - AngularJS UI [ ] NodeJS [ ] 
+PHP [ ] Flex [ ] Spring framework [ ] Axis2 web service framework (SOAP, REST,
+etc.) [ ] PKI Security Programming [ ] Other [ ] None What is your strongest
+Framework? [ ] Java [ ] .NET [ ] Open-Source [ ] MVC Javascript [ ] Other [ ] 
+None What is your strongest OS? [ ] Unix [ ] Linux [ ] Windows [ ] Other [ ] 
+None What is your cloud platform experience? [ ] AWS [ ] Cloudera [ ] IBM [ ] 
+Azure [ ] Google [ ] other? [ ] None * Which BI Platform do you have hands-on
+experience? [ ] OBIEE [ ] Cognos [ ] SAP BO [ ] MicroStrategy [ ] Microsoft [ ]
+Qlikview [ ] Tableau [ ] Microstrategy [ ] Pentaho [ ] Sisense [ ] SAP Crystal
+[ ] Other [ ] None [ ] Other * Do you have experience eliciting/gathering
+requirements? [                                 ] * What Technologies in GIS do
+you have hands-on experience? [ ] ArcGIS [ ] OpenGeo/Boundless [ ] QGIS, other
+FOSS [ ] GIS Data Transformation [ ] Integrating GIS and Data Warehouses [ ] 
+Advanced GIS Analytics [ ] None * What ETL Tools are you intermediate at using?
+[ ] Scripts [ ] Informatica [ ] Python [ ] NodeJS [ ] MuleSoft [ ] SAFE FME [ ]
+Kettle [ ] Hadoop/NoSQL [ ] SAP [ ] Other 3rd Party [ ] ETL is so 90s - Data
+Lake! [ ] None * Does any of these terms mean anything to you where you have
+actually used them? [ ] Markov or Markov Chain [ ] Naive Bayes [ ] N-Grams [ ] 
+[Damerau]-Levenshtein distance [ ] Fuzzy Search [ ] NLP [ ] SPARQL [ ] Other
+[ ] None * What of these GIS concepts have you implemented to an intermediate
+level? [ ] GEOJson [ ] CARTO (aka CartoDB) [ ] K-Means [ ] Nearest Neighbor [ ]
+Anselin Local Moran's [ ] Monte Carlo Simulation [ ] Mantel Index [ ] Standard
+Deviational Ellipse [ ] Other [ ] None What of these data manipulation
+languages do you have experience with? [ ] NodeJS [ ] PHP [ ] Web JavaScript
+libs like jQuery, ExtJS [ ] D3JS [ ] R Project [ ] Other [ ] None * What Level
+are you with SQL type queries? [                                          ] * 
+When you hear big data what is big to you? [                      ] * What Open
+data platforms and have you worked with? [ ] Socrata [ ] OpenDataSoft [ ] CKAN
+[ ] DKAN [ ] Freebase [ ] Junar [ ] Wiki (MediaWiki, Confluence) [ ] Swirrl [ ]
+Custom Codebase / FOSS Components [ ] Other [ ] None * What non-GIS data
+standards and have you worked with? [ ] W3C Open Data Standards [ ] ISO-19114
+[ ] ISO-19115 [ ] FOIA/CORA [ ] Government Records Laws [ ] schema.org [ ] 
+Other Semantic (RDF, Microdata, etc.) [ ] Mission-Specific: Science Standards
+[ ] Mission-Specific: Cartographic Standards [ ] Mission-Specific: Financial/
+ERP Standards [ ] Other [ ] None * What GIS data standards and have you worked
+with? [ ] FGDC Metadata [ ] FGDC Other Geospatial Standards [ ] OGC (Multiple)
+[ ] GeoJSON [ ] ESRI OWF [ ] KML [ ] HDF [ ] THREDDS/OpenDAP [ ] Other [ ] None
+If we contact you for a phone screen, when should we call? (pick as many slots
+as you wish) [ ] 8am to 11am [ ] 11am to 3pm [ ] 3pm to 6pm [ ] 6pm to 8pm [ ] 
+Any of these times
+Submit
+Apply
+Continue
+Jobs page provided by The Applicant Manager

@@ -1,0 +1,137 @@
+Skip Navigation
+*
+Toggle navigation Qualcomm
+
+  • Search Jobs
+  • Drop & Go
+  • My Profile
+  • How To Apply & FAQs
+
+Go to Qualcomm Careers
+
+  • 
+      □ Search Jobs
+      □ MyProfile
+
+
+
+
+Job Detail
+
+Job Id            E1950450
+Job Title         Systems Engineer - Sensors Machine Learning (Santa Clara)
+Post Date         12/12/2016
+Company -         Qualcomm Technologies, Inc. - CDMA Technology
+Division
+Job Area          Engineering - Systems
+Location          California - Santa Clara
+                  Qualcomm Technologies, Inc. (QTI), in continuing our long
+                  tradition of technology leadership and innovation, is looking
+                  for ambitious, bright, and innovative engineers who are
+                  interested in bringing exciting new sensors technology to the
+                  mobile device market. This is a challenging position offering
+                  the opportunity to work with leading edge sensor technologies
+                  embedded in smartphones, tablets, smartwatches and other
+                  consumer electronics devices. Job activities span the whole
+                  product life cycle from early R&D to commercial deployment.
+                  The successful candidate will work with systems, software,
+                  and integration/test engineers in the QTI sensors group and
+                  in related QTI teams. Job responsibilities include:
+                  Specializing in the application of machine learning
+                  techniques to the design of new sensors technology features.
+                  Investigating emerging and new areas that apply machine
+                  learning to sensors combined with other mobile device
+                  technologies.
+                  Leading sensors technology development projects from early
+Job Overview      concepts through successful commercial deployment in mobile
+                  devices.
+                  Demonstrating new technology, interacting with customers and
+                  sensor vendors, and partnering with internal and external
+                  teams to commercialize algorithms.
+                  Performing algorithm development, debugging, verification,
+                  and parameter tuning with simulated and field test data.
+                  Collecting field test data, as needed for these activities.
+                  Developing prototypes on reference platforms.
+                  Making effective engineering tradeoffs among performance,
+                  memory, power consumption, and computational complexity.
+                  Supporting software and test teams with deployment of sensors
+                  algorithms.
+                  Writing reports on algorithm evaluation results, and
+                  delivering complete design and user documentation.
+                  Tracking project schedules and deliverables, and keeping
+                  stakeholders informed. The position is technology focused and
+                  involves participation in a broad range of sensors systems
+                  engineering activities within the Sensors Technologies group
+                  4 years of relevant machine learning (ML) algorithm design
+                  and simulation experience in industry or academia.
+                  Deep knowledge of end-to-end ML development, including data
+                  cleaning, feature and classifier selection, and performance
+Minimum           reporting.
+Qualifications    Experience with a wide variety of classifier types
+                  Familiar with ML libraries and packages
+                  Proficient in MATLAB and C/C++
+                  Detail oriented and take a thorough and analytical approach,
+                  producing complete documentation
+                  Expertise with inertial, magnetic, optical and pressure
+Preferred         sensors
+Qualifications    Experience with Java and Android app development
+                  Python proficiency
+                  Required: Master's, Computer Engineering and/or Computer
+                  Science and/or Electrical Engineering
+                  Preferred: Doctorate, Computer Engineering and/or Computer
+Education         Science and/or Electrical Engineering
+Requirements
+
+
+                  *LI-SRC
+                  "machine learning", "deep learning", classifier, sensors,
+Keywords          accelerometer, gyroscope, magnetometer, pressure, PPG, ECG,
+                  MATLAB, C, C++, Android, Java, Python, SystemC, Theano,
+                  Tensorflow, scikit-learn
+       You will need to   login into your profile to apply for this job.
+           If you are a   new user, click here to create a profile.
+
+Messages
+
+
+
+Return To Search Results                Send this Job to a Friend
+ 
+To all Staffing and Recruiting Agencies: Our Careers Site is only for
+individuals seeking a job at Qualcomm. Staffing and recruiting agencies and
+individuals being represented by an agency are not authorized to use this site
+or to submit profiles, applications or resumes, and any such submissions will
+be considered unsolicited. Qualcomm does not accept unsolicited resumes or
+applications from agencies. Please do not forward resumes to our jobs alias,
+Qualcomm employees or any other company location. Qualcomm is not responsible
+for any fees related to unsolicited resumes/applications.
+EEO employer: including race, gender, gender identity, sexual orientation,
+disability & veterans status.
+  • About Qualcomm
+  • Contact Us
+  • Careers
+  • Offices
+
+Qualcomm
+
+  • Twitter
+  • Facebook
+  • LinkedIn
+  • YouTube
+  • GooglePlus
+  • Pinterest
+
+  • Terms of Use
+  • Privacy
+  • Cookie Policy
+  • ©2013 QUALCOMM Incorporated and/or its subsidiaries. All Rights Reserved.
+
+
+Nothing in this material is an offer to sell any of the components or devices
+referenced herein.
+References to "Qualcomm" may mean Qualcomm incorporated, or subsidiaries or
+business units within the Qualcomm corporate structure, as applicable.
+Materials that are as of a specific date, including but not limited to press
+releases, presentations, blog posts and webcasts, may have been superseded by
+subsequent events or disclosures.
+

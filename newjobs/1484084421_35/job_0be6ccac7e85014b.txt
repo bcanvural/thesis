@@ -1,0 +1,135 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Senior Data Scientist
+
+Senior Data Scientist
+
+Job ID 
+    2015-42324
+
+# of Openings Remaining 
+    1
+
+Location 
+    US-MD-College Park
+
+Category 
+    Scientific
+
+Residency Status 
+    U.S. Citizenship Required
+
+Clearance 
+    Top Secret/SCI w/Poly
+
+Employee Type 
+    Regular
+
+Desired Experience 
+    ..
+
+Time Type 
+    Full Time
+
+More information about this job:
+
+Overview:
+
+Vencore Labs (formerly Applied Communication Sciences) is a self-sustaining
+research center within Vencore that provides applied research and engineering
+to enable government agencies, utilities and commercial enterprises to fully
+exploit the future of communications, data analytics and cyber security. From
+smart grid to smart phones, intelligent highways to intelligent battlefields,
+Vencore Labs’ 200 scientists, engineers and analysts are consistently creating
+generation-after-next technologies and solutions.  In doing so, our labs are
+helping to transform traditional government research.  We connect our customers
+to advanced research and technology helping them to develop solutions to their
+toughest challenges.  Accelerating the arc of transformation — from research to
+engineering to products — that’s what we focus on each day at Vencore Labs.
+
+Responsibilities:
+
+Vencore Labs is currently seeking a Senior Research Scientist, who will support
+our cyber operations research and development efforts. Successful applicants
+should be able to work in teams to rapidly build prototypes to demonstrate
+feasibility, and should be adept at identifying successful approaches to
+complex problems.
+
+ 
+
+Responsibilities include, but are not limited to :
+
+  • Performing applied research and development in one or more of the following
+    key areas of interest:
+  • Full-spectrum cyber operations, including (for example):
+  • Computer network operations (CNO)
+  • Computer network defense (CND)
+  • Active defense
+  • Software reverse engineering & exploitation
+  • Malware analysis
+  • Penetration testing
+  • Host and network-based forensics analysis
+  • Red-team experience in cyber exercises
+  • Information assurance
+  • Security and privacy research for mobile devices (Android, iPhone)
+  • Program analysis (including vulnerability detection and/or remediation)
+  • Virtualization platform development
+  • Formal methods
+  • Cryptographic protocols
+  • Wired and wireless networks, primarily at the MAC layer and above
+
+Qualifications:
+
+  • TS/SCI clearance with full lifestyle polyraph is required
+  • Experienced software developer who enjoys hands-on systems building
+    projects
+  • Several years of experience with some of the following languages: C, C++,
+    Java, Python, Perl, Ruby, assembler.
+  • Some data storage experience with databases (commercial or free databases -
+    Oracle, MySQL, SQlite3, Postgress) or with some new data storage systems
+    (e.g., Hadoop).
+  • Experience with some development tools such as IDEs (Eclipse, Netbeans,
+    CodeWarrior, Visual Studio, Rational, etc.), source management  systems
+    (CVS, SVN, Git, etc.), testing tools (valgrind, etc.), debugging. In short
+    someone who knows how to use the tools needed to accelerate development.
+  • Network experience of some kind. This can be at the low level (e.g.,
+    protocols - TCP, UDP, RIP, BGP, etc.) or at a higher level (socket
+    programming, web services, etc.).
+  • Must know open source tools. Linux experience preferred although
+    familiarity with Windows and Linux is a plus.
+
+Prototyping experience. Someone who has built a working system of software
+components that work together either on a single platform or multiple platforms
+(e.g. a system that contacts a backend database)Candidates who also have
+experience with some of the following would be a plus:
+
+  • Experience with Java J2EE, Spring, containers (Weblogic, Websphere, etc),
+    Tomcat.
+  • Experience with virtualization (VmWare, KVM, Xen, Docker, etc.)
+  • Cloud experience (Openstack, Cloudera, AWS, etc.)
+  • Large datasets and filesystems (Hadoop, etc.)
+  • Wireless networking (WiFi, cellphone, etc.)
+
+Options:
+
+ 
+Apply for this job onlineApply
+Share
+ 
+Refer this job to a friendRefer
+Share on your newsfeed
+Share |
+
+
+          Vencore is an Equal Opportunity/Affirmative Action Employer
+
+●Go back to the welcome page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

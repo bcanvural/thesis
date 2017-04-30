@@ -1,0 +1,94 @@
+Weight Wather
+
+Data Engineer
+
+Engineering New York, New York
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply
+
+Description
+
+Uniquely positioned to lead the way in the exciting HealthTech industry, Weight
+Watchers is rebuilding most of our core experiences and embracing modern
+engineering practices and techniques.
+
+Collecting data from many unique sources we are strongly positioned to derive
+deep knowledge on our member’s behaviors. Using this data we can provide
+improved & personalized experiences for users as well as providing insights to
+the executive team that will drive the evolution of our company.
+
+As we rebuild many of our core experiences, we are seeking talented people who
+are excited to join our team. This is a rare opportunity to join a company
+embracing a modern Technology culture, where you will have the ability to
+improve people’s lives in a very meaningful way and have a major impact on
+Weight Watchers offerings to our members. As reliance on health and wellness
+awareness increases, you can be part of the team that is leading the way.
+
+To help us achieve our goals, we are seeking Data Engineers to join our team. 
+
+What you will do: 
+
+  • Work closely with our data scientists to help build complex algorithms that
+    provide unique insights into our data.
+  • Build data pipelines that clean, transform and aggregate data from many
+    different sources.
+  • Develop models that can be used to make predictions.
+  • Build complex functions that answer questions for the business.
+  • Model data at rest and enable powerful data analysis.
+  • Enable machine learning, natural language processing and other data science
+    methods within Weight Watchers.
+  • Work with engineers across the organization to identify data quality issues
+    in source systems and help keep the data clean!
+  • Provide solutions that help share data with the enterprise.
+  • Be an advocate for best practices and continued learning. 
+
+You should have:
+
+  • Experience using tools such as Spark & Hadoop.
+  • Experience with data stores such as Redshift, Cassandra and Mongo.
+  • Large scale Data Modeling from a Big Data perspective.
+  • Experience producing and consuming event driven data.
+  • Experience working in a data team building functions, models and complex
+    algorithms.
+  • Experience with real time streaming solutions such as Kinesis or Kafka.
+  • Experience building data pipelines.
+  • Experience programming in Python, Scala or Java.
+
+We hire only the best people. Here are the benefits to being top-notch: 
+
+The opportunity to work with some of the best innovators in the industry
+Generous healthcare coverage.
+401(K) with company match.
+Paid Time Off
+Paid parental leave
+Tuition reimbursement
+Wellness allowance
+Profit Sharing
+Plus, the resources to locate services including child care, legal services,
+pet care and more
+
+
+Weight Watchers is an equal opportunity employer. Weight Watchers does not
+discriminate on the basis of sex, race, color, creed, national origin, marital
+status, age, religion, sexual orientation, gender identity, gender expression,
+veteran status, or disability.
+
+
+ 
+
+Apply Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+Powered by Jobvite
+

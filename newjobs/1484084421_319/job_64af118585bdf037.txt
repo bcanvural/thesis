@@ -1,0 +1,73 @@
+[databricks]
+
+Software Engineer - Machine Learning
+
+San Francisco
+Engineering
+Full-time
+Apply for this job
+
+At Databricks, we make Big Data simple. The state-of-the-art in Big Data is
+"simple things complex, complex things impossible." We think the future should
+be "simple things easy, and complex things possible." Join us and work with
+world's leading experts in distributed systems, databases, and networking to
+help build a next-generation Big Data platform that users love.
+
+As a software engineer in the advanced analytics team you will implement
+machine learning algorithms in Spark that scale to massive datasets and build
+tools that help users apply machine learning in practice. You will also work
+with world?s leading experts in distributed systems and integrate machine
+learning solutions into Databricks.
+
+In your work, you will need to have a high-level view of machine learning to
+help guide major decisions, a deep understanding of the mathematics to ensure
+proper implementation, and strong engineering skills to make deliverables in
+Spark and Databricks.
+
+Databricks? vision is to empower anyone to easily build and deploy advanced
+analytics solutions. The company was founded by the team who created Apache?
+Spark?, a powerful open source data processing engine built for sophisticated
+analytics, ease of use, and speed. Databricks is the largest contributor to the
+open source Apache Spark project. The company has also trained over 40,000
+users on Apache Spark, and has the largest number of customers deploying Spark
+to date. Databricks provides a just-in-time data platform, to simplify data
+integration, real-time experimentation, and robust deployment of production
+applications. Databricks is venture-backed by Andreessen Horowitz and NEA. For
+more information, contact info@databricks.com.
+
+REQUIREMENTS
+
+      + Strong desire to work at a rapidly growing startup and make it a
+        success.
+      + Advanced degree in computer science, statistics, math, or similar
+        fields.
+      + Thorough knowledge of machine learning, statistics, graph algorithms,
+        linear algebra, and numerical optimization.
+      + Thorough knowledge of algorithms, data structures, and OOD/OOP
+        principles.
+      + Experience with distributed systems such as Spark and Hadoop.
+      + General-purpose languages such as Scala, Java, Python, and C++.
+
+PLUSES
+
+      + Familiarity with data analysis and visualization using R, MATLAB,SQL,
+        or PyData.
+      + Experience with building end-to-end machine learning products.
+      + Publications in top machine learning conferences or journals.
+
+BENEFITS
+
+      + Medical, dental, vision
+      + 401k Retirement Plan
+      + Unlimited Paid Time Off
+      + Catered lunch (every day), snacks, and drinks
+      + Gym reimbursement
+      + Employee referral bonus program
+      + Awesome coworkers
+      + Maternity and paternity plans
+
+Apply for this job
+
+Databricks Home Page
+
+Jobs powered by [lever-logo]

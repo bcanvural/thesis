@@ -1,0 +1,139 @@
+[logo]
+
+  * Welcome
+  * Employment Listings
+
+    Employment Listings
+  * Search Current Openings
+  * Update Your Profile
+  * Create a Job Agent
+  * Update Job Agent
+  * Recruiting Agency Login
+
+ 
+
+Your user session will timeout in 5 minutes. Please click OK to continue with
+your application.
+
+Machine Learning Engineer (SoftE III)
+
+Tracking Code
+    1420-987
+Job Description
+   
+    COLSA Corporation is seeking candidates for a Machine Learning Engineer III
+    to join its Software Factory in Huntsville, Alabama. 
+
+    About Our Team
+
+    Members of COLSA?s Software Factory believe in and strive to maintain an
+    open, honest working environment that welcomes new ideas and alternative
+    solutions. Utilizing a collaborative decision-making approach helps us
+    implement the most effective solution for the challenges that both we and
+    our customers face. Our processes are flexible and open to change. We
+    develop products cognizant of the impact it will have on everyone from the
+    developer to the end-user.   We simply love and are passionate about what
+    we do and eagerly await others to join our team!
+
+    Job Description
+
+    At the COLSA Software Factory, we craft unique software solutions that take
+    customers? dreams and make them a reality. We are seeking a software
+    engineer who is excited about solving complex problems and is willing to
+    take ownership, deliver value, and make a difference in our processes and
+    outcomes.
+
+    How we work
+
+      + We work in small teams with minimal processes and the freedom to
+        collaborate to create innovative solutions.
+      + We are always improving our processes to provide customers with quality
+        work, code reviews, UI/UX reviews, and automated testing.
+      + We work directly with our clients as partners?we get to know their
+        business and their pain points before architecting a solution. As part
+        of the COLSA Software Factory, you will be interfacing with the client
+        in various capacities throughout a project.
+      + Our engineers are masters of at least one part of stack, fluent in
+        multiple areas, and have a strong willingness to learn. We strive to be
+        language agnostic in order to provide our customer with the best
+        solution for their needs.
+
+    Some things you?ll be doing
+
+      + Work directly with customers to identify their business needs and
+        architect solutions.
+      + Openly collaborate with a team of software engineers that share the
+        same passion about software.
+      + Use cutting edge open source technologies.
+      + Leverage source control, automated testing, and project tracking
+        software to ensure delivery of a great product.
+      + Document design decisions and software artifacts.
+      + Attend all aspects of the Agile Scrum process from daily standups to
+        sprint reviews with the customers.
+      + Teach and guide lower level teammates
+      + Learn from teammates so that each member of the team grows
+        professionally
+      + Develop advanced machine learning and artificial intelligence
+        algorithms help deploy a product to customers.
+      + Engage with not only other developers but also our frontend & backend
+        developers, testers, and leadership.
+      + Harmonize with the team leads and architects to promote quality
+        software design.
+      + Monitor, diagnose, and fine-tune the back-end, data models, and
+        performance of the software products.
+Required Experience
+   
+    Required Qualifications
+
+      + Bachelor?s degree in computer science, statistics, computer
+        engineering, electrical engineering, applied math, or data science, or
+        equivalent experience
+      + Five years applicable software development and engineering experience
+      + Understanding of statistical modeling, machine learning, or data mining
+        concepts, and a track record of solving problems with these methods
+      + Professional experience in backend technologies (C#, C++, Java, Python)
+      + Professional experience in database technologies (MYSQL, SQL, MongoDB,
+        or Graph Databases)
+      + Familiar with one or more machine learning or statistical modeling
+        tools (R, Matlab, SciKit, TensorFlow, Caffe, Theano, Keras, or Torch)
+      + Strong analytical and quantitative problem solving ability
+      + Must have the ability to obtain and maintain a DoD security clearance
+
+    Preferred Qualifications
+
+      + Master?s degree preferred
+      + Experience with big data techniques (Hadoop, MapReduce, or Spark)
+      + Professional experience in Agile methodologies (Scrum, Kanban, or etc.)
+      + Professional experience in source repositories (GIT, TFS, or Perforce)
+      + Experience in Atlassian JIRA and Confluence
+
+    Applicant selected will be subject to a government security investigation
+    and must meet eligibility requirements for access to classified
+    information. COLSA Corporation is an Equal Opportunity Employer, Minorities
+    /Females/Veterans/Disabled. All qualified applicants will receive
+    consideration for employment without regard to race, color, religion, sex,
+    sexual orientation, gender identity, or national origin.
+
+Job Location
+    Huntsville, Alabama, United States
+Position Type
+    Full-Time/Regular
+
+Apply
+
+[New Applicant]
+
+[Returning Applicant]
+
+Share
+
+Return To Job Listings 
+
+COLSA Corporation strives to maintain a fully accessible site for all visitors.
+    If you have questions regarding accessibility or need help with the job
+           application process, please contact assistance@colsa.com
+
+COLSA Corporation is an Equal Opportunity Employer, Minorities/Females/Veterans
+                                 /Disabilities
+                  ?2017 COLSA Corporation All rights reserved
+                                   Site Map                                    

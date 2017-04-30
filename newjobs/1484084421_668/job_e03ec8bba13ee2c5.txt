@@ -1,0 +1,111 @@
+●
+
+
+  • About
+  • Offerings
+  • Team Culture
+  • Blog
+  • Contact
+
+[spacer]
+
+  • About
+  • Offerings
+  • Team Culture
+  • Blog
+  • Let's Build Together
+
+  • ●
+
+[spacer]
+
+  • About
+  • Offerings
+  • Team Culture
+  • Blog
+  • Let's Build Together
+
+  • ●
+
+    What's your zeal?
+
+[icon_star_]
+
+Data Scientist
+
+Title
+
+Data Scientist
+
+ID
+
+T1108
+
+Department
+
+Information Technology
+
+
+Brief Description:
+This position is for a highly-skilled Data Scientist to support the deployment
+and evolution of a core web application and data workflow. The candidate will
+both develop and maintain a full-stack MVC web application. Additionally, the
+candidate is expected to work with data processing, such as accessing web
+service application programming interfaces (APIs) and performing basic data ETL
+(extract/transform/load) functions. The candidate will be working with machine
+learning (Bayesian classification) and the basics of entity extraction.
+
+Required knowledge, skills and abilities:
+1. Experience using Python, including maintenance of a well-documented data
+pipeline written in Python.
+2. Proven experience with MongoDB including the maintenance of existing
+database with some minor data model adjustments.
+3. Understanding of NodeJs including basic application structure and how to
+make changes to it.
+4. Demonstrated on-the-job experience with Amazon EC2 to include creating/
+starting/stopping Linux instances, moving files into the cloud via S3.
+5. Demonstrated knowledge of Linux OS with basic system admin skills, trouble
+shooting, starting/stopping services, reading log files.
+
+Desired Skills:
+1. JavaScript including maintenance of a JQuery/SallisJS/AngularJS web
+application.
+2. JQuery including the maintenance of an existing web application that uses
+jQuery.
+3. SalisJS to include OJT ramp-up on this small NodeJS web application library
+is acceptable.
+4. Bootstrap Framework to include familiarity with basic Cascading Style Sheet
+layouts (CSS) from Bootstrap.
+5. AngularJS Framework; must understand the basics of AngularJS web application
+to maintain, not develop, an application.
+6. D3JS to include the maintenance and enhancement of several visualizations in
+D3.
+7. REST Web Services with a basic understanding of how RESTful APIs work via
+HTTP GET and HTTP POST commands.
+8. Demonstrated on-the-job experience with Bash Scripting to include rotating
+log files, starting/stopping services, etc.
+9. Demonstrated on-the-job experience with Machine Learning to include the
+ability to train/tune a Bayesian document classifier already developed.
+
+
+Get on board!
+Evans & Chambers is a progressive IT solutions provider located in Washington,
+DC.  We offer excellent salaries and benefits in a fun and energized work
+environment. We are committed to rewarding goal-oriented professionals who
+enjoy meeting challenges head-on.  http://www.evanschambers.com
+
+APPLY NOW
+ 
+GO BACK TO CAREERS
+Powered by ApplicantStack
+
+Curious what it's like, working at EC? Explore our company culture.
+
+Click Here
+
+  • © EC Technology, LLC, 2015
+  • info@evanschambers.com
+  • 202 768 7330
+  • 635 Florida Ave NW,   2nd Floor,   Washington DC 20001
+
+[icon_faceb]     [icon_twitt]

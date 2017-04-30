@@ -1,0 +1,200 @@
+   
+  [de8c249a-6]
+
+  Join our Talent Network!
+
+  Join our Talent Network and be the first to be informed about news and
+  career opportunities at Conversant and be considered for future roles.
+  
+  If you're not interested in updates, simply click skip & continue to begin
+  your application on the next page.
+
+  
+  *First Name                             [                    ]
+  *Last Name                              [                    ]
+  *Email                                  [                    ]
+  Mobile Phone                            [                    ]
+  *City                                   [                    ]
+  *State                                  [-- select one --    ]
+  *Country                                [United States                    ]
+  *Zip/Postal Code (Enter 0 if Not        [                    ]
+  Applicable)
+  LinkedIn Profile                        [                    ]
+
+                                          [ ]Account Management
+                                          [ ]Accounting-Finance
+                                          [ ]Administration
+                                          [ ]Analytics
+                                          [ ]Brand Loyalty
+                                          [ ]Client Services
+                                          [ ]Commercial / Industr Relations
+                                          [ ]Communications
+                                          [ ]Consulting and Analytics
+                                          [ ]Contingent Worker
+                                          [ ]Conversant Jobs
+                                          [ ]Corporate Marketing
+                                          [ ]Creative
+                                          [ ]Credit Operations
+                                          [ ]Customer Relations
+                                          [ ]Data Delivery
+                                          [ ]Engineering Services
+                                          [ ]Facilities
+                                          [ ]Finance-Accounting
+                                          [ ]General
+  *Area of Interest (select all that      [ ]Human Resources
+  apply)                                  [ ]Information Systems
+                                          [ ]Information Technology
+                                          [ ]Internal Audit
+                                          [ ]Legal
+                                          [ ]Lending
+                                          [ ]Loyalty India
+                                          [ ]Management
+                                          [ ]Manufacturing
+                                          [ ]Marketing
+                                          [ ]Operations
+                                          [ ]Planning
+                                          [ ]Precima
+                                          [ ]Print Production
+                                          [ ]Product Engineering
+                                          [ ]Project Management
+                                          [ ]Purchasing
+                                          [ ]Research / Development
+                                          [ ]Sales
+                                          [ ]Sales Operations
+                                          [ ]Senior Leadership
+                                          [ ]Tech Services
+                                          [ ]Technology
+  *Years of Experience                    [-- Select a value --]
+  Resume                                  [                    ]
+
+
+
+                     [Save & Continue]  [Skip & Continue]
+
+
+
+   
+
+  Job Description:
+  ....  read more -->>
+  Description OVERVIEW   As a Data Scientist in our Decision Sciences R&D
+  organization, you will be responsible for researching and building machine
+  learning and natural lang
+  Description
+
+  OVERVIEW
+   
+
+  As a Data Scientist in our Decision Sciences R&D organization, you will be
+  responsible for researching and building machine learning and natural
+  language processing applications to extend Conversant’s personalization
+  platform.  Conversant’s business is based on analyzing anonymized data at
+  internet scale and evaluating more than 1 trillion advertising
+  opportunities per month in real-time.  You will work on real-world problems
+  as part of our highly collaborative R&D team, and your solutions will
+  directly and rapidly impact our business.  This includes researching and
+  developing models, algorithms, and applications; analyzing raw source data
+  and derived data; presenting findings; and building tools and analyses for
+  new and existing products.
+
+                                                                               
+  RESPONSIBILITIES
+
+    • Develop an understanding of Conversant’s personalization platform and
+      proprietary datasets
+    • Use your machine learning expertise to research and recommend the best
+      approaches to solving our technology and business problems
+    • Design, implement, and validate your solutions in Apache Spark, Apache
+      Hive, using Scala or Python on a large state-of-the-art cluster
+    • Work with our Engineering teams to integrate your solutions into
+      Conversant’s platform
+    • Participate fully in our collaborative approach to research and
+      applications projects
+
+  REQUIREMENTS
+
+    • A Ph.D., (or Master’s degree plus at least 3 years’ relevant
+      experience), in Computer Science, Statistics, Linguistics, Electrical
+      Engineering, Mathematics, Economics, Physics, or a related scientific
+      discipline
+    • Research experience and coursework in Machine Learning
+    • Fluency in programming
+    • Experience with large data sets
+    • Strong understanding of statistics and modeling techniques
+    • Desire to work in a highly collaborative environment
+
+  ADDITIONAL USEFUL BUT NOT REQUIRED SKILLS
+
+    • Experience with distributed computing, such as Hadoop, Spark, or
+      related technologies
+    • Experience with Natural Language Processing, Computer Vision,
+      Information Retrieval, or Recommender Systems
+    • Familiarity with SQL, Scala, Python, or Java
+
+
+  Qualifications
+
+  Conditions of Employment
+
+  All job offers are contingent upon successful completion of certain
+  background checks which unless prohibited by applicable law may include
+  criminal history checks, employment verification, education verification,
+  drug screens, credit checks, DMV checks (for driving positions only) and
+  fingerprinting.
+
+  About Conversant
+
+  Conversant, Inc. is the leader in personalized digital marketing.
+  Conversant helps the world's biggest companies grow by creating
+  personalized experiences that deliver higher returns for brands and greater
+  satisfaction for people. We offer a fully integrated personalization
+  platform, personalized media programs and the world's largest affiliate
+  marketing network - all fueled by a deep understanding of what motivates
+  people to engage, connect and buy. For more information, please visit
+  www.conversantmedia.com.
+
+  Great People, Deserve Great Benefits
+
+  We know that we have some of the brightest and most talented associates in
+  the world, and we believe in rewarding them accordingly.  If you work here,
+  expect competitive pay, comprehensive health coverage, and endless
+  opportunities to advance your career.  From tuition reimbursement to
+  scholarship programs to employee stock purchase plans and 401(k)s, we offer
+  associates a variety of benefits that work as hard for them as they work
+  for us. 
+
+  About Epsilon
+
+  Epsilon is a global leader in creating connections between people and
+  brands. An all-encompassing global marketing company, we harness the power
+  of rich data, groundbreaking technologies, engaging creative and
+  transformative ideas to get the results our clients require. Recognized by
+  Ad Age as the #1 Largest World CRM/Direct Marketing Network,  #1 Largest
+  U.S. Agency from All Disciplines and #1 Largest U.S. Mobile Marketing
+  Agency, Epsilon employs over 7,000 associates in 70 offices worldwide.
+  Epsilon is an Alliance Data company.  For more information, visit
+  www.epsilon.com, follow us on Twitter @EpsilonMktg or call 1.800.309.0505.
+
+  Alliance Data provides equal employment opportunities without regard
+  to race, color, religion, gender, age, national origin, disability, sexual
+  orientation, gender identity, veteran status or any other characteristic
+  protected by law.
+
+  Alliance Data participates in E-Verify
+
+  For San Francisco Bay Area:
+
+  Alliance Data will consider for employment qualified applicants with
+  criminal histories in a manner consistent with the requirements of San
+  Francisco Police Code Sections 4901 - 4919, commonly referred to as the San
+  Francisco Fair Chance Ordinance. LI*MS
+
+  ....  read more -->>
+
+
+  Terms and Conditions | Privacy Statement
+
+  Connect with Us!
+  [9f4fba25-c][992c740e-9][ad28bd4c-a][529d2d86-d][948c9]
+  
+   

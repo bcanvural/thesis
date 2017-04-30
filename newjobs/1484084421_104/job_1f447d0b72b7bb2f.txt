@@ -1,0 +1,57 @@
+[coursera-1]
+
+Machine Learning Engineer
+
+Mountain View, CA
+Analytics
+Full-time
+Apply for this job
+
+We have millions of learners on our platform learning everyday; this
+unprecedented access to learning data provides us with an opportunity to
+fundamentally improve education to improve learner outcomes, leveraging the
+data we have.
+
+The next generation team develops technology to make learning better: from
+advancing assessment technology to deep semantic content understanding and
+augmentation to personalized learning.
+
+As a machine learning engineer on the team, you will be responsible for
+developing end-to-end machine learning models that will form the foundations of
+our future learning experiences.
+
+Your responsibilities
+
+      □ Developing machine learning models that fit our unique problems,
+        including training and inference algorithms.
+      □ Productionizing models so that multiple product features can leverage
+        them.
+      □ Research into new machine learning methods and algorithms.
+      □ Interfacing with our data infrastructure to create necessary datasets
+        and data pipelines.
+      □ Building high leverage tools for data collection, model training/
+        testing, feature extraction, and more.
+
+Your skills
+
+      □ Strong background working with machine learning, probabilistic
+        graphical models, and natural language processing methods.
+      □ Have developed ML algorithms independently and understand how they work
+        deeply.
+      □ Able to read recent ML research papers and adapt those models to our
+        context.
+      □ Strong programming skills.
+      □ Bonus: Prior experience working with educational models and data.
+
+If this opportunity interests you, you might like these courses on Coursera:
+
+      □ Machine Learning Specialization
+      □ Machine Learning
+      □ Probabilistic Graphical Models
+      □ Natural Language Processing
+
+Apply for this job
+
+Coursera Home Page
+
+Jobs powered by [lever-logo]

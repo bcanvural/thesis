@@ -1,0 +1,96 @@
+   
+  
+  *First Name
+  [                    ]
+  *Last Name
+  [                    ]
+  *Email
+  [                    ]
+  Phone
+  [                    ]
+  Zip
+  [                    ]
+  Department Interest
+  [-- Select a value --                              ]
+  Resume
+  [                    ]
+
+   
+  [Save & Continue]  [Skip & Continue]
+  Job Description
+  ....  read more -->>
+  Job Description Position Overview/Description: Ford Motor Company's
+  Autonomous Vehicles and Control organization is looking for motivated and
+  talented individuals with a background in m
+  Job Description
+  Position Overview/Description:
+
+  Ford Motor Company's Autonomous Vehicles and Control organization is
+  looking for motivated and talented individuals with a background in machine
+  learning and computer vision. This is a Research Engineer level position
+  supporting the research & development activities in autonomous driving at
+  Ford Research & Advanced Engineering. Responsibilities include development,
+  integration and test of advanced machine learning based algorithms and
+  software modules for driver-assist and autonomous vehicles
+
+  Responsibilities:
+
+    • Working closely with other researchers on enhancing, and testing,
+      implementation of the existing machine learning algorithms for
+      autonomous driving
+    • Creating and validating innovative machine learning based approaches
+    • Coordinating with fellow researcher engineers from the Ford engineering
+      community in Dearborn, MI, Palo Alto, CA, Tel Aviv, Israel, and Aachen,
+      Germany.
+
+
+  Basic Qualifications:
+                                                                               
+    • Master’s Degree in Computer Science, Electrical Engineering, Robotics
+      or Statistics
+    • 1+ years’ experience developing machine learning models such as using
+      deep learning methods for classification and regression
+
+
+  Preferred Qualifications:
+    • PhD in Computer Science, Electrical Engineering, Robotics, Statistics,
+      or related technical field
+    • Experience applying machine learning approaches such as deep
+      convolutional neural networks and/or recurrent neural networks
+    • Hands on experience with at least one of the following tools: Caffe,
+      TensorFlow, Theano, or a similar deep learning toolkit
+    • Experience with Python, Java, C/C++ or other related languages
+    • Experience with image processing and computer vision
+    • Experience in developing control and optimization algorithms
+    • Comfortable working in an environment where problems are not always
+      well-defined.
+    • Inquisitive, proactive, and interested in learning new tools and
+      techniques
+    • Strong oral, written and interpersonal communication skills and an
+      ability to work in a team environment
+    • Well-organized, independent and ready to work with minimal supervision
+    • Strong problem formulation and problem solving skills
+
+
+
+  The distance between imagination and … creation. It can be measured in
+  years of innovation, or in moments of brilliance. When you join the Ford
+  team discover all the benefits, rewards and development opportunities you’d
+  expect from a diverse global leader. You’ll become part of a team that is
+  already leading the way, with ingenious solutions and attainable products –
+  and it is always to go further.
+
+  Candidates for positions with Ford Motor Company must be legally authorized
+  to work in the United States on a permanent basis. Verification of
+  employment eligibility will be required at the time of hire. Visa
+  sponsorship is not available for this position.
+
+  Ford Motor Company is an equal opportunity employer committed to a
+  culturally diverse workforce. All qualified applicants will receive
+  consideration for employment without regard to race, religion, color, age,
+  sex, national origin, sexual orientation, gender identity, disability
+  status or protected veteran status.
+
+
+  ....  read more -->>
+   

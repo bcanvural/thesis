@@ -1,0 +1,90 @@
+UserTesting
+
+Data Engineer
+
+  • Mountain View, CA
+  • Full-time
+
+Company Description
+
+We&apos;re a pre-IPO company with campuses in Mountain View, San Francisco, and
+Atlanta. We make it easy for businesses to understand how customers interact
+with their digital properties so that they can improve their customer
+experience. We do this by giving companies on-demand access to people in their
+exact target market who deliver video, audio, and written feedback on websites,
+mobile apps, and prototypes. Over 34,000 companies, including Google, Facebook,
+CBS, Apple, and The Home Depot, use UserTesting to improve their user
+experience—and their bottom line.
+
+Job Description
+
+As a Data Engineer, you will design and and grow a data infrastructure that
+powers our ability to make timely, data-driven decisions to fuel and accelerate
+the growth of our business.
+
+Responsibilities:
+
+  • Design, build, and maintain data warehouse infrastructure, data structures
+    and data pipelines to enable fast and accurate reporting and analysis
+  • Work across product and engineering to consume tracking data and developing
+    a flexible data model for unstructured data
+  • Partner with other analytics team members to collect and enrich data to
+    generate insights from disparate sources
+  • Work with data scientists and engineers to leverage Machine Learning into
+    product features
+  • Build out advanced analytics capabilities including data visualization and
+    experimentation platforms and tools
+
+Qualifications
+
+Must have:
+
+  • 3+ years experience with relational database system(s), with expertise in
+    SQL
+  • 3+ years of data warehousing experience
+  • 3+ years programming experience in Python, Ruby, or Java
+  • Experience with ETL management tools such as: Pentaho Kettle, Azkaban,
+    Airflow, or similar
+  • Experience in Agile methodologies
+
+Nice to have:
+
+  • Experience with data processing and scalable systems including: Redshift,
+    Hadoop, Pig, Hive, etc.
+  • Familiarity with streaming technologies: Kafka, AWS Kinesis
+  • Familiarity with Business Intelligence tools and platforms: SFDC, Marketo,
+    Google Analytics, Optimizely, Tableau, Periscope
+  • Familiarity with Machine Learning: TensorFlow, NumPy, Scikit-Learn, Mahout,
+    etc.
+
+Additional Information
+
+Besides a great work environment and the opportunity to change the world, we
+offer competitive salary, benefits, plenty of perks, as well as stock options.
+
+To learn more, visit our careers page: https://www.usertesting.com/about-us/
+jobs
+
+Videos To Watch
+
+  •  
+  •  
+
+I'm interested
+I'm interestedRefer a friend
+Candi Kenney
+
+Posted by
+
+Candi Kenney
+
+share this job
+
+  •  
+  •  
+  •  
+  •  
+
+Powered by 
+
+[105352547]

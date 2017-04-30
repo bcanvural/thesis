@@ -1,0 +1,98 @@
+Savi Technology Careers
+
+Data Scientist
+
+Data Science Alexandria, Virginia
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+Data Scientist
+
+Location: Alexandria, VA
+
+Savi Technology is hiring experienced Data Scientists excited by the prospect
+of combining the Internet of Things, sensor data, and Machine Learning to
+create end-to-end solutions that let managers and executives make decisions
+based on information and predictions literally learned from sensor, open, and
+enterprise data. We are agile and fast-paced. We use the latest ?Big Data? and
+Machine Learning technologies, from Python and Scikit-Learn to Spark and
+Hadoop.
+
+The ideal candidate should love working on data parsing, analyzing,
+investigating, interpreting, modeling, and extracting knowledge from large
+volumes of data. With a specific core focus on big data analytics technology,
+you will have the exciting opportunity to influence the company?s data
+strategy. This individual will work with highly energetic cross-functional
+teams including product management, engineering, and marketing to help optimize
+the company?s solutions.
+
+Responsibilities:
+
+  * Analyze data to identify trends, correlations, and anomalies using
+    statistical and machine learning techniques
+  * Build models that help our customers identify risk or improve performance
+  * Prepare graphs or visualizations of processed data, identify trends,
+    anomalies
+  * Investigate new data sources and identify data problems, data quality
+    issues, and potential value
+  * Contribute to the development of new ideas and concepts, translate these
+    ideas into executable action plans
+  * Work within cross-functional teams to engage the client, comprehend the
+    client's problems, develop strategic analytical products, support
+    requirements analysis, including process and systems analyses
+  * Drive company efforts to optimize company offerings
+  * Development and automation of the necessary reports and analysis
+  * Research new data sources and analytical tools; contribute to new product
+    development and operational delivery
+
+Job Qualifications and Professional Skills:
+
+  * Degree in Statistics, Operations Research, or Computer Sciences
+  * At least 5 years experience in data analysis, data management, and software
+    development
+  * Demonstrated results orientation and follow-through
+  * Strong programming, graphing, and database skills; preferably programming
+    experience with Python, Java and R
+  * Skilled in acquiring and transforming data: SQL, scripts and ETL
+  * Experience with relational databases and large distributed systems,
+    preferably Cassandra and Hadoop/Hive
+  * Experience with data analysis, statistical, reporting and visualization
+    tools (Excel, SAS, R, etc.)
+  * Experience with machine learning algorithms and tools such as Scikit-Learn
+  * Candidate should have track record of using his/her math/stats background
+    to solve challenging problems
+  * Demonstrated experience in bridging business analysis and technical
+    development
+  * Strong oral and written presentation skills
+
+This position is based in our Alexandria, Virginia office.
+
+Savi is an Equal Opportunity and Affirmative Action Employer. It is our policy
+to offer employment opportunity to all persons without regard to race, color,
+age, sexual orientation, national origin, religion, sex, gender identity/
+transgender status, veteran status, disability, genetic information, pregnancy,
+childbirth or related medical conditions, or any other status protected under
+applicable federal, state, or local law.
+
+Bonus points if you submit your Github account or Kaggle competition projects
+along with your resume.
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

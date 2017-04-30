@@ -1,0 +1,114 @@
+   
+Looking for work?Search Jobs
+Home
+Menu
+
+  * Why Hirewell?
+  * Client Services
+  * Job Seekers
+  * Blog
+
+What[               ]
+Where[All States    ]
+[Search]
+Data Scientist -Fitness/Wellness Firm
+
+Pay: 
+$120,000
+Apply Now
+
+Who you are:
+
+You have a passion for what you do and would like your work to make a
+difference. You feel energized by the prospect of ?building things? using data
+to solve real world problems and to tell an inspiring and impactful story. You
+are seeking a role that allows you to be the leading authority on driving an
+organization?s thinking on creating new decision algorithms, and bringing out
+insights from client data. You love the power of metrics and tracking user
+behaviors, and relish the opportunity to test personal intuitions and then have
+real empirical results that allow for data-driven decisions to continually
+improve a product and strategize for the future.
+
+You?d also like to join a team where the culture is extremely entrepreneurial
+and innovative. If you thrive in a dynamic, fast-paced and team-oriented
+environment, you?ll feel right at home.
+
+The Role: In a Nutshell
+
+We are looking for a Data Scientist with an insatiable desire to design,
+develop and implement a data-driven framework. This framework will be used to
+create insight and enable the development of hypotheses and theories on what
+behaviors, social connections, etc. drive weight loss and find patterns that
+predict who will or will not lose weight.    
+
+What You Will Do:
+
+  * Analyze and advance the framework of our technology platform (Scala-based
+    infrastructure) to extract data (Mongo) into actionable knowledge to
+    measure our business, improve outcomes and make our wellness experts more
+    efficient at serving our clients
+  * Go beneath the surface of what it takes to lose weight, find the questions
+    at it heart and distill them into a very clear set of hypotheses that can
+    be tested
+  * Bring structure to large quantities of data - turn unstructured data into
+    structured data
+  * Design and integrate multiple technologies to advance the product with an
+    eye towards product innovation
+  * Write product queries in SQL to build large-scale data sets
+  * Design experiments to drive A/B and multivariate testing models that use
+    statistics to predict the outcome of future product changes
+  * Design experiments to drive A/B and multivariate testing models that use
+    statistics to predict the outcome of future product changes
+  * Analyze and build visualizations for huge data sets to monitor ongoing
+    patterns that drive outcomes
+  * Design experiments to drive A/B and multivariate testing models that use
+    statistics to predict the outcome of future product changes
+  * Aggregate data and prepare clear, concise recommendations to shape product
+    performance and engineering direction
+
+What you need:
+
+  * Bachelor?s degree in computer science, math, economics or related degree
+    and/or 3 plus years experience with strong data and computational focus
+  * Intellectual curiosity with willingness and desire to learn a new
+    environment and tools to advance your own knowledge and our product
+  * Technically savvy with experience in a range of the following:
+      + Programming languages: Java, R, Python (Bonus: Scala)
+      + Document Databases: NoSQL, Mongo DB with strong SQL experience
+      + Big Data Storage Platform & Processing tools: Hadoop, HDF, MapReduce,
+        Pig, Hive
+      + Data Extraction Tools: ETL, Webscrapers, Flume (Bonus: Hume)
+      + Statistical Tools: SPSS, SAS, Matlab
+      + Machine Learning Tools: Knime, RapidMiner (Bonus: SciPy, NumPy, pandas)
+      + Visualization Tools: D3.js, Gephi, Tableau, Flare, Shiny
+  * Strong knowledge of advanced statistical methods, Bayesian learning
+    techniques, pattern recognition and outlier detection algorithms, and
+    predictive modeling methods
+  * Expertise in text mining, NLP methods, information extraction and/or
+    machine learning
+  * Strong communication (verbal /written) and listening skills who can present
+    complex information in a clear and compelling manner.
+  * Comfortable in very fast-paced environment with strong bias towards action
+    to achieve results
+  * High growth companies and/or start-up experience a plus
+
+Apply Now
+Javascript is required to view this map.
+Get in touch with us today
+
+Contact Us
+   
+
+Subscribe to our Newsletter
+
+Email Address (required) [                         ]
+First Name [                         ]
+[Subscribe]
+  * Why Hirewell?
+  * Client Services
+  * Job Seekers
+  * Blog
+  * Contact
+
+contact@hirewell.com | 312.496.7955 | 200 W Jackson, Suite 1700, Chicago, IL
+60606

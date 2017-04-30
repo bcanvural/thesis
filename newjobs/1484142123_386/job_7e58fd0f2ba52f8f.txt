@@ -1,0 +1,83 @@
+[d69bde0a-7]
+
+Data scientist
+
+Berkeley
+Data Science
+Full-time
+Apply for this job
+
+Pi is an analytics company focused on transforming Business Intelligence (BI)
+with modern machine learning tools. With our wide and diverse client base, we
+are moving traditional, service-lead BI into a productised data-driven toolset,
+helping our clients seamlessly integrate their data sources into one platform.
+Automation and machine learning are being utilised not just to replace manual
+data munging, ETL and report writing but also to offer new insights and provide
+more power to our analyst and business manager clients.
+
+We are seeking candidates for the role of data scientist to form part of Pi?s
+new California office. As an early member of this team, you will have a major
+impact on shaping our data science platform and responsibility for developing
+novel machine learning solutions. The successful candidate will have both a
+strong understanding of data science fundamentals and the creativity to apply
+this to a diverse range of problems.
+
+The California office is Pi?s data science R&D centre, responsible for
+innovating, prototyping and developing new data products that will then become
+part of the Pi toolset. You will work with development teams in London and
+Madrid to move these tools to production for use by Pi?s internal analysts or
+by external clients directly. Close communication among teams is essential to
+hone specifications and deliver products on a deadline. Part of the role also
+involves knowledge sharing with and training of the end user.
+
+Key responsibilities
+
+      + Develop new machine learning products to expand Pi?s data science
+        capabilities
+      + Work with clients to produce detailed product specifications,
+        responding pro-actively to client needs
+      + Find creative ways to generate value from existing data
+      + Conduct research into new technologies, algorithms and techniques
+      + Lead the development of a product from prototype through to production
+      + Coordinate with other members of the Pi development team worldwide
+
+Required qualifications
+
+      + Advanced level degree or equivalent experience relevant to data science
+      + Proven industry experience developing machine learning solutions
+      + Proficiency in relevant languages and technologies (Python, Scala, SQL,
+        Spark, ?)
+      + Experience of relevant machine learning tools (Scikit-learn, MLlib,
+        Tensorflow, ?)
+      + Knowledge of data structures, algorithms and all key computer science
+        fundamentals
+      + Expertise in basic and advanced machine learning techniques
+      + Strong analytical skills and aptitude for problem solving
+      + Great verbal and written skills
+      + Able to work to deadlines and cope with fast changing situations
+      + Strong attention to detail
+      + Able to work independently and within a team
+
+Preferred qualifications
+
+      + PhD in machine learning / numerical discipline
+      + 2+ years relevant industry experience
+      + Experience of distributed computing using big data technologies (Spark,
+        Hadoop stack, NoSQL, ?)
+      + Experience of deep learning
+      + Teaching experience in technical subjects
+
+Benefits
+
+      + Valued member of a fast-growing, employee-focused company
+      + Develop your skills and make important contributions from day one
+      + Competitive salary, healthcare and employee benefits
+      + Company allowance for personal development and training
+
+We are unfortunately unable to sponsor work visas at this time.
+
+Apply for this job
+
+Pi Home Page
+
+Jobs powered by [lever-logo]

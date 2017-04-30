@@ -1,0 +1,76 @@
+AIR Worldwide Careers
+
+Research Scientist
+
+Research Boston, Massachusetts
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply
+
+Under the supervision of Senior Scientist, Research Scientist is responsible
+for the following duties:
+
+  • Design and implement automated procedures to acquire various weather
+    datasets (e.g. METAR, SYNOP) for the European Extratropical Cyclone (ETC)
+    Model.
+  • Administrate research SQL server database. Test and validate backups,
+    performance analysis and tuning, security and integrity checks.
+  • Implement and update current financial loss calculation module for
+    China-MPCI model and US-crop-hail model with C# programming.
+  • Create and update UNICEDE exposure database for the China-MPCI model and
+    US-crop-hail model. From understand the standards to transfer existing file
+    based exposure set into SQL database.
+  • Proactively contribute to code performance optimizations and continuous
+    improvements to code quality, robustness, and model development processes.
+  • Search, collect and analyze data related to assessing agricultural risk,
+    such as temperature, precipitation, crop yields, crop damage, loss data,
+    etc.
+  • Maintain and update the US county level crop yield data interpolation tool
+    with R programming.
+  • Collect all the relevant data and build crop yield and price databases for
+    the US agriculture insurance market.
+  • Execute the fund designation service for the current AIR clients for
+    multitple sales closing dates through the year.
+  • Write new computer codes to update and enhance the AIR Fund Designation
+    Model.
+  • Research the state of the art data mining methods, find the relevant
+    applications and implement them into the AIR Fund Designation Model.
+    Develop and test new data mining algorithms to enhance the fund designation
+    optimization.   
+  • Communicate the fund designation results with the AIR clients and explain
+    the AIR modeling methodology in client meetings.
+
+ 
+
+Minimum requirements include: Master’s degree in Computer Engineering, Computer
+Science, or related field (or foreign degree equivalent) plus the following
+special skills:
+
+ 
+
+  • Demonstrated ability to gather, understand, and critically analyze large
+    amounts of data;
+  • Strong knowledge and practical experience of object/component-oriented
+    design and programming language including C++, C#, and FORTRAN;
+  • Experience of working with statistical packages R or Matlab;
+  • Familiarity with manipulating large data sets using SQL for the risk
+    assessment purposes;
+  • Experience with Python or powershell scripting.
+
+ 
+
+ 
+
+Location: 131 Dartmouth St, Boston, MA 02116
+
+Apply Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Powered by Jobvite
+

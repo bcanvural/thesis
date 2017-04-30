@@ -1,0 +1,110 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Fran?ais
+Espa?ol                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [t9jdnwjj02jz641o5rfu]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-22451 - Dat]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Data Scientist
+Next Job
+Next
+
+Ref No.:  16-22451
+Location: Duluth, Georgia
+
+TITLE: Data Scientist - 1
+LOCATION: Duluth, GA
+POSTION SUMMARY & KEY AREAS OF RESPONSIBILITY:
+
+  * Understand customer business use cases and be able to translate them to
+    analytical data applications and models with a vision on how to implement a
+    solution.
+  * Clearly communicate the business and technical benefits of analytics and
+    visualization to both business and technical audiences.
+  * Support subsequent business units in developing and implementing Tableau
+    server dashboards and other analytical solutions.
+  * Work closely with other members of the services analytics team to drive the
+    implementation of these solutions.
+  * Manipulate, aggregate and derive useful information from data stored across
+    many sources and different databases.
+  * Be willing to learn: Develop expertise in areas outside of core comfort
+    zone and learn from experienced members of the team.
+
+Qualifications:
+BASIC QUALIFICATIONS:
+
+  * Bachelor's Degree in Computer Science, Physics, Math, Statistics or
+    equivalent experience
+  * 1-3 years of experience in the applied analytic space
+  * Programming skills & experience in Java, C++, R, Perl, or Python.
+  * Strong understanding of algorithms and advanced data structures.
+  * Experience in solutions that leverage distributed processing of large data
+    sets (e.g. MapReduce, Hadoop, Aster).
+  * Motivated self-starter, with a high capacity for rapid learning and
+    meticulous attention to detail.
+  * Understanding of database fundamentals and SQL Programming.
+  * Excellent interpersonal, written and oral communication skills
+
+KEY SKILLS & ATTRIBUTES:
+
+  * Ability to apply data analysis to solve a business problem that has a real
+    impact to customers
+  * Excellent team player
+  * Must be self-motivated, results driven, and able to work with minimum
+    supervision
+  * Intellectually curious: Willingness to try solutions and work through
+    failures
+  * Outstanding interpersonal, communication and customer relationship skills ?
+    able to work effectively with internal customer from developers and
+    Operations personnel through senior management
+
+[applicatio]Apply by creating/using account
+
+OK

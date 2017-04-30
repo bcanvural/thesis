@@ -1,0 +1,236 @@
+Skip to Main Content
+[siemensglo]
+[mobile-her]
+Global Job Opportunities
+Toggle navigation
+
+  • Global Job Opportunities
+  • What’s in it for you
+  • Your opportunities
+  • Level of experience
+  • Programs & entries
+
+  • Global Job Opportunities
+  • What’s in it for you
+  • Your opportunities
+  • Level of experience
+  • Programs & entries
+
+  • Careers Home
+  • Search Jobs
+  • Check Application Status / Manage Profile
+      □ Global Jobs
+
+ 
+
+  •  
+  • 
+  • 
+  • 
+
+Siemens Careers
+
+Share This Job
+
+ 
+
+Big Data Scientist
+
+Locations: Princeton, New Jersey
+Job Family: Research & Development
+
+Apply
+English (US)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Job Description
+
+Division: Corporate Technology
+Business Unit: Corporate Technology
+Requisition Number: 202765
+Primary Location: United States-New Jersey-Princeton
+Assignment Category: Full-time regular
+Experience Level: Entry level
+Education Required Level: Doctorate Degree
+Travel Required: 10%
+
+Division Description:
+
+
+Siemens is a global technology powerhouse that has stood for engineering
+excellence, innovation, quality, reliability and internationally for more than
+165 years. As a global technology company, Siemens is rigorously leveraging the
+advantages that this setup provides. To tap business opportunities in both new
+and established markets, the Company is organized in nine Divisions: Power and
+Gas, Wind Power and Renewables, Energy Management, Building Technologies,
+Mobility, Digital Factory, Process Industries and Drives, Healthineers and
+Financial Services. Our support functions are split into two organizations,
+Corporate Core and Corporate Services. These organizations provide essential
+services to better enable responsible and profitable growth. For more
+information, please visit: http://www.siemens.com/businesses/us/en/
+
+
+
+Job Description:
+
+
+For nearly 170 years, pioneering technologies and the business models developed
+from them have been the foundation of Siemens‘ success. Our central research
+and development unit, Corporate Technology (CT) plays an important role in
+this. Together with our global network of experts, we are a strategic partner
+to Siemens’ operative units and provide important services along the entire
+value chain – from research and development to production and quality
+assurance, as well as optimized business processes. Our support provided to the
+businesses in their research and development activities is ideally balanced
+with our own future-oriented research.
+
+We at Corporate Technology are more than employees: We are actively helping to
+make people’s lives a little better every day. Would you like to be a part of
+that? Then join us. We offer you a high level of practical relevance as well as
+an opportunity to individually contribute your knowledge and your visions
+around the world. Whether you’re helping to develop products for the operating
+units or working in interdisciplinary projects for the business areas: At
+Corporate Technology you’ll be working in the heart of Siemens’ technological
+research together with the best.
+
+The Research in Digitalization and Automation (RDA), as part of Siemens
+Corporate Technology (CT), is at the heart of Siemens R&D. Our deep competence
+and expertise make us the preferred partner for innovation. We develop
+technologies with wide applicability so that Siemens may successfully bring
+innovations to market. Our scientists located around the world help create and
+retain a technological edge for Siemens in the focus area of automation,
+electrification and industrial digitalization. 
+
+We are seeking a Research Scientist in Big Data Analytics and Machine Learning
+to be part of our growing Information Integration and Business Intelligence
+(IBI) Team which is part of the exciting and world-wide distributed Technology
+Field of Business Analytics and Monitoring.
+
+The Information Integration and Business Intelligence Research Group focuses on
+exiting cutting edge technologies in big data analytics and machine learning to
+gain exceptional business insights from tremendous amount of data and
+data-sources to improve the competitiveness of Siemens Business Units to
+generate innovative new products and business models used around the world. 
+
+This Research Scientist will contribute to our research activities by applying
+modern data analytics and machine learning on variety of structured and
+unstructured data from wide area of different industries such as automation,
+energy, healthcare, building automation and mobility with the goal to improve
+business insights and help various business units to gain competitive advantage
+in their markets.
+
+The Research Scientist will be responsible for developing new algorithms,
+publications and code prototypes as proof of concept in the new research area
+of Security, Safety and Compliance in collaboration with our security research
+group and also contribute to current analytics research for business analytics
+and monitoring.
+
+Responsibilities 
+• Research, design, and implement algorithms that power knowledge inference and
+online recommendations, based on Deep Learning/machine learning to consume
+various types of data
+• Dive into huge, noisy, and complex real-world behavioral data to produce
+innovative analysis and new types of predictive models of engineering behaviors
+and manufacturing processes performance.
+• Explore the untapped potential of big data for design, engineering and
+analysis tasks and devise revolutionary approaches.
+• Advance the state-of-the-art in the field, including generating patents and
+publications in top journals and conferences.
+• Apply deep learning techniques to large-scale, real-world problems.
+• Fast prototyping, feasibility studies, specification and implementation of
+data analysis product components.
+• Working with customers to understand algorithm requirements and deliver
+high-quality solutions.
+
+Required Knowledge/Skills, Education, and Experience
+
+•Candidate must have completed PhD in the field of Big Data Analytics, machine
+learning/deep learning. 
+• 5+ years of related experience.
+•Degree in Computer Science, Mathematics or Information Technology preferred. 
+•Must have a strong proficiency in algorithms for data mining, machine
+learning, and deep learning
+•Strong proficiency in R, Knime, Hadoop and Spark
+•Strong proficiency in parallel computing & distributed algorithms (e.g.
+Map-Reduce, CUDA, GPU)
+•Capability for quick prototyping
+•Outstanding written and verbal communication skills in English are required.
+•Excellent interpersonal skills and a can-do attitude
+•Strong collaboration skills and ability to thrive in a fast-paced environment
+•Flexibility and adaptability to work in a growing, dynamic team 
+•You can either have a proven track record of complex Big Data analytics work
+in industry, or research. For the former, please include your past projects.
+For the latter, please include your published papers, ideally at CVPR, ICCV,
+ACL, EMNLP, TACL, ICML or NIPS (publications at AAAI, UAI, , AISTATS, KDD,
+ICDM, SDM, SC, IPDPS will also be considered). 
+•Ability to work with controlled technology in accordance with US export
+control law required. Siemens may require candidates under consideration for
+employment opportunities to submit information regarding citizenship status to
+allow the organization to comply with specific US Export Control laws and
+regulations. Additional information on the US Export Control laws & regulations
+can be found on http://www.bis.doc.gov/index.php/policy-guidance/deemed-exports
+/deemed-exports-faqs?view=category&id=33#subcat34
+
+Preferred Knowledge/Skills, Education, and Experience
+
+• In depth Knowledge in Software development in Java 
+• Strong proficiency in Big Data tools and their configuration & setup. 
+• Proficiency in security and compliance analytics preferred.
+• Previous experience or knowledge in the field of probabilistic reasoning,
+uncertainty quantification, dimensionality reduction, decision trees, and
+design analysis is preferred.
+
+*LI-JMA
+
+
+
+Equal Employment Opportunity Statement
+Siemens is an Equal Opportunity and Affirmative Action Employer encouraging
+diversity in the workplace. All qualified applicants will receive consideration
+for employment without regard to their race, color, creed, religion, national
+origin, citizenship status, ancestry, sex, age, physical or mental disability,
+marital status, family responsibilities, pregnancy, genetic information, sexual
+orientation, gender expression, gender identity, transgender, sex stereotyping,
+protected veteran or military status, and other categories protected by
+federal, state or local law.
+
+EEO is the Law
+Applicants and employees are protected under Federal law from discrimination.
+To learn more, Click here.
+
+Pay Transparency Non-Discrimination Provision
+Siemens follows Executive Order 11246, including the Pay Transparency
+Nondiscrimination Provision. To learn more, Click here.
+
+
+
+  • Check Application Status / Manage Profile
+
+      □ Global Jobs
+      □ United States Jobs
+  • US Only: Review Accommodations for Disability
+  • Contact Us
+
+  • © Siemens AG, 1996 – 2017 |
+  • Corporate Information |
+  • Privacy Policy |
+  • Cookie Policy |
+  • Terms of Use |
+  • Digital ID
+
+  • Jobs & Careers on:
+  • [mobile-fac]
+  • [mobile-twi]
+  • [mobile-lin]
+  • [mobile-you]
+
+  • Jobs & Careers on:
+
+  • [mobile-fac]
+  • [mobile-twi]
+  • [mobile-lin]
+  • [mobile-you]
+
+  • © Siemens AG, 1996 – 2017 |
+  • Imprint
+

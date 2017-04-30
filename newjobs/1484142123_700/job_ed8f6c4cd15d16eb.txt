@@ -1,0 +1,130 @@
+Go to our website ?
+
+[2015030919]
+
+? Go back to job listings
+
+Data Engineer
+
+Location: Mountain View, CA
+
+Type: Contracted
+
+Min. Experience: Mid Level
+
+FocusKPI is looking for an experienced SQL and Big Data professional to join
+our client at their Mountain View, CA office.
+
+Our client needs a Data Engineer with a winning track record in Big Data and
+Distributed Systems.  We?re using data in groundbreaking ways to uncover
+customer insights, personalize customer experiences, and provide a unified
+customer view across all SBG products.
+
+Responsibilities:
+
+  * Work in the Small Business Group (SBG) Marketing analytics team. The team
+    consists of data engineers, data analysts and scientists.
+  * Design and develop big data solutions using industry standard
+    technologies. 
+  * Develop data pipelines for ingesting data from variety of 3rd party data
+    sources such as csv files, API pulls, Json files, AWS etc. to HDFS, Hive
+    and Vertica.
+  * Work with data architects to ensure that Big Data solutions are aligned
+    with company-wide technology directions.
+  * Be a part of fast moving development teams using agile methodologies.
+  * Use best practices for unit testing, CI/CD, performance testing, capacity
+    planning, documentation, monitoring, alerting, and incident response.
+  * Identify and clarify the critical few issues that need action and drive
+    appropriate decisions and actions. Communicate results clearly and in
+    actionable form.
+  * Learn and contribute to building and designing in core technologies ?
+    Hadoop, Hive, Vertica, and Tableau.
+  * Demonstrate strong implementation aptitude to translate objectives into a
+    scalable solution to meet the needs of the end customer while meeting
+    deadlines.
+  * Work closely with stake holders to make data usable and derive insights for
+    analysis and decision making.
+
+ 
+
+Qualifications:
+
+  * BS in Computer Science, but MS is preferred
+  * 3+ years of hands-on data engineering experience.
+  * Strong experience is designing data pipeline using python, pig, Hive, Unix
+  * Strong SQL experience including Hive QL and columnar database such as
+    Vertica.
+  * 3+ years of experience integrating technical processes and business
+    outcomes ? specifically: data and process analysis, data quality metrics/
+    monitoring, data architecture, developing policies/standards & supporting
+    processes.
+  * Strong CS fundamentals including data structures, algorithms and
+    distributed systems.
+  * Strong database fundamentals including SQL, performance and schema design.
+  * Strong programming skills in Java, Python, Ruby or similar.
+  * Good to have experience in pulling data from sources such as REST APIs,
+    AWS, unstructured data.
+  * Project leadership experience, including a few years or more years leading
+    multiple complex software development projects using agile methodologies.
+  * Experience using big data technologies and their applications (HDFS, Kafka,
+    Cassandra, Columnar Databases, Graph Databases, etc).
+  * History of contributing to open source projects is a plus.
+  * AWS experience is a plus.
+
+ 
+
+  * Share on Facebook
+  * Share on LinkedIn
+  * Share on Twitter
+
+Forward this Position
+Recipient email address (one)
+[                    ]
+Your name
+[                    ]
+Your email address
+[                    ]
+Enter a message (optional)
+[                    ]
+[Send Message] [Cancel]
+
+? Go back to job listings
+
+Apply for this Position
+* Required fields
+[apply_with]
+First name*
+[                    ]
+Last name*
+[                    ]
+Email address*
+[                    ]
+Location
+[                    ][                    ][                    ]
+[                    ]
+Phone number*
+[                    ]
+Resume*
+
+Attach resume or Paste resume
+
+Attach resume as .pdf, .doc, or .docx (limit 2MB) or paste resume
+
+[                    ]
+
+Paste your resume here or attach resume file
+
+[                    ]
+[                    ]
+Cover Letter*
+[                    ]
+In 150 characters or fewer, tell us what makes you unique. Try to be creative
+and say something that will catch our eye!*
+[                    ]
+Human Check*
+
+[                                        ] 
+[                                        ] 
+[                                        ] 
+Social recruiting and Applicant Tracking System [Submit Application] [Cancel]
+Social recruiting and Applicant Tracking System

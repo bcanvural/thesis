@@ -1,0 +1,104 @@
+[logo-2x]
+
+Senior Data Scientist
+
+Loot Crate was founded in 2012 around a simple idea: put the awesomeness of
+Comic-Con in a box. Today, we ship some of the coolest geek, gaming, and
+pop-culture collectibles and accessories to a subscriber base in the hundreds
+of thousands (with no signs of slowing down) making us one of the top
+subscription box services in the world! We’ve assembled an amazing team of
+passionate, ambitious, impossibly nerdy people who cultivate our amazing fan
+community, provide support of the highest caliber, and generally just sit there
+radiating niceness. We’re always on the lookout for fun, hard-working new
+people to join our team and make Loot Crate even better.
+
+The Data Scientist will be an integral part of the Loot Crate data team and
+will be responsible for establishing the standard methods and technologies
+around data science. The Senior Data Scientist will work with the data
+architect and company SMEs to take disparate data sets and create actionable
+data solutions. This role will lead creation and enhancement of our
+capabilities around predictive analytics, machine learning and other industry
+leading methodologies to deliver maximum value to the company. 
+
+WHAT YOU'LL DO:
+
+  • Run self-directed analysis and experiments to test hypothesis
+  • Present findings to executive team and team leads in a clear and actionable
+    way
+  • Lead predictive analytics and machine learning efforts in the areas of
+    customer retention, long term (6-9 month) growth forecasting, optimal
+    product mix selection and optimization of marketing efforts. 
+  • Conduct research to reveal churn determinants and effective prevention
+    methods
+  • Generate detailed analytics & reporting to support executive decisions and
+    workflows Including gathering business requirements, project planning,
+    implementing logical design and data modeling 
+  • Perform statistical and other data analysis to inform decision making and
+    drive continual improvements 
+  • Work with team members from various departments to provide department-level
+    advanced data analysis and reporting 
+  • Provide strategic recommendations for enhancing data analysis capabilities
+  • Provide mentoring to members of data and analyst teams
+
+WHAT DEFINES SUCCESS:
+
+  • You display a passion for analyzing large data sets, pattern recognition,
+    and seeking better ways of doing things 
+  • You confidently tackle complex problems and make appropriate business
+    recommendations
+  • You're able to create long-lasting relationships with cross-functional
+    staff across the company
+
+QUALIFICATIONS NEEDED:
+
+  • 5+ years of experience in a Data Science/Analysis role
+  • 2+ years of experience with R and/or Python (pandas/numpy/scipy) 
+  • 2+ years of experience with practical probability and statistics. 
+  • Master’s Degree in technical/scientific/analytical field, Ph.D. Preferred.
+  • Experience in a eCommerce, retail, or subscription business
+  • You've presented findings and analysis to high-level executives before
+  • SQL skills preferred
+
+* Required fields
+[apply_with]
+First name*
+[                    ]
+Last name*
+[                    ]
+Email address*
+[                    ]
+Location *
+[                    ][                    ][                    ]
+[                    ]
+Phone number*
+[                    ]
+Resume*
+
+Attach resume or Paste resume
+
+Attach resume as .pdf, .doc, or .docx (limit 2MB) or paste resume
+
+[                    ]
+
+Paste your resume here or attach resume file
+
+[                    ]
+[                    ]
+Cover Letter*
+[                    ]
+In 150 characters or fewer, tell us what makes you unique. Try to be creative
+and say something that will catch our eye!*
+[                    ]
+The following questions are entirely optional.
+To comply with government Equal Employment Opportunity / Affirmative Action
+reporting regulations, we are requesting (but NOT requiring) that you enter
+this personal data. This information will not be used in connection with any
+employment decisions, and will be used solely as permitted by state and federal
+law. Your voluntary cooperation would be appreciated. Learn more.
+Gender
+[Decline to answer]
+Race
+[Decline to answer                    ]
+Veteran/Disability status
+[Decline to answer               ]
+Social recruiting and Applicant Tracking System [Submit Application] [Cancel]

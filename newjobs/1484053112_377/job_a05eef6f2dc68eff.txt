@@ -1,0 +1,99 @@
+Large fractl logo 1
+
+All jobs → Freelance Data Scientist
+
+Freelance Data Scientist
+
+Telecommute · Delray Beach, Florida, United States · Creative Strategy
+
+Description
+
+Fractl is a creative marketing agency that fuses data journalism and
+information design to explore universal human interests in original and daring
+ways.
+
+Our projects showcase illuminating findings through beautiful visualizations
+and intelligent storytelling, reaching audiences of millions through a
+strategic understanding of digital PR that we’ve honed over the past four
+years.
+
+Fractl has gone from strength-to-strength since it was founded in 2012, with
+more than 60 full-time team members currently at its head office in Florida,
+and many more around the globe.
+
+
+We’re looking for a Data Scientist who can reveal the most interesting and
+surprising findings in data he/she collects, cleans, models and tests. The
+ideal candidate will have an excellent grasp of basic statistics, including
+statistical tests, distributions, and maximum likelihood estimation. A solid
+understanding of statistical significance is vital, as is the ability to
+determine if methodologies are sound. Your contributions to Fractl projects
+will be crucial in ensuring stories are based on meaningful results that truly
+represent trends in the real world.
+
+Your role in a project will typically begin by assessing potential data sources
+alongside a data journalist to find one (or several) that has the potential to
+reveal a compelling story that relates to the client’s products or services.
+You will then collect the data, scraping it if necessary, before analyzing it
+through Exploratory Data Analysis and hypothesis testing using such statistical
+programs at Excel and Tableau. Your juicy discoveries are then presented to an
+information designer and data journalist for them to produce an engaging visual
+story and article the general public can enjoy.
+
+You will have the freedom to explore data in whatever way you feel is most
+likely to tease out revealing and engaging results and, as a result, your
+efforts will be seen by potentially millions of people--not lost behind the
+scenes in a corporate environment.
+
+Requirements
+
+Education
+
+We value experience over education, but a degree in statistics or data science
+wouldn’t hurt. The most important thing is that your instincts and
+investigative methods are well-developed and reliable.
+
+Required Skills and Experience
+
+● Fluency in a statistical programming language, like R or Python, and a
+database querying language like SQL. You will sometimes be dealing with huge
+data sets.
+
+● Advanced Excel skills, experience with Tableau - easily able to produce all
+the basic charts and graphs.
+
+● Knowledge of how to shape, normalize, model and visualize data in response to
+a list of questions you and other teams members choose to investigate, using
+statistical significance testing where required.
+
+● Excellent communication skills ­ you will need to explain your methods and
+results to other team members who don’t have the same knowledge of statistics
+as you.
+
+Desired Skills and Experience:
+
+● A strong journalistic instinct to know what questions to ask and what the
+answers must look like to deserve being featured in data visualizations.
+
+● Data scraping and an ability to work with APIs and unstructured data.
+
+● Experience with/ability to implement JS libraries geared toward visualizing
+information and displaying data (such as with d3.js).
+
+● A curious mind and insatiable intellectual curiosity.
+
+● An affinity for data-driven journalism like FiveThirtyEight and Freakonomics.
+
+Benefits
+
+This position is open to remote workers. Rate will be based on experience.
+Based on performance, there is strong opportunity for growth.
+
+Apply for this job
+
+Fractl does not discriminate on the basis of race, sex, color, religion, age,
+national origin, marital status, disability, veteran status, genetic
+information, sexual orientation, gender identity or any other reason prohibited
+by law in provision of employment opportunities and benefits.
+
+Fractl website Powered by Workable

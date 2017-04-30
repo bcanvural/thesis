@@ -1,0 +1,123 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Data Analyst, SCHARP
+
+Data Analyst, SCHARP
+
+Job ID 
+    8767
+
+Type 
+    Regular Full-Time
+
+Company 
+    Fred Hutchinson Cancer Research Center
+
+Location 
+    US-WA-Seattle
+
+More information about this job
+
+Overview
+
+The Statistical Center for HIV/AIDS Research and Prevention (SCHARP) at Fred
+Hutch is seeking a Data Analyst to provide data curation, integration, and
+analysis support for multiple clinical and laboratory data pipelines. The Data
+Analyst will use their data management expertise to optimize and document data
+design, database architecture, metadata and repository creation, data
+pipelines, data storage, and data models, and to curate and annotate data using
+open standards (e.g., CDISC).
+
+ 
+
+Cures Start Here. At Fred Hutchinson Cancer Research Center, home to three
+Nobel laureates, interdisciplinary teams of world-renowned scientists seek new
+and innovative ways to prevent, diagnose and treat cancer, HIV/AIDS and other
+life-threatening diseases. The Center’s five scientific divisions collaborate
+to form a unique environment for conducting basic and applied science. Vaccine
+and Infectious Diseases Division (VIDD), works to eliminate or minimize the
+impact of globally significant infectious diseases. Within VIDD is
+the Statistical Center for HIV/AIDS Research & Prevention (SCHARP) which
+provides statistical support and data management to researchers worldwide in
+the fight against HIV/AIDS with active studies in the U.S., Africa, Latin
+America, Asia and Europe. Join us and make a difference! Careers Start Here.
+
+Responsibilities
+
+Data Management
+
+  • Assist in the requirements and techniques for ensuring quality data
+    collection.
+  • Develop and refine logical data models to ensure they support data storage,
+    integration, and reporting requirements.
+  • Work closely with programmers, statisticians, and other potential data
+    consumers, to understand requirements for data annotation.
+  • Design, develop, and maintain data mappings, data rules, and data
+    transformations to populate data warehouse with source data.
+  • Assist in monitoring and analyzing information and data systems to evaluate
+    their performance and recommend improvements as needed.
+  • Assist in testing and system validation to troubleshoot issues related to
+    data management systems.
+  • Use information management systems to document data models, metadata, and
+    ETL configurations.
+
+Data Curation
+
+  • Assist with reports, analyses, and data extractions as needed.
+  • Report unexpected patters or issues observed in data outputs.
+  • Manage the operations for a variety of data pipelines, ensure that source
+    data are loading into the data warehouse without error. Mitigate errors
+    that occur.
+  • Troubleshoot data-related problems and system operations as needed.
+
+Data Governance
+
+  • Participate in development of governance policies and processes around data
+    storage, use, and access.
+  • Work with project sponsors, stakeholders, and team members to ensure proper
+    data access, use and data integrity per regulatory requirements and SCHARP
+    policies.
+  • Collaborate in the development, adoption, and adherence of data standards.
+  • Provides leadership and supervision for data standards staff and training
+    and support on master data process to users.
+
+Qualifications
+
+  • BS/BA in computer science or relevant field
+  • 3 years’ experience as data architect, manager, curator, or analyst
+  • Excellent understanding of data administration and management functions
+  • Familiarity with database and information system technologies
+  • Excellent problem-solving, communication, collaboration and leadership
+    skills
+
+Preferred Qualifications
+
+  • Graduate degree in Computer Science, Math, Engineering, or Statistics
+  • 5 years of proven, successful hands-on data curation experience
+  • Must be highly detail-oriented with ability to multitask and meet deadlines
+    in a high-pressure environment
+  • Experience in data analysis, data warehousing or data integration
+  • Strong knowledge of data structures, algorithms and object-oriented design
+  • Proven success as a multi-disciplinary team member, partnering with process
+    /systems managers, data consumers and IT support functions to achieve
+    business goals
+
+Options
+
+ 
+Apply for this job onlineApply
+Share
+ 
+Refer this job to a friendRefer
+Share on your newsfeed
+Not ready to apply? Connect with us for general consideration.
+[back]Go back to the welcome page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

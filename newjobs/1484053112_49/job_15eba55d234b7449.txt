@@ -1,0 +1,103 @@
+Wyle homepage
+
+Capabilities        Contracts         Customers        Careers        About Us
+
+click here for Careers page
+ 
+
+
+Engineer/Software Developer (Dayton, OH)
+
+OH-Dayton
+
+
+Apply Now to Join Our Team Refer a Friend
+
+
+Category: Information Technology
+Schedule: Full-Time
+Reference ID: STE-OHDAY-16:026
+
+
+PLEASE NOTE THAT THIS IS A CONTINGENT POSITION
+
+The incumbent provides software development support to QUASAR Task Order 51,
+RPA Operator Color Vision requirements Research and Operational Vision
+Assessment (OBVA) Research Support.  This effort supports USAFSAM’s Operational
+Based Vision Assessment (OBVA) research involving human subject data
+collection.  This effort will leverage OBVA research facilities, newly
+developed computer-based vision testing capabilities, and personnel.  The
+purpose of the OBVA program is to investigate and validate the relationships
+between operational visual performance and visual standards, proposed future
+tests, and other measure.  Incumbent will perform other duties and assignments
+as required.
+
+ESSENTIAL DUTIES & RESPONSIBILITIES
+
+  • Provides software development to support research objectives of QUASAR Task
+    Order 51
+  • Provides technical support to the research scientist and other task order
+    leadership
+  • Provides troubleshooting and support as needed
+  • Provides collaboration with vendors to ensure technological issues are
+    addressed and resolved to meet contract deliverables and timelines
+  • Provides inputs to research objectives and reports as required
+  • Ensures compliance with contract requirements, USAF Instructions and
+    KBRwyle company policies and procedures 
+
+Required Education/Experience:  
+
+  • Bachelor’s Degree in Computer Science, Software Engineering or relevant
+    field
+  • 2-4 years’ experience in software, software development and technical
+    research
+  • 3D Graphics experience
+
+Required Skills/Training:
+
+  • Experience working with Image Generator (IG) software
+  • Experience with C++, C# or Visual Basic
+  • Experience with Matlab
+
+Desired Education, Experience, Skills or Training:
+
+  • Experience supporting research activities
+  • Experience working with Department of Defense on Federal contracts
+  • Experience working with visual and color vision-based research 
+
+Standard Company Requirements:
+• Position requires U.S. Citizenship or Permanent Resident Status.
+• Applicant must include desired salary in application submission.
+• Must comply with Safety, Health and Environmental plan, policies and
+procedures.
+• Must comply with the Quality Assurance plan, policies and procedures.
+• Must maintain regular and acceptable attendance.
+• Responsible for completing all required training.
+• Perform other assignments and duties, as required.
+
+Physical & Cognitive Requirements:
+• Speaking: Verbal communication using the English language.
+• Written Communication: Produce written work using the English language.
+• Organization: Prioritize multiple, competing assignments.
+• Performance Level: Perform effectively in a fast paced, demanding work
+environment.
+• Seeing: Must be able to read reports and use computers and other office
+electronics.
+• Hearing: Must be able to hear well enough to communicate with co-workers.
+• Fingering/Grasping/Feeling: Must be able to write, type and use phone system.
+• Must be able to stand, walk, climb, stoop, kneel, lift, pull and push.
+• Travel Requirement: Must be willing to travel as necessary to meet business
+needs.
+
+This position does not offer relocation.
+EOE/Minorities/Females/Vet/Disability
+This position is eligible for the internal recruiting incentive program. 
+
+
+
+Apply Now to Join Our Team Refer a Friend
+
+[                    ] [All Types] [All Categories]
+
+[                    ] [Any Distance] or
+[All Locations Sitemap | Privacy Policy | Contact Us ;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","https://d3a4a2227c91d4e8c60f-630e6f8e806dd88b9f681f0b0670601f.ssl.cf2.rackcdn.com/sp-2_6_1.js","snowplow"));window.snowplow('newTracker', 'cf', 'www.snaphop-analytics.com', {appId: '2e2cce95-7fc5-11e3-ba0a-bc764e11339f',cookieDomain: ''});window.snowplow('trackPageView', null,[{"schema":"iglu:com.recruitinghop/recruitinghop_context/jsonschema/1-0-0","data":{"jobId":"91084d28-c6d6-11e6-82ea-bc764e1156ea","jobSiteId":"2e2cce95-7fc5-11e3-ba0a-bc764e11339f","jobRefId":"STE-OHDAY-16:026","jobType":"FULLTIME","jobAvailableOn":1483960010110,"jobExpiresOn":1489057610110,"jobTimeZone":"America/Los_Angeles","jobCountry":"OH-Dayton","jobState":"OH-Dayton","jobCity":"OH-Dayton","jobLatitude":39.7589478,"jobLongitude":-84.1916069,"pageCategory":"Information Technology","pageType":"Job","behavior":"VISITED_JOB_PAGE"}}]); (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-34754211-1', 'wyle.com'); ga('send', 'pageview');]

@@ -1,0 +1,706 @@
+Skip to main content Skip to Footer
+Accenture
+
+    Click the menu icon to display the main navigation.
+    Type anywhere at any time to use our smart search tool.
+    [Continue]
+  • Search Type to search
+  • United States
+  • SIGN IN
+  • MENU
+
+STRATEGY CONSULTING DIGITAL TECHNOLOGY OPERATIONS  INDUSTRIES CAREERS
+About Accenture Corporate Citizenship Inclusion and Diversity Investor
+Relations Leadership Newsroom    
+
+  • Consulting Home
+
+  • Automotive and Industrial
+
+  • Banking
+
+  • Capital Markets
+
+  • Chemicals
+
+  • Communications, Media and Technology
+
+  • Consumer Goods and Services
+
+  • Energy
+
+  • Health
+
+  • Insurance
+
+  • Life Sciences
+
+  • Natural Resources
+
+  • Public Service
+
+  • Retail
+
+  • Travel
+
+  • Utilities
+
+  • Digital Home
+
+  • Accenture Analytics
+
+  • Accenture Interactive
+
+  • Accenture Mobility
+
+  • Technology Home
+
+  • Accenture Labs
+
+  • Application Services
+
+  • Artificial Intelligence
+
+  • Cloud
+
+  • Microsoft
+
+  • Oracle
+
+  • SAP
+
+  • Delivery
+
+  • Operations Home
+
+  • As a Service
+
+  • Business Process Services
+
+  • Intelligent Business Cloud
+
+  • Automotive and Industrial
+
+  • Banking
+
+  • Capital Markets
+
+  • Chemicals
+
+  • Communications, Media and Technology
+
+  • Consumer Goods and Services
+
+  • Energy
+
+  • Health
+
+  • Insurance
+
+  • Life Sciences
+
+  • Natural Resources
+
+  • Public Service
+
+  • Retail
+
+  • Travel
+
+  • Utilities
+
+  • Careers Home
+
+  • Accenture Strategy
+
+  • Accenture Consulting
+
+  • Accenture Digital
+
+  • Accenture Technology
+
+  • Accenture Operations
+
+  • Corporate Functions
+
+  • Culture and values
+
+  • Training and development
+
+  • The employee experience
+
+  • Campus/early careers
+
+  • Experienced hire
+
+  • Search and apply
+
+  • US Workforce Demographics
+
+Scroll Swipe
+
+Print
+
+Job Listing
+
+{"countries":
+[{"CountryName":"Brazil","Locale":"pt-BR","Language":"pt-BR","SiteCode":"10200"},
+{"CountryName":"China","Locale":"cn-en","Language":"en","SiteCode":"10200"},
+{"CountryName":"China","Locale":"cn-zh","Language":"zh-CN","SiteCode":"10200"},
+{"CountryName":"France","Locale":"fr-fr","Language":"fr-fr","SiteCode":"10200"},
+{"CountryName":"Germany","Locale":"de-de","Language":"de","SiteCode":"10200"},
+{"CountryName":"Italy","Locale":"it-it","Language":"it","SiteCode":"10140"},
+{"CountryName":"Japan","Locale":"jp-ja","Language":"ja","SiteCode":"10001"},
+{"CountryName":"Spain","Locale":"es-es","Language":"es","SiteCode":"10200"},
+{"CountryName":"United
+Kingdom","Locale":"gb-en","Language":"en-GB","SiteCode":"10003"},
+{"CountryName":"USA","Locale":"us-enTaleo","Language":"en","SiteCode":"10003"}]}
+
+Accenture Analytics-Data Science Consultant
+
+Job Location: CA - San Francisco, CA - San Francisco, WA - Seattle
+
+Job Number: 00424453 00424453_en
+
+APPLY GET REFERRED SAVE THIS JOB
+
+- Job description
+
+Organization: Accenture Analytics
+
+Travel: Travel Required
+
+Position: Accenture Analytics – Data Scientist
+
+ 
+
+The digital revolution is changing everything. It’s everywhere – transforming
+how we work and play. Are you leading the way as a digital disrupter? Accenture
+Digital is driving these exciting changes and bringing them to life across 40
+industries in more than 120 countries. At the forefront of digital you’ll
+create it, own it, and make it a reality for clients looking to better serve
+their connected customers and operate always-on enterprises. Join us and become
+an integral part of our experienced digital team with the credibility,
+expertise, and insight clients depend on.
+
+ 
+
+Accenture Digital is powered by three practices –Mobility, Interactive, and
+Analytics. As part of our Analytics practice, you’ll deliver
+analytically-informed, issue-based solutions that help clients make faster,
+smarter decisions. You’ll play a critical role in helping them tackle complex
+business issues.
+
+ 
+
+ 
+
+JOB DESCRIPTION
+
+Your client’s eyes probably glaze over when you discuss in detail logistic
+regression, cluster analysis, neural nets and other segmentation models, but
+they certainly appreciate your uncanny ability to utilize those to lower their
+marketing costs and improve marketing effectiveness. Or perhaps they rely on
+you to provide analytics that stimulate sales, strengthen customer loyalty and
+generate purchases. If you’ve earned a reputation for your analytics expertise,
+Accenture may be the perfect place to take the next step in your career
+journey.
+
+ 
+
+ 
+
+YOUR ROLE: Data Scientist
+
+There will never be a typical day at Accenture Analytics, but that’s why people
+love it here. The opportunities to make a difference within exciting client
+initiatives are unlimited in the ever-changing digital landscape. Here are just
+a few of your day-to-day responsibilities.
+
+  • Design, develop and deploy state-of-the-art, data-driven predictive/
+    descriptive models to solve business problems using the latest and most
+    appropriate technologies in statistical modeling and machine learning.
+  • Create new insights from predictive statistical modeling activities that
+    target and deliver value to our clients.
+  • Manage, architect and analyze big data in order to build data driven
+    business insights and high impact data models to generate significant
+    business value.
+  • Create models and processes to collect, distill and interpret data with a
+    view to aid better, more informed decision making.
+  • Examine and explore data from multiple disparate sources with the goal of
+    discovering insights which in turn can provide competitive advantage for
+    our clients.
+
++ Basic qualifications
+
+YOUR EXPERIENCE:        
+
+Basic Qualifications
+
+  • Strong background in statistical concepts and calculations
+  • 3 years of experience with real data
+  • Innovative and strong analytical and algorithmic problem solver
+  • 2 years of experience with open source machine learning tools: Python/
+    scikit-learn or Revo R.
+  • 2 years of experience with scripting languages (e.g., Python, Ruby, Perl,
+    Bash) for orchestration and data manipulation
+  • 2 year Data engineering experience, including SQL and experience
+    manipulating structured and unstructured data sources for analysis.
+  • 2 year experience delivering analytical solutions using modeling tools
+    (e.g. SAS, R, SPSS, etc)
+  • Bachelor’s Degree in a relevant field like statistics, computer science or
+    applied math, physics or relevant subjects or 4+ years of experience in
+    computer science, applied mathematics, or other quantitative/computational
+    discipline
+
+ 
+
+SET YOURSELF APART: Preferred Skills
+
+  • Experience with MapReduce/Hadoop and related technologies (e.g., Pig, Hive,
+    Cascading).
+  • Familiarity with Amazon Web Services and Elastic MapReduce a plus.
+  • Familiarity with Hadoop based commercial packages (e.g. Cloudera,
+    Hortonworks)
+  • Experience in text mining/NLP
+
+OUR COMMITMENT TO YOU
+
+  • Your entrepreneurial spirit and vision will be rewarded, and your success
+    will fuel opportunities for career advancement
+  • You’ll make a difference for some pretty impressive clients. Accenture
+    serves many of the Fortune Global 100 on high-profile projects.
+  • Opportunities to learn daily through training, assignments and
+    collaboration with experts across the company.
+  • Access to leading-edge technology.
+  • Along with a competitive salary, Accenture offers a comprehensive package
+    that includes generous paid time off, 401K match and an employee healthcare
+    plan. Learn more about our extensive rewards and benefits http://
+    careers.accenture.com/us-en/your-future/rewards-benefits/Pages/index.aspx
+
+CALL TO ACTION
+Now is the time to become a digital disrupter. The opportunity is here—what’s
+stopping you from pursuing it?
+
+ 
+
+Applicants for employment in the US must have work authorization that does not
+now or in the future require sponsorship of a visa for employment authorization
+in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN
+visa or any other non-immigrant status).
+Candidates who are currently employed by a client of Accenture or an affiliated
+Accenture business may not be eligible for consideration.
+Accenture is an EEO and Affirmative Action Employer of Females/Minorities/
+Veterans/Individuals with Disabilities.
+
+ 
+
+Equal Employment Opportunity
+All employment decisions shall be made without regard to age, race, creed,
+color, religion, sex, national origin, ancestry, disability status, veteran
+status, sexual orientation, gender identity or expression, genetic information,
+marital status, citizenship status or any other basis as protected by federal,
+state or local law.
+Accenture is committed to providing veteran employment opportunities to our
+service men and women.
+
+APPLY GET REFERRED SAVE THIS JOB
+
+
+
+  • Job Openings in Netherlands Change Location
+
+  •  
+  •  
+
+  • Latest jobs
+  • SUGGESTED JOBS
+
+Jobs based on searches similar to yours:
+
+Junior Digital Consultant Amsterdam
+
+Strategy Consultant/Manager Supply Chain Management Amsterdam
+
+Senior Developer Cloud Platform Almere
+
+More Jobs
+Go Back
+Select Country
+
+  • Afghanistan
+  • Albania
+  • Algeria
+  • American Samoa
+  • Andorra
+  • Angola
+  • Anguilla
+  • Antarctica
+  • Antigua And Barbuda
+  • Argentina
+  • Armenia
+  • Aruba
+  • Australia
+  • Austria
+  • Azerbaijan
+  • Bahamas
+  • Bahrain
+  • Bangladesh
+  • Barbados
+  • Belarus
+  • Belgium
+  • Belize
+  • Benin
+  • Bermuda
+  • Bhutan
+  • Bolivia
+  • Bosnia And Herzegovina
+  • Botswana
+  • Bouvet Island
+  • Brazil
+  • British Indian Ocean Territory
+  • Brunei Darussalam
+  • Bulgaria
+  • Burkina Faso
+  • Burundi
+  • Cambodia
+  • Cameroon
+  • Canada
+  • Cape Verde
+  • Cayman Islands
+  • Central African Republic
+  • Chad
+  • Chile
+  • China
+  • Christmas Island
+  • Cocos (Keeling) Islands
+  • Colombia
+  • Comoros
+  • Congo
+  • Congo (Rep)
+  • Cook Islands
+  • Costa Rica
+  • Cote D'Ivoire
+  • Croatia
+  • Cuba
+  • Cyprus
+  • Czech Republic
+  • Denmark
+  • Djibouti
+  • Dominica
+  • Dominican Republic
+  • East Timor
+  • Ecuador
+  • Egypt
+  • El Salvador
+  • Equatorial Guinea
+  • Eritrea
+  • Estonia
+  • Ethiopia
+  • Falkland Islands
+  • Faroe Islands
+  • Fiji
+  • Finland
+  • France
+  • France Metropolitan
+  • French Guiana
+  • French Polynesia
+  • French Southern Territories
+  • Gabon
+  • Gambia
+  • Georgia
+  • Germany
+  • Ghana
+  • Gibraltar
+  • Greece
+  • Greenland
+  • Grenada
+  • Guadeloupe
+  • Guam
+  • Guatemala
+  • Guinea
+  • Guinea - Bissau
+  • Guyana
+  • Haiti
+  • Heard And Mc Donald Islands
+  • Honduras
+  • Hong Kong
+  • Hungary
+  • Iceland
+  • India
+  • Indonesia
+  • Iran
+  • Iraq
+  • Ireland
+  • Israel
+  • Italy
+  • Jamaica
+  • Japan
+  • Jordan
+  • Kazakhstan
+  • Kenya
+  • Kiribati
+  • Kuwait
+  • Kyrgyzstan
+  • Lao People's Republic
+  • Latvia
+  • Lebanon
+  • Lesotho
+  • Liberia
+  • Libyan Arab Jamahiriya
+  • Liechtenstein
+  • Lithuania
+  • Luxembourg
+  • Macau
+  • Macedonia
+  • Madagascar
+  • Malawi
+  • Malaysia
+  • Maldives
+  • Mali
+  • Malta
+  • Marshall Islands
+  • Martinique
+  • Mauritania
+  • Mauritius
+  • Mayotte
+  • Mexico
+  • Micronesia
+  • Moldova
+  • Monaco
+  • Mongolia
+  • Montenegro
+  • Montserrat
+  • Morocco
+  • Mozambique
+  • Myanmar
+  • Namibia
+  • Nauru
+  • Nepal
+  • Netherlands
+  • Netherlands Antilles
+  • New Caledonia
+  • New Zealand
+  • Nicaragua
+  • Niger
+  • Nigeria
+  • Niue
+  • Norfolk Island
+  • North Korea (People's Republic Of Korea)
+  • Northern Mariana Islands
+  • Norway
+  • Oman
+  • Other
+  • Pakistan
+  • Palau
+  • Panama
+  • Papua New Guinea
+  • Paraguay
+  • Peru
+  • Philippines
+  • Pitcairn
+  • Poland
+  • Portugal
+  • Puerto Rico
+  • Qatar
+  • Reunion Island
+  • Romania
+  • Russia
+  • Rwanda
+  • Saint Kitts And Nevis
+  • Saint Lucia
+  • Saint Vincent And The Grenadines
+  • Samoa
+  • San Marino
+  • Sao Tome And Principe
+  • Saudi Arabia
+  • Senegal
+  • Serbia
+  • Seychelles
+  • Sierra Leone
+  • Singapore
+  • Slovak Republic
+  • Slovenia
+  • Solomon Islands
+  • Somalia
+  • South Africa
+  • South Georgia And The South Sandwich Islands
+  • Spain
+  • South Korea
+  • Sri Lanka
+  • St Helena
+  • St Pierre and Miquelon
+  • Sudan
+  • Suriname
+  • Svalbard And Jan Mayen Islands
+  • Swaziland
+  • Sweden
+  • Switzerland
+  • Syrian Arab Republic
+  • Taiwan
+  • Tajikistan
+  • Tanzania
+  • Thailand
+  • Togo
+  • Tokelau
+  • Tonga Islands
+  • Trinidad And Tobago
+  • Tunisia
+  • Turkey
+  • Turkmenistan
+  • Turks And Caicos Islands
+  • Tuvalu
+  • Uganda
+  • Ukraine
+  • United Arab Emirates
+  • United Kingdom
+  • United States Minor Outlying Islands
+  • Uruguay
+  • USA
+  • Uzbekistan
+  • Vanuatu
+  • Vatican City State
+  • Venezuela
+  • Vietnam
+  • Virgin Islands (British)
+  • Virgin Islands (U.S.)
+  • Western Sahara
+  • Yemen
+  • Zaire
+  • Zambia
+  • Zimbabwe
+
+No country selected.
+Select City / State
+
+  • Select a country first.
+
+No city or state selected.
+Submit
+
+Events
+
+Find out more about careers and life at Accenture by attending our virtual or
+live events. Check out events in your area.
+
+Launch Calendar
+
+Find a job
+
+Start your search here: Enter job title, skill, experience level or city
+
+[                    ] Find
+Stay in touch
+
+Join the Accenture Talent Connection, follow our Careers blog, or sign up for
+job alerts.
+
+MORE
+     
+Contact Us   Find a Location  
+Careers   About Accenture   Privacy Policy   Cookie Policy   Terms of Use   
+Accessibility Statement   Labor Condition Applications   Global Meritocracy   
+E-Verify Notice      
+
+By using this site you agree that we can place cookies on your device. See our
+Privacy Policy and Cookie Policy for details.
+
+© 2017 Accenture. All Rights Reserved.
+
+
+[icn-contac] Contact Us
+[icn-locate] Find a Location
+     
+
+  • Careers
+  • About Accenture
+  • Privacy Policy
+  • Cookie Policy
+  • Terms of Use
+  • Accessibility Statement
+  • Labor Condition Applications
+  • Global Meritocracy
+  • E-Verify Notice
+  •  
+
+By using this site you agree that we can place cookies on your device. See our
+Privacy Policy and Cookie Policy for details.
+
+© 2017 Accenture. All Rights Reserved.
+
+Select your location
+
+[                    ]
+  • 
+  • 
+  • 
+
+No results found
+
+We were unable to find a match for "$searchstring." Try searching again by
+using different or more general keywords and check for spelling errors.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Stay In The Know
+
+Receive e-mails from Accenture featuring new content that matches your
+interests.
+
+Visit the subscription center to make your selections and subscribe to New from
+Accenture.
+
+SIGN UP
+
+RECOMMENDED CONTENT
+
+FILTER RESULTS
+
+FILTER RESULTS
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Register for Accenture Careers
+
+Personalize your Accenture career search and receive tailored career news,
+insights and job alerts.
+
+Register
+
+Already applied to a job?
+
+If you have applied for a position in a location other than India, Philippines,
+Bangladesh and Sri Lanka and would like to access your existing job
+application, please click here.
+
+Accenture Talent Connection
+
+Join our network of professionals interested in discovering more about the
+challenging and rewarding career opportunities offered by Accenture.
+
+Register or sign in.
+
+Sign in with e-mail and password
+
+Validation summary
+
+  • Invalid username / password
+
+Or sign in with LinkedIn
+
+LinkedIn Single Image Sign in with LinkedIn
+
+There is already a separate, active account tied to your profile. Please
+continue registration for this program without your profile
+
+Continue Cancel
+
+There is already a separate, active account tied to your profile. Please
+continue registration for this program without your profile
+
+Continue Cancel
+
+Are you sure you want to disconnect with account?
+
+Yes Cancel
+*

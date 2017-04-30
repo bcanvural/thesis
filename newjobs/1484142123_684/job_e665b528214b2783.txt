@@ -1,0 +1,108 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Fran?ais
+Espa?ol                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [upjdnwevo3v5s9awn9wc]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-00203 - Dat]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+Data Scientist
+Next Job
+Next
+
+Ref No.:               16-00203
+Location:              Somerset, New Jersey
+Position Type:         Contract
+Experience Level:      8 Years
+Start Date / End Date: 12/12/2016 to 06/30/2017
+
+QUALIFICATIONS
+
+  * Bachelor's degree in Engineering, Operations Research/Industrial
+    Engineering, Mathematics, Computer Science, Physics, or other
+    quantitatively-oriented discipline
+  * 1-2 years' experience in an analytics role
+  * Proficiency in R, SQL and/or SAS required; additional knowledge of other
+    statistical software or programming languages helpful
+  * Working knowledge of data manipulation languages is must have like Python/
+    Java/Scala
+  * Experience working with large datasets (SQL, noSQL)
+  * Experience related to pharmaceuticals industry is a plus
+  * Knowledge of typical pharmaceutical data sources (physician-level
+    prescribing, SFDC data etc.) is a plus
+  * Intellectual curiosity, along with excellent problem-solving and
+    quantitative skills, including the ability to disaggregate issues, identify
+    root causes and recommend solutions
+  * Ability to independently own and drive model development, balancing demands
+    and deadlines
+  * Ability to communicate analytical and technical content in an easy to
+    understand way
+  * Strong people skills, team-orientation and a professional attitude
+
+
+RESPONSIBILITIES
+You will analyze and evaluate large quantities of data in relational databases
+and unstructured forms of data, effectively balancing quality, availability and
+timeliness.
+Leveraging your data analysis skills, you will create innovative approaches to
+answer our clients' most relevant questions on tracking performance and impact
+against their goals. In these situations, you will work closely with sales
+management organization and may engage directly with clients, to understand the
+client's aspiration and structure an analytical approach to achieve it. You
+will also play the lead role conducting the analysis.
+You will also participate in building the team's analytical toolkit and
+infrastructure. Examples of this include designing easy-to-use tools or
+replicable approaches to address frequent client requests.
+Consult with Sales, Brand and Operational client leads to understand field/
+product performance expectations and translate to actionable field metrics and
+reports
+Proactively analyze and study client data to provide valuable insights
+[applicatio]Apply by creating/using account
+
+OK

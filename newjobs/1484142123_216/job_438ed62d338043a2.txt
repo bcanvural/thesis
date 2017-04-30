@@ -1,0 +1,211 @@
+Skip to Main Content
+UPenn Logo
+
+Careers@Penn
+
+Toggle navigation
+
+  * Home
+  * Search Jobs
+  * Create Account
+  * Log In
+  * Help
+
+  * Why Penn
+  * Equal Opportunity and Affirmative Action
+  * Faculty Positions
+  * Salary Information
+  * Sign up for Email Job Alerts
+
+SENIOR DATA SCIENTIST
+
+Below you will find the details for the position including any supplementary
+documentation and questions you should review before applying for the opening.
+To apply for the position, please click the Apply for this Job link/button.
+
+If you would like to bookmark this position for later review, click on the
+Bookmark link. If you would like to print a copy of this position for your
+records, click on the Print Preview link.
+
+Bookmark this Posting | Print Preview | Apply for this Job
+
+Posting Details
+
+Posting Details
+
+  Reference    40-24508
+    Number
+  Posted Job   SENIOR DATA SCIENTIST
+    Title
+ School Name   Perelman School of Medicine
+     Org       BE-Informatics Division
+Posted to the  12/09/2016
+     Web
+ Posted Job/   D
+ Salary Grade
+  Employment   Exempt
+     Type
+    Hours      40.00
+Position Type  Full Time
+   Position    8:30 to 5:30
+   Schedule
+    Months     12
+   Position    Contingent Upon Funding
+    Length
+ Position End
+     Date
+               The University of Pennsylvania, the largest private employer in
+               Philadelphia, is a world-renowned leader in education, research,
+               and innovation. This historic, Ivy League school consistently
+               ranks among the top 10 universities in the annual U.S. News &
+               World Report survey. Penn has 12 highly-regarded schools that
+               provide opportunities for undergraduate, graduate and continuing
+               education, all influenced by Penn?s distinctive
+               interdisciplinary approach to scholarship and learning.
+
+               Penn offers a unique working environment within the city of
+               Philadelphia. The University is situated on a beautiful urban
+  University   campus, with easy access to a range of educational, cultural,
+   Overview    and recreational activities. With its historical significance
+               and landmarks, lively cultural offerings, and wide variety of
+               atmospheres, Philadelphia is the perfect place to call home for
+               work and play.
+
+               The University offers a competitive benefits package that
+               includes excellent healthcare and tuition benefits for employees
+               and their families, generous retirement benefits, a wide variety
+               of professional development opportunities, supportive work and
+               family benefits, a wealth of health and wellness programs and
+               resources, and much more.
+
+               Responsible for the custom and complex application design,
+               development, testing, maintenance and documentation of natural
+               language processing (NLP) and machine learning (ML) methods and
+               applications produced for the Health Language Processing
+               Laboratory. Work with investigators and team members to apply
+               said methods to the analysis of big data in the biomedical
+    Duties     sciences including extraction of data from unstructured text in
+               clinical records, literature, social media text, and other
+               sources. Supervise staff, students, and postdocs in best
+               practices for software engineering, distribution, and support.
+               Assign modules of application to junior staff members and ensure
+               accurate and complete engineering of the final product.
+
+               The minimum of a Bachelor?s degree and 3 years of professional,
+               post-degree computer programming and software engineering
+               experience or an equivalent combination of education and
+               experience required. M.S. or Ph.D. Degree in Computer Science,
+               along with strong progressively responsible experience are
+               highly preferred.
+               Highly competent in Python and/or Java programming language
+               required
+               Experience with natural language processing and machine learning
+               required
+               Experience with annotation projects for natural language
+               processing a plus
+               Experience with biomedical research and publications a plus
+               Experience with development and maintenance of open source
+               software a plus
+Qualifications Experience with data science a plus
+               Experience with information visualization, scientific
+               visualization, or visual analytics a plus
+               Experience with high-performance computing a plus
+               Experience with several programming languages including HTML5,
+               JavaScript, Java, C, C++, Perl, R, and/or Python required
+               Experience with GitHub for version control a plus
+               Experience with Linux, Windows, Mac OS operating systems
+               required
+               Ability to work with a software development team using formal
+               software development methods
+               Ability to work independently and apply critical thinking and
+               sound judgment
+               Excellent organizational and time management skills
+               Ability to communicate effectively with team members
+
+               Penn adheres to a policy that prohibits discrimination on the
+ Affirmative   basis of race, color, sex, sexual orientation, gender identity,
+    Action     religion, creed, national or ethnic origin, citizenship status,
+  Statement    age, disability, veteran status, or any other legally protected
+               class.
+
+   Special     Background check required after a conditional job offer is made.
+ Requirements  Consideration of the background check will be tailored to the
+               requirements of the job.
+  Quick Link   http://jobs.hr.upenn.edu/postings/24549
+
+Posting Supplemental Questions
+
+Required fields are indicated with an asterisk (*).
+
+ 1. * How did you hear about this employment opportunity?
+      + Jobs@Penn
+      + Contacted by a Penn Recruiter
+      + Referred by a Penn Employee
+      + Referred by a friend or family member
+      + Higher Education Recruitment Consortium (HERC)
+      + Inside Higher Ed
+      + Indeed.com
+      + Other Internet Advertisement
+      + Linkedin
+      + Twitter
+      + Other Social Media Site
+      + Professional Affiliation/Trade Website
+      + Diversity Association/Publication Website
+      + Heard about it at a conference or career fair
+      + Apple One
+      + Recruitment and/or staffing agency
+ 2. * Do you have professional, post-degree programming experience?
+      + Yes
+      + No
+ 3. * Are you fluent in Perl and/or Python programming?
+      + yes
+      + no
+ 4. * Do you have experience with natural language processing and machine
+    learning?
+      + Yes
+      + No
+ 5. * What is your highest level of education completed?
+      + Less than high school education
+      + High School Diploma or GED
+      + Vocational or Technical School
+      + Associate's Degree or Two Year College
+      + Bachelor's Degree
+      + Master's Degree
+      + PHD/MD/JD or equivalent doctoral degree
+ 6. * How many years of experience do you have related to this position?
+      + 0 to 1 Year
+      + 1 to 2 Years
+      + 2 to 3 Years
+      + 3 to 5 Years
+      + 5 to 7 Years
+      + 7 to 10 Years
+      + Over 10 Years
+ 7. * Do you have previous experience with biomedical research?
+      + Yes
+      + No
+ 8. * Do you have experience with information visualization, scientific
+    visualization, or visual analytics?
+      + Yes
+      + No
+ 9. * Do you have experience with several programming languages including
+    HTML5, JavaScript, Java, C, C++, Perl, and R?
+      + Yes
+      + No
+10. * Do you have experience with git/GitHub?
+      + Yes
+      + No
+
+Applicant Documents
+
+Required Documents
+
+ 1. Resume
+
+Optional Documents
+
+ 1. Cover Letter
+
+3401 Walnut Street Philadelphia, PA 19104-6228 | (215) 898-7287
+
+                                                       recruitment@hr.upenn.edu
+

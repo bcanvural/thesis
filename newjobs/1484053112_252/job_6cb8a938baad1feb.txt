@@ -1,0 +1,251 @@
+ [z-logo-men] Homepage
+ 
+Sign in or Join
+Advertise
+ 
+Buy
+
+  • Homes for sale
+      □ 
+          ☆ Homes for sale
+          ☆ Foreclosures
+          ☆ For sale by owner
+          ☆ Open houses
+      □ 
+          ☆ New construction
+          ☆ Coming soon
+          ☆ Recent home sales
+          ☆ All homes
+  • Resources
+      □ 
+          ☆ Buyers Guide
+          ☆ Foreclosure center
+          ☆ Real estate app
+          ☆ Change your address
+
+Rent
+
+  • Rentals
+      □ 
+          ☆ Apartments for rent
+          ☆ Houses for rent
+          ☆ Pet friendly rentals
+          ☆ All rental listings
+          ☆ All rental buildings
+  • Build your Renter Profile
+      □ 
+          ☆ Boost your chances of landing the perfect rental by completing a
+            profile.
+
+          ☆ Start yours and stand out!
+  • Resources
+      □ 
+          ☆ Rent affordability calculator
+          ☆ Rent vs. buy calculator
+          ☆ Renters Guide
+          ☆ Rentals app
+          ☆ Rental advertising
+  • Rental Manager
+      □ 
+          ☆ Sign in to see your listings
+          ☆ List a rental (it's free)
+          ☆ Resources
+
+Sell
+
+  • Selling tools
+      □ 
+          ☆ See your home's Zestimate
+          ☆ Neighborhood Home Values
+  • Post a home for sale
+      □ 
+          ☆ For sale by agent
+          ☆ For sale by owner
+          ☆ Coming soon
+          ☆ Make me move
+
+Mortgages
+
+  • Shop mortgages
+      □ 
+          ☆ Mortgage lenders
+          ☆ Mortgage rates
+          ☆ Refinance rates
+          ☆ All mortgage rates
+  • Calculators
+      □ 
+          ☆ Mortgage calculator
+          ☆ Affordability calculator
+          ☆ Refinance calculator
+          ☆ Amortization calculator
+          ☆ Debt-to-Income calculator
+  • Resources
+      □ 
+          ☆ Lender reviews
+          ☆ Mortgage learning center
+          ☆ Mortgages app
+          ☆ Lender resource center
+
+Agent finder
+
+  • Looking for pros?
+      □ 
+          ☆ Real estate agents
+          ☆ Property managers
+      □ 
+          ☆ Home improvement pros
+          ☆ Other pros
+  • I'm a pro
+      □ 
+          ☆ Agent advertising
+          ☆ Agent resource center
+          ☆ Join the Agent Directory
+          ☆ Access agent hub
+      □ 
+          ☆ Real estate marketing guide
+          ☆ Agent email scripts
+          ☆ Listing flyer templates
+
+Advice
+
+  • Discussion topics
+      □ 
+          ☆ Home buying
+          ☆ Home selling
+      □ 
+          ☆ Mortgage
+          ☆ Rentals
+
+Home design
+
+  • Find design ideas
+      □ 
+          ☆ Kitchens
+          ☆ Bathrooms
+          ☆ Bedrooms
+      □ 
+          ☆ Dining rooms
+          ☆ Living rooms
+          ☆ See all spaces
+  • Popular styles
+      □ 
+          ☆ Contemporary
+          ☆ Traditional
+          ☆ Modern
+  • Popular Features
+      □ 
+          ☆ Wallpaper
+          ☆ Chandelier
+          ☆ Kitchen Cabinets
+      □ 
+          ☆ Patio Furniture
+          ☆ Bathroom Vanities
+          ☆ Area Rugs
+
+More
+
+  • Blogs
+      □ 
+          ☆ Zillow Porchlight
+          ☆ Zillow engineering blog
+          ☆ Zillow research
+
+Careers Home | Career Opportunities
+
+Senior Data Scientist, Computer Vision
+
+Technology | Seattle, WA
+
+  • Apply
+  • Email Listing to a Friend
+
+Senior Data Scientist - Computer Vision & Deep Learning
+
+ 
+
+We are looking for a talented computer vision and deep learning expert to join
+the Data Science & Engineering team. Leveraging our vast database of listing
+images / videos and photos on Zillow Digs, you will have the opportunity to use
+natural language processing, computer vision, and deep learning techniques to
+power analytic products such as the Zestimate®, personalization, search, photo/
+video recommendations, user segmentation, and home-related recommendations.
+
+ 
+
+What you’ll do:
+
+  • Collaborate closely with team members on developing computer vision systems
+    from prototyping to production
+  • Research, design, implement, and deploy full-stack scalable computer
+    vision, deep learning, and machine learning solutions to challenging
+    problems.
+  • Build and maintain a large scale computer vision infrastructure to be used
+    across Zillow Group
+  • Work on challenging problems in computer vision in real estate and develop
+    novel applications that bring value to our users.
+  • Keep up with state-of-the-art in computer vision and deep learning and
+    apply them to create new experiences for users
+  • Develop and implement state-of-the-art computer vision algorithms for
+    object detection, classification, segmentation and recognition.
+  • Come up with creative ideas for new signals and products leveraging Zillow
+    Group’s vast collection of real estate photos.
+  • Work with large-scale datasets, focusing on creating scalable and accurate
+    computer vision systems across varied applications.
+  • Translate business requirements into quick prototypes or proof of concept.
+
+ 
+
+What we need:
+
+  • PH.D. or MS in Computer Science, Computer Vision, Machine Learning, Deep
+    Learning or related field, or Bachelor’s with equivalent industry
+    experience.
+  • Strong foundation in computer science, algorithms, data structures, machine
+    learning and statistics
+  • Depth and breadth in state-of-the-art computer vision, deep learning and
+    machine learning technologies
+  • 2+ years of experience in computer vision or deep learning.
+  • Proficiency in Java, C++, Python, R or other equivalent languages
+  • Experience working with large datasets and Deep Learning algorithms
+  • Experience working with unstructured data like images and text and applying
+    novel machine learning techniques to convert insights into products
+  • Excellent written and verbal communication skills and ability to
+    communicate effectively to both technical and nontechnical audiences.
+  • Must be self-motivated and a strong team player
+  • Experience with Spark
+  • Experience working with Natural Language Processing
+  • Experience with computer vision/machine learning libraries such as OpenCV,
+    sklearn, xgboost, etc.
+  • Experience with deep learning frameworks such as Caffe, TensorFlow, Theano,
+    Torch, etc
+  • Experience working with Academic Datasets like ImageNet, Places, etc.
+  • Experience with distributed training of deep neural networks - data
+    parallelism, model parallelism
+
+ 
+
+  • Apply
+  • Email Listing to a Friend
+
+< Back to Careers Home
+< Back to Current Openings
+
+ 
+
+  • About
+  • Zestimates
+  • Research
+  • Jobs
+  • Help
+  • Advertise
+  • Terms of use & Privacy
+  • Ad Choice
+  • 
+  • Blog
+  • Mobile Apps
+
+  • 
+  • © 2006-2017 Zillow
+  • Follow us   
+
+*

@@ -1,0 +1,174 @@
+visa logo
+?
+Visa Talent Scout
+
+  * Jobs
+  * Help
+  * REWARDS
+
+Settings
+
+Information Security Data Scientist
+
+New
+
+? United States, California, Foster City
+
+ 
+?
+    Technology
+
+? ? ? ?
+    164030 Requisition #
+
+? ? ? ?
+    5 days ago Post Date
+
+Apply for Job
+Share this Job
+Sign Up for Job Alerts
+Data Scientist
+ 
+Visa operates the world?s largest retail electronic payments network and is one
+of the most recognized global financial services brands.  Visa facilitates
+global commerce through the transfer of value and information among financial
+institutions, merchants, consumers, businesses and government entities.
+ 
+We offer a range of branded payment product platforms, which our financial
+institution clients use to develop and offer credit, charge, deferred debit,
+prepaid and cash access programs to cardholders.  Visa?s card platforms provide
+consumers, businesses, merchants and government entities with a secure,
+convenient and reliable way to pay and be paid in more than 200 countries and
+territories.
+  
+Behind the Visa brand are more than 9,000 talented employees who continuously
+raise the bar with innovative solutions and products that deliver the
+convenience and security of digital currency to more people all over the world.
+ 
+Overview:
+ 
+Information security is an integral part of Visa?s corporate culture.  It is
+essential to maintaining our position as an industry leader in electronic
+payments, and it is the responsibility of each and every employee to safeguard
+information, protect it from unauthorized access, and ensure regulatory
+compliance.  Information security has a significant effect on privacy, consumer
+confidence, external reputation, and/or the bottom line, and it is a priority
+on everyone?s agenda.
+ 
+The successful candidate will part of Visa Security Analytics program and
+design, develop and implement statistical and machine learning anomaly
+detection models in the Hadoop ecosystem. Visa Security Analytics (VSA) program
+has an enterprise security focus, and is responsive to evolving threat
+landscape, regulatory compliance, IT security requirements and technology
+architecture. The VSA program is part of cyber security organization, handles
+long-term retention for security system logs and security sensor logs.
+ 
+This position based in Foster City, California.
+ 
+
+  * Will be a part of the Security Analytics group and will primarily focused
+    on entire data science life cycle activities.
+  * Cyber security use case requirement gathering, perform large-scale data
+    analysis and develop effective statistical and machine learning models for
+    improving Cybersecurity capabilities at VISA.
+  * Work closely with Data Engineering team to proactively deploy data science
+    models and making models operational.
+  * Responsible for all the data scientist model development life ? analysis,
+    design, build, test, deploy and operationalization.
+  * Suggest improvements in the tools and techniques to help scale the team
+    always look out for continuous improvement from technology and process
+    perspective
+  * The successful candidate should be adoptive to the Visa's agile environment
+
+Requirements/Qualifications:
+
+  * 10+ years of professional experience is a must. 
+  * MS or PhD degree in a quantitative discipline (applied mathematics,
+    statistics, computer science, operations research, or related field) from a
+    leading academic institution
+  * Expert knowledge of an analysis tool such as R,SAS or Matlab
+  * Comfortable on the command line and with Unix core tools
+  * Strong Programmer - Python, Perl, Java, and/or C++. Experience with
+    relational database (SQL, PL*SQL) is a plus
+  * Experience working with distributed computing tools a plus (Hadoop, PIG,
+    etc.)
+  * Thorough knowledge of supervised and unsupervised modeling techniques.
+  * Comfort analyzing large, complex, high-dimensional datasets
+  * Strong passion for empirical research and answering hard questions with
+    data
+
+
+About Visa:
+
+Common Purpose, Uncommon Opportunity. Everyone at Visa works with one goal in
+mind ? making sure that Visa is the best way to pay and be paid, for everyone
+everywhere. This is our global vision and the common purpose that unites the
+entire Visa team. As a global payments technology company, tech is at the heart
+of what we do. CyberSource, a Visa company, has been and continues to be a
+pioneer within the e-Commerce Payment Management world. Our VisaNet network is
+capable of handling over 65,000 transaction messages per second for people and
+businesses around the world, enabling them to use digital currency instead of
+cash and checks.
+
+We are also global advocates for financial inclusion, working with partners
+around the world to help those who lack access to financial services join the
+global economy. Visa?s sponsorships, including the Olympics and FIFA? World
+Cup, celebrate teamwork, diversity, and excellence throughout the world. If you
+have a passion to make a difference in the lives of people around the world,
+Visa offers an uncommon opportunity to build a strong, thriving career. Visa is
+fueled by our team of talented employees who continuously raise the bar on
+delivering the convenience and security of digital currency to people all over
+the world. Join our team and find out how Visa is everywhere you want to be.
+
+?Visa will consider for employment qualified applicants with criminal histories
+in a manner consistent with the requirements of Article 49 of the San Francisco
+Police Code.?
+
+[                    ]
+My Profile
+
+Create and manage profiles for future opportunities.
+
+Go to Profile
+
+My Submissions
+
+Track your opportunities.
+
+My Submissions
+
+Similar Listings
+
+Lead Engineer - Hadoop Administrator
+
+? United States, California, Foster City
+
+? Technology
+
+Requisition #: 164500
+
+Staff Information Security Engineer
+
+? United States, Texas, Austin
+
+? Technology
+
+Requisition #: 165255
+
+Security Metrics and Reporting ? Data Visualization Analyst
+
+? United States, California, Foster City
+
+? Technology
+
+Requisition #: 165006
+
+View More Listings
+
+  * Jobs
+  * Help
+  * Sitemap
+  * REWARDS
+
+? Visa Talent Scout. All rights reserved.
+1 1

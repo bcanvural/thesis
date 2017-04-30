@@ -1,0 +1,51 @@
+[getCompany]                                     Click here to login or register
+   Search For more jobs  |  Forward this job to a friend  |  APPLY by email
+  without registration  |  APPLY by creating / using your INSYS Group account
+
+Reference  17-00027        Title : Modeler/Data Scientist
+# :
+Location : Alpharetta, GA
+                           Start
+Experience                 Date /  07/07/2016 / 12/31/2016               
+Level :                    End
+                           Date :
+                                  Description
+Responsibilities
+
+- Build analytical solutions and models by manipulating large data sets and
+integrating diverse data sources.
+- Perform ad-hoc analysis and develop reproducible analytical approaches to
+meet business requirements.
+- Perform exploratory and targeted data analyses using descriptive statistics
+and other methods.
+- Apply machine learning and statistical techniques to large data sets to find
+actionable insights.
+- Work with data engineers on data quality assessment, data cleansing and data
+analytics.
+- Research new modeling techniques and evolving technologies.
+- Present results and recommendations to senior management and business users.
+- Design and develop visual dashboards.
+
+Requirements
+
+- Bachelor degree in Business Intelligence and Analytics, Computer Science,
+Mathematics or related field with extensive knowledge in the application of
+statistics and computer sciences (Master's preferred)
+- 10 + years of related professional experience or equivalent combination of
+education and experience.
+- 5 + years of experience as a data scientist, analyst or statistical modeler
+- Experience with statistical and analytical tools (R, Teradata Aster, SAS)
+- Understanding of Data Warehousing and Teradata SQL
+- Hands on experience with machine learning techniques
+- Working knowledge of building self-serve analytics tools for business users
+- Ability to package analysis in clear and concise reports and presentations
+- Familiarity with programming languages (Java, Python, or Scala)
+- Knowledge of distributive computing tools (Spark, Hive, etc)
+- Hadoop experience preferred
+- Experience with visualization tools (ex. Tableau, D3.js)
+- Experience with customer journey analysis is a plus
+- Experience with Teradata Aster SQL-MR is a plus.
+
+prefer prior experience with Cross Channel, Digital streams.
+Adobe ClickStream/Site Catalyst knowledge/skills a plus.
+

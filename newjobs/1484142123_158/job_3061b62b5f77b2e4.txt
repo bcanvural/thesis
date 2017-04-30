@@ -1,0 +1,259 @@
+terarecon
+
+  * Solutions
+  * Customer
+      + Technical Support
+      + Professional Services
+      + Training
+  * Resources
+  * Company
+      + About
+      + Leadership
+      + Careers
+      + Press Releases
+  * Contact
+  * Blog
+
+  * iNtuition Solutions
+      + Clinical Packages
+          o CT Cardiac
+          o CT Chest
+          o CT Body
+          o CT Head and Neck
+          o MR Cardiac
+          o MR Body
+          o Interventional Radiology
+          o Lung Segmentation
+          o Liver Segmentation
+          o EVAR Planning
+          o TAVR Planning
+          o Maxillo-Facial
+          o iGENTLE
+          o Body Fusion
+          o Volumetric Navigation
+          o Autobatch
+      + Advanced Visualization
+      + Overlay PACS Viewing
+      + Universal Viewing
+      + Cloud
+  * iNteract+ Solutions
+      + Image Sharing
+      + Interoperability
+  * Image Strategy by Role
+      + CIO
+      + IT
+      + Clinician
+      + PACS Admin
+  * Customer
+      + Techincal Support
+      + Professional Services
+      + Training
+  * Company
+      + About
+      + Leadership
+      + Careers
+      + Events
+  * Resource
+  * Contact
+  * Blog
+
+     
+
+Intuition Solutions
+
+Clinical Packages ?
+
+  * CT Cardiac
+  * CT Chest
+  * CT Body
+  * CT Head and Neck
+  * MR Cardiac Package
+  * MR Body Package
+  * Interventional Radiology
+  * Lung Segmentation
+  * Liver Segmentation
+  * EVAR Planning
+  * TAVR Planning
+  * Maxillo-Facial
+  * iGENTLE
+  * Body Fusion
+  * Volumetric Navigation
+  * Autobatch
+
+Advanced Visualization Overlay PACS Viewing Universal Viewing Cloud
+
+iNteract+ Solutions
+
+Image Sharing Interoperability
+
+Image Strategy by Role
+
+CIO IT Clinician PACS Admin
+
+-------------------------------------------------------------------------------
+Research Engineer, Machine Learning
+
+Location:                                 USA - CA
+Company Order Number:                     463
+# of openings:                            1
+-------------------------------------------------------------------------------
+Description
+
+About the Company
+TeraRecon is the largest independent, vendor neutral medical image viewing
+solution provider with a focus on advanced image processing innovation.
+TeraRecon iNtuition and iNteract+ solutions advance the accessibility,
+performance, clinical functionality and medical imaging workflow throughout
+many areas of the healthcare ecosystem. We provide world class advanced
+visualization 3D post-processing tools, as well as a spectrum of enterprise
+medical image viewing, diagnostic interpretation, image sharing,
+interoperability and collaboration solutions. TeraRecon is a privately-held
+company with its world headquarters in Foster City, California, and major
+offices in Tokyo, Japan; Frankfurt, Germany; and Acton, MA.
+ 
+About the Position
+We are seeking an enthusiastic and highly energetic research engineer to our
+Machine Learning R&D team. This position requires independent yet team worker
+who by nature hacker at heart and with highly analytical skill to solve tough
+problems in radiology and beyond. Candidates must have proven records and be
+highly confident in their ability to solve complex problems. Only apply if you
+have what it takes for challenges.
+ 
+Responsibilities
+Research, experiment, build prototypes that will lead to product using new
+technologies such as machine learning applicable to the proposed solutions.
+Develop new algorithms and methods for finding hidden relations and trends from
+large data.
+Design experiments to answer targeted questions.
+Conduct exploratory data analysis in high dimensions.
+Develop NLP or other text analytic components
+ 
+Minimum Requirements
+
+  * MS in computer science, math or other physical sciences.
+  * Demonstrated strong logical thinking
+  * Strong interest in machine learning/ deep learning
+  * Strong coder in C++/C# and Python
+  * Demonstrated ability to work independently with excellent communication
+    skills
+
+ 
+Preferred Qualifications
+
+  * Expert in machine learning/ deep learning with Caffe, TensorFlow and other
+    libraries
+  * Working knowledges in RBM, NLP, RNN, DL
+  * Knowledge with a focus on machine learning, computer vision/ image
+    analysis, mathematics and/or statistics
+  * Broad work experience with large data sets
+  * Strong experimental design and analysis skills.
+  * Strong interest in medical imaging and healthcare industry
+
+ 
+Education:
+
+  * MS/PhD degree or Candidate in STEM related field or equivalent experiences
+
+ 
+Salary:  Depending on qualifications and experience.
+Benefits: Medical, Dental, Vision, Life Insurance, LTD, STD, Section 125, and
+401K
+
+ 
+
+TeraRecon is an equal opportunity employer and a Federal subcontractor. All
+qualified applicants will receive consideration for employment without regard
+to race, color, religion, sex, national origin, disability or veteran status. 
+For more information, please refer to the ?EEO is the Law? poster. 
+
+
+[Apply for this Position]                                    [Send to a Friend]
+
+-------------------------------------------------------------------------------
+
+Are you a returning applicant?
+
+
+Previous Applicants:
+                                       Email: [                    ]
+[                    ] [                    ]
+                                    Password: [                    ]
+[Add to My Jobs]
+
+If you do not remember your password click here.
+
+
+Back to Search Results
+
+New Search
+
+
+                                                               Powered By Taleo
+
+
+
+Solutions by type
+
+  * Advanced Visualization (iNtuition)
+  * Universal Viewing (iNtuition)
+  * Overlay PACS Viewing (INtuition)
+  * Cloud (iNtuition)
+  * Image Sharing (INteract+)
+  * Interoperability (iNteract+)
+
+Customer
+
+  * Professional Services
+  * Training
+  * Software Maintenance
+
+Company
+
+  * About TeraRecon
+  * Leadership
+  * Press Releases
+  * Careers
+  * Events
+
+Solutions by role
+
+  * Clinician
+  * CIO
+  * IT
+  * PACS Admin
+
+Resources
+
+  * View All Resources
+
+Blog
+
+  * View Latest Post
+
+footer-logo.png
+TeraRecon Headquarters
+4000 East 3rd Avenue, Suite 200 Foster City, CA 94404
+Tel: 650.372.1100
+Fax: 650.372.1101
+info@terarecon.com
+
+?2015 Terarecon, Inc. All Rights Reserved.
+Privacy Policy | Blog
+
+Latest News
+
+Breaking out of the Box: TeraRecon Goes Beyond 3D
+Nov 27, 2015 4:20:00 AM
+
+Our roots in Advanced Visualization are the core of TeraRecon technology and
+the power-house behind our popularity. With thousands of...READ MORE
+
+Latest Blog Posts
+
+Breaking out of the Box: TeraRecon Goes Beyond 3D
+Nov 27, 2015 4:20:00 AM
+
+Our roots in Advanced Visualization are the core of TeraRecon technology and
+the power-house behind our popularity. With...READ MORE
+
+// Make the services drowdown hide / show the menu

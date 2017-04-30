@@ -1,0 +1,53 @@
+[enlitic_lo]
+
+Deep Learning / Machine Learning Engineer
+
+San Francisco
+Engineering
+Full-time
+Apply for this job
+
+As one of the first 20 full-time team members, you will develop Enlitic?s next
+generation of machine learning algorithms for medical decision making. Our
+ideal candidate enjoys translating deep learning techniques into production
+code.
+
+About You:
+
+      + Your primary mission is to put machine learning algorithms into
+        practice, while growing your own expertise in machine learning
+      + Your excellent understanding of the foundations of deep learning allows
+        you to explain CNNs to a four year old
+      + You understand the value of sound, reproducible engineering practices,
+        and believe that for machine learning to be successfully deployed in
+        the real world, it must be surrounded and supported by the right
+        production framework
+      + You have strong coding skills, and can work in languages ranging from
+        Python to C++ or Java, in a team development environment
+      + You are familiar with scientific computing and systems using GPUs to
+        parallelize operations
+
+Once you are here you will:
+
+      + Build maintainable pipelines for deep learning that can handle
+        terabytes of data
+      + Learn about machine learning, scalable high-bandwidth systems, and
+        information security
+      + Run experiments to test hypotheses with the team
+      + Design and build novel systems to solve unique medical problems
+      + Participate in a feedback loop to figure out the ways we can use deep
+        learning to maximize the impact on patient care
+
+Location
+This position is based in San Francisco, CA, reporting to the CEO
+
+We are an equal opportunity employer and value diversity at our company. We do
+not discriminate on the basis of race, religion, color, national origin,
+gender, sexual orientation, age, marital status, veteran status, or disability
+status.
+
+Apply for this job
+
+Enlitic Home Page
+
+Jobs powered by [lever-logo]

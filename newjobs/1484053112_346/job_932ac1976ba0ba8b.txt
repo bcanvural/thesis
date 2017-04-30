@@ -1,0 +1,413 @@
+Skip to content
+
+SAP is committed to the principles of Equal Employment Opportunity and to
+providing reasonable accommodations to applicants with physical and/or mental
+disabilities. If you are interested in applying for employment with SAP and are
+in need of accommodation or special assistance to navigate our website or to
+complete your application, please contact us at EMEA: +49 6227 7 48599 and
+careers@sap.com, Americas: hrdirectamericas@sap.com, APJ: hrdirectapj@sap.com.
+Requests for reasonable accommodation will be considered on a case-by-case
+basis.
+
+Sign in
+SAP
+
+  • Career Home
+  • Students & Graduates
+      □ SAP On Campus
+      □ Internships
+      □ Vocational Training
+  • Internal Employees
+  • Life at SAP
+      □ Offices
+      □ People
+      □ Culture
+      □ Benefits
+      □ Career Development
+  • Featured Jobs
+      □ Sales
+      □ Marketing & Communications
+      □ Consulting Services & Customer Support
+      □ Corporate Operations
+      □ Development & Technology
+      □ Finance
+      □ Human Resources
+      □ Executive & Management
+      □ University
+  • Locations
+  • Join Our Talent Community
+
+  •  
+      □ Students & Graduates
+      □ SAP On Campus
+      □ Internships
+      □ Vocational Training
+      □ 
+      □ Internal Employees
+      □ 
+      □ Life at SAP
+      □ Offices
+      □ People
+      □ Culture
+      □ Benefits
+      □ Career Development
+      □ 
+      □ Featured Jobs
+      □ Sales
+      □ Marketing & Communications
+      □ Consulting Services & Customer Support
+      □ Corporate Operations
+      □ Development & Technology
+      □ Finance
+      □ Human Resources
+      □ Executive & Management
+      □ University
+      □ 
+      □ Locations
+      □ 
+      □ Talent Network
+      □ Join Our Talent Community
+      □ Sign in
+  •  
+    Search by Keyword [                    ] Search by Location
+    [                    ] [Search All Jobs]
+
+Search by Keyword [                    ] Search by Location
+[                    ] [Search All Jobs]
+Email similar jobs to me
+
+  •  
+    Join with LinkedIn Join with LinkedIn Help
+  • 
+  •  
+    Join with Facebook Join with Facebook Help
+  • 
+  •  
+    Join Now  Help
+  • [                    ] Start
+  • Please wait...
+    Loading
+
+Share this Job
+
+Data Scientist Job
+
+Apply now »
+Apply now
+
+  •  
+    Start apply with LinkedIn Start apply with LinkedIn Help
+  • 
+  •  
+    Start apply with Facebook Start apply with Facebook Help
+  • 
+  •  
+    Start apply with Xing Start apply with Xing Help
+  • 
+  •  
+    Apply Now  Help
+  • [                    ] Start
+  • Please wait...
+    Loading
+
+Date: Dec 28, 2016
+
+Location: Palo Alto, CA, US
+
+Company: SAP
+
+Requisition ID: 119626
+Work Area: Software-Design and Development
+Expected Travel: 0 - 10%
+Career Status: Professional
+Employment Type: Regular Full Time
+
+ 
+
+COMPANY DESCRIPTION
+
+ 
+
+As market leader in enterprise application software, SAP helps companies of all
+sizes and industries innovate through simplification. From the back office to
+the boardroom, warehouse to storefront, on premise to cloud, desktop to mobile
+device – SAP empowers people and organizations to work together more
+efficiently and use business insight more effectively to stay ahead of the
+competition. SAP applications and services enable customers to operate
+profitably, adapt continuously, and grow sustainably.
+
+ 
+
+Data Scientist
+
+Use data science to create intelligent products for the best-in-class cloud
+procurement solution.
+
+We are looking for a Data Scientist to be part of our Business Network team and
+help draw insights from one of the biggest B2B data stores in the world. A key
+trait to be successful in this role is to have a love for data and utilize it
+to solve critical problems and deliver end user value. You will create
+predictive models, extract insights from data, find patterns in payments and
+buying data, and use your analytical skills to take our business applications
+to the next level.
+
+Key Responsibilities
+
+  • Work with other data scientists, developers and cross functionally with
+    product managers and other engineering teams to deliver predictive models
+    from concept to product
+  • Model Building Cycle – pull, cleanse, and validate data for analysis and
+    modeling.
+  • Create and implement predictive models for various business process like
+    payment risk, relationship discovery, categorization (unsupervised
+    learning), catalog optimization, etc.
+  • Work with software engineers to put predictive models in production
+  • Determine the tracking necessary to enable analytics of our products and
+    features by working closely with product and engineering partners
+
+Key Qualifications
+
+  • 2-4 years of experience
+  • Strong understanding of applied statistical concepts such as regression,
+    time series analysis, machine learning (supervised & unsupervised learning
+    such as segmentation, classification and clustering)
+  • Hands-on experience building models and machine learning algorithms
+  • Experience coding in Java, C, C++, Scala or Python a plus
+  • Knowledge of or experience working with big data (e.g., Hadoop) a plus
+  • Be an iterative and quick thinker – you deliver preliminary results fast
+    and then iterate over time
+
+M.S. or Ph.D. in Statistics, Mathematics, Economics, Computer Science (data
+mining or machine learning focus), or another quantitative scientific field.
+
+ 
+
+ 
+
+ 
+
+ 
+
+SAP'S DIVERSITY COMMITMENT
+
+ 
+
+To harness the power of innovation, SAP invests in the development of its
+diverse employees. We aspire to leverage the qualities and appreciate the
+unique competencies that each person brings to the company.
+
+ 
+
+SAP is committed to the principles of Equal Employment Opportunity and to
+providing reasonable accommodations to applicants with physical and/or mental
+disabilities. If you are interested in applying for employment with SAP and are
+in need of accommodation or special assistance to navigate our website or to
+complete your application, please send an e-mail with your request to
+Recruiting Operations team (Americas: Careers.NorthAmerica@sap.com or
+Careers.LatinAmerica@sap.com, APJ: Careers.APJ@sap.com, EMEA: careers@sap.com).
+Requests for reasonable accommodation will be considered on a case-by-case
+basis.
+
+ 
+
+EOE AA M/F/Vet/Disability:
+
+ 
+
+Qualified applicants will receive consideration for employment without regard
+to their age, race, religion, national origin, gender, sexual orientation,
+gender identity, protected veteran status or disability.
+
+Additional Locations:
+
+
+Nearest Major Market: San Jose
+Nearest Secondary Market: Palo Alto
+Job Segment: Database, Scientific, ERP, Engineer, SAP, Technology, Engineering
+
+Apply now »
+Apply now
+
+  •  
+    Start apply with LinkedIn Start apply with LinkedIn Help
+  • 
+  •  
+    Start apply with Facebook Start apply with Facebook Help
+  • 
+  •  
+    Start apply with Xing Start apply with Xing Help
+  • 
+  •  
+    Apply Now  Help
+  • [                    ] Start
+  • Please wait...
+    Loading
+
+Find similar jobs:
+Developer Jobs in the United States, Developer Jobs in San Jose, Data Jobs in
+the United States, Data Jobs in San Jose, Computer Science Jobs in Palo Alto
+×
+
+Sign in
+
+We noticed that you are already a member of our Talent Community. Please enter
+your password to continue.
+
+Email*
+
+Not you?
+
+Password* [                    ]
+Forgot Password?
+Submit Working... Cancel
+* required field
+×
+
+Sign in
+
+We noticed that you are already a member of our Talent Community. Please enter
+your password to continue.
+
+Email*
+
+Not you?
+
+Password* [                    ]
+Forgot Password?
+Submit Working... Cancel
+* required field
+×
+
+Account Verification
+
+We noticed you have accounts in our “Talent Community" and “Application"
+systems. We take security seriously and need to verify your identity to
+synchronize your accounts.
+
+Account Email:
+Please follow these steps to synchronize your accounts.
+1. Reset your password:
+
+The "reset password" link will open in a new browser window. Return to this
+page to enter your new password.
+
+Click here to reset your Password
+2. Enter your NEW password here:
+[                    ]
+
+Submit Working... Cancel
+×
+
+Account Verification
+
+We noticed you have accounts in our “Talent Community" and “Application"
+systems. We take security seriously and need to verify your identity to
+synchronize your accounts.
+
+Account Email:
+Please follow these steps to synchronize your accounts.
+1. Reset your password:
+
+The "reset password" link will open in a new browser window. Return to this
+page to enter your new password.
+
+Click here to reset your Password
+2. Enter your NEW password here:
+[                    ]
+
+Submit Working... Cancel
+×
+
+Account Verification
+
+Your accounts have been successfully synchronized. Use your new password when
+accessing our systems.
+
+Confirm
+×
+
+Account Verification
+
+Your accounts have been successfully synchronized. Use your new password when
+accessing our systems.
+
+Confirm
+×
+
+Already a Member
+
+You are already a user of this site. Please sign in.
+
+Email*
+Not you?
+
+Password* [                    ]
+Forgot Password?
+Sign in Working... Cancel
+* required field
+×
+
+Already a Member
+
+You are already a user of this site. Please sign in.
+
+Email*
+Not you?
+
+Password* [                    ]
+Forgot Password?
+Sign in Working... Cancel
+* required field
+×
+
+Start Your Application
+
+Existing Users
+
+Email* [                    ]
+Password* [                    ]
+Forgot Password?
+Sign in Working...
+* required field
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+New Users
+
+Create a new account now!
+
+  • Start Your Application
+  • Receive Email Updates
+  • Join our Talent Community
+
+
+Create
+
+
+×
+
+Create Profile
+
+Working...Working...
+Next »
+×
+
+Create Profile
+
+Working...Working...
+Next »
+
+Follow SAP
+
+  • Follow SAP on Facebook
+  • Follow SAP on Twitter
+  • Follow SAP on LinkedIn
+  • Follow SAP on Instagram
+  • Follow SAP on YouTube
+
+  • SAP Careers
+  • SAP.com
+  • Top Job Searches
+  • View All Jobs
+  • Privacy Policy
+  • Impressum
+

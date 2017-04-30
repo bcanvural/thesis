@@ -1,0 +1,103 @@
+SGT Careers
+
+Data Analytics/Computer Scientist
+
+Information Technology Moffett Field, California
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Apply
+
+Description
+
+The EVA Data Integration Project addresses actions from a 2014 EVA on-orbit
+incident and long standing challenges in gaining accurate, efficient, and
+effective use and access to EVA data and EVA data systems.  This project
+supports the EVA Management Office by designing, developing, and delivering a
+new set of data management services, and developing information architectures
+to organize and create useful forms of EVA data for current and future work. 
+The objective is to support the EVA Management Office’s responsibility that all
+EVA data and documentation is accessible, managed, controlled, and archived to
+reduce the effort of finding, using, and managing EVA data through the
+introduction of various integrated capabilities, such as data browsing,
+searching, integration, and review.
+
+We are seeking a data analytics professional to assist the analysis of this
+data and help inform the types of analytics tools to incorporate in the EVA
+data system. In this role the successful candidate will:
+
+  • Work with simulated data record (both historical and real-time) and create
+    ways to tag the data, generate metadata using new metadata standards (e.g.
+    hdf5) and parse the data into usable formats using aggregation and
+    filtering techniques
+  • Create a queuing strategy to will handle asynchronous call to data from
+    source to location. The user will be agnostic about performance and/or
+    query. (Distributed logger with distributed high performance pub-sub
+    messaging using Apache Kafka)
+  • Create new document-based database schemas (json-based) that can be
+    deployed in a distributed manner to solve latency and bottlenecks for large
+    queries. (data sinks using systems like rocksDB/Cassandra)
+  • Create and deliver prototype that will demonstrate the feasibility of using
+    open source packages to deal with streaming data (e.g. real time data
+    validation using apache spark)
+  • Create both hard and soft real-time analytical modules based on machine
+    learning algorithms to extract useful features from data. The hard module
+    can be an embedded GPU board (e.g. Nvidia Jetson) that runs a forward
+    trained model to analyze patterns and behavior in data streams. The soft
+    module is more of an offline analysis tool for generating recommendations
+    and alerts.
+  • Deliver an onboard visualization platform for fast exploratory analysis.
+  • Review and recommend technologies and architecture design
+  • Design and recommend system specifications that can be used to deploy the
+    data analytics platform.
+
+Requirements
+
+ 1. A degree in Computer Science or related discipline with emphasis on data
+    analytics
+ 2. Experience with Database Systems, Relational and NoSQL
+ 3. Experience analyzing big data with metadata tagging
+ 4. Data Interchange Formats: XML, JSON
+ 5. Experience developing or integrating data visualization capabilities
+ 6. Strong experience with programming languages like JAVA, Python, JavaScript
+ 7. Knowledge of implementing pub/sub capabilities, especially with Apache
+    Kafka
+ 8. Exceptional written and oral communication skills
+
+
+You are submitting your information for consideration to a position that is
+currently available under the Intelligent Systems Research & Development
+Services 2 (ISRDS-2) program at Ames Research Center, CA. If selected, your
+employment offer may be with SGT or one of our teammates on the contract.
+
+ 
+
+
+
+The Equal Employment Opportunity Policy of the SGT is to provide a fair and
+equal employment opportunity for all employees and job applicants regardless of
+race, color, religion, national origin, gender, sexual orientation, age,
+marital status or disability. SGT hires and promotes individuals solely on the
+basis of their qualifications for the job to be filled. SGT believes that
+employees should be provided with a working environment which enables them to
+be productive and to work to the best of his or her ability. We do not condone
+or tolerate an atmosphere of intimidation or harassment based on race, color,
+religion, national origin, gender, sexual orientation, age, marital status or
+disability. We expect and require the cooperation of all employees in
+maintaining a discrimination and harassment-free atmosphere.
+
+Apply Apply Later
+← Back to Current Openings
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Share
+
+LinkedIn Facebook Twitter Email
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Similar Jobs
+
+{{ job.title }}
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Powered by Jobvite
+

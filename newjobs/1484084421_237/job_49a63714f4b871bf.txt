@@ -1,0 +1,181 @@
+Skip Navigation
+ADP
+
+  * Careers Home
+  * About ADP
+  * Why ADP
+
+It takes smart technology to revolutionize business
+
+Innovate with us.
+
+Search Our Jobs
+
+[                    ]
+
+Search
+ActiveSupport::TimeWithZone
+
+Big Data Model Architect
+
+Apply Now
+Job ID 131441 Date posted 01/06/2017
+
+Job #
+
+131441
+
+Job Title
+
+Big Data Model Architect
+
+Job Category
+
+Technology
+
+Work Location
+
+Roseland NJ (1 ADP Blvd. - 40014)
+
+Employment Status
+
+Full-Time
+
+Job Description
+
+Unlock Your Career Potential: Technology at ADP. Do you enjoy exploring,
+identifying and inspiring the future of the workplace and the lives of millions
+of people? At ADP, the world's largest B2B cloud company, our Technology team
+is comprised of brilliant engineers, architects, data scientists,
+infrastructure experts, and more. We were first in our industry to offer a SaaS
+solution and continue to push the envelope utilizing the latest operating
+platforms to deliver the highly automated, intelligent and predictive solutions
+that are redefining what is possible. Named one of Forbes' "Most Innovative
+Companies" and one of Computerworld's "100 Best Places to Work in IT", we are
+committed to leading the way in product development and research, empowering
+you to bring to life the latest innovations that will forever change the way
+businesses manage their most vital asset, employees.
+
+POSITION SUMMARY
+
+We strive for every interaction to be driven by our CORE values: Insightful
+Expertise, Integrity is Everything, Service Excellence, Inspiring Innovation,
+Each Person Counts, Results-Driven, & Social Responsibility.
+ 
+As part of ADP's Strategic direction around Data Sciences leveraging its Data
+Assets; ADP is looking for a Principal Data Architect to help design, model,
+publish, govern and explain the various Data entities brought into the ADP Data
+Cloud Big Data Platform. This includes all of the client data assets coming
+into the ecosystem, as well as external data, as well as the data to support
+any of ADP's Open Data Science initiatives.
+
+As a Big Data Architect... the candidate will lead a team of Data analysts and
+scientists to provide information and guidance to those looking to work with
+the data within the Big Data Platform. The role will also work with engineering
+to help provide a standard means to ingest external data in order to allow for
+various groups to contribute data into the ecosystem...and then have it be
+re-usable.
+
+Responsibilities:
+
+  * Design and maintain a Comprehensive Data Model for all data flowing into
+    the cluster to target
+  * Architect and develop means to connect up data across various sources
+    sometimes using non-conventional means
+  * Publish the living 'glossary of data objects and their meaning in order to
+    provide the basis of consistent Data science work
+  * Work with Data Science teams to incorporate classifications, scores, and
+    predictive methods into the Data Eco-system
+  * Assist development efforts by providing subject matter expertise around the
+    data, to ensure successful development while also maintaining governance
+
+Skills:
+
+  * Hands-on familiarity with Big Data Architecture Design and implementation.
+    Ultimately build out the goals of the data platform which would be the core
+    behind all products built by the Data Science teams
+  * Excellent communication skills required to understand the business
+    questions a team is targeting to answer... and then to explain through the
+    existing assets which would help them achieve those goals.
+  * Leadership skills around running a technical team... one which becomes a
+    central point and best practice around using and contributing data
+  * Implementation of a platform to track, document, publish a data dictionary
+    and glossary to a large community of users across the enterprise
+  * Process oriented developer ensuring the proper validation steps are put
+    into place in order to publish and reuse the data within this Data
+    Ecosystem
+
+ 
+
+ADPTECH 
+
+ 
+
+Software in the Cloud. Experts on the Ground:
+ADP powers the working world with comprehensive solutions that drive business
+success. Consistently named one of the "Most Admired Companies" by FORTUNE?
+Magazine, and recognized by Forbes? as one of "The World's Most Innovative
+Companies," ADP has over a half-million clients around the globe and 65 years
+of experience as one of the largest providers of human capital management
+solutions world-wide.
+
+At ADP, we believe that diversity fuels innovation. ADP is committed to equal
+employment opportunities regardless of race, color, genetic information, creed,
+religion, sex, sexual orientation, gender identity, lawful alien status,
+national origin, age, marital status, non-job related physical or mental
+disability, or protected veteran status. We support an inclusive workplace
+where associates excel based on personal merit, qualifications, experience,
+ability, and job performance.
+
+
+ADP Job ID: 131441
+
+
+Apply Now
+
+The ADP Experience
+
+If success motivates you, you belong at ADP.
+
+It's our associates that count. At ADP our associates enjoy a robust and
+diverse organization that provides unlimited career building opportunities and
+professional development programs. Working within supportive teams, our
+professionals collaborate to achieve common goals and are recognized for their
+individual achievements.
+
+We want you to soar. If you give us your all, in return, we will open doors and
+support you so you can take your life to new and greater heights both
+professionally and personally. Our culture is one that invests heavily in the
+growth and development of our human capital ? you.
+
+Work with us and enjoy:
+
+  * Competitive Compensation
+  * Comprehensive Healthcare Benefits
+  * Paid Time Off (vacation, holiday and personal days)
+  * Annual Community Service Hours (Paid Time Off)
+  * Corporate Discount Portal
+  * 401(k) Company Contributions
+  * Reimbursement Accounts
+  * Survivor Benefits
+  * Tuition Reimbursement
+  * On-site childcare (in some locations)
+  * Associate Recognition Program
+  * ?and much more!
+
+[logo_quest]
+
+At ADP, we believe that our diversity fuels innovation and benefits our
+associates, clients, and communities. All qualified applicants will receive
+consideration for employment without regard to age, race, creed, color,
+religion, sex, national origin, ancestry, marital status, affectional or sexual
+orientation, gender identity or expression, or protected veteran status and
+will not be discriminated against on the basis of disability.
+EEO IS THE LAW: To read more about Equal Employment Opportunity (EEO) please
+click on the links below:
+"EEO is The Law" Self-print Poster and "EEO is the Law" Poster Supplement
+
+
+ADP, LLC. (ADP?) 1 ADP Boulevard, Roseland, NJ 07068 Phone: 800-225-5237
+? 2016 ADP, LLC
+

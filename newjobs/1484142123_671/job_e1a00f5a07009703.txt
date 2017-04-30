@@ -1,0 +1,89 @@
+Large a ccri base logo
+
+All jobs ? Data Scientist (TS/SCI only)
+
+Data Scientist (TS/SCI only)
+
+Charlottesville, Virginia, United States
+
+Description
+
+CCRi is looking for smart, innovative data scientists with analytical and
+software engineering skills. We conduct research and development in data mining
+and machine learning techniques to solve complex problems and then implement
+scalable solutions in data-driven environments.
+
+To us, practicing data science means applying three key skillsets to solve
+complex problems: data manipulation (cleaning, formatting, and transformation),
+data analysis, and software engineering. Qualified applicants will demonstrate
+strength in at least one of these skills, and aptitude and interest in all
+three. Data Scientists at CCRi spend a significant portion of their time
+implementing applications around our analytics.
+
+In recent projects we have:
+
+  * Designed and implemented a streaming random forest model
+  * Applied deep learning to train semantic embedding models, and used these
+    models to fuse multi-modal data
+  * Designed and implemented an open-source spatio-temporal adapter for
+    distributed data stores
+  * Built threat prediction systems to predict the location of future
+    asymmetric warfare attacks
+  * Implemented an analysis tool to harmonize unaligned datasets to support
+    marketing intelligence teams
+
+Requirements
+
+We?re open to entry level and experienced candidates with a solid technical
+foundation and a desire to continue learning. Experience with some of the tools
+below is highly desirable in a candidate.
+
+Tools we use:
+
+  * Statistical Computing: R, NumPy, SciPy, Mathematica, Matlab
+  * Modern Programming: Java, C++, Python, Scala, or Ruby
+  * Enterprise Development: EE, REST web services, JPA, ORM, dependency
+    injection
+  * Traditional Databases: PostgreSQL, MySql, Oracle
+  * NoSQL Databases: Accumulo, MongoDB, HBase
+  * GIS: Geoserver, PostGIS, OpenLayers, Quantum GIS, ArcGIS
+  * Cloud computing: Hadoop, Map-Reduce, Storm, Spark, Scalding, Hive
+  * Web Development: Javascript, AJAX, CSS, AngularJS, D3
+  * Machine Learning: Neural Networks, Deep Learning, Random Forest
+  * Data Processing and Analytics: Graph analytics, natural language
+    processing, image processing
+  * Data visualization: ggplot, D3
+
+Minimum Requirements
+
+  * US citizenship required
+  * Bachelor?s Degree in a technical field
+  * TS/SCI Clearance required
+
+If you apply to this position and do not have an active TS clearance, you will
+be automatically rejected.
+
+
+Benefits
+
+  * Casual Work Environment
+  * Intellectually Challenging Work
+  * Health Insurance
+  * Short Term Disability Insurance
+  * Generous Defined Benefit Retirement
+  * Very Flexible Vacation Policy
+  * Charlottesville Location
+  * Relocation
+
+Want to know more? Check out our recruitment video: https://www.youtube.com/
+watch?v=W_b2EY1tlRM
+
+Apply for this job
+
+Commonwealth Computer Research, Inc. does not discriminate on the basis of
+race, sex, color, religion, age, national origin, marital status, disability,
+veteran status, genetic information, sexual orientation, gender identity or any
+other reason prohibited by law in provision of employment opportunities and
+benefits.
+
+Commonwealth Computer Research, Inc. website Powered by Workable

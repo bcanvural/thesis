@@ -1,0 +1,154 @@
+
+ 
+ 
+[Stryker-Banner-Kenexa-BrassringFINAL]
+ 
+
+
+
+
+                                                                      ?     [p]
+[pixel]       Completed [progressLi]  [progressLi]  Completed [progressLi]  [progressLi]  Completed [progressLi]  [progressLi]  Current [pixel]
+                page                                  page                                  page                                 page
+                Home                                 Search                                Search                                 Job                                                                                                          
+                                                    openings                               results                              details
+ 
+   ● Job details
+                  
+   [pixel]                                    [pixel]
+   [pixel]
+
+  [pixel]
+                                  Job 1 of 1
+  [pixel]
+
+      Apply to job   Send to friend   Save to cart   View similar jobs  
+
+[pixel]
+
+Requisition ID    15542BR
+
+Job Title         IS Data Scientist, BI Analytics
+
+Group             Corporate
+
+Division          Global IT
+
+Business Function Information Technology
+
+Country           United States
+
+State/Province    NJ
+
+City              Allendale
+
+Employment        Full Time
+Category
+
+Percent Travel    Up to 20%
+Required
+
+Shift             1st
+
+About Stryker     Stryker is one of the world’s leading medical technology companies and together
+                  with our customers, we are driven to make healthcare better. The Company offers
+                  a diverse array of innovative medical technologies, including reconstructive,
+                  medical and surgical, and neurotechnology and spine products to help people
+                  lead more active and more satisfying lives. Stryker products and services are
+                  available in over 100 countries. All qualified applicants will receive
+                  consideration for employment without regard to race, ethnicity, color,
+                  religion, sex, gender identity, sexual orientation, national origin,
+                  disability, or protected veteran status. Stryker is an EO employer – M/F/
+                  Veteran/Disability.
+
+Job Description / 
+Information       ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                  │The Data Scientist, BI Analytics role is an individual contributor, leading the                                 │
+                  │design and delivery of analytic solutions. This role will shape our information                                 │
+                  │insight framework for high-impact analytics.                                                                    │
+                  │                                                                                                                │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │Essential duties & responsibilities: (detailed description)                                                     │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │·        Builds the framework for forward-thinking, high-impact data analytics                                  │
+                  │across Stryker business domains, focused on agile delivery of practical big                                     │
+                  │data, BI solutions.                                                                                             │
+                  │·        Insight catalyst develops relationships with business and GIO leaders,                                 │
+                  │proactively identifying opportunities to drive data insights leading to                                         │
+                  │informed decision making.                                                                                       │
+                  │·        Demonstrates and applies knowledge of business success drivers,                                        │
+                  │industry trends and data analytic technology offerings as competitive                                           │
+                  │differentiators.                                                                                                │
+                  │·        Provides thought leader knowledge on BI, Analytic capabilities within                                  │
+                  │and outside the organization.                                                                                   │
+                  │·        Evaluates data landscapes (silos), recommends data domain frameworks                                   │
+                  │(lakes), applies advanced programming techniques to perform in depth discovery,                                 │
+                  │i.e., Hadoop, data transformation tools, curation, matching, data connectors,                                   │
+                  │consumption services, etc.                                                                                      │
+                  │·        Integrates data with the goal of discovering meaningful and actionable                                 │
+                  │insight for fact-based decisions.                                                                               │
+                  │·        Develops knowledge of multi-structured, disparate external/internal                                    │
+                  │data sources i.e., market, subscription, syndicated, social medial, image,                                      │
+                  │government, Stryker customer support, supply chain, manufacturing, sales,                                       │
+                  │finance, HR, legal, regulatory affairs, etc.                                                                    │
+                  │·        Is a catalyst that transitions data reporting and decision making to                                   │
+                  │data discovery, information insight and action. Partners with business to                                       │
+                  │develop advanced analytic models that discover, visualize and communicate                                       │
+                  │insight to action.                                                                                              │
+                  │·        As this function evolves, it will attract, mentor and guide likeminded                                 │
+                  │individuals to expand and federate the capability within across the                                             │
+                  │organization                                                                                                    │
+                  └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Minimum           
+Qualifications    ┌────────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+                  │Education & special trainings:                                                                                  │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │•             B.S. Degree, Computer Science or Math required, M.S. Computer                                     │
+                  │Science, Math, MBA preferred.                                                                                   │
+                  │                                                                                                                │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │Qualifications & experience:                                                                                    │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │•             Minimum 5-7 years of applied technical experience in analytics,                                   │
+                  │visualization, big data (Hadoop), search and various data integration tools.                                    │
+                  │•             Proficient experience, designing, delivering innovative                                           │
+                  │self-service BI analytics (data acquisition, integration, visualization) to                                     │
+                  │effectively surface information that provides actionable insights.                                              │
+                  │•             Proven track record in data mining, exploration, algorithmic                                      │
+                  │model development, i.e., predictive analytics.                                                                  │
+                  │•             Accomplished practitioner in delivery of agile/iterative proof of                                 │
+                  │concepts demonstrating incremental business value, transitions POC designs to                                   │
+                  │re-useable production quality offerings leveraging big data, (Hadoop), search,                                  │
+                  │visualization, predictive analytics technologies                                                                │
+                  │•             Key contributor that effectively influences data, BI/Analytic                                     │
+                  │technology architectures, strategies, roadmaps that are aligned with business                                   │
+                  │strategies.                                                                                                     │
+                  │•             Practical experience driving BI analytic improvements                                             │
+                  │transforming traditional legacy data landscapes and solutions creating the                                      │
+                  │foundation for reliable data, visual discovery, analytic insights                                               │
+                  │•             Business domain knowledge, sales, marketing, supply chain,                                        │
+                  │finance, customer support, operations                                                                           │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │Physical & mental requirements:                                                                                 │
+                  ├────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+                  │•             A self-starter, continuous learner, passion for technology,                                       │
+                  │curiosity, comfort challenging the norm                                                                         │
+                  │•             Strong desire to understand business challenge, related data                                      │
+                  │sources, delivering agile innovation solutions                                                                  │
+                  │•             A change agent, situational awareness, ability and desire to                                      │
+                  │listen, consult, mentor, teach, advise                                                                          │
+                  │•             Results oriented, self-starter, bias for action, thrives in                                       │
+                  │ambiguous situations, a discoverer                                                                              │
+                  │•             Collaborative, team focused, establishes trust and strong                                         │
+                  │partnerships                                                                                                    │
+                  └────────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+      Apply to job   Send to friend   Save to cart   View similar jobs  
+
+                                        
+  All qualified applicants will receive consideration for employment without
+   regard to race, ethnicity, color, religion, sex, gender identity, sexual
+orientation, national origin, disability, or protected veteran status. Stryker
+                  is an EO employer – M/F/Veteran/Disability
+

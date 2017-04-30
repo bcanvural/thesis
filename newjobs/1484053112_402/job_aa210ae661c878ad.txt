@@ -1,0 +1,139 @@
+*
+[logo-on-da]
+
+  • Who We Are
+  • What We Do
+  • Careers
+  • Blog
+
+Join the team.
+
+Data Architect
+
+The Data Architect at Red Ventures has the end-to-end vision of conceptual,
+physical, and logical storage of data and how analysts, applications, and data
+scientists consume it.  We’ll look to you to recognize and identify patterns in
+data relationships from disparate systems and create data management solutions.
+You will design and build scalable infrastructure platforms to collect and
+process large amounts of structured and unstructured data that will be consumed
+in near real-time.
+
+Responsibilities
+
+On a day-to-day basis, you will work on a team responsible for all aspects of
+Red Ventures’ data including timeliness, accuracy, consumption, and security.
+You will work on automating data pipelines, creating data models, and
+monitoring and ensuring performance. You will communicate with business
+analysts, data scientists, and business leaders to understand and meet their
+data needs. You will be tasked with identifying and executing on best
+practices. You will work on a team with a focus on continuous learning and will
+have an opportunity to provide mentor and guidance. You will work on designing
+and implementing Red Ventures’ next generation data solution.
+
+ Preferred Background
+
+  • Experience in application development, ETL development, report development
+    and/or other data warehouse projects to bring a well-rounded perspective of
+    the big picture 
+  • Thorough understanding of dimensional modeling and data warehouse
+  • Experience with Query, Database, Cube tuning
+  • Knowledge of Big Data technologies
+  • A sense of humor, thirst for knowledge, and a commitment to continuous
+    improvement
+
+Technology stack:
+
+  • Microsoft BI Stack: Sql Server 2014 and 2016, SSIS, SSAS (cubes and
+    tabular), Power BI, SSRS
+  • Big Data: Hadoop, Hive, Kafka, NoSQL, event streams
+  • MySQL
+  • Both on-premise and in the cloud
+
+First Name
+[                    ]
+Last Name
+[                    ]
+Email
+[                    ]
+Phone
+[                    ]
+Resume/CV
+Drag and drop files
+here, or Choose File [                    ]
+Cover Letter
+Drag and drop files
+here, or Choose File [                    ]
+Address
+[                    ]
+Address Line 2
+[                    ]
+City
+[                    ]
+Zip / Postal
+[                    ]
+State / Province
+[Please Choose 1]
+Country
+[United States                               ]
+LinkedIn Profile
+[                    ]
+Referring Red Ventures Employee Name (if applicable)
+[                    ]
+How did you hear about us?
+[Please Choose 1                  ]
+What is your current annual salary?
+[                    ]
+What is your desired annual salary?
+[                    ]
+Work Authorization
+[Please Choose 1                                                                       ]
+When could you Start?
+[Please Choose 1                               ]
+[Apply Now]
+  • What We Do
+  • Who We Are
+  • Careers
+  • Blog
+  • Press
+  • Leadership
+  • Community
+  • Contact Us
+
+  • Analysts
+  • Creatives
+  • Engineers
+  • Sales
+  • Director/VP
+  • College
+  • IT / Dev Ops
+  • Corporate
+
+[logo-on-da]
+    
+[logo-on-da]
+
+  • Who We Are
+  • What We Do
+  • Careers
+  • Leadership
+  • Blog
+
+  • Press
+  • Community
+  • Contact Us
+  • Analysts
+  • Creatives
+  • Engineers
+  • Sales
+  • Director/VP
+  • College
+  • IT / Dev Ops
+  • Corporate
+
+HEADQUARTERS
+1101 Red Ventures Drive
+Fort Mill, SC 29707
+704.971.2300
+
+    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -1,0 +1,189 @@
+Skip Navigation
+Toggle navigation [1x1] Account
+
+  * [menu_icon_] Refine search
+  * [menu_icon_] View my account
+  * [menu_icon_] Sign in
+
+Job details
+
+-------------------------------------------------------------------------------
+Gene Data Domain Owner
+
+  * Requisition ID: WD102308
+  * Position: Full time
+  * Open date: Dec 16, 2016 1:23 PM
+  * Functional area: IT
+  * Location: Hertfordshire
+  * Pennsylvania
+  * Pennsylvania
+  * 
+  * Required degrees: Doctorate
+  * Experience required: Not Indicated
+  * Relocation: Not Indicated
+
+-------------------------------------------------------------------------------
+Email a friend [Apply now]
+-------------------------------------------------------------------------------
+
+Basic qualifications:
+?        PhD or equivalent experience in scientific, computational or
+mathematical scientific domain
+?        Demonstrated successful experience in delivering informatics solutions
+to scientists
+?        Broad knowledge of drug development and discovery with deeper
+experience in how genes/pathways are selected and validated in R&D
+?        Sound knowledge of the data types and sources (internal and external)
+relevant to the gene domain and how they can be used and combined to improve
+and advance decision making
+?        Demonstrated skills to line manage and lead PhD level
+bioinformaticians and/or scientists
+?        Demonstrate competencies to work, collaborate and deliver with
+external partners (e.g. technology providers, academics)
+
+
+Preferred qualifications:
+Same as above.
+
+
+Details:
+Why is using our gene data so important ? ...
+
+Selecting a gene as a target to pursue is a key decision in drug discovery and
+development with a final outcome (e.g. an efficacious and safe medicine) that
+may not be known for many years. The scientific opportunities on how to do this
+in a data driven way have never been as exciting. In addition to more
+traditional approaches, the rapid development of high-throughput genome scale
+technologies has revolutionised how genes and pathways can be associated with
+diseases and potential targets validated. These approaches are generating vast
+amount of diverse data externally and internally that need to be managed,
+integrated with other relevant information and made available as easily as
+possible to GSK scientists for queries and decision making.  
+
+Maximising this accessibility, via ?data domains? that group like-minded data
+together, is a key part of utilising the new tools and capabilities being
+introduced by the R&D Data CoE.
+
+How can you help?  - Summary of new role ...
+
+Specifically, for the Gene Data Domain, we are looking for an ?Owner? that will
+be accountable to set-up and execute the domain strategy in this rapidly
+evolving area. He/she will have the opportunity to work with external key
+strategic scientific initiatives (e.g. Open Targets, Altius) that are
+generating relevant data in the gene domain. The role is located in the Target
+Sciences (TSci) organisation reporting to the Head of Computational Biology and
+Stats and will have responsibility for the TSci data and scientific computing
+strategy.   
+
+The successful candidate will also have a dotted line to senior leadership in
+the R&D Data CoE and will work very closely with the DPUs, other scientific
+platform organisations such as PTS and R&D IT to implement and demonstrate
+value of an integrated data strategy for the gene domain.  In this role it will
+also be important to build strong relationships and have credibility with key
+external opinion leaders.  This is an exciting and rapidly evolving scientific
+domain with interesting data challenges where the successfully candidate will
+need to demonstrate strong leadership, content expertise and change management
+skills to help GSK fully realise the potential of the data available.
+
+Key Responsibilities ...
+
+? Responsible for developing and executing a data domain strategy, each domain
+being aligned to a business classification of data e.g. Clinical, Assay, Gene
+etc
+? Leads a partnership with the R&D business lines, Data CoE, Domain sponsors
+and domain stakeholders (providers/consumers) to plan on a 1-5 year horizon
+including;
+
+1) Leading definition of Domain scope and population (data sources/types)
+ordering including oversight on the quality of the data, length back in history
+(scientific/business obsolescence), cost v?s curation, and prioritisation of
+emerging strategic and new sources internally and externally
+2) Leads the oversight on Domain sensitivities/security/access/legal
+considerations (eg asset divestment)
+3) Thought leadership on Domain standards, ontologies (both content and
+metadata) and the processes / resources for on-going curation
+4) Sets and delivers Domain integration requirements to the Platform team and
+business lines
+5) Co-owns Cross-Domain collaboration (how does this domain fit into the
+ecosystem), how data is shared across domains and how it is used
+longitudinally.
+
+? Delivers, Manages and Leads the SME workflow to deliver data curation process
+including negotiation and change management of data creation with appropriate
+meta data and embedding of new processes to standardise data for example
+machine learning approaches
+? Supports development of change management plans and leads execution of
+delivery within the R&D lines to identify and engage the right SMEs, securing
+the appropriate amount of time needed by the SMEs (i.e., ~20%)
+? Supports the value creation (information as an asset), monitoring and
+reporting of this domain population and usage to others.
+? Govern the access/control policy for the domain (facilitated by CoE
+framework)
+? Provide/enforce guidance relative to GxP re-use of data
+? Supports the Data CoE Innovation and Incubation group to define and
+prioritise use cases and delivery approaches
+? Works alongside the Data CoE and R&D IT to ensure that the domain strategy
+and roadmap has a supported and sustainable IT roadmap, particularly with
+regard to lifecycle management of key sources on the R&D inventory
+? Co-Leadership of Collaboration/Engagement with other domain owners
+? Provides line management leadership of data experts where needed and leads
+relevant business lines with data stewardship plans and processes that drive
+re-use of data
+
+Impact ...
+
+This role operates across all/multiple R&D business lines as part of the CoE,
+and also within the relevant business lines ? for example PCPS or PTS with
+support and guidance from the Data CoE. The impact of this role will span R&D
+and also set GSK up as having competitive advantage against external
+competitors.
+
+The Domain strategy and delivery is supported directly by Patrick Vallance and
+the R&D exec and the domain owner will work with the R&D exec right through the
+lines to people creating and curating data
+
+
+Closing date for applications 31st Jan 2017:
+
+When applying for this role, please use the 'cover letter' of the on-line
+application to clearly describe how you meet the competencies for this role, as
+outlined in the job requirements above. The information that you have provided
+in your cover letter will be used to assess your application.
+
+Thank you for your interest in this opportunity.
+
+
+If requiring an adjustment for a disability, once selected for interview you
+may contact ukdiversity.recruitment@gsk.com
+
+
+Contact information:
+You may apply for this position online by selecting the Apply now button.
+
+If you require an accommodation or other assistance to apply for a job at GSK,
+please contact the GSK HR Service Centre at 1-877-694-7547 (US Toll Free) or +1
+801 567 5155 (outside US).GSK is an Equal Opportunity/Affirmative Action
+Employer. All qualified applicants will receive equal consideration for
+employment without regard to race, color, national origin, religion, sex,
+pregnancy, marital status, sexual orientation, gender identity/expression, age,
+disability, genetic information, military service, covered/protected veteran
+status or any other federal, state or local protected class.
+
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment
+agencies in respect of the vacancies posted on this site. All employment
+businesses/agencies are required to contact GSK's commercial and general
+procurement/human resources department to obtain prior written authorization
+before referring any candidates to GSK. The obtaining of prior written
+authorization is a condition precedent to any agreement (verbal or written)
+between the employment business/ agency and GSK. In the absence of such written
+authorization being obtained any actions undertaken by the employment business/
+agency shall be deemed to have been performed without the consent or
+contractual agreement of GSK. GSK shall therefore not be liable for any fees
+arising from such actions or any fees arising from any referrals by employment
+businesses/agencies in respect of the vacancies posted on this site.
+
+
+jobDetails

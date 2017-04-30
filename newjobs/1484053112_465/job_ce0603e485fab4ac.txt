@@ -1,0 +1,137 @@
+Please Enable Cookies to Continue
+Please enable cookies in your browser to experience all the personalized
+features of this site, including the ability to apply for a job.
+Returning Candidate?
+Log back in!
+
+Data Scientist - Systems Analyst/Prog V
+
+Data Scientist - Systems Analyst/Prog V
+
+Job ID 
+    7819
+
+Type 
+    Regular Full-Time
+
+Company 
+    Fred Hutchinson Cancer Research Center
+
+Location 
+    US-WA-Seattle
+
+More information about this job
+
+Overview
+
+Fred Hutchinson Cancer Research Center is seeking a senior-level Data Scientist
+ to join the Collaborative DataSpace (CDS) group. The primary role of the Data
+Scientist is to provide data integration, management, and analysis support to
+the CDS project. The Data Scientist develops conceptual data models and uses
+information management software and statistical and analytical software
+programs (R, SAS, and additional software programs as needed) to access,
+integrate, analyze, and annotate study data and results.  The incumbent will
+communicate effectively and work collaboratively with colleagues and external
+partners.
+
+Responsibilities
+
+The Data Scientist will assemble and extract data from a variety of sources and
+transform it into a centralized PostgreSQL database, and will run and maintain
+code to export from PostgreSQL to other data structures, as required.  Data
+capture will involve programmatically accessing existing data and manual
+extraction and interpretation from web interfaces and texts, as well as working
+with stakeholders (laboratory scientists, statisticians, project managers, and
+data managers) to locate, access, and interpret additional data. The Data
+Scientist will also develop new code and reports, create visualizations,
+develop data models, document processes, and design and test effective data
+capture methods.
+
+ 1. Data Modeling and Integration
+      □ Work with CDS team, including external software developers and external
+        partners, to develop and refine logical and physical data models to
+        ensure they support project goals.
+      □ Design, develop, and maintain data mappings, data rules, and data
+        transformations to populate CDS with source data.
+      □ Manage data pipelines using a variety of data management software and
+        tools such as R, SQL, Python, and SAS.
+      □ Create testing plans for each phase of the development process to
+        ensure accuracy and quality of program code as well as thorough data
+        validation procedures.
+      □ Gather requirements for developing or modifying existing programs and
+        systems. Document program functionality and user needs.
+      □ Coordinate and lead efforts to standardize work practices across
+        studies and networks. Work with the CDS team and SCHARP staff to define
+        and implement best practices for integration and harmonization of
+        information from different subject areas.
+ 2. Data Annotation
+      □ Work closely with investigators, biostatisticians, and subject matter
+        experts to understand definitions, sources, and analysis requirements
+        for data pipelines into and out of DataSpace.
+      □ Use information management and database design and documentation tools
+        to document and communicate database information.
+ 3. Data Investigation and Visualization
+      □ Explore and analyze integrated datasets for trends and novel findings
+      □ Create data visualizations of metadata and integrated datasets
+      □ Present findings and visualizations to CDS team and external partners
+        via both live and online presentations, and blogs
+ 4. Data Governance
+      □ Participate in development of governance policies and processes around
+        data use and access.
+      □ Work with project sponsors, stakeholders, and team members to ensure
+        proper data use and data integrity.
+      □ Represent the CDS Data Team on cross-functional group committees.
+ 5. Provide training and mentoring for CDS Data Team staff.
+ 6. Perform other responsibilities as required.
+
+Qualifications
+
+Minimum Qualifications: 
+
+  • Four years as a Data Scientist or Systems Analyst/Programmer IV or
+    equivalent; or three years as a Systems Analyst/Programmer IV or equivalent
+    and a Master's Degree in a computing, mathematical, statistical or a
+    related field.
+  • Experience with programmatically manipulating data using one or more of the
+    following: R, Python, SQL, or SAS.
+  • Must be willing to undergo training on software, as needed.
+  • Excellent attention to detail and organizational skills.
+  • Excellent written and oral communication skills.
+  • Ability to effectively work with a team and work independently in a fast
+    paced environment.
+  • Ability to accurately abstract and summarize information from written
+    documents
+
+ 
+
+Preferred qualifications:
+
+  • Data management or programming in clinical trials or research environment
+  • Familiarity with lab assay and/or immunogenicity data, and/or data
+    visualization and statistics
+  • Experience using scripting languages for text manipulation and automated
+    job control
+
+ 
+
+Qualifications considered a plus: 
+
+  • Project management
+  • Experience with technical or scientific writing, and/or knowledge of and
+    experience in good clinical data management practices
+
+Options
+
+ 
+Apply for this job onlineApply
+Share
+ 
+Refer this job to a friendRefer
+Share on your newsfeed
+Not ready to apply? Connect with us for general consideration.
+[back]Go back to the welcome page
+Application FAQs 
+
+Software Powered by iCIMS
+www.icims.com
+

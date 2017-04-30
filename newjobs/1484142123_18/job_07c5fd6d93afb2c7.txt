@@ -1,0 +1,94 @@
+Qeexo Careers
+
+Machine Learning Engineer
+
+Engineering Mountain View, California
+
+-------------------------------------------------------------------------------
+Apply
+
+Description
+
+Our company brings together a unique combination of expertise in human computer
+interaction, machine learning, and hardware integration to create revolutionary
+interactive solutions.
+
+
+We are looking for a machine learning expert who loves working with sensor
+data, loves developing new algorithms, is not afraid of challenging, open-ended
+problems, and wants to help us shape the future of touch interaction. You will
+be working with a small and highly capable team of machine learning engineers
+and will have the opportunity to make a meaningful impact on the growth of a
+burgeoning startup.
+
+
+As a Machine Learning Engineer, your responsibilities will include:
+
+  * Designing experiments to advance our machine learning understanding and
+    techniques
+  * Running experiments to improve the core algorithms of Qeexo products on
+    consumer devices
+  * Modeling accuracy of Qeexo products on new hardware and sensor platforms
+  * Developing new algorithms to improve our engine calibration process
+  * Working with customers to design and implement Qeexo solutions
+
+
+Ideal Candidate
+
+  * A proven track record of academic and/or industry experience in fields
+    related to machine learning and signal processing, particularly in acoustic
+    analysis
+  * Deep knowledge of statistical and machine learning approaches and problem
+    domains
+  * Computer Science or EE background (MS or BS) with strong coding ability and
+    familiarity with Java, C++ or other OOP language.  (You will not be doing
+    production-level coding but you will need to build some prototypes/tools
+    for experiments.)
+  * Proven success with multiple ML/AI/classification projects (research
+    papers, kaggle, open source implementations, etc.)
+  * Expertise in one or more specific areas of research: neural nets/deep
+    learning, signal processing or digital imaging, ensemble learning and
+    system identification
+  * Research-minded, ability to run experiments independently and present
+    results to leadership
+  * Comfortable working in a terminal environment, writing scripts (Bash/
+    Python) to process data
+  * Experience in mobile or other consumer electronic devices
+
+
+Skills & Requirements:
+
+  * Machine Learning (expert)
+  * Python (expert)
+  * Deep Learning (proficient)
+  * Ensemble Modeling/Classification (proficient)
+  * Signal Processing (familiar)
+  * Java (familiar)
+  * C (familiar)
+  * Data Structures and Algorithms (familiar)
+  * U.S. Work Authorization required
+
+Bonus Qualifications
+
+  * Familiarity with acoustics or mechanical wave propagation, signal
+    processing, approximation theory, and information theory
+  * Understanding of applied mathematics, computational science, computational
+    statistics, approximation theory, compressive sensing, representation
+    learning, and/or pattern recognition
+
+Apply Apply Later
+? Back to Current Openings
+-------------------------------------------------------------------------------
+
+Share
+
+LinkedIn Facebook Twitter Email
+-------------------------------------------------------------------------------
+
+Similar Jobs
+
+{{ job.title }}
+
+-------------------------------------------------------------------------------
+Powered by Jobvite
+

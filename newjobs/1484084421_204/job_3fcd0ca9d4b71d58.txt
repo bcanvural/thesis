@@ -1,0 +1,60 @@
+[84963f7c-5]
+
+Data Scientist
+
+San Jose, CA
+Data Science
+Full-time
+Apply for this job
+
+The Company:
+ Faraday Future is a California mobility company bringing a tech approach to
+clean transportation. At FF, we believe that by placing equal emphasis on
+automotive and technology disciplines, our team of experts is uniquely
+positioned to take a user-centric, technology-first approach to vehicle design
+with the ultimate aim of connecting the automotive experience with the rest of
+your life.
+
+Your Role:
+·       TLDR: Use Stats, Machine Learning, Math and CS to help design the car
+and its sensors, gain insight into business decisions regarding sales &
+marketing, help create a seamless service experience and  model reliability.
+·       Work in the IoV space to help develop the next generation of algorithms
+and methodologies that will power the connected vehicle.
+·       Understand the consumer space to develop next generation customer sales
+and service models.
+·       Utilize machine learning algorithms to help customize the car around
+around the user.
+ 
+Basic Requirements:
+·       Masters in Statistics, Biostatistics, Computer Science, Applied
+Mathematics or related field
+·       Extensive experience with R and Python
+·       Very familiar with Unix and high performance computing
+·       Deep understanding of statistical modeling, regression, hypothesis
+testing, estimation, monte carlo simulation, MCMC, Bootstrapping, PCA.
+·       Expertise in machine learning: Clustering, Random Forests, Neural Nets,
+SVM, Nearest Neighbors.
+·       Experience with Spark, Hadoop & Other big data tools.
+ 
+Preferred Requirements:
+·       PhD in Statistics, Biostatistics, Computer Science, Applied Mathematics
+or related field.
+·       Experience with Pig or Hive.
+·       Experience with NLP and Sentiment Analysis.
+·       Prior work history in the automotive industry.
+·       EE or Hardware experience with sensors a plus.
+
+PERKS + BENEFITS
+·         Free, in house, catered lunch every day
+·         Snacks and coffee available 24–7
+·         Health, dental, and vision benefits
+·         401(k)
+·         Paid vacation time every year, plus a full week of paid time off
+between Christmas and New Year’s
+
+Apply for this job
+
+Faraday Future Home Page
+
+Jobs powered by [lever-logo]

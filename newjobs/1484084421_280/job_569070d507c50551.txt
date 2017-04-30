@@ -1,0 +1,140 @@
+[getCompany]
+[nav_out_bl]Search for More Jobs
+[mail_forwa]Forward this job to a friend
+[applicatio]Apply by email without Registering
+[applicatio]Apply by creating/using account
+Sign in
+Language
+English
+Français
+Español                                                                        
+
+From:    [                              ]
+To:      [                              ]
+Subject: [                                        ]
+Message: [                    ]
+         
+         [                                        ] 
+         [                                        ] 
+         [                                        ] 
+OK
+Cancel
+
+
+[resize]                                                                       
+
+Email:    [                    ]
+Password: [                    ]
+Forgot your password?
+Log In
+
+Please enter your registered email address, and we'll email you a link to reset
+your password right away.
+Your Email [                    ] [qfjdnw3s7pxu6ruu0on5]
+OK                                                                             
+
+From    [                              ]
+Subject [Application for 16-00174 - SAS]
+        [delete] [                    ]
+        Browse
+        [                    ]
+        [delete] [                    ]
+Resume  Browse
+        [                    ]
+        [delete] [                    ]
+        Browse
+        [                    ]
+Message [                    ]
+OK
+Cancel
+
+[                    ] 
+[resize]
+Previous Job
+Previous
+SAS Data Analyst
+Next Job
+Next
+
+Ref No.:          16-00174
+Location:         Timonium, Maryland
+Position Type:    Full Time
+Experience Level: 4 Years
+Start Date:       09/13/2016
+
+SAS Data Analyst
+
+FEi Systems is a leading IT company specializing in Federal and Local
+Government data system solutions. For the past decade we have maintained a
+leading position in providing programming and consulting services in our
+primary areas of expertise: Behavioral Health Data Systems and Clinical Trials
+Software Solutions for institutional systems of care.
+
+At FEi Systems, we recognize that our employees are an important part of our
+success. We promote a team environment where all employees have the opportunity
+to achieve professional and personal success. Currently FEi is looking for
+highly skilled, self-motivated and creative individuals to join our talented
+team of experts. FEi is an equal opportunity employer that believes in growing
+and promoting a diverse work force. Our employee compensation and benefits
+package is competitive within the industry and designed to help employees meet
+varying needs throughout their careers and lives. If you're looking for a
+rewarding work environment that will challenge your mind and expand your
+horizons, then joining the FEi team may be right for you.
+
+Position Summary:
+The Data Analyst will be responsible for the following:
+
+• Performing data collection, analysis, interpretation, and management duties.
+• Developing rules and methodologies for data collection and analysis.
+• Ensuring the integrity of project data, including data extraction, storage,
+manipulation, processing and analysis.
+• Consulting with the external clients and internal staff to determine data
+management needs and objectives.
+• Preparing presentations that reflect the results of the data analysis.
+• Providing data-related training to staff.
+• Coordinating with scientists and other technical experts to design and
+develop statistical analyses methodologies.
+• Maintaining current knowledge of relevant technologies as assigned.
+• Participating in special projects as required
+
+Required Skills:
+• Candidate should have at least 3 years of experience (but prefer 5 years+ of
+experience) with SAS programming language and 2-5 years of related statistics/
+data analysis experience.
+• Candidate should demonstrate proficiency with SAS Macro Language. This
+includes writing macro calls, creating and using macro variables, using macro
+statements and functions, and options to show SAS code from macro call
+invocation.
+• Candidate should have experience using SAS Enterprise Guide.
+• Candidate should have knowledge/experience in using most of the following SAS
+procedures: PROC SQL,
+• PROC FREQ, PROC UNIVARIATE, PROC PRINT, PROC REPORT, PROC DATASETS, PROC
+CONTENTS, PROC PRINTTO.
+• Candidate should have experience with building and documenting complex
+queries.
+• Candidate MUST have experience working with and accessing Medicare claims
+data OR health claims.
+• Candidate MUST have experience working with large data sets using SAS -
+preferably with insurance claims data.
+• Candidate should have good oral and written communications skills.
+• Bachelor's Degree in a Computer Science, Statistics or a related technical
+discipline, or the equivalent combination of education, technical
+certifications or training, or work experience.
+Primary location: Timonium, MD Full time position with full benefits
+
+NOTICE:  EO/AA/VEVRAA/Disabled Employer – Federal Contractor.  FEi Systems
+participates in E-Verify, a federal program that enables employers to verify
+the identity and employment eligibility of all persons hired to work in the
+United States by providing the Social Security Administration (SSA) and, if
+necessary, the Department of Homeland Security (DHS), with information from
+each new employee's Form I-9 to confirm work authorization. For more
+information on E-Verify, please contact DHS at (888) 464-4218.
+
+Applicants will receive consideration for employment without regard to race,
+color, religion, sex, national origin, age, marital status, political
+affiliation, disability, or genetic information, except where it relates to a
+bona fide occupational qualification or requirement.
+ 
+[applicatio]Apply by creating/using account
+
+OK

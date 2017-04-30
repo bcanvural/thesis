@@ -1,0 +1,79 @@
+Aol
+
+Machine Learning Engineer
+
+  * Santa Monica, CA
+  * Full-time
+
+Company Description
+
+Gravity is a highly collaborative environment where our culture is to learn,
+teach and share. We maintain an energetic social atmosphere where lunch,
+punning and kitten wrangling list amongst the things we enjoy most, as well as
+hosting regular game nights and happy hour. Due to our location on Main St we
+also enjoy food trucks, beach volleyball and regular surf outings! We&apos;re a
+very tech savvy bunch. We particularly like to experiment with the latest and
+greatest tech and we&apos;re very proud of the approach we have to solving some
+of the big-data and scale challenges that we work with every day.
+
+Gravity is looking for someone with a strong work ethic who thrives in a
+startup environment like ours. We particularly like self-starters who
+demonstrate product ownership and take on responsibility and accountability.
+
+Job Description
+
+As part of a small but highly capable team you will be contributing to our
+Hadoop based recommendation systems in Scala (Java experience required) and
+will:
+
+  * Take ownership of data flows and maintain responsibility for your code
+    throughout the software lifecycle
+  * Contribute to the evolution of our algorithm tuner, a machine learning
+    pipeline
+  * Work in and contribute to a shared codebase
+  * Participate in design and code reviews
+  * Rapidly fix bugs and solve problems
+  * Integrate with existing systems and tools
+
+Qualifications
+
+  * Experience with machine learning models, specifically reinforcement
+    learning and bayesian networks
+  * Experience with Spark
+  * Experience with Hbase
+  * Experience with various input/output file formats, i.e. Parquet 
+  * Experience with multi-cluster environments
+  * A disciplined approach to testing, quality assurance, and operational
+    concerns
+  * Experience with MapReduce, Impala, and/or Big Data infrastructures
+  * 5+ years of industry experience
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines. AOL
+offers a competitive salary and benefits package, including 401(k) match and
+performance bonus. AOL Inc. is committed to creating a diverse environment and
+is proud to be an equal opportunity employer. All qualified applicants will
+receive consideration for employment without regard to, and will not be
+discriminated against based on, race, gender, sexual orientation, gender
+identity, veteran status, disability or other protected category. Please see
+the following notice regarding your Equal Employment Opportunity Rights. 
+
+I'm interested
+I'm interestedRefer a friend
+Lalitha Ganesan
+
+Posted by
+
+Lalitha Ganesan
+
+share this job
+
+  *  
+  *  
+  *  
+  *  
+
+Powered by 
+
+[103940245]

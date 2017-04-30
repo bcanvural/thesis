@@ -1,0 +1,251 @@
+*
+[LANL_logo]
+
+
+Vacancy Name: IRC53068
+
+                             * Add To Basket * Email Posting * Apply Now * Help
+*
+JavaScript enabled browser required.
+[t]
+Description
+
+[t]
+             Job Title [t] Machine Learning Scientist 2/3 (Scientist 2/3)[t]
+              Location [t] Los Alamos, NM, US[t]
+     Organization Name [t] CCS-3 / Information Sciences[t]
+                           What You Will Do
+
+                            
+
+                           The Information Sciences Group (CCS-3) is seeking
+                           research scientists in the field of machine learning
+                           to join our vibrant and multidisciplinary research
+                           team.  Our mission is to develop and deliver novel
+                           machine-learning algorithms and implementations for
+                           extreme-scale problems.  Example application areas
+                           we work with include predictive medicine, image &
+                           video analytics, materials informatics, geophysical
+                           data analysis, and performance prediction for High
+                           Performance Computing.
+
+                            
+
+                           CCS-3 seeks candidates with knowledge and experience
+                           in Machine Learning to join our research team,
+                           strengthen existing capability in this area, and to
+                           collaborate with current staff in the application of
+                           these techniques to a wide variety of application
+                           areas.  The successful candidate is expected to be a
+                           self-starter, given initial direction and
+                           requirements from technical project leads, and to
+                           work as part of a collaborative, multidisciplinary
+                           team to support machine-learning efforts and other
+                           projects within the group.
+
+                           This position will be filled at either the Scientist
+                           2 or 3 level, depending on the skills of the
+                           selected candidate.   Additional job
+                           responsibilities (outlined below) will be assigned
+                           if the candidate is hired at the higher level.
+
+                           Scientist 2 ($84,300 - $139,000)
+
+                           The successful candidate will be required to:
+
+                             • Conduct research and implement methods for
+                               machine learning, anomaly detection, data
+                               analytics, and related problem domains.
+                             • Work both independently and collaboratively with
+                               other project members to develop theoretical and
+                               computational tools for a wide variety of
+                               machine learning application areas.
+                             • Communicate research results through reports,
+                               presentations, and peer-reviewed publications.
+
+                           Scientist 3 ($92,600 - $154,600)
+
+                           In addition to the duties outlined above, the
+                           Scientist 3 will be required to:
+
+                             • Interact with people from other teams, groups,
+                               divisions, and programs to create effective
+                               technical collaborations.
+                             • Define new technical project directions and seek
+                               program development opportunities to establish
+                               these efforts.  
+                             • Prepare technical proposals for both internal
+                               and external funding opportunities.
+                             • Mentor students, postdocs, and junior scientists
+                               in their scientific work and actively
+                               participate in their career development.
+                              
+                           What You Need
+
+                           Minimum Job Requirements:
+
+                             • Demonstrated knowledge and experience in machine
+                               learning research.
+                             • Evidence of a strong programming background
+                               using high-level languages such as C, C++, and/
+                               or Python.
+                             • Demonstrated research ability, as evidenced by
+                               publications, reports, and presentations.
+                             • Excellent communication skills, as evidenced by
+                               publications and cover letter.
+                             • Evidence of strong interpersonal skills and
+                               ability to collaborate effectively in a team
+                               environment.
+
+                           Additional Job Requirements for Scientist 3
+
+                           In addition to the Job Requirements outlined above,
+                           qualification at the Scientist 3 level requires:
+
+                             • Demonstrated record of successful proposal
+                               writing/program development.
+                             • Experience in leading research and development
+                               in support of programs or R&D initiatives.
+                             • Experience mentoring students and/or postdocs.
+                             • Demonstrated technical leadership in fields
+                               relevant to the group’s core capabilities.
+
+                           Desired Skills
+
+                             • Ability to obtain a Q clearance.
+                             • Experience with image/video and signal
+                               processing.
+                             • Experience with graph theory.
+                             • Experience with high performance computing, GPU
+                               programming, parallel programming, cloud
+                               computing, and related methods.
+                             • Experience with research in predictive medicine,
+                               disease detection and screening, or drug
+                               efficacy studies.
+[t]                          • Experience with python, scikitlearn, Theano,
+                               Caffe, TensorFlow, or related modern machine
+                               learning libraries and tools.
+
+                           Education:  PhD in Electrical/Computer Engineering,
+                           Computer Science, Statistics, Mathematics, or
+                           related field from an accredited college or
+                           university, or an equivalent combination of
+                           education and experience.
+
+                            
+
+                           Notes to Applicants: 
+
+                             • Please include a CV with a publication list and
+                               a detailed cover letter that describes your
+                               research interests and addresses your
+                               qualifications and how those qualifications meet
+                               the job requirements.
+                             • Working on some of the group’s projects requires
+                               obtaining a Q clearance. To obtain a clearance,
+                               an individual must be at least 18 years of age.
+                               U.S. citizenship is required except in very
+                               limited circumstances. See DOE Order 472.2 for
+                               additional information.
+                           
+                           Additional Details:
+
+                            
+
+                           No Clearance: This position does not require a
+                           security clearance.  Selected candidates will be
+                           subject to drug testing and other pre-employment
+                           background checks.
+
+                            
+
+                           New-Employment Drug Test: The Laboratory requires
+                           successful applicants to complete a new-employment
+                           drug test and maintains a substance abuse policy
+                           that includes random drug testing.
+
+                            
+
+                           Regular position: Term status Laboratory employees
+                           applying for regular-status positions are converted
+                           to regular status.
+
+                            
+
+                           Equal Opportunity:
+
+                           Los Alamos National Laboratory is an equal
+                           opportunity employer and supports a diverse and
+                           inclusive workforce. All employment practices are
+                           based on qualification and merit, without regards to
+                           race, color, national origin, ancestry, religion,
+                           age, sex, gender identity, sexual orientation or
+                           preference, marital status or spousal affiliation,
+                           physical or mental disability, medical conditions,
+                           pregnancy, status as a protected veteran, genetic
+                           information, or citizenship within the limits
+                           imposed by federal laws and regulations.  The
+                           Laboratory is also committed to making our workplace
+                           accessible to individuals with disabilities and will
+                           provide reasonable accommodations, upon request, for
+                           individuals to participate in the application and
+                           hiring process. To request such an accommodation,
+                           please send an email to applyhelp@lanl.gov or call
+                           1-505-665-4444 option 1.
+
+                            
+
+                           Where You Will Work
+
+                           Located in northern New Mexico, Los Alamos National
+                           Laboratory (LANL) is a multidisciplinary research
+                           institution engaged in strategic science on behalf
+                           of national security.  LANL enhances national
+                           security by ensuring the safety and reliability of
+                           the U.S. nuclear stockpile, developing technologies
+                           to reduce threats from weapons of mass destruction,
+                           and solving problems related to energy, environment,
+                           infrastructure, health, and global security
+                           concerns.
+
+                           The Computer, Computational, and Statistical
+                           Sciences (CCS) Division is a scientific research and
+                           development organization working in five principal
+                           mission areas of Los Alamos National Laboratory:
+                           basic science and technology research programs;
+                           climate and energy programs; global security
+                           programs; the nuclear weapons program; and
+                           information science and technology. The division is
+                           comprised of scientists focused on impactful
+                           research and development in fundamental computer
+                           science, computational physics, statistics, and
+                           applied mathematics. CCS Division bridges the
+                           computational sciences that are central to
+                           scientific discovery and innovation with external
+                           partners and laboratory programs to solve complex
+                           and fundamental problems ranging from metagenomics
+                           to nuclear energy.
+
+                            
+
+     
+      Appointment Type [t] Regular[t]
+                           Regular
+     
+        Minimum Salary [t] [t]
+        Maximum Salary [t] [t]
+[t]
+Contact Details
+
+[t]
+      Contact Name [t] Doyle, Christine Louise[t]
+[t]          Email [t] cdoyle@lanl.gov[t]
+    Work Telephone [t] [t]
+*
+*
+[t]                      * Add To Basket * Email Posting * Apply Now * Help [t]
+*
+ * Privacy Statement           Copyright (c) 2006, Oracle. All rights reserved.
+
+  *
+* *

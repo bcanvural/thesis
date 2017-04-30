@@ -1,0 +1,245 @@
+www.leidos.com
+
+Main menu
+
+LeidosBack
+
+  * Leidos
+  * AboutBack
+      + Back
+      + About
+      + Capabilities
+      + Vision, Mission, Values
+      + Leidos Companies
+      + Leadership
+      + History
+      + Corporate Responsibility
+      + Commitment to Quality
+      + Rankings & Awards
+      + Contract Center
+      + Contact Us
+  * CapabilitiesBack
+      + Back
+      + Capabilities
+      + CivilBack
+          o Back
+          o Civil
+          o Aviation
+          o Commercial Cyber
+          o Energy, Envir. & Sustainability
+          o Federal Infrastructure
+          o Lenders and Developers
+          o Manufacturing & Industrial
+          o Utilities
+      + DefenseBack
+          o Back
+          o Defense
+          o Airborne
+          o Command and Control
+          o Data Analytics
+          o Enterprise IT Services
+          o Operations & Logistics
+          o Sensors
+          o Training
+      + Intelligence & Homeland SecurityBack
+          o Back
+          o Intelligence & Homeland Security
+          o Data Analytics
+          o Federal Cybersecurity
+          o Intelligence Services
+          o Logistics Solutions
+          o Mission IT Services
+          o Transportation Security
+      + HealthBack
+          o Back
+          o Health
+          o Federal Health IT
+          o Hospitals & Health Systems
+          o Life Sciences
+      + Advanced SolutionsBack
+          o Back
+          o Advanced Solutions
+          o Airborne Systems Integration
+          o Maritime
+  * CareersBack
+      + Back
+      + Careers
+      + Opportunities
+      + Pay & Benefits
+      + Life at Leidos
+      + FAQs
+  * InvestorsBack
+      + Back
+      + Investors
+      + Stock Data
+      + Corporate Governance
+      + SEC Filings
+      + Quarterly Earnings
+  * NewsroomBack
+      + Back
+      + Newsroom
+      + Multimedia
+  * Search
+
+[MOBILESITE]
+
+Leidos Search
+
+Leidos
+[                    ][Search]cancel
+Home
+
+
+
+
+
+Data Scientist (NCI)
+
+APPLY NOW    
+Job Number:
+633923
+Job Category:
+Information Technology - Other
+Location:
+FREDERICK, MD US
+Schedule:
+Full-time
+Travel:
+None
+Shift:
+Day Job
+Potential for Teleworking:
+No
+Clearance Level Must Currently Possess:
+None
+Clearance Level Must Be Able to Obtain:
+Public Trust
+Description:
+
+PROGRAM DESCRIPTION
+The Advanced Biomedical Computing Center (ABCC) is a part of the Data Science
+and Information Technology Program (DSITP) at Leidos Biomedical Research, Inc.
+The ABCC provides technology development, analysis, and scientific application
+support to NCI scientists in the areas of data science, information
+visualization, database architecture and applications, imaging and
+visualization, biomarker discovery, proteomics, mathematical and statistical
+modeling, pattern recognition, nanoinformatics, molecular structure, data
+integration, and workflow automation. The ABCC also provides dedicated support
+to NCI labs in genomics and bioinformatics analyses.
+
+ 
+
+JOB DESCRIPTION/BASIC FUNCTION
+
+This position description does not represent a current opening but may be used
+ to identify candidates with skills and experience for positions within Leidos
+Biomedical Research that frequently become available. Candidates who express an
+interest may be considered for future positions at Leidos Biomedical Research.
+
+ 
+
+ ABCC seeks a data scientist with focus in Machine Learning/Deep Learning to
+take advantage in the advances in machine learning to classify, organize, and
+derive new insights into the biological processes being explored by the
+plethora of omics technologies being deployed in the research oncology field.
+
+ 
+
+Basic function of this position includes:
+
+  * Provide domain knowledge in machine learning/deep learning and other areas
+    such as cognitive learning as the field develops
+  * Aid in analyzing and interpreting multiple data sources, and transforming
+    data to knowledge
+  * Explore, develop, implement, and deploy algorithms and software using
+    techniques from machine learning/deep learning
+  * Collaborate with ABCC team members and apply machine learning related
+    techniques, algorithms, and software tools to image analysis and
+    recognition, natural language processing, systems biology, genotype/
+    phenotype/disease correlations, and structure analysis
+  * Participate in NCI and ABCC sponsored educational and outreach activities
+    to students, interns, and local education institutions
+  * Provide written and oral updates to peers and maintain best practices for
+    planning and coordination purposes
+
+
+Qualifications:
+
+BASIC QUALIFICATIONS
+
+To be considered for this position, you must minimally meet the knowledge,
+skills, and abilities listed below:
+
+  * A Ph.D. from an accredited college/university according to the Council for
+    Higher Education Accreditation (CHEA) in computer science or related field
+    is required
+  * Foreign degrees must be evaluated for U.S. equivalency
+  * This position is subject to obtaining a Clearance
+  * Solid experience in machine learning with a focus on deep learning
+  * Hands on experience in algorithms and software development using techniques
+    from machine learning/deep learning
+  * Communicate effectively through written and verbal means to NCI scientists,
+    experts in the field, and DSITP/FNL management ? including publishing in
+    scientific journals
+
+ 
+
+PREFERRED QUALIFICATIONS
+
+Candidates with these desired skills will be given preferential consideration:
+
+  * Ability to manage multiple projects and prioritize workload to make sure
+    established goals are met,
+  * Ability to work in a diverse environment and apply machine learning
+    techniques to different scientific fields including and not limited to
+    image analysis and recognition, natural language processing, systems
+    biology, and structure analysis
+  * Hands on problem solving experience in one or more scientific fields
+    mentioned above is desired
+  * Solid understanding of modern GPGPU programming and cluster based
+    development is desired
+
+
+Leidos Overview:
+Leidos is a global science and technology solutions leader working to solve the
+world?s toughest challenges in the defense, intelligence, homeland security,
+civil, and health markets. The company?s 33,000 employees support vital
+missions for government and commercial customers. Headquartered in Reston,
+Virginia, Leidos reported pro forma annual revenues of approximately $10
+billion for the fiscal year ended January 1, 2016 after giving effect to the
+recently completed combination of Leidos with Lockheed Martin's Information
+Systems & Global Solutions business (IS&GS). For more information, visit
+www.Leidos.com. The company?s diverse employees support vital missions for
+government and commercial customers. Qualified women, minorities, individuals
+with disabilities and protected veterans are encouraged to apply. Leidos is an
+Equal Opportunity Employer.
+Other Locations:  
+APPLY NOW    
+[Ue3Ji]
+
+leidos
+
+? 2015 Leidos
+
+  * Privacy Policy
+  * Site Map
+  * Search
+
+  * For Customers
+  * For Alumni
+  * For Employees
+  * For Suppliers
+
+  * Connect on Facebook
+  * Connect on Linkedin
+  * Connect on Twitter
+  * Connect on Youtube
+  * Connect on Google+
+
+  * Services
+  * Products
+  * Research & Development
+  * Federal Contract Vehicles
+  * Contact Us
+
+Powered by SmashFly

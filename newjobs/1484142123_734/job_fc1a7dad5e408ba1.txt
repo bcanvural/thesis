@@ -1,0 +1,85 @@
+Home [HubZoneCer]
+Home | Company Info | Careers | Contact Us RSS LinkedIn Twitter Facebook
+Google+
+Search this site: [               ]
+[Search] 
+  * Federal / State
+      + Solutions
+      + Contract Vehicles
+      + Clients
+      + Security
+          o ColdFusion Security Program
+          o Securing ColdFusion
+  * Commercial
+      + Solutions
+      + Staff Augmentation
+      + Mobile
+      + Clients
+  * Products
+  * Training
+      + Overview
+      + Course List
+      + Adobe Partnership
+      + Class Schedule
+  * About Us
+      + AboutWeb Cares
+      + History
+      + Leadership
+      + News
+      + Community
+      + Partnerships
+      + Contact Us
+  * Careers
+      + Jobs
+      + Resume Tips
+
+ 
+
+Data Scientist
+
+Home ? Careers ? Jobs ? Data Scientist
+
+Data Scientist
+Job Summary:
+This position is for a Data Scientist responsible for the discovery of
+knowledge hidden in vast amounts of data and surfacing that knowledge to our
+customers. Primary focus in data mining techniques, statistical analysis, and
+building high quality prediction systems, automate scoring using machine
+learning techniques, build recommendation systems, improve and extend the
+features of our existing system.
+Scope:
+*         Selecting features, building and optimizing classifiers using machine
+learning techniques
+*         Data mining using state-of-the-art methods
+*         Extending customers data with third party sources of information when
+needed
+*         Enhancing data collection procedures to include information that is
+relevant for building analytic systems and meeting customer requirements
+*         Processing, cleansing, and verifying the integrity of data used for
+analysis
+*         Doing ad-hoc analysis and presenting results in a clear manner
+*         Creating automated anomaly detection systems and constant tracking of
+its performance
+Skills and Qualifications:
+*         Excellent understanding of machine learning techniques and
+algorithms,
+*         Experience with common data science toolkits, such as R, Weka, NumPy,
+MatLab, etc.
+*         Great communication, written and oral, skills
+*         Experience with data visualization tools, such as D3.js, GGplot, etc.
+*         Proficiency in using query languages such as SQL, Hive, Pig, SparQL
+*         Experience with NoSQL databases, such as MongoDB, Cassandra, HBase
+*         Good applied statistics skills, such as distributions, statistical
+testing, regression, etc.
+*         Good scripting and programming skills; Python, Javascript, JAVA
+*         Data-oriented personality
+*         Experience with Spark, Hadoop
+*         CS degree in related domain
+ 
+
+Vienna
+VA
+Apply Now
+&copy 2017 AboutWeb LLC. All rights reserved.
+Contact Us | Site Map
+ 

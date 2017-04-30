@@ -1,0 +1,54 @@
+[Machine]
+
+Data Scientist
+
+Palo Alto, CA
+Data Science
+Full-time
+Apply for this job
+
+As a member of the data science team, you will develop and investigate
+hypotheses, structure experiments and build mathematical models to identify
+game optimization points that will encourage users to play our games more
+often, over longer periods of time, resulting in higher lifetime values.  We
+are looking for a sharp, disciplined, and highly quantitative individual who
+has a passion for mobile gaming, data mining, and mathematical modeling.  We
+are building a unique technology platform dedicated to the operation and real
+time optimization of free to play games. We are changing the gaming industry!
+
+
+Responsibilities:
+
+      + Build mathematical models and automated machine learning tools to
+        analyze and optimize all aspects of MZ games, providing actionable
+        insights in real time
+      + Design and implement experiments to test various hypothesis
+      + Work in a collaborative team environment with other highly skilled
+        specialists in gaming, statistics, machine learning, and engineering
+      + Influence development teams to implement tools, features and/or designs
+        ? success is measured in % monetizing, retention, time spent in the
+        game, and lifetime value
+
+
+Requirements:
+
+      + B.S. or higher in Applied Math, Statistics, Computer Science, or
+        related field. Graduate degrees preferred
+      + 2+ years experience in quantitative analysis, specific experience with
+        social games or mobile apps strongly preferred
+      + Strong analytical and quantitative problem solving ability
+      + Solid understanding of statistical modeling / predictive analysis/
+        machine learning / data mining / recommender system concepts
+      + Familiar with R, Python or equivalent for data modeling and analysis
+      + Familiar with SQL 
+      + Good presentation and communication skills
+      + Ability to prioritize and track multiple projects in parallel
+
+#LI-POST
+
+
+Apply for this job
+
+MZ Home Page
+
+Jobs powered by [lever-logo]

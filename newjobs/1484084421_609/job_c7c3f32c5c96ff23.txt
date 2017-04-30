@@ -1,0 +1,125 @@
+[header_aCI]
+Your browser cookies must be enabled in order to apply for this job. Please
+contact support@jobscore.com if you need further instruction on how to do that.
+
+Member of Research Staff - Machine Learning
+
+software research and engineering | Palo Alto, CA | Full Time
+
+Job Description
+
+The Machine Learning (ML) group at PARC has an opening for a research
+scientist. 
+
+ 
+
+About the Job
+
+PARC attracts the most talented researchers wanting to transform their ideas
+into real-world breakthroughs, working in collaboration with talented,
+multidisciplinary and diverse colleagues, and partnering with academia and
+leading domain experts in industry. The ML group is a growing research group
+with world-class strengths in probabilistic graphical modeling, statistical
+relational learning, computer vision, data mining, big data, diagnostics, and
+simulation. Efforts in the ML group cover a range of technology maturity, from
+abstract algorithm formulation all the way to embedded software implementation
+on physical hardware platforms and span various application domains such as
+healthcare, cyber security, intelligent transportation systems, consumer goods,
+finance, manufacturing, and energy.
+
+ 
+
+We are currently seeking a research scientist with machine learning and data
+mining expertise to join a team of researchers developing innovative machine
+learning methods for autonomous learning in unstructured environments under
+weak supervision. Applications include building systems for medical decision
+support, automated customer care, autonomous control systems for transport
+regulation, cyber threat detection, and user behavior and preference modeling. 
+The ideal candidate is a self-starter who can work collaboratively in a team
+setting, refine application concepts, and take ideas from the drawing board to
+prototype deployment.
+
+
+Responsibilities
+
+  * Design, develop, and deliver innovative approaches, algorithms, methods,
+    and models
+
+  * Design and deliver software prototypes
+
+  * Contribute to efforts on engaging customers and developing new business
+    opportunities, including proposal development
+
+ 
+
+Requirements
+
+  * Ph.D. or equivalent experience in Computer Science, Engineering,
+    Mathematics or Statistics
+
+  * Experience in machine learning and data mining with focus on one or more of
+    the following areas: probabilistic inference, sequential decision making,
+    deep learning, reinforcement learning, active learning
+
+  * Experience working with unstructured data sources such as images or text
+
+  * Experience in scientific programming, algorithm design and development
+
+  * Experience in writing grant proposals
+
+  * Good presentation and written communication skills
+
+  * Commitment to developing quality software
+
+  * Experience with Python, Java, C++, R, or other high-level programming
+    languages
+
+ 
+
+Benefits
+
+We offer a very competitive salary package and full benefits (medical, dental,
+vision, life & disability insurance, 401K). PARC employees enjoy the use of
+onsite health & fitness center and collegial dining at our onsite cafeteria.
+The PARC campus is in a spacious modern building in close proximity to the
+resources and opportunities of Silicon Valley and benefits from nearby leading
+universities such as Stanford and Berkeley. It is also close to many amenities,
+top schools, and outdoor activities (see http://www.parc.com/about/
+culture.html). PARC provides a highly diverse environment and is proud to be an
+equal opportunity employer (see http://www.parc.com/about/careers/).
+
+About PARC
+
+PARC, a Xerox company, is in the Business of Breakthroughs?. Practicing open
+innovation, we provide custom R&D services, technology, expertise, best
+practices, and intellectual property to Fortune 500 and Global 1000 companies,
+startups, and government agencies and partners. We create new business options,
+accelerate time to market, augment internal capabilities, and reduce risk for
+our clients.
+
+Since its inception, PARC has pioneered many technology platforms ? from the
+Ethernet and laser printing to the GUI and ubiquitous computing ? and has
+enabled the creation of many industries. Incorporated as an independent, wholly
+owned subsidiary of Xerox in 2002, PARC today continues the research that
+enables breakthroughs for our clients' businesses.
+
+PARC is an Equal Opportunity Employer and considers applicants for all
+positions without regard to race, color, religion or  belief, sex, age,
+national origin, citizenship status, marital status, military/veteran status,
+genetic information, sexual orientation, gender identity, physical or mental
+disability or any other characteristic protected by applicable laws.  People
+with disabilities who need a reasonable accommodation to apply or compete for
+employment with PARC should contact PARC Human Resources.
+
+Return to PARC, a Xerox company
+Apply for this job
+Apply for this job
+Apply for this job
+SHARE
+Not the right job?
+Join our Talent Network
+Return to PARC, a Xerox company
+POWERED BY
+ 
+APPLICANT TRACKING
+Quantcast

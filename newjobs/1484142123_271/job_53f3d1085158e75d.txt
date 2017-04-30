@@ -1,0 +1,110 @@
+Tesla Motors
+
+ 1. Support
+ 2. Find Us
+ 3. My Tesla
+
+ 1. Model S
+ 2. Model X
+ 3. Supercharger
+ 4. Updates
+
+Mobile Menu
+
+Careers
+
+<< Back to Search Results
+
+-------------------------------------------------------------------------------
+Staff Data Scientist
+
+Req. ID:                             41498
+Office Location:                     NA-US-CA-Palo Alto-Deer Creek-Office
+Job Shift:
+Job Type:                            Full time
+-------------------------------------------------------------------------------
+Description
+
+Role 
+
+Data is deeply embedded in the product and engineering culture at Tesla. We
+rely on data ?  lots of it ? to improve autopilot, to optimize hardware
+designs, to proactively detect faults, and to optimize load on the electrical
+grid. We collect data from each of our cars, superchargers, and stationary
+batteries and use it to make these fleets better and our customers safer.
+
+We're the small but fast-growing team which owns the platform for fleet
+time-series data, and the core analysis that needs to be run on that data. Our
+stack is used internally by hundreds of engineers, and externally in the form
+of customer-facing data services.
+
+We're looking for a talented data scientist to join us as a foundational member
+of the team and to provide leadership in all areas that relate to analysis and
+data services. Working directly with data engineers and the broader community
+of scientists and analysts you'll guide analysis, define and operationalize
+data-services, and help inform the future development of our data platform.
+
+You will support, guide, and lead the community, and help Tesla build a
+world-class data organization.
+
+ 
+
+Responsibilities
+
+Many of your responsibilities will be project-based. Depending on capabilities
+of the partner team, the priority of their project, and its computational
+requirements, your responsibilities will include (in order of increasing
+involvement):
+
+  * providing peer review of analysis and supporting production implementation.
+  * guiding the definition of the problem and its solution, with prototypes
+    where appropriate.
+  * identifying opportunities and driving their solution and implementation.
+
+You will also be responsible for identifying and providing tooling that can
+increase productivity of the fleet analytics community such as feature
+extraction frameworks and model-predict-control workflows.
+
+Requirements
+
+  * 5+ years experience in Python.
+  * 2+ years experience developing and operating high-uptime data services.
+  * 5+ years experience in advanced numerical methods.
+  * A strong predilection for good software and the processes that make it.
+  * Diverse experience modeling physical and behavioral systems.
+  * Proven success in the development and maintenance of customer-facing data
+    services.
+  * Smart but humble, with a bias for action.
+
+Plus
+
+  * Proficiency in Java, C++, C.
+  * Experience with Hadoop, HBase, Spark, HPC.
+  * Experience manipulating 100's of terrabytes of data.
+  * Basic sysadmin capabilities.
+  * Experience with physics-based models and electromechanical systems.
+
+
+[Apply for this Position]                                    [Send to a Friend]
+
+
+Previous Applicants:
+                                       Email: [                    ]
+[                    ] [                    ]
+                                    Password: [                    ]
+[Add to My Jobs]
+
+If you do not remember your password click here.
+
+
+Back to Search Results
+
+New Search
+
+
+                                                               Powered By Taleo
+
+
+
+Tesla Motors ? 2015
+

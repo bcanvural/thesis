@@ -1,0 +1,75 @@
+[ebf1ff8f-5]
+
+Machine Learning Engineer
+
+Redwood City
+Engineering
+Full-time
+Apply for this job
+
+Our consumption of health data is growing at an exponential rate -- as a
+machine learning engineer, you'll make sense of it all. We ingest clinical data
+(eg: medical history, allergies, test results) from hospitals and labs, and
+wellness data (eg: physical activity, sleep, nutrition) from devices and apps.
+Collectively, these data sets create a more detailed understanding of an
+individuals health than anything else today. The data recorded from these
+sources are both continuous and discrete.
+
+You?ll be responsible for building our deep normalization pipeline, creating
+medical models, and developing structured APIs with the engineers.
+
+This position is for someone who has built at least one large classification
+system, dabbled with medical data sets, is well versed with NLP and Machine
+Learning, and is comfortable coding in languages such as Scala, Java, and
+Python. You've likely built your own parsers when the open source NLP parsers
+couldn't do the job and you've built machine learning pipelines.
+
+This position is for someone who can hit the ground running and is excited to
+take our team to the next level. We're looking for people who want to solve
+hard problems and find a mission they really believe in.
+
+You will
+
+      + Drive the machine regression / classification and normalization
+        pipeline
+      + Develop the NLP required to clean noisy unstructured data
+      + Create machine learning models in situations where the data is sparse
+        and high-dimensional
+      + Improve the models ten times before an expert can label the data
+      + Develop normalization algorithms
+      + Build algorithms required to gain deeper insights on the clinical data
+        from thousands of hospitals
+
+We really like people who
+
+      + Care deeply about the problems we're trying to solve
+      + Own problems end-to-end in a very ownership driven culture
+      + Are product focused. Solving the underlying product problem is more
+        important than writing a lot of code
+      + Have a good sense of humor
+      + Have a positive attitude, willingness to learn, and desire for
+        self-improvement
+
+At Human API, we are opening up the world of health data for the next
+generation of healthcare applications.
+
+We?ve built the first real-time network for health data, making health data
+accessible and actionable for companies building valuable applications and
+experiences with it. By enabling health data liquidity, we are powering a more
+effective, personal and responsive healthcare system.
+
+Human API is powering over 10,000 applications in 40 countries, including
+Johnson & Johnson, Kaiser Permanente, and AXA. The company is backed by
+Andreessen Horowitz and BlueRun Ventures.
+
+We're looking for independent thinkers who care deeply about the problems we're
+trying to solve. At Human API, we believe that a diverse variety of people
+makes us better, and so we welcome people of all backgrounds.
+
+Want to build the future of health data with us? Get in touch.
+
+Apply for this job
+
+Human API Home Page
+
+Jobs powered by [lever-logo]
