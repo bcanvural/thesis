@@ -1,0 +1,5 @@
+T1	Protein_catabolism 20 24	hill
+E1	Protein_catabolism:T1 
+T2	Entity 4 8	farm
+T3	Gene_expression 10 13	ous
+E2	Gene_expression:T3 

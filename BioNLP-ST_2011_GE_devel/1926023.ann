@@ -1,0 +1,7 @@
+T1	Entity 47 60	transcription
+T2	Protein 68 73	human
+T4	Positive_regulation 20 87	Sp1 and Sp3 regulate basal transcription of the human APOBEC3G gene
+E1	Positive_regulation:T4 
+A1	Speculation E1
+T3	Protein_catabolism 28 40	Sp3 regulate
+E2	Protein_catabolism:T3 

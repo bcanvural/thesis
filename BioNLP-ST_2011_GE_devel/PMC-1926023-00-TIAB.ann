@@ -1,0 +1,7 @@
+T1	Protein 54 62	APOBEC3G
+T2	Protein 0 3	Sp1
+T3	Protein 8 11	Sp3
+T4	Transcription 27 40	transcription
+E1	Transcription:T4 Theme:T1
+T5	Regulation 12 20	regulate
+E2	Regulation:T5 

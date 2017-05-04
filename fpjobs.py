@@ -29,6 +29,7 @@ def main():
         .getOrCreate()
 
     df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL").cache()
+    # df_jobs = spark.read.json("newjobs4rdd/newjobs.jsonl").filter("description is not NULL").cache()
     tokenizer = Tokenizer(inputCol="description", outputCol="words")
     tokenized = tokenizer.transform(df_jobs)
 
@@ -38,7 +39,8 @@ def main():
     words = removed.select("filtered").rdd.map(lambda x: list(set(blacklist(lemmatize(strip_punctuation(x.filtered))))))
     model = FPGrowth.train(words, minSupport=0.1, numPartitions=1)
     finalDF = model.freqItemsets().map(lambda row: (' '.join(row.items) ,row.freq)).toDF(["items", "freq"]).orderBy(desc("freq")).coalesce(1)
-    finalDF.write.csv('fpjobs-with-blacklist')
+    finalDF.write.csv('fpjobs-newjobs-with-blacklist')
+    
 
 if __name__ == '__main__':
     main()

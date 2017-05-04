@@ -1,0 +1,15 @@
+T1	Protein 33 38	TRAF2
+T2	Protein 63 67	CD40
+T3	Protein 918 923	TRAF2
+T4	Phosphorylation 14 29	Phosphorylation
+E1	Phosphorylation:T4 Theme:T1
+T5	Binding 48 55	binding
+E2	Binding:T5 Theme:T1 Theme2:T2 Theme3:T2
+T6	Negative_regulation 39 47	inhibits
+E3	Negative_regulation:T6 Cause:E1 Theme:E2
+T7	Phosphorylation 304 319	phosphorylation
+E4	Phosphorylation:T7 
+T8	Positive_regulation 320 327	appears
+E5	Positive_regulation:T8 Theme:E4
+T9	Phosphorylation 549 564	phosphorylation
+E6	Phosphorylation:T9 
