@@ -221,6 +221,25 @@ def edison_graph_by_cv():
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
 
+@app.route('/barchart', methods=['POST'])
+def barchart_data():
+    if request.method == 'POST':
+        try:
+            json_data = json.loads(request.get_data().decode('utf-8'))
+            chart_type = json_data['chart_type']
+            pagenum = int(json_data['pagenum'])
+            PAGESIZE = 40
+            chart_data = db['barcharts'].find({"type": chart_type}, {"_id": 0}).sort("freq", 1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
+            if chart_data.count()==0:
+                return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
+            return jsonify({"response": list(chart_data),"statusCode": 200})
+        except ValueError:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
+        except:
+            return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+            
+
+
 @app.route('/singleedisongraphcv', methods=['POST'])
 def single_edison_graph_by_cv():
     if request.method == 'POST':
@@ -270,6 +289,13 @@ def single_edison_graph_by_cv():
             return jsonify({"response": {}, "statusCode": 404, "message": "Value error"})
         except:
             return jsonify({"response": {}, "statusCode": 404, "message": "Generic"})
+
+
+
+
+
+
+
 
 if __name__ == "__main__":
     app.run(host=HOST, port=PORT, threaded=True)
