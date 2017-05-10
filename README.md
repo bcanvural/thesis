@@ -18,4 +18,5 @@
   * Folders under Categories/ are category names. .txt files listed under these category folders are called "skill" Add a particular skill by creating folders and files in the following format: Categories/<new-category-name>/<new-skill-name>.txt  Then run `python3 categories4rdd.py`
   * CVs are located under CVs/ Add a new CV under this folder as a single json file and run `python3 cvs4rdd.py`
   * *4rdd.py scripts prepares input for Spark to process
+  * Spark job outputs go under Calculated/
   
