@@ -1,0 +1,476 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ziprecruiter-3b6ef5e4", 
+    "expirationDate": 1451712338000, 
+    "title": "Senior Marketing Analyst (Data Scientist)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4788, 
+          "type": "BR", 
+          "endIdx": 4788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4788, 
+          "type": "BR", 
+          "endIdx": 4788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4758, 
+          "type": "BR", 
+          "endIdx": 4758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4723, 
+          "type": "BR", 
+          "endIdx": 4723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4674, 
+          "type": "BR", 
+          "endIdx": 4674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4627, 
+          "type": "BR", 
+          "endIdx": 4627, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4582, 
+          "type": "BR", 
+          "endIdx": 4582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4582, 
+          "type": "BR", 
+          "endIdx": 4582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4406, 
+          "type": "B", 
+          "endIdx": 4582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4406, 
+          "type": "BR", 
+          "endIdx": 4406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4406, 
+          "type": "BR", 
+          "endIdx": 4406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4014, 
+          "type": "BR", 
+          "endIdx": 4014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4014, 
+          "type": "BR", 
+          "endIdx": 4014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3966, 
+          "type": "BR", 
+          "endIdx": 3966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3966, 
+          "type": "BR", 
+          "endIdx": 3966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3675, 
+          "type": "BR", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3675, 
+          "type": "BR", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3627, 
+          "type": "LI", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3581, 
+          "type": "LI", 
+          "endIdx": 3627, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3410, 
+          "type": "LI", 
+          "endIdx": 3581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3410, 
+          "type": "BG", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3410, 
+          "type": "BR", 
+          "endIdx": 3410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3351, 
+          "type": "B", 
+          "endIdx": 3410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3351, 
+          "type": "BR", 
+          "endIdx": 3351, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3351, 
+          "type": "BR", 
+          "endIdx": 3351, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3301, 
+          "type": "LI", 
+          "endIdx": 3351, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3200, 
+          "type": "LI", 
+          "endIdx": 3301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3047, 
+          "type": "LI", 
+          "endIdx": 3200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2867, 
+          "type": "LI", 
+          "endIdx": 3047, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2756, 
+          "type": "LI", 
+          "endIdx": 2867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2667, 
+          "type": "LI", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2553, 
+          "type": "LI", 
+          "endIdx": 2667, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "LI", 
+          "endIdx": 2553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2415, 
+          "type": "LI", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2394, 
+          "type": "LI", 
+          "endIdx": 2415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2340, 
+          "type": "LI", 
+          "endIdx": 2394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2340, 
+          "type": "BG", 
+          "endIdx": 3351, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2340, 
+          "type": "BR", 
+          "endIdx": 2340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "B", 
+          "endIdx": 2340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "BR", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "BR", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2219, 
+          "type": "LI", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2117, 
+          "type": "LI", 
+          "endIdx": 2219, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1934, 
+          "type": "LI", 
+          "endIdx": 2117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1813, 
+          "type": "LI", 
+          "endIdx": 1934, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "LI", 
+          "endIdx": 1813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1378, 
+          "type": "LI", 
+          "endIdx": 1569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1378, 
+          "type": "BG", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1378, 
+          "type": "BR", 
+          "endIdx": 1378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "B", 
+          "endIdx": 1378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "BR", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "BR", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 888, 
+          "type": "BR", 
+          "endIdx": 888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 888, 
+          "type": "BR", 
+          "endIdx": 888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 392, 
+          "type": "B", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 392, 
+          "type": "BR", 
+          "endIdx": 392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 392, 
+          "type": "BR", 
+          "endIdx": 392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 369, 
+          "type": "B", 
+          "endIdx": 392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 369, 
+          "type": "BR", 
+          "endIdx": 369, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 369, 
+          "type": "BR", 
+          "endIdx": 369, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "BR", 
+          "endIdx": 0, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "BR", 
+          "endIdx": 0, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "At AAA Northern California,  Nevada and Utah,  we know you're more than who you bring to work.  For over a century,  we've continued to redefine ourselves to become a multi-faceted leading provider of travel,  insurance,  and auto services.  We know you're as versatile as we are,  and it makes what you have to offer the Members and communities we serve that much more unique. Become the face of AAA. You're unique.  You're creative.  You're AAA. With your ability to excel at both the creative and business side of marketing,  becoming a member of our AAA team means being challenged to strengthen our brand and products.  As a dynamic and evolving organization we are reinventing the landscape of how we deliver our message.  Through open and transparent dialogue and interdependent collaboration,  you'll use automated marketing tools to deploy more timely and relevant marketing solutions across AAA. The successful Senior Marketing Analyst will distill large amounts of data into statistically validated predictive models that will be refined and as new data becomes available.  The model will be utilized to help marketing target product offerings,  and present the member with the next best product or services.  In addition,  business and analytical skills will be applied to translate business metrics and data sets into trends and actionable information for management . Essential Functions Use data mining,  model building,  and other analytical techniques to develop and maintain customer segmentation and predictive models to drive the business and improve marketing performance.   Provide leadership and creativity by utilizing advanced quantitative methods from the fields of statistics,  operations research,  economics and data mining to identify opportunities to bring value to the business and influence decision making.   Apply strong analytical skills and ability to efficiently frame and solve unstructured and complex analytical problems.   Analytic tasks may include creating response and uplift models,  cross-sell / up-sell analysis,  retention models,  churn forecasting,  offer optimization,  customer value analysis,  etc.   Contributes to the development of analytic/research plans that achieve the business line objectives.   Acts as an analytic consultant and project manager to provide actionable business solutions  Knowledge/Skills/Abilities  Multivariate statistical analysis and model building  Predictive modeling  Operational research  Use knowledge of marketing analytic disciplines to solve unique issues/problems without precedent and/or structure  Experience/familiarity with market research including survey design,  questionnaire development and data analysis  5 years of experience using quantitative methods: general and generalized linear models  5 years of experience in SAS programming,  as well as some professional experience using SAS Enterprise Miner;  2 years of experience writing SQL code in relational database environment; 2 years of experience writing statistically-related code in 'R',  Python,  or Matlab (or equivalent); and  Ability to effectively communicate (written and verbal) with both a business and technical audience.  Ability to present and sell results to management.   Establish operational objectives and work plans based on the needs of business partners (preferred)  Business partner relationship skills (preferred)  Education &amp; Experience / Licenses &amp; Certification  Bachelor's degree in related area (BA/BS degree in business,  statistics,  computer science or related discipline) or an equivalent combination of education and experience  6 - 7 years Marketing experience (preferred)  0 - 2 years supervisory experience (preferred) Joining AAA delivers career potential,  flexibility,  and excellent benefits.  Become the face of AAA,  and bring your whole self to every aspect of what we do.  Give your career a jumpstart with the company that has a well-respected past and a smart business eye towards the future.  Apply today. AAA is proud to be an Equal Opportunity EmployerFor over a century,  AAA has continued to redefine itself to become a multi-faceted leading provider of travel,  insurance and auto services.  We know you are as versatile as we are and that every aspect of your personality adds to the skills and knowledge you bring to AAA.  That's what makes you so exceptional,  and what you offer our Members and the communities we serve that much more unique. The Second-largest Regional Member Club Of The National Organization,  AAA Northern California,  Nevada &amp; Utah Is Headquartered In Emeryville,  California,  And Brings TogetherAn award winning work culture and environment2, 200 employees to serve over 4 million MembersOver 75 branch offices across Northern CaliforniaEleven branch offices across NevadaSix branch offices across Utah"
+    }, 
+    "postalCode": "94608", 
+    "jobState": "LISTED", 
+    "companyName": "AAA", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in 1902,  AAA is a not-for-profit federation of clubs serving 53 million members in the United States and Canada.  AAA is  North America's largest motoring and leisure travel organization and provides its members a full range of travel,  insurance,  financial and automotive-related services through a network of 1, 100 offices,  as well as its full-service Web site: AAA. com.  Since its founding,  AAA has been an advocate for the motorist and traveler,  continually lobbying for driver and passenger rights,  fair laws and safer vehicles and roads.  Through affiliations with motoring clubs around the world,  AAA provides benefits to members traveling in 130 countries on six continents.  Its national office is in Heathrow,  Florida. Social Media Disclaimer: http://newsroom. aaa. com/wp-content/uploads/2011/06/Social-Media-Disclaimer-November-2014. pdf"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1447914167000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2987", 
+    "id": 99806031, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Emeryville,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99806031?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. ziprecruiter. com%2Fclk%2FyvJKEwLeAY1JEU7LVB8SRCNXUwn7gfsaRu_T4pNi8QxDaPrvqFghZYLs-OVWVieYKBx80xEXy8jcMsAIzaJPU1SWDgfkzXAO-DKv9rIXLtbe4mWw3y0Iz8iFHi5VPDLV0ELkt3B2xTtbwuw-WEEn2L-yffT1rP41R_pXktRVpcjZDJHVxqI-lRfAyIqFIr9_7bX4x4W_X0hTq2Hfn-cJHuN7hx8ogcUFIFvLzbPCjLEvrvRMVxAXgVE_5snTP5jbl8lHp1lPxCy0UJdHFKvz-hB1Ssmt-zb4UGBEoIQysXubhZM8DiksptxxYhGTtUKZgLfKapx71RtCyDdobZ9_KHU1tgPQwaiuCH7Mn72tgx1HFVpcLcP690vR5_EUxUfx4zESSAObJ_nBjCQpPOim-Bc7_-x0ZKKvri0AEfXgVO3doher9EcL59XJpH_QxSwiW-a5Jui3invgm8SuM2rN8A. 99c2c48a09f694064a5b73317a5a7111&urlHash=Qc5E&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Insurance"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanySize": "5001-10000", 
+    "foundedYear": 1902, 
+    "formattedCompanyType": "Nonprofit", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/2c8/3d6/01e90ff. png"
+    }, 
+    "localizedDescription": "Founded in 1902,  AAA is a not-for-profit federation of clubs serving 53 million members in the United States and Canada.  \r\rAAA is  North America's largest motoring and leisure travel organization and provides its members a full range of travel,  insurance,  financial and automotive-related services through a network of 1, 100 offices,  as well as its full-service Web site: AAA. com.  Since its founding,  AAA has been an advocate for the motorist and traveler,  continually lobbying for driver and passenger rights,  fair laws and safer vehicles and roads.  Through affiliations with motoring clubs around the world,  AAA provides benefits to members traveling in 130 countries on six continents.  Its national office is in Heathrow,  Florida. \r\r\rSocial Media Disclaimer: http://newsroom. aaa. com/wp-content/uploads/2011/06/Social-Media-Disclaimer-November-2014. pdf", 
+    "company": {
+      "specialities": [
+        "Transportation", 
+        "Automotive", 
+        "Travel", 
+        "Financial Services", 
+        "Insurance", 
+        "Safety", 
+        "Advocacy", 
+        "Discounts"
+      ], 
+      "universalName": "aaa", 
+      "companyId": 2987, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAP-AAAAJGJjYjY4MjlkLWMwNjUtNGJkYy05NGNmLTA5YzUzNDg2Zjg1Mw. png"
+      }
+    }, 
+    "canonicalName": "AAA", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Insurance"
+    ]
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

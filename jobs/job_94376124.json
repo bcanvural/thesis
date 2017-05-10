@@ -1,0 +1,173 @@
+{
+  "jobPosting": {
+    "companyJobCode": "390e2b27b94df081b034143c4e18be6e", 
+    "expirationDate": 1450959701000, 
+    "title": "Vacature Manager Big Data Analytics", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1651, 
+          "type": "LI", 
+          "endIdx": 1689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1582, 
+          "type": "LI", 
+          "endIdx": 1650, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1296, 
+          "type": "LI", 
+          "endIdx": 1581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1233, 
+          "type": "LI", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1204, 
+          "type": "LI", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1126, 
+          "type": "LI", 
+          "endIdx": 1203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1061, 
+          "type": "LI", 
+          "endIdx": 1125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 964, 
+          "type": "LI", 
+          "endIdx": 1060, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "LI", 
+          "endIdx": 963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "BR", 
+          "endIdx": 841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 761, 
+          "type": "BR", 
+          "endIdx": 761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 761, 
+          "type": "BR", 
+          "endIdx": 761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 42, 
+          "type": "BR", 
+          "endIdx": 42, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Your role as a Manager Big Data Analytics To be able to store and analyse Big Data of our clients and obtain the maximum value out of it,  you advise them on how to design and develop their future data architecture.  Depending on the customers demand this can be by creating a real time report and dashboard and/or combining different internal and external sources.  During these projects you will be both working on a technical solution and managing teams.  To give the best advice to the client,  you will act in multidisciplinary teams,  built-up out of the other expert service lines within Deloitte.  For example,  you will be working in projects that focus on Customer Analytics,  Finance,  Supply Chain and/or Workforce Analytics in various sectors and industries. Do you feel challenged by the job description? If so,  we would love to meet you!6 to 10 years of relevant experience in a Big Data / Analytics environment as an Architect,  Project Manager and/or Analyst University level with additional relevant training and experience in consultancy is an advantage Strong affinity with solving managerial problems in project form Demonstrated experience in maintaining and developing a customer relationship Projectmanager with ambition Responsible for sales and delivery during consultancy projects In-depth knowledge and practical experience with one or more of the following relevant technologies (Hadoop,  Spark,  Map Reduce).  You are also familiar with concepts such as Data Warehousing,  Data Lakes and the use of database platforms and tools like Oracle,  Informatica,  MS SQL Server Relevant certifications (Spark,  Hadoop / Cloudera or CBIP) is a plus Excellent command of Dutch and English Your career and employment conditions"
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "Deloitte Nederland", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Door de opkomst en exponentiële groei van nieuwe technologieën verandert de wereld de aankomende jaren radicaal.  Geen bedrijf of organisatie kan om de gevolgen van de verregaande digitalisering en informatisering heen.  Deloitte kent de uitdagingen in uw branche en vertaalt marktproblemen van de toekomst naar creatieve en innovatieve oplossingen.  Deloitte is een professionele dienstverlener met wereldwijd 200. 000 medewerkers en kantoren in meer dan 150 landen.  Met ruim 4. 500 medewerkers en 18 kantoren verspreid over heel Nederland is Deloitte een van de grootste aanbieders van professionele dienstverlening op het gebied van accountancy,  belastingadvies,  consultancy,  risk management en financiële advisering.  De professionals werken in multidisciplinaire teams en hebben daarom een zeer brede visie op de vraagstukken van onze klanten.  Deloitte is de betrouwbare en innovatieve partner die u nu inzicht geeft in de kansen van uw toekomstige business.  Wilt u meer informatie of in contact komen met de experts om van gedachten te wisselen? Kijk op www. deloitte. nl. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1445667019000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:833228", 
+    "id": 94376124, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Amsterdam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94376124?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. werkenbijdeloitte. nl%2Fvacature%2Fmanager-big-data-analytics-236950. html&urlHash=5l1f&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "hasPaidLcp": true, 
+    "localizedDescription": "Door de opkomst en exponentiële groei van nieuwe technologieën verandert de wereld de aankomende jaren radicaal.  Geen bedrijf of organisatie kan om de gevolgen van de verregaande digitalisering en informatisering heen.  Deloitte kent de uitdagingen in uw branche en vertaalt marktproblemen van de toekomst naar creatieve en innovatieve oplossingen.  \r\rDeloitte is een professionele dienstverlener met wereldwijd 200. 000 medewerkers en kantoren in meer dan 150 landen.  Met ruim 4. 500 medewerkers en 18 kantoren verspreid over heel Nederland is Deloitte een van de grootste aanbieders van professionele dienstverlening op het gebied van accountancy,  belastingadvies,  consultancy,  risk management en financiële advisering.  De professionals werken in multidisciplinaire teams en hebben daarom een zeer brede visie op de vraagstukken van onze klanten.  \r\rDeloitte is de betrouwbare en innovatieve partner die u nu inzicht geeft in de kansen van uw toekomstige business.  Wilt u meer informatie of in contact komen met de experts om van gedachten te wisselen? Kijk op www. deloitte. nl. ", 
+    "formattedIndustries": [
+      "Financial Services"
+    ], 
+    "formattedCompanyType": "Partnership", 
+    "careersImage": "urn:li:media:/p/1/005/08f/011/3f2dfb7. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIlAAAAJDczNTkwODU1LTFkYzItNDg2Ni05MDdlLWMzNTMyNWFlZjk2ZQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/1/005/08f/011/3f2dfb7. png", 
+    "company": {
+      "specialities": [
+        "Accountancy", 
+        "Consulting", 
+        "Belastingadvies", 
+        "Financial Advisory Services", 
+        "Innovatie", 
+        "Duurzaamheid", 
+        "Internationaal Zakendoen", 
+        "Mergers & Acquisitions", 
+        "Online Diensten", 
+        "Risicomanagement"
+      ], 
+      "universalName": "deloitte-nederland", 
+      "companyId": 833228, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/0b0/1d9/142d84a. png"
+      }
+    }, 
+    "canonicalName": "Deloitte Nederland"
+  }, 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 42 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "42d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedListDate": "October 24,  2015", 
+  "formattedExpireDate": "December 24,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

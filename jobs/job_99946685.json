@@ -1,0 +1,226 @@
+{
+  "jobPosting": {
+    "companyJobCode": "office_angels-592941", 
+    "expirationDate": 1451806037000, 
+    "title": "Data Analyst / Resourcer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1404, 
+          "type": "BR", 
+          "endIdx": 1404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1404, 
+          "type": "BR", 
+          "endIdx": 1404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1280, 
+          "type": "BR", 
+          "endIdx": 1280, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1280, 
+          "type": "BR", 
+          "endIdx": 1280, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "BR", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "BR", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 885, 
+          "type": "BR", 
+          "endIdx": 885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 885, 
+          "type": "BR", 
+          "endIdx": 885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 820, 
+          "type": "BR", 
+          "endIdx": 820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 820, 
+          "type": "BR", 
+          "endIdx": 820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 725, 
+          "type": "BR", 
+          "endIdx": 725, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 689, 
+          "type": "BR", 
+          "endIdx": 689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 689, 
+          "type": "BR", 
+          "endIdx": 689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 520, 
+          "type": "BR", 
+          "endIdx": 520, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 520, 
+          "type": "BR", 
+          "endIdx": 520, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 466, 
+          "type": "BR", 
+          "endIdx": 466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "BR", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 374, 
+          "type": "BR", 
+          "endIdx": 374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 308, 
+          "type": "BR", 
+          "endIdx": 308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 308, 
+          "type": "BR", 
+          "endIdx": 308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 266, 
+          "type": "BR", 
+          "endIdx": 266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 266, 
+          "type": "BR", 
+          "endIdx": 266, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "My Client,  a well established company within the local are,  is looking for assistance within their expanding sales team.  The role will involve manipulation of their lead/ client database to ensure all existing data is correct and update with new prospective clients. Duties will include but not be limited to; Ensuring all existing contact information is present and correct Contacting companies for updated contacts / information Using excel to identify patterns  Researching companies and finding potential contactsWorking closely with the sales team,  the ideal candidate must be confident on the phone,  have excel skills to formula level and have a fast an accurate data entry speed. Hours: Monday - Friday 09:00 - 17:00Benefits: Modern working environment,  on site parking,  local bus route and friendly atmosphere. This is a temporary position with an immediate start requirement. As a temp,  you're entitled to 28 days paid annual leave and you can be safe in the knowledge that you'll be looked after because we've been awarded a place in Britain's 100 Best Workplaces!Office Angels Preston cover the following locations: Blackpool North,  Blackpool South,  Fleetwood,  The Fylde Coast,  Blackburn,  Burnley,  Longridge,  Chorley,  Leyland,  Bamber Bridge,  Walton Summit and Preston.   Office Angels are an equal opportunities employer and are acting as an employment agency for this temporary vacancyOffice Angels is acting as an Employment Business in relation to this vacancy.  The Adecco Group UK &amp; Ireland is an Equal Opportunities Employer. "
+    }, 
+    "postalCode": "PR25", 
+    "jobState": "LISTED", 
+    "companyName": "Office Angels", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "For more than 25 years now,  we’ve been helping you to find the right path to a happy and successful future whether you’re a jobseeker or an employer.  Our friendly and supportive recruitment consultants work tirelessly to meet your needs by building meaningful,  long-term relationships that don’t just end with bums on seats. And we take as much pride in recruiting our own people as we do our employers' — which is why you’ll only ever find knowledgeable,  helpful and approachable consultants at Office Angels. We listen,  we understand,  and we treat you as an individual.  That’s our job.  That’s Office Angels. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "HR", 
+      "IT"
+    ], 
+    "listDate": 1447971127000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:18213", 
+    "id": 99946685, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Leyland,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 1986, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMiAAAAJGU1ZjRkZDcyLWRkNGMtNDMzNC04YjdiLWJmNzg5NWFkMDQxZg. png"
+    }, 
+    "localizedDescription": "For more than 25 years now,  we’ve been helping you to find the right path to a happy and successful future whether you’re a jobseeker or an employer.  Our friendly and supportive recruitment consultants work tirelessly to meet your needs by building meaningful,  long-term relationships that don’t just end with bums on seats. \r\rAnd we take as much pride in recruiting our own people as we do our employers' — which is why you’ll only ever find knowledgeable,  helpful and approachable consultants at Office Angels. \r\rWe listen,  we understand,  and we treat you as an individual.  That’s our job.  That’s Office Angels. ", 
+    "company": {
+      "specialities": [
+        "Recruitment agency", 
+        "Job hunting and career advice", 
+        "Employment law", 
+        "Social media engagement", 
+        "Comprehensive training packages", 
+        "Psychometric testing", 
+        "Employment market specialists", 
+        "Candidate assessment and evaluation", 
+        "Employer branding and engagement", 
+        "Office jobs"
+      ], 
+      "universalName": "office-angels", 
+      "companyId": 18213, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAU4AAAAJGM3YTM4ZjkxLTQ2N2MtNGFjMi04MzFhLWI2ZWRjZWY3YjllYQ. png"
+      }
+    }, 
+    "canonicalName": "Office Angels", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Human Resources", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Associate", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99946685?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. office-angels. com%2Fen-GB%2FPages%2Fjob-details. aspx%3Fjob-id%3D592941&urlHash=uHgE&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

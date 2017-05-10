@@ -1,0 +1,541 @@
+{
+  "jobPosting": {
+    "company": "urn:li:company:1053", 
+    "showPosterInfo": false, 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2188, 
+          "type": "BR", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2188, 
+          "type": "BR", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2120, 
+          "type": "LI", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2090, 
+          "type": "LI", 
+          "endIdx": 2119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "LI", 
+          "endIdx": 2089, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1949, 
+          "type": "LI", 
+          "endIdx": 2016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1877, 
+          "type": "LI", 
+          "endIdx": 1948, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1817, 
+          "type": "LI", 
+          "endIdx": 1876, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1726, 
+          "type": "LI", 
+          "endIdx": 1816, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1657, 
+          "type": "LI", 
+          "endIdx": 1725, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "LI", 
+          "endIdx": 1656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "BG", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "BR", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1546, 
+          "type": "B", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1546, 
+          "type": "BR", 
+          "endIdx": 1546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1546, 
+          "type": "BR", 
+          "endIdx": 1546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1543, 
+          "type": "BR", 
+          "endIdx": 1543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1543, 
+          "type": "BR", 
+          "endIdx": 1543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "B", 
+          "endIdx": 1543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "BR", 
+          "endIdx": 1526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "BR", 
+          "endIdx": 1526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "BR", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "BR", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1135, 
+          "type": "B", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1135, 
+          "type": "BR", 
+          "endIdx": 1135, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1135, 
+          "type": "BR", 
+          "endIdx": 1135, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1128, 
+          "type": "BR", 
+          "endIdx": 1128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1128, 
+          "type": "BR", 
+          "endIdx": 1128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1116, 
+          "type": "B", 
+          "endIdx": 1128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1116, 
+          "type": "BR", 
+          "endIdx": 1116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1116, 
+          "type": "BR", 
+          "endIdx": 1116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1104, 
+          "type": "BR", 
+          "endIdx": 1104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1104, 
+          "type": "BR", 
+          "endIdx": 1104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1092, 
+          "type": "B", 
+          "endIdx": 1104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1092, 
+          "type": "BR", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1092, 
+          "type": "BR", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1085, 
+          "type": "BR", 
+          "endIdx": 1085, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1085, 
+          "type": "BR", 
+          "endIdx": 1085, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1067, 
+          "type": "B", 
+          "endIdx": 1085, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1067, 
+          "type": "BR", 
+          "endIdx": 1067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1067, 
+          "type": "BR", 
+          "endIdx": 1067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1056, 
+          "type": "BR", 
+          "endIdx": 1056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1056, 
+          "type": "BR", 
+          "endIdx": 1056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1048, 
+          "type": "B", 
+          "endIdx": 1056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1048, 
+          "type": "BR", 
+          "endIdx": 1048, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1048, 
+          "type": "BR", 
+          "endIdx": 1048, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1039, 
+          "type": "BR", 
+          "endIdx": 1039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1039, 
+          "type": "BR", 
+          "endIdx": 1039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "B", 
+          "endIdx": 1039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1001, 
+          "type": "B", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1001, 
+          "type": "BR", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1001, 
+          "type": "BR", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 990, 
+          "type": "BR", 
+          "endIdx": 990, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 990, 
+          "type": "BR", 
+          "endIdx": 990, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 978, 
+          "type": "B", 
+          "endIdx": 990, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 978, 
+          "type": "BR", 
+          "endIdx": 978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 978, 
+          "type": "BR", 
+          "endIdx": 978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 961, 
+          "type": "BR", 
+          "endIdx": 961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 961, 
+          "type": "BR", 
+          "endIdx": 961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 952, 
+          "type": "BR", 
+          "endIdx": 952, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 952, 
+          "type": "BR", 
+          "endIdx": 952, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "BR", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "BR", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 433, 
+          "type": "BR", 
+          "endIdx": 433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 433, 
+          "type": "BR", 
+          "endIdx": 433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 335, 
+          "type": "BR", 
+          "endIdx": 335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 153, 
+          "type": "BR", 
+          "endIdx": 153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 153, 
+          "type": "BR", 
+          "endIdx": 153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 104, 
+          "type": "B", 
+          "endIdx": 118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " A cutting edge group who leads Intel's global machine learning solutions is hiring talented Data Scientist in the field of Machine Learning.  Our group  is a competency center for machine learning &amp; big data at Intel,  we deliver internal and external solutions/products that can create a competitive advantage for Intel. As a part of our diverse and dynamic group,  you will be exposed to very exciting areas of practiceAs a Data Scientist you will usually work in a project team as a key player in finding appropriate algorithmic solution to a given problem while using your machine learning knowledge and experience.  You'll will be part of the project's team throughout the project's life cycle - exploration,  planning,  analysis,  design,  development,  testing and implementation. Work includes development of advanced algorithms using Machine Learning and Data Mining techniques,  system design and coding in variety of tools and languages. #Big_Data#Machine_LearningJob CategoryEngineeringPrimary LocationIsrael--Full/Part TimeFull TimeJob TypeExperiencedRegular/Temporary RegularPosting DateOct 20,  2015Apply BeforeOngoingBusiness GroupIntel's Information Technology Group (IT) designs,  deploys and supports the information technology architecture and hardware/software applications for Intel.  This includes the LAN,  WAN,  telephony,  data centers,  client PCs,  backup and restore,  and enterprise applications.  IT is also responsible for e-Commerce development,  data hosting and delivery of Web content and services. Posting StatementN/AQualificationsMSc/PhD in Computer science/ Software engineering/Information technology/Industrial engineering.  Academic experience with Machine Learning algorithms during studies.  Practical experience with Machine Learning algorithms of at least 2 years in the industry.  Satisfying knowledge in different machine learning domains  Strong analytical skills and knowledge in statistics and data analysis.  Passion for solving intricate business problems using data science.  Proven experience in Java C++ or other OO language will be an advantage.  Proven experience in R/Python Experience with imbalance data and sampling algorithms- an advantage"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Intel", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Creating and extending computing technology to connect and enrich the lives of every person on Earth--that's our vision,  is it yours? We are changing the world at Intel.  Through our technical innovation,  our endless efforts in education,  environmental sustainability,  healthcare,  and much,  much more.  The range of computing products based on Intel® architecture goes beyond PCs and servers and extends to phones,  tablets,  consumer electronics devices,  and more.  We are the world's largest semiconductor chip maker,  based on revenue.  Platforms are designed and configured to work together to provide an optimized user computing solution--one that is seamless,  connected and puts the user at the center.  Step inside our world and you’ll find one brilliant mind after another working together in a spirit of collaboration that is simply contagious.  And through this shared dedication—this culture of innovation and exploration—we do more than deliver the latest technologies.  We deliver the future.  See for yourself.  Look Inside. "
+    }, 
+    "functions": [
+      "RSCH"
+    ], 
+    "id": 93668113, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "veteranCommitted": false, 
+    "expirationDate": 1451475909000, 
+    "listDate": 1445385155000, 
+    "companyJobCode": "intel-1183923", 
+    "listingType": "BASIC", 
+    "sponsored": false, 
+    "title": "Senior Data Scientist", 
+    "countryCode": "il"
+  }, 
+  "formattedLocation": "Israel", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93668113?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fintel. taleo. net%2Fcareersection%2F10050%2Fjobdetail. ftl%3Fjob%3D778011%26lang%3Den&urlHash=Y55I&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Semiconductors"
+  ], 
+  "formattedPostedDaysAgo": "Posted 46 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "46d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Semiconductors"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Intel Corporation", 
+    "company": {
+      "specialities": [
+        "semiconductor design and manufacturing"
+      ], 
+      "universalName": "intel-corporation", 
+      "companyId": 1053, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAWWAAAAJGNlYzkwZDBmLTgzOGMtNGNlOS04NDkyLTU1OTlkZGU1NGNjMQ. png"
+      }
+    }, 
+    "foundedYear": 1968, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAATiAAAAJDRlOWRkNWY1LTk4ODYtNGE0ZS1iZmFkLTU4Mzg0YmEwNmJiYw. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAANNAAAAJGQ5M2Q2NTBjLTQyNzMtNDQzYi04ZDg1LWIxOTExYzI2MzI0YQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAATiAAAAJDRlOWRkNWY1LTk4ODYtNGE0ZS1iZmFkLTU4Mzg0YmEwNmJiYw. png", 
+    "localizedDescription": "Creating and extending computing technology to connect and enrich the lives of every person on Earth--that's our vision,  is it yours? We are changing the world at Intel.  Through our technical innovation,  our endless efforts in education,  environmental sustainability,  healthcare,  and much,  much more.  \r\rThe range of computing products based on Intel® architecture goes beyond PCs and servers and extends to phones,  tablets,  consumer electronics devices,  and more.  We are the world's largest semiconductor chip maker,  based on revenue.  Platforms are designed and configured to work together to provide an optimized user computing solution--one that is seamless,  connected and puts the user at the center.  \r\rStep inside our world and you’ll find one brilliant mind after another working together in a spirit of collaboration that is simply contagious.  And through this shared dedication—this culture of innovation and exploration—we do more than deliver the latest technologies.  We deliver the future.  See for yourself.  Look Inside. "
+  }, 
+  "formattedListDate": "October 20,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

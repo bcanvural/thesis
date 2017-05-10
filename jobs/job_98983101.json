@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "TalentSpa", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "MB-5-11DS", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 98983101, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. talentspa. co. uk", 
+    "logo": "urn:li:media:/p/4/005/06b/22d/1dc722c. png", 
+    "universalName": "talentspa", 
+    "companyId": 3125642
+  }, 
+  "description": "    My client are a leading UK Big Data Company with a global reputation at    the forefront of the data science community.  They have a diverse global    client base that includes major clients within the automotive,     aeronautical and pharmaceutical industries.     They are seeking a Data Scientist with good commercial experience and    an accomplished record of research at Masters and/or PhD level to join    their friendly and highly talented team of data scientists and    programmers to work on cutting edge and innovative projects for their    global client base.  You will work from their beautiful,  hi-tech offices    in the City of London.     Key Responsibilities       Support Data Science Lead in identifying the business hypotheses        and metrics       Map data sources to hypotheses,  variables,  and metrics       Close collaboration with the Data Science team to create variables        and metrics       Implementation of data science tasks and activities in line with        the project plan       Conducting exploratory data analysis,  visualisations,  and initial        statistical analyses       Creation of explanatory and predictive models       Translation of commercial and business objectives into analytical        targets,  and analytical outputs into business impacts     Person Profile    An exceptional data scientist with a PhD (or comparable experience) and    a creative outlook.  Needs to be able to work in a collaborative    environment and to balance the desire to experiment with the ability to    deliver in a project environment.  A strong team player with the ability    to interact internally as well as with relevant members of client    organisations.     Required Capabilities       Advanced degree in a quantitative field       Strong programming skills       Background in Matlab,  R,  Python,  and ideally Scala/Spark       Knowledge of SQL databases       Knowledge and interest in NoSQL and 'Big Data' technologies       Experience of working in a commercial and / or project environment        is desirable       Adaptable and flexible attitude a must     If you wish to work for one of the most successful and innovative Big    Data companies in London with a truly global client list,  and also be    involved with market-leading Data Science projects,  then please apply    with your CV. ", 
+  "companyDescription": "      TalentSpa    TalentSpa is the inbound recruitment platform where the right    candidates find you.     Our mission is simple: To change the way employers recruit    Have you like many others become tired of recruitment agency fees? Have    you found that In-House recruitment is a time consuming affair? Why not    try TalentSpa?    TalentSpa Provides an Inbound Recruitment Platform for Employers AND we    have successfully reduced the cost of recruitment for more than 2500 UK    Employers.     As the UK’s first inbound recruitment platform,  TalentSpa is helping to    prise the power away from the agencies and hand it back to the in-house    recruitment teams by increasing candidate engagement,  reducing time to    hire and driving down recruitment costs.  Through innovative inbound    recruitment techniques,  TalentSpa consistently outperforms the    traditional recruitment model,  bringing the best candidates directly to    the hiring manager for a fraction of the cost.     TalentSpa can help you reach the ideal candidates you never thought    existed. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

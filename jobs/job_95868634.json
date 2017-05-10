@@ -1,0 +1,625 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-a0k674FXur5BS5eMg-44q7", 
+    "expirationDate": 1451950070000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3217, 
+          "type": "BR", 
+          "endIdx": 3217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3217, 
+          "type": "BR", 
+          "endIdx": 3217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3216, 
+          "type": "BR", 
+          "endIdx": 3216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3216, 
+          "type": "BR", 
+          "endIdx": 3216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3215, 
+          "type": "BR", 
+          "endIdx": 3215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3215, 
+          "type": "BR", 
+          "endIdx": 3215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "BR", 
+          "endIdx": 3023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "BR", 
+          "endIdx": 3023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2914, 
+          "type": "BR", 
+          "endIdx": 2914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2914, 
+          "type": "BR", 
+          "endIdx": 2914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2682, 
+          "type": "BR", 
+          "endIdx": 2682, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2347, 
+          "type": "BR", 
+          "endIdx": 2347, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2347, 
+          "type": "BR", 
+          "endIdx": 2347, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1981, 
+          "type": "BR", 
+          "endIdx": 1981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1980, 
+          "type": "BR", 
+          "endIdx": 1980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1913, 
+          "type": "LI", 
+          "endIdx": 1979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1856, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1694, 
+          "type": "LI", 
+          "endIdx": 1855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1617, 
+          "type": "LI", 
+          "endIdx": 1693, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1499, 
+          "type": "LI", 
+          "endIdx": 1616, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1346, 
+          "type": "LI", 
+          "endIdx": 1498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1234, 
+          "type": "LI", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "LI", 
+          "endIdx": 1233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BG", 
+          "endIdx": 1980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BR", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "U", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "B", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "BR", 
+          "endIdx": 1178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "BR", 
+          "endIdx": 1178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1103, 
+          "type": "B", 
+          "endIdx": 1104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1103, 
+          "type": "BR", 
+          "endIdx": 1103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1103, 
+          "type": "BR", 
+          "endIdx": 1103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1028, 
+          "type": "B", 
+          "endIdx": 1030, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1028, 
+          "type": "BR", 
+          "endIdx": 1028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "B", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "LI", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BG", 
+          "endIdx": 1028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 986, 
+          "type": "BR", 
+          "endIdx": 986, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 986, 
+          "type": "BR", 
+          "endIdx": 986, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 929, 
+          "type": "B", 
+          "endIdx": 931, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 929, 
+          "type": "BR", 
+          "endIdx": 929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "B", 
+          "endIdx": 928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "LI", 
+          "endIdx": 928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "BG", 
+          "endIdx": 929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "BR", 
+          "endIdx": 910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 909, 
+          "type": "BR", 
+          "endIdx": 909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 894, 
+          "type": "B", 
+          "endIdx": 908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 894, 
+          "type": "LI", 
+          "endIdx": 908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 894, 
+          "type": "BG", 
+          "endIdx": 909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 894, 
+          "type": "BR", 
+          "endIdx": 894, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 893, 
+          "type": "BR", 
+          "endIdx": 893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 893, 
+          "type": "BR", 
+          "endIdx": 893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 724, 
+          "type": "B", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 724, 
+          "type": "BR", 
+          "endIdx": 724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "B", 
+          "endIdx": 723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "LI", 
+          "endIdx": 723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "BG", 
+          "endIdx": 724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "BR", 
+          "endIdx": 714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 713, 
+          "type": "BR", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 713, 
+          "type": "BR", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "B", 
+          "endIdx": 642, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "B", 
+          "endIdx": 565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 458, 
+          "type": "B", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 458, 
+          "type": "BR", 
+          "endIdx": 458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "B", 
+          "endIdx": 457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "LI", 
+          "endIdx": 457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "BG", 
+          "endIdx": 458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "BR", 
+          "endIdx": 437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 436, 
+          "type": "BR", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 436, 
+          "type": "BR", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 420, 
+          "type": "U", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 420, 
+          "type": "B", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 420, 
+          "type": "BR", 
+          "endIdx": 420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 420, 
+          "type": "BR", 
+          "endIdx": 420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 419, 
+          "type": "BR", 
+          "endIdx": 419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 419, 
+          "type": "BR", 
+          "endIdx": 419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 150, 
+          "type": "BR", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 150, 
+          "type": "BR", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 149, 
+          "type": "BR", 
+          "endIdx": 149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 149, 
+          "type": "BR", 
+          "endIdx": 149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " We are looking for a passionate Data Analyst to turn data into information,  information into insight and insight into business decisions.  Reporting into the Product and Operations team,  you will conduct full lifecycle activities to include requirements analysis and design,  develop analysis and reporting capabilities,  and continuously monitor performance and quality control plans to identify improvements.  Responsibilities Product Optimisation - Identify,  analyse,  and interpret trends or patterns in online user behaviour to enhance site performance- Assist the commercial team in identifying opportunities in client data sets- Work with the product team to define data solutions on client projects Reporting - Responsible for devising and producing regular and ad-hoc reports for all aspects of data management,  data performance and data quality checking across the UK business Reconciliation  Process Monitoring - Locate and define new process improvement opportunities Ad-hoc project work and business support - Work closely with management to prioritize business and information needs- Work with the tech team to improve and implement data collection systems RequirementsProven working experience as a data analyst Technical expertise regarding data models,  database design development,  data mining and segmentation techniques Strong knowledge of and experience with reporting packages (Business Objects etc),  databases (SQL etc),  programming (XML,  Javascript,  or ETL frameworks) Knowledge of statistics and experience using statistical packages for analysing large datasets (Excel,  SPSS,  SAS etc) Strong MS Excel; vlookup,  pivot tables,  charts and other reporting functions Strong analytical skills with the ability to collect,  organise,  analyse,  and disseminate significant amounts of information with attention to detail and accuracy Adept at queries,  report writing and presenting findings Excellent spoken and written English as well as excellent numeracy  About Us Runpath is a fintech company.  We build really great tools that are designed to help people manage their money better.  This technology is distributed by our clients around the web through ever evolving propositions.  You’ve probably used our technology and didn’t even know it – as we work with some pretty big brands in media,  retail and financial services.  We’re a close-knit team who are good at solving problems,  designing interfaces and structuring code.  We're dedicated to smooth processes and experiences to challenge our team and thrive.  We make our work environment frictionless,  removing unnecessary bureaucracy that stalls us from creating remarkable products together.   CompensationSalary dependent on experience.  Benefits include 30 days holiday plus bank holidays,  Life,  PHI and BUPA private health insurances,  bike scheme and travel loan plus many more.   All benefits are available from first day of employment. This position is based in Central London.  All candidates must be eligible to work in the UK to be considered. No terminology in this advert is intended to discriminate on the grounds of race,  disability,  sex or age,  and we confirm that we will gladly accept applications from any persons for this role.   "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Runpath", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Runpath is a fintech company.  We build really great tools that are designed to help people manage their money better.  This technology is distributed by our clients around the web through ever evolving propositions.  You’ve  probably used our technology and didn’t even know it – as we work with some pretty big brands in media,  retail and financial services.  We’re a close-knit team who are good at solving problems,  designing interfaces and structuring code.  We're dedicated to smooth processes and experiences to challenge our team and thrive.  We make our work environment frictionless,  removing unnecessary bureaucracy that stalls us from creating remarkable products together.   Our technology stack of choice is AngularJS backed by client solutions and platform services all hosted on Azure built using the latest Microsoft . NET technologies: (MVC/Web API/Entity Framework/SQL Azure).  We are a . NET shop,  and like to utilise the latest technologies from ASP. Net and the community.  We are based on Old Street in Central London. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1446306125000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:1883993", 
+    "id": 95868634, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95868634?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fcrateenterprises%2Fdata-analyst%2Fa0k674FXur5BS5eMg-44q7%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=7Rxr&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "localizedDescription": "Runpath is a fintech company.  We build really great tools that are designed to help people manage their money better.  This technology is distributed by our clients around the web through ever evolving propositions.  You’ve  probably used our technology and didn’t even know it – as we work with some pretty big brands in media,  retail and financial services.  \r\rWe’re a close-knit team who are good at solving problems,  designing interfaces and structuring code.  We're dedicated to smooth processes and experiences to challenge our team and thrive.  We make our work environment frictionless,  removing unnecessary bureaucracy that stalls us from creating remarkable products together.   \r\rOur technology stack of choice is AngularJS backed by client solutions and platform services all hosted on Azure built using the latest Microsoft . NET technologies: (MVC/Web API/Entity Framework/SQL Azure).  We are a . NET shop,  and like to utilise the latest technologies from ASP. Net and the community.  \rWe are based on Old Street in Central London. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMCAAAAJDZkMjc1MDQwLTNiNWMtNDIyNS1hNTk5LTlkN2U5MzZkMjQyNg. png"
+    }, 
+    "company": {
+      "universalName": "runpath-digital", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJtAAAAJGEyOGY5M2UxLTdhMjEtNDE3OS05MjIxLTVjOTc2ZDYyYWQ2MQ. png"
+      }, 
+      "companyId": 1883993
+    }, 
+    "canonicalName": "Runpath", 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanyType": "Public Company"
+  }, 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 35 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "35d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedListDate": "October 31,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

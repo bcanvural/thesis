@@ -1,0 +1,321 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94360042?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3817895&urlHash=yt8J&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "hasMySavedJobPosting": false, 
+  "formattedEmploymentStatus": "Full-time", 
+  "descriptionLanguage": "en", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "localizedDescription": "An IT and Capital Markets recruitment consultancy centred in London,  UK. \r\rAnson McCade Ltd is an established and well-respected IT & Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. \r\rAnson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. \r\rAnson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT & Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. ", 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "foundedYear": 2000, 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR2AAAAJDBmODYwMzBkLWZmNDAtNDk2Mi1hNDFjLWIxMzA4MmY3ODk2Yg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Information Technology", 
+        "Banking", 
+        "Capital markets", 
+        "Risk", 
+        "Consulting"
+      ], 
+      "universalName": "anson-mccade", 
+      "companyId": 31392, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/071/13d/3b47d9b. png"
+      }
+    }, 
+    "canonicalName": "Anson McCade", 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50"
+  }, 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "London,  GB", 
+  "jobPosting": {
+    "expirationDate": 1449096832000, 
+    "veteranCommitted": false, 
+    "id": 94360042, 
+    "title": "Data Scientist (Matlab,  Java,  R,  Python,  Security)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1317, 
+          "type": "BR", 
+          "endIdx": 1317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1285, 
+          "type": "BR", 
+          "endIdx": 1285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "BR", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1240, 
+          "type": "BR", 
+          "endIdx": 1240, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1203, 
+          "type": "BR", 
+          "endIdx": 1203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1184, 
+          "type": "BR", 
+          "endIdx": 1184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1160, 
+          "type": "BR", 
+          "endIdx": 1160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1145, 
+          "type": "BR", 
+          "endIdx": 1145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1117, 
+          "type": "BR", 
+          "endIdx": 1117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1067, 
+          "type": "BR", 
+          "endIdx": 1067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1067, 
+          "type": "BR", 
+          "endIdx": 1067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1023, 
+          "type": "BR", 
+          "endIdx": 1023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1004, 
+          "type": "BR", 
+          "endIdx": 1004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1004, 
+          "type": "BR", 
+          "endIdx": 1004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 995, 
+          "type": "BR", 
+          "endIdx": 995, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 995, 
+          "type": "BR", 
+          "endIdx": 995, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 982, 
+          "type": "BR", 
+          "endIdx": 982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 973, 
+          "type": "BR", 
+          "endIdx": 973, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 953, 
+          "type": "BR", 
+          "endIdx": 953, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 953, 
+          "type": "BR", 
+          "endIdx": 953, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 937, 
+          "type": "BR", 
+          "endIdx": 937, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 937, 
+          "type": "BR", 
+          "endIdx": 937, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 876, 
+          "type": "BR", 
+          "endIdx": 876, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 857, 
+          "type": "BR", 
+          "endIdx": 857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 823, 
+          "type": "BR", 
+          "endIdx": 823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 762, 
+          "type": "BR", 
+          "endIdx": 762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "BR", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "BR", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "BR", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "BR", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 594, 
+          "type": "BR", 
+          "endIdx": 594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 548, 
+          "type": "BR", 
+          "endIdx": 548, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 535, 
+          "type": "BR", 
+          "endIdx": 535, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BR", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BR", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "BR", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 392, 
+          "type": "BR", 
+          "endIdx": 392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 50, 
+          "type": "BR", 
+          "endIdx": 50, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Data Scientist (Matlab,  Java,  R,  Python,  Security)For those with strong academics and a genuine passion for Data Science and Security.  This Elite Boutique client based in the heart of London,  and they are looking for the best and most passionate candidates.  This is an opportunity for those with strong academics to fast-track their career in a relaxed,  informal and cutting edge environment. Data Scientist (Matlab,  Java,  R,  Python,  Security)Professional ExperienceExperience with some of the following: R,  Python,  Octave,  Matlab,  JavaSQL knowledgeStrong quantitative and problem solving skillsAt least 3 years of relevant industry experience as a Business Analyst / Data ScientistDesirable Experience with the Hadoop ecosystem and NoSQL (Cassandra,  HBase,  etc. )Experience with advanced searching and analytics using SplunkExperience with Javascript and XMLSecurity backgroundMSc in Science / Data Science / Statistics / Machine LearningCore Skill AreasInformation SecurityScriptingData analysisEducationTop Tier UniversityScience,  Maths or Statistical subject degreeData Scientist (Matlab,  Java,  R,  Python,  Security)Reference: AMCCN/GL520104CLType: PermanentLocation: Central LondonDuration: PermanentRate: £68, 000 – £98, 000 plus package Agency: Anson McCadeContact: Christian NelsonTelephone: +44 (0) 20 77 806 706Email: Christian. Nelson@AnsonMcCade. com"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "AMCCN/GL520104CL", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An IT and Capital Markets recruitment consultancy centred in London,  UK. Anson McCade Ltd is an established and well-respected IT &amp; Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. Anson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. Anson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT &amp; Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. "
+    }, 
+    "sponsored": false, 
+    "closeDate": 1447136851000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "Anson McCade", 
+    "functions": [
+      "RSCH", 
+      "OTHR", 
+      "ENG"
+    ], 
+    "listDate": 1445660694000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:31392"
+  }, 
+  "formattedPostedDaysAgo": "Posted 42 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other", 
+    "Engineering"
+  ], 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "42d", 
+  "formattedListDate": "October 24,  2015", 
+  "formattedExpireDate": "December 2,  2015", 
+  "formattedCloseDate": "November 10,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false
+}

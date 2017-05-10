@@ -1,0 +1,344 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-ooPY1fwW", 
+    "expirationDate": 1451793673000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1345, 
+          "type": "BR", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1345, 
+          "type": "BR", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1345, 
+          "type": "BR", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1345, 
+          "type": "BR", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1345, 
+          "type": "BR", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 922, 
+          "type": "B", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 922, 
+          "type": "BR", 
+          "endIdx": 922, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 922, 
+          "type": "BR", 
+          "endIdx": 922, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "BR", 
+          "endIdx": 891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "BR", 
+          "endIdx": 891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 865, 
+          "type": "BR", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 865, 
+          "type": "BR", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "B", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "BR", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "BR", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "BR", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "BR", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 806, 
+          "type": "BR", 
+          "endIdx": 806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 806, 
+          "type": "BR", 
+          "endIdx": 806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 756, 
+          "type": "BR", 
+          "endIdx": 756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 756, 
+          "type": "BR", 
+          "endIdx": 756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 707, 
+          "type": "BR", 
+          "endIdx": 707, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 707, 
+          "type": "BR", 
+          "endIdx": 707, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 612, 
+          "type": "BR", 
+          "endIdx": 612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 612, 
+          "type": "BR", 
+          "endIdx": 612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 571, 
+          "type": "BR", 
+          "endIdx": 571, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 571, 
+          "type": "BR", 
+          "endIdx": 571, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "B", 
+          "endIdx": 571, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "BR", 
+          "endIdx": 542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "BR", 
+          "endIdx": 542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "BR", 
+          "endIdx": 542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "BR", 
+          "endIdx": 542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 480, 
+          "type": "BR", 
+          "endIdx": 480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 480, 
+          "type": "BR", 
+          "endIdx": 480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "BR", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "BR", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " POSITION OVERVIEW: The WalkMe Labs Team is a small group of talented experts who explore technological horizons in order to expand WalkMe's R&amp;D abilities as well as grow the WalkMe business. Researchers in WalkMe Labs optimize core algorithms,  solve sophisticated problems and bring the innovation to the company.  The researchers are responsible for analyzing  large data sets to gain new insights and find potential product improvements and business opportunities. We're looking for top notch engineers to join this elite team. The Ideal Candidate Will HaveAt least 3 years' programming experience. University degree (Technion / TAU / HUJI / Ben-Gurion) or graduate of military programming unitExperienced with machine learning or data scienceFamiliar with C#/Java/Scala/Javascript/Python/RubyExperienced in designing big data architectures  AdvantagesMSc in Computer science   Familiar with node. js ecosystemAbout UsWalkMe™ provides a cloud-based service designed to help professionals – customer service managers,  user experience managers,  training professionals,  SaaS providers and sales managers – to guide and engage prospects,  customers,  employees and partners through any online experience.  We’ve designed a platform which helps businesses eliminate online confusion,  while at the same time raise efficiency and reduce costs. "
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "WalkMe™", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "WalkMe™ is the Enterprise-Class Online Guidance and Engagement platform. We’ve designed a platform which helps businesses to eliminate online confusion,  while at the same time raise efficiency and reduce costs. Think of it like a GPS,  but instead of giving driving directions,  WalkMe™ guides users every step of the way to successfully complete their online tasks.  Through a series of interactive tip balloons overlaid on the screen,  tasks are broken down into short,  step-by-step guided instructions.  These balloons help users act,  react and progress through their online experience.  WalkMe™ eliminates guesswork,  as well the frustration of following video tutorials or digging through tedious Q&amp;A pages.  WalkMe™ focuses on solving the needs that are specific to customers and strives to deliver technology that helps them be more effective and efficient.  For example,  we work with customer service managers to help increase self-service adoption and reduce incoming service requests,  thus freeing them to focus their efforts on more critical and difficult customer care concerns.  We also give SaaS providers an indispensable tool to easily highlight new and advanced features on their software,  without their customers complaining of the inability to understand how to operate them.  We provide real value to you and to your customers,  users and employees.  Customers use WalkMe™ to increase conversion rates,  reduce customer service costs,  increase self-service adoption,  accelerate training and improve customer experience. WalkMe™ has received wide industry recognition and acclaim.  Amongst them: “Cool Vendor” by Gartner,  Red Herring Top 100 Award,  “Top Apps That Will Change Your Business” by CIO Magazine,  and more. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447974755000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:2508846", 
+    "id": 99953403, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tel Aviv,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99953403?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3DqD3aVfwv%26j%3DooPY1fwW%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=sNhI&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAANZAAAAJGE3ZDQ5MDNmLWVhNGYtNDkyMC1hYjc0LTA0YjhiNDI5Yzc0NQ. png"
+    }, 
+    "localizedDescription": "WalkMe™ is the Enterprise-Class Online Guidance and Engagement platform. \r\rWe’ve designed a platform which helps businesses to eliminate online confusion,  while at the same time raise efficiency and reduce costs. \r\rThink of it like a GPS,  but instead of giving driving directions,  WalkMe™ guides users every step of the way to successfully complete their online tasks.  Through a series of interactive tip balloons overlaid on the screen,  tasks are broken down into short,  step-by-step guided instructions.  These balloons help users act,  react and progress through their online experience.  WalkMe™ eliminates guesswork,  as well the frustration of following video tutorials or digging through tedious Q&A pages.  \r\rWalkMe™ focuses on solving the needs that are specific to customers and strives to deliver technology that helps them be more effective and efficient.  For example,  we work with customer service managers to help increase self-service adoption and reduce incoming service requests,  thus freeing them to focus their efforts on more critical and difficult customer care concerns.  We also give SaaS providers an indispensable tool to easily highlight new and advanced features on their software,  without their customers complaining of the inability to understand how to operate them.  We provide real value to you and to your customers,  users and employees.  Customers use WalkMe™ to increase conversion rates,  reduce customer service costs,  increase self-service adoption,  accelerate training and improve customer experience. \r\rWalkMe™ has received wide industry recognition and acclaim.  Amongst them: “Cool Vendor” by Gartner,  Red Herring Top 100 Award,  “Top Apps That Will Change Your Business” by CIO Magazine,  and more. ", 
+    "company": {
+      "specialities": [
+        "SaaS Solutions", 
+        "User Experience", 
+        "Customer Support", 
+        "Online Training"
+      ], 
+      "universalName": "walkme", 
+      "companyId": 2508846, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAbhAAAAJDBhYTM3ZDJhLWM5MmMtNGM2Yy1iMWQ2LTk2YjQwNzYzZjQxYg. png"
+      }
+    }, 
+    "canonicalName": "WalkMe™", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

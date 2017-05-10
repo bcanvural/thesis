@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Gengo", 
+    "functions": [
+      "MGMT", 
+      "OTHR", 
+      "IT"
+    ], 
+    "companyJobCode": "gengo-DbdRhf", 
+    "title": "Operations Data Analyst Intern", 
+    "employmentStatus": "TEMPORARY", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101249730, 
+    "experienceLevel": "ASSOCIATE", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      108
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://gengo. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAPEAAAAJGZkZDY2M2ZmLTk0YWEtNGQyZC1hZjQ5LTQ4NzExZGNjZTM0ZQ. png", 
+    "universalName": "gengo", 
+    "companyId": 222172
+  }, 
+  "description": "    Get experience working for a growing startup in an exciting field!    Gengo is looking for an Operations Data Analyst Intern with an    analytical mind to assist our Translator Operations team to solve    complex problems and keep the daily operations of our business running    smoothly.     The ideal candidate for this job is a college student or recent college    graduate who is looking for internship experience in a fast-paced,     agile startup.   By the end of your first week,  you’ll be tracking key    performance indicators,  diving into the trove of data we collect on our    translations,  and presenting proposals and ideas to enhance our    service.     Applicants must currently be located in Tokyo,  Japan.     Responsibilities       Tracking of weekly and monthly metrics using SQL and spreadsheet        tools such as Excel and Google sheets       Analyzing and reporting on key performance indicators,  and updating        reports which keep the company moving       Scrutinize,  analyze,  and suggest improvements to existing        translator operations processes and procedures with scalability in        mind     Requirements       Bachelors degree or working towards a degree in mathematics,         statistics,  economics,  or related subject       Business level English       Strong quantitative and analytical skills       Experience with SQL and spreadsheet tools       Ability to handle multiple tasks in a fast-paced,  high pressure        environment       Experience communicating with people from culturally and        linguistically diverse backgrounds       Currently located in Tokyo,  Japan     Bonus Skills       Experience with statistical analysis tools such as R,  Stata,  or        Hadoop       Experience with translating       Japanese language skills       Interest in languages", 
+  "companyDescription": "      Gengo    Gengo is a global provider of people-powered translation at scale.  Via    direct order or API integration,  individuals and businesses worldwide    can dynamically order translations from a network of more than 15, 000    pre-tested translators working across 36 language pairs.     Gengo is a truly international company,  incorporated in the U. S.  and    headquartered in Tokyo.  Our team embodies this global spirit with    representatives from Japan,  U. S. A. ,  U. K. ,  Canada,  Australia,     Switzerland,  Kazakhstan,  Russia,  Italy,  Singapore and more.     Our customer base is equally diverse and ranges from individuals to    large enterprise clients like YouTube,  TripAdvisor,  Rakuten and    Vestiaire Collective.  Gengo is backed by an international group of    well-known companies including Intel Capital,  Atomico,  Iris Capital,     Infocomm and Recruit Holdings.     We're hiring in Tokyo and San Mateo,  CA! Visit http://careers. gengo. com", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

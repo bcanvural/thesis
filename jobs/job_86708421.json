@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/86708421", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Forter delivers real time,  completely automated fraud protection to online merchants.  With a simple yes/no response to each transaction,  Forter provides a seamless shopping experience for the customer,  while giving the merchant the ability to approve more orders than ever before.  Our technology combines advanced cyber intelligence,  identity analysis and behavioral data to create a multilayered fraud detection mechanism.  We're so confident in our system that we give a chargeback guarantee – meaning that should a chargeback occur,  we'd take the hit,  not the merchant.  That certainty leaves merchants free to focus on increasing their reach,  entering new markets and attracting more business,  secure in the knowledge that Forter is guarding against fraud.  Forter provides Decision as a Service,  allowing merchants to forget about fraud,  and focus on growth.  Forter is based in Tel Aviv,  Israel. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Forter", 
+  "canFollow": false, 
+  "companyId": "5071248", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Forter", 
+    "title": "Senior Data Scientist"
+  }, 
+  "description": "Forter is looking for an excellent Data Scientist to join our team!   Stuff you’ll be doing: Be at the unique junction of fraud-analysis,  data science and system flow Engineering to extract insights and deliver a component of logics,  central to what we do: Find best Models to capture the way fraudsters behave to improve real-time detection.  Find techniques for automated learning from our data,  which is meso-big and only sometimes tagged.  Measure and enable Info-gain-based introduction of new features into our system.  Define and develop the way we should synthesise large corpus of analytical knowledge insights into a scalable streamed flow Develop measures,  metrics and uses for our large graph of human and resources entities.  Experience you’ll need: Delivery oriented and capable: Algorithms,  processes,  specification to R&amp;D.  Fluent in data manipulation,  probability,  and statistical techniques and tools.  Can express oneself well with scripting / programming language(s).  Can work independently given abstract tasks,  understand and influence research for data.  Excellence in everything you do.  Would be very cool if you have: Experience with Big Data,  including parallel processing of NoSQL data stores.  High level of SQL and Python.    What it’s like to work at Forter: We're super-picky about who we hire,  so once you're on board,  you're working with an amazing team.  Sane working hours.  We love what we do,  and it shows.  Weird hobbies are our thing,  if you don’t have one – now’s the time :) We look for every opportunity to party,  and when we do – we party hard!"
+}

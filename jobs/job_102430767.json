@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "ENG"
+    ], 
+    "companyJobCode": "22566173", 
+    "title": "Java Developer Big Data OOD - Greenfield Projects", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102430767, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Java Developer / Software Engineer South West London to £50k Java    Developer / Software Engineer (Algorithms OOD Open Source Big Data    Java).  Highly innovative start-up software house behind software to    manage and fault diagnose networks within large corporate associations    is seeking a skilled Java Developer as it continues with vastly    ambitious expansion plans.  As a Java Developer you will drive forward    exciting Greenfield projects across the full development lifecycle,     maintaining and enhancing the full portfolio of company products.  You    will work with both front-end and back-end systems,  utilising numerous    platforms,  allowing you to find the most effective tool to provide    creative solutions for a multitude of challenging technological    problems.  This is an excellent opportunity for an experienced Java    Developer to join a rapidly growing organisation,  acting as a mentor    for more junior members of the team,  within an informal and highly    collaborative environment . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,393 @@
+{
+  "jobPosting": {
+    "companyJobCode": "creditsuisse-496510", 
+    "expirationDate": 1451271239000, 
+    "title": "IT Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "BR", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "BR", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2511, 
+          "type": "BR", 
+          "endIdx": 2511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2511, 
+          "type": "BR", 
+          "endIdx": 2511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2510, 
+          "type": "BR", 
+          "endIdx": 2510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2510, 
+          "type": "BR", 
+          "endIdx": 2510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "BR", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "BR", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "BR", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "BR", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2427, 
+          "type": "LI", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2427, 
+          "type": "BR", 
+          "endIdx": 2427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2426, 
+          "type": "BR", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2362, 
+          "type": "LI", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2211, 
+          "type": "LI", 
+          "endIdx": 2361, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2141, 
+          "type": "LI", 
+          "endIdx": 2210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1982, 
+          "type": "LI", 
+          "endIdx": 2140, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1896, 
+          "type": "LI", 
+          "endIdx": 1981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "LI", 
+          "endIdx": 1895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "BG", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1662, 
+          "type": "LI", 
+          "endIdx": 1803, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "LI", 
+          "endIdx": 1661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "BG", 
+          "endIdx": 1803, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "BR", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1576, 
+          "type": "BR", 
+          "endIdx": 1576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1576, 
+          "type": "BR", 
+          "endIdx": 1576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "B", 
+          "endIdx": 1576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "BR", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "BR", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1556, 
+          "type": "BR", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1426, 
+          "type": "LI", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1218, 
+          "type": "LI", 
+          "endIdx": 1425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1110, 
+          "type": "LI", 
+          "endIdx": 1217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1005, 
+          "type": "LI", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "LI", 
+          "endIdx": 1004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BG", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BR", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 751, 
+          "type": "LI", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 727, 
+          "type": "LI", 
+          "endIdx": 751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 727, 
+          "type": "BR", 
+          "endIdx": 727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 638, 
+          "type": "LI", 
+          "endIdx": 727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 528, 
+          "type": "LI", 
+          "endIdx": 637, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 425, 
+          "type": "LI", 
+          "endIdx": 527, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 343, 
+          "type": "LI", 
+          "endIdx": 424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 183, 
+          "type": "LI", 
+          "endIdx": 342, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "LI", 
+          "endIdx": 182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BG", 
+          "endIdx": 727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Possibility helping to identify strategic and tactical Big Data synergies between IB and PB,  core client technologies and techniques for re-use,  and strategic priorities.  Developing the concept of Liquid Data within a client context across the Bank.  Includes use of proprietary data sets coupled with client                        Intelligence in the formation of new products and revenue generating capabilities Contribute to the client intelligence strategy for DAST and leverage that strategy across the One Bank Be part of a global client analytics team,  headquartered in Zurich and with representation in other locations Opportunity to work on projects with strategic client technology business areas,  such as:The Digital Private BankMulti-asset client intelligence and sales/targeting (IB and PB)Identifying opportunities for automating the OneBank cross-selling process,  and individual business line client intelligence and sales/targeting - aligned with Equities and Fixed Income (IB) Provide tools,  applications,  analysis,  and subject matter expertise aligned with the above,  for example: Innovative tools and applications for sales / relationship managers to better understand and target clients A Big Data client analytics framework which can be applied to a combination of client and market data,  across business lines,  in order to consistently generate insights and recommendations for business users Thought leadership in the form of strategy documents and position papers as part of identifying the future trends in this domain   Key Success Metrics Helping to develop a client intelligence strategy for DAST within a One Bank context Delivery of Big Data applications (operational data science) for several of the strategic client technology business areas as described above Bachelor or Master degree in Computer Science,  Mathematics,  Finance,  Engineering or similar 5 or more years’ experience in Data Science,  Software Engineering or similar position Experience with common Data Science and Machine Learning techniques such as clustering,  classification,  and regression,  dealing with large and noisy data sets Experience with at least two of the following: R,  Matlab,  Python,  C++ Good communication skills,  able to interact effectively with people at different levels of seniority and across both technology and business functions Fluent written and spoken English,  German as an additional asset LI-CSJOB Mr.  G.  Lehnhoff (HLOD 21) would be delighted to receive your application.  Please apply via our career portal! "
+    }, 
+    "postalCode": "8000", 
+    "jobState": "LISTED", 
+    "companyName": "Credit Suisse", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Credit Suisse is a global financial services company providing Private Banking &amp; Wealth Management services,  and Investment Banking services and expertise,  to companies,  institutions and high-net-worth clients.    We are active in more than 50 countries and employ over 46, 000 people.   It’s our aim to build the bank of the future at Credit Suisse—to work as one integrated bank,  servicing our clients across regions and businesses.   It also means fulfilling our responsibility to help shape the global economy,  and to make a difference in people’s lives. We offer roles for experienced professionals and entry-level hiring programs in a variety of business areas.    You will have the chance to make an impact from day one,  and throughout your career with us,  you will benefit from cross-business and international mobility opportunities.   We look for people with a wide range of experiences,  interests and degrees who will add fresh perspectives to our business.   A career with us means that you can help shape our future. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1446816409000, 
+    "countryCode": "ch", 
+    "company": "urn:li:company:1284", 
+    "id": 97052587, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Zürich,  CH", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97052587?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcreditsuisse. taleo. net%2Fcareersection%2Fexternal%2Fjobdetail. ftl%3Fjob%3D064757%26lang%3Den&urlHash=JlRo&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Banking"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "10001+", 
+    "formattedIndustries": [
+      "Banking"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "Credit Suisse is a global financial services company providing Private Banking & Wealth Management services,  and Investment Banking services and expertise,  to companies,  institutions and high-net-worth clients.    We are active in more than 50 countries and employ over 46, 000 people.   \r\rIt’s our aim to build the bank of the future at Credit Suisse—to work as one integrated bank,  servicing our clients across regions and businesses.   It also means fulfilling our responsibility to help shape the global economy,  and to make a difference in people’s lives. \r\rWe offer roles for experienced professionals and entry-level hiring programs in a variety of business areas.    You will have the chance to make an impact from day one,  and throughout your career with us,  you will benefit from cross-business and international mobility opportunities.   \r\rWe look for people with a wide range of experiences,  interests and degrees who will add fresh perspectives to our business.   A career with us means that you can help shape our future. ", 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "careersImage": "urn:li:media:/p/4/005/081/188/0c30bda. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXtAAAAJGRlZDA5YzIwLTVjYjYtNGRhYS04MDU2LTQzNGYxMzllNjU3MQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/4/005/081/188/0c30bda. png", 
+    "company": {
+      "specialities": [
+        "Private Banking & Wealth Management", 
+        "Investment Banking"
+      ], 
+      "universalName": "credit-suisse", 
+      "companyId": 1284, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAN5AAAAJDQzNTFjNDQ5LWVkM2UtNGEwZS1hNDE5LWQ0NDEwM2RjNDFjNA. png"
+      }
+    }, 
+    "canonicalName": "Credit Suisse"
+  }, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "December 28,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

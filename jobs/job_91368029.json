@@ -1,0 +1,356 @@
+{
+  "jobPosting": {
+    "companyJobCode": "sisystems-Calgary-BA0AB8A49CD0DBE1", 
+    "expirationDate": 1451650172000, 
+    "title": "Process Control and Chemical Engineering Data scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1583, 
+          "type": "BR", 
+          "endIdx": 1583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1583, 
+          "type": "BR", 
+          "endIdx": 1583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1542, 
+          "type": "BR", 
+          "endIdx": 1542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1542, 
+          "type": "BR", 
+          "endIdx": 1542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1400, 
+          "type": "BR", 
+          "endIdx": 1400, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1323, 
+          "type": "BR", 
+          "endIdx": 1323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1263, 
+          "type": "BR", 
+          "endIdx": 1263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1239, 
+          "type": "BR", 
+          "endIdx": 1239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1186, 
+          "type": "BR", 
+          "endIdx": 1186, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1125, 
+          "type": "BR", 
+          "endIdx": 1125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1125, 
+          "type": "BR", 
+          "endIdx": 1125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1100, 
+          "type": "B", 
+          "endIdx": 1125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1100, 
+          "type": "BR", 
+          "endIdx": 1100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1100, 
+          "type": "BR", 
+          "endIdx": 1100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 949, 
+          "type": "BR", 
+          "endIdx": 949, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 916, 
+          "type": "BR", 
+          "endIdx": 916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 911, 
+          "type": "BR", 
+          "endIdx": 911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 753, 
+          "type": "BR", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 753, 
+          "type": "BR", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 741, 
+          "type": "B", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 741, 
+          "type": "BR", 
+          "endIdx": 741, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 741, 
+          "type": "BR", 
+          "endIdx": 741, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 671, 
+          "type": "LI", 
+          "endIdx": 741, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 616, 
+          "type": "LI", 
+          "endIdx": 671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 577, 
+          "type": "LI", 
+          "endIdx": 616, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 577, 
+          "type": "BR", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 577, 
+          "type": "BR", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "B", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "BR", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "BR", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 562, 
+          "type": "BR", 
+          "endIdx": 562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 472, 
+          "type": "LI", 
+          "endIdx": 562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 451, 
+          "type": "LI", 
+          "endIdx": 472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 399, 
+          "type": "LI", 
+          "endIdx": 451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 399, 
+          "type": "BR", 
+          "endIdx": 399, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 398, 
+          "type": "BR", 
+          "endIdx": 398, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 387, 
+          "type": "BR", 
+          "endIdx": 387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 387, 
+          "type": "BR", 
+          "endIdx": 387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 24, 
+          "type": "BR", 
+          "endIdx": 24, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Description: One of our downtown Calgary clients is looking for a data scientist with subject matter expertise in process control and chemical engineering.   This individual must have experience in advanced analytics,  including predictive analytics,  advanced forecasting,  simulation and optimization.   The ideal candidate will have experience in oil sands in-situ development. Experience:  Statistics,   mathematics,  and operations research   Chemical engineering Industry experience in process control and operational excellence in oil sands production Qualifications Chemical Engineering or Physics degree Statistics,  mathematics,  or operations research degree 5-10 years relevant work experience in oil sands or mining operationsTechnologiesVisualization (Lumira,  Tableau),  In-memory database processing (HANA,  SQL),  statistical packages (SAP PAL,  R,  SAS,  Matlab,  Arena,  AnyLogic) or similiar.            Other Relevant Information       We are looking primarily for subject matter expertise in the areas of process control and leveraging analytics to predict events and recommend actions. Specialization And SkillsBusiness Intelligence             SAS             5 - 7 yearsSQL Server Reporting Services             5 - 7 yearsAdditional Requirements:Chemical Engineering or Physics degree           (Must-have)Knowledge of mathematics/statistics/operations research           (Must-have)Subject matter expertise in the area of project control and leveraging analytics to predict events and recommend actions           (Must-have)Work Environment:        Downtown Calgary"
+    }, 
+    "postalCode": "T2P5N4", 
+    "jobState": "LISTED", 
+    "companyName": "S. i.  Systems", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "S. i.  Systems Ltd.  is a provider of on demand IT professionals with offices in Calgary,  Edmonton,  Vancouver,  Victoria,  Toronto and Ottawa.  We provide money back guarantees on each new employee or contractor we place,  and our clients have the right to hire our contractors as employees at any time with no fees or penalties.  We also offer our candidates guaranteed payments by direct deposit,  paperless contracts,  and free comprehensive general liability and errors and omissions insurance.  Through our nation-wide network you have access to thousands of candidates across the country.  Each IT candidate is pre-screened in a process that includes resume review,  in-person interviews and comprehensive reference checks.  Our comprehensive software MatchGuide assures that our dedicated account executives and recruiters propose the most qualified candidates for every new client request. At S. i.  Systems,  you will interact with a team of highly trained IT recruiting and negotiating specialists.  You can count on our team from across Canada to apply their extensive knowledge to find the best fit for your needs.  We are honest in our presentation and respectful of your time and other work demands. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "PRJM", 
+      "ENG"
+    ], 
+    "listDate": 1444414043000, 
+    "countryCode": "ca", 
+    "company": "urn:li:company:35306", 
+    "id": 91368029, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Calgary,  CA", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/91368029?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. sisystems. com%2Findex. cfm%3Fmg%3Dcpo. details%26uv%3DBA0AB8A49CD0DBE1&urlHash=AaXF&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Project Management", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 57 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "57d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1994, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/055/01c/3a1c5bc. png"
+    }, 
+    "localizedDescription": "S. i.  Systems Ltd.  is a provider of on demand IT professionals with offices in Calgary,  Edmonton,  Vancouver,  Victoria,  Toronto and Ottawa.  We provide money back guarantees on each new employee or contractor we place,  and our clients have the right to hire our contractors as employees at any time with no fees or penalties.  We also offer our candidates guaranteed payments by direct deposit,  paperless contracts,  and free comprehensive general liability and errors and omissions insurance.  \r\rThrough our nation-wide network you have access to thousands of candidates across the country.  Each IT candidate is pre-screened in a process that includes resume review,  in-person interviews and comprehensive reference checks.  Our comprehensive software MatchGuide assures that our dedicated account executives and recruiters propose the most qualified candidates for every new client request. \r\rAt S. i.  Systems,  you will interact with a team of highly trained IT recruiting and negotiating specialists.  You can count on our team from across Canada to apply their extensive knowledge to find the best fit for your needs.  We are honest in our presentation and respectful of your time and other work demands. ", 
+    "company": {
+      "specialities": [
+        "BA", 
+        "Software Development", 
+        "Project Management", 
+        "IT Staffing", 
+        "Recruiting", 
+        "Payroll", 
+        "Information Technology", 
+        "Application Support", 
+        "Architecture", 
+        "BI", 
+        "DBA", 
+        "ERP", 
+        "GIS", 
+        "Management Consultant", 
+        "Network and Infrastructure", 
+        "Project Coordination", 
+        "Quality Assurance", 
+        "Technical writing"
+      ], 
+      "universalName": "s. i. -systems", 
+      "companyId": 35306, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/7/000/1af/385/386397d. png"
+      }
+    }, 
+    "canonicalName": "S. i.  Systems", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 9,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

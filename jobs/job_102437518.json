@@ -1,0 +1,326 @@
+{
+  "jobPosting": {
+    "companyJobCode": "22850185", 
+    "expirationDate": 1451859113000, 
+    "title": "XML Analyst,  XML Data Analyst - Senior", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "BR", 
+          "endIdx": 1482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "BR", 
+          "endIdx": 1482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1397, 
+          "type": "BR", 
+          "endIdx": 1397, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1397, 
+          "type": "BR", 
+          "endIdx": 1397, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1281, 
+          "type": "BR", 
+          "endIdx": 1281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1281, 
+          "type": "BR", 
+          "endIdx": 1281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1003, 
+          "type": "BR", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1003, 
+          "type": "BR", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 967, 
+          "type": "LI", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "LI", 
+          "endIdx": 967, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 879, 
+          "type": "LI", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "LI", 
+          "endIdx": 879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 869, 
+          "type": "LI", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 862, 
+          "type": "LI", 
+          "endIdx": 869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 834, 
+          "type": "LI", 
+          "endIdx": 862, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 820, 
+          "type": "LI", 
+          "endIdx": 834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 792, 
+          "type": "LI", 
+          "endIdx": 820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 792, 
+          "type": "BR", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 792, 
+          "type": "BR", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "U", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "B", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "BR", 
+          "endIdx": 758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "BR", 
+          "endIdx": 758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "BR", 
+          "endIdx": 666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "BR", 
+          "endIdx": 666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 320, 
+          "type": "BR", 
+          "endIdx": 320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 320, 
+          "type": "BR", 
+          "endIdx": 320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 138, 
+          "type": "BR", 
+          "endIdx": 138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 138, 
+          "type": "BR", 
+          "endIdx": 138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " XML Analyst,  XML Data Analyst with strength in XML and SQL is required for a leading software house based in central Brighton. This XML Analyst,  XML Data Analyst position is offering the chance to impart your strong knowledge of XML within the team,  developing the standards and tools throughout the business. Whilst showing the ability to develop complex digital projects,  you'll also work on data manipulation/migration and schema design. Proving your deep understanding of XML you should be able to highlight your experience within structured and semi-structured work,  to have the ability to move business data around whist also work on content products. It's essential to be a strong communicator,  to coach those within the team and organisation. The Required Skills Are As Follows Highly experienced with XML Schema design Data manipulation/migration XQuery XPath SQL Search Tools (Solr,  Lucene,  Elasticsearch etc) Big Data Suites (Hadoop,  Spark,  AWS etc) Industry data standard appreciationAny additional experience with Java technologies is a great added bonus but by no means a show stopper. We are looking for a driving individual with excellent communication skills and the ability to work with technical and non-technical colleagues as well as consult end clients. To apply for this XML Analyst,  XML Data Analyst opportunity please send your CV to Paul Wilson at Arc IT RecruitmentData Analyst,  XML,  SQL,  Big Data,  Hadoop,  Apache Spark,  MI,  BI,  Business IntelligenceBrightonGBP 65, 000"
+    }, 
+    "postalCode": "BN2", 
+    "jobState": "LISTED", 
+    "companyName": "The Jobs Portal", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Totaljobsportal. com is a brand new career website for job market in India specifically caters to the need of aspiring jobseekers.  We believe that a good job site should offer an interactive platform for job seekers with the objective of improving the process of recruitment. Our MissionAt Totaljobsportal. com,  we work for a main purpose: “Satisfaction for Job seekers” This is our mission.  We believe that satisfaction for job is one of the most crucial factors for overall happiness of an aspiring jobseeker. This is why the work we do at Totaljobsportal. com is so meaningful.  We excel in matching right people with right jobs. Our TeamTotaljobsportal. com is managed by a team of highly skilled and experienced HR personnel.  Our team members work with their best to find right jobs for job seekers.  Following are our respected team members:-HR and RecruitmentMr.  Rajkumar Iyer(Director and Senior HR officer)(13+ years of experience)Neha Agrawal(HR operation Mnager)Sangeeta Sachdeva(Assistant HR)Abhilash Saxena(Assistant HR)"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR", 
+      "IT"
+    ], 
+    "listDate": 1449267113000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3842608", 
+    "id": 102437518, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Brighton,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Self-Owned", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "hasPaidLcp": false, 
+    "foundedYear": 2014, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/0af/332/0494389. png"
+    }, 
+    "localizedDescription": "Totaljobsportal. com is a brand new career website for job market in India specifically caters to the need of aspiring jobseekers.  We believe that a good job site should offer an interactive platform for job seekers with the objective of improving the process of recruitment. \r\rOur Mission\r\rAt Totaljobsportal. com,  we work for a main purpose: “Satisfaction for Job seekers” This is our mission.  We believe that satisfaction for job is one of the most crucial factors for overall happiness of an aspiring jobseeker. \r\rThis is why the work we do at Totaljobsportal. com is so meaningful.  We excel in matching right people with right jobs. \r\rOur Team\r\rTotaljobsportal. com is managed by a team of highly skilled and experienced HR personnel.  Our team members work with their best to find right jobs for job seekers.  Following are our respected team members:-\r\rHR and Recruitment\r\rMr.  Rajkumar Iyer\r(Director and Senior HR officer)\r(13+ years of experience)\r\rNeha Agrawal\r(HR operation Mnager)\r\rSangeeta Sachdeva\r(Assistant HR)\r\rAbhilash Saxena\r(Assistant HR)", 
+    "company": {
+      "universalName": "total-jobs-portal-com", 
+      "companyId": 3842608, 
+      "heroImage": {}
+    }, 
+    "canonicalName": "Total Jobs Portal. com", 
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanySize": "11-50"
+  }, 
+  "formattedJobFunctions": [
+    "Other", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 21 hours ago", 
+  "formattedPostedDaysAgoSlim": "21 hours ago", 
+  "formattedPostedDaysAgoShort": "21h", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "December 4,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/102437518?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobsearch. direct. gov. uk%2FGetJob. aspx%3FJobID%3D22850185%26JobTitle%3DXML%252BAnalyst%25252c%252BXML%252BData%252BAnalyst%252B-%252BSenior%26rad_units%3Dmiles%26brd%3D6978%25252c6985%25252c6988%26pp%3D25%26vw%3Db%26setype%3D1%26seswitch%3D1%26co%3Dxw10216970wx%26pg%3D21%26AVSDM%3D2015-12-03%252B11%25253a17%25253a00&urlHash=w7VS&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

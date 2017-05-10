@@ -1,0 +1,536 @@
+{
+  "jobPosting": {
+    "companyJobCode": "empregosjobs-44983", 
+    "expirationDate": 1451899911000, 
+    "title": "Data Scientist (M/F)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2441, 
+          "type": "BR", 
+          "endIdx": 2441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2441, 
+          "type": "BR", 
+          "endIdx": 2441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2163, 
+          "type": "BR", 
+          "endIdx": 2163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2163, 
+          "type": "BR", 
+          "endIdx": 2163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2143, 
+          "type": "U", 
+          "endIdx": 2163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2143, 
+          "type": "B", 
+          "endIdx": 2163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2143, 
+          "type": "BR", 
+          "endIdx": 2143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2143, 
+          "type": "BR", 
+          "endIdx": 2143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2106, 
+          "type": "BR", 
+          "endIdx": 2106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2083, 
+          "type": "BR", 
+          "endIdx": 2083, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2027, 
+          "type": "BR", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1993, 
+          "type": "BR", 
+          "endIdx": 1993, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1959, 
+          "type": "BR", 
+          "endIdx": 1959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1931, 
+          "type": "BR", 
+          "endIdx": 1931, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1899, 
+          "type": "BR", 
+          "endIdx": 1899, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1883, 
+          "type": "BR", 
+          "endIdx": 1883, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1883, 
+          "type": "BR", 
+          "endIdx": 1883, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1864, 
+          "type": "BR", 
+          "endIdx": 1864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1864, 
+          "type": "BR", 
+          "endIdx": 1864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1719, 
+          "type": "BR", 
+          "endIdx": 1719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1622, 
+          "type": "BR", 
+          "endIdx": 1622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1622, 
+          "type": "BR", 
+          "endIdx": 1622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "U", 
+          "endIdx": 1622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "B", 
+          "endIdx": 1622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "BR", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "BR", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1594, 
+          "type": "BR", 
+          "endIdx": 1594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "BR", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1456, 
+          "type": "BR", 
+          "endIdx": 1456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1456, 
+          "type": "BR", 
+          "endIdx": 1456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1407, 
+          "type": "U", 
+          "endIdx": 1456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1407, 
+          "type": "B", 
+          "endIdx": 1456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1407, 
+          "type": "BR", 
+          "endIdx": 1407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1407, 
+          "type": "BR", 
+          "endIdx": 1407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1382, 
+          "type": "BR", 
+          "endIdx": 1382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "BR", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1299, 
+          "type": "BR", 
+          "endIdx": 1299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "BR", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "BR", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "U", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "B", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "BR", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "BR", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1185, 
+          "type": "BR", 
+          "endIdx": 1185, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1179, 
+          "type": "BR", 
+          "endIdx": 1179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1179, 
+          "type": "BR", 
+          "endIdx": 1179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1100, 
+          "type": "BR", 
+          "endIdx": 1100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "BR", 
+          "endIdx": 1073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 990, 
+          "type": "BR", 
+          "endIdx": 990, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 942, 
+          "type": "BR", 
+          "endIdx": 942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 890, 
+          "type": "BR", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 890, 
+          "type": "BR", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 883, 
+          "type": "U", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 883, 
+          "type": "B", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 883, 
+          "type": "BR", 
+          "endIdx": 883, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 883, 
+          "type": "BR", 
+          "endIdx": 883, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "BR", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "BR", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 471, 
+          "type": "BR", 
+          "endIdx": 471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 471, 
+          "type": "BR", 
+          "endIdx": 471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 373, 
+          "type": "BR", 
+          "endIdx": 373, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 122, 
+          "type": "BR", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 122, 
+          "type": "BR", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 47, 
+          "type": "BR", 
+          "endIdx": 47, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 47, 
+          "type": "BR", 
+          "endIdx": 47, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Validade: 2015-03-09 até 2015-04-20Descrição/FunçãoEu sou Brilhante!Agarra esta oportunidade e vem Ser um PHC!A PHC é uma software house,  que se dedica em exclusivo ao desenvolvimento de software de gestão.  Ajuda-nos a prestar o melhor serviço aos nossos clientes e partilha connosco os momentos de uma empresa em que as pessoas são realmente o mais importante. Eleita como uma das melhores empresas para trabalhar em Portugal,  a PHC procura pessoas exigentes. Se tens: humildade; simplicidade; gosto pelo trabalho em equipa; orientação para o cliente; atitude positiva perante a vida; e querer evoluir junte-se a nós. Procuramos um cientista de dados com fortes capacidades analíticas,  bons conhecimentos de engenharia de software e aptidão para a investigação,  partilhando ao mesmo tempo,  paixão para analisar dados complexos de forma a solucionar problemas interessantes. Se Tens•Licenciatura em Estatística e Gestão de Informação;•Aptidão em estatística e visualização de dados;•Conhecimento em base de dados e SQL;•Boa capacidade de comunicação escrita e oral;•Boa capacidade analítica. ;•Boa capacidade de organização,  gestão de prioridades e cumprimentos de prazos. Mais …•Conhecimentos em software de estatísticas. E ProcurasEstabilidade e integração numa empresa em constante inovação. Ambiente profissional aliciante. Formação interna contínua em tecnologias avançadas. Equipa de trabalho jovem. Temos Para Ti a Função Ideal Com Estes Benefícios•Remuneração de acordo com a função + Prémio Anual mediante os resultados•O dia de Aniversario. •Um horário de trabalho diferente no verão. •Seguro de saúde. ObservaçõesTodas as candidaturas serão tratadas com confidencialidade ao abrigo da Lei de Proteção de Dados. Somente serão consideradas as candidaturas que reúnam o perfil solicitado.  Todas as restantes ficarão em base de dados para futuras solicitações. mais informação . . . Distrito: LisboaLocalidade: Oeiras - Lagoas ParkHabilitações: Curso SuperiorExperiência profissional: 0-1 anosEmpresa/Entidade: PHC Software,  SASector de Actividade: TI,  Telecomunicações e ComunicaçãoTipo de oferta: EmpregoTipo de contrato oferecido: Full-timePessoa Para ContactoEmail de contacto:                                                                                                                                                                                                                                                     Sem preferência"
+    }, 
+    "postalCode": "6300", 
+    "jobState": "LISTED", 
+    "companyName": "PHC Software,  SA", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Business at Speed is what PHC brings to the mix! Our software speeds up and improves the way companies do business by streamlining their communications and improving their business processes.  Ultimately,  we offer technologically advanced business solutions that enable companies to focus on being profitable by improving the core areas of their business,  reducing costs and increasing productivity.  We are a multi-national software house that has been developing advanced business software for over 25 years.  Our creativity,  vision and multidisciplinary competencies have made us an established player in the software industry.  Amongst a wide array of state-of-the-art software,  Business Software in the form of Enterprise Resource Planning (ERP) is the domain where PHC has become recognized as a constant innovator,  offering our distribution channel solutions for a wide remit of industry sectors,  such as,  manufacturing,  construction,  project management,  support,  etc.  Incorporating the latest technologies and management methods,  our web application is taking how you do business to a new level.  Second generation powerful tools add functionality and performance to traditional desktop applications. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446991463000, 
+    "countryCode": "pt", 
+    "company": "urn:li:company:24616", 
+    "id": 97802799, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Guarda,  PT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1989, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/0fe/0c9/1d2a5bb. png"
+    }, 
+    "localizedDescription": "Business at Speed is what PHC brings to the mix! Our software speeds up and improves the way companies do business by streamlining their communications and improving their business processes.  Ultimately,  we offer technologically advanced business solutions that enable companies to focus on being profitable by improving the core areas of their business,  reducing costs and increasing productivity.  \rWe are a multi-national software house that has been developing advanced business software for over 25 years.  Our creativity,  vision and multidisciplinary competencies have made us an established player in the software industry.  \rAmongst a wide array of state-of-the-art software,  Business Software in the form of Enterprise Resource Planning (ERP) is the domain where PHC has become recognized as a constant innovator,  offering our distribution channel solutions for a wide remit of industry sectors,  such as,  manufacturing,  construction,  project management,  support,  etc.  \rIncorporating the latest technologies and management methods,  our web application is taking how you do business to a new level.  Second generation powerful tools add functionality and performance to traditional desktop applications. ", 
+    "company": {
+      "specialities": [
+        "SaaS", 
+        "Enterprise Resource Planning (ERP)", 
+        "Business Intelligence", 
+        "Business Process Management", 
+        "Customer Relationship Management (CRM)", 
+        "Digital Content Creation", 
+        "Enterprise Content Management", 
+        "Project Management", 
+        "Supply Chain Management (SCM)", 
+        "Team Collaboration"
+      ], 
+      "universalName": "phc-software-s-a-", 
+      "companyId": 24616, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALXAAAAJDMyNzk0MWQ2LWY5MmItNDAyOS1hMjljLTkyYTUyNmJiNDRmNQ. png"
+      }
+    }, 
+    "canonicalName": "PHC Software", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "pt", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97802799?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. empregos. org%2Fview_job. php%3Fsb_id%3D44983&urlHash=K41l&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "pt", 
+  "formattedEmploymentStatus": "Full-time"
+}

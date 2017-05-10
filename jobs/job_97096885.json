@@ -1,0 +1,301 @@
+{
+  "jobPosting": {
+    "companyJobCode": "empregosjobs-59653", 
+    "expirationDate": 1451896275000, 
+    "title": "Oferta: Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2298, 
+          "type": "BR", 
+          "endIdx": 2298, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2298, 
+          "type": "BR", 
+          "endIdx": 2298, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2015, 
+          "type": "BR", 
+          "endIdx": 2015, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2015, 
+          "type": "BR", 
+          "endIdx": 2015, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2014, 
+          "type": "BR", 
+          "endIdx": 2014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2014, 
+          "type": "BR", 
+          "endIdx": 2014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2013, 
+          "type": "BR", 
+          "endIdx": 2013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2013, 
+          "type": "BR", 
+          "endIdx": 2013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2012, 
+          "type": "BR", 
+          "endIdx": 2012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "LI", 
+          "endIdx": 2012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "BR", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1108, 
+          "type": "BR", 
+          "endIdx": 1108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 218, 
+          "type": "BR", 
+          "endIdx": 218, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 217, 
+          "type": "BR", 
+          "endIdx": 217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 216, 
+          "type": "BR", 
+          "endIdx": 216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 201, 
+          "type": "BR", 
+          "endIdx": 201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 142, 
+          "type": "BR", 
+          "endIdx": 142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 142, 
+          "type": "BR", 
+          "endIdx": 142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 105, 
+          "type": "U", 
+          "endIdx": 142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 105, 
+          "type": "B", 
+          "endIdx": 142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 105, 
+          "type": "BR", 
+          "endIdx": 105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 105, 
+          "type": "BR", 
+          "endIdx": 105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 46, 
+          "type": "BR", 
+          "endIdx": 46, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 34, 
+          "type": "B", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 34, 
+          "type": "BR", 
+          "endIdx": 34, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 34, 
+          "type": "BR", 
+          "endIdx": 34, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 15, 
+          "type": "BR", 
+          "endIdx": 15, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 15, 
+          "type": "BR", 
+          "endIdx": 15, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 14, 
+          "type": "BR", 
+          "endIdx": 14, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "    Data Scientist(m/f)RT/2015/3419Lisboawww. randstadtech. ptEnvie CV indicando a Ref.  a que seCandidata Através Dos Seguintes MeiosSite:                                 Randstad TechnologiesE-mail: E-Mail:  Our client is an innovative startup with offices in Portugal and Silicon Valley building a groundbreaking product for online fraud prevention and digital payments.  For direct integration in their team,  we are currently searching for a Data Scientist (m/f).  This professional will be working in a small R&amp;D team where he will be able to tackle complex fraud detection problems,  having as main responsibilities:  •   Work close with other R&D team members in thorny fraud detection problems;  •   Support your answers and findings with appropriate statistical techniques and methods;  •   Contribute to the team knowledge by keeping up with the state-of-the-art in machine learning applied to our domains;  •   Communicate findings within the organization,  particularly the management,  product and delivery teams;  •   Develop solution prototypes and help integrate them with the product.   MSc in Computer Science (or relevant field);  - Solid knowledge of machine learning and classification algorithms;  - Experience in training and testing models with R,  Weka,  MOA,  Matlab or other tools;  - Knowledge in data pre-processing and data cleaning (extract new features);  - Experience in unbalanced datasets/classes,  as well as in dealing with high performance and real-time scoring requirements;  - Experience in handling large datasets and big data tools such as Hadoop and Pig;  - Problem-solving mindset;  - Ability to work independently as well as within a team environment;  - Fluent in English written and spoken.   -Integration in a multinational company with good prospects;  -Participation in innovative projects and attractive technological environments,  with activity directed to national and international clients;  -Package wage adjusted for background and highlighted objectives.    Informação de contacto:                                                                                                                                                                                                                                                     Sem preferência"
+    }, 
+    "postalCode": "1600", 
+    "jobState": "LISTED", 
+    "companyName": "Randstad Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Ben jij een IT-professional met een wo-,  hbo of mbo-opleiding? Randstad Technologies helpt jou bij het vinden van de perfecte baan of opdracht.  Lees hoe wij dit doen op www. randstadtechnologies. nl"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MGMT"
+    ], 
+    "listDate": 1446824746000, 
+    "countryCode": "pt", 
+    "company": "urn:li:company:5216809", 
+    "id": 97096885, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Lisbon,  PT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97096885?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. empregos. org%2Fview_job. php%3Fsb_id%3D59653&urlHash=punL&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Management"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/005/063/1fc/1594c11. png"
+    }, 
+    "localizedDescription": "Ben jij een IT-professional met een wo-,  hbo of mbo-opleiding? Randstad Technologies helpt jou bij het vinden van de perfecte baan of opdracht.  Lees hoe wij dit doen op www. randstadtechnologies. nl", 
+    "formattedCompanyType": "Showcase Page", 
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "hasPaidLcp": false, 
+    "canonicalName": "Randstad Technologies", 
+    "company": {
+      "universalName": "randstad-technologies", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/084/14c/19ff93c. png"
+      }, 
+      "companyId": 5216809
+    }
+  }, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

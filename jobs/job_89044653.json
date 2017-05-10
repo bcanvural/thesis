@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89044653", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "PhD or Masters in a quantitative discipline 0-8 years experience in Machine Learning - they will consider those coming out of school In-depth experience of designing machine learning algorithms and statistical models Experience in techniques such as regressions,  sentiment analysis,  genetic algorithms,  neural networks,  classification methods,  Markov Models,  random forests,  clustering etc.  Expert in programming tools - Python,  R,  Spark ML,  Scala etc.  Comfortable with relational databases and/or the Hadoop ecosystem.   Strong communication skills - confident dealing with stakeholders Data visualization experience with D3. js,  WebGL,  matplotlib etc.  (nice to have)", 
+  "following": false, 
+  "companyDescription": "Sartre Group is a global executive search firm providing strategic recruitment solutions and market intelligence to companies across the United States,  Europe and Asia.  The Partners have nearly two decades of industry experience servicing some of the world’s most sophisticated companies,  particularly those utilising algorithmic and quantitative methods in the financial markets.  The recent explosion in big data and companies utilising the application of technology and data science has increasingly resulted in us partnering with established software companies and startups around the world.  Through our search-driven methodology we continue to build an unrivalled track record of delivering high-calibre talent across multiple international industries. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Sartre Group", 
+  "canFollow": false, 
+  "companyId": "3075240", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Sartre Group", 
+    "title": "Data Scientist - Junior/Mid/Senior"
+  }, 
+  "description": "An opportunity has arisen for a number of Data Scientists (at different levels of seniorities) to join a digital advertising company in New York.   The Data Science team sits at 5 people currently and they are managed by a Data Science Lead.   The role involves: Designing cutting edge scientific algorithms and data solutions and then implementing them to solve real-world business problems in the digital marketing space Performing complex Machine Learning and traditional statistical techniques to generate insight from both unstructured and structured data Carry out research and development to uncover new ways that algorithms can uncover insights from messy data sets Contributing with new ideas in relation to data science and to the future direction of the team Carrying out data visualization to bring statistics to life for stakeholders and clients"
+}

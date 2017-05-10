@@ -1,0 +1,433 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-bqrE7c0GWr4OJAeJe4iefn", 
+    "expirationDate": 1451949747000, 
+    "title": "INTERNSHIP BUSINESS DATA ANALYST – MARKETING & SALES", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3082, 
+          "type": "BR", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3082, 
+          "type": "BR", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2971, 
+          "type": "BR", 
+          "endIdx": 2971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2971, 
+          "type": "BR", 
+          "endIdx": 2971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2960, 
+          "type": "B", 
+          "endIdx": 2971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2960, 
+          "type": "BR", 
+          "endIdx": 2960, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2960, 
+          "type": "BR", 
+          "endIdx": 2960, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2959, 
+          "type": "BR", 
+          "endIdx": 2959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2830, 
+          "type": "LI", 
+          "endIdx": 2958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2691, 
+          "type": "LI", 
+          "endIdx": 2829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2612, 
+          "type": "LI", 
+          "endIdx": 2690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2612, 
+          "type": "BG", 
+          "endIdx": 2959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2612, 
+          "type": "BR", 
+          "endIdx": 2612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2604, 
+          "type": "B", 
+          "endIdx": 2612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2604, 
+          "type": "BR", 
+          "endIdx": 2604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2604, 
+          "type": "BR", 
+          "endIdx": 2604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2603, 
+          "type": "BR", 
+          "endIdx": 2603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2482, 
+          "type": "LI", 
+          "endIdx": 2602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2387, 
+          "type": "LI", 
+          "endIdx": 2481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2283, 
+          "type": "LI", 
+          "endIdx": 2386, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2092, 
+          "type": "LI", 
+          "endIdx": 2282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1932, 
+          "type": "LI", 
+          "endIdx": 2091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1932, 
+          "type": "BG", 
+          "endIdx": 2603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1932, 
+          "type": "BR", 
+          "endIdx": 1932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1918, 
+          "type": "U", 
+          "endIdx": 1932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1918, 
+          "type": "B", 
+          "endIdx": 1932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1918, 
+          "type": "BR", 
+          "endIdx": 1918, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1918, 
+          "type": "BR", 
+          "endIdx": 1918, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1917, 
+          "type": "BR", 
+          "endIdx": 1917, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1763, 
+          "type": "B", 
+          "endIdx": 1783, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "LI", 
+          "endIdx": 1916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1567, 
+          "type": "B", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1566, 
+          "type": "LI", 
+          "endIdx": 1761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1344, 
+          "type": "B", 
+          "endIdx": 1363, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1343, 
+          "type": "LI", 
+          "endIdx": 1565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1215, 
+          "type": "B", 
+          "endIdx": 1246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1214, 
+          "type": "LI", 
+          "endIdx": 1342, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1214, 
+          "type": "BG", 
+          "endIdx": 1917, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1214, 
+          "type": "BR", 
+          "endIdx": 1214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "U", 
+          "endIdx": 1214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "B", 
+          "endIdx": 1214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "BR", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "BR", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1175, 
+          "type": "BR", 
+          "endIdx": 1175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1175, 
+          "type": "BR", 
+          "endIdx": 1175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1174, 
+          "type": "BR", 
+          "endIdx": 1174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1115, 
+          "type": "BR", 
+          "endIdx": 1115, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "BR", 
+          "endIdx": 1114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "BR", 
+          "endIdx": 1114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 635, 
+          "type": "BR", 
+          "endIdx": 635, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 635, 
+          "type": "BR", 
+          "endIdx": 635, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 131, 
+          "type": "BR", 
+          "endIdx": 131, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 131, 
+          "type": "BR", 
+          "endIdx": 131, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " PressMatrix is an internationally active technology start-up right at the cutting edge of the Digital Publishing arena. From our Berlin headquarters,  we develop and operate a smart publishing and distribution platform to enable publishers to market their existing print content via a dedicated,  branded application for iPad,  Android and other tablets.  Through our innovative white-labeled service an application is easily generated within minutes.  PressMatrix takes care of everything,  leaving the publisher to focus on what they are best at – producing digital magazine content that updates the market with the latest news. We are an exciting and dynamic company with ambitious goals.  Since our launch in 2011,  we’ve grown enormously and are currently working on successfully establishing our product in further international markets and segments.  We offer many opportunities and the chance to actively participate in the company’s success.  Therefore we are looking for energetic,  high-flying and fun people who enjoy moving things forward and aren’t scared of taking on a lot of responsibility quickly.     INTERNSHIP BUSINESS DATA ANALYST – MARKETING &amp; SALES  You Will Assist Our Management Team In Market and competitor analysis:  Carry out research and analyze results to identify advertising trends and revenue opportunites  Marketing analysis: Apply your expertise in quantitive analysis,  data mining,  and the presentation of data to monitor KPIs,  analyze traffic and conversion trends and understand how our customers interact with our products  Reporting: Build and maintain data in the marketing automaion and CRM systems and turn your analytical findings into actionable recommendations that have a direct impact on the company's success  Process improvement: Identify areas for improvements (in both company process and data reporting),  and provide recommendations to improve these processes  Qualifications A student or recent graduate of a business or marketing related studies - preferable with focus on marketing and sales - as well as first practical experience  A high proficiency in Excel,  including the ability to create reports,  formulas,  charts and graphs,  and ideally experience in working with database and/or CRM systems,  such as salesforce. com  Strong entrepreneurial spirit with the ability to be flexible and part of a growing and empowered team  Self-driven personality with a keen sense of delivering completed projects in a timely manner  Ability to providing honest feedback internally and passion for improving processes and seeing the results of your work  WE OFFER A paid fulltime internship between 3 – 6 months and a flexible starting time.   A demanding activity where you can fully contribute your individual strengths,  develop your talents and grow by taking on new challenges.   An international team as well as friendly and business-minded environment with transparent hierarchies and flexible structures.   INTERESTED?We look forward to receiving your complete application – stating your availability – via email to [[redacted]]. "
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "PressMatrix GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We turn your print into an interactive,  digital magazine,  for both Apple and Android. By using Workbench,  our online PDF to app converter,  you stay in control of the look and feel of your publication.  Enrich your content with sound,  video,  images,  hyperlinks and more – for more information,  see http://pressmatrix. de/en/features. html.  And please do ask us anything you want to know via sales@pressmatrix. de or right here on LinkedIn. We have grown enormously since we were founded in 2011 and today we operate with around 50 employees based in Germany,  Brazil and the United States.  We have ambitious goals and are already succeeding in complementing our existing market leadership in Germany by advancing continuously into new international markets. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "SALE", 
+      "MRKT", 
+      "IT"
+    ], 
+    "listDate": 1444510785000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2100801", 
+    "id": 91689334, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/91689334?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fpressmatrixgmbh%2Finternship-business-data-analyst-marketing-sales%2FbqrE7c0GWr4OJAeJe4iefn%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=Lrtt&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "51-200 employees", 
+    "localizedDescription": "We turn your print into an interactive,  digital magazine,  for both Apple and Android. \rBy using Workbench,  our online PDF to app converter,  you stay in control of the look and feel of your publication.  Enrich your content with sound,  video,  images,  hyperlinks and more – for more information,  see http://pressmatrix. de/en/features. html.  And please do ask us anything you want to know via sales@pressmatrix. de or right here on LinkedIn. \r\rWe have grown enormously since we were founded in 2011 and today we operate with around 50 employees based in Germany,  Brazil and the United States.  We have ambitious goals and are already succeeding in complementing our existing market leadership in Germany by advancing continuously into new international markets. ", 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "foundedYear": 2011, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/000/282/193/3d1c35c. png"
+    }, 
+    "company": {
+      "specialities": [
+        "digital publishing", 
+        "android magazine", 
+        "digital magazine", 
+        "white label publishing", 
+        "ipad magazine"
+      ], 
+      "universalName": "pressmatrix", 
+      "companyId": 2100801, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/7/005/081/303/2b65aad. png"
+      }
+    }, 
+    "canonicalName": "PressMatrix GmbH", 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200"
+  }, 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 56 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "56d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Sales", 
+    "Marketing", 
+    "Information Technology"
+  ], 
+  "formattedListDate": "October 10,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87814331", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Qualifications The ideal candidate will have a: PhD or Master’s in Computer Science or related discipline focusing on machine learning,  information retrieval,  computer vision,  natural language processing,  and related areas.  Minimum of 3 years of relevant experience working on search relevancy,  big data,  and related areas.  Expert in supervised,  unsupervised,  and reinforcement learning techniques.  Expert in scientific and systems programming languages such as: Java,  Python,  R,  etc.  Expert in big data computing frameworks.  Familiar with open source machine learning packages like Spark etc.  Working knowledge of SQL &amp; NoSQL databases.   ", 
+  "following": false, 
+  "companyDescription": "Optimus Search is a recruitment company that supplies high class talent to companies in Europe.  With 10 years of expertise working with some of the biggest names in the industry we know what makes a recruitment company successful – “understanding of our clients’ needs”.    We have broken our business down in to three separate divisions in order to make sure it is clear to you,  as a client or as a candidate,  as to exactly what markets and therefore what skills it is we recruit for.  The Three Divisions are as follows:   • Optimus Data &amp; Technology   • Optimus Engineering   • Optimus Life Sciences   Our range of services includes contingency search,  executive search and contract recruitment.    With various awards to our name including the Virgin Fast Track 100,  the Optimus Search brand is recognised as a recruitment company that will deliver on its promises.    Follow us on Facebook and Twitter for more updates.    Facebook: www. facebook. com/Optimus. Search   Twitter: @optimussearch", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Optimus Search", 
+  "canFollow": false, 
+  "companyId": "1592017", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Optimus Search", 
+    "title": "Big Data Scientist / Engineer (Machine Learning)"
+  }, 
+  "description": "Big Data Scientist / Engineer (Machine Learning) Salary: £65, 000 - £75, 000 per annum Job Description Our Client is a well-established company based in London,  they have over 200 million users on their site every month,  and produce a huge mass of data over this period.  This includes the media content,  website production tables,  server logs,  analytics data,  and much more.  Therefore,  we have several clusters to store and process all of this really big data.  We are building out our first ever data engineering team to help us take advantage of all this “Big Data. ” You will be a founding member of the data science team,  building out fundamental data driven products such as image recommendations and personalized discovery.  What you get to work on As a Machine Learning Engineer,  you will be applying large-scale data mining,  machine learning,  and information retrieval techniques to help build a powerful and reactive search and discovery engine.  This being a critical company initiative,  you will be responsible for the following: Performing research and develop sophisticated recommendations,  personalization,  and search engines.  Performing data mining,  machine learning,  and information retrieval techniques on very large data sets.  Using distributed big data storage and processing tools like Hadoop,  MapReduce and Spark.  Working on products which serve millions of users every day.  Studying image recognition/understanding,  performing natural language processing and sentiment analysis,  discovering trending memes,  modelling user behaviours,  and much more.  Exploring future data-driven products. "
+}

@@ -1,0 +1,507 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-aIc4mYbDGr47TGiGakhP3Q", 
+    "expirationDate": 1451947749000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2481, 
+          "type": "BR", 
+          "endIdx": 2481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2481, 
+          "type": "BR", 
+          "endIdx": 2481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2480, 
+          "type": "BR", 
+          "endIdx": 2480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2456, 
+          "type": "U", 
+          "endIdx": 2479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2456, 
+          "type": "LI", 
+          "endIdx": 2479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2438, 
+          "type": "U", 
+          "endIdx": 2455, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2438, 
+          "type": "LI", 
+          "endIdx": 2455, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "U", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "LI", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "BG", 
+          "endIdx": 2480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "BR", 
+          "endIdx": 2421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2405, 
+          "type": "BR", 
+          "endIdx": 2405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2405, 
+          "type": "BR", 
+          "endIdx": 2405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2404, 
+          "type": "BR", 
+          "endIdx": 2404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2313, 
+          "type": "LI", 
+          "endIdx": 2403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2256, 
+          "type": "LI", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2187, 
+          "type": "LI", 
+          "endIdx": 2255, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "LI", 
+          "endIdx": 2186, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2067, 
+          "type": "LI", 
+          "endIdx": 2132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "LI", 
+          "endIdx": 2066, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BG", 
+          "endIdx": 2404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2019, 
+          "type": "BR", 
+          "endIdx": 2019, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2019, 
+          "type": "BR", 
+          "endIdx": 2019, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2002, 
+          "type": "B", 
+          "endIdx": 2019, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2002, 
+          "type": "BR", 
+          "endIdx": 2002, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2002, 
+          "type": "BR", 
+          "endIdx": 2002, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "BR", 
+          "endIdx": 2001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "LI", 
+          "endIdx": 2000, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1808, 
+          "type": "LI", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1703, 
+          "type": "LI", 
+          "endIdx": 1807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1631, 
+          "type": "LI", 
+          "endIdx": 1702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1631, 
+          "type": "BG", 
+          "endIdx": 2001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1631, 
+          "type": "BR", 
+          "endIdx": 1631, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1601, 
+          "type": "U", 
+          "endIdx": 1631, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1601, 
+          "type": "B", 
+          "endIdx": 1631, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1601, 
+          "type": "BR", 
+          "endIdx": 1601, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1601, 
+          "type": "BR", 
+          "endIdx": 1601, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1600, 
+          "type": "BR", 
+          "endIdx": 1600, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1434, 
+          "type": "LI", 
+          "endIdx": 1599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "LI", 
+          "endIdx": 1433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1247, 
+          "type": "LI", 
+          "endIdx": 1358, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1132, 
+          "type": "LI", 
+          "endIdx": 1246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "LI", 
+          "endIdx": 1131, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "BG", 
+          "endIdx": 1600, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "BR", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "U", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "B", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 826, 
+          "type": "BR", 
+          "endIdx": 826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 826, 
+          "type": "BR", 
+          "endIdx": 826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 456, 
+          "type": "BR", 
+          "endIdx": 456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 456, 
+          "type": "BR", 
+          "endIdx": 456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 448, 
+          "type": "B", 
+          "endIdx": 456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 448, 
+          "type": "BR", 
+          "endIdx": 448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 448, 
+          "type": "BR", 
+          "endIdx": 448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 447, 
+          "type": "BR", 
+          "endIdx": 447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 447, 
+          "type": "BR", 
+          "endIdx": 447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 376, 
+          "type": "BR", 
+          "endIdx": 376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 376, 
+          "type": "BR", 
+          "endIdx": 376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " About UsAlpine Data Labs is a growing startup in San Francisco focusing on the difficult problem of transforming machine learning and Big Data into business value for our customers.  Alpine’s software is unique with its intuitive flow-based visual programming environment for data science combined with the tools to manage and collaborate across the data lifecycle. Data is doubling every two years – take the lead in making it valuable.  The RoleThe Data Scientist uses the techniques of data mining and machine learning to help Alpine’s customers solve real-world problems.  Our Data Scientists lead client engagements that leverage the power of our analytics platform as well as open-source tools.  They work alongside customers to derive insights and models from large-scale data platforms such as Hadoop and Spark. The Data Science team also collaborates with our product team to design and build new tools and applications,  often focusing on key verticals such as government,  healthcare,  finance and manufacturing.  OpportunitiesScope and design client engagements that deliver compelling predictive analytics solutions.  Apply techniques such as machine learning,  statistical analysis and predictive modeling to deliver business value.  Work closely with the product team to define new product features required for successful customer engagements.  Work with technologies such as Scala,  Spark,  MapReduce,  SQL,  R and Python.  Interact with the broader analytics community including partners,  vendors,  and academia to contribute to and benefit from research in the area of advanced analytics.   We Are Looking For People WithTwo+ years of experience in data science,  analytics or machine learning Experience with statistical packages and applications (such as,  Alpine,  SAS,  SPSS,  STATA,  Matlab,  and R) Experience with relational databases or with distributed computing platforms such as Hadoop or Spark Strong customer interaction,  written &amp; verbal communication,  and troubleshooting skills  Working at Alpine High visibility in a small,  collaborative team Cross-disciplinary interactions with a diverse,  experienced staff Competitive salary with excellent benefits and equity A great office environment (∞ snacks,  drinks,  happy hour on Fridays) Opportunities to contribute to Open Source (e. g. ,  MLLib) Weekly internal tech talks,  monthly public meetups (SF Big Analytics,  SF Machine Learning)  More InformationAlpine’s website News about Alpine Alpine’s vision (video)  "
+    }, 
+    "postalCode": "94101", 
+    "jobState": "LISTED", 
+    "companyName": "Alpine Data Labs", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Advanced Analytics at Enterprise ScaleAlpine Data Labs is the provider of Alpine Chorus - the world’s most comprehensive Advanced Analytics Platform for Big Data and Hadoop.  Leaders in all industries,  from Financial Services to Healthcare,  use our software and services to enable their employees to build,  deploy and consume analytic applications and insights in one collaborative environment. Alpine Chorus' visual programming interface and lightweight deployment process delivers solutions that harness the power of parallel computing platforms and conducts advanced analytics at enterprise scale.  Alpine Chorus is highly accessible and easy to use,  enabling data experts and business analysts alike to work across organizational barriers and collaboratively utilize Advanced Analytics to make critical business decisions.  Find out more at: www. alpinenow. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1445381521000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2220880", 
+    "id": 93658643, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "San Francisco,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93658643?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Falpinedatalabs%2Fdata-scientist%2FaIc4mYbDGr47TGiGakhP3Q%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=fPMT&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 46 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "46d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAOqAAAAJGEzNzJjMGFiLTcyMmEtNDliMi1hZjc5LWJmNjliYmIzMzk0ZQ. png"
+    }, 
+    "localizedDescription": "Advanced Analytics at Enterprise Scale\r\rAlpine Data Labs is the provider of Alpine Chorus - the world’s most comprehensive Advanced Analytics Platform for Big Data and Hadoop.  Leaders in all industries,  from Financial Services to Healthcare,  use our software and services to enable their employees to build,  deploy and consume analytic applications and insights in one collaborative environment. \r\rAlpine Chorus' visual programming interface and lightweight deployment process delivers solutions that harness the power of parallel computing platforms and conducts advanced analytics at enterprise scale.  Alpine Chorus is highly accessible and easy to use,  enabling data experts and business analysts alike to work across organizational barriers and collaboratively utilize Advanced Analytics to make critical business decisions.  \r\rFind out more at: www. alpinenow. com", 
+    "company": {
+      "specialities": [
+        "Big Data Analytics", 
+        "In Database Analytics", 
+        "Hadoop Analytics", 
+        "Data Science", 
+        "Predictive Analytics"
+      ], 
+      "universalName": "alpine-data-labs", 
+      "companyId": 2220880, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAOjAAAAJGU5MTFjZGE5LThiZmQtNDU4Mi04Yzg1LWIxYjNmMWRkYzFjYg. png"
+      }
+    }, 
+    "canonicalName": "Alpine Data Labs", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Computer Software"
+    ]
+  }, 
+  "formattedListDate": "October 20,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,262 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-24789", 
+    "expirationDate": 1451865211000, 
+    "title": "Data Scientist – CTO Group", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1124, 
+          "type": "BR", 
+          "endIdx": 1124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1124, 
+          "type": "BR", 
+          "endIdx": 1124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1022, 
+          "type": "BR", 
+          "endIdx": 1022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1022, 
+          "type": "BR", 
+          "endIdx": 1022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 942, 
+          "type": "BR", 
+          "endIdx": 942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 942, 
+          "type": "BR", 
+          "endIdx": 942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 797, 
+          "type": "BR", 
+          "endIdx": 797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 797, 
+          "type": "BR", 
+          "endIdx": 797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 754, 
+          "type": "BR", 
+          "endIdx": 754, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 754, 
+          "type": "BR", 
+          "endIdx": 754, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "BR", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "BR", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 572, 
+          "type": "BR", 
+          "endIdx": 572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 572, 
+          "type": "BR", 
+          "endIdx": 572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 560, 
+          "type": "U", 
+          "endIdx": 572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 560, 
+          "type": "B", 
+          "endIdx": 572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 560, 
+          "type": "BR", 
+          "endIdx": 560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 560, 
+          "type": "BR", 
+          "endIdx": 560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 412, 
+          "type": "BR", 
+          "endIdx": 412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 412, 
+          "type": "BR", 
+          "endIdx": 412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "BR", 
+          "endIdx": 223, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "BR", 
+          "endIdx": 223, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהWe seek a savvy data scientist to expand our capabilities in general and improve our network management capabilities,  add new ones to our cyber security portfolio and provide insights to our customers' databases. The data scientist will be a key member of the team that is making sure our different analytics products are utilizing state of the art technologies and methodologies and are best in class. In this role you will Work with others to develop,  refine and scale data management and analytics procedures,  systems,  workflows and best practices. דרישות המשרהMSc/ MA in a quantitative field with working knowledge of Computer science –Mandatory (Ph. D.  - an advantage). At least 2 years' experience in the field as a Data Scientist- Mandatory. Statistical modeling experience –Mandatory. Very good knowledge of machine learning algorithms and good knowledge of big data applications- Mandatory. Proficiency with Java and R -Mandatory. Experience in designing and developing solutions for increasing yield-Mandatory. Hands- on experience and interest in working on hands-on level rather than just theoretical-Mandatory. "
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1445011433000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 93012872, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93012872?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F24789%2FData-Scientist-%25e2%2580%2593-CTO-Group&urlHash=Nck_&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Executive", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 50 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "50d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1995, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedListDate": "October 16,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

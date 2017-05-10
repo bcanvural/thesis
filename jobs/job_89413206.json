@@ -1,0 +1,339 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-oADP1fwN", 
+    "expirationDate": 1451779567000, 
+    "title": "Data Analyst,  Pre-sales Solutions - UK", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2882, 
+          "type": "BR", 
+          "endIdx": 2882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2882, 
+          "type": "BR", 
+          "endIdx": 2882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2855, 
+          "type": "LI", 
+          "endIdx": 2882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2794, 
+          "type": "LI", 
+          "endIdx": 2855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2728, 
+          "type": "LI", 
+          "endIdx": 2794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2625, 
+          "type": "LI", 
+          "endIdx": 2728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2504, 
+          "type": "LI", 
+          "endIdx": 2625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2486, 
+          "type": "LI", 
+          "endIdx": 2504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2441, 
+          "type": "LI", 
+          "endIdx": 2486, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2380, 
+          "type": "LI", 
+          "endIdx": 2441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2308, 
+          "type": "LI", 
+          "endIdx": 2380, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2308, 
+          "type": "BG", 
+          "endIdx": 2882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2308, 
+          "type": "BR", 
+          "endIdx": 2308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2294, 
+          "type": "B", 
+          "endIdx": 2308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2294, 
+          "type": "BR", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2294, 
+          "type": "BR", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2217, 
+          "type": "LI", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2107, 
+          "type": "LI", 
+          "endIdx": 2217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1993, 
+          "type": "LI", 
+          "endIdx": 2107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1849, 
+          "type": "LI", 
+          "endIdx": 1993, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1739, 
+          "type": "LI", 
+          "endIdx": 1849, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "LI", 
+          "endIdx": 1739, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "LI", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "BG", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "BR", 
+          "endIdx": 1448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "B", 
+          "endIdx": 1448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "BR", 
+          "endIdx": 1424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "BR", 
+          "endIdx": 1424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 753, 
+          "type": "BR", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 753, 
+          "type": "BR", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 720, 
+          "type": "B", 
+          "endIdx": 753, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 720, 
+          "type": "BR", 
+          "endIdx": 720, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 720, 
+          "type": "BR", 
+          "endIdx": 720, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 205, 
+          "type": "BR", 
+          "endIdx": 205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 205, 
+          "type": "BR", 
+          "endIdx": 205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 193, 
+          "type": "B", 
+          "endIdx": 205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 193, 
+          "type": "BR", 
+          "endIdx": 193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 193, 
+          "type": "BR", 
+          "endIdx": 193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 193, 
+          "type": "B", 
+          "endIdx": 2882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " This role requires that you reside in (or are willing to relocate to) London,  and that you are authorized to work for any UK employer without requiring visa sponsorship of any kind. About LookerLooker is a business intelligence platform that makes it easy for analysts to create and curate custom data experiences—so everyone in the business can explore the data that matters to them,  in the context that makes it truly meaningful.  More than 300 industry leaders trust Looker to unleash the power of their data,  including Yahoo!,  Warby Parker,  Asana,  Instacart,  Docker,  Venmo,  Upworthy,  Gilt and more.  The company is headquartered in Santa Cruz,  California,  with offices in San Francisco,  New York and London. DATA ANALYST,  PRE-SALES SOLUTIONS Looker is seeking a technically savvy Data Solutions Engineer to demonstrate and articulate the value of our products to business and technical prospects,  users and buyers.  In this role,  you will collaborate with the sales and services teams to deliver and continually improve our product demonstrations and trials.  This includes sales scripts,  customer needs discovery,  implementing prototypes,  developing and sharing expertise/training and guiding solution development/deployment.  You will grow to possess breadth and depth of knowledge in data discovery and analysis,  and will help shape the evolution of the product by communicating market needs to the Product team. Responsibilities IncludeDevelop customized presentations,  demonstrations and prototypes of our software to articulate use cases and value to the customerParticipate in selling the value of Looker’s products using multiple channels,  including phone,  presentation,  and live online and in-person product demonstrationsManage customer trials,  ensuring that they are engaging with the product,  the trial and the resulting solutionArticulate and educate on technical and architectural concepts to a variety of audiences,  including developers,  architects,  and IT professionalsRespond to functional and technical elements of RFPs as necessary,  leverage and build upon existing knowledge baseStay up-to-date on product releases and new features,  assist in training new hires and colleagues in the fieldDocument and communicate product feedback and new requirements from the fieldQualifications2+ years of software pre-sales experience,  preferably in Data Analytics A passion for exploring data and extracting valuable insightsProven analysis and problem solving expertiseProficiency in SQLExperience with business intelligence tools with a physical model (e. g. ,  Microstrategy,  Business Objects,  Cognos) a plus. Experience delivering presentations and demonstrations to senior level business and technical audiencesExperience responding to functional and technical elements of RFPsAbility to learn and assimilate technical information quicklyAbility to travel up to 25%"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Looker", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Looker is an inventive software company that’s pioneering the next generation of business intelligence (BI).  We believe that businesses can only thrive when data is consistently defined and easily accessible across the entire organization.  Our web-based platform powers the work of data analysts while fueling (and fulfilling) the business user’s curiosity.  Looker is creating true discovery-driven businesses and unlocking the value of their data,  one customer at a time. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "SALE", 
+      "IT"
+    ], 
+    "listDate": 1443684633000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2663015", 
+    "id": 89413206, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/89413206?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3Dq2P9VfwF%26j%3DoADP1fwN%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=xuo3&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Sales", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 65 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "65d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAa4AAAAJDViZjIwNjlmLTE2OTgtNGM5Ni05OGY4LThkYzAyNGYwNDI4OQ. png"
+    }, 
+    "localizedDescription": "Looker is an inventive software company that’s pioneering the next generation of business intelligence (BI).  We believe that businesses can only thrive when data is consistently defined and easily accessible across the entire organization.  \r\rOur web-based platform powers the work of data analysts while fueling (and fulfilling) the business user’s curiosity.  Looker is creating true discovery-driven businesses and unlocking the value of their data,  one customer at a time. ", 
+    "company": {
+      "specialities": [
+        "business intelligence", 
+        "analytics", 
+        "data discovery"
+      ], 
+      "universalName": "looker", 
+      "companyId": 2663015, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAZuAAAAJDk3NjcwNWI0LTRjOTUtNGRjMC05MDBhLWQ2NDkxZGU3NzlmNA. png"
+      }
+    }, 
+    "canonicalName": "Looker", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Computer Software"
+    ]
+  }, 
+  "formattedListDate": "October 1,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

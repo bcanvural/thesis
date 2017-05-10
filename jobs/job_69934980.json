@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/69934980", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "MathWorks® is the leading developer of mathematical computing software.  Engineers and scientists worldwide rely on its products to accelerate the pace of discovery,  innovation,  and development.   MATLAB®,  the language of technical computing,  is a programming environment for algorithm development,  data analysis,  visualization,  and numeric computation.  Simulink® is a graphical environment for simulation and Model-Based Design of multidomain dynamic and embedded systems.  The company produces nearly 100 additional products for specialized tasks such as data analysis and image processing. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "The MathWorks", 
+  "canFollow": false, 
+  "companyId": "1194036", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "The MathWorks", 
+    "title": "Big Data / Distributed Array Software Developer"
+  }, 
+  "description": "We are seeking a talented,  self-motivated and self-directed software engineer to work on highly parallel algorithms for technical computing.   You will be responsible for expanding and improving our parallel algorithmic capabilities that take advantage of cluster hardware and distributed computer systems.   This challenging area requires knowledge of both highly parallel compute architectures and distributed computing systems.  It also requires the ability to design simple but robust APIs for end-users to interact with the architectures,  algorithms and data.   This position requires excellent object-oriented design and programming skills,  strong inter-personal and communication skills,  and significant parallel algorithm implementation experience.  The team you will be joining is responsible for all aspects of the Parallel Computing Toolbox.      Responsibilities Build new parallel algorithms for our products,  used in both big data and PGAS systems Design and implement wide-ranging performance optimizations Make high performance computing architectures available via simple MATLAB APIs Work with a team focused on providing multi-process capabilities in MATLAB Work with other teams to add these capabilities to MATLAB Toolboxes Participate in all team activities such as planning,  design discussions and reviews   Minimum Qualifications A bachelor's degree and 3 years of professional work experience (or a master's degree) is required.    Additional Qualifications Excellent object-oriented design and programming skills in C++ Demonstrated experience in writing distributed and/or parallel algorithms Strong written and communication skills Experience working in MATLAB would be a significant benefit Experience with sparse or full distributed libraries such as ScaLAPACK / SuperLU / PETSc / Cluster PARDISO would be a significant benefit"
+}

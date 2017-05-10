@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/83971013", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "We expect •           MSc in Engineering,  Computer Science,  Operations Research,  or in a related field •           Programming expertise in Java and Python; preferably Scala,  R,  Mahout •           Understanding data and solution quality •           Unix/Linux expertise •           Experience with MapReduce programming •           Knowledge of ETL and ETL workflows and common ETL packages •           Knowledge of log aggregation frameworks such as Apache Flume or Kafka •           Data visualisation in R,  JavaScript libraries such as d3. js,  or similar tools •           Experience in production of Hadoop data flows into corporate-level use •           Experience with configuration management and deployment tools •           Good oral and written communication skills", 
+  "following": false, 
+  "companyDescription": "Astbury Marsden is an award-winning,  international recruitment firm delivering mid to senior level talent to financial services,  energy and business services clients.  With offices in London and Singapore we cover roles across Europe and Asia.   Astbury Marsden focuses on: Business Technology,  Business Transformation,  Regulatory &amp; Assurance and Specialist &amp; Technical Services.   You can find more out at www. astburymarsden. com", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Astbury Marsden", 
+  "canFollow": false, 
+  "companyId": "19239", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Astbury Marsden", 
+    "title": "Big Data Engineer (Hadoop / MapReduce / Python / Java) "
+  }, 
+  "description": "My Client is one of the leading Media groups in Europe.  Based in Amsterdam,  they use a centralized content repository to store all its content and make it available for users and new products.  The platform uses NLP,  image recognition and search technology to make the content accessible and (re)usable.  To further extend this platform,  they are looking for a Big Data Engineer.    The Big Data Engineer makes data available for a multitude of analytics,  modelling and visualisation purposes and enables their integration with other data sources.  Together with other developers in the scrum team it takes responsibility for developing smart solutions that power the next generation consumer solutions.    Responsibilities: •           Create,  run and debug Hadoop jobs •           Execute business requirements; aggregate,  normalise data,  build the single customer profile •           Manage the input and output of consumer data from and to relational databases •           Provide technical assistance by responding to inquiries regarding errors,  problems,  or technical questions •           Provide user training,  support and feedback,  document procedures •           Visualise data for the use of analysts and business users  "
+}

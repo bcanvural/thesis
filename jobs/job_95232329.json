@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/95232329", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Founded in 2003,  LinkedIn connects the world's professionals to make them more productive and successful.  With more than 364 million members worldwide,  including executives from every Fortune 500 company,  LinkedIn is the world's largest professional network on the Internet.  The company has a diversified business model with revenue coming from Talent Solutions,  Marketing Solutions and Premium Subscriptions products.  Headquartered in Silicon Valley,  LinkedIn has offices across the globe. LinkedIn is committed to diversity in its workforce and is proud to be an equal opportunity employer.  LinkedIn considers qualified applicants without regard to race,  color,  religion,  gender,  national origin,  age,  disability,  veteran status,  marital status,  pregnancy,  gender expression or identity,  sexual orientation,  or any other legally protected status.  LinkedIn is an Affirmative Action and Equal Opportunity Employer.   Please reference http://www1. eeoc. gov/employers/upload/eeoc_self_print_poster. pdf for more information. If you believe you need a reasonable accommodation to search for a job opening or to apply for a position,  please contact us by sending an email to accommodations@linkedin. com. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "LinkedIn", 
+  "canFollow": false, 
+  "companyId": "1337", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "LinkedIn", 
+    "title": "Security Data Scientist Intern"
+  }, 
+  "description": "When bad guys come to do their dirty work on LinkedIn,  the Anti-Abuse Team is there to fight them.   Our team of data scientists and engineers build data-driven models that run at massive scale to detect fraud and abuse and stop it before it happens. We are looking for a great data scientist [intern] to join our team.   The ideal candidate will have experience in predictive modeling and understands how to turn data into action.   The work you do will directly impact LinkedIn’s user experience and will make our platform a safer place for all. Responsibilities:-­ Design and implement automated models to detect and prevent fraud and abuse across the LinkedIn ecosystem. - Work with BIG data,  crunching millions of samples to understanding threats and suspicious activity on LinkedIn. Basic Qualifications: - B. A. /B. S.  Degree or higher in Computer Science,  Machine Learning or related technical field,  or equivalent practical experience. -­ Experience in a programming language of your choice: C++,  Java,  Python,  Ruby,  etc. -­ Experience in at least one statistical analysis tool such as R,  Stata,  Weka,  Matlab,  or SciPy. -­ Experience working with large datasets,  preferably using tools like SQL,  MapReduce,  Pig,  Hive,  or Spark. Preferred Qualifications: -­ Masters or Ph. D.  [student] in a technical field. -­ Strong background in machine learning,  statistics,  information retrieval,  or graph analysis. -­ Strong hands-­on hands-­on analytic experience,  preferably in predictive modeling or automated decisions. - Ability to clearly communicate complex scientific and technical subjects. "
+}

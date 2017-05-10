@@ -1,0 +1,1306 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ihg-1139013", 
+    "expirationDate": 1451838019000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 7721, 
+          "type": "BR", 
+          "endIdx": 7721, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7721, 
+          "type": "BR", 
+          "endIdx": 7721, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7702, 
+          "type": "B", 
+          "endIdx": 7716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7584, 
+          "type": "BR", 
+          "endIdx": 7584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7584, 
+          "type": "BR", 
+          "endIdx": 7584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7583, 
+          "type": "BR", 
+          "endIdx": 7583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7583, 
+          "type": "BR", 
+          "endIdx": 7583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7368, 
+          "type": "BR", 
+          "endIdx": 7368, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7368, 
+          "type": "BR", 
+          "endIdx": 7368, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7367, 
+          "type": "BR", 
+          "endIdx": 7367, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7367, 
+          "type": "BR", 
+          "endIdx": 7367, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7216, 
+          "type": "BR", 
+          "endIdx": 7216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7216, 
+          "type": "BR", 
+          "endIdx": 7216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6955, 
+          "type": "BR", 
+          "endIdx": 6955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6955, 
+          "type": "BR", 
+          "endIdx": 6955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6867, 
+          "type": "BR", 
+          "endIdx": 6867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6867, 
+          "type": "BR", 
+          "endIdx": 6867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6683, 
+          "type": "BR", 
+          "endIdx": 6683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6683, 
+          "type": "BR", 
+          "endIdx": 6683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6464, 
+          "type": "BR", 
+          "endIdx": 6464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6464, 
+          "type": "BR", 
+          "endIdx": 6464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6299, 
+          "type": "BR", 
+          "endIdx": 6299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6299, 
+          "type": "BR", 
+          "endIdx": 6299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6062, 
+          "type": "BR", 
+          "endIdx": 6062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6062, 
+          "type": "BR", 
+          "endIdx": 6062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5996, 
+          "type": "BR", 
+          "endIdx": 5996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5996, 
+          "type": "BR", 
+          "endIdx": 5996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5996, 
+          "type": "BR", 
+          "endIdx": 5996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5996, 
+          "type": "BR", 
+          "endIdx": 5996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5966, 
+          "type": "B", 
+          "endIdx": 5996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5966, 
+          "type": "BR", 
+          "endIdx": 5966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5966, 
+          "type": "BR", 
+          "endIdx": 5966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5965, 
+          "type": "BR", 
+          "endIdx": 5965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5965, 
+          "type": "BR", 
+          "endIdx": 5965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5814, 
+          "type": "BR", 
+          "endIdx": 5814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5814, 
+          "type": "BR", 
+          "endIdx": 5814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5813, 
+          "type": "BR", 
+          "endIdx": 5813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5813, 
+          "type": "BR", 
+          "endIdx": 5813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5376, 
+          "type": "BR", 
+          "endIdx": 5376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5376, 
+          "type": "BR", 
+          "endIdx": 5376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5376, 
+          "type": "BR", 
+          "endIdx": 5376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5376, 
+          "type": "BR", 
+          "endIdx": 5376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5366, 
+          "type": "B", 
+          "endIdx": 5376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5366, 
+          "type": "BR", 
+          "endIdx": 5366, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5366, 
+          "type": "BR", 
+          "endIdx": 5366, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5365, 
+          "type": "BR", 
+          "endIdx": 5365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5365, 
+          "type": "BR", 
+          "endIdx": 5365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5184, 
+          "type": "BR", 
+          "endIdx": 5184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5184, 
+          "type": "BR", 
+          "endIdx": 5184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5184, 
+          "type": "BR", 
+          "endIdx": 5184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5184, 
+          "type": "BR", 
+          "endIdx": 5184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5175, 
+          "type": "B", 
+          "endIdx": 5184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5175, 
+          "type": "BR", 
+          "endIdx": 5175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5175, 
+          "type": "BR", 
+          "endIdx": 5175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5174, 
+          "type": "BR", 
+          "endIdx": 5174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5174, 
+          "type": "BR", 
+          "endIdx": 5174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5174, 
+          "type": "BR", 
+          "endIdx": 5174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5174, 
+          "type": "BR", 
+          "endIdx": 5174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5128, 
+          "type": "B", 
+          "endIdx": 5174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5128, 
+          "type": "BR", 
+          "endIdx": 5128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5128, 
+          "type": "BR", 
+          "endIdx": 5128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5103, 
+          "type": "BR", 
+          "endIdx": 5103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5103, 
+          "type": "BR", 
+          "endIdx": 5103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5069, 
+          "type": "BR", 
+          "endIdx": 5069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5069, 
+          "type": "BR", 
+          "endIdx": 5069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5053, 
+          "type": "B", 
+          "endIdx": 5069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5053, 
+          "type": "BR", 
+          "endIdx": 5053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5053, 
+          "type": "BR", 
+          "endIdx": 5053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5045, 
+          "type": "BR", 
+          "endIdx": 5045, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5045, 
+          "type": "BR", 
+          "endIdx": 5045, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5042, 
+          "type": "B", 
+          "endIdx": 5045, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5042, 
+          "type": "BR", 
+          "endIdx": 5042, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5042, 
+          "type": "BR", 
+          "endIdx": 5042, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4851, 
+          "type": "BR", 
+          "endIdx": 4851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4851, 
+          "type": "BR", 
+          "endIdx": 4851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4851, 
+          "type": "BR", 
+          "endIdx": 4851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4851, 
+          "type": "BR", 
+          "endIdx": 4851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4835, 
+          "type": "B", 
+          "endIdx": 4851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4835, 
+          "type": "BR", 
+          "endIdx": 4835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4835, 
+          "type": "BR", 
+          "endIdx": 4835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4834, 
+          "type": "BR", 
+          "endIdx": 4834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4834, 
+          "type": "BR", 
+          "endIdx": 4834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4704, 
+          "type": "BR", 
+          "endIdx": 4704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4704, 
+          "type": "BR", 
+          "endIdx": 4704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4704, 
+          "type": "BR", 
+          "endIdx": 4704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4704, 
+          "type": "BR", 
+          "endIdx": 4704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4678, 
+          "type": "B", 
+          "endIdx": 4704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4678, 
+          "type": "BR", 
+          "endIdx": 4678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4678, 
+          "type": "BR", 
+          "endIdx": 4678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4677, 
+          "type": "BR", 
+          "endIdx": 4677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4677, 
+          "type": "BR", 
+          "endIdx": 4677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4540, 
+          "type": "BR", 
+          "endIdx": 4540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4540, 
+          "type": "BR", 
+          "endIdx": 4540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4370, 
+          "type": "BR", 
+          "endIdx": 4370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4370, 
+          "type": "BR", 
+          "endIdx": 4370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4121, 
+          "type": "BR", 
+          "endIdx": 4121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4121, 
+          "type": "BR", 
+          "endIdx": 4121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4121, 
+          "type": "BR", 
+          "endIdx": 4121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4121, 
+          "type": "BR", 
+          "endIdx": 4121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4095, 
+          "type": "B", 
+          "endIdx": 4121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4095, 
+          "type": "BR", 
+          "endIdx": 4095, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4095, 
+          "type": "BR", 
+          "endIdx": 4095, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4094, 
+          "type": "BR", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4094, 
+          "type": "BR", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4094, 
+          "type": "BR", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4094, 
+          "type": "BR", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4077, 
+          "type": "B", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4077, 
+          "type": "BR", 
+          "endIdx": 4077, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4077, 
+          "type": "BR", 
+          "endIdx": 4077, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4076, 
+          "type": "BR", 
+          "endIdx": 4076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4076, 
+          "type": "BR", 
+          "endIdx": 4076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3916, 
+          "type": "BR", 
+          "endIdx": 3916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3916, 
+          "type": "BR", 
+          "endIdx": 3916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3811, 
+          "type": "BR", 
+          "endIdx": 3811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3811, 
+          "type": "BR", 
+          "endIdx": 3811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3624, 
+          "type": "BR", 
+          "endIdx": 3624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3624, 
+          "type": "BR", 
+          "endIdx": 3624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3499, 
+          "type": "BR", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3499, 
+          "type": "BR", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3499, 
+          "type": "BR", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3499, 
+          "type": "BR", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3467, 
+          "type": "B", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3467, 
+          "type": "BR", 
+          "endIdx": 3467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3467, 
+          "type": "BR", 
+          "endIdx": 3467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3466, 
+          "type": "BR", 
+          "endIdx": 3466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3466, 
+          "type": "BR", 
+          "endIdx": 3466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3422, 
+          "type": "B", 
+          "endIdx": 3464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3422, 
+          "type": "BR", 
+          "endIdx": 3422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3422, 
+          "type": "BR", 
+          "endIdx": 3422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3421, 
+          "type": "BR", 
+          "endIdx": 3421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3421, 
+          "type": "BR", 
+          "endIdx": 3421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3411, 
+          "type": "BR", 
+          "endIdx": 3411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3411, 
+          "type": "BR", 
+          "endIdx": 3411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3401, 
+          "type": "BR", 
+          "endIdx": 3401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3401, 
+          "type": "BR", 
+          "endIdx": 3401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3401, 
+          "type": "BR", 
+          "endIdx": 3401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3401, 
+          "type": "BR", 
+          "endIdx": 3401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3371, 
+          "type": "B", 
+          "endIdx": 3401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3371, 
+          "type": "BR", 
+          "endIdx": 3371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3371, 
+          "type": "BR", 
+          "endIdx": 3371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3370, 
+          "type": "BR", 
+          "endIdx": 3370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3370, 
+          "type": "BR", 
+          "endIdx": 3370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3370, 
+          "type": "BR", 
+          "endIdx": 3370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3370, 
+          "type": "BR", 
+          "endIdx": 3370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3356, 
+          "type": "B", 
+          "endIdx": 3370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3356, 
+          "type": "BR", 
+          "endIdx": 3356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3356, 
+          "type": "BR", 
+          "endIdx": 3356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3355, 
+          "type": "BR", 
+          "endIdx": 3355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3355, 
+          "type": "BR", 
+          "endIdx": 3355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3175, 
+          "type": "BR", 
+          "endIdx": 3175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3175, 
+          "type": "BR", 
+          "endIdx": 3175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2996, 
+          "type": "BR", 
+          "endIdx": 2996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2996, 
+          "type": "BR", 
+          "endIdx": 2996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2755, 
+          "type": "BR", 
+          "endIdx": 2755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2755, 
+          "type": "BR", 
+          "endIdx": 2755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2603, 
+          "type": "BR", 
+          "endIdx": 2603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2603, 
+          "type": "BR", 
+          "endIdx": 2603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2521, 
+          "type": "BR", 
+          "endIdx": 2521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2521, 
+          "type": "BR", 
+          "endIdx": 2521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2296, 
+          "type": "BR", 
+          "endIdx": 2296, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2296, 
+          "type": "BR", 
+          "endIdx": 2296, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2132, 
+          "type": "BR", 
+          "endIdx": 2132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2132, 
+          "type": "BR", 
+          "endIdx": 2132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1941, 
+          "type": "BR", 
+          "endIdx": 1941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1941, 
+          "type": "BR", 
+          "endIdx": 1941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1574, 
+          "type": "BR", 
+          "endIdx": 1574, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1574, 
+          "type": "BR", 
+          "endIdx": 1574, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1415, 
+          "type": "BR", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1415, 
+          "type": "BR", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1415, 
+          "type": "BR", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "BR", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "B", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "BR", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "BR", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "BR", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "BR", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "B", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "BR", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "BR", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1376, 
+          "type": "BR", 
+          "endIdx": 1376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1376, 
+          "type": "BR", 
+          "endIdx": 1376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 430, 
+          "type": "BR", 
+          "endIdx": 430, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 430, 
+          "type": "BR", 
+          "endIdx": 430, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 418, 
+          "type": "B", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 418, 
+          "type": "BR", 
+          "endIdx": 418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 418, 
+          "type": "BR", 
+          "endIdx": 418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "BR", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "BR", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 55, 
+          "type": "B", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 37, 
+          "type": "B", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Do you see yourself as a Data Scientist at IHG? What's your passion? Whether you're into tennis,  shopping or karaoke,  at IHG we're interested in YOU.  IHG employs people who apply the same amount of care and passion to their jobs as they do their hobbies - people who put our guests at the heart of everything they do.  And we're looking for more people like this to join our friendly and professional team.  Job Summary Work as part of a team of analysts providing analytical support related to brand and commercial management,  direct marketing and mass marketing campaigns,  and analysis of consumer behavior and response.  Guide the Region in the set-up and use of the programmatic ecosystem and marketing problem solving.   Engage stakeholders in the planning,  reporting and analysis of the DMP,  DSP,  and global brand marketing strategies.   Support the data management platform manager,  our Adobe partnership,  and media agency relationships.   Support or initiate projects to address strategic and tactical marketing issues for Distribution &amp; Commercial Marketing.   Create recommendations on various projects and initiatives through the modeling of customer,  company,  and industry data sets.  Interpret and explain technical findings to business stakeholders in practical non-technical language.  Work well independently,  as part of a team,  and as leader of a team.  Essential Duties And Responsibilities ·         Collaborate with the DMP manager to identify and classify key audience segments and create custom audience segments utilizing 1st and 3rd party data. ·         Develop measurement methodologies and audience segment reporting to drive effective targeting and monetization. ·         Use campaign management (Adobe Audience Manager),  data mining software,  forecasting models and statistical/computational models to achieve analytical objectives such as maximizing response and the guest experience while minimizing cost. ·         Analyze results of various testing initiatives in frequency and non-frequency applications,  A/B Testing,  etc and make actionable recommendations for campaign management as a result. ·         Consult with relevant business functional areas (Marketing,  Sales,  Revenue Management,  Operations,  and Digital) to establish analytical support objectives·         Design complex performance tracking methods for relevant programs and initiatives and create reporting that maintains alignment with regional and global brand efforts during the pre,  mid and post campaign timeframe. ·         Evaluate performance to devise best practices / optimization strategies. ·         Make recommendations for enhancements to relevant databases from an information needs perspective including internal and external data sources·         Assist managers on the development of content for formal Analytical Skills training courses and/or lead and review the work of less experienced staff by providing mentoring,  technical guidance and/or training in daily activities.  . ·         Develop presentations to management inside or outside the department in order to report findings,  interpret the data analysis,  and make recommendations based on results. ·         Support the broader Distribution &amp; Commercial Marketing strategy with expertise,  mentoring and ad-hoc project support for key Regional or Global strategic initiatives Accountability Number of employees supervisedDirect 0  Indirect 0 Annual operating and/or payroll budget(s): $ Decision making responsibilities·         Identify and implement appropriate analytic methods to derive relevant insights and support management initiatives. ·         This position is responsible for the development of statistical quantitative measurements and methodology based on operational and program structure issues for various programs. ·         This position impacts recommendations to management based on results from statistical analysis. ·         Decisions or recommendations,  or failure to complete projects could result in delays with considerable expenditure of time,  human resources or funds.   Key Relationships Internal Key Relationships·         Regional and Global Marketing Senior Management/GBS Management in order to provide effective communication and consultation with analytical techniques with the objective to improve decision making and achieve respective business objectives·         Enterprise data governance group / Business Intelligence and Data Management to stay current with enterprise data requirements and make recommendations for same·         Analysts in other Regional or Global departments to align with reporting methodologies,  metrics definitions,  and best practices External Key RelationshipsConsultants at various universities (Ga-Tech,  NYU,  Emory) and various professional organizations to keep current in the discipline Work EnvironmentWork is performed in a normal office environment.  Some travel is required to interact with other global specialist colleagues in Programmatic Marketing and/or the broader analytics community. JobStrategyPrimary LocationEUROPE_UK&amp;I-England-BKM-DenhamDec 10,  2015,  11:59:00 PMRequired qualifications,  experience and skills EducationMBA,  MA or MS degree in business,  economics,  or statistics with emphasis on multivariate quantitative methods,  or an equivalent combination of education and work related experience.  ExperienceThe ideal candidate will have 5+ years progressive work experience,  with an emphasis on business and marketing analysis and data mining.   They will have experience of programmatic marketing including working with DMPs,  DSPs and Ad Exchanges alongside a broader understanding of the digital marketing landscape including display,  mobile,  video and email.   Knowledge of Adobe Audience Manager and related analytics platforms is essential.   Preference will be given to those with demonstrated expertise in the relevant business areas supported,  and demonstrated ability to lead project teams.  Technical Skills and Knowledge·         Knowledge and demonstrated use of Adobe Audience Manager·         Knowledge and demonstrated use of statistical and database software (preferably SAS and SQL) and application of multivariate methods (e. g.  regression,  factor analysis,  discriminant analysis,  cluster analysis,  conjoint analysis)·         Demonstrated proficiency in developing queries in order to transform data from relational and flat-file database structures including parsing and cleansing·         Experience in conducting quantitative marketing analyses including some or all of the following: market segmentation,  product positioning,  perceptual mapping,  product pricing,  concept testing and market sizing·         Demonstrated knowledge of statistical techniques for promotion design,  post promotion analysis and response modeling (e. g.  design of experiments,  ANOVA,  and logit regression)·         Demonstrated familiarity with financial concepts: ROI,  NPV,  pro forma modeling·         Excellent communication skills,  both oral and written,  and proficiency with MS Word and PowerPoint for the purpose of translating technical and statistical information into actionable business insights for clients,  vendors,  senior management and staff·         Demonstrated project management experience in organizing,  planning and executing large-scale projects from conception through implementation.  In return we'll give you a competitive financial and benefits package including hotel discounts worldwide and the chance to work with a great team of people.  Most importantly,  we'll give you the room to be yourself.  So what's your passion? Please get in touch and tell us how you could bring your individual skills to IHG by clicking 'Apply Online' now!"
+    }, 
+    "postalCode": "UB9", 
+    "jobState": "LISTED", 
+    "companyName": "InterContinental Hotels Group (IHG®)", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are one of the world’s leading hotel companies.  Present in nearly 100 countries,  we have 168 million guests staying in 727, 000 rooms in over 4, 900 hotels per year. You’ll know our hotel brands.  They are some of the best known and most popular in the world - InterContinental® Hotels &amp; Resorts,  Holiday Inn®,  Holiday Inn Express®,  Crowne Plaza® Hotels &amp; Resorts,  Hotel Indigo®,  Staybridge Suites®,  Candlewood Suites®,  EVEN Hotels® and HUALUXE® Hotels and Resorts. All of these brands work together towards our goals of creating Great Hotels Guests Love®.  This is a mission that’s seen us go from strength to strength – with more rooms in an ever-growing portfolio of hotels across more and more locations.  Which makes this an incredibly exciting time to become part of the team. Join us and not only can you benefit from the world of variety and opportunity that comes with working for a global organisation,  you can also look forward to being part of a company that will appreciate you for being you. We don’t expect stereotypes.  We don’t want people to conform.  We just want all of you at IHG®.  So bring us your individual passions and ambitions,  and we’ll support you to achieve your goals,  and give you the rewards and benefits you deserve.  To find out more,  go to careers. ihg. comwww. ihgplc. comwww. youtube. com/ihgplcwww. twitter. com/ihgplcwww. twitter. com/JoinIHGwww. facebook. com/IHGCareers"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447286634000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3549", 
+    "id": 98438159, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Denham,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Hospitality"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "InterContinental Hotels Group (IHG®)", 
+    "company": {
+      "specialities": [
+        "Hotels", 
+        "Resorts", 
+        "Hospitality", 
+        "Food & Beverage"
+      ], 
+      "universalName": "intercontinental-hotels-group", 
+      "companyId": 3549, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/05d/2d2/2dbef5d. png"
+      }
+    }, 
+    "foundedYear": 2003, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAANlAAAAJDkyMWU2MDA5LTMyZmUtNDQxMC1iMjY3LTZlMGI0ZjI2MzgyNA. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAATfAAAAJDUxZGVkNjM1LTY1MWItNDU3MS1iODlmLWJlYTI2NWQ0NWQ5Zg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAANlAAAAJDkyMWU2MDA5LTMyZmUtNDQxMC1iMjY3LTZlMGI0ZjI2MzgyNA. png", 
+    "localizedDescription": "We are one of the world’s leading hotel companies.  Present in nearly 100 countries,  we have 168 million guests staying in 727, 000 rooms in over 4, 900 hotels per year. \r\rYou’ll know our hotel brands.  They are some of the best known and most popular in the world - InterContinental® Hotels & Resorts,  Holiday Inn®,  Holiday Inn Express®,  Crowne Plaza® Hotels & Resorts,  Hotel Indigo®,  Staybridge Suites®,  Candlewood Suites®,  EVEN Hotels® and HUALUXE® Hotels and Resorts. \r\rAll of these brands work together towards our goals of creating Great Hotels Guests Love®.  This is a mission that’s seen us go from strength to strength – with more rooms in an ever-growing portfolio of hotels across more and more locations.  Which makes this an incredibly exciting time to become part of the team. \r\rJoin us and not only can you benefit from the world of variety and opportunity that comes with working for a global organisation,  you can also look forward to being part of a company that will appreciate you for being you. \r\rWe don’t expect stereotypes.  We don’t want people to conform.  We just want all of you at IHG®.  So bring us your individual passions and ambitions,  and we’ll support you to achieve your goals,  and give you the rewards and benefits you deserve.  To find out more,  go to careers. ihg. com\r\rwww. ihgplc. com\rwww. youtube. com/ihgplc\rwww. twitter. com/ihgplc\rwww. twitter. com/JoinIHG\rwww. facebook. com/IHGCareers"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Hospitality"
+  ], 
+  "formattedPostedDaysAgo": "Posted 24 days ago", 
+  "formattedPostedDaysAgoSlim": "24 days ago", 
+  "formattedPostedDaysAgoShort": "24d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98438159?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fihg. taleo. net%2Fcareersection%2Fall%2Fjobdetail. ftl%3Fjob%3DR114803%26lang%3Den&urlHash=sqnZ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

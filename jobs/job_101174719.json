@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Client Server", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "clientserver-linux-systems-administrator-cloud-big-data-linux", 
+    "title": "Linux Systems Administrator - Cloud Big Data Linux", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101174719, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. client-server. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAYeAAAAJDUwODcxYzM5LTFlOGMtNDEyZC05YTc5LWNkMWU5NTczOTJhYw. png", 
+    "universalName": "client-server", 
+    "companyId": 99339
+  }, 
+  "description": "    2327    London,  £30000 - £40000 per annum + benefits    Job Type: Permanent    Managed by: Application Support Team    Linux Systems Administrator / Operations Systems Analyst (Shell Python    Perl Linux CI Cloud AWS).  Media software organisation with a start-up    feel is seeking a multi-skilled Linux Systems Administrator to ensure    that all elements of a high performance,  data intensive back-end system    can be built,  tested,  monitored and scaled.     As a Linux Systems Administrator you will utilise continuous    integration to control all elements of manufacturing build packages for    the platform,  alongside taking ownership of all advanced cloud    management which includes automated scaling up and down,  security,     cross-region deployment and responsible budgeting for the most    cost-effective solutions.     This is an excellent opportunity for an experienced Linux Systems    Administrator to undertake a culmination of challenging roles within a    relaxed,  informal environment,  located in the very heart of Central    London.     Requirements For a Linux Systems Administrator       Comprehensive Linux distros experience (Ideally Ubuntu)       Track record in a cloud supporting infrastructure with a wide range        of servers       Strong Shell scripting knowledge as well as an ability to use more        complicated languages such as Python or Perl       Extensive knowledge of security practises with an ability to        implement them with a team       Excellent interpersonal and communicative skills       Highly motivated and a proven self-starter     As a Linux Systems Administrator you can expect to earn a competitive    salary (to £40k) plus a benefits package.     Send your CV or call today for more information regarding this Linux    Systems Administrator position.     REF: BB/8143/A/JY/251115", 
+  "companyDescription": "      Client Server    Client Server Ltd is a leading IT recruitment consultancy specialising    in positions in London and the South East.     Our focus is finding exceptional candidates for exceptional    organisations including established technology leaders,  innovative    technology start-ups,  hedge funds,  banks and consultancies.  Offering a    personal and flexible approach,  coupled with a high degree of    professionalism and integrity ensures the provision of an effective    recruitment solution to both our client companies and candidates. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

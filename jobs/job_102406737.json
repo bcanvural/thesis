@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Palo Alto Networks", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "jobvite_3-paloaltonetworks-owD81fw2", 
+    "title": "Data Scientist - Big Data & Cloud - 6566", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102406737, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      118
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. paloaltonetworks. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWDAAAAJDFjZTFkNTAyLTc0ZDMtNGEyYS1hZmI2LWI2M2I0MDA3ZDk3Yw. png", 
+    "universalName": "palo-alto-networks", 
+    "companyId": 30086
+  }, 
+  "description": "     Description    Palo Alto Networks is the fastest-growing company in Silicon Valley,     and a four-time Gartner Group Magic Quadrant winner for innovation and    the ability to execute,  Palo Alto Networks has also been named a “best    place to work” by the Silicon Valley Business Journal.  A fun and    dynamic culture,  we offer unprecedented career and financial growth    potential,  thanks to our game-changing security platform,  along with    the chance to be part of the very important mission: to prevent cyber    breaches and protect our digital way of life.     Responsibilities    • Responsible for the overall data quality of our next-generation web    content categorization,  covering 100M+ domains and 20+ languages    This Includes,  But It Is Not Limited To    • Feature engineering and modeling for web content classification    • Data quality monitoring and active management of the data published    • Ongoing improvements in the underling models as well as    classification and heuristic technologies    • Work closely with a team of Software Engineers to design and deploy    the system on a highly scalable distributed system    Requirements    • 2+ years’ experience with Machine Learning and Data Mining    • Strong working knowledge of machine learning algorithms that may    include Naïve Bayes,  Decision Trees,  SVM,  Logistic Regression,     Classification,  and Boosting    • Experience in Data Mining/Information Retrieval with large data    • Strong problem solving skills,  ability to analyze complex    multivariate problems and use a systematic approach to gain quick    resolution    • MS (PhD is a plus) degree in Computer Science,  Statistics,  or related    field    • Experience in web content classification or machine learned ranking    is a plus    • Excellent communication (written and verbal) and presentation skills", 
+  "companyDescription": "      Palo Alto Networks    Palo Alto Networks is the next-generation security company,  leading a    new era in cybersecurity by safely enabling applications and preventing    cyber breaches for thousands of organizations worldwide.  Built with an    innovative approach and highly differentiated cyber threat prevention    capabilities,  our game-changing security platform delivers security far    superior to legacy or point products,  safely enables daily business    operations,  and protects an organization’s most valuable assets.  Find    out more at www. paloaltonetworks. com. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

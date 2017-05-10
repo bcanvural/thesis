@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": null, 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89064873", 
+  "descriptionLanguage": "en", 
+  "description": "Why is our Data Transformation team the next step for you?Based in the centre of the City and working from our stunning global head office,  Worldpay's Data Transformation team has put data at the centre of the business.  At the heart of this is our large Hadoop based Enterprise Data Platform that will be used to provide data insights both to our internal teams and our customers. How will you add value on a day-today basis?You will be a key member of the data transformation team working on our new data platform.  The Enterprise Data Platform is an innovative use of 'Big Data' technologies to provide powerful analytic capabilities for Worldpay.  A key task of this role is to load data from multiple operational systems into our Data Lake,  and to combine this data in ways that were not possible before.  Much of the data is highly structured while some has the flexible characteristics more typical of 'big data'.  Because of the large amount of structured data we use Hive QL (essentially SQL) as well as Hadoop's inbuilt data loading tools for much of the processing. This is a great opportunity to gain skills in the Hortonworks Data Platform and related tools in an innovative and passionate environment. What will make you the ideal candidate?Extensive knowledge of standard SQL (SQL-92) gained using large scale database systems such as Netezza,  DB2,  Sybase or Oracle is key to this role.  You will have experience of data loading,  either scripting or using ETL technologies,  in particular we would like to see evidence of development experience in an environment using strict source-code control and release procedures.  Existing hands on experience with Big Data technologies like Apache Hadoop,  MapReduce,  HDFS,  Hive,  Pig,  Sqoop and NoSQL databases,  Hbase and related standards and technologies is advantageous. You will have the ability and willingness to create and maintain concise,  accurate,  readable,  relevant documentation on our wiki (we use Confluence; knowledge of other source code control systems will be useful),  along with a good understanding of UNIX systems,  especially Linux and you will also have the ability to develop reliable,  maintainable,  efficient code in most of SQL,  Linux shell,  Java and Python. How is Worldpay changing the world?We are leaders in modern money.  Each and every time you use your debit card or credit card to pay for something,  whether online or face-to-face,  there's a good chance it happened because of us.  On an annual basis our innovations,  systems and technology enable billions of money transactions globally.  Working with customers large and small,  we help them to take your payments quickly,  safely and reliably,  allowing them to grow their businesses and making your life more convenient in the process.  As a leader in global fintech and the largest London IPO since 2011,  this is a great time to join us in building for the next phase of the Worldpay journey. ", 
+  "jobPosting": {
+    "title": "Big Data Developer", 
+    "companyName": "Worldpay"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "260387", 
+  "canFollow": false, 
+  "companyName": "Worldpay", 
+  "bottom": "true"
+}

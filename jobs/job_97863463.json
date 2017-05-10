@@ -1,0 +1,391 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobsindia-4010831", 
+    "expirationDate": 1451449040000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1784, 
+          "type": "BR", 
+          "endIdx": 1784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1784, 
+          "type": "BR", 
+          "endIdx": 1784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1784, 
+          "type": "LI", 
+          "endIdx": 1784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1784, 
+          "type": "BR", 
+          "endIdx": 1784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1772, 
+          "type": "BR", 
+          "endIdx": 1772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1765, 
+          "type": "LI", 
+          "endIdx": 1772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1765, 
+          "type": "BR", 
+          "endIdx": 1765, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1747, 
+          "type": "BR", 
+          "endIdx": 1747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1731, 
+          "type": "LI", 
+          "endIdx": 1747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1731, 
+          "type": "BR", 
+          "endIdx": 1731, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1704, 
+          "type": "BR", 
+          "endIdx": 1704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1673, 
+          "type": "LI", 
+          "endIdx": 1704, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1673, 
+          "type": "BR", 
+          "endIdx": 1673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1636, 
+          "type": "BR", 
+          "endIdx": 1636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1604, 
+          "type": "BR", 
+          "endIdx": 1604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "B", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1473, 
+          "type": "B", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1473, 
+          "type": "BR", 
+          "endIdx": 1473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1473, 
+          "type": "BR", 
+          "endIdx": 1473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1423, 
+          "type": "BR", 
+          "endIdx": 1423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "LI", 
+          "endIdx": 1423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BR", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BR", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "B", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1327, 
+          "type": "BR", 
+          "endIdx": 1327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1293, 
+          "type": "BR", 
+          "endIdx": 1293, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1233, 
+          "type": "BR", 
+          "endIdx": 1233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1230, 
+          "type": "BR", 
+          "endIdx": 1230, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "BR", 
+          "endIdx": 1227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "BR", 
+          "endIdx": 1227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1134, 
+          "type": "BR", 
+          "endIdx": 1134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1033, 
+          "type": "BR", 
+          "endIdx": 1033, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 933, 
+          "type": "BR", 
+          "endIdx": 933, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 824, 
+          "type": "BR", 
+          "endIdx": 824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 722, 
+          "type": "BR", 
+          "endIdx": 722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 713, 
+          "type": "BR", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 623, 
+          "type": "BR", 
+          "endIdx": 623, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 520, 
+          "type": "BR", 
+          "endIdx": 520, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 418, 
+          "type": "BR", 
+          "endIdx": 418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 315, 
+          "type": "BR", 
+          "endIdx": 315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 214, 
+          "type": "BR", 
+          "endIdx": 214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 113, 
+          "type": "BR", 
+          "endIdx": 113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Looking for a Data scientist with good experience in implementing machine learning algorithms.  We areplanning to implement a bike sharing network wherein users will be able to pick-up and drop-off bikesat different zones in the city.  The prices for these rides depend on the number of bikes available inthe source and the destination and demand based on different external factors.  An algorithm which takesin these external factors and predicts supply and demand is to be developed.  Based on this prediction, the cost for renting bikes will be varied.  The algorithm should be able to learn from the errors of theprior predictions and correct itself for improving the accuracy of the future predictions. As a datascientist,  your role will be to develop a machine learning model that takes different factors as inputand gives supply and demand across different zones in the city.  This model should also have the functionalityof correcting itself based on the errors in previous predictions.  Along with the development of thismodel,  your job is to aid in the development of a dynamic pricing scheme.  This dynamic pricing schemedetermines the cost of each ride based on the predictions made by the machine learning model. WHYUS?Because we are an engineering company,  that builds hardware!We are an early stage company thatis looking to revolutionize the urban transportation landscape. The OpportunityEquity and abilityto drive strategic decisions and vision for the coEducation DetailsTion-   UGAny Graduate - Any Specialization PG:Any Postgraduate - Any Specialization,  Post Graduation Not RequiredDoctorate:Doctorate Not RequiredIndustry:    Internet  /    Ecommerce Functional Area:     Analytics&amp; Business Intelligence  Role Category:Analytics &amp; BI  Role:Data Analyst"
+    }, 
+    "postalCode": "600006", 
+    "jobState": "LISTED", 
+    "companyName": "Velo Labs", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Velo Labs is building the next generation bike share network distributed,  connected,  and on-demand.  Velo Labs is an early stage start-up founded by entrepreneurs with a proven track record.  We have passion for building products that change the way people move.  We have come together to create a category-defining product to tackle a problem that faces billions of users. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447021570000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2635097", 
+    "id": 97863463, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Chennai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Consumer Electronics"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Velo Labs is a hardware start-up founded by entrepreneurs with a proven track record.  We have passion for building products that change the way people move.  We have come together to create a category-defining product to tackle a problem that faces billions of users. \r\rVelo Labs is building the next generation bike share network: distributed,  connected,  and on-demand. \rhttps://www. skylock. cc", 
+    "foundedYear": 2013, 
+    "canonicalName": "Velo Labs", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/5/005/045/2c8/2703010. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Innovative product development", 
+        "Internet of Things", 
+        "Building Smart cities"
+      ], 
+      "universalName": "velo-labs", 
+      "companyId": 2635097, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAS-AAAAJDY4MjIwOWZiLTdlYzEtNDg5ZC1iMTM4LTNlNzliZGRjMGZjYg. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "2-10", 
+    "formattedEmployeeCount": "2-10 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Consumer Electronics"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97863463?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobsindia. com%2Fjobdetails. aspx%3Fjobid%3D4010831&urlHash=wnF4&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

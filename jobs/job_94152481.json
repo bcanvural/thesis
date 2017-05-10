@@ -1,0 +1,612 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-bbvDJEv-er5AMYeMg-44q7", 
+    "expirationDate": 1451950312000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2928, 
+          "type": "BR", 
+          "endIdx": 2928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2928, 
+          "type": "BR", 
+          "endIdx": 2928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2927, 
+          "type": "BR", 
+          "endIdx": 2927, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2927, 
+          "type": "BR", 
+          "endIdx": 2927, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2823, 
+          "type": "BR", 
+          "endIdx": 2823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2823, 
+          "type": "BR", 
+          "endIdx": 2823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2675, 
+          "type": "BR", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2675, 
+          "type": "BR", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "U", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "B", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "BR", 
+          "endIdx": 2656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "BR", 
+          "endIdx": 2656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2655, 
+          "type": "BR", 
+          "endIdx": 2655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2655, 
+          "type": "BR", 
+          "endIdx": 2655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2588, 
+          "type": "B", 
+          "endIdx": 2655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2588, 
+          "type": "BR", 
+          "endIdx": 2588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2588, 
+          "type": "BR", 
+          "endIdx": 2588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2577, 
+          "type": "B", 
+          "endIdx": 2588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2577, 
+          "type": "BR", 
+          "endIdx": 2577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2577, 
+          "type": "BR", 
+          "endIdx": 2577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2425, 
+          "type": "B", 
+          "endIdx": 2577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2425, 
+          "type": "BR", 
+          "endIdx": 2425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2425, 
+          "type": "BR", 
+          "endIdx": 2425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2338, 
+          "type": "U", 
+          "endIdx": 2425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2338, 
+          "type": "B", 
+          "endIdx": 2425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2338, 
+          "type": "BR", 
+          "endIdx": 2338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2338, 
+          "type": "BR", 
+          "endIdx": 2338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2327, 
+          "type": "U", 
+          "endIdx": 2338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2327, 
+          "type": "BR", 
+          "endIdx": 2327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2327, 
+          "type": "BR", 
+          "endIdx": 2327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2326, 
+          "type": "BR", 
+          "endIdx": 2326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2273, 
+          "type": "LI", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2197, 
+          "type": "LI", 
+          "endIdx": 2272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2089, 
+          "type": "LI", 
+          "endIdx": 2196, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1988, 
+          "type": "LI", 
+          "endIdx": 2088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1988, 
+          "type": "BG", 
+          "endIdx": 2326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1988, 
+          "type": "BR", 
+          "endIdx": 1988, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1966, 
+          "type": "U", 
+          "endIdx": 1988, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1966, 
+          "type": "BR", 
+          "endIdx": 1966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1966, 
+          "type": "BR", 
+          "endIdx": 1966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "BR", 
+          "endIdx": 1965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1913, 
+          "type": "LI", 
+          "endIdx": 1964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1837, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1786, 
+          "type": "LI", 
+          "endIdx": 1836, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1710, 
+          "type": "LI", 
+          "endIdx": 1785, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "LI", 
+          "endIdx": 1709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "BG", 
+          "endIdx": 1965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "BR", 
+          "endIdx": 1633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1613, 
+          "type": "U", 
+          "endIdx": 1633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1613, 
+          "type": "BR", 
+          "endIdx": 1613, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1613, 
+          "type": "BR", 
+          "endIdx": 1613, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1612, 
+          "type": "BR", 
+          "endIdx": 1612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1509, 
+          "type": "LI", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1435, 
+          "type": "LI", 
+          "endIdx": 1508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "LI", 
+          "endIdx": 1434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BG", 
+          "endIdx": 1612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BR", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "U", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "B", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "BR", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "BR", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1395, 
+          "type": "BR", 
+          "endIdx": 1395, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1341, 
+          "type": "LI", 
+          "endIdx": 1394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1341, 
+          "type": "BG", 
+          "endIdx": 1395, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1313, 
+          "type": "LI", 
+          "endIdx": 1340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "LI", 
+          "endIdx": 1312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "LI", 
+          "endIdx": 1259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1128, 
+          "type": "LI", 
+          "endIdx": 1225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1078, 
+          "type": "LI", 
+          "endIdx": 1127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 982, 
+          "type": "LI", 
+          "endIdx": 1077, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "LI", 
+          "endIdx": 981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 809, 
+          "type": "LI", 
+          "endIdx": 909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 809, 
+          "type": "BG", 
+          "endIdx": 1341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 809, 
+          "type": "BR", 
+          "endIdx": 809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 796, 
+          "type": "U", 
+          "endIdx": 809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 796, 
+          "type": "B", 
+          "endIdx": 809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 796, 
+          "type": "BR", 
+          "endIdx": 796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 796, 
+          "type": "BR", 
+          "endIdx": 796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 795, 
+          "type": "BR", 
+          "endIdx": 795, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 795, 
+          "type": "BR", 
+          "endIdx": 795, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 688, 
+          "type": "BR", 
+          "endIdx": 688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 688, 
+          "type": "BR", 
+          "endIdx": 688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 332, 
+          "type": "BR", 
+          "endIdx": 332, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 332, 
+          "type": "BR", 
+          "endIdx": 332, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Kwalee is an expanding,  independent mobile game developer and publisher based right in the heart of Leamington Spa,  England.  The Company was founded by David Darling,  CBE in 2011.  We have a dynamic,  creative and highly experienced team who are developing top quality,  innovative and exciting games.   Click to learn more. We are currently looking for an experienced Data Analyst who has a passion for mobile games and statistical analysis to join our talented team.  You will report directly to the COO and will be responsible for analysing how players play our games and providing insights and suggestions for how to improve the KPIs to make the games as successful as possible. Your overall aim is to help us create and deliver fun,  innovative and commercially successful mobile games.  You Must HaveA strong academic background with a degree in mathematics,  statistics,  economics or computer science Strong analytical,  mathematical,  data mining and problem solving skills 2+ years experience in an analytical role in which you have made metrics driven recommendations Excellent communication &amp; presentation skills A good understanding of Free to Play mobile games design and its relationship with data analytics Outstanding organisational skills Experience of agile project management methodologies A “self-starter” mentality.  A strong interest in mobile games and play them daily  DesirableMobile game studio experience Skills in relevant data query tools such as Elastic Search,  Couchbase etc Experience of industry tools for monitoring game analytics such as Flurry,  Google Analytics,  Delta DNA  Salary and Location:£18, 000 - £36, 000 per annum plus company benefits and profit sharing scheme.  Benefits include private pension,  private medical cover and life assurance.  This job is based in Leamington Spa,  Warwickshire.  The position involves working a minimum of 40 hours per week in our office.  You must have the full right to work within the UK.   What else do we offer?A highly creative atmosphere with the opportunity to contribute daily to important design decisions.  An extremely experienced and passionate team,  including David Darling CBE and many other industry veterans.  A very ambitious ethos - we are aiming to create chart topping mobile hits.  Quarterly team building days - work hard,  play hard!  ApplicationIf You Are Suitable For This Role,  You Must Include The Following With Your Application1) A covering letter stating why you are suitable for this particular role and provide examples of successful games that you have analysed and improved. 2) Your CV. 3) Your salary expectations (between £18, 000 to £36, 000 per annum).  Company DescriptionKwalee Ltd is a developer and publisher of mobile games.  It was founded in 2011 by David Darling,  CBE who originally co-founded Codemasters in 1986. We seek to excite and entertain our customers with innovative games that provide incredible experiences.  "
+    }, 
+    "postalCode": "CV32", 
+    "jobState": "LISTED", 
+    "companyName": "Kwalee Ltd", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Kwalee is a developer and publisher of mobile games based in Leamington Spa,  England. Kwalee was founded by David Darling,  who has been writing successful commercial video games since he was 11 years old.   He co-founded Codemasters,  which became a highly respected,  world class game developer and publisher with massive global successes.   For services to the video game industry David was awarded a CBE by the Queen. Kwalee is different.  We seek to excite and entertain our customers with innovative new games that provide special experiences.  Our ethos is based around a set of core values that put the customer first and which harness the creative skills of our staff to the maximum. Our ambitions are well above the high-bar,  and to achieve this we don’t scrimp on equipment or focus on the 9 to 5.   If you need software or hardware to get the job done efficiently,  you can get it.   Our flexible approach to working hours means our people can do the school run,  or avoid the school traffic. Kwalee employs around 17 people,  including Jason Falcus (COO),  Andrew Graham (of Micro Machines fame) and James Horn,  accompanied by David Darling’s father,  Jim,  serving as Chairman; a role he held for many years at Codemasters. Kwalee is still at its very beginning and so is very actively looking for those special people who want to join us in our exciting journey. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1445559567000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2358022", 
+    "id": 94152481, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Royal Leamington Spa,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94152481?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fkwalee%2Fdata-analyst%2FbbvDJEv-er5AMYeMg-44q7%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=WHuL&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Games"
+  ], 
+  "formattedPostedDaysAgo": "Posted 44 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "44d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAZ-AAAAJGQ1MTgyZDU2LTcxZTUtNDZkYS1iYWY2LTAzNTVmMzQ5NmM1Yw. png"
+    }, 
+    "localizedDescription": "Kwalee is a developer and publisher of mobile games based in Leamington Spa,  England. \r\rKwalee was founded by David Darling,  who has been writing successful commercial video games since he was 11 years old.   He co-founded Codemasters,  which became a highly respected,  world class game developer and publisher with massive global successes.   For services to the video game industry David was awarded a CBE by the Queen. \r\rKwalee is different.  We seek to excite and entertain our customers with innovative new games that provide special experiences.  Our ethos is based around a set of core values that put the customer first and which harness the creative skills of our staff to the maximum. \r\rOur ambitions are well above the high-bar,  and to achieve this we don’t scrimp on equipment or focus on the 9 to 5.   If you need software or hardware to get the job done efficiently,  you can get it.   Our flexible approach to working hours means our people can do the school run,  or avoid the school traffic. \r\rKwalee employs around 17 people,  including Jason Falcus (COO),  Andrew Graham (of Micro Machines fame) and James Horn,  accompanied by David Darling’s father,  Jim,  serving as Chairman; a role he held for many years at Codemasters. \r\rKwalee is still at its very beginning and so is very actively looking for those special people who want to join us in our exciting journey. ", 
+    "company": {
+      "specialities": [
+        "Smartphone Games", 
+        "Mobile Games"
+      ], 
+      "universalName": "kwalee-ltd", 
+      "companyId": 2358022, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/07a/045/38d315a. png"
+      }
+    }, 
+    "canonicalName": "Kwalee Ltd", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Computer Games"
+    ]
+  }, 
+  "formattedListDate": "October 23,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "The Jobs Portal", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "22850149", 
+    "title": "Senior Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102436709, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      137
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. totaljobsportal. com/", 
+    "logo": "urn:li:media:/p/1/005/0af/332/0494389. png", 
+    "universalName": "total-jobs-portal-com", 
+    "companyId": 3842608
+  }, 
+  "description": "    Job Title: Senior Data Scientist    Background    The vision for the group is to grow the business with smarter decisions    enabled by analytics.  The team is organised in Hub & Spoke arrangement;    the Spokes partnering with the business units on analytics agenda and    accountable to them for quality delivery of agreed capabilities on time    in full.  The Hub brings in component including an effective data    science delivery capability,  analytics R&D and building re-usable    analytics assets.     This role will be a key constituent of UK Analytics Spoke,  which will    initially focus on analytical solution for Customer Development and    broad based approach to other functions.  This position will put you on    the fast track to directorship in one of the world largest and most    successful company.     Main Job Purpose    This is an exciting new role in the Analytics Capability group in    Information & Analytics,  which is tasked with the mandate to drive    across Markets,  Functions and Categories in Unilever.     The Role Has Two Main Accountabilities       Helps business to structure their problem statement (for analytics        solutioning).  Gathers,  analyses and models data to solve and        address complex business problems and evaluate scenarios to make        predictions on future outcomes and support decision making.        Create an capability:        Designs and drives the creation of new standards and best practices        in the use of statistical Datamodelling,  big data and optimization        tools.        Collaborates across the wider data science team to develop reusable        analytics products/assets     Key Accountabilities       Implements solutions to business problems using data analysis,  data        mining,  optimization tools,  and machine learning techniques and        statistics       Build data-science and technology based algorithmic solutions to        address business needs       Communicate findings to analytics leads and business stakeholders       Design large scale models using Logistic Regression,  Linear Models        Family,  Conjoint Analysis,  Spatial models,  Time-series models,  Text        mining       Drive the collection of new data and the refinement of existing        data sources       Analyse and interpret the results of analytics experiments       Develop best practices for instrumentation and experimentation and        communicate those to wider analytics team       Prepares and conducts trainings and mentors team members on latest        analytical methodologies       Applies a global approach to analytical solutions-both within a        business area and across the enterprise     Skills/Experience/Qualifications       M. S.  or Ph. D.  in a relevant technical field.  Extensive experience        solving analytical problems using quantitative approaches       Comfort manipulating and analysing complex,  high-volume,         high-dimensionality data from varying sources       A strong passion for empirical research and for answering hard        questions with data       A flexible analytic approach that allows for results at varying        levels of precision       Ability to communicate complex quantitative analysis in a clear,         precise,  and actionable manner       Familiarity with relational databases and SQL       Expert knowledge of an analysis tool such as R,  Matlab,  or SAS       Experience working with large data sets,  experience working with        distributed computing tools a plus (Map/Reduce,  Hadoop,  Hive,  etc. )", 
+  "companyDescription": "      The Jobs Portal    Totaljobsportal. com is a brand new career website for job market in    India specifically caters to the need of aspiring jobseekers.  We    believe that a good job site should offer an interactive platform for    job seekers with the objective of improving the process of recruitment.     Our Mission    At Totaljobsportal. com,  we work for a main purpose: “Satisfaction for    Job seekers” This is our mission.  We believe that satisfaction for job    is one of the most crucial factors for overall happiness of an aspiring    jobseeker.     This is why the work we do at Totaljobsportal. com is so meaningful.  We    excel in matching right people with right jobs.     Our Team    Totaljobsportal. com is managed by a team of highly skilled and    experienced HR personnel.  Our team members work with their best to find    right jobs for job seekers.  Following are our respected team members:-    HR and Recruitment    Mr.  Rajkumar Iyer    (Director and Senior HR officer)    (13+ years of experience)    Neha Agrawal    (HR operation Mnager)    Sangeeta Sachdeva    (Assistant HR)    Abhilash Saxena    (Assistant HR)", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

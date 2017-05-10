@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89073045", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Toga Networks was founded in 2009 and is a privately held company that provides advanced technology research and high level design for the IT and Telecom markets.  With many architects and experts in various fields,  Toga focuses on technological innovation and delivers breakthrough technology for its global partners.  The world of communications is changing very quickly,  and the competition for customer mindset and market share is intense.  This means system providers must upgrade their product offerings and infrastructure to keep up with demand.  Toga’s experience and agility provide superior technologies that address real customer needs creatively and efficiently.  Toga has a proven track record of developing next-generation products used by tier 1 operators and large enterprises.  With a unique blend of in-depth research and best engineering practices and experience,  Toga has cultivated exactly the capabilities it needs to take projects from their earliest stages through all development stages to successful deployment. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Toga Networks", 
+  "canFollow": false, 
+  "companyId": "822925", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Toga Networks", 
+    "title": "Data Scientist"
+  }, 
+  "description": "Toga Networks is looking for Data Scientist to for Cloud/NFV/SDN applications.  Research and develop innovative analytics solutions for health-management of cloud infrastructure and applications,  The position include algorithms in the fields of anomaly detection,  prediction and root cause analysis Responsibilities Being able to create examples,  prototypes,  demonstrations to help product line better understand the work in the areas of big data and advanced analytics.  Simulate cloud data such as network,  security,  management and more.  Exploring big data using standard tools and perform statistical analysis using data mining and machine learning algorithms and more.  Working closely with developers to integrate your models to a POC solution.  Qualifications 5+ years data scientist experience Practical knowledge of statistical analysis,  predictive modeling,  hypothesis testing,  conceptual modeling,  machine learning and data mining Comfort manipulating,  querying and analyzing complex,  high-volume,  high-dimensionality data from varying sources: DBs,  file system,  HDFS etc.   "
+}

@@ -1,0 +1,342 @@
+{
+  "jobPosting": {
+    "companyJobCode": "brassring-15992BR", 
+    "expirationDate": 1451997833000, 
+    "title": "P&C Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2222, 
+          "type": "BR", 
+          "endIdx": 2222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2222, 
+          "type": "BR", 
+          "endIdx": 2222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2065, 
+          "type": "BR", 
+          "endIdx": 2065, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2012, 
+          "type": "BR", 
+          "endIdx": 2012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1913, 
+          "type": "BR", 
+          "endIdx": 1913, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1756, 
+          "type": "BR", 
+          "endIdx": 1756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1671, 
+          "type": "BR", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1671, 
+          "type": "BR", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1644, 
+          "type": "U", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1644, 
+          "type": "B", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1644, 
+          "type": "BR", 
+          "endIdx": 1644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1644, 
+          "type": "BR", 
+          "endIdx": 1644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1643, 
+          "type": "BR", 
+          "endIdx": 1643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1578, 
+          "type": "BR", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "BR", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1544, 
+          "type": "BR", 
+          "endIdx": 1544, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1543, 
+          "type": "BR", 
+          "endIdx": 1543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1423, 
+          "type": "BR", 
+          "endIdx": 1423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1422, 
+          "type": "BR", 
+          "endIdx": 1422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1270, 
+          "type": "BR", 
+          "endIdx": 1270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1269, 
+          "type": "BR", 
+          "endIdx": 1269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1110, 
+          "type": "BR", 
+          "endIdx": 1110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "BR", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 951, 
+          "type": "BR", 
+          "endIdx": 951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "BR", 
+          "endIdx": 950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 864, 
+          "type": "BR", 
+          "endIdx": 864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "BR", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "BR", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 786, 
+          "type": "BR", 
+          "endIdx": 786, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 648, 
+          "type": "BR", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 648, 
+          "type": "BR", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "U", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "B", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "BR", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 628, 
+          "type": "BR", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "B", 
+          "endIdx": 580, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "BR", 
+          "endIdx": 566, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 565, 
+          "type": "BR", 
+          "endIdx": 565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 28, 
+          "type": "B", 
+          "endIdx": 43, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Description Purpose of role:                 You will be an expert on People Systems and Reporting Tools and will use your creative thinking to                                                      design and produce high quality management information for both the People &amp; Culture (P&amp;C) function                                                and Business Leaders,  giving them the appropriate data and reports to support their activities,                                                                 business planning and decision making.  Reports to:                         Director of People SystemsKey Responsibilities·  To provide standard People analytics MI reports which are accurate and to agreed timescales and in a suitable format for the recipients ·  Manage the production of ad-hoc reports from appropriate People Systems.   ·  Continually identifying,  delivering measures to improve systems and data integrity.  ·  Develop,  enhance and maintain management reporting tool kits and create ad-hoc management reports to demonstrate value through insight led decision making.  ·  Work with the Director of People Systems to pro-actively develop management information for business use and ensuring the most effective use of data is made ·  Work with P&amp;C Business Partners to provide expert advice and guidance to the teams on reporting and analytics,  providing training where required.  ·  To work with the People Systems team to investigate any issues with the P&amp;C reporting tools and deliver solutions ·  Troubleshoot data and reports.  ·  Ensure compliance with Data Privacy and Protection Guidelines.  Skills/Knowledge/Experience·  You are a strong systems user and confident navigating your way around new systems·  You enjoy deep-diving into high volumes of data,  manually intervening where required,  interpreting data and converting it into meaningful information.     ·  You enjoy the challenge of delivering business-critical projects and working to tight deadlines. ·  Naturally,  strong analytical skills are essential. An understanding of People Metrics,  the ability to develop standard and ad hoc Reports,  Templates,  Dashboards and Scorecards and basic statistical knowledge. "
+    }, 
+    "postalCode": "RG1", 
+    "jobState": "LISTED", 
+    "companyName": "Primark Retail", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Adored by fashion fans Primark is widely established as the destination store for keeping up with the latest looks without breaking the bank across Europe. We offer a diverse range of products,  stocking everything from baby and kids,  to womens,  mens,  home,  accessories,  beauty products and confectionery.  Primark opened its first store in Dublin in 1969 under the name Penneys and today operates in over 270 stores in nine countries in Europe and growing with the first US store opening in Boston in 2015. Primark is an exciting company to join with no two days the same.  We operate at fast pace across all functions and aim to deliver amazing fashion and amazing prices to our customers every day. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447312378000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:70640", 
+    "id": 98489334, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Reading,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "hasPaidLcp": true, 
+    "foundedYear": 1969, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/000/1ed/234/227eca7. png"
+    }, 
+    "localizedDescription": "Adored by fashion fans Primark is widely established as the destination store for keeping up with the latest looks without breaking the bank across Europe. \r\rWe offer a diverse range of products,  stocking everything from baby and kids,  to womens,  mens,  home,  accessories,  beauty products and confectionery.  \r\rPrimark opened its first store in Dublin in 1969 under the name Penneys and today operates in over 270 stores in nine countries in Europe and growing with the first US store opening in Boston in 2015. \r\rPrimark is an exciting company to join with no two days the same.  We operate at fast pace across all functions and aim to deliver amazing fashion and amazing prices to our customers every day. ", 
+    "company": {
+      "specialities": [
+        "Fashion", 
+        "Retail"
+      ], 
+      "universalName": "primark-stores-ltd", 
+      "companyId": 70640, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAUXAAAAJDY0ZjU1OTVlLTFkNGYtNDAxOC05OThhLWZhZmU3OTVlNmI0MA. png"
+      }
+    }, 
+    "canonicalName": "Primark Stores Limited", 
+    "formattedIndustries": [
+      "Retail"
+    ], 
+    "formattedCompanySize": "10001+"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Retail"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98489334?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fkrb-sjobs. brassring. com%2FTGWebHost%2Fjobdetails. aspx%3Fsiteid%3D5837%26partnerid%3D30055%26jobid%3D854436&urlHash=BBT_&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

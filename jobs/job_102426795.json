@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Morgan McKinley", 
+    "functions": [
+      "ENG"
+    ], 
+    "companyJobCode": "morganmckinley--991276763", 
+    "title": "Senior Java Engineer - Telco/Big Data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102426795, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. morganmckinley. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAALwAAAAJGZlZTE1MTg2LTQ0YmQtNDk4Mi1iMjgyLWNiMTJlMzU2ODFhMw. png", 
+    "universalName": "morgan-mckinley", 
+    "companyId": 16175
+  }, 
+  "description": "    Senior Java Engineer    Blackrock,  South Dublin    #602571    My client is a large global company,  providing monitoring solutions for    networking and telecoms.  They are currently expanding their team in    South Dublin,  who work on a family of intelligent monitoring solutions,     using Big Data Analytics combined with more traditional monitoring    solutions.     We are looking for a Senior Java Engineer who is looking to build their    career in a high speed,  large scale environment.  The ideal candidate is    highly motivated and goal orientated,  with a clear desire to work on    the latest technologies.     This position will focus on R&D; on building an intelligent monitoring    platform which will be used by some of the largest,  most demanding    companies in the world.  You will work with internal and external    stakeholders to define the specific solutions to be implemented.     Responsibilities       Specify,  design,  code and communicate the technical design of the        solution to key stakeholders       Work on both the UI and server side features of the application        suite       Perform independent technical and functional analysis for multiple        projects       Work with stakeholders to design including end users,  project        management,  software architects and software developers       Providing practical and innovative solutions to real world        technical problems,  and communicating them to stakeholders       Plan,  schedule and execute own work,  with the ability to cope with        changing requirements,  including multiple assignments     Required Skills       Knowledge and experience of Object Oriented Design and Object        Oriented Programming       Advanced Java programming skills       Deep knowledge across Unix,  Solaris and RHEL       Commercial experience with the design and implementation of        features of application UI with JavaScript       Experience with Groovy/Grails       Experience working with Database (Oracle) with exposure to SQL,         PL/SQL and partioning       Professional experience with tools such as SCM (Git,  Stash,  SVN),         build automation (Jenkins,  Bamboo),  code testing (Junit,         Concordion,  Sonar,  Coverity) and Continuous Integration     Desirable Skills       C++ programming skills       Prior experience with 3G and 4G LTE Networks       Experience with Hadoop Ecosystem       Experience delivering Web 2. 0 applications based on Restful Web        Services using JSON.        Experience with open source software Apache,  Tomcat,  JBoss or        Linux.        Any previous experience with reporting frameworks like Cognos,  BI,         Tableau etc.  is a plus       Experience with Atlassian toolset e. g.  JIRA,  Confluence     Education/Qualifications       Minimum of 7 years professional experience in a product development        environment       BS in Telecommunications Engineering or Computer Science or        equivalent     To find out more about this opportunity,  please contact Robert Daly at    Morgan McKinley on 01 4321 555,  or at rdaly@morganmckinley. ie    For other opportunities,  click here.     Morgan McKinley is acting as an Employment Agency in relation to this    vacancy. ", 
+  "companyDescription": "      Morgan McKinley    Your Career Ally™    Follow the Morgan McKinley global company page to keep updated on    latest news,  insights and articles.  Here you will find information    about our services and how we can help you achieve your career goals.     Recruitment is a complete process built on a relationship of trust    between the hiring company,  candidates and the consultant.     By nurturing the talent pool within our chosen professional communities    and disciplines,  Morgan McKinley ensures that the right candidates are    matched to the right opportunities.     If you are a talented professional,  when you register with Morgan    McKinley you can expect a five-star service based on career-long advice    and support.     Even when you are not actively seeking a new role.     Our mission is to be your Career Ally™,  helping you to realise your    ambitions and discover your true potential.     And when you are actively seeking a new role,  we are here to help you    at every stage of the journey.     Our specialist sectors and disciplines include Banking,  Insurance,     Commerce & Industry,  Finance & Accounting,  Project & Change,  IT,  Risk,     Compliance,  Marketing and Administration. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

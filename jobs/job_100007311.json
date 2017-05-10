@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Sky", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "bskyb-440223", 
+    "title": "Big Data Engineer", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100007311, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      36
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. sky. com", 
+    "logo": "urn:li:media:/p/4/005/02e/098/057aacb. png", 
+    "universalName": "sky", 
+    "companyId": 3318
+  }, 
+  "description": "    Senior Big Data Engineer - Hadoop    West London (Isleworth,  Middlesex)    Think innovation.  Think Sky.     At Sky,  innovation has always been a key asset to make us one of the    world’s largest broadcasters.  As the sector has reached a pivotal point    that will dramatically change the way people will use their TV and    watch their favourite content,  Sky needs to prove more imaginative and    disruptive than ever before.  Our business requires our teams to remain    at the cutting edge of technology,  in order to understand deeply the    needs of our customers and deliver the best products.     Our team sits within the Enterprise Data Management area and comprises    of 12 individuals whose talents lie in the proactive and innovative    thinking that is well known in Sky.     Our goal is to transform the way Sky uses data to drive their daily    business decisions by using the vast resources available to us.     You will be based at the Sky campus in West London and will be able to    experience our friendly working environment,  affordable canteens,  gym    and facilities.  The campus is located next to three train/Underground    stations,  and is connected to Central London by several free Sky buses.     http://workforsky. com/life-at-sky     Key responsibilities    As a Big Data Senior Software Developer,  you will work with top-notch    open-source technologies and algorithms to deliver high-quality data    analytics products and systems to the business.  By pairing with data    scientists,  technical stakeholders and other tech teams in an Agile    environment,  you will be involved on innovative projects involving    Customer Behaviour Analytics,  Forecasting,  Fraud Detection and Data    Visualisation.     We’re looking for talented software developers who are confident,  eager    to learn and are great team players,  who will work across departments    to achieve the project goals set.      Essential       Strong interest in learning new technologies and working with Big        Data tools       Creative,  pro-active with outstanding problem-solving skills       Experience in building data processing and/or data analysis        software       Strong background in RDBMS,  data modelling and SQL       Experience with NoSQL technologies (ideally HBase or Cassandra)       Comfortable using distributed computing,  MapReduce       Experience in creating/consuming RESTful APIs       Extensive knowledge of Java       Scala or other functional programming language       Experienced and a strong advocate of test-driven development       Demonstrated experience delivering quality-product software       Experience working in an agile/SCRUM environment      Desired       Hands-on experience with Hadoop,  Hive and HBase       Experience in Scalding or Cascading       Experienced in Spark and/or Storm       Experience in search engine applications (Elasticsearch or Solr)       Knowledge of reactive programming (Akka)       Exposure to Machine Learning and/or statistical modeling techniques       LI-GJ1      Primary Location    ENGLAND-Middlesex    Employee Status    Permanent    Closing Date    Ongoing    !!%3Cfont color=white%3EIs This Role Eligible for Refer A    Friend?%3C/font%3E    Yes", 
+  "companyDescription": "      Sky    Sky is Europe's leading entertainment company and serves 21 million    customers across five countries: Italy,  Germany,  Austria,  the UK and    Ireland.  We believe in better and that means offering a better choice    of high-quality entertainment for the whole family and using technology    to put them in control,  whenever and wherever they want.     Together we work hard to give our customers a better experience and are    always looking for ways to improve in everything we do.  That’s why our    people are critical to our success.  Our unique environment helps    everyone to do their best work,  fulfil their potential and achieve    great things together.  So we’re also doing all we can to attract    bright,  talented people like you to join us.     Visit jobs. sky. com to find out more about brilliant opportunities.     It’s our people that make Sky Europe's leading entertainment company.     That’s why we work hard to be an inclusive employer,  so everyone at Sky    can be their best. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

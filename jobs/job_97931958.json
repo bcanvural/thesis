@@ -1,0 +1,547 @@
+{
+  "jobPosting": {
+    "companyJobCode": "successfactorsenterprise-57265301", 
+    "expirationDate": 1451962689000, 
+    "title": "Intern Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3770, 
+          "type": "BR", 
+          "endIdx": 3770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3770, 
+          "type": "BR", 
+          "endIdx": 3770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3643, 
+          "type": "BR", 
+          "endIdx": 3643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3643, 
+          "type": "BR", 
+          "endIdx": 3643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "BR", 
+          "endIdx": 3498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "BR", 
+          "endIdx": 3498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "BR", 
+          "endIdx": 3327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3238, 
+          "type": "BR", 
+          "endIdx": 3238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3200, 
+          "type": "BR", 
+          "endIdx": 3200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3148, 
+          "type": "BR", 
+          "endIdx": 3148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3128, 
+          "type": "BR", 
+          "endIdx": 3128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3082, 
+          "type": "BR", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3082, 
+          "type": "BR", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "U", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "B", 
+          "endIdx": 3082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "BR", 
+          "endIdx": 3023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "BR", 
+          "endIdx": 3023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2944, 
+          "type": "BR", 
+          "endIdx": 2944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2859, 
+          "type": "BR", 
+          "endIdx": 2859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2805, 
+          "type": "BR", 
+          "endIdx": 2805, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2766, 
+          "type": "BR", 
+          "endIdx": 2766, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2719, 
+          "type": "BR", 
+          "endIdx": 2719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2700, 
+          "type": "BR", 
+          "endIdx": 2700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2700, 
+          "type": "BR", 
+          "endIdx": 2700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2669, 
+          "type": "U", 
+          "endIdx": 2700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2669, 
+          "type": "B", 
+          "endIdx": 2700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2669, 
+          "type": "BR", 
+          "endIdx": 2669, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2669, 
+          "type": "BR", 
+          "endIdx": 2669, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2625, 
+          "type": "BR", 
+          "endIdx": 2625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2584, 
+          "type": "BR", 
+          "endIdx": 2584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2551, 
+          "type": "BR", 
+          "endIdx": 2551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2532, 
+          "type": "BR", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2532, 
+          "type": "BR", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2515, 
+          "type": "U", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2515, 
+          "type": "B", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2515, 
+          "type": "BR", 
+          "endIdx": 2515, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2515, 
+          "type": "BR", 
+          "endIdx": 2515, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2472, 
+          "type": "BR", 
+          "endIdx": 2472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2411, 
+          "type": "BR", 
+          "endIdx": 2411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2334, 
+          "type": "BR", 
+          "endIdx": 2334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2258, 
+          "type": "BR", 
+          "endIdx": 2258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2157, 
+          "type": "BR", 
+          "endIdx": 2157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2073, 
+          "type": "BR", 
+          "endIdx": 2073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "BR", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "BR", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1991, 
+          "type": "U", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1991, 
+          "type": "B", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1991, 
+          "type": "BR", 
+          "endIdx": 1991, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1991, 
+          "type": "BR", 
+          "endIdx": 1991, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1691, 
+          "type": "BR", 
+          "endIdx": 1691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1691, 
+          "type": "BR", 
+          "endIdx": 1691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1323, 
+          "type": "BR", 
+          "endIdx": 1323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1323, 
+          "type": "BR", 
+          "endIdx": 1323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1271, 
+          "type": "U", 
+          "endIdx": 1323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1271, 
+          "type": "B", 
+          "endIdx": 1323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1271, 
+          "type": "BR", 
+          "endIdx": 1271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1271, 
+          "type": "BR", 
+          "endIdx": 1271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 994, 
+          "type": "BR", 
+          "endIdx": 994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 994, 
+          "type": "BR", 
+          "endIdx": 994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BR", 
+          "endIdx": 274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BR", 
+          "endIdx": 274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 260, 
+          "type": "BR", 
+          "endIdx": 260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 260, 
+          "type": "BR", 
+          "endIdx": 260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 180, 
+          "type": "BR", 
+          "endIdx": 180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 180, 
+          "type": "BR", 
+          "endIdx": 180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 98, 
+          "type": "BR", 
+          "endIdx": 98, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 98, 
+          "type": "BR", 
+          "endIdx": 98, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Country: Netherlands                                               Job Function: SalesState / Province: Netherlands                                Position Type: InternCity / Location: Amsterdam                                   Brand: adidas GroupRelocation: NoAt adidas Group,  our love of sport drives who we are and what we do.  But just as a ball is more than leather and thread,  and a shoe more than padding and plastic,  we are bigger than our products.  We don’t just work to create faster shoes and lighter fabrics: We strive to help athletes everywhere perform their best.  We believe that it’s hard work inventing the future of sport,  and that’s why we love it; that when you push your limits,  you make it possible for others to push theirs. At adidas Group,  this drive it what connects us,  whether we’re working for TaylorMade,  adidas,  Reebok,  or Rockport.  We’re all working toward a future motivated by passion,  original thinking,  and the desire to build upon a proud legacy. From design to production to logistics to technology,  every role in all our brands is connected to this.  Our roles span the range of our brands,  as well as spanning the globe.  No matter what you do,  or what country or city you do it in,  your work helps make greatness possible. Purpose &amp; Overall Relevance For The OrganizationThe Sales Strategy &amp; Excellence Team (SSE) supports brand leadership to become more consumer-centric and supports the implementation of Omni-Channel initiatives on a global level.  The Big Data / Insights Driven Sales team provides data-driven support for the Wholesale,  Retail and eCommerce teams by identifying actionable insights from our different data sources. This is part of a wider Insights Driven cross-functional program whose ambition is to turn adidas into the fastest learning sports brand. The role of the Insights Driven Intern is to support the team in coordinating our day-to-day management of key Insights to Action and Change Management activities. Support Insights Driven Team In• Managing our Project Management progress tracking• Maintaining up-to-date diagnostic of existing data sources,  insights and reporting• Maintaining up-to-date organisation chart and global &amp; market analytics &amp; insights contacts• Launching internal SharePoint site,  from content creation to communication• Distributing and centralising external research on insights &amp; analytics• Establishing enterprise wide collaboration across functions• Other duties as requested by your managerKey Relationships• Director Big Data• Insights Driven Project Manager• Senior Manager Analytics &amp; Insights• Senior Communications &amp; Change ManagerKnowledge,  Skills And Abilities• Passion for sport• Strong communication and interpersonal skills• Pro-active and collaborative attitude• Ability to deliver high-quality work on time in full• Committed to driving business change using fact-based approach rather than gut feel• Ability to focus on detail and understand how it fits into the bigger pictureRequisite Education And Experience / Minimum Qualifications• Business degree from leading business school• Fluency in English• Previous internships in multinational organisation• Advanced Excel and PowerPoint skills• Knowledge of basic Project Management processes &amp; tools and SharePoint an advantage• Skills in any subset of big data technologies,  text analytics,  information integration or algorithmic background in statistical and predictive modelling are an advantagePlease note that you need to be enrolled at a University and have a valid working permit for the Netherlands,  to be eligible for this internship!Posting Notes: Amsterdam || Netherlands  || Netherlands  || || adidas Group || Europe,  Middle East &amp; Africa || No Selection"
+    }, 
+    "postalCode": "1005", 
+    "jobState": "LISTED", 
+    "companyName": "Adidas", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The adidas Group is a global leader in the sporting goods industry,  offering a broad portfolio of footwear,  apparel and hardware for sport and lifestyle around the core brands adidas,  Reebok,  TaylorMade and Reebok-CCM Hockey.  Headquartered in Herzogenaurach/Germany,  the Group employs more than 53, 000 people across the globe and generated sales of € 14. 5 billion in 2014. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1447069990000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:157242", 
+    "id": 97931958, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Amsterdam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedExperience": "Internship", 
+  "formattedIndustries": [
+    "Sporting Goods"
+  ], 
+  "formattedEmploymentStatus": "Temporary", 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "localizedDescription": "The adidas Group is a global leader in the sporting goods industry,  offering a broad portfolio of footwear,  apparel and hardware for sport and lifestyle around the core brands adidas,  Reebok,  TaylorMade and Reebok-CCM Hockey.  Headquartered in Herzogenaurach/Germany,  the Group employs more than 53, 000 people across the globe and generated sales of € 14. 5 billion in 2014. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/021/15e/160d8a6. png"
+    }, 
+    "canonicalName": "adidas Group", 
+    "company": {
+      "specialities": [
+        "marketing", 
+        "footware", 
+        "apparel", 
+        "accessories", 
+        "retail", 
+        "design", 
+        "sporting goods", 
+        "wholesale", 
+        "football", 
+        "running", 
+        "soccer", 
+        "basketball", 
+        "training", 
+        "golf", 
+        "fitness", 
+        "consumer goods"
+      ], 
+      "universalName": "adidas-group", 
+      "companyId": 157242, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAKIAAAAJDUyN2IwNjFjLWY1ODgtNGZmMy1iYzY1LTVmYmVjYjkwN2IzOA. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanyType": "Public Company", 
+    "formattedIndustries": [
+      "Sporting Goods"
+    ]
+  }, 
+  "formattedPostedDaysAgoShort": "26d", 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97931958?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. adidas-group. com%2Fadidas-group%2Fjob%2FAmsterdam-Intern-Big-Data%2F57265301%2F%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=unfq&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

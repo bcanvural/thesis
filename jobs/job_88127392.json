@@ -1,0 +1,338 @@
+{
+  "jobPosting": {
+    "companyJobCode": "onlysalesjob_xml-5904-data-analyst", 
+    "expirationDate": 1451465879000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2789, 
+          "type": "BR", 
+          "endIdx": 2789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2789, 
+          "type": "BR", 
+          "endIdx": 2789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2443, 
+          "type": "BR", 
+          "endIdx": 2443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2443, 
+          "type": "BR", 
+          "endIdx": 2443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "B", 
+          "endIdx": 2443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "BR", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2437, 
+          "type": "BR", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2393, 
+          "type": "LI", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2292, 
+          "type": "LI", 
+          "endIdx": 2392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2149, 
+          "type": "LI", 
+          "endIdx": 2291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2059, 
+          "type": "LI", 
+          "endIdx": 2148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2010, 
+          "type": "LI", 
+          "endIdx": 2058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1886, 
+          "type": "LI", 
+          "endIdx": 2009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1724, 
+          "type": "LI", 
+          "endIdx": 1885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1685, 
+          "type": "LI", 
+          "endIdx": 1723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1684, 
+          "type": "BG", 
+          "endIdx": 2437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1684, 
+          "type": "BR", 
+          "endIdx": 1684, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "B", 
+          "endIdx": 1684, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "BR", 
+          "endIdx": 1672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "BR", 
+          "endIdx": 1672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1625, 
+          "type": "BR", 
+          "endIdx": 1625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1625, 
+          "type": "BR", 
+          "endIdx": 1625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1508, 
+          "type": "BR", 
+          "endIdx": 1508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1508, 
+          "type": "BR", 
+          "endIdx": 1508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1502, 
+          "type": "B", 
+          "endIdx": 1508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1502, 
+          "type": "BR", 
+          "endIdx": 1502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1502, 
+          "type": "BR", 
+          "endIdx": 1502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1432, 
+          "type": "LI", 
+          "endIdx": 1501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1309, 
+          "type": "LI", 
+          "endIdx": 1431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1243, 
+          "type": "LI", 
+          "endIdx": 1308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "LI", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "LI", 
+          "endIdx": 1113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "LI", 
+          "endIdx": 979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 772, 
+          "type": "LI", 
+          "endIdx": 879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 642, 
+          "type": "LI", 
+          "endIdx": 771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BG", 
+          "endIdx": 1502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 626, 
+          "type": "BR", 
+          "endIdx": 626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 626, 
+          "type": "BR", 
+          "endIdx": 626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "BR", 
+          "endIdx": 21, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "BR", 
+          "endIdx": 21, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 21, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Missions Principales Dans le département Commercial &amp; Media et plus précisément au sein de l’équipe Consumer Knowledge &amp; Strategic Planning (KNOW),  vous travaillez en étroite collaboration avec les Business Analysts et Data Miners des différentes équipes du département.   En tant que Data Analyst,  vous contribuez à traiter les données utiles pour l’exécution de l’ensemble des rapports commerciaux,  à apporter votre expertise pour compléter les datasets nécessaires aux activités de data mining et à mettre à disposition du business les critères de ciblage indispensables à la bonne exécution des campagnes marketing. Responsabilités Répertorie les données disponibles dans les différents systèmes et les structurer afin de les rendre exploitables par le business Transforme les données demandées par le business et fournies par l’IT (agréger,  sommer,  grouper,  recoder, …) Automatise les mises à disposition des données utiles à l’exécution des divers rapports commerciaux Evalue la faisabilité des analyses nécessaires (existence de données,  validation des sources existantes,  constitution de DataMart,  …) Contribue ainsi à la construction du dataset nécessaire pour mener à bien les analyses et actions entreprises par les dataminers Joue un rôle actif dans la qualité et l’harmonisation des données Est garant du processus d’obtention des données et à ce titre,  contribue à l’amélioration de son fonctionnement en interne Documente l’ensemble des sources de données et les outputs du dataset ProfilLe diplôme requis pour cette fonction est un diplôme de niveau universitaire de type sciences-économie ou équivalent. Une expérience d’au moins 2 années est requise. Compétences  Forte aptitude analytique et technique La connaissance d’outil(s) de gestion et/ou d’intégration de données (ex.  : Access,  Informatica,  Anatella, …) est requise.  La connaissance de SAP CRM est un atout Capacité à aborder des problématiques de manière objective et sous différents angles d’approche (créativité,  objectivité, …) Capacité d’autocritique vis-à-vis de son travail Capacité à travailler en équipe tout en assumant la responsabilité de projets individuels Intéressé par l’environnement des opérateurs télécoms et prêt à rejoindre une société et un département en constante évolution / développement Capacité à comprendre les processus d’une entreprise pour enrichir de manière pertinent les datasets Proactif / doté d'un esprit entrepreneurial Offre Si vous souhaitez rejoindre une société offrant de nombreuses perspectives d'avenir dans un secteur en constante évolution,  si vous avez l'âme d'un entrepreneur et êtes prêt à relever ce challenge,  alors n'hésitez pas un instant à postuler en ligne.  Un cadre de travail agréable et une rémunération à la hauteur de vos compétences vous attendent. "
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "Voo", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "VOO est active dans le secteur des télécoms,  en Wallonie et à Bruxelles et commercialise des services de : - Télévision numérique (150 chaînes  en SD et HD,  de la VOD,  de la TV de rattrapage et les chaînes Be tv) - Connexions internet à très haut débit (de 50 à 150 Mbps) - Téléphonie fixe de quallité- Téléphonie mobileFin 2009,  les services interactifs ont pu être lancés sur le câble coaxial,  après avoir investi dans la modernisation du réseau et dans une plateforme de télévision numérique interactive. En à peine un peu plus de cinq ans,  le dynamisme de VOO lui a permis de refaire son retard sur ses principaux concurrents qui avaient lancé ce type de service en 2005 et de devenir un acteur de référence dans le secteur. Les offres de VOO sont aujourd’hui parmi les plus performantess et les plus attractives sur le marché,  tant en termes de qualité et d’exclusivité des chaînes télé qu’en termes de vitesses de connexion internet ou de prix. Mais VOO c’est aussi une stratégie marketing impactante,  qui lui a permis de se forger une image de marque sympathique,  proche,  humoristique et très attractive auprès des foyers wallons et bruxellois. La société a très rapidement grandi,  en augmentant le nombre de ses collaborateurs de plus de 300 personnes en quelques années.  La majorité des nouveaux arrivants sont des experts des secteurs télécoms,  IT,  marketing,  expérience client. Structure hiérarchique assez plate,  politique de la porte ouverte,  tutoiement,  contacts informels nombreux entre les équipes,  les nouvelles recrues sont séduites par cette atmosphère passionnée et par l’autonomie dont elles disposent. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1443252723000, 
+    "countryCode": "be", 
+    "company": "urn:li:company:1389938", 
+    "id": 88127392, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Brussels,  BE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/88127392?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fbe. onlysalesjob. com%2Fen%2Fjobs%2F5904-data-analyst&urlHash=DAPL&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Telecommunications"
+  ], 
+  "formattedPostedDaysAgo": "Posted 70 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "70d", 
+  "companyDescriptionLanguage": "fr", 
+  "decoratedCompany": {
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "VOO est active dans le secteur des télécoms,  en Wallonie et à Bruxelles et commercialise des services de : \r- Télévision numérique (150 chaînes  en SD et HD,  de la VOD,  de la TV de rattrapage et les chaînes Be tv) \r- Connexions internet à très haut débit (de 50 à 150 Mbps) \r- Téléphonie fixe de quallité\r- Téléphonie mobile\r\rFin 2009,  les services interactifs ont pu être lancés sur le câble coaxial,  après avoir investi dans la modernisation du réseau et dans une plateforme de télévision numérique interactive. \r\rEn à peine un peu plus de cinq ans,  le dynamisme de VOO lui a permis de refaire son retard sur ses principaux concurrents qui avaient lancé ce type de service en 2005 et de devenir un acteur de référence dans le secteur. \r\rLes offres de VOO sont aujourd’hui parmi les plus performantess et les plus attractives sur le marché,  tant en termes de qualité et d’exclusivité des chaînes télé qu’en termes de vitesses de connexion internet ou de prix. \r\rMais VOO c’est aussi une stratégie marketing impactante,  qui lui a permis de se forger une image de marque sympathique,  proche,  humoristique et très attractive auprès des foyers wallons et bruxellois. \r\rLa société a très rapidement grandi,  en augmentant le nombre de ses collaborateurs de plus de 300 personnes en quelques années.  La majorité des nouveaux arrivants sont des experts des secteurs télécoms,  IT,  marketing,  expérience client. \r\rStructure hiérarchique assez plate,  politique de la porte ouverte,  tutoiement,  contacts informels nombreux entre les équipes,  les nouvelles recrues sont séduites par cette atmosphère passionnée et par l’autonomie dont elles disposent. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAI6AAAAJDQxNDc0ZDgwLTdlYzctNDVjNC1hODc1LTZiYTU3OGQ4NjJhMQ. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Télévision", 
+        "Télécommunications", 
+        "Internet", 
+        "Téléphonie fixe", 
+        "Téléphonie mobile"
+      ], 
+      "universalName": "voo", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAM3AAAAJGZkM2M4ZTQwLTA0Y2ItNGVjYS05NjIwLTYzNTJhZDVhZTQ2Zg. png"
+      }, 
+      "companyId": 1389938
+    }, 
+    "canonicalName": "VOO", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Telecommunications"
+    ], 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees"
+  }, 
+  "formattedListDate": "September 26,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "fr", 
+  "hasDecoratedCompany": true
+}

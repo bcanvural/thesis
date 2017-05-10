@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "OTHR", 
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78531731", 
+    "title": "Lead Data Engineer - SQL Server,  Big Data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101668238, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "     Lead Data Engineer/Lead Database Developer/Lead Data Warehouse Engineer    - SQL Server,  Hadoop,  Spark,  SSIS,  SSRS,  SSAS£50, 000 to £70, 000Central    LondonAn International Technology Company working in the gaming    industry are looking for a Lead Data Engineer to be the first back-end    data professional into their Data Science team.  The company currently    use SQL Technologies (SSIS,  SSRS,  SSAS),  which you will use in the    short-term,  however there will be opportunity for you to make decisions    on the technologies used and they are actively considering Hadoop,     Spark,  Python and other Big Data platforms.  As the first member of this    team,  you will also have the chance to build a team underneath you.     This is a great opportunity for either a SQL Server Database    professional to move to Big Data,  or an experienced Data Engineer    looking to rapidly progress into a lead role in a business which is    investing heavily in this space.  THE COMPANYThe company are one of the    biggest players in providing technology to the gaming industry and    their clients include dozens of household names.  They have recently    received a big investment to set up a Data Science team to conduct    deep-dive analytics across their business.  They currently have 2 Data    Scientists hired,  however they are now looking for you to start their    Data Engineering practice within this team to make sure the data is    available to the Data Scientists.  THE ROLEAs Lead Data Engineer,  you    will: Collate data from multiple sources and make it accessible to Data    Scientists for complex algorithmic work,  using a mix of Microsoft    Technologies and Big Data tools.  Work with the leadership team on    technology selection,  considering Hadoop,  Spark,  Python and other    open-source technology. Develop a team of Data Engineers underneath you,     whilst still remaining hands-on.  Make new data sources available for    analyticsYOUR SKILLS AND EXPERIENCEIn order to qualify for this    position,  you will have:Strong experience in Microsoft Technologies    including the BI Stack (SSIS,  SSAS,  SSRS)At least an understanding of    open-source and Big Data tools available on the market,  for example    Python,  Ruby,  Hadoop,  or Spark - commercial experience is preferred. The    ability to work with multiple business teams to make data accessibleAn    understanding of large complex data sets,  ideally in the gaming    industryHOW TO APPLYTo apply for this role,  please do so via this site.     For more information on this role or other senior Data Warehousing/ BI    Opportunities ,  contact Ross at Harnham.  Engineer,  BI Developer,  Data    Warehouse,  Business Intelligence,  SSIS,  SSRS,  SSAS,  SQL,  Big Data,     Hadoop,  Spark,  Python", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

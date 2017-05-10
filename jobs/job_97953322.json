@@ -1,0 +1,218 @@
+{
+  "jobPosting": {
+    "companyJobCode": "greenhouse_xml-36649", 
+    "expirationDate": 1451795549000, 
+    "title": "Customer Facing Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1091, 
+          "type": "LI", 
+          "endIdx": 1147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "LI", 
+          "endIdx": 1090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "LI", 
+          "endIdx": 1048, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1012, 
+          "type": "BG", 
+          "endIdx": 1147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1012, 
+          "type": "BR", 
+          "endIdx": 1012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1008, 
+          "type": "B", 
+          "endIdx": 1012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1008, 
+          "type": "BR", 
+          "endIdx": 1008, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1008, 
+          "type": "BR", 
+          "endIdx": 1008, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 991, 
+          "type": "LI", 
+          "endIdx": 1007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 915, 
+          "type": "LI", 
+          "endIdx": 990, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 828, 
+          "type": "LI", 
+          "endIdx": 914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "LI", 
+          "endIdx": 827, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "LI", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 673, 
+          "type": "LI", 
+          "endIdx": 717, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 672, 
+          "type": "BG", 
+          "endIdx": 1008, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 672, 
+          "type": "BR", 
+          "endIdx": 672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "B", 
+          "endIdx": 672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "BR", 
+          "endIdx": 666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "BR", 
+          "endIdx": 666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " As a Customer Facing Data Scientists you will be expected to work with the Field Sales team members and lead Junior Sales Engineers in developing opportunities,  analyzing customer requirements,  and providing consultative selling skills in complex technical environments.  You will be comfortable leading technical demonstrations of Datarobot.  You will work with prospects and clients to extract and transform representative datasets for use in technical demonstrations.  You will be responsible for architecting solutions to complex predictive analytics problems involving many diverse input data sources and high volume real time implementation scenarios. Skills 4-5+ years of real world business experience Hands on real world experience in predictive modeling and machine learning Strong customer interaction skills Must possess excellent organizational,  communication,  writing and interpersonal skills Familiar with a variety of technical tools for the manipulation of datasets Up to 50% travel Plus Fluency with scripting (Python / R) Experience with cloud computing platforms Experience with Hadoop and related Big Data technologies"
+    }, 
+    "postalCode": "02101", 
+    "jobState": "LISTED", 
+    "companyName": "DataRobot", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "DataRobot helps you build better predictive models faster in the cloud.  DataRobot is designed to be your co-pilot by building and testing hundreds of models to find the best match for your data.  Our platform integrates with R and Python,  allowing you to code,  train and test your own models on our platform to see how they compare.  The company empowers Data Scientists of all experience levels to quickly find the best predictive model for their data,  allowing them to do what they do best -- faster.  Learn more at datarobot. comFollow us on Twitter @DataRobot and on Google+"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447087654000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2672915", 
+    "id": 97953322, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Boston,  MA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97953322?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fgrnh. se%2Fcw6bpq&urlHash=1oUx&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIWAAAAJDMzMTg2YzI5LWI3YmMtNDI5Ni1iMmE1LWU4YmI0YjY0MzAwZg. png"
+    }, 
+    "localizedDescription": "DataRobot helps you build better predictive models faster in the cloud.  \r\rDataRobot is designed to be your co-pilot by building and testing hundreds of models to find the best match for your data.  Our platform integrates with R and Python,  allowing you to code,  train and test your own models on our platform to see how they compare.  \r\rThe company empowers Data Scientists of all experience levels to quickly find the best predictive model for their data,  allowing them to do what they do best -- faster.  \r\rLearn more at datarobot. com\r\rFollow us on Twitter @DataRobot and on Google+", 
+    "company": {
+      "specialities": [
+        "Predictive Analytics", 
+        "Data Science", 
+        "Machine Learning", 
+        "Statistical Modeling"
+      ], 
+      "universalName": "datarobot", 
+      "companyId": 2672915, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJPAAAAJGIwNmI1ZDNmLWQxZGYtNDUxYS05MzU2LWUxNDAyZWEwMDkyMw. png"
+      }
+    }, 
+    "canonicalName": "DataRobot", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

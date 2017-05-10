@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/73548705", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Working knowledge of map/reduce and distributed data environments such as Hadoop,  strong programming skills,  solid foundation in statistics,  machine learning including supervised and unsupervised learning methods,  ability to work independently and in groups,  ability to explain technical material to non-technical audiences,  and strong English and communication skillsCandidates should have a PhD in statistics,  mathematics,  operations research,  or a similar field,  or relevant combination of background and experienceAdditional InformationEEO/AA Women,  Minorities,  Veterans,  Individuals with Disabilities Employer:  AOL offers a competitive salary and benefits package,  including 401(k) match and performance bonus.  All qualified applicants will receive consideration for employment without regard to,  and will not be discriminated against based on,  race,  gender,  color,  religion,  national origin,  sexual orientation,  gender identity,  veteran status,  disability or other protected category. ", 
+  "following": false, 
+  "companyDescription": "AOL R&amp;D in Palo Alto,  CA is looking for a talented Research Scientist to join our Large Scale Analytics (LSA) team.  In this role,  you are instrumental in transforming research concepts into prototypes and software products.   We value attitude,  aptitude,  communication skills,  and coding skills over experience with specific languages and environments. Large Scale Analytics (LSA) is primarily a research group with development of prototypes to prove new and advanced data analysis algorithms.  Team member work with very large amount of data (2. 5 - 3 billion records per day) to help discover and prove new advanced data analytic algorithms for surfacing unique methods for optimizing statistical model enabling prediction and personalization analysis.  The end goal is to improve online advertising campaigns targeting thus maximizing revenues.  In addition to utilization of distributed computing technologies,  proving newly developed algorithms,  work involves architecture and design to incorporate these new algorithms into new products. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Aol", 
+  "canFollow": false, 
+  "companyId": "1258", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Aol", 
+    "title": "Research Scientist Big Data"
+  }, 
+  "description": "The main purpose of this position is to design,  validate,  prototype,  and oversee the production implementation of big data prediction algorithms,  working together with research scientists,  data analysts,  and engineers.    The right candidate may at times work independently,  or lead the design with a small group.   The research scientist will also be expected to offer peer review of internal related work,  participate in broader design and architecture discussions,  generate analyses and reports upon request from business stakeholders,  and follow new developments in the data mining community.    The Research Scientist will join a team of 20 Research Scientists and Analysts,  and work closely with the engineering team.   "
+}

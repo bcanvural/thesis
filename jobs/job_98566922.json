@@ -1,0 +1,342 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nationalevacaturebank-8095281", 
+    "expirationDate": 1451495500000, 
+    "title": "Stagiair(e) Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2730, 
+          "type": "BR", 
+          "endIdx": 2730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2730, 
+          "type": "BR", 
+          "endIdx": 2730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2713, 
+          "type": "B", 
+          "endIdx": 2730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2713, 
+          "type": "BR", 
+          "endIdx": 2713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2713, 
+          "type": "BR", 
+          "endIdx": 2713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2712, 
+          "type": "BR", 
+          "endIdx": 2712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2712, 
+          "type": "BR", 
+          "endIdx": 2712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2584, 
+          "type": "BR", 
+          "endIdx": 2584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2504, 
+          "type": "BR", 
+          "endIdx": 2504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2431, 
+          "type": "BR", 
+          "endIdx": 2431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2403, 
+          "type": "BR", 
+          "endIdx": 2403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2305, 
+          "type": "BR", 
+          "endIdx": 2305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2305, 
+          "type": "BR", 
+          "endIdx": 2305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2037, 
+          "type": "BR", 
+          "endIdx": 2037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2037, 
+          "type": "BR", 
+          "endIdx": 2037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2027, 
+          "type": "B", 
+          "endIdx": 2037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2027, 
+          "type": "BR", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1991, 
+          "type": "LI", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1943, 
+          "type": "LI", 
+          "endIdx": 1991, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1914, 
+          "type": "LI", 
+          "endIdx": 1943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1891, 
+          "type": "LI", 
+          "endIdx": 1914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1859, 
+          "type": "LI", 
+          "endIdx": 1891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1797, 
+          "type": "LI", 
+          "endIdx": 1859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1770, 
+          "type": "LI", 
+          "endIdx": 1797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1687, 
+          "type": "LI", 
+          "endIdx": 1770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1687, 
+          "type": "BG", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1687, 
+          "type": "BR", 
+          "endIdx": 1687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "BR", 
+          "endIdx": 1672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "BR", 
+          "endIdx": 1672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BR", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BR", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1063, 
+          "type": "BR", 
+          "endIdx": 1063, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1063, 
+          "type": "BR", 
+          "endIdx": 1063, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 726, 
+          "type": "BR", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 726, 
+          "type": "BR", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 725, 
+          "type": "BR", 
+          "endIdx": 725, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 725, 
+          "type": "BR", 
+          "endIdx": 725, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 245, 
+          "type": "BR", 
+          "endIdx": 245, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 245, 
+          "type": "BR", 
+          "endIdx": 245, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 244, 
+          "type": "BR", 
+          "endIdx": 244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 244, 
+          "type": "BR", 
+          "endIdx": 244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Functieomschrijving BAS Trucks is op zoek naar een ambitieuze stagiaire big data met sterke analytische vaardigheden.  Wil jij werken en leren bij een groeiende,  internationale organisatie en heb jij een passie voor statistiek? Reageer dan snel! Als stagiair(e) big data verwachten we dat je data analyses uitvoert van o. a.  onze inkopen en verkopen aan klanten wereldwijd.  Deze resultaten gebruik je vervolgens om inzicht te krijgen in de vraag en aanbod van gebruikte voertuigen in onze afzetmarkten door de jaren heen.  Deze data wordt vaak sterk beïnvloed door marktinvloeden,  zoals wisselende economische en politieke situaties,  maar ook door trends,  zoals bepaalde voertuigvoorkeuren die per land sterk kunnen verschillen.  Uiteindelijk willen we naar een ideale voorraad toe,  waarbij ons aanbod van gebruikte voertuigen perfect is afgestemd op de vraag van onze afzetmarkten.  Aan jou dus de uitdaging om uit te zoeken hoe we met behulp van data analyses ons voorraadbeheer kunnen optimaliseren.  Uiteraard krijg je voldoende tijd om aan deze opdracht te werken.  Bedrijfsprofiel Met een jaarlijkse verkoop van meer dan 6. 000 voertuigen in meer dan 100 landen is BAS Trucks één van de grootste marktleiders in de wereldwijde handel van gebruikte en nieuwe vrachtwagens en trailers.  Stage lopen bij BAS Trucks betekent dan ook stage lopen bij een internationale organisatie met een database van een half miljoen klanten,  200. 000 website bezoeken per maand en 35. 000 gepersonaliseerde en geautomatiseerde mails per week.  Alle gegenereerde data wordt opgeslagen in onze database,  zodat we alles kunnen monitoren en onze inkoop- en verkoopprocessen alsmaar kunnen verbeteren.   Functie-eisen WO opleiding,  bijv. : econometrie,  wiskunde,  informatica of een gerelateerde studie;Meewerk- of afstudeerstage;Aantoonbare affiniteit met onderzoekstechnieken en statistiek;Sterke analytische vaardigheden;Goede kennis van Excel;Kennis van SPSS/R is een pré;Het spreken en schrijven van Engels is een must;Zelfstandig maar ook een teamplayer. Wij biedenDé kans om stage te lopen bij een uiterst professionele handelsorganisatie waarbij alle benodigde tools voorhanden zijn.  Samen met een gemotiveerd en gezellig team proberen we iedere week opnieuw te scoren.  BAS Trucks biedt alles wat nodig is om jezelf te ontwikkelen. • Een stagevergoeding tussen de €250, - en €325, - (afhankelijk van de opleiding en dagen aanwezig);• Professionele begeleiding;• Bij goede prestaties uitzicht op een professionele baan bij BAS Trucks;• Een ontspannen en gezellige werkomgeving met vrijdagmiddagborrels en feestjes;• Goed om te weten: BAS Trucks is vanuit Eindhoven (20 min. ) en Den Bosch (35 min. ) direct te bereiken met het openbaar vervoer.  ContactinformatieInteresse? Laat aan ons zien wat je kunt en stuur je cv en motivatie naar onze recruiter Len van den Elsen: personeelszaken@bastrucks. com"
+    }, 
+    "postalCode": "5460", 
+    "jobState": "LISTED", 
+    "companyName": "BAS Groep", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Met vijf vestigingen is BAS Groep één van grootste truck- en bedrijfswagendealers in Nederland.  BAS Groep is geautoriseerd Volvo Trucks dealer en dealer van de lichte bedrijfswagens van Renault Trucks.  Vanuit de vestigingen in Nijmegen,  Oss,  Veghel,  Veldhoven en Tilburg is BAS Groep actief in de verkoop van alle typen Volvo trucks,  de Renault Master,  de Renault Maxity en de Renault D CAB 2 M.  Daarnaast biedt BAS Groep alle mogelijke service en diensten voor lichte bedrijfswagens,  trekkend en getrokken materieel.  BAS Groep vertrouwt hiervoor op haar specialisten die voortdurend worden bijgeschoold en als team klaarstaan voor de klant. De bedrijfsvoering van BAS is erop gericht de klant zoveel mogelijk zorg uit handen te nemen rondom het voertuig.  Dan gaat het over het product,  over de diensten en over de manier waarop de klant tegemoet wordt getreden.  De kernwaarden die hierbij horen,  zijn samengevat in de BAS Beloftes:- Beste kwaliteit- Altijd een oplossing- Laagste prijs- 100 % transparant- Direct actie- Geen gedoe- Persoonlijke aandachtDeze beloftes geven duidelijk weer dat klantentevredenheid een van de belangrijkste speerpunten in het beleid is.  Medewerkerstevredenheid is hier onlosmakelijk mee verbonden. BAS Groep is een onderdeel van EXA Holding.  Interesse in een leuke baan bij BAS of een van de andere bedrijven die onder EXA Holding vallen? Bekijk alle vacatures op www. werkenbijbas. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1447346181000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:556939", 
+    "id": 98566922, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Veghel,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "Met vijf vestigingen is BAS Groep één van grootste truck- en bedrijfswagendealers in Nederland.  BAS Groep is geautoriseerd Volvo Trucks dealer en dealer van de lichte bedrijfswagens van Renault Trucks.  Vanuit de vestigingen in Nijmegen,  Oss,  Veghel,  Veldhoven en Tilburg is BAS Groep actief in de verkoop van alle typen Volvo trucks,  de Renault Master,  de Renault Maxity en de Renault D CAB 2 M.  Daarnaast biedt BAS Groep alle mogelijke service en diensten voor lichte bedrijfswagens,  trekkend en getrokken materieel.  BAS Groep vertrouwt hiervoor op haar specialisten die voortdurend worden bijgeschoold en als team klaarstaan voor de klant. \r\rDe bedrijfsvoering van BAS is erop gericht de klant zoveel mogelijk zorg uit handen te nemen rondom het voertuig.  Dan gaat het over het product,  over de diensten en over de manier waarop de klant tegemoet wordt getreden.  De kernwaarden die hierbij horen,  zijn samengevat in de BAS Beloftes:\r- Beste kwaliteit\r- Altijd een oplossing\r- Laagste prijs\r- 100 % transparant\r- Direct actie\r- Geen gedoe\r- Persoonlijke aandacht\r\rDeze beloftes geven duidelijk weer dat klantentevredenheid een van de belangrijkste speerpunten in het beleid is.  Medewerkerstevredenheid is hier onlosmakelijk mee verbonden. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/17e/3d9/02ee482. png"
+    }, 
+    "canonicalName": "BAS Groep", 
+    "company": {
+      "specialities": [
+        "Volvo truckdealer", 
+        "Renault bedrijfswagendealer", 
+        "Reparatie & onderhoud"
+      ], 
+      "universalName": "bas-groep", 
+      "companyId": 556939, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/000/1b7/3c9/2d60ae7. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "201-500", 
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanyType": "Privately Held", 
+    "formattedIndustries": [
+      "Automotive"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedExperience": "Internship", 
+  "formattedIndustries": [
+    "Automotive"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "nl", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98566922?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nationalevacaturebank. nl%2Fvacature%2F8095281%2FStagiair%2528e%2529%2BBig%2BData%2F&urlHash=-bxK&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "nl", 
+  "formattedEmploymentStatus": "Full-time"
+}

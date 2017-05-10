@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "honestbee", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "workable_xml-7386F7CC68", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102417954, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. honestbee. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAPGAAAAJDVkZWQ4MjIzLWEyZTEtNDI0My1hMTAzLWE2NTllNzdmNmM0Mg. png", 
+    "universalName": "honestbee", 
+    "companyId": 6413742
+  }, 
+  "description": "    We are looking for problem solver,  data magician and revolutionist who    believe in the uprising of e-commerce.        Analyse data or develop statistical and probabilistic models to        derive actionable insights       Focus on one unique product line,  and use data to assist the team        in making accurate judgement       Build tools for data analytics       Perform data analyses,  generate and test working hypothesis,         prepare and analyze historical data,  identify patterns and apply        machine learning techniques to formulate a solution.        Understand the technology and explains findings to businesses        audiences,  both internal and external.      Requirements    We are looking for people with a broad knowledge of machine learning,     data mining techniques and statistical models and use their creativity    to invent or customize existing methods to effectively tackle problem    faced by an unique business model.     Requirements       Master in Computer Science,  Statistics,  or related technical fields        (PhD a plus)       Strong knowledge of data warehouse,  structures and algorithms       Strong knowledge of data mining algorithms including those in        machine learning,  statistical learning,  probabilistic graphical        models and neural networks       Proficient in at least one compiled language and one scripting        language       Desire to transform noisy signals first to information and finally        to value for customers     Benefits       Competitive salaries + employee stock options       Comprehensive individual insurance plan       Office gym and shower facilities       Gaming Room (Razor equipped!)       Resting pods", 
+  "companyDescription": "      honestbee    honestbee is Asia’s leading online grocery concierge service for all    your household and grocery needs.  Available in Singapore and Hong Kong,     we can deliver to your doorstep on the same day.  Simply choose from the    widest online product selection and buy from multiple stores in one    cart.     At honestbee,  our goal is to get you what you need,  when you need it.     In-store concierge shoppers trained by honestbee make sure the items in    your shopping cart,  including meat and produce,  are carefully    handpicked for you with freshness guaranteed.     We strongly believe in giving back to the society.  Founded on the    principles of being a social impact business,  we seek to provide    extensive skills upgrading and training,  and to create equal employment    opportunities for everyone in our communities through technology.     Our trained shoppers and delivery professionals love the flexibility of    their jobs.  By having the freedom to create their own working schedules    to best suit their lifestyle,  our motivated professionals go the extra    mile to deliver the best to our customers. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

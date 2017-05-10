@@ -1,0 +1,254 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-4bf97ac7-3915-41ea-ade8-b7ad4faba44f", 
+    "expirationDate": 1451907581000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1293, 
+          "type": "LI", 
+          "endIdx": 1341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1262, 
+          "type": "LI", 
+          "endIdx": 1291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "LI", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1181, 
+          "type": "LI", 
+          "endIdx": 1218, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "LI", 
+          "endIdx": 1179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1100, 
+          "type": "LI", 
+          "endIdx": 1137, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "LI", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1028, 
+          "type": "LI", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BG", 
+          "endIdx": 1341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "B", 
+          "endIdx": 1024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 906, 
+          "type": "LI", 
+          "endIdx": 993, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 818, 
+          "type": "LI", 
+          "endIdx": 904, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 770, 
+          "type": "LI", 
+          "endIdx": 816, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 674, 
+          "type": "LI", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "LI", 
+          "endIdx": 672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 467, 
+          "type": "LI", 
+          "endIdx": 616, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "LI", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 221, 
+          "type": "LI", 
+          "endIdx": 283, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 108, 
+          "type": "LI", 
+          "endIdx": 219, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 106, 
+          "type": "BG", 
+          "endIdx": 996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 76, 
+          "type": "B", 
+          "endIdx": 104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 75, 
+          "type": "BR", 
+          "endIdx": 75, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 75, 
+          "type": "BR", 
+          "endIdx": 75, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 40, 
+          "type": "B", 
+          "endIdx": 75, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 39, 
+          "type": "BR", 
+          "endIdx": 39, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "B", 
+          "endIdx": 39, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 20, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Title: Data Analyst  Duration: 3 months Location: Palm Springs CA USA 92262 Responsibilities And  skills    To design and implement an Access database used to coordinate the inventory of product returned from the field.   The project will include developing forms,  reports and charts.   Database Administration is responsible for maintaining physical databases on specific database technologies in the production environment; implementing production database changes.   Identifies database issues following implementation (e. g.  tuning,  back-up,  recovery,  security) and implements solutions for medium risk applications.   The job seeker must have recent experience with Access  Responsible for developing an Access database to track the return goods coming from the field.   The return goods will be tracked with barcodes  Experience in data modeling,  analysis,  design,  testing,  development and implementation  Knowledge of data,  master data and metadata related standards,  processes and technology    Requirements/ nice to have:    Access Database Design &amp; Implementation  Associates Degree or more  Experience designing Access databases  Experience implementing Access Databases  Experience designing Access databases  Experience implementing Access Databases  Good documentation experience  Self-starter and ability to work as part of team"
+    }, 
+    "postalCode": "92262", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447374263000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 98665089, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Palm Springs,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98665089?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3D4bf97ac7-3915-41ea-ade8-b7ad4faba44f%26OrgId%3D1%26UserId%3D1&urlHash=8Ykg&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "foundedYear": 2004, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "canonicalName": "Spectraforce Technologies", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 13,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

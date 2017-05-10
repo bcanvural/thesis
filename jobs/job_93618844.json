@@ -1,0 +1,374 @@
+{
+  "jobPosting": {
+    "companyJobCode": "slalom-8182b0928b08bab7f103039a26ea861c", 
+    "expirationDate": 1451961240000, 
+    "title": "Data Scientist/Big Data Consultant", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2207, 
+          "type": "BR", 
+          "endIdx": 2207, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2207, 
+          "type": "BR", 
+          "endIdx": 2207, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2150, 
+          "type": "LI", 
+          "endIdx": 2207, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2107, 
+          "type": "LI", 
+          "endIdx": 2150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2056, 
+          "type": "LI", 
+          "endIdx": 2107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2056, 
+          "type": "BG", 
+          "endIdx": 2207, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2056, 
+          "type": "BR", 
+          "endIdx": 2056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2049, 
+          "type": "B", 
+          "endIdx": 2056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2049, 
+          "type": "BR", 
+          "endIdx": 2049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1954, 
+          "type": "LI", 
+          "endIdx": 2049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1903, 
+          "type": "LI", 
+          "endIdx": 1954, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1854, 
+          "type": "LI", 
+          "endIdx": 1903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1819, 
+          "type": "LI", 
+          "endIdx": 1854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1758, 
+          "type": "LI", 
+          "endIdx": 1819, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1716, 
+          "type": "LI", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1678, 
+          "type": "LI", 
+          "endIdx": 1716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "LI", 
+          "endIdx": 1678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1521, 
+          "type": "LI", 
+          "endIdx": 1579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1442, 
+          "type": "LI", 
+          "endIdx": 1521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1384, 
+          "type": "LI", 
+          "endIdx": 1442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1261, 
+          "type": "LI", 
+          "endIdx": 1384, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1183, 
+          "type": "LI", 
+          "endIdx": 1261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1183, 
+          "type": "BG", 
+          "endIdx": 2049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1183, 
+          "type": "BR", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "U", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "B", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "BR", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "BR", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1102, 
+          "type": "LI", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1004, 
+          "type": "LI", 
+          "endIdx": 1102, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 902, 
+          "type": "LI", 
+          "endIdx": 1004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 843, 
+          "type": "LI", 
+          "endIdx": 902, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 736, 
+          "type": "LI", 
+          "endIdx": 843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 677, 
+          "type": "LI", 
+          "endIdx": 736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 587, 
+          "type": "LI", 
+          "endIdx": 677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 443, 
+          "type": "LI", 
+          "endIdx": 587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 443, 
+          "type": "BG", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 443, 
+          "type": "BR", 
+          "endIdx": 443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "U", 
+          "endIdx": 443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "B", 
+          "endIdx": 443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "BR", 
+          "endIdx": 427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "BR", 
+          "endIdx": 427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " As a member of the Information Management and Analytic Practice team,  you will develop and investigate hypotheses,  structure experiments,  and build mathematical models to identify process optimization points,  find predictive trends,  and simulate systems.  We are looking for a sharp,  disciplined,  and highly quantitative individual who has a passion for applying science to solve our client’s real business problems. ResponsibilitiesAnalyze,  design,  develop,  test,  troubleshoot,  and document complex data systems that may involve predictive,  simulation,  and optimization modelsDevice new algorithm approaches to solving difficult and challenging quantitative problemsAdopt new tools and algorithms to improve model performanceWork independently on complex statistical modeling and analysis with very large and complex data structuresDesign data experiment to verify assumptions and hypothesisExperiment with new algorithms and analytical approaches and report on the impact to model performanceCollaborate with data analysts and architects on data selection,  data preprocessing,  and analyticsInfluence development teams to implement flexible analytical platformRequirementsB. S.  or higher in Applied Math,  Statistics,  Computer Science or related fields5 plus years-experience preferred in predictive,  optimization,  and simulation models using structured and unstructured data3 plus years specific experience with social data modelingStrong background in statistical,  mathematical,  and operation research modelingStrong analytical and quantitative problem solving abilitySolid understanding of statistical modeling,  predictive analysis,  machine learning,  and data miningExpert with R,  SAS,  SPSS or equivalentGood presentation and communication skillsAbility to prioritize and track multiple projects in parallelExperience in Python and JavascriptAbility to educate others on statistical modelingSelf-starter with the ability to work independentlyAbility to communicate complex quantitative analysis in a clear,  precise,  and actionable mannerDesiredScripting experience in Python,  Ruby,  or JavascriptExperience with Unix/Linux Operating SystemExperience in Hadoop (HDFS,  and MapReduce),  Pig,  and Hive"
+    }, 
+    "postalCode": "75201", 
+    "jobState": "LISTED", 
+    "companyName": "Slalom Consulting", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Slalom designs and builds strategies and systems to help our clients solve some of their most complex and interesting business challenges. Of all the things that make Slalom unique,  our people are at the top of the list.  They’re seasoned consultants with deep expertise in their chosen fields who genuinely care about making a difference in our clients’ businesses,  and the communities they live in.  And there’s something else—they smile.  One of our clients once said that he can recognize Slalom consultants because they’re the ones in the room who are smiling.  As we’ve grown to 3, 000+ consultants in 15 offices across the US + London and Toronto,  we’ve kept our focus on enabling our people to do exactly that. We consistently earn recognition from \"Best Places To Work\" and Local Business Journals as well as Glassdoor and other employee-driven surveys.  We have been awarded \"United States Partner of the Year\" and \"Online Services Partner of the Year\" by Microsoft as well as one of the \"Top 10 Best Firms to Work For\" by Consulting Magazine.  For more information,  visit www. slalom. com. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "CNSL"
+    ], 
+    "listDate": 1445362357000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:166000", 
+    "id": 93618844, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Dallas,  TX,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93618844?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. slalom. com%2Fjob-opportunity-dallas-big-data-consultant&urlHash=3t_T&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Consulting"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 46 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "46d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Management Consulting"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Slalom Consulting", 
+    "company": {
+      "specialities": [
+        "management consulting", 
+        "strategy consulting", 
+        "technology consulting", 
+        "cloud", 
+        "business intelligence", 
+        "portals and collaboration", 
+        "mobility", 
+        "project management and PMOs", 
+        "business process optimization", 
+        "organizational effectiveness"
+      ], 
+      "universalName": "slalom-consulting", 
+      "companyId": 166000, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAUMAAAAJDliMTk1N2IxLWRlOGUtNGUyMC04MTg3LWM5M2I0NjQyYmRhYg. png"
+      }
+    }, 
+    "foundedYear": 2001, 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAZ2AAAAJDY2YjQ2MmY5LWRkN2EtNGYyMS04YTJiLWNiNDZiMWEzNGMzMA. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAWzAAAAJGE4MmUzNTRkLWE3ODQtNGVkOC05MzA4LTA1M2RmZDRiMTU2NQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAZ2AAAAJDY2YjQ2MmY5LWRkN2EtNGYyMS04YTJiLWNiNDZiMWEzNGMzMA. png", 
+    "localizedDescription": "Slalom designs and builds strategies and systems to help our clients solve some of their most complex and interesting business challenges. \r\rOf all the things that make Slalom unique,  our people are at the top of the list.  They’re seasoned consultants with deep expertise in their chosen fields who genuinely care about making a difference in our clients’ businesses,  and the communities they live in.  And there’s something else—they smile.  One of our clients once said that he can recognize Slalom consultants because they’re the ones in the room who are smiling.  As we’ve grown to 3, 000+ consultants in 15 offices across the US + London and Toronto,  we’ve kept our focus on enabling our people to do exactly that. \r\rWe consistently earn recognition from \"Best Places To Work\" and Local Business Journals as well as Glassdoor and other employee-driven surveys.  We have been awarded \"United States Partner of the Year\" and \"Online Services Partner of the Year\" by Microsoft as well as one of the \"Top 10 Best Firms to Work For\" by Consulting Magazine.  For more information,  visit www. slalom. com. "
+  }, 
+  "formattedListDate": "October 20,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

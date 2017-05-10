@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89067698", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Passion for Data Science Minimum 2 years of statistical models development experience,  preferably in the bank lending industry Strong experience with at least one language/software package for data analysis (R,  Python,  SAS,  VBA,  etc. ) Strong database usage Expertise in predictive modelling and machine/statistical learning methods Experienced in data manipulation,  statistical analysis and analytical problem solving Excellent report writing and presentation skills Experience in the implementation and real time monitoring of model performance Business acumen and ability to work in an entrepreneurial culture Degree in quantitative field is a plus Certification and recognitions in Data Science programs achieved on MOOC platforms (Coursera,  edX,  Udacity,  etc. ) or proven strong ranking on competitions in data analytics (e. g.  Kaggle) is considered as valuable asset", 
+  "following": false, 
+  "companyDescription": "Telenor banka is a part of Telenor Group,  with 179 million users and present on 13 markets − in Scandinavia (Norway,  Sweden and Denmark),  Central and East Europe (Hungary,  Serbia,  Montenegro and Bulgaria) and Asia (Thailand,  Malaysia,  Bangladesh,  Pakistan,  Myanmar and India).  Since 2006,  when it began its operations in Serbia,  Telenor Serbia has been the country’s largest mobile operator,  attracting more than three million satisfied customers from all walks of life.  To this day,  Telenor remains the largest foreign investor in Serbia,  continuously advancing the local economy,  society,  culture and environment. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Telenor banka", 
+  "canFollow": false, 
+  "companyId": "3999529", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Telenor banka", 
+    "title": "Data Scientist - Credit Risk Modeler"
+  }, 
+  "description": "• Recommending,  developing and own implementation of the data driven credit risk strategy for Telenor banka lending business  • Work cross-functionally to develop scoring approach and strategy based on traditional and alternative data types and sources  • Monitoring and improving the integrity of the credit data used within the organization for credit decisions  • Ensuring legal and regulatory requirements are incorporated within any credit risk data and strategy  • Continuous monitoring and performance assessments of all models,  providing recommendations,  changes and enhancements  • Performing detailed statistical analysis to improve model segmentation and support data driven decision making  • Supporting the development and release of new products  • Manage the documentation of Models and the overall decision system"
+}

@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Techfolk Limited", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "drapersjobs_westerndailypress-502575055", 
+    "title": "Data Engineer / DBA: big data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102045070, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. techfolk. co. uk", 
+    "logo": "urn:li:media:/p/2/005/05a/391/3d3d026. png", 
+    "universalName": "techfolk-limited", 
+    "companyId": 5075833
+  }, 
+  "description": "     Ready to shape,  run and develop a fast-growing data mining platform?    Fresh8 Gaming needs you to build on our solid foundations in data    operations,  helping us scale up our behaviour-based content serving    platform.  This is a hands-on job,  informing our data vision,  shaping    our architecture and data operations,  and looking after our databases.     You'll be supported by our engineering team and have freedom to choose    and implement best practice methods and to employ the latest    technologies,  enabling better data accessibility for our software    engineers.  You'll also build and grow our data pipeline to support us    in insights,  analysis and data integrity.  We can support your    transition from another technology family.  You'll be joining our    friendly,  capable team,  collaborating on a mixture of client projects    and product roadmap initiatives to get the most from the possibilities    from data science and machine learning.  Our software stack is    predominantly open source - written in Go - and is structured as a    service oriented architecture.  Data storage is in Elastic for    statistics and metrics,  with queueing system data stored in Redis.     AngularJS and Node. js are used for our CMS solution.  What you'll do -    as Data Engineer / DBA - Help transform our data warehouse using    state-of-the-art data infrastructure components to enable our    engineering,  analytics and product teams to incorporate data insights    into our product and BI tools - Build out and expand our ETL    infrastructure and automate and validate as much of the data pipeline    as possible - Create data products using Ruby and Golang that go beyond    SQL capabilities - Monitor systems downtime and respond quickly to    failovers,  bringing the database back to normal operation - Reduce the    load on Redshift by analysing usage patterns About you - as Data    Engineer / DBA - You learn quickly,  you're a self-starter,  and you ship    quality code - You bring some relevant programming skills,  having    previously developed data driven systems - You're experienced with    NoSQL architectures and you bring proven DBA skills,  transferring from    any of: MongoDB | Cassandra | Hadoop | HBase | ElasticSearch | BigQuery    | CouchDB | MySQL | PostgreSQL | Spark | Storm | Riak | Mahout | MLib |    DynamoDB | MariaDB | Voldemort | etc - You have strong ETL and    scripting skills,  e. g.  Ruby or Python - You have a Computing or    numerate degree from a well ranked University,  or excellent earlier    grades - You may be considering other senior jobs in Bristol such as:    Big Data Engineer | NoSQL Data Engineer | Big Data Developer | Data    Warehouse Engineer | Data Warehouse Developer | ETL Developer |    Database Administrator Salary and benefits - £45, 000 - £55, 000    negotiable - Flexible and home working | 26 days holiday | Great    opportunities to grow your skillset using the latest technologies |    Personal development time and resources | Conferences budget | Cycle    scheme | Team outings About us Fresh8 Gaming is a funded start-up    technology company with big ambitions.  Our intelligent software makes    smart content-serving decisions to share the most relevant content with    users,  based on a deep understanding of their preferences.  Being voted    'Best start-up in Europe' by the gaming industry,  and with Tesco    amongst our FMCG customers,  we're expanding into Europe,  the US and    Australia.  Currently with 20 staff in London and Bristol,  we need    talented people who can become the future of our business.  Location:    central Bristol,  by Temple Meads Even if your CV isn't ready,  please    talk with Andrew at techfolk to explore things further.  Data Engineer /    DBA: big data", 
+  "companyDescription": "      Techfolk Limited    techfolk offers South West IT jobs and technical recruitment - from    people who understand and have worked in,  tech.     If you’re thinking about career,  let's get our heads together.  If    you’ve plans for the team,  we can help you get them right first time.     And if you’re considering hiring,  we’d love to lead the campaign.     Please visit the website,  and check out our social pages for the latest    jobs,  tips and developments.     We have exciting first year of business ahead and we will be building    our LinkedIn page over the coming months.     We look forward to working with you soon.     The techfolk team. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

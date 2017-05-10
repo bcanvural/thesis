@@ -1,0 +1,415 @@
+{
+  "jobPosting": {
+    "companyJobCode": "silkroad_xml-5181", 
+    "expirationDate": 1452011881000, 
+    "title": "Business Systems Analyst - Data Analyst - Vendor Master", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4350, 
+          "type": "LI", 
+          "endIdx": 4472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4281, 
+          "type": "LI", 
+          "endIdx": 4349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4201, 
+          "type": "LI", 
+          "endIdx": 4280, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4082, 
+          "type": "LI", 
+          "endIdx": 4200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3982, 
+          "type": "LI", 
+          "endIdx": 4081, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3930, 
+          "type": "LI", 
+          "endIdx": 3981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3840, 
+          "type": "LI", 
+          "endIdx": 3929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3759, 
+          "type": "LI", 
+          "endIdx": 3839, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3705, 
+          "type": "LI", 
+          "endIdx": 3758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3704, 
+          "type": "BG", 
+          "endIdx": 4472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3596, 
+          "type": "LI", 
+          "endIdx": 3702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3575, 
+          "type": "LI", 
+          "endIdx": 3595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3543, 
+          "type": "LI", 
+          "endIdx": 3574, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3464, 
+          "type": "LI", 
+          "endIdx": 3542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3362, 
+          "type": "LI", 
+          "endIdx": 3463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3271, 
+          "type": "LI", 
+          "endIdx": 3361, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3154, 
+          "type": "LI", 
+          "endIdx": 3270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3056, 
+          "type": "LI", 
+          "endIdx": 3153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2932, 
+          "type": "LI", 
+          "endIdx": 3055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2756, 
+          "type": "LI", 
+          "endIdx": 2931, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2477, 
+          "type": "LI", 
+          "endIdx": 2755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2418, 
+          "type": "LI", 
+          "endIdx": 2476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2379, 
+          "type": "LI", 
+          "endIdx": 2417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2178, 
+          "type": "LI", 
+          "endIdx": 2378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2042, 
+          "type": "LI", 
+          "endIdx": 2177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2041, 
+          "type": "BG", 
+          "endIdx": 3703, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2041, 
+          "type": "BR", 
+          "endIdx": 2041, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "U", 
+          "endIdx": 2041, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "B", 
+          "endIdx": 2041, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "BR", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "BR", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1899, 
+          "type": "LI", 
+          "endIdx": 2021, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1830, 
+          "type": "LI", 
+          "endIdx": 1898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1750, 
+          "type": "LI", 
+          "endIdx": 1829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1631, 
+          "type": "LI", 
+          "endIdx": 1749, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1531, 
+          "type": "LI", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1479, 
+          "type": "LI", 
+          "endIdx": 1530, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1389, 
+          "type": "LI", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1308, 
+          "type": "LI", 
+          "endIdx": 1388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1254, 
+          "type": "LI", 
+          "endIdx": 1307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BG", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "U", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "B", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "BR", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1238, 
+          "type": "BR", 
+          "endIdx": 1238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 957, 
+          "type": "BR", 
+          "endIdx": 957, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 957, 
+          "type": "BR", 
+          "endIdx": 957, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 517, 
+          "type": "BR", 
+          "endIdx": 517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 517, 
+          "type": "BR", 
+          "endIdx": 517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " The Data Analyst is responsible for the discovery,  classification,  assessment,  and alignment of business data.  The Data Analyst is knowledgeable about industry data standards and is skilled at aligning data attributes with corresponding industry standards.  The Data Analyst uses data dictionaries,  metadata management tools,  data modeling tools and other systems to document data analysis findings,  conclusions,  and recommendations.  The Data Analyst documents data migration and data quality requirements. The Data Analyst works with subject matter experts,  Business Systems Analysts,  Data Architects,  System Integrators,  and others across functional boundaries to develop data migration plans,  data quality plans,  data migration test cases,  and data validation plans.  The Data Analyst participates in the development of Standard Operating Procedures and Work Instructions supporting the creation,  update,  access,  and retirement of business data. The Data Analyst works with various IT compliance/governance teams to ensure Bio-Rad policies,  procedures,  and work instructions are followed during the execution of project activities.  Develop and document the business rules for purification,  staging,  migration and data integrityRequired Skills Solid analytical skills,  and a strong customer focus.  Proven expertise in data analysis,  data modeling,  and data management techniques Proficiency in MS Office Suite of products - PowerPoint,  Word,  Excel,  Projects,  and Visio Experience in HP QC (Quality Center),  MS Sharepoint Excellent time management and problem solving skills.  Strong oral and written communication skills.  Proven ability to work effectively and collaboratively with internal business/technical teams and external consultants Be an ambitious self-starter and work well in pressure and ambiguous situations Must be capable of working independently in a fast-paced environment Ability to travel on average 30%,  including international,  with the ability to travel extensively as project needs require Required Experience Bachelor&rsquo;s / Master&rsquo;s degree in Information Technology,  Business,  or an equivalent combination of education and experience.  Five (5)+ years of systems/data analysis experience in a large international manufacturing company.  Experience with Enterprise Information Management (EIM) tools and technologies are highly desirable.  Experience with SAP ECC 6. 0 is desired Basic programming experience to write queries and formulas Data Migration experience (ETL) Experience with systems implementation and/or process transformation.  The candidate must have experience documenting processes “as is” through process maps and SOP&rsquo;s and have a working knowledge of business process decomposition techniques.  The candidate must be able to design processes,  sub-processes and have an understanding how these processes provide Bio-Rad competitive advantages or operational efficiencies.  Previous experience on project teams with a proven ability to work under time constraints while meeting critical milestones Proven ability to solve problems in a methodical manner and to track and measure expected results Internally driven and has experience working with a cross disciplined team at a fast pace in a demanding environment Can process and disposition a high volume of requests in an organized and efficient manner Is high analytical and has a pragmatic approach and an insatiable drive to see problems to conclusion Able to manage independently all phases of a significant project or initiative Attention to detail a necessity Willingness to learn Must have leadership ability and be comfortable accounting for deliverables in a high profile project team   Solid analytical skills,  and a strong customer focus.  Proven expertise in data analysis,  data modeling,  and data management techniques Proficiency in MS Office Suite of products - PowerPoint,  Word,  Excel,  Projects,  and Visio Experience in HP QC (Quality Center),  MS Sharepoint Excellent time management and problem solving skills.  Strong oral and written communication skills.  Proven ability to work effectively and collaboratively with internal business/technical teams and external consultants Be an ambitious self-starter and work well in pressure and ambiguous situations Must be capable of working independently in a fast-paced environment Ability to travel on average 30%,  including international,  with the ability to travel extensively as project needs require"
+    }, 
+    "postalCode": "92430", 
+    "jobState": "LISTED", 
+    "companyName": "Bio-Rad Laboratories", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Bio-Rad Laboratories (NYSE: BIO and BIOb) offers a broad range of innovative tools and services to the life science research and clinical diagnostics markets.  Founded in 1952,  Bio-Rad has a global team of more than 7, 600 employees and serves more than 100, 000 research and industry customers worldwide through the company's global network of operations.  Throughout its existence,  Bio-Rad has built strong customer relationships that advance scientific research and development efforts and support the introduction of new technology used in the growing fields of genomics,  proteomics,  drug discovery,  food safety,  medical diagnostics,  and more.  Based in Hercules,  CA,  Bio-Rad has operations worldwide. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "SALE", 
+      "OTHR", 
+      "IT"
+    ], 
+    "listDate": 1447510041000, 
+    "countryCode": "fr", 
+    "company": "urn:li:company:1613226", 
+    "id": 98918847, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Marnes-la-Coquette,  FR", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanySize": "5001-10000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Laboratory instruments,  apparatus,  and consumables for life science research", 
+        "products used to separate,  purify,  identify,  analyze,  and amplify biological materials", 
+        "laboratory diagnostics products to support monitoring and treatment of diseases"
+      ], 
+      "universalName": "bio-rad", 
+      "companyId": 1613226, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/6/005/01f/054/379f33f. png"
+      }
+    }, 
+    "localizedDescription": "Bio-Rad Laboratories (NYSE: BIO and BIOb) offers a broad range of innovative tools and services to the life science research and clinical diagnostics markets.  Founded in 1952,  Bio-Rad has a global team of more than 7, 600 employees and serves more than 100, 000 research and industry customers worldwide through the company's global network of operations.  Throughout its existence,  Bio-Rad has built strong customer relationships that advance scientific research and development efforts and support the introduction of new technology used in the growing fields of genomics,  proteomics,  drug discovery,  food safety,  medical diagnostics,  and more.  Based in Hercules,  CA,  Bio-Rad has operations worldwide. ", 
+    "foundedYear": 1952, 
+    "formattedIndustries": [
+      "Biotechnology"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Bio-Rad Laboratories", 
+    "careersImage": "urn:li:media:/p/7/005/01f/055/292be89. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAZQAAAAJGQ2ODgxY2ExLWFjNDUtNDdjYi1hOWU0LWY3ZDc5OTBlNDBiNg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/7/005/01f/055/292be89. png"
+  }, 
+  "formattedJobFunctions": [
+    "Sales", 
+    "Other", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Biotechnology"
+  ], 
+  "formattedPostedDaysAgo": "Posted 21 days ago", 
+  "formattedPostedDaysAgoSlim": "21 days ago", 
+  "formattedPostedDaysAgoShort": "21d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 14,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98918847?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fbiorad-openhire. silkroad. com%2Fepostings%2Fsubmit. cfm%3Ffuseaction%3Dapp. dspjob%26jobid%3D5181%26company_id%3D16446%26version%3D1%26jobBoardId%3D3346&urlHash=X0Q7&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

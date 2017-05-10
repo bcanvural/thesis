@@ -1,0 +1,189 @@
+{
+  "jobPosting": {
+    "companyJobCode": "peopleclick-76160", 
+    "expirationDate": 1451785449000, 
+    "title": "Benefits Communications Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 481, 
+          "type": "BR", 
+          "endIdx": 481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 481, 
+          "type": "BR", 
+          "endIdx": 481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 464, 
+          "type": "B", 
+          "endIdx": 480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 463, 
+          "type": "BR", 
+          "endIdx": 463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "B", 
+          "endIdx": 463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "BR", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "BR", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 333, 
+          "type": "LI", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "LI", 
+          "endIdx": 333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 179, 
+          "type": "LI", 
+          "endIdx": 268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 149, 
+          "type": "LI", 
+          "endIdx": 179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 83, 
+          "type": "LI", 
+          "endIdx": 149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "LI", 
+          "endIdx": 83, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BG", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 19, 
+          "type": "BR", 
+          "endIdx": 19, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 18, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "The Requirements    Pass at C or above for Maths and English at GCSE or equivalent. Self-motivated and ability to work on own and to tight timescales. Strong problem solving skills. Advanced knowledge of Excel spreadsheets,  Access Databases,  SQL and manipulation of data. Project management and client facing skills would be an advantageA working knowledge of HTML would be advantageous,  but not mandatory as training will be provided. Towers Watson is an EO employer.    The Business   Towers Watson’s Technology and Administration Solutions is a global line of business whose revenue is primarily driven from providing outsourced pension administration services to occupational pension funds.  Our three largest markets are Germany,  UK and US.  We have worked with some of the world’s leading organizations for over 25 years to provide benefit administration and outsourcing to over five million participants across the globe. "
+    }, 
+    "postalCode": "RH2", 
+    "jobState": "LISTED", 
+    "companyName": "Towers Watson", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Towers Watson is a leading global professional services company that helps organizations improve performance through effective people,  risk and financial management.  With 16, 000 associates around the world,  we offer consulting,  technology and solutions in the areas of benefits,  talent management,  rewards,  and risk and capital management. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "HR", 
+      "MRKT", 
+      "IT"
+    ], 
+    "listDate": 1447229664000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3965", 
+    "id": 98345967, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Redhill,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "Towers Watson is a leading global professional services company that helps organizations improve performance through effective people,  risk and financial management.  \r\rWith 16, 000 associates around the world,  we offer consulting,  technology and solutions in the areas of benefits,  talent management,  rewards,  and risk and capital management. ", 
+    "company": {
+      "specialities": [
+        "global human resources consulting firm", 
+        "exchange solutions", 
+        "pension", 
+        "employee benefits", 
+        "talent management", 
+        "investment strategies", 
+        "HR technology systems", 
+        "flexible outsourcing"
+      ], 
+      "universalName": "towerswatson", 
+      "companyId": 3965, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAKOAAAAJDI0OWM1ZjI3LWRkMzktNDZhYi1hNGM2LWFmMWUzM2YzNWFkMg. png"
+      }
+    }, 
+    "canonicalName": "Towers Watson", 
+    "hasPaidLcp": false, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/2ac/285/373b12c. png"
+    }, 
+    "formattedIndustries": [
+      "Management Consulting"
+    ], 
+    "formattedCompanySize": "10001+"
+  }, 
+  "formattedJobFunctions": [
+    "Human Resources", 
+    "Marketing", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Associate", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 24 days ago", 
+  "formattedPostedDaysAgoSlim": "24 days ago", 
+  "formattedPostedDaysAgoShort": "24d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 11,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98345967?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. peopleclick. com%2Fcareerscp%2Fclient_watsonwyatt%2Fexternal%2Fgateway. do%3FjobPostId%3D76160%26functionName%3DviewFromLink%26localeCode%3Den-US%26source%3DLinked%2BIn&urlHash=BnNO&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

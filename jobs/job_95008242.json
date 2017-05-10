@@ -1,0 +1,299 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedEmploymentStatus": "Full-time", 
+  "descriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "DP Connect is a specialist IT and Communications recruitment consultancy,  placing contract and permanent ICT candidates across all the main technologies,  platforms and disciplines.  Coverage is UK wide and further extends to mainland Europe. \r\rDP Connect also provides managed outsourced solutions and long term Clients include FTSE 100 companies who rely on DP Connect to deliver high quality solutions and talented ICT professionals. \r\rWithin DP Connect we operate a flexible working environment allowing for a healthy work life balance and a diverse workforce.  We have instigated many initiatives,  including ‘Women In IT’ and ‘IT Opportunities For All’ to help address key issues in our sector.   It is our aim to encourage all our Clients to fully embrace diversity and therefore become employers of choice in a highly competitive marketplace.   For our contractors and candidates we strive to ensure that their various talents are recognised and rewarded. \r\rDP Connect is a member of the Recruitment Employment Confederation (REC) and the Association of Professional Staffing Companies (APSCo) and therefore upholds the professional code of conduct. \r\rDP Connect was most recently recognised with the Recruitment International Award for The Best Back Office Team in 2015,  Recruiter Investing in Talent Award for Most Effective Flexible Working Strategy in 2014,  Best IT Recruitment Firm 2007 and Finalist in 2009", 
+    "foundedYear": 1990, 
+    "canonicalName": "DP Connect", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/017/0d2/259df51. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "Information Technology", 
+        "Banking", 
+        "Payments", 
+        "Outsourcing", 
+        "Software Development", 
+        "IT Infrastructure and Support", 
+        "Digital and Marketing Technologies", 
+        "Embedded Electronics", 
+        "G-Cloud", 
+        "Business and Project Operations"
+      ], 
+      "universalName": "dp-connect", 
+      "companyId": 29681, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/017/0d2/22e2c03. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "Cambridge,  GB", 
+  "jobPosting": {
+    "expirationDate": 1449097069000, 
+    "veteranCommitted": false, 
+    "id": 95008242, 
+    "title": "Graduate Implementation Engineer / Cloud / Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2066, 
+          "type": "BR", 
+          "endIdx": 2066, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2066, 
+          "type": "BR", 
+          "endIdx": 2066, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1696, 
+          "type": "BR", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1696, 
+          "type": "BR", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1532, 
+          "type": "BR", 
+          "endIdx": 1532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1532, 
+          "type": "BR", 
+          "endIdx": 1532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1123, 
+          "type": "BR", 
+          "endIdx": 1123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1123, 
+          "type": "BR", 
+          "endIdx": 1123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "LI", 
+          "endIdx": 1123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "LI", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 947, 
+          "type": "LI", 
+          "endIdx": 998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 885, 
+          "type": "LI", 
+          "endIdx": 947, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 858, 
+          "type": "LI", 
+          "endIdx": 885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 858, 
+          "type": "BR", 
+          "endIdx": 858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 794, 
+          "type": "BR", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 794, 
+          "type": "BR", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "B", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 643, 
+          "type": "BR", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 643, 
+          "type": "BR", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 462, 
+          "type": "BR", 
+          "endIdx": 462, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 462, 
+          "type": "BR", 
+          "endIdx": 462, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "BR", 
+          "endIdx": 187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "BR", 
+          "endIdx": 187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 106, 
+          "type": "BR", 
+          "endIdx": 106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 106, 
+          "type": "BR", 
+          "endIdx": 106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 82, 
+          "type": "BR", 
+          "endIdx": 82, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Graduate Implementation Engineer / Cloud / Big DataLocation: CambridgeSalary: �25, 000 - 35, 000\"Deploying and configuring high-end,  complex software for major clients UK wide\". My client are a cutting-edge technology company based in West Cambridge,  just off the M11.  They have been established for a number of years,  but are now starting to grow rapidly as their big-data software solutions attract the attention of some of the UK's leading companies. As their customer base grows the company is recruiting for a bright and hard working Graduate who can go out to customers sites and successfuly implement and configure the software. The product itself is a very complex,  web based software product so this is a highly technical role,  which requires a good level of IT knowledge. SkillsThat is why we are looking for people with the following skills: Strong academic background Proof of being able to pick up new technical concepts quickly Experience of working in a Linux based environment Experience of scripting / programming to fully configure a software product Excellent communication and client facing skillsThis role could be well suited to a bright Graduate with a good base level of Computer Science / Technical knowledge,  who is looking for a broad based entry level position. Alternatively they would be interested in speaking to an experienced Implementation or Deployment Consultant who has proven experience of visiting customer sites and implement,  configuring and trouble shooting a complex software product. If you're interested in joining a growing and cutting edge technology company,  working with some very impressive clients then please don't hesitate to get in touch. Disclaimer: By applying for this role,  or any other role via DP Connect,  you are consenting to your personal information being registered with iProfile please go to our website to view our privacy and cookie policy.  iProfile partner with DP Connect to import and maintain clean,  accurate candidate data into our CRM.  For more information please visit iProfile’s website. "
+    }, 
+    "postalCode": "CB2", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "JO020960", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "DP Connect is a specialist IT and Communications recruitment consultancy,  placing contract and permanent ICT candidates across all the main technologies,  platforms and disciplines.  Coverage is UK wide and further extends to mainland Europe. DP Connect also provides managed outsourced solutions and long term Clients include FTSE 100 companies who rely on DP Connect to deliver high quality solutions and talented ICT professionals. Within DP Connect we operate a flexible working environment allowing for a healthy work life balance and a diverse workforce.  We have instigated many initiatives,  including ‘Women In IT’ and ‘IT Opportunities For All’ to help address key issues in our sector.   It is our aim to encourage all our Clients to fully embrace diversity and therefore become employers of choice in a highly competitive marketplace.   For our contractors and candidates we strive to ensure that their various talents are recognised and rewarded. DP Connect is a member of the Recruitment Employment Confederation (REC) and the Association of Professional Staffing Companies (APSCo) and therefore upholds the professional code of conduct. DP Connect was most recently recognised with the Recruiter Investing in Talent Award for Most Effective Flexible Working Strategy in 2014,  Best IT Recruitment Firm 2007 and Finalist in 2009"
+    }, 
+    "sponsored": false, 
+    "closeDate": 1447138192000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "DP Connect", 
+    "functions": [
+      "ENG"
+    ], 
+    "listDate": 1445964138000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:29681"
+  }, 
+  "formattedPostedDaysAgo": "Posted 39 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "39d", 
+  "formattedListDate": "October 27,  2015", 
+  "formattedExpireDate": "December 2,  2015", 
+  "formattedCloseDate": "November 10,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95008242?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3847140&urlHash=8SGZ&_mSplash=1&csrfToken=ajax%3A2644187314825728846"
+}

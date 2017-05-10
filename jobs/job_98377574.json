@@ -1,0 +1,315 @@
+{
+  "jobPosting": {
+    "companyJobCode": "greenhouse_xml-107358", 
+    "expirationDate": 1451229910000, 
+    "title": "Data Scientist - Fashion Insights Centre", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3436, 
+          "type": "BR", 
+          "endIdx": 3436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3436, 
+          "type": "BR", 
+          "endIdx": 3436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3301, 
+          "type": "BR", 
+          "endIdx": 3301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3285, 
+          "type": "BR", 
+          "endIdx": 3285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2832, 
+          "type": "BR", 
+          "endIdx": 2832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2768, 
+          "type": "LI", 
+          "endIdx": 2817, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2719, 
+          "type": "LI", 
+          "endIdx": 2767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2668, 
+          "type": "LI", 
+          "endIdx": 2718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2622, 
+          "type": "LI", 
+          "endIdx": 2667, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2577, 
+          "type": "LI", 
+          "endIdx": 2621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2534, 
+          "type": "LI", 
+          "endIdx": 2576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2533, 
+          "type": "BG", 
+          "endIdx": 2818, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2533, 
+          "type": "BR", 
+          "endIdx": 2533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2450, 
+          "type": "B", 
+          "endIdx": 2533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2450, 
+          "type": "BR", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2450, 
+          "type": "BR", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2357, 
+          "type": "LI", 
+          "endIdx": 2449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2264, 
+          "type": "LI", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2089, 
+          "type": "LI", 
+          "endIdx": 2263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2004, 
+          "type": "LI", 
+          "endIdx": 2088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1944, 
+          "type": "LI", 
+          "endIdx": 2003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1943, 
+          "type": "BG", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1943, 
+          "type": "BR", 
+          "endIdx": 1943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "B", 
+          "endIdx": 1943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "BR", 
+          "endIdx": 1898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "BR", 
+          "endIdx": 1898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1875, 
+          "type": "BR", 
+          "endIdx": 1875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1360, 
+          "type": "BR", 
+          "endIdx": 1360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1339, 
+          "type": "BR", 
+          "endIdx": 1339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 902, 
+          "type": "BR", 
+          "endIdx": 902, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 902, 
+          "type": "BR", 
+          "endIdx": 902, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 389, 
+          "type": "BR", 
+          "endIdx": 389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 389, 
+          "type": "BR", 
+          "endIdx": 389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " The OpportunityThe Zalando Fashion Insights Centre was founded with the aim of understanding fashion through technology.  In doing so,  we&rsquo;ve set ourselves the goal of organising the world&rsquo;s fashion knowledge.  We work with one of the richest datasets in eCommerce; products,  profiles,  customers,  purchasing and returns history,  online behaviour and social media data. At the Fashion Insights Centre,  you will join one of Zalando&rsquo;s core data science teams,  working on a broad range of interesting data science and engineering problems.  Teams are autonomous,  well-resourced and committed to best-practice.  The Fashion Insights Centre is new and rapidly expanding,  giving you the opportunity to significantly influence the direction and development of the R&amp;D work that we are leading.  We&rsquo;ve started the journey; we&rsquo;re looking for the brightest minds to join us. We don&rsquo;t believe that Data Scientists need to be software engineers,  but we do insist that they are comfortable coding,  and can work closely as part of a product engineering team.  At Zalando we are technology agnostic; if it works,  we use it.  Team members typically use some combination of Scala,  Python,  R,  Java,  Spark,  Matlab,  Hive or SQL,  amongst others.  We are committed to open source development and like to publish our work. Customer Data ScienceThe Customer Data Science team studies the interactions people have with our products,  web-sites and apps in order to drive innovation on current and future products.  We do this to improve customer experience,  to deliver tailored,  individualised fashion content to our users as well as to predict and understand fashion trends as they emerge.  Individuals in this role are expected to be comfortable working as a software engineer and a quantitative researcher,  and have a passion for understanding social phenomena. What we are looking forAs a Data Scientist You Will Possess a Strong Passion for identifying and answering worthwhile questions.  Flexible analytical approach allowing for solutions at varying levels of precision.   Ability to communicate complex quantitative research in a clear,  precise and actionable manner to product managers,  stakeholders,  peers and the wider data science community.   Interest in driving the collection of new data and the refinement of existing data sources.   Commitment to ensuring that data science best practices implemented and constantly evolving.  We Particularly Encourage Candidates With Expertise In One Or More Of The Following machine learning and predictive modelling  text mining and natural language processing  statistical modelling and hypothesis testing  data mining,  information extraction and retrieval  user modelling and computational social science  distributed computing (Hadoop,  Hive,  Spark,  etc. )  About ZalandoZalando is Europe&rsquo;s leading online fashion platform,  doing business in 15 markets.  Delivering first-class shopping experiences to our +15 million customers requires moving fast &amp;mdash; with microservices,  Agile processes and autonomous teams &amp;mdash; and using cutting edge,  open source technologies.  We are passionate about what we do and have fun while doing it.  And we are willing to experiment and make mistakes: It&rsquo;s how we grow. Want to join us?Then go ahead and apply! If you need guidance or have any questions about our hiring processes,  please contact recruiter Martin Murray. "
+    }, 
+    "postalCode": "D1", 
+    "jobState": "LISTED", 
+    "companyName": "Zalando", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Zalando is Europe's leading online fashion platform- offering a broad assortment of fashion for men,  women and children.  We carry over 1. 500 brands and over 150. 000 product choices for over 17 million customers in 15 countries.  By constantly professionalizing our processes and structure,  using our e-commerce expertise and with lots of can-do spirit we’ve become Germany’s leading online fashion retailer in only a few years.  Our goal every day is to create the world’s best online fashion experience.  The cores of our business are what we focus on,  always claiming to be cutting-edge there: fashion,  technology,  marketing and logistics.  Zalando SE in Berlin is the group’s centrepiece which focusses on the development of our core product: the online shopping experience.  Zalando SE operates the international business and takes care of our business development.  Zalando SE comprises functions like the management,  marketing,  IT and administration. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "DSGN"
+    ], 
+    "listDate": 1447248812000, 
+    "countryCode": "ie", 
+    "company": "urn:li:company:698916", 
+    "id": 98377574, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Dublin,  IE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanySize": "5001-10000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Technology", 
+        "Fashion", 
+        "E-Commerce", 
+        "Retail", 
+        "Online Shopping", 
+        "Operations", 
+        "Data"
+      ], 
+      "universalName": "zalando", 
+      "companyId": 698916, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAQcAAAAJDc5ODllMjA2LWMxMWYtNDAyYi1hMDQwLWM0YjFhNDRkOTU4Ng. png"
+      }
+    }, 
+    "localizedDescription": "Zalando is Europe's leading online fashion platform- offering a broad assortment of fashion for men,  women and children.  We carry over 1. 500 brands and over 150. 000 product choices for over 17 million customers in 15 countries.  \r\rBy constantly optimising our processes and platform offerings,  using our e-commerce expertise and with lots of can-do spirit,  we’ve become Germany’s leading online fashion retailer in only a few years.  Our goal every day is to create the world’s best online fashion experience.  The cores of our business are what we focus on,  always striving to be cutting-edge in fashion,  technology,  marketing and logistics.  \r\rZalando SE in Berlin is the group’s centrepiece which focuses on the development of our core product: the online shopping experience.  Zalando SE operates the international business and takes care of our business development.  Zalando SE comprises functions like the management,  marketing,  IT and administration. ", 
+    "foundedYear": 2008, 
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Zalando SE", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAARZAAAAJDMwZjQyZmFlLTViYTgtNDYyMC05NjFhLTU0NTc1NDdkYzZiMw. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/0da/3e0/1fac6ee. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAARZAAAAJDMwZjQyZmFlLTViYTgtNDYyMC05NjFhLTU0NTc1NDdkYzZiMw. png"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Design"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 24 days ago", 
+  "formattedPostedDaysAgoSlim": "24 days ago", 
+  "formattedPostedDaysAgoShort": "24d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 11,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98377574?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fgrnh. se%2F7duqs0&urlHash=F7FA&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

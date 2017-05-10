@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/83906410", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "An accomplished Big Data architect with significate amount of years of industry experience.  Big Data Hadoop Infrastructure – ideally 2+ years Developed and managed systems with Petabytes online Knowledge or Practitioner of Storage Infrastructure and Distributed Processing Experience with: Java,  Hadoop,  Large Scale Systems,  Spark,  NoSQL,  MapReduce,  HBase", 
+  "following": false, 
+  "companyDescription": "Our Data &amp; Technology Division operates throughout the UK &amp; Ireland,  Benelux and the DACH region.  We recruit into the most cutting-edge technology markets where our combined number of years’ experience puts us in a superior position to our competitors.  We can provide clients with tailored market information and advise on their needs.  Although we started our journey back in 2005,  we are continually looking at ways to improve our delivery model.     Using our extensive experience and expertise,  our Data &amp; Technology Division has expanded faster than all others under the Optimus Search Brand.  Our team has a real understanding of our clients’ needs and candidate’s aspirations,  so will ensure you find the right people or secure your dream job.    Key areas of expertise:  Big Data &amp; BI Analytics: Data Analytics,  Data Science,  Machine Learning,  Intelligent Data,  Hadoop Development,  Data Administration.   Infrastructure &amp; Cloud: Cloud,  Datacentre,  Virtualisation,  Storage &amp; Data management,  Networking.   Software Development &amp; Testing: Java,  Web &amp; Mobile,  Functional Programming,  DevOps,  Dynamics,  . NET Framework,  Agile. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Optimus Search", 
+  "canFollow": false, 
+  "companyId": "1592017", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Optimus Search", 
+    "title": "Big Data Architect,  Hadoop,  Machine learning"
+  }, 
+  "description": "Big Data Architect,  Hadoop,  Machine learning This is an on-site,  position located in Scotland.  As an engineer you will create platform systems that will be the core of shared data infrastructure.  You will be required to build solutions for data acquisition,  validation and storage,  and create the processes that prepare data for analytics.  A record of accomplishment in software systems engineering including large-scale distributed systems.  - Considerable (3 years) practice of Hadoop-related technologies.  Demonstrated ability to build data-oriented applications for data management,  OLAP query serving,  recommendation engines or machine learning. "
+}

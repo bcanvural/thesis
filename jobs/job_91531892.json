@@ -1,0 +1,369 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-8154F9990B", 
+    "expirationDate": 1451831661000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3603, 
+          "type": "BR", 
+          "endIdx": 3603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3603, 
+          "type": "BR", 
+          "endIdx": 3603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3436, 
+          "type": "BR", 
+          "endIdx": 3436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3436, 
+          "type": "BR", 
+          "endIdx": 3436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3413, 
+          "type": "BR", 
+          "endIdx": 3413, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3413, 
+          "type": "BR", 
+          "endIdx": 3413, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3405, 
+          "type": "B", 
+          "endIdx": 3413, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3405, 
+          "type": "BR", 
+          "endIdx": 3405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3405, 
+          "type": "BR", 
+          "endIdx": 3405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3340, 
+          "type": "LI", 
+          "endIdx": 3404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3207, 
+          "type": "LI", 
+          "endIdx": 3339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3206, 
+          "type": "BG", 
+          "endIdx": 3405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3206, 
+          "type": "BR", 
+          "endIdx": 3206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3197, 
+          "type": "BR", 
+          "endIdx": 3197, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3157, 
+          "type": "LI", 
+          "endIdx": 3196, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3112, 
+          "type": "LI", 
+          "endIdx": 3156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3010, 
+          "type": "LI", 
+          "endIdx": 3111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2937, 
+          "type": "LI", 
+          "endIdx": 3009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2887, 
+          "type": "LI", 
+          "endIdx": 2936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2801, 
+          "type": "LI", 
+          "endIdx": 2886, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2739, 
+          "type": "LI", 
+          "endIdx": 2800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2738, 
+          "type": "BG", 
+          "endIdx": 3197, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2738, 
+          "type": "BR", 
+          "endIdx": 2738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2726, 
+          "type": "B", 
+          "endIdx": 2738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2726, 
+          "type": "BR", 
+          "endIdx": 2726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2726, 
+          "type": "BR", 
+          "endIdx": 2726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2670, 
+          "type": "LI", 
+          "endIdx": 2725, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2619, 
+          "type": "LI", 
+          "endIdx": 2669, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2545, 
+          "type": "LI", 
+          "endIdx": 2618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2479, 
+          "type": "LI", 
+          "endIdx": 2544, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2333, 
+          "type": "LI", 
+          "endIdx": 2478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2209, 
+          "type": "LI", 
+          "endIdx": 2332, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "LI", 
+          "endIdx": 2208, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2051, 
+          "type": "BG", 
+          "endIdx": 2726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2051, 
+          "type": "BR", 
+          "endIdx": 2051, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2035, 
+          "type": "B", 
+          "endIdx": 2051, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2035, 
+          "type": "BR", 
+          "endIdx": 2035, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2035, 
+          "type": "BR", 
+          "endIdx": 2035, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1678, 
+          "type": "BR", 
+          "endIdx": 1678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1678, 
+          "type": "BR", 
+          "endIdx": 1678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1247, 
+          "type": "BR", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1247, 
+          "type": "BR", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 829, 
+          "type": "BR", 
+          "endIdx": 829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 829, 
+          "type": "BR", 
+          "endIdx": 829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Digital Shadows provides cyber situational awareness that helps organizations protect against cyber attacks,  loss of intellectual property,  and loss of brand and reputational integrity.  Our flagship solution,  Digital Shadows SearchLight™,  is a scalable and easy-to-use data analysis platform that provides a holistic view of an organization's digital footprint and the profile of its attackers.  It is complemented with intelligence analyst expertise to ensure extensive coverage,  tailored intelligence and frictionless deployment.  It continually monitors more than 100 million data sources in 27 languages across the visible,  deep and dark web and other online sources to create an up-to-the minute view of an organization and the risks requiring mitigation.  We are jointly head quartered in London and San Francisco. At Digital Shadows we are faced with lots of exciting data science challenges to solve.  From classifying vast quantities of streaming data in real-time to using Deep Learning techniques to create tailored language models.  At the centre of our innovative application is the data that we process upon which we apply a variety of analytics based approaches to identify risks to the security and reputation of our clients. This is a great opportunity for someone passionate about solving problems to truly advance a career within data science and you will immediately be working with our stakeholders to understand the business problems we face.  At Digital Shadows we place a strong focus on regularly delivering and deploying working software so you will research and develop algorithms and models that will be influential to the success of our platformYou will need to have experience with Python and an understanding of traditional and emerging database management techniques.  In return you will have a unique opportunity to create a role within a data-driven environment where you have the freedom to be innovative and creative and with real potential to develop into a pivotal position within the business!Responsibilities Develop and implement machine learning and natural language processing approaches to accurately categorise and risk assess data processed by the application Identify and acquire data from primary or secondary data sources to extend the coverage and capabilities of the application Identify,  analyse,  and interpret trends or patterns in our data to find opportunities to extend and enrich our existing data analytics approaches Collaborate across teams to define,  design,  and ship new features Work with and integrate external tools,  libraries,  data sources and API’s Discover,  evaluate,  and implement new technologies Contribute ideas and innovations to the product roadmap Requirements 2+ years of experience as a data scientist or equivalent role Expert knowledge of implementing machine learning (especially text mining) techniques Experience with Python machine learning libraries Understanding of traditional and emerging database management techniques Self-driven individual with strong analytical skills,  methodical thinking and problem solving ability Strong oral and written communication skills Commercial model development experience Desirable Experience of working with unstructured text data from web pages or documents and interfacing with different distributed data stores Exposure to Deep Learning,  Network Analysis and Graphical Models Benefits£30k - £50K plus equityIf you have any questions,  please contact us on careers[at]digitalshadows[dot]com.  Please note that we only accept applications through this online application portal. "
+    }, 
+    "postalCode": "E14", 
+    "jobState": "LISTED", 
+    "companyName": "Digital Shadows", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Digital Shadows provides cyber situational awareness that helps organizations protect against cyber attacks,  loss of intellectual property,  and loss of brand and reputational integrity.  Its flagship solution,  Digital Shadows SearchLight™,  is a scalable and easy-to-use data analysis platform that provides a holistic view of an organization’s digital footprint and the profile of its attackers.  It is complemented with security analyst expertise to ensure extensive coverage,  tailored intelligence and frictionless deployment.  Digital Shadows SearchLight™ continually monitors more than 100 million data sources in 27 languages across the visible,  deep and dark web and other online sources to create an up-to-the minute view of an organization and the risks requiring mitigation.  The company is jointly headquartered in London and San Francisco.  For more information,  visit http://www. digitalshadows. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444451553000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2284467", 
+    "id": 91531892, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/91531892?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F2161756CB1&urlHash=z662&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALOAAAAJGQ4ZDY1MzQzLWFmOGQtNGYyOC04ODljLTgyYjIyM2ZiMzM1YQ. png"
+    }, 
+    "localizedDescription": "Digital Shadows provides cyber situational awareness that helps organizations protect against cyber attacks,  loss of intellectual property,  and loss of brand and reputational integrity.  Its flagship solution,  Digital Shadows SearchLight™,  is a scalable and easy-to-use data analysis platform that provides a holistic view of an organization’s digital footprint and the profile of its attackers.  It is complemented with security analyst expertise to ensure extensive coverage,  tailored intelligence and frictionless deployment.  Digital Shadows SearchLight™ continually monitors more than 100 million data sources in 27 languages across the visible,  deep and dark web and other online sources to create an up-to-the minute view of an organization and the risks requiring mitigation.  The company is jointly headquartered in London and San Francisco.  For more information,  visit http://www. digitalshadows. com", 
+    "company": {
+      "specialities": [
+        "Cyber security", 
+        "Data leakage", 
+        "Cyber intelligence", 
+        "Cyber monitoring", 
+        "Cyber situational awareness"
+      ], 
+      "universalName": "digital-shadows", 
+      "companyId": 2284467, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAARhAAAAJGRiM2I5ZWM2LWUzMTgtNDEwMy1iOGNmLTQ3NzBiOGI4ZWVmMQ. png"
+      }
+    }, 
+    "canonicalName": "Digital Shadows", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Computer & Network Security"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer & Network Security"
+  ], 
+  "formattedPostedDaysAgo": "Posted 56 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "56d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 10,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,246 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-24694", 
+    "expirationDate": 1451865234000, 
+    "title": "Big Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 936, 
+          "type": "BR", 
+          "endIdx": 936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 936, 
+          "type": "BR", 
+          "endIdx": 936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 896, 
+          "type": "BR", 
+          "endIdx": 896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 896, 
+          "type": "BR", 
+          "endIdx": 896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 755, 
+          "type": "BR", 
+          "endIdx": 755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 755, 
+          "type": "BR", 
+          "endIdx": 755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 635, 
+          "type": "BR", 
+          "endIdx": 635, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 635, 
+          "type": "BR", 
+          "endIdx": 635, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 495, 
+          "type": "BR", 
+          "endIdx": 495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 495, 
+          "type": "BR", 
+          "endIdx": 495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "U", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "B", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BR", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BR", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 364, 
+          "type": "BR", 
+          "endIdx": 364, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 364, 
+          "type": "BR", 
+          "endIdx": 364, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 232, 
+          "type": "BR", 
+          "endIdx": 232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 232, 
+          "type": "BR", 
+          "endIdx": 232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 165, 
+          "type": "BR", 
+          "endIdx": 165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 165, 
+          "type": "BR", 
+          "endIdx": 165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהBeing able to create examples,  prototypes,  demonstrations to help product line better understand the work in the areas of big data and advanced analytics. Simulate cloud data such as network,  security,  management and more. Exploring big data using standard tools and perform statistical analysis using data mining and machine learning algorithms and more. Working closely with developers to integrate your models to a POC solutionדרישות המשרה5+ years data scientist experience including:Practical knowledge of statistical analysis,  predictive modeling,  hypothesis testing,  conceptual modeling,  machine learning and data mining. Practical experience of at least two of the following tools:  R,  Matlab,  SAS,  RapidMiner,  SPSS,  Weka,  Apache Mahout etc. Comfort manipulating,  querying and analyzing complex,  high-volume,  high-dimensionality data from varying sources: DBs,  file system,  HDFS etc. Self-starter,  problem solver,  autodidact"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444322595000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 91086364, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "foundedYear": 1995, 
+    "canonicalName": "Nisha Group", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 58 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "58d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 8,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/91086364?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F24694%2FBig-Data-Scientist&urlHash=bqhE&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

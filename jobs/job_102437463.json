@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "The Jobs Portal", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "22850079", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102437463, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      137
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. totaljobsportal. com/", 
+    "logo": "urn:li:media:/p/1/005/0af/332/0494389. png", 
+    "universalName": "total-jobs-portal-com", 
+    "companyId": 3842608
+  }, 
+  "description": "    Role:    Data Scientist    Salary: 60k-70k    Location: Manchester    Start Date: ASAP    Overview    The company is looking to hire two experienced data scientists to    contribute to the in house Big Data capabilities via a Hadoop based    platform.  Apply today to be a part of a unique project working with a    variety of industries and government organisations,  drawing upon    existing product,  technical and analytical resources to improve    business operations.     Join a world-class,  multidisciplinary team must be a hands-on,     inquisitive and a team player,  you will be working closely with    developers,  designers,  scientists and experts.     Required       Machine Learning,  statistical learning,  mathematics or related        quantitative skills       Expertise in at least one programming language (Java,  C,  C++)       Familiarity with at least one of the following packages (R,  MATLAB,         Python,  Hadoop etc. )       Experience with Cloud Computer technologies such as Hadoop and        Spark,        Strong working knowledge of basic predictive modelling and machine        learning concepts       Exceptional communication skills,  particularly across engineering        disciplines.      IF YOU ARE INTERESTED SEND IN YOUR CV. ", 
+  "companyDescription": "      The Jobs Portal    Totaljobsportal. com is a brand new career website for job market in    India specifically caters to the need of aspiring jobseekers.  We    believe that a good job site should offer an interactive platform for    job seekers with the objective of improving the process of recruitment.     Our Mission    At Totaljobsportal. com,  we work for a main purpose: “Satisfaction for    Job seekers” This is our mission.  We believe that satisfaction for job    is one of the most crucial factors for overall happiness of an aspiring    jobseeker.     This is why the work we do at Totaljobsportal. com is so meaningful.  We    excel in matching right people with right jobs.     Our Team    Totaljobsportal. com is managed by a team of highly skilled and    experienced HR personnel.  Our team members work with their best to find    right jobs for job seekers.  Following are our respected team members:-    HR and Recruitment    Mr.  Rajkumar Iyer    (Director and Senior HR officer)    (13+ years of experience)    Neha Agrawal    (HR operation Mnager)    Sangeeta Sachdeva    (Assistant HR)    Abhilash Saxena    (Assistant HR)", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

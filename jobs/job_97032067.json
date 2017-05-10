@@ -1,0 +1,685 @@
+{
+  "jobPosting": {
+    "companyJobCode": "bskyb-436643", 
+    "expirationDate": 1450786994000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 6268, 
+          "type": "BR", 
+          "endIdx": 6268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6268, 
+          "type": "BR", 
+          "endIdx": 6268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6265, 
+          "type": "BR", 
+          "endIdx": 6265, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6188, 
+          "type": "B", 
+          "endIdx": 6265, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6188, 
+          "type": "BR", 
+          "endIdx": 6188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6188, 
+          "type": "BR", 
+          "endIdx": 6188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6181, 
+          "type": "BR", 
+          "endIdx": 6181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6181, 
+          "type": "BR", 
+          "endIdx": 6181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6169, 
+          "type": "B", 
+          "endIdx": 6181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6169, 
+          "type": "BR", 
+          "endIdx": 6169, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6169, 
+          "type": "BR", 
+          "endIdx": 6169, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6160, 
+          "type": "BR", 
+          "endIdx": 6160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6160, 
+          "type": "BR", 
+          "endIdx": 6160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6145, 
+          "type": "B", 
+          "endIdx": 6160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6145, 
+          "type": "BR", 
+          "endIdx": 6145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6145, 
+          "type": "BR", 
+          "endIdx": 6145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6128, 
+          "type": "BR", 
+          "endIdx": 6128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6128, 
+          "type": "BR", 
+          "endIdx": 6128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6112, 
+          "type": "B", 
+          "endIdx": 6128, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6112, 
+          "type": "BR", 
+          "endIdx": 6112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6112, 
+          "type": "BR", 
+          "endIdx": 6112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6106, 
+          "type": "LI", 
+          "endIdx": 6112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6106, 
+          "type": "BR", 
+          "endIdx": 6106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6105, 
+          "type": "BR", 
+          "endIdx": 6105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5933, 
+          "type": "BR", 
+          "endIdx": 5933, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5932, 
+          "type": "BR", 
+          "endIdx": 5932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5910, 
+          "type": "BR", 
+          "endIdx": 5910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5909, 
+          "type": "BR", 
+          "endIdx": 5909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5811, 
+          "type": "BR", 
+          "endIdx": 5811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5810, 
+          "type": "BR", 
+          "endIdx": 5810, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5608, 
+          "type": "BR", 
+          "endIdx": 5608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5607, 
+          "type": "BR", 
+          "endIdx": 5607, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5229, 
+          "type": "BR", 
+          "endIdx": 5229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5228, 
+          "type": "BR", 
+          "endIdx": 5228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5227, 
+          "type": "BR", 
+          "endIdx": 5227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5139, 
+          "type": "BR", 
+          "endIdx": 5139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5075, 
+          "type": "BR", 
+          "endIdx": 5075, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4950, 
+          "type": "BR", 
+          "endIdx": 4950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4842, 
+          "type": "BR", 
+          "endIdx": 4842, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4689, 
+          "type": "BR", 
+          "endIdx": 4689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4644, 
+          "type": "BR", 
+          "endIdx": 4644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4578, 
+          "type": "BR", 
+          "endIdx": 4578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4578, 
+          "type": "BR", 
+          "endIdx": 4578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4564, 
+          "type": "B", 
+          "endIdx": 4578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4564, 
+          "type": "BR", 
+          "endIdx": 4564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4564, 
+          "type": "BR", 
+          "endIdx": 4564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4563, 
+          "type": "BR", 
+          "endIdx": 4563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4521, 
+          "type": "BR", 
+          "endIdx": 4521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4476, 
+          "type": "BR", 
+          "endIdx": 4476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4426, 
+          "type": "BR", 
+          "endIdx": 4426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4391, 
+          "type": "BR", 
+          "endIdx": 4391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4340, 
+          "type": "BR", 
+          "endIdx": 4340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4340, 
+          "type": "BR", 
+          "endIdx": 4340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4326, 
+          "type": "B", 
+          "endIdx": 4340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4326, 
+          "type": "BR", 
+          "endIdx": 4326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4326, 
+          "type": "BR", 
+          "endIdx": 4326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4325, 
+          "type": "BR", 
+          "endIdx": 4325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4274, 
+          "type": "BR", 
+          "endIdx": 4274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4199, 
+          "type": "BR", 
+          "endIdx": 4199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4131, 
+          "type": "BR", 
+          "endIdx": 4131, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4068, 
+          "type": "BR", 
+          "endIdx": 4068, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4016, 
+          "type": "BR", 
+          "endIdx": 4016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3942, 
+          "type": "BR", 
+          "endIdx": 3942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3818, 
+          "type": "BR", 
+          "endIdx": 3818, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3785, 
+          "type": "BR", 
+          "endIdx": 3785, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3738, 
+          "type": "BR", 
+          "endIdx": 3738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3566, 
+          "type": "BR", 
+          "endIdx": 3566, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3512, 
+          "type": "BR", 
+          "endIdx": 3512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3448, 
+          "type": "BR", 
+          "endIdx": 3448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3448, 
+          "type": "BR", 
+          "endIdx": 3448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3432, 
+          "type": "B", 
+          "endIdx": 3448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3432, 
+          "type": "BR", 
+          "endIdx": 3432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3432, 
+          "type": "BR", 
+          "endIdx": 3432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3431, 
+          "type": "BR", 
+          "endIdx": 3431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3282, 
+          "type": "BR", 
+          "endIdx": 3282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3211, 
+          "type": "BR", 
+          "endIdx": 3211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3078, 
+          "type": "BR", 
+          "endIdx": 3078, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2932, 
+          "type": "BR", 
+          "endIdx": 2932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2832, 
+          "type": "BR", 
+          "endIdx": 2832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2737, 
+          "type": "BR", 
+          "endIdx": 2737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2737, 
+          "type": "BR", 
+          "endIdx": 2737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2716, 
+          "type": "B", 
+          "endIdx": 2737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2716, 
+          "type": "BR", 
+          "endIdx": 2716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2716, 
+          "type": "BR", 
+          "endIdx": 2716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2715, 
+          "type": "BR", 
+          "endIdx": 2715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2463, 
+          "type": "BR", 
+          "endIdx": 2463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2462, 
+          "type": "BR", 
+          "endIdx": 2462, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2165, 
+          "type": "BR", 
+          "endIdx": 2165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2164, 
+          "type": "BR", 
+          "endIdx": 2164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1869, 
+          "type": "BR", 
+          "endIdx": 1869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1868, 
+          "type": "BR", 
+          "endIdx": 1868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1549, 
+          "type": "BR", 
+          "endIdx": 1549, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1548, 
+          "type": "BR", 
+          "endIdx": 1548, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 13, 
+          "type": "BR", 
+          "endIdx": 13, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Our experts working in Insight and Decision Science (IDS) are at the forefront of understanding consumers and creating actionable insight about their behaviours,  attitudes,  needs,  how they like to interact and what makes them tick.  This consumer intelligence helps deliver a better experience  and service to consumers and improves marketing performance.  We have developed,  and are responsible for,  one of the most powerful,  large-scale consumer data sets in the World,  combining detailed consumer cross-platform viewing behaviours with transactions,  interactions,  profiles,  needs,  attitudes and preferences across a wide breadth of UK and ROI households.  We deliver a premium service to many parts key parts of Sky and are truly dedicated to helping achieve their objectives.  We are forward-thinking and customer-centric,  everything we do is thorough and rigorous and is driven by passion. IDS employs a considerable team across five locations in a variety of specialist skills including data development,  analytics,  research,  report development,  decision execution,  CRM,  insight consultancy,  software development and econometrics and has a very extensive and deep stakeholder base across 30+ areas of Sky,  covering every subject – from acquisition to retention,  from on-screen to online,  from marketing effectiveness to targeted advertising.  Sky IDS is a people-oriented organisation which takes personal development very seriously,  so we’ll help you to grow,  with excellent training and development opportunities from the very start.  This position will sit within our new Big Data team tasked with unlocking value contained in large/semi-structured data across the business.   The team actively identifies new opportunities and rapidly innovates,  by developing new tools and systems to exploit the data using state-of-the-art technology &amp; algorithms.  This is a role designed to enable the Big Data team to produce rigorously tested analytic systems and results of the highest quality.   The ideal candidate will help take the lead in establishing a strong Data Science capability and instilling best practice in their discipline as the team grows.  With a superb analytical and business-focused mind,  the Data Scientist will come from a strong quantitative background and be self-motivated to identify new opportunities in the growing ocean of data,  deliver compelling proposals,  and turn those into effective tools to drive the business forward.  He or she will work closely with product teams/business stakeholders,  other technology teams,  and Big Data software engineers within the team in a “hands-on” fashion to help design new projects and guide them through successful delivery and validation.  Main ResponsibilitiesDesign algorithms,  build models,  and prototype solutions for multiple projects and stakeholdersWork closely with an engineering team to translate prototypes into high quality production solutionsUse machine learning and large-scale data mining techniques to discover and identify actionable patterns in data and develop hypotheses and modelsDesign hypothesis tests,  oversee execution,  and perform rigorous statistical evaluation of the results to produce actionable insightsManage stakeholders and guide them in unlocking the value in their dataChampion the scientific method and strive for excellence in results at all times,  balanced with working in an ‘Agile’ way to achieve rapid turnaround Essential SkillsSolid experience as a Research Scientist with an advanced degreeStrong background in statistics and statistical theoryStrong working knowledge of data mining algorithms including decision trees,  probability networks,  association rules,  clustering,  regression,  and artificial neural networksHands-on experience with Hadoop,  Hive and HBaseExperienced in Spark and/or StormDemonstrated ability to build prototype software using any modern programming language such as Scala,  Java,  C++,  Python,  etcDemonstrated working knowledge of statistical tools such as R,  MATLAB,  etcAbility to map business needs to engineering systemsAbility to work as part of a team delivering real-world resultsCreative,  innovative thinker with outstanding problem-solving skillsMeticulous and thorough,  with a healthy respect for quality &amp; standardsOutstanding verbal and written communication skills Desired SkillsMachine Learning exposure,  especially Apache MahoutExperience in Scalding or CascadingStrong background in RDBMS,  data modelling and SQLExperience in creating/consuming RESTful APIsSocial network analytics experience a plus QualificationsBSc/MSc in Maths,  Statistics,  Computer Science,  Physics or relatedPhD in a numerate subject would be a big plusProven senior level experience of managing large and complex business relationships possibly from a systems integrator or large scale services outsourcerProven experience of successfully managing multiple (disparate) teams within a matrix organisation structureProven successful track record of driving material service improvements and efficiency within a blue chip client organisationExperience of dealing with business stakeholders at senior levelProven experience of defining and delivering operational change in a complex environment  Our benefits package recognises the essential part you play in Sky's success.  We offer free Sky+HD,  broadband and talk services; private medical insurance,  generous holiday entitlements,  a contribution pension scheme,  a Share scheme so you can have a stake in Sky and our success plus Sky Choices,  a benefit scheme to help you make valuable tax &amp; national insurance savings.  Sky delivers some of the most diverse content and services on the planet,  and we value the same diversity within our business.  We provide a culture of entrepreneurialism and opportunity for one and all.  Due to the fast paced nature of Sky’s Businesses our vacancy close dates may be subject to change.  Sky.  Believe in Better It’s our people that make Sky the UK and Ireland’s leading entertainment company.  That’s why we work hard to be an inclusive employer,  so everyone at Sky can be their best.  LI-JJ1Primary LocationENGLAND-MiddlesexEmployee StatusPermanentClosing DateOngoing!!%3Cfont color=white%3EIs This Role Eligible for Refer A Friend?%3C/font%3EYes"
+    }, 
+    "postalCode": "UB3", 
+    "jobState": "LISTED", 
+    "companyName": "Sky", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Sky is Europe's leading entertainment company and serves 21 million customers across five countries: Italy,  Germany,  Austria,  the UK and Ireland.  We believe in better and that means offering a better choice of high-quality entertainment for the whole family and using technology to put them in control,  whenever and wherever they want.  Together we work hard to give our customers a better experience and are always looking for ways to improve in everything we do.  That’s why our people are critical to our success.  Our unique environment helps everyone to do their best work,  fulfil their potential and achieve great things together.  So we’re also doing all we can to attract bright,  talented people like you to join us. Visit jobs. sky. com to find out more about brilliant opportunities. It’s our people that make Sky Europe's leading entertainment company.  That’s why we work hard to be an inclusive employer,  so everyone at Sky can be their best. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446807774000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3318", 
+    "id": 97032067, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Middlesex,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97032067?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fbskyb. taleo. net%2Fcareersection%2Fbskyb_external%2Fjobdetail. ftl%3Fjob%3D28327%26lang%3Den&urlHash=sZBR&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Broadcast Media"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Broadcast Media"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Sky", 
+    "company": {
+      "specialities": [
+        "Broadcast", 
+        "Media", 
+        "Entertainment", 
+        "Communications", 
+        "Innovation & Technology", 
+        "Customer Service", 
+        "Entertainment"
+      ], 
+      "universalName": "sky", 
+      "companyId": 3318, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/029/231/00001f7. png"
+      }
+    }, 
+    "foundedYear": 1989, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAWXAAAAJGJjMWMxNjE3LWVjODItNDFmYS04ODk5LWU2YzAyNGFhZmNiZA. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/02e/098/057aacb. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAWXAAAAJGJjMWMxNjE3LWVjODItNDFmYS04ODk5LWU2YzAyNGFhZmNiZA. png", 
+    "localizedDescription": "Sky is Europe's leading entertainment company and serves 21 million customers across five countries: Italy,  Germany,  Austria,  the UK and Ireland.  We believe in better and that means offering a better choice of high-quality entertainment for the whole family and using technology to put them in control,  whenever and wherever they want.  \r\rTogether we work hard to give our customers a better experience and are always looking for ways to improve in everything we do.  That’s why our people are critical to our success.  Our unique environment helps everyone to do their best work,  fulfil their potential and achieve great things together.  So we’re also doing all we can to attract bright,  talented people like you to join us. \r\rVisit jobs. sky. com to find out more about brilliant opportunities. \r\rIt’s our people that make Sky Europe's leading entertainment company.  That’s why we work hard to be an inclusive employer,  so everyone at Sky can be their best. "
+  }, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "December 22,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

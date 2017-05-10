@@ -1,0 +1,290 @@
+{
+  "jobPosting": {
+    "companyJobCode": "peopleclick-13963", 
+    "expirationDate": 1451715796000, 
+    "title": "Senior Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1925, 
+          "type": "BR", 
+          "endIdx": 1925, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1925, 
+          "type": "BR", 
+          "endIdx": 1925, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1876, 
+          "type": "BR", 
+          "endIdx": 1876, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1866, 
+          "type": "B", 
+          "endIdx": 1876, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1866, 
+          "type": "BR", 
+          "endIdx": 1866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1866, 
+          "type": "BR", 
+          "endIdx": 1866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1825, 
+          "type": "BR", 
+          "endIdx": 1825, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1736, 
+          "type": "BR", 
+          "endIdx": 1736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1707, 
+          "type": "BR", 
+          "endIdx": 1707, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1654, 
+          "type": "BR", 
+          "endIdx": 1654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1597, 
+          "type": "BR", 
+          "endIdx": 1597, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1528, 
+          "type": "BR", 
+          "endIdx": 1528, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1440, 
+          "type": "BR", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1440, 
+          "type": "BR", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1434, 
+          "type": "B", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1434, 
+          "type": "BR", 
+          "endIdx": 1434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1434, 
+          "type": "BR", 
+          "endIdx": 1434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1369, 
+          "type": "BR", 
+          "endIdx": 1369, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1255, 
+          "type": "BR", 
+          "endIdx": 1255, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1075, 
+          "type": "BR", 
+          "endIdx": 1075, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 916, 
+          "type": "BR", 
+          "endIdx": 916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "BR", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 712, 
+          "type": "BR", 
+          "endIdx": 712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 644, 
+          "type": "BR", 
+          "endIdx": 644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "BR", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 554, 
+          "type": "B", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 554, 
+          "type": "BR", 
+          "endIdx": 554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 470, 
+          "type": "BR", 
+          "endIdx": 470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "   Job description/Person specification  Support the development of QinetiQ’s implementation of new data analysis tools for key external clients and in collaboration with the Security business.  Provide enhanced data analysis tools which could be used by an advanced Security Operating Centre and establish an analytics architecture.   Lead the development of open source intelligence generation components and services to be hosted within the new architecture. You will be required to work at Customer Premises for periods of six months or more. Key Responsibilities • Interaction with clients to shape,  develop and capture requirements• Develop business development strategy in focussed technology areas• Deliver sales material in collaboration with bid teams• Lead projects and project teams (including subcontractors and partners from across Industry and Academia) to deliver against customer requirements• Ability to practically implement statistical techniques and methods to a wide variety of unstructured and structured datasets,  ideally on Big Data middleware• An appreciation of domain challenges in the area of data science relating to UK defence and Security sector and how QinetiQ’s technology can be used to help solve such challenges• The ability to translate algorithmic techniques from other applications and sectors to be of use in a new domain• DV cleared (preferable),  or a wiliness to undergo DV clearance. Skills• Innovative thinker who is willing to think outside of the box to solve domain problems• Ability to use a wide variety of open source technologies and tools• Comfortable with using C#,  C++,  python,  Java,  Matlab,  R• Experience with Windows and Linux operating systems• Human Factors and UI Design• Forward thinking individual who strives to keep up to date with the latest technologies• Confident and clear presentation skills EducationUpper Second University degree in a STEM subject. "
+    }, 
+    "postalCode": "WR14", 
+    "jobState": "LISTED", 
+    "companyName": "QinetiQ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are experts in global aerospace,  defence and security.  A FTSE250 company with over 6, 000 employees worldwide; our scientists and engineers solve some of the world’s most challenging problems.   We offer high-end technical knowledge underpinned by world-class research and innovation.  Our unique position enables us to serve as a trusted independent advisor to government organisations,  predominantly in the UK and the US,  including defence departments,  intelligence services and security agencies. Our services offerings are focused on providing expertise and knowledge in national markets,  and our products division provides technology-based solutions to meet customer requirements,  complemented by contract-funded research and development on a global basis. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443939733000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:387409", 
+    "id": 90088090, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Malvern,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "We are experts in global aerospace,  defence and security.  \r\rA FTSE250 company with over 6, 000 employees worldwide; our scientists and engineers solve some of the world’s most challenging problems.   We offer high-end technical knowledge underpinned by world-class research and innovation.  \r\rOur unique position enables us to serve as a trusted independent advisor to government organisations,  predominantly in the UK and the US,  including defence departments,  intelligence services and security agencies. \r\rOur services offerings are focused on providing expertise and knowledge in national markets,  and our products division provides technology-based solutions to meet customer requirements,  complemented by contract-funded research and development on a global basis. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/043/3ee/3a2bc28. png"
+    }, 
+    "canonicalName": "QinetiQ", 
+    "company": {
+      "specialities": [
+        "Test and evaluation", 
+        "C4ISR", 
+        "Research and development (R&D)", 
+        "Aerospace", 
+        "intelligence services and security", 
+        "IP", 
+        "Procurement advisory service", 
+        "Maritime", 
+        "Space", 
+        "Weapons testing", 
+        "Consultancy"
+      ], 
+      "universalName": "qinetiq_2", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJpAAAAJDM4OTQ1MmYwLWEyMTQtNGIxZS1hMDkwLTE4MmEyNDI2YTljNA. png"
+      }, 
+      "companyId": 387409
+    }, 
+    "hasPaidLcp": true, 
+    "formattedCompanySize": "5001-10000", 
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanyType": "Public Company", 
+    "formattedIndustries": [
+      "Defense & Space"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Defense & Space"
+  ], 
+  "formattedPostedDaysAgo": "Posted 62 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "62d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 4,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/90088090?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. peopleclick. eu. com%2Fcareerscp%2Fclient_qinetiq%2Fqinetiqexternal%2Fgateway. do%3FjobPostId%3D13963%26functionName%3DviewFromLink%26localeCode%3Den-US%26source%3DLinked%2BIn&urlHash=QE4B&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

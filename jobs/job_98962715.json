@@ -1,0 +1,338 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nigelfrankjobs-120822", 
+    "expirationDate": 1451975692000, 
+    "title": "Data Scientist - Nuremberg - 58. 000EUR", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1810, 
+          "type": "BR", 
+          "endIdx": 1810, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1242, 
+          "type": "BR", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1242, 
+          "type": "BR", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1062, 
+          "type": "BR", 
+          "endIdx": 1062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1062, 
+          "type": "BR", 
+          "endIdx": 1062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 843, 
+          "type": "BR", 
+          "endIdx": 843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 843, 
+          "type": "BR", 
+          "endIdx": 843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 797, 
+          "type": "LI", 
+          "endIdx": 843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 776, 
+          "type": "LI", 
+          "endIdx": 797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 756, 
+          "type": "LI", 
+          "endIdx": 776, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 716, 
+          "type": "LI", 
+          "endIdx": 756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "LI", 
+          "endIdx": 716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BR", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BR", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "U", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "B", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "BR", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "BR", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "LI", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 510, 
+          "type": "LI", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 441, 
+          "type": "LI", 
+          "endIdx": 510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 404, 
+          "type": "LI", 
+          "endIdx": 441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 322, 
+          "type": "LI", 
+          "endIdx": 404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 294, 
+          "type": "LI", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "LI", 
+          "endIdx": 294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "BR", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "BR", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 210, 
+          "type": "U", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 210, 
+          "type": "B", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 210, 
+          "type": "BR", 
+          "endIdx": 210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 210, 
+          "type": "BR", 
+          "endIdx": 210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Your role will be to support the Research and Development team in developing of machine-learning applications and data analytics tools on CRM systems as well as for the online advertising ecosystem. Your ProfileAn in-depth knowledge of supervised and unsupervised learning algorithmsExperience using R or MatlabExperience setting up infrastructures for Big Data analytics using Hadoop or SparkIdeally experience in MS Azure or AWSIdeally experience in a programming language such as Python,  C#,  JavaFluent English -German knowledge would be good but is not a must. At least 2 years professional experienceWhat's On OfferThe opportunity to work at an international and rapidly expanding company in NurembergA competitive salary and bonus structureAn in house positionExciting new projectsBecoming a part of a highly qualified new teamThis role is a great opportunity for a anyone looking to work in exciting projects and develop their career in a very modern and innovative company.  The client are looking to hire ASAP so apply today before missing out!To apply for this role please send in your CV to Charlotte Boyle,  c. boyle@nigelfrank. com or Freephone 0800 18 18 161 (applicants outside the UK)/+44 (0)191 338 6643 (UK applicants)Nigel Frank International are the Global Leaders in Microsoft Technology Recruitment.  We have built excellent relationships with top tier Microsoft Partners and End Users.  As such,  we offer the largest choice of vacancies in our specialist areas,  many of which are exclusive to Nigel Frank: Microsoft Dynamics (AX,  NAV &amp; CRM),  Microsoft Stack (SharePoint,  Microsoft Business Intelligence,  BizTalk) Skype4Business (Lync) and Microsoft Infrastructure. We assure confidentiality,  integrity and personal attention,  expertise,  customer relationships and professionalism!www. nigelfrank. com"
+    }, 
+    "postalCode": "90403", 
+    "jobState": "LISTED", 
+    "companyName": "Nigel Frank International", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nigel Frank International is the global leader in Microsoft Technology recruitment.  We place more skilled Microsoft Dynamics and Stack professionals with Microsoft Partners and end-users worldwide than any other recruitment business.  -------------------------------------------------------------------------------------------------------------------------------------------------------\"Every 15 minutes,  Somewhere in the World,  a Microsoft Professional is Attending an Interview Arranged through Nigel Frank International. \"-------------------------------------------------------------------------------------------------------------------------------------------------------With a network of 400+ Recruitment Consultants spread across 10 Offices in 4 continents,  Nigel Frank International is uniquely positioned to find Microsoft Dynamics and Stack Professionals their perfect job,  whatever their career aspirations. We have built excellent relationships with top tier Microsoft Partners and End Users.  As such,  we offer the largest choice of vacancies (over 6, 000) in our specialist areas,  many of which are exclusive to Nigel Frank. We recruit for the full suite of Microsoft Dynamics and Stack products covering every role from Sales and Pre-Sales,  through to Project Managers,  Consultants and Developers,  with our multi-lingual,  technically proficient recruiters providing a comprehensive and fully confidential consultancy service.  Over 80% of our business is repeat business - testament to the ability of our multilingual consultants to deliver high caliber candidates within our client’s budgets.  We are ideally placed to find you either the perfect role to advance your career or the perfect candidate to fill your vacancy. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447661117000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:205918", 
+    "id": 98962715, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Nürnberg,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "MS Dynamics Recruitment", 
+        "Staffing", 
+        "MS Stack Recruitment", 
+        "Consultancy", 
+        "Development", 
+        "Programming", 
+        "Skype for Business", 
+        "Axapta", 
+        "Navision", 
+        "Great Plains", 
+        "MS CRM", 
+        "Dynamics AX", 
+        "Dynamics CRM", 
+        "Dynamics NAV", 
+        "Dynamics GP", 
+        "Dynamics SL", 
+        "Dynamics RMS", 
+        "SharePoint", 
+        "Microsoft BI", 
+        "Lync"
+      ], 
+      "universalName": "nigel-frank-international", 
+      "companyId": 205918, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAVfAAAAJDlhMGI2NGVjLWY3OTMtNGQyYS05ODY5LWVlODEyNzc1NmE4ZQ. png"
+      }
+    }, 
+    "localizedDescription": "Nigel Frank International is the global leader in Microsoft Technology recruitment.  We place more skilled Microsoft Dynamics and Stack professionals with Microsoft Partners and end-users worldwide than any other recruitment business.  \r\r-------------------------------------------------------------------------------------------------------------------------------------------------------\r\"Every 15 minutes,  Somewhere in the World,  a Microsoft Professional is Attending an Interview Arranged through Nigel Frank International. \"\r-------------------------------------------------------------------------------------------------------------------------------------------------------\r\rWith a network of 400+ Recruitment Consultants spread across 10 Offices in 4 continents,  Nigel Frank International is uniquely positioned to find Microsoft Dynamics and Stack Professionals their perfect job,  whatever their career aspirations. \r\rWe have built excellent relationships with top tier Microsoft Partners and End Users.  As such,  we offer the largest choice of vacancies (over 6, 000) in our specialist areas,  many of which are exclusive to Nigel Frank. \r\rWe recruit for the full suite of Microsoft Dynamics and Stack products covering every role from Sales and Pre-Sales,  through to Project Managers,  Consultants and Developers,  with our multi-lingual,  technically proficient recruiters providing a comprehensive and fully confidential consultancy service.  \r\rOver 80% of our business is repeat business - testament to the ability of our multilingual consultants to deliver high caliber candidates within our client’s budgets.  We are ideally placed to find you either the perfect role to advance your career or the perfect candidate to fill your vacancy. ", 
+    "foundedYear": 2006, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "Nigel Frank International", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAY0AAAAJDQ3NGE5OWNjLTEyY2QtNGI0My1iYTc2LWM3ZWVmMWRjY2RhYQ. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXTAAAAJDE5NDc5OTk3LTU0YWMtNDc5NS1iMDU5LTE1ZDdlOTQzMjRjYg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAY0AAAAJDQ3NGE5OWNjLTEyY2QtNGI0My1iYTc2LWM3ZWVmMWRjY2RhYQ. png"
+  }, 
+  "formattedPostedDaysAgoShort": "19d", 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98962715?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nigelfrank. com%2Fen%2Fvacancy%2F120822%2Fdata-scientist---nuremberg---58000&urlHash=0KlR&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

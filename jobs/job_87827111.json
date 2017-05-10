@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87827111", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Required skills: Very good Master’s or Bachelor’s degree in Computer Science or related fields A solid foundation in computer science with strong competencies in data structure,  algorithms,  and software design Expert skills in one ore more of the following languages: C++,  Java,  Scala,  Python,  R,  Lua,  Go A high level of commitment,  team-spirit,  flexibility,  and initiative Preferred skills: Knowledge of parallel,  distributed algorithms Knowledge of scripting language (for example in Python,  Java script) A solid understanding of one ore more of the following areas: Hadoop,  Spark,  HDFS,  Hive,  Yarn,  Flume,  Storm,  Kafka,  ActiveMQ,  Sqoop,  MapReduce Knowledge in cloud scale distributed systems Database knowledge Experience with NoSQL Databases and Technologies like Cassandra,  MongoDB,  Graph Databases Knowledge in design patterns and object oriented programming", 
+  "following": false, 
+  "companyDescription": "Do you demand the best from your professional career? Are you inspired by excellence? At SAP,  you will have the power to make a real impact.  As the global market leader for business software,  SAP helps companies and organizations in more than 25 industries to run better.  Our team has the mission to design and develop a massively scalable,  multi-tenant aware and extremely fast data management engine.  We are at the very beginning of the project phase,  still in research mode.  Our goal is to expand from a research prototype to a productive version of the engine.  In this process we will make use of the Hadoop eco system and explore far-reaching integration possibilities into HDFS,  Spark and other components. .  We are looking for developers to bring their talents to the SAP HANA Research &amp; Development team. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "SAP", 
+  "canFollow": false, 
+  "companyId": "1115", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "SAP", 
+    "title": "Big Data Developer for the SAP HANA Research & Development Team"
+  }, 
+  "description": "As a developer in the SAP HANA Research &amp; Development team you will be working with a group of exceptionally talented and motivated colleagues.  You will need to: Identify relevant technology trends and drive education in related domains Write meticulous software implementations throughout the whole software stack Perform code reviews and audits to spot opportunities for improvements with respect to usability,  testability,  supportability,  or potential performance penalties Own the end-to-end development and testing of your own code using different programming languages (e. g.  C++,  Python,  SQL) and testing frameworks (e. g.  Google C++ Testing Framework) Be able to multiply your skills by actively mentoring other resources within the team Continually enhance your existing skills and seek new areas for personal development Be a strong,  committed,  reliable team player with a strong service ethic; as well as being a proactive networker,  a self-starter and self-motivated.  Your tasks will include developing new concepts in the following areas: Massive scale-out Low latency networking Time critical protocols Multi-tenancy concepts Fault tolerance and security Distributed Machine Learning algorithms Graph algorithms Cloud computing Compression algorithms Query execution via Spark Block Placement Strategies in HDFS Resource Management in Yarn"
+}

@@ -1,0 +1,85 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4251777", 
+    "expirationDate": 1451628572000, 
+    "title": "DATA Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "SAS/STAT knowledge is highly desirable.   Advanced user of tableau software for the creation of reports and dashboards.   Expert level proficiency in SQL in an Oracle or SQL server environment"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Lib Cap InfoTech Solutions Pvt Ltd. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We,  Lib Cap Infotech Solutions Pvt Ltd,  introduce ourselves as a TOTAL SOLUTION Organization providing Human Resources and consultancy to the Corporate World. In today’s world,  the need of the time is to cater for changing environment and for doing so we need to change ourselves accordingly.  Our motto is to constantly update ourselves to the changing requirement and serve our clients with best of our efforts and quality standards. The Organization:Lib Cap Infotech Solutions Pvt Ltd started functioning in January 2007 with a handful of Clients.  In this short period,  we have carved a niche for ourselves.  We are one of the leading Solution Organization,  providing Professional Human Resource Solutions to the Indian and overseas clients.   We have been successful in meeting the requirements of our Clients and we have also developed a strong Talent Bank on various skills from well-known Companies at all levels of experience.  Our Focus – we are providing service in  IT,  Banking,  Finance and Insurance sector,  PowerInformation Technology: - We are giving the service from juniors level to Senior Level i. e.  Developer to VP. We have all kind of profiles on the following Skill Sets: • Automobiles &amp; Auto Components • Consumer &amp; Services • Education • Electrical,  Electronics and Energy • Engineering (oil &amp; Gas/ Power)• Financial Services • FMCG • Infrastructure • Media &amp; Entertainment • Pharmaceutical,  Healthcare &amp; Life-Sciences • Technology • Telecom"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447271946000, 
+    "countryCode": "ae", 
+    "company": "urn:li:company:1746646", 
+    "id": 98413157, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Dubai,  AE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "We,  Lib Cap Infotech Solutions Pvt Ltd,  introduce ourselves as a TOTAL SOLUTION Organization providing Human Resources and consultancy to the Corporate World. \rIn today’s world,  the need of the time is to cater for changing environment and for doing so we need to change ourselves accordingly.  Our motto is to constantly update ourselves to the changing requirement and serve our clients with best of our efforts and quality standards. \rThe Organization:Lib Cap Infotech Solutions Pvt Ltd started functioning in January 2007 with a handful of Clients.  In this short period,  we have carved a niche for ourselves.  We are one of the leading Solution Organization,  providing Professional Human Resource Solutions to the Indian and overseas clients.   \r\rWe have been successful in meeting the requirements of our Clients and we have also developed a strong Talent Bank on various skills from well-known Companies at all levels of experience.  \rOur Focus – we are providing service in  IT,  Banking,  Finance and Insurance sector,  Power\rInformation Technology: - We are giving the service from juniors level to Senior Level i. e.  Developer to VP. \r\rWe have all kind of profiles on the following Skill Sets: \r• Automobiles & Auto Components \r• Consumer & Services \r• Education \r• Electrical,  Electronics and Energy \r• Engineering (oil & Gas/ Power)\r• Financial Services \r• FMCG \r• Infrastructure \r• Media & Entertainment \r• Pharmaceutical,  Healthcare & Life-Sciences \r• Technology \r• Telecom", 
+    "foundedYear": 2007, 
+    "canonicalName": "LIB CAP INFOTECH SOLUTIONS PVT. LTD. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/1ff/3a4/2910b27. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing & Recruitment", 
+        "Executive Search", 
+        "Industry Maping", 
+        "Permanent Hiring"
+      ], 
+      "universalName": "lib-cap-infotech-solutions-pvt-ltd-", 
+      "companyId": 1746646, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/000/1ff/017/0b62b2e. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 24 days ago", 
+  "formattedPostedDaysAgoSlim": "24 days ago", 
+  "formattedPostedDaysAgoShort": "24d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 11,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98413157?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-scientist%2Flib-cap-infotech-solutions-pvt-ltd%2F4251777%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=SQKR&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,422 @@
+{
+  "jobPosting": {
+    "companyJobCode": "cvonline_hu-993408", 
+    "expirationDate": 1451795319000, 
+    "title": "User Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1478, 
+          "type": "BR", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "BR", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "B", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "BR", 
+          "endIdx": 1424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "BR", 
+          "endIdx": 1424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1404, 
+          "type": "B", 
+          "endIdx": 1424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "B", 
+          "endIdx": 1403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1389, 
+          "type": "BR", 
+          "endIdx": 1389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1369, 
+          "type": "LI", 
+          "endIdx": 1389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1337, 
+          "type": "LI", 
+          "endIdx": 1368, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1289, 
+          "type": "LI", 
+          "endIdx": 1336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "LI", 
+          "endIdx": 1288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BG", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1244, 
+          "type": "B", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1244, 
+          "type": "BR", 
+          "endIdx": 1244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1244, 
+          "type": "BR", 
+          "endIdx": 1244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "LI", 
+          "endIdx": 1243, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1130, 
+          "type": "LI", 
+          "endIdx": 1225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1098, 
+          "type": "LI", 
+          "endIdx": 1129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "LI", 
+          "endIdx": 1097, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "LI", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "BG", 
+          "endIdx": 1244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "BR", 
+          "endIdx": 950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 935, 
+          "type": "B", 
+          "endIdx": 950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 935, 
+          "type": "BR", 
+          "endIdx": 935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 935, 
+          "type": "BR", 
+          "endIdx": 935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 870, 
+          "type": "LI", 
+          "endIdx": 934, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 831, 
+          "type": "LI", 
+          "endIdx": 869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "LI", 
+          "endIdx": 830, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 715, 
+          "type": "LI", 
+          "endIdx": 758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 677, 
+          "type": "LI", 
+          "endIdx": 714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 592, 
+          "type": "LI", 
+          "endIdx": 676, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 480, 
+          "type": "LI", 
+          "endIdx": 591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 480, 
+          "type": "BG", 
+          "endIdx": 935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 480, 
+          "type": "BR", 
+          "endIdx": 480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 464, 
+          "type": "B", 
+          "endIdx": 480, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 464, 
+          "type": "BR", 
+          "endIdx": 464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 464, 
+          "type": "BR", 
+          "endIdx": 464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 412, 
+          "type": "LI", 
+          "endIdx": 463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 366, 
+          "type": "LI", 
+          "endIdx": 411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "LI", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 204, 
+          "type": "LI", 
+          "endIdx": 284, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 204, 
+          "type": "BG", 
+          "endIdx": 464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 204, 
+          "type": "BR", 
+          "endIdx": 204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 199, 
+          "type": "B", 
+          "endIdx": 204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 199, 
+          "type": "BR", 
+          "endIdx": 199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 199, 
+          "type": "BR", 
+          "endIdx": 199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 180, 
+          "type": "B", 
+          "endIdx": 199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 180, 
+          "type": "BR", 
+          "endIdx": 180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 180, 
+          "type": "BR", 
+          "endIdx": 180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Russmedia Kft. ,  which has leading market position in print and online media in Hajdú-Bihar,  Borsod-Abaúj-Zemplén and Szabolcs-Szatmár- Bereg counties,  is looking for anUser Data ScientistTasksParticipate in and support projects based on analysis,  data mining and user data Design and implement regular reports and dashboards to support business strategy Work with several large and complex databases Inform,  influence and support our product decisions Technical SkillsMaster or Bachelor degree in Computer Science,  Math,  Physics,  Engineering,  Statistics or other technical field; 2+ years of relevant quantitative and qualitative research and analytics experience; Fluency in SQL programming languages; Being able to develop or program databases; Having the ability to query databases and perform statistical analysis; Knowledge of user analytics and tools; Being up to date with the newest developments of data scientist; Personal SkillsStrong written and verbal communication skills in both English and Hungarian Having ability to think analytically,  and strong attention to details.  Being able to work autonomously Ability to communicate complex quantitative analysis in a clear,  precise,  and actionable manner Willing to travel Our OfferWorking in a young and dynamic team Opportunity to develop your professional skills Competitive salary and benefits Internal career path Job location: Budapest or DebrecenSend your application to the following e-mail address. "
+    }, 
+    "postalCode": "1117", 
+    "jobState": "LISTED", 
+    "companyName": "Russmedia Kft. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Russmedia ist the most progressive media company in Europe,  with subsidiaries in 5 European countries.  The company’s headquarters are in Austria/Vorarlberg,  where the company has been founded almost 100 years ago.  Products are mainly concentrating on either regional or vertical niches.  The entire portfolio consists of 10 daily newspapers,  64 weekly papers,  more than 100 websites,  2 printing plants and 1 radio station.  Among them are leading products like the daily newspaper Vorarlberger Nachrichten,  VOL. AT,  erento. com and quoka. de.  In Germany,  the company runs several successful special interest and classified websites.  Further,  Russmedia is internet and mobile telephony provider in Austria.  With its digital activities,  the company reaches more than 20 million unique visitiers per month.  1500 people are working for Russmedia. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1446920016000, 
+    "countryCode": "hu", 
+    "company": "urn:li:company:2648223", 
+    "id": 97431223, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Budapest,  HU", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97431223?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. cvonline. hu%2Fuser-data-scientist%2F993408%2Fj. html&urlHash=017u&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Media Production"
+    ], 
+    "localizedDescription": "Russmedia ist the most progressive media company in Europe,  with subsidiaries in 5 European countries.  The company’s headquarters are in Austria/Vorarlberg,  where the company has been founded almost 100 years ago.  \rProducts are mainly concentrating on either regional or vertical niches.  The entire portfolio consists of 10 daily newspapers,  64 weekly papers,  more than 100 websites,  2 printing plants and 1 radio station.  Among them are leading products like the daily newspaper Vorarlberger Nachrichten,  VOL. AT,  erento. com and quoka. de.  In Germany,  the company runs several successful special interest and classified websites.  Further,  Russmedia is internet and mobile telephony provider in Austria.  \rWith its digital activities,  the company reaches more than 20 million unique visitiers per month.  1500 people are working for Russmedia. ", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAZNAAAAJDgyMmFjYmMyLTkwOGItNDdmNi05NGJlLTNhN2MxMmZhNDQ3Mg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Publishing", 
+        "Media", 
+        "Print", 
+        "Online", 
+        "Radio", 
+        "Marketing", 
+        "Classified Websites", 
+        "Special Interest Websites", 
+        "Internet & Mobile telephony provider"
+      ], 
+      "universalName": "russmedia", 
+      "companyId": 2648223, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJDg2NjIwYThkLWZhMjUtNGZlMi04NGNiLWIyYTY2YjgzNzk2OQ. png"
+      }
+    }, 
+    "canonicalName": "Russmedia", 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanyType": "Privately Held"
+  }, 
+  "formattedIndustries": [
+    "Media Production"
+  ], 
+  "formattedPostedDaysAgo": "Posted 28 days ago", 
+  "formattedPostedDaysAgoSlim": "28 days ago", 
+  "formattedPostedDaysAgoShort": "28d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedListDate": "November 7,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Imperial College London", 
+    "functions": [
+      "EDU"
+    ], 
+    "companyJobCode": "jobsacuk-AMM806", 
+    "title": "Lecturer in Machine Learning and Big Data Analytics", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101104692, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      70
+    ]
+  }, 
+  "company": {
+    "companyId": 5106, 
+    "websiteUrl": "http://www. imperial. ac. uk", 
+    "logo": "urn:li:media:/p/1/000/01b/2ac/2b4b187. png", 
+    "universalName": "imperial-college-london"
+  }, 
+  "description": "    Imperial College London is a world leading university whose reputation    for excellence in research and teaching attracts students and staff of    the highest international quality.   The three Faculties – Engineering,     Natural Sciences and Medicine - together with the Business School    explore the interface between science,  medicine,  engineering and    management.     The Department of Computing at Imperial College London invites    applications for a full-time Lecturer in Machine Learning and Big Data    Analytics.  This will be a permanent appointment between the Department    of Computing and the Data Science Institute.  You will be a full member    of the team responsible for teaching in a variety of subjects within    the Data Science Institute and Department of Computing,  and you should    have a track record of research in the area of Machine Learning,     including big data analysis and theory of statistical learning.     Broadly The Duties Of The Role Will Be       To engage in excellent research within the discipline of Machine        Learning and the multi-disciplinary nature of the Data Science        Institute.        To participate in the teaching and administrative work of the Data        Science Institute and the Department of Computing       To contribute to establishing the strategic direction of the Data        Science Institute and setting standards for the work of the wider        group     Applicants will have a PhD or equivalent in computer science or    statistics,  with significant post-qualification research experience,     with specialist knowledge in Machine Learning to develop course units    and research programmes.  A strong,  established international reputation    and publication record,  and experience in delivering high-quality    teaching are also required.     For more detail,  please refer to the full job description.     How To Apply    Our preferred method of application is online via our website at:    http://www. imperial. ac. uk/employment (please select “job search” then    enter the job title or vacancy reference number EN20150393FH into    “keywords”).   Please complete and upload an application form as    directed.     In addition to the application form,  you should attach a full CV that    covers any aspects of your career not covered by the online form,  a 2–3    page statement of your research plans over the next 5 years and a brief    statement of how you might fit into the Data Science Institute and the    Department.     Should you have any queries regarding the application process contact    Margaret Hall by email at: margaret. hall@imperial. ac. uk    Imperial Managers lead by example.     Closing date: 11 January 2016 (Midnight GMT)    Committed to equality and valuing diversity.  We are also an Athena SWAN    Silver Award winner,  a Stonewall Diversity Champion,  a Two Ticks    Employer,  and are working in partnership with GIRES to promote respect    for trans people", 
+  "companyDescription": "      Imperial College London    Rated 3rd in Europe and 8th in the world in the Times Higher World    University Rankings 2012-13,  Imperial College London is a science-based    institution with a reputation for excellence in teaching and research.     Imperial provides world-class scholarship,  education and research in    science,  engineering,  management and medicine. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

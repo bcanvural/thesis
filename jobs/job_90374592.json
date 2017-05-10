@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90374592", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Candidates must have a proven track record and significant experience in a business intelligence,  data science or analytics role and in recruiting,  building and managing high performing teams.  Ideally you will have knowledge of,  experience with: Strong programming skills in R and/or Python Experimental design and MapReduce/Hadoop Using large-scale data mining techniques to discover and identify actionable patterns in data and develop hypotheses and models Designing experiments,  overseeing execution,  and performing rigorous statistical evaluation of the results to produce actionable insights Data visualization Uncovering business insights via rigorous data analysis Instilling best practices in terms of statistical interpretation of data amongst various teams,  including any required explanations regarding confidence levels,  statistical significance,  etc.  Working with your team to develop and maintain data products and tools for use both within the data science team and across the broader company.  Managing,  curation and quality control of data using manual &amp; automated techniques Automating routine tasks and reports as appropriate in the correct format for individual teams Advising the development team when new features require new data to be captured or generated for successful business insights Succinctly summarising and communicate findings for relevant stakeholders and provide insight via visualisations", 
+  "following": false, 
+  "companyDescription": "They recently embarked on a multi million pound digital transformation programme to spur their innovation.  Digital and Mobile channels therefore inevitably form a core part of this company's international growth strategy,  and the business has already taken significant investment to establish a global eCommerce platform in 20 markets and create significant online businesses in key markets including the UK,  USA,  Australia,  The Netherlands and Japan.  This business is ideally positioned against its pure-play digital competitors to build the leading omni-channel FX business.  Essentially they are building an entirely new,  dynamic and world-class team focused on enhancing the customer experience in foreign exchange,  money transfer and payments through technologies,  apps,  mobile payments and more.  If you’re interested,  please apply now.  Happy to discuss this role in more detail over the telephone. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Burns Sheehan", 
+  "canFollow": false, 
+  "companyId": "103683", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Burns Sheehan", 
+    "title": "Head of Data Science | Build Data Science Team From Ground Up! | Global FX Business"
+  }, 
+  "description": "One of the world's largest Foreign Exchange Specialists requires a Head of Data Science for a newly created role.  This company are building a data science team from the ground up to support their ambitions.  Due to the nature of the business,  they deal with lots and lots of data.  They need a leader who is going to hire and build the team and establish the practice of data science.  This is a unique,  greenfield opportunity to architect and implement a data science practice from scratch with the backing,  resources and brand of the leader in the industry.  The programme is a complete blank canvas (pure greenfield work) with a real start-up culture (half the office is empty to ready to be furnished with staff!).  They have a lot of freedom on technical direction and there is zero legacy work.  It’s a chance for everyone to join early and help establish a great team. "
+}

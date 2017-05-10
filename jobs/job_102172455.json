@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "PwC", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "CNSL"
+    ], 
+    "companyJobCode": "brassring-5207BR", 
+    "title": "Consultant / Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102172455, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      47
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. pwc. com", 
+    "logo": "urn:li:media:/p/1/000/071/3be/1f91afb. png", 
+    "universalName": "pwc", 
+    "companyId": 1044
+  }, 
+  "description": "     Job Description    Job Description Currently,  we are looking for highly motivated recent    or fresh graudates to our Data Analytics team for the following    position:    Consultant / Data Scientist (junior position)    We are looking for highly-motivated candidates that are eager to    develop their competences in the field of statistics,  programming and    business analysis.  As our consultant you will have a unique opportunity    to design and implement tools and IT systems that helps our client to    achieve their business goals and increase the probability of projects    success.  You will work intimately with clients through whole project    life cycle,  since planning,  over controlling,  till install phase.  As    far as corporation goes,  this is the most startup role in such a big    company you have ever dreamed of.  The team is composed of really smart    people – possibly the one of smartest you have worked with.  The boss    understands models,  performance and can still challenge you.     Role    Working closely with the team of our experts,  you will be responsible    for the development of valuable solutions for PwC clients,  through the    implementation of statistical data modeling,  programming IT systems and    reporting.  You will support clients in in-depth understanding of the    key-drivers for their current and future success and solving the    strategic and operational problems.        Appling your expertise in quantitative business analysis,  data        mining,  and the presentation of data to see beyond the numbers       Effective and professional verbal and written communication with        different recipient       Understanding of project team roles and pro-active contribution to        mutual success.      An ideal candidate should have       Higher degree or last-years students (preferred Math,  Computer        Science,  Economics,  Physics,  Operational Research or related)       Command of predictive analysis tools (preferred R,  SAS)       Experience with analysis of large data sets (in particular a good        knowledge of machine learning algorithms)       Willingness to learn new tools and software solutions,  i.  a.         (Python,  Hadoop,  geospatial analysis tools)       Basic understanding of economics and management issues       Very good command of English       Strong interpersonal and communication skills - essential in        day-to-day cooperation with clients and the team.            Additional assets will be:       Knowledge of tools and programming languages using in large data        sets analysis in Hadoop ecosystem (for instance Pig,  Hive,  Spark)       Experience in effective visualization (Tableau,  QlikView,  Tibco        Spotfire)       Familiar with databases (SQL,  OLAP,  ETL)       Interest in behavioral economics and/or data science       KAggle profile.      What we can offer you       Opportunity to develop skills in statistical modeling embedded in        business realities       Gaining knowledge and experience in the practical use of technology        centered around Big Data on projects carried out for companies from        different sectors. ", 
+  "companyDescription": "      PwC    PwC US helps organizations and individuals create the value they’re    looking for.  We’re a member of the PwC network of firms in 157    countries with more than 184, 000 people.  We’re committed to delivering    quality in assurance,  tax and advisory services.  Tell us what matters    to you and find out more by visiting us at www. pwc. com/US.  Gain    customized access to our insights by downloading our thought leadership    on PwC's 365 app - visit iTunes for access:    https://itunes. apple. com/us/app/pwcs-365/id689591286?ls=1&mt=8.  We help    our clients do the extraordinary each and every day.  See how at    http://pwc. to/1C8tf53", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

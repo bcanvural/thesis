@@ -1,0 +1,470 @@
+{
+  "jobPosting": {
+    "companyJobCode": "carerix-779", 
+    "expirationDate": 1451654438000, 
+    "title": "Java Software Engineer gezocht met affiniteit voor Social Media en Big Data voor marktleider in Zaandam!", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3959, 
+          "type": "BR", 
+          "endIdx": 3959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3959, 
+          "type": "BR", 
+          "endIdx": 3959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3951, 
+          "type": "B", 
+          "endIdx": 3959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3951, 
+          "type": "BR", 
+          "endIdx": 3951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3941, 
+          "type": "B", 
+          "endIdx": 3951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3905, 
+          "type": "B", 
+          "endIdx": 3909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3863, 
+          "type": "B", 
+          "endIdx": 3879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3831, 
+          "type": "B", 
+          "endIdx": 3835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3812, 
+          "type": "BR", 
+          "endIdx": 3812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3812, 
+          "type": "BR", 
+          "endIdx": 3812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3802, 
+          "type": "B", 
+          "endIdx": 3812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3802, 
+          "type": "BR", 
+          "endIdx": 3802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3799, 
+          "type": "BR", 
+          "endIdx": 3799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3777, 
+          "type": "BR", 
+          "endIdx": 3777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3777, 
+          "type": "BR", 
+          "endIdx": 3777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3755, 
+          "type": "LI", 
+          "endIdx": 3777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3755, 
+          "type": "BR", 
+          "endIdx": 3755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3752, 
+          "type": "BR", 
+          "endIdx": 3752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3738, 
+          "type": "B", 
+          "endIdx": 3752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3738, 
+          "type": "BR", 
+          "endIdx": 3738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3738, 
+          "type": "BR", 
+          "endIdx": 3738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3044, 
+          "type": "B", 
+          "endIdx": 3058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3044, 
+          "type": "BR", 
+          "endIdx": 3044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2968, 
+          "type": "BR", 
+          "endIdx": 2968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2946, 
+          "type": "BR", 
+          "endIdx": 2946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2776, 
+          "type": "BR", 
+          "endIdx": 2776, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2665, 
+          "type": "BR", 
+          "endIdx": 2665, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2654, 
+          "type": "BR", 
+          "endIdx": 2654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2604, 
+          "type": "BR", 
+          "endIdx": 2604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2537, 
+          "type": "BR", 
+          "endIdx": 2537, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2460, 
+          "type": "BR", 
+          "endIdx": 2460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2428, 
+          "type": "BR", 
+          "endIdx": 2428, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2389, 
+          "type": "BR", 
+          "endIdx": 2389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2374, 
+          "type": "BR", 
+          "endIdx": 2374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2351, 
+          "type": "BR", 
+          "endIdx": 2351, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2346, 
+          "type": "BR", 
+          "endIdx": 2346, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2264, 
+          "type": "BR", 
+          "endIdx": 2264, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2224, 
+          "type": "BR", 
+          "endIdx": 2224, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2156, 
+          "type": "BR", 
+          "endIdx": 2156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2111, 
+          "type": "BR", 
+          "endIdx": 2111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2070, 
+          "type": "BR", 
+          "endIdx": 2070, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "B", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "BR", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "BR", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1705, 
+          "type": "BR", 
+          "endIdx": 1705, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1705, 
+          "type": "BR", 
+          "endIdx": 1705, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1270, 
+          "type": "BR", 
+          "endIdx": 1270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1262, 
+          "type": "BR", 
+          "endIdx": 1262, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "BR", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "BR", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 220, 
+          "type": "BR", 
+          "endIdx": 220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "BR", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Please review the job details and click Apply.  Java Software Engineer gezocht met affiniteit voor Social Media en Big Data voor marktleider in Zaandam!   (Zaandam)                                 IntroductionSocial Media in kaart brengen door middel van Big Data en Java? Het kan bij onze klant in Zaandam! Het bedrijf is marktleider in Nederland en ontwikkelt software waarmee content op alle bekende social media kanalen in kaart worden gebracht.  Binnen een klein,  informeel team krijg je alle ruimte om je creatieve vrijheid de vrije loop te laten!OrganizationOnze klant is gevestigd in Zaandam,  vlakbij het CS en legt zich toe op het ontwikkelen van social media monitoring- en webcare oplossingen.  De applicaties leveren realtime data van o. a.  Facebook en Twitter en nieuwsbronnen om deze vervolgens te structureren en als SaaS oplossing aan de klant te presenteren.  De lijst met klanten is zeer indrukwekkend en bevat vrijwel alle grote namen die er toe doen in het Nederlandse bedrijfsleven.  Met een team van ±10 worden doorlopend nieuwe concepten en toepassing ontwikkeld en uitgewerkt. De uitspraak ‘Never a dull moment’ is hier dus zeker van toepassing.  Op vrijdag borrel je nog even gezellig en tijdens de pauze worden de beentjes gestrekt. FunctionJe komt te werken in het team van ontwikkelaars en designers.  Samen werken jullie aan het verder innoveren van de bestaande oplossingen,  maar omdat de markt constant in beweging is kan het zomaar zijn dat je de ene week aan een stukje back-end Java of zelfs C# werkt en de week erna een Android App of de Windows variant ontwikkelt.  Je houdt je bezig met functionele ontwerpen en kunt dit vertalen en omzetten naar werkende prototypes. Je hebt veel invloed op het creatieve proces en krijgt veel vrijheid en ruimte om je eigen ei kwijt te kunnen.  Het bedrijf loopt voorop in de markt en wil dit ook blijven doen,  dus ideeën zijn altijd welkom!Als Ontwikkelaar Heb Je Uiteraard Gedegen Ervaring Met Java,  OOP En Frontend Technieken.  Verder• Je snapt een FO en kunt hier een werkend prototype van maken;• Je hebt een afgerond HBO of WO diploma;• Je hebt humor en bent prettig in de omgang;• Je documenteert je code en waar nodig kan je een tandje bijzetten;• Ervaring met Scrum is mooi meegenomen;• Als je ook nog ervaring hebt met Big-Data en distributed systems is dat een pré!Offer• Marktconform salaris;• Jaarcontract;• Volop ruimte voor creatieve vrijheid;• Werken aan tastbare producten;• Informeel en leuk team van professionals,  inclusief een gezamenlijke lunch;• Een mooi kantoor dat goed bereikbaar is per trein en met de auto;• Werken met tools die ‘the-talk-of-town’ bepalen!InformationKlinkt dit als de volgende stap in jouw carrière,  of heb je vragen n. a. v.  dit vacature profiel? Reageer dan nu!ApplicationKlik op de onderstaande knop om jouw CV en/of contactgegevens achter te laten.  Voor vragen mag je altijd vrijblijvend contact met ons opnemen op: 020 8203 666. Closing date31-12-2015Back                                                                   ApplySimilar jobs:                              Inhouse aan de slag bij een klein bedrijf met grote klanten in Groningen! (Groningen) |                        Hele toffe Inhouse frontend positie in het centrum van Utrecht voor een ervaren maniak binnen de Game industrie! (Utrecht) |                        Senior Web Application Developer gevraagd voor innovatief Instore Marketingbedrijf in Eindhoven! (Eindhoven) |                        Als junior/medior Java Software ontwikkelaar het gehele ontwikkelproces doorlopen &amp; inhouse aan de slag in Rijssen! (Rijssen) |                        Java Sale: Java Data Scientist gezocht voor fashion bedrijf in Amsterdam! (Lijnden)        . . . More jobs&lt; Previous  | NET,  Soci. . .  (Zaandam)Werken als. . .  (Arnhem) |  Next &gt;Function:          Java         Job type:          Vast / Tijdelijk         Job ID           #779          Date posted:          05-02-2014Show mapSubscribe to the RSS feed                                                      Email to a friend                                                                     Save this job                             Print this job"
+    }, 
+    "postalCode": "1503", 
+    "jobState": "LISTED", 
+    "companyName": "PHP Professionals", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 10 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. We onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. Kunnen wij jou helpen?Ben jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nlBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. We horen graag van je. Groet, Het PHP Professionals Team"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "MRKT", 
+      "ENG"
+    ], 
+    "listDate": 1445824384000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:1559016", 
+    "id": 94700534, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Zaandam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94700534?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fphpprofessionals. carerix. com%2Fcxportal%2Fjobdetails%2F753%2FZaandam%2FJava-Software-Engineer-gezocht-met-affiniteit-voor-Social-Media-en-Big-Data-voor-marktleider-in-Zaandam%21. html&urlHash=T5SC&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Marketing", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 40 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "40d", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2010, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/244/0e0/3b99166. png"
+    }, 
+    "localizedDescription": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 11 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. \r\rWe onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. \r\rKunnen wij jou helpen?\r\rBen jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nl\r\rBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. \r\rWe horen graag van je. \r\rGroet, \rHet PHP Professionals Team", 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "PHP", 
+        "OOP", 
+        "Werving & Selectie"
+      ], 
+      "universalName": "php-professionals", 
+      "companyId": 1559016, 
+      "heroImage": {}
+    }, 
+    "canonicalName": "PHP Professionals", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 26,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Capita IT Enterprise Services", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "Jobreference:BBBH3240", 
+    "title": "data scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101265386, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. capita-ites. co. uk", 
+    "logo": "urn:li:media:/p/4/005/0a3/015/30b7ee6. png", 
+    "universalName": "capita-ites", 
+    "companyId": 3940
+  }, 
+  "description": "    Job description Date posted: 26/11/2015    My client is a global Boutique data science and strategy company,  in    the heart of London,  seeking 2 Data Scientists.     My client uses various big data sets with large scale quantative    research to predict business direction and services.  They combine    bleeding edge Big Data technologies and analytics to reveal patterns    and predictions.  My client works with a range of clients from charities    right up to multinational blue-chip companies.     You will help design and develop predictive analytics models and    algorithms.  You will also be importing data from various sources into    one core database,  building visualisations to communicate the outcomes    to internal and external clients.     Desired Skills    · Solid hands on programming with one or more languages (Python,  Java    or Scala)    · Experience with relational and non-relational databases (SQL &    MongoDB)    · Strong statistical fundamentals    · Experience or desire to work with big data technologies (Hadoop or    Spark)    · Good OOP familiarity    This is a fantastic position to work with a talented and world class    data science team on some pioneering projects!    Capita IT Resourcing welcome applications from all suitably qualified    people regardless of gender,  race,  disability,  age or sexual    orientation.     Capita IT Resourcing is a trading name of Capita Resourcing Ltd.     Services offered are those of an Employment Agency and Employment    Business.  Applicants will be required to register with us.     Transfer of information overseas    Your information may be shared with subsidiaries of Capita plc who are    involved in carrying out functions related to the services    administration including such subsidiaries which are outside the EEA in    countries which do not have similar protections in place regarding the    information and its use.  We shall ensure that any such subsidiary has    put in place proper security measures to ensure at least the same level    of protection of the personal data as is required under UK data    protection legislation. ", 
+  "companyDescription": "      Capita IT Enterprise Services    Capita IT Enterprise Services is a customer-focused,  trusted IT    services provider that brings together the right people,  processes and    technology to transform your organisation.  From individual IT services    to a total IT outsource or even our value-added reseller service; we    get to know your challenges and design the right solution for you.     Working across both private and public sectors,  Capita IT Enterprise    Services provides critical IT solutions and support to commercial    clients,  local and central government,  education,  healthcare,  financial    services,  retail and leisure,  transport,  manufacturing,  the built    environment,  wholesale,  energy and utilities and the third sector.  The    service portfolio includes:    - Cloud and infrastructure    - Applications    - Unified communications    - Security    - End user services    - Networks    - Intelligent building solutions    - Contact centre technology    With over 4, 500 people and 50 sites across the UK,  Ireland and India,     Capita IT Enterprise Services brings organisations,  people and    technology together intelligently for better results.  IT - it's what we    do.     We are part of Capita plc    www. capita-ites. co. uk", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

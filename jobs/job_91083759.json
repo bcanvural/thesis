@@ -1,0 +1,260 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-24708", 
+    "expirationDate": 1451865209000, 
+    "title": "Data Science Manager", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1102, 
+          "type": "BR", 
+          "endIdx": 1102, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1102, 
+          "type": "BR", 
+          "endIdx": 1102, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1037, 
+          "type": "BR", 
+          "endIdx": 1037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1037, 
+          "type": "BR", 
+          "endIdx": 1037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 869, 
+          "type": "BR", 
+          "endIdx": 869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 869, 
+          "type": "BR", 
+          "endIdx": 869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 798, 
+          "type": "BR", 
+          "endIdx": 798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 798, 
+          "type": "BR", 
+          "endIdx": 798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 702, 
+          "type": "BR", 
+          "endIdx": 702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 702, 
+          "type": "BR", 
+          "endIdx": 702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "BR", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "BR", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 365, 
+          "type": "BR", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 365, 
+          "type": "BR", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 353, 
+          "type": "U", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 353, 
+          "type": "B", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 353, 
+          "type": "BR", 
+          "endIdx": 353, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 353, 
+          "type": "BR", 
+          "endIdx": 353, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 127, 
+          "type": "BR", 
+          "endIdx": 127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 127, 
+          "type": "BR", 
+          "endIdx": 127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהLeading the Data Science Team in various tasks and projects. Participating as a team member in various DR’s missions. Developing and maintaining the data science infrastructure - Conduct preliminary data exploration and data preparation steps,  variable/algorithm selection,  model development/validation.  Metrics definition and scoring/ranking.  דרישות המשרהMinimum MSc in Applied Computational Mathematics,  Computer Science,  Engineering,  or similar quantitative field.  Preferably PhD8+ years of relevant experience in Data Mining / Statistical Analytics / Predictive Analytics / Machine Learning4+ years of experience in implementing Data Science and Prediction in an applied industrial settingProven experience with data driven projects from definition through execution and interpretationUp to date knowledge of the current applied Data Science methodologies. Experience processing and analyzing spatial information,  geographically anchored data.  Exploring spatial correlation and patterns variations in geo-scientific data setsExtensive knowledge and scripting experience in Matlab and Python"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1444322592000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 91083759, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1995, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 58 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "58d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 8,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/91083759?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F24708%2FData-Science-Manager&urlHash=JVEC&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

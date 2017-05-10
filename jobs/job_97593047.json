@@ -1,0 +1,93 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4232635", 
+    "expirationDate": 1451974093000, 
+    "title": "Data Scientist - Premier Institutes", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Machine Learning/Predictive Analytics/Internet of Things Roles and Responsibilities:  Entire machine learning/ predictive modeling implementation process: model design,  feature planning,  system infrastructure,  production setup and monitoring,  and release management.  Extract and analyze the large volume of data to find the hidden insights.  Design and implement highly scalable predictive models to perform various analyses like energy forecasting,  anomalies detection,  performance evaluation,  risk analysis,  preventive maintenance,  proactive failure detection etc.  in real time for distributed computing environments.  Improve the accuracy of built predictive models by implementing complex machine learning/ statistical analyses algorithms.  Test the developed models in distributed and non-distributed environment in the cloud.  Migrate the developed models to satisfy different business requirement and work entirely in different environment.  Being able to create examples,  prototypes,  and demonstrations to communicate findings clearly to both technical &amp; non-technical audiences.  Requirements: B. E/ BTech/ ME/MTech/MS/PhD in quantitative field such as Statistics/Mathematics/Computer Science or related field from premier institutes.  Advanced knowledge of data mining/predictive analytics/statistical modelling/machine learning/artificial intelligence/operation research.  2+ years of work experience with statistical analyses and machine learning techniques such as regression &amp;classification,  time series forecasting,  decision trees, random forests models,  artificial neural networks,  support vector machine,  clustering etc.  for large data sets.  Excellent knowledge of statistical analysis tool (such as R/ Mahout/ Weka) preferably R.  Experience with big data platforms such as Hadoop,  MapR,  Pig,  Hive,  HBase etc.  Proficiency in at least one Programming Language: Java, Python, Scala,  Ruby,  Perl.  Knowledge of SQL databases,  additionally at least one NoSQL database such as MongoDB,  HBase and Cassandra would be advantageous.  Familiar with cloud environments such as AWS,  Rackspace and CtrlS.  Understanding of UNIX / LINUX environment is plus.  Familiarity with at least one versioning tools: Bitbucket,  gitLab,  SVN.  Being able to work autonomously and enthusiastic to learn new technologies.  This is a full time position. "
+    }, 
+    "postalCode": "123456", 
+    "jobState": "LISTED", 
+    "companyName": "Mahindra Logistics Limited. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "At Mahindra Logistics Limited,  a 100% subsidiary of the USD 16. 2 billion Mahindra Group,  we provide integrated third party supply chain and people transport solutions,  to companies across a diverse cross section of industries.  We specialise in providing supply chain solutions to organisations,  integrating the right technology,  processes,  people and best practices.  We create integrated solutions,  which maximise service levels with the minimum logistical cost.  MLL is one of the few logistics service providers which also offers People Transport Solutions; a specialized line of business which provides customized services to organizations for transfer of employees from home to their place of work and back. The foundation of Mahindra Logistics was laid as a strategic initiative to enhance focus on logistics services to both internal and external customers.  We were soon engaged in taking care of Mahindra’s complex supply chain needs including inbound and outbound logistics,  inter-plant movement,  warehousing,  linefeed,  freight forwarding and value added services amongst other solutions.  This supply chain expertise was then extended to other customers spanning various industry verticals.  Today,  we serve over 200 large corporate customers across various industries and operating verticals. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446950580000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:3538091", 
+    "id": 97593047, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mumbai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97593047?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-scientist-premier-institutes%2Fmahindra-logistics-limited%2F4232635%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=vqDN&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Logistics and Supply Chain"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 2000, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/029/0d2/00afbea. png"
+    }, 
+    "localizedDescription": "At Mahindra Logistics Limited,  a 100% subsidiary of the USD 16. 2 billion Mahindra Group,  we provide integrated third party supply chain and people transport solutions,  to companies across a diverse cross section of industries.  We specialise in providing supply chain solutions to organisations,  integrating the right technology,  processes,  people and best practices.  We create integrated solutions,  which maximise service levels with the minimum logistical cost.  \r\rMLL is one of the few logistics service providers which also offers People Transport Solutions; a specialized line of business which provides customized services to organizations for transfer of employees from home to their place of work and back. \r\rThe foundation of Mahindra Logistics was laid as a strategic initiative to enhance focus on logistics services to both internal and external customers.  We were soon engaged in taking care of Mahindra’s complex supply chain needs including inbound and outbound logistics,  inter-plant movement,  warehousing,  linefeed,  freight forwarding and value added services amongst other solutions.  This supply chain expertise was then extended to other customers spanning various industry verticals.  Today,  we serve over 200 large corporate customers across various industries and operating verticals. ", 
+    "company": {
+      "specialities": [
+        "End to End Integrated Logistics", 
+        "Technology enabled solutions", 
+        "People Transport Solutions", 
+        "Transportation", 
+        "Warehousing", 
+        "Inbound (Linefeed)", 
+        "Inter-unit logistics", 
+        "In-plant logistics", 
+        "Outbound", 
+        "International logistics", 
+        "Yard Management", 
+        "Supplychain consultancy & design"
+      ], 
+      "universalName": "mahindra-logistics", 
+      "companyId": 3538091, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/6/005/02b/382/3b5a976. png"
+      }
+    }, 
+    "canonicalName": "Mahindra Logistics", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Logistics & Supply Chain"
+    ]
+  }, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

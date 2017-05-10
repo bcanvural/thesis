@@ -1,0 +1,357 @@
+{
+  "jobPosting": {
+    "companyJobCode": "icims_xml-1141", 
+    "expirationDate": 1451915222000, 
+    "title": "Big Data Software Engineer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2446, 
+          "type": "BR", 
+          "endIdx": 2446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2446, 
+          "type": "BR", 
+          "endIdx": 2446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2344, 
+          "type": "LI", 
+          "endIdx": 2446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2260, 
+          "type": "LI", 
+          "endIdx": 2344, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2160, 
+          "type": "LI", 
+          "endIdx": 2260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2160, 
+          "type": "BG", 
+          "endIdx": 2446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1895, 
+          "type": "BR", 
+          "endIdx": 1895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1834, 
+          "type": "B", 
+          "endIdx": 1895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1834, 
+          "type": "BR", 
+          "endIdx": 1834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1834, 
+          "type": "BR", 
+          "endIdx": 1834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1799, 
+          "type": "B", 
+          "endIdx": 1834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1799, 
+          "type": "BR", 
+          "endIdx": 1799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1799, 
+          "type": "BR", 
+          "endIdx": 1799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1789, 
+          "type": "U", 
+          "endIdx": 1799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1789, 
+          "type": "B", 
+          "endIdx": 1799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1789, 
+          "type": "BR", 
+          "endIdx": 1789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1789, 
+          "type": "BR", 
+          "endIdx": 1789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1732, 
+          "type": "LI", 
+          "endIdx": 1789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1709, 
+          "type": "LI", 
+          "endIdx": 1732, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1657, 
+          "type": "LI", 
+          "endIdx": 1709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1657, 
+          "type": "BG", 
+          "endIdx": 1789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "B", 
+          "endIdx": 1657, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "B", 
+          "endIdx": 1657, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "LI", 
+          "endIdx": 1657, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "BG", 
+          "endIdx": 1657, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "BR", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1618, 
+          "type": "U", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1618, 
+          "type": "B", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1618, 
+          "type": "BR", 
+          "endIdx": 1618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1618, 
+          "type": "BR", 
+          "endIdx": 1618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1187, 
+          "type": "BR", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1187, 
+          "type": "BR", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1085, 
+          "type": "LI", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1001, 
+          "type": "LI", 
+          "endIdx": 1085, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 901, 
+          "type": "LI", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 901, 
+          "type": "BG", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "BR", 
+          "endIdx": 636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "BR", 
+          "endIdx": 636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 383, 
+          "type": "BR", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 383, 
+          "type": "BR", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " CloudLock was launched in 2011 with one simple goal in mind: to transform cloud security into a business enabler.  From that initial goal,  we&rsquo;ve built out a unified cloud security fabric that helps organizations protect their sensitive data in public cloud applications such as Salesforce,  Dropbox,  Box,  ServiceNow,  Google Apps,  Third-party connected and other apps. At CloudLock,  we&rsquo;re building the world&rsquo;s leading and most innovative Cloud Security Platform.  Businesses are transforming how they do business in the cloud and CloudLock&rsquo;s mission is to transform cloud security into a business enabler. The Cloud Platform Engineering team is building out a near real-time data processing system that will scale to thousands of enterprise customers covering millions of users with many billions of unique objects.  Every day our team works on diverse challenges such as:Efficiently managing different Cloud Platform data feeds to aggregate and characterize incoming dataBuilding out a comprehensive content analysis system to support diverse policy typesHelping customers to visualize their multi-vendor cloud environments while automating common workflowsWe are looking for a qualified full-stack Software Engineer to develop,  improve,  and scale our product suite.  Our technology stack is built on AWS,  Python,  Java,  PostgreSQL,  Redis,  Kafka,  ElasticSearch,  Spark and much more.  You&rsquo;ll thrive here because you&rsquo;re a capable,  motivated problem-solver with a track record that demonstrates self-learning,  strong collaborative skills and solid software-engineering fundamentals. RequirementsBig Data experience- A MUSTAt least 5 years of software development experience. Agile,  can-do attitude. Experience designing and building internet-scale systems. Advantages2+ years of Python/Java experience. Equal Opportunity Employer Minorities/Women/Veterans/DisabledThe Cloud Platform Engineering team is building out a near real-time data processing system that will scale to thousands of enterprise customers covering millions of users with many billions of unique objects.  Every day our team works on diverse challenges such as:Efficiently managing different Cloud Platform data feeds to aggregate and characterize incoming dataBuilding out a comprehensive content analysis system to support diverse policy typesHelping customers to visualize their multi-vendor cloud environments while automating common workflows"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "CloudLock", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "CloudLock is the leading provider of cloud cybersecurity and CASB solutions,  securing SaaS,  PaaS,  IaaS,  and IDaaS environments and extends custom security services to homegrown applications,  as well as ISV offerings. CloudLock enables enterprises such as Whirlpool,  Seagate Technology,  Costco,  HBO,  Ahold,  BBVA and the Guardian to protect data in the cloud,  reduce risk,  achieve compliance,  manage threats,  and increase business productivity.  CloudLock is the only security vendor combining U. S.  and Israeli Military Intelligence with real-time,  crowdsourced cloud security insight,  continuously monitoring over one billion files daily across more than 10 million users.  Security professionals feed into CloudLock’s security insight through peer-driven,  crowdsourced Community Trust RatingsTM. CloudLock is headquartered in Waltham,  MA with offices in the U. S.  and Europe.  Investors include Bessemer Venture Partners,  Salesforce. com,  Cedar Fund,  and Ascent Venture partners.  Learn more at www. cloudlock. com and follow us on Twitter @cloudlock. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1446499725000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:200283", 
+    "id": 96156191, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tel Aviv,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96156191?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers-cloudlock. icims. com%2Fjobs%2F1141%2Fbig-data-software-engineer%2Fjob&urlHash=11-X&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 33 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "33d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2007, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIzAAAAJDAxNGFjNmNmLWJmNGQtNDk2Yi04N2I4LTcxZjk3YWUxODg3MA. png"
+    }, 
+    "localizedDescription": "CloudLock is the leading provider of cloud cybersecurity and CASB solutions,  securing SaaS,  PaaS,  IaaS,  and IDaaS environments and extends custom security services to homegrown applications,  as well as ISV offerings. \r\rCloudLock enables enterprises such as Whirlpool,  Seagate Technology,  Costco,  HBO,  Ahold,  BBVA and the Guardian to protect data in the cloud,  reduce risk,  achieve compliance,  manage threats,  and increase business productivity.  \r\rCloudLock is the only security vendor combining U. S.  and Israeli Military Intelligence with real-time,  crowdsourced cloud security insight,  continuously monitoring over one billion files daily across more than 10 million users.  Security professionals feed into CloudLock’s security insight through peer-driven,  crowdsourced Community Trust RatingsTM. \r\rCloudLock is headquartered in Waltham,  MA with offices in the U. S.  and Europe.  Investors include Bessemer Venture Partners,  Salesforce. com,  Cedar Fund,  and Ascent Venture partners.  Learn more at www. cloudlock. com and follow us on Twitter @cloudlock. ", 
+    "company": {
+      "specialities": [
+        "Cloud Security", 
+        "Cybersecurity", 
+        "SaaS Security", 
+        "Cloud Encryption", 
+        "Cloud Access Security Broker (CASB)", 
+        "Cloud Data Protection", 
+        "Cloud DLP", 
+        "Shadow IT", 
+        "App Discovery and Control"
+      ], 
+      "universalName": "cloudlock", 
+      "companyId": 200283, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAARMAAAAJDg5OWVhOWE3LTFhNjQtNGQxNC1hNmZlLWJlMjRmNGM0OTg5OQ. png"
+      }
+    }, 
+    "canonicalName": "CloudLock", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 2,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

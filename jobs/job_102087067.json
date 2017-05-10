@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Octopus Computer Associates", 
+    "functions": [
+      "RSCH", 
+      "EDU"
+    ], 
+    "companyJobCode": "jobs_pl-527125", 
+    "title": "Data Scientist (Hadoop,  R,  SQL) - Brussels,  Belgium - English speaking", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102087067, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      4
+    ]
+  }, 
+  "company": {
+    "companyId": 1308666, 
+    "websiteUrl": "www. octopus. net. uk", 
+    "universalName": "octopus-computer-associates-ltd"
+  }, 
+  "description": "    Data Scientist (Hadoop,  R,  SQL) - Brussels,  Belgium - English speaking    Miejsce pracy: brussel (Belgium)    Nr ref: JSOCA/JP/DATA_SCIENTIST_BRUSSELS_62477/jobs. pl    Data Scientist (Hadoop,  R,  SQL) - Brussels,  Belgium - English speaking    (BI,  Business Intelligence,  Statistical Analysis,  Hadoop,  SQL,     Cloudera,  Apache,  Hortonworks,  MapReduce,  Pig,  Hive,  Cassandra,  Hbase,     CouchDB)    One of our Blue Chip Clients is urgently looking for a Data Scientist.     Please Find Some Details Below       The candidate will perform Advanced analytics ( including Big Data        Analytics ) to meet business requirements and use statistical,         mathematical,  and predicti     ve modelling skills to build a comprehensive platform for data analysis       Use Business Intelligence tools including visualization,  Excel and        other BI Tools to create analytical models;       Integrate data sets and work with multiple systems to extract and        use data for deeper analysis       Have the ability to use the Hadoop environment with Hive querying        skills       Be able to build data models using programming languages and        scripts(eg- R)       Have an understanding of and use skills for Machine Learning,         Statistical Analysis,  Predictive Modeling,  and Hypothesis Testing.      Required Skills    5+ years experience with statistical analysis.     2+ years experience working in a Hadoop environment.     2+ years experience and hands-on knowledge of R to develop statistical    models    In depth knowledge and competence in SQL    Experience working with Hadoop (Cloudera,  Apache,  Hortonworks,  etc. )    and working with MapReduce development,  using Pig and Hive    Advanced skills/expertise in data mining,  text mining or distributed    computing    Proficiency at transforming data,  data classification and translations,     as well as resolving data quality,  data linkages and data cleansing    issues    Intermediate design and use of relational databases including    experience working with dimensional modelling,  star schemas and working    with time-series data    Excellent research and analytical skills    Proven written and oral communications skills as well as liaising with    stakeholders    Excellent consulting and advisory skills and background in requirements    solicitation and synthesis    Desired Skills    Experience with NoSQL databases such as Cassandra,  Hbase,  CouchDB    Please send CV for full details and immediate interviews.  We are a    preferred supplier to the client. ", 
+  "companyDescription": "      Octopus Computer Associates", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

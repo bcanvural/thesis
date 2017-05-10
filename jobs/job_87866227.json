@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87866227", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Key competences: you are at ease in the digital realm experience with Linux and the Linux command line familiar with SQL familiar with common data formats,  such as JSON and CSV basic skills of data processing (Map/Reduce is a plus) basic skills of computer programming (Python,  JavaScript and Shell Scripting are a plus) intense curiosity,  desire to go beneath the surface of a problem and find the questions at its heart analytical mind,  passionate with data mining and predictive statistics attention to details", 
+  "following": false, 
+  "companyDescription": "SafeFleet is a global player on the fleet management market.  Emerging technologies are embraced with enthusiasm by a young R&amp;D team,  tested and implemented in products that bring value to our customers.   Fleet management is a very demanding and competitive market and requires innovation,  creativity and determination.   Many of our solutions have been launched to the market ahead of their time,  SafeFleet being both a pioneer and a demand creator for M2M.    Today we have over 3. 000 clients and over 50. 000 GPS tracking devices sold! SafeFleet  is the market leader in Romania with a 25% market share!", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "SafeFleet Telematics", 
+  "canFollow": false, 
+  "companyId": "763310", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "SafeFleet Telematics", 
+    "title": "Data Scientist - King Of Big Data"
+  }, 
+  "description": "A new breed: King of the hill! Are you this extremely powerful and rare combination? A hybrid of data hacker,  analyst,  communicator and trusted adviser! Your Role.  In a competitive landscape where challenges keep changing and data never stop flowing,  data scientists help decision makers shift from ad hoc analysis to an ongoing conversation with data.  A high ranking professional with the curiosity to make discoveries while swimming in data.  You are able to bring structure to large quantity of formless data and make analysis possible.  You identify rich data sources,  join them with other,  potentially incomplete data and clean the resulting set. "
+}

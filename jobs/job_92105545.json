@@ -1,0 +1,259 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-FB0267577A", 
+    "expirationDate": 1451993934000, 
+    "title": "Data Developer - London.  Computer Scientist,  Python & OO language", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1446, 
+          "type": "BR", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1446, 
+          "type": "BR", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1092, 
+          "type": "BR", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1092, 
+          "type": "BR", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "U", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "B", 
+          "endIdx": 1092, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BR", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BR", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 982, 
+          "type": "BR", 
+          "endIdx": 982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 982, 
+          "type": "BR", 
+          "endIdx": 982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "U", 
+          "endIdx": 982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "B", 
+          "endIdx": 982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "BR", 
+          "endIdx": 950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 950, 
+          "type": "BR", 
+          "endIdx": 950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 675, 
+          "type": "BR", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 675, 
+          "type": "BR", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 321, 
+          "type": "BR", 
+          "endIdx": 321, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 321, 
+          "type": "BR", 
+          "endIdx": 321, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Next Generation Hedge Fund returning over 20% year on year is looking for a Data Developer in London.   This Quantitative Fund Manager builds and trades strategies based on mathematical models developed through rigorous research.   Data is obviously critical to the research process and the business as a whole. I am looking for talented,  high performance hands on data engineers to design and build systems to produce clean input flows for research and trading purposes.  They use Python,  Java,  C++ Perl etc but we don’t really care which language you use.  I am looking for people interested in data including ingestion,  management,  quality and integration problems. Familiarity with MongoDB,  SQL server,  HBase,  PostgreSQL would be useful.  The larger the data set you have worked with the better.    The firm is collaborative tech geeks.  Speaking Elvish or being into Extreme Sports works but it is a non-hierarchical professional environment. For More Information Please CallLondon office: +44 (0) 207 604 4444New York office: +1 212 400 4845Chicago office: +1 312 204 7216RequirementsI am looking for talented,  high performance hands on data engineers to design and build systems to produce clean input flows for research and trading purposes.  They use Python,  Java,  C++ Perl etc but we don’t really care which language you use.  I am looking for people interested in data including ingestion,  management,  quality and integration problems. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "NJF Global Holdings Ltd", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  Our objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  The Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1444624111000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:623337", 
+    "id": 92105545, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  \r\rOur objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  \r\rThe Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. ", 
+    "foundedYear": 2003, 
+    "canonicalName": "NJF Global Holdings Ltd", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/05f/173/24873d6. png"
+    }, 
+    "company": {
+      "specialities": [
+        "IT", 
+        "Finance", 
+        "Technology", 
+        "Financial Services", 
+        "Commodities", 
+        "Quantitative", 
+        "Risk", 
+        "Energy", 
+        "Global Markets", 
+        "Social Media", 
+        "Gaming", 
+        "Pharmaceutical", 
+        "Biotechnology", 
+        "Medical Devices Industry", 
+        "Global", 
+        "International Jobs", 
+        "Asia", 
+        "USA", 
+        "Europe"
+      ], 
+      "universalName": "njf-group", 
+      "companyId": 623337, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/091/366/0404d59. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 54 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "54d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 12,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/92105545?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F17881132E2&urlHash=4QZs&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

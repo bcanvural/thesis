@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Booz Allen Hamilton", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "companyJobCode": "bah-1813072", 
+    "title": "Data Analyst/Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102401111, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      11
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. boozallen. com/", 
+    "logo": "urn:li:media:/p/1/000/1c3/155/1688fb9. png", 
+    "universalName": "booz-allen-hamilton", 
+    "companyId": 1403
+  }, 
+  "description": "     Key Role    Leverage understanding of technologies as part of the data science    team.  Work in conjunction with industry-leading technologists and    develop machine learning,  data mining,  and statistical and graph-based    algorithms designed to analyze massive data sets.  Apply knowledge and    experience with technologies,  partner with technologists,  and ensure    proper implementation and usage of the algorithms.     Job    Information Technology    Primary Location    United States-Maryland-Rockville    Basic Qualifications       Experience with machine learning,  data mining,  statistics,  or graph        algorithms in an academic environment or internship       Experience with using R,  Perl,  Python,  SAS,  or SPSS for analysis of        data       Knowledge of an object-oriented language,  including Java,  C++,  C#,         or Python       Ability to obtain a security clearance       Scheduled to obtain a BS degree in Winter 2015 or Spring 2016     Clearance    Applicants selected will be subject to a security investigation and may    need to meet eligibility requirements for access to classified    information.     Integrating the full range of consulting capabilities,  Booz Allen is    the one firm that helps clients solve their toughest problems,  working    by their side to help them achieve their missions.  Booz Allen is    committed to delivering results that endure.     We are proud of our diverse environment,  EOE,  M/F/Disability/Vet. ", 
+  "companyDescription": "      Booz Allen Hamilton    Booz Allen Hamilton has been at the forefront of strategy and    technology for more than 100 years.  Today,  the firm provides management    and technology consulting and engineering services to leading Fortune    500 corporations,  governments,  and not-for-profits across the globe.     Booz Allen partners with public and private sector clients to solve    their most difficult challenges through a combination of consulting,     analytics,  mission operations,  technology,  systems delivery,     cybersecurity,  engineering,  and innovation expertise.     To learn more,  visit www. boozallen. com. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

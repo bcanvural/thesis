@@ -1,0 +1,280 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99996281?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. yacht. nl%2Fvacatures%2F9020964%2Fdata-analyst&urlHash=pX88&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "hasMySavedJobPosting": false, 
+  "hasDecoratedCompany": true, 
+  "descriptionLanguage": "nl", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "Eindhoven,  NL", 
+  "jobPosting": {
+    "expirationDate": 1451815062000, 
+    "veteranCommitted": false, 
+    "id": 99996281, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1512, 
+          "type": "BR", 
+          "endIdx": 1512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1512, 
+          "type": "BR", 
+          "endIdx": 1512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1071, 
+          "type": "BR", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1054, 
+          "type": "B", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1054, 
+          "type": "BR", 
+          "endIdx": 1054, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1054, 
+          "type": "BR", 
+          "endIdx": 1054, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 968, 
+          "type": "BR", 
+          "endIdx": 968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 951, 
+          "type": "BR", 
+          "endIdx": 951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BR", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 908, 
+          "type": "BR", 
+          "endIdx": 908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 864, 
+          "type": "BR", 
+          "endIdx": 864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 849, 
+          "type": "BR", 
+          "endIdx": 849, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 830, 
+          "type": "BR", 
+          "endIdx": 830, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 763, 
+          "type": "LI", 
+          "endIdx": 812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "LI", 
+          "endIdx": 763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 522, 
+          "type": "LI", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 498, 
+          "type": "LI", 
+          "endIdx": 522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 443, 
+          "type": "LI", 
+          "endIdx": 498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 394, 
+          "type": "LI", 
+          "endIdx": 443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 290, 
+          "type": "LI", 
+          "endIdx": 394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "LI", 
+          "endIdx": 290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BG", 
+          "endIdx": 812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 182, 
+          "type": "B", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 182, 
+          "type": "BR", 
+          "endIdx": 182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 182, 
+          "type": "BR", 
+          "endIdx": 182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 169, 
+          "type": "BR", 
+          "endIdx": 169, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Over de functieVoor een Data Migration project zijn we op zoek naar vier data analisten.  Ze zijn verantwoordelijk voor de migratie van SAP-MM data objects.   Functie-eisenResponsibilities IncludeConducting workshops to capture and document functional data migration requirements;Transition migration designs to an offshore development team and follow up on progress/questions/issues;Conduct data collection and validation workshops, Define loading templates and loading tool requirements;Support Mock data loads. Resource must be very familiar with the master data objects of the SAP-MM module and have hands-on experience in the last 2 years with the responsibilities of this role. Basic understanding of the SAP-MM functionality and processes is a plus. Preferred experience in Customer,  Product,  VendorArbeidsvoorwaardenLocation: EindhovenStartdate: ASAPDuration: 8 months  with op option to extendBedrijfsinformatiePhilips The Netherlands.  ContactinformatieVoor meer informatie neem je contact op met Dorus Kanen via telefoonnummer 06-10360389Werken voor YachtYacht is dé organisatie van en voor professionals.  Wij verbinden professionals en organisaties die het verschil willen maken.  Ons doel is optimaal resultaat: jou als professional uitdagend werk bieden waarmee jij de organisaties van onze opdrachtgevers blijvend verbetert.  Behoor jij tot de beste professionals in jouw vak? Wil je samen met vakgenoten het verschil maken bij toonaangevende organisaties? Dan willen we jou graag leren kennen. "
+    }, 
+    "postalCode": "5649", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "yachtjobs-9020964", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Yacht is dé organisatie van en voor professionals.  Wij zijn continu op zoek naar de juiste verbinding tussen professionals en onze toonaangevende opdrachtgevers.  We hebben het vrijwel nooit mis.  Hoe dat kan? Dat komt doordat we zowel de professionals als onze opdrachtgevers écht kennen.  Wij selecteren onze professionals op uitmuntend vakmanschap én op die speciale mix van skills.  Deze combinatie zorgt ervoor dat zij het verschil kunnen maken.  Met als ultiem doel: optimaal resultaat leveren en de organisaties van onze opdrachtgevers blijvend verbeteren.  Wij specialiseren ons vanuit acht kantoren door heel Nederland in acht vakgebieden: IT,  Finance,  Engineering,  Legal,  HRM,  Marketing &amp; Communications,  Supply Chain Management &amp; Procurement en Sociaal Domein. "
+    }, 
+    "sponsored": false, 
+    "closeDate": 1449405820000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "Yacht", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447996468000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:3329"
+  }, 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Yacht", 
+    "company": {
+      "specialities": [
+        "Engineering", 
+        "Sociaal Domein", 
+        "IT", 
+        "Supply Chain Management & Procurement", 
+        "Finance", 
+        "Marketing & Communications", 
+        "HRM", 
+        "Legal"
+      ], 
+      "universalName": "yacht", 
+      "companyId": 3329, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAANEAAAAJDhhZTFjOGNhLTkxMDYtNDA0MC1iNjZhLWFjZDEyODAwNjVkMQ. png"
+      }
+    }, 
+    "foundedYear": 2000, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJGE5MDJjMTY2LTFjZGItNGNjOC05NWYwLTQwOGMyNDJlMDcyZA. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMLAAAAJDZmMDg5MmEwLWRkNzUtNGJmNi04MDdkLTA2YzU2MzA1ZjU4Mw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAALRAAAAJGE5MDJjMTY2LTFjZGItNGNjOC05NWYwLTQwOGMyNDJlMDcyZA. png", 
+    "localizedDescription": "Yacht is dé organisatie van en voor professionals.  Wij zijn continu op zoek naar de juiste verbinding tussen professionals en onze toonaangevende opdrachtgevers.  We hebben het vrijwel nooit mis.  Hoe dat kan? \r\rDat komt doordat we zowel de professionals als onze opdrachtgevers écht kennen.  Wij selecteren onze professionals op uitmuntend vakmanschap én op die speciale mix van skills.  Deze combinatie zorgt ervoor dat zij het verschil kunnen maken.  Met als ultiem doel: optimaal resultaat leveren en de organisaties van onze opdrachtgevers blijvend verbeteren.  \r\rWij specialiseren ons vanuit acht kantoren door heel Nederland in acht vakgebieden: \r\rIT,  Finance,  Engineering,  Legal,  HRM,  Marketing & Communications,  Supply Chain Management & Procurement en Sociaal Domein. "
+  }, 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "formattedListDate": "November 20,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "formattedCloseDate": "December 6,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true
+}

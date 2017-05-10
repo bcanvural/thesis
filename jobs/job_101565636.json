@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Blake & Partners Group", 
+    "functions": [
+      "IT", 
+      "CNSL"
+    ], 
+    "companyJobCode": "ticjobs_xml-65089", 
+    "title": "Big Data Consultant", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101565636, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. blakeandpartners. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAANSAAAAJDIxMDYzZWIyLTdiNDUtNDEzZS04NDQ0LWI0ODY2Y2Y4MzE4Zg. png", 
+    "universalName": "blake-&-partners", 
+    "companyId": 400940
+  }, 
+  "description": "    As a Big Data Software Consultant,  you will be designing,  writing and    implementing    great software,  using the best development practices. . .     Job description       This role offers a seasoned engineer,  with a blend of distributed        data platforms and       data analytics skills,  the opportunity to be part of a talented        team and significantly       impact implementing data-centric enterprise software.        Help define the solutions,  have and develop business acumen and        bring       technical perspective in furthering the product and business.        Involved very closely with various analytical groups to provide        consultation on high-level concepts and prototype coding,  including        Data Scientists,  Risk Detection and Marketing platforms       Deliver clear,  well-communicated and complete design documents       Develop exemplary and thoroughly tested code for the most        challenging aspects of the product or product sub-systems.      Profile    The Ideal Candidate Will Have       Expert knowledge developing and debugging in Java/J2EE       Sound knowledge of Relational Databases (RDBMS),  SQL databases       Maven,  git,  IntelliJ/eclipse,  unit testing       Proficient linux user with basic linux administration skills       Experience with agile/scrum methodologie       Strong interpersonal and customer facing skills,  customer service        orientation       A logical approach to the solution of problems and good conceptual        ability and skills in analysis       EN & DU or FR     Offer    A very challenging environment,  competitive dayrate,  minimum 1 year    contract. ", 
+  "companyDescription": "      Blake & Partners Group    Discover our latest job opportunities on www. blakeandpartners. com    Blake & Partners is an international recruitment consultancy    specialised in Financial,  Private Banking & IT markets.  We provide    permanent and contract recruitment for qualified professionals and    executives throughout Belgium,  the Grand Duchy of Luxembourg and    Switzerland.     We work on a “no cure,  no pay” basis,  meaning that we take care of all    costs related to our efforts. So in other words,  our clients carry no    financial risk!    Our consultants specialise in a specific field of finance or IT and are    dedicated to a specific region,  reflecting a local presence and an    understanding of the functions.  Moreover,  this ‘helicopter view’ allow    us to master the many facets that make up the recruitment of today:    wages,  work-life balance,  mobility,  etc.     Our single objective: Deliver Your Talent!    More info on www. blakeandpartners. com – Questions? Do not hesitate to    send us an email: info@blakeandpartners. com", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

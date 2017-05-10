@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Spotify", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "jobvite-ozDQ1fwN", 
+    "title": "Research Lead / Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100774346, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      4
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. spotify. com/", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAbBAAAAJDE1MGQ2YmE5LTBkZGMtNGQ3OS05Y2ZhLTE5ODBhMGI3NTgzYw. png", 
+    "universalName": "spotify", 
+    "companyId": 207470
+  }, 
+  "description": "     What You’ll Do       You will apply your mathematical or scientific training to analyze        large volumes of diverse data,  model complex human-scale problems,         and develop algorithms to serve various needs.        You will work in collaboration with other mathematicians and        scientists in Research and with data engineers and design        technologists across Analytics to imagine and build creative        solutions to challenging questions,  most often with a clear line of        sight from your work to real-world impact.        You will work on projects that cut across various facets of Spotify        (from Product to Marketing to Content)       You will experiment with new analytical techniques and tools.         You will work from our office in our New York     Who You Are       You have earned an advanced degree in mathematics,  science,  and/or        computer science       You are a creative problem-solver who is passionate about digging        into complex problems and devising new approaches to reach results.         You are enthusiastic about learning new techniques and        technologies.        You have experience with a range of data science techniques        including clustering,  machine learning,  and network analysis       You have the technical competence (i. e.  some combination of Python,         Java,  Scala,  Pandas,  R,  SQL,  Hadoop) to perform advanced analytics:        Coding skills,  experience performing analysis with large datasets,         and analytics tools experience     We are an equal opportunity employer and value diversity at our    company.  We do not discriminate on the basis of race,  religion,  color,     national origin,  gender,  sexual orientation,  age,  marital status,     veteran status,  or disability status. ", 
+  "companyDescription": "      Spotify    All your music is here.     Spotify gives you millions of songs at your fingertips.  The artists you    love,  the latest hits,  and new discoveries just for you.  Hit play to    stream anything you like.     Listen free.     On mobile,  you can listen to artists,  albums and playlists in shuffle    mode.  Or choose a ready-made playlist to suit your mood.  On tablet and    computer,  you can play any song,  any time. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

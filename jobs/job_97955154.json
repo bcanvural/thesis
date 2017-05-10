@@ -1,0 +1,296 @@
+{
+  "jobPosting": {
+    "companyJobCode": "greenhouse_xml-94898", 
+    "expirationDate": 1451795624000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2645, 
+          "type": "BR", 
+          "endIdx": 2645, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2645, 
+          "type": "BR", 
+          "endIdx": 2645, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2117, 
+          "type": "BR", 
+          "endIdx": 2117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2117, 
+          "type": "BR", 
+          "endIdx": 2117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2106, 
+          "type": "B", 
+          "endIdx": 2117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2106, 
+          "type": "BR", 
+          "endIdx": 2106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2106, 
+          "type": "BR", 
+          "endIdx": 2106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2013, 
+          "type": "LI", 
+          "endIdx": 2105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1943, 
+          "type": "LI", 
+          "endIdx": 2012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1911, 
+          "type": "LI", 
+          "endIdx": 1942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1871, 
+          "type": "LI", 
+          "endIdx": 1910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1870, 
+          "type": "BG", 
+          "endIdx": 2106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1843, 
+          "type": "BR", 
+          "endIdx": 1843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1843, 
+          "type": "BR", 
+          "endIdx": 1843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "LI", 
+          "endIdx": 1842, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1568, 
+          "type": "LI", 
+          "endIdx": 1750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1468, 
+          "type": "LI", 
+          "endIdx": 1567, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1421, 
+          "type": "LI", 
+          "endIdx": 1467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1314, 
+          "type": "LI", 
+          "endIdx": 1420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1229, 
+          "type": "LI", 
+          "endIdx": 1313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1122, 
+          "type": "LI", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "LI", 
+          "endIdx": 1121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 862, 
+          "type": "LI", 
+          "endIdx": 979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 861, 
+          "type": "BG", 
+          "endIdx": 1843, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 861, 
+          "type": "BR", 
+          "endIdx": 861, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "BR", 
+          "endIdx": 835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "BR", 
+          "endIdx": 835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "LI", 
+          "endIdx": 834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "LI", 
+          "endIdx": 757, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 375, 
+          "type": "LI", 
+          "endIdx": 511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 374, 
+          "type": "BG", 
+          "endIdx": 835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 344, 
+          "type": "BR", 
+          "endIdx": 344, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 8, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "OverviewWe&rsquo;re are looking for a Data Scientist to join the Handy Engineering team,  one of New York&rsquo;s fastest growing companies.  The Data Scientist will be working with software engineers,  product managers,  and business product owners to deliver and implement statistical tools and predictive algorithms for immediate production use. As a Data Scientist you will:  Develop,  validate,  maintain,  and improve complex predictive and machine learning algorithms that power product offerings and operations.  Analyze and interpret data covering a wide range of information and sources from transactional history,  demand and supply,  user retention,  and operations  in order to identify new opportunities and innovative solutions to real business problems.  Communicate complex concepts to a broad audience in a clear,  concise manner.  Skills &amp; Requirements: M. S.  or Ph. D.  degree in Mathematics,  Statistics,  Computer Science,  Economics,  Physics,  and other quantitative fields.  A minimum of three (3) years of industry experience in developing predictive and/or machine learning algorithms in a live production setting.  Comfortable manipulating and analyzing complex,  high-volume,  multil-dimensional data from varying sources.  A flexible analytic approach that allows for results at varying levels of precision.  Fluency in Python (scipy,  numpy,  pandas),  R,  Matlab,  SAS,  or any relevant data analysis command-line tool.  Familiarity with relational databases and SQL.  Strong problem solving and communication skills that lead to clear,  precise and actionable results.  Must be able to work effectively in a cross-disciplinary team environment,  interfacing with engineers and  business leads to deliver results but also able to lead their own research.  Strong coding skills in other computer languages (C/C++,  Java,  PHP,  Ruby) is a strong plus.  Compensation and Benefits:  Competitive salary,  bonuses,  and equity Health,  Dental,  Vision coverage Daily team lunches and dinners,  frequent happy hours and team outings A fun office in the heart of Manhattan,  always stocked with coffee,  snacks,  and other drinks About HandyHandy was started in 2012 by Oisin Hanrahan &amp; Umang Dua while at Harvard Business School.  Featured on The New York Times and Forbes,  Handy has raised $60 million from top-tier investors including Revolution Capital,  Highland Capital and General Catalyst,  who have invested in businesses like Airbnb and Kayak.  Every day,  in all major US cities and several locations in Canada and Europe,  we connect our customers with great home service professionals.  Our headquarters is located right on the border of Chelsea and Flatiron. "
+    }, 
+    "postalCode": "10007", 
+    "jobState": "LISTED", 
+    "companyName": "Handy HQ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Handy is the leading platform for connecting individuals looking for household services with top-quality,  pre-screened independent service professionals.  From home cleaning to handyman services,  Handy instantly matches thousands of customers every week with trusted professionals in cities all around the world.  With a seamless 60-second booking process,  secure payment,  and a 100% money-back guarantee,  Handy is the easiest,  most convenient way to book home services. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447087767000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2632262", 
+    "id": 97955154, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "New York City,  NY,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97955154?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fgrnh. se%2Fkt7g3l&urlHash=8c4o&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/005/087/3af/311e775. png"
+    }, 
+    "localizedDescription": "Handy is the leading platform for connecting individuals looking for household services with top-quality,  pre-screened independent service professionals.  From home cleaning to handyman services,  Handy instantly matches thousands of customers every week with trusted professionals in cities all around the world.  With a seamless 60-second booking process,  secure payment,  and a 100% money-back guarantee,  Handy is the easiest,  most convenient way to book home services. ", 
+    "company": {
+      "specialities": [
+        "Home Cleaners", 
+        "Handymen", 
+        "Office Cleaners", 
+        "Plumbers", 
+        "Electricians", 
+        "Furniture Assembly", 
+        "Moving Help"
+      ], 
+      "universalName": "handyhq", 
+      "companyId": 2632262
+    }, 
+    "canonicalName": "Handy HQ", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

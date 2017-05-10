@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Xerox", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "xerox-1261291", 
+    "title": "Research Scientist: Machine Learning and Data Science", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102191865, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. xerox. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAPDAAAAJDc1NWM5M2Q5LTkzZjktNDFlNC1iOTU4LWJmYzk0ZmFjZGIyNg. png", 
+    "universalName": "xerox", 
+    "companyId": 1373
+  }, 
+  "description": "     PARC’s Scalable Data Analytics Lab in Rochester,  NY is looking for a    machine learning scientist interested in designing and developing novel    algorithms,  statistical models and state-of-the-art analytic solutions    that have direct and measurable impact for PARC and Xerox.      About the Job    Our work for Xerox Services as well as commercial and government    clients requires analyzing diverse data sets and leveraging machine    learning research to address a wide range of business problems (e. g.  in    healthcare,  transportation and customer experience management).  This    scientist will have the opportunity to work with researchers,  business    managers and leaders to help identify strategic research directions and    viable opportunities as well as help deliver impactful solutions.      Role/Responsibilities    ·         Research,  design and prototype novel models based on machine    learning and statistical modeling in order to solve hard problems,     where the problems may range from exploratory to highly applied.     ·         Collaborate with researchers and business leaders in a    multi-disciplinary environment and on globally dispersed teams.     ·         Work with existing “intrapreneurship” and business teams to    develop and commercialize highly adaptive and robust models.     ·         Maintain a presence in the external academic community    through high quality publications and active participation in leading    conferences and professional societies.     ·         Pursue government,  academic,  and commercial research    contracts in support of the PARC business.     ·         Keep abreast of state-of-the-art approaches in the field by    continuous learning and proactively championing promising new methods    relevant to the problems at hand.     Job    Research & Development    Primary Location    United States-New York-Webster    Organization    PARC East    Unposting Date    Ongoing    Virtual/work from home?    Yes    Travel    No    A Ph. D.  in computer science or related field with a strong record of    scholarship and in-depth knowledge of machine learning and statistical    modeling,  including spatiotemporal models,  deep neural networks,     Bayesian hierarchical modeling,  reinforcement learning,  predictive and    interpretable models    Excellent problem formulation,  analytical,  interpersonal,  written and    verbal    communication skills.     An ability and inclination to lead and work in multi-disciplinary    global teams.     A desire to shepherd an idea from basic research to technology    transfer.      Desirable Experience    More than two years of industry or post-doctorate experience.     Successful track record in proposal writing to secure grant funding.     Strong skills in a rapid prototyping programming language,  such as    Python,  R,  Java,  or Matlab. ", 
+  "companyDescription": "      Xerox    Xerox is helping change the way the world works.  By applying our    expertise in imaging,  business process,  analytics,  automation and    user-centric insights,  we engineer the flow of work to provide greater    productivity,  efficiency and personalization.  We conduct business in    180 countries,  and our more than 130, 000 employees create meaningful    innovations and provide business process services, printing equipment,     software and solutions that make a real difference for our clients –    and their customers. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

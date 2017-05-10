@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Randstad UK", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "companyJobCode": "randstad_uk-9905751", 
+    "title": "quantitative software engineer / data scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101250063, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. randstad. co. uk", 
+    "logo": "urn:li:media:/p/7/000/2c6/3fb/264b62c. png", 
+    "universalName": "randstad-uk", 
+    "companyId": 612790
+  }, 
+  "description": "    job description Our client,  a leading Investment Bank,  currently seeks    a Quantitative Software Engineer / Data Scientist,  to be based in    London    Responsibilities    The Quantitative Software Engineer / Data Scientist will be responsible    for:       Specifying and building proof of concepts and prototypes,  for the        platform running analytics on streaming complex datasets       Specifying,  developing and maintaining applications for Management        Information (MI) reporting       Developing and optimising the analytics in order to enhance the        effectiveness of the programme       Liaising closely with Global technology (GT),  in developing the        platform       Supporting Run the Bank (RTB) analysts in trading behaviour        investigations,  providing data analysis and recommendations       Processing ad-hoc support for requests from Front Office (FO)        Supervisors,  FO Business Managers or the Oversight Committee,  for        granular information,  as well as reports relating to Trading        behavior and activity     Skills    As such,  the successful Quantitative Software Engineer / Data Scientist    will have the following skills and experience:       Experience in quantitative software development,  including Python,         Java,  Scala or other production languages,  for implementing        analytic,  event driven applications,  on very large datasets       Strong mathematical,  statistical and computer science fundamentals,         being able to logically construct and apply a model from first        principles       The ability to clean,  analyse,  integrate and process complex data       Experience in analytical,  machine learning and statistical modeling        techniques,  in identifying patterns and signals (desirable)       Experience in one or more model prototyping languages,  including        Python,  R,  Matlab,  and Mathematica       Experience of working in a similar organization (preferable)       Educated to degree level or equivalent (a Degree in a Quantitative        Discipline is desirable)     If you have similar experience to that outlined above and are looking    for a permanent opportunity within a progressive and dynamic    environment,  please forward your CV today.     Randstad Financial & Professional encourage applications from    individuals of all ages & backgrounds.  Appointment will be made on    merit alone but candidates must be able to demonstrate their ability to    work in the UK.  Randstad Financial & Professional acts as an employment    agency for permanent recruitment & an employment business for temporary    recruitment as defined by the Conduct of Employment Agencies &    Employment Business Regulations 2003    Quantitative Software Engineer / Data Scientist", 
+  "companyDescription": "      Randstad UK    We’re experts in helping jobseekers,  like you,  find fulfilling and    prosperous careers.  Whether you’re looking for your first ever role or    a more senior position,  we can help you apply,  interview and secure    your dream job.     Despite our size and global scope,  we pride ourselves on our ability to    make every jobseeker,  client and employee feel valued.     Our core specialisms (with offices based across the UK) include:    - Business Support - Sales,  Marketing,  Secretarial and Admin    - Care    - CPE - Construction,  Property and Engineering    - Digby Morgan - HR    - Education    - Financial & Professional    - Inhouse Services    - Sourceright    - Student and Worker Support    - Technologies    Let us help you on your quest for career fulfilment - whichever sector    you specialise in. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

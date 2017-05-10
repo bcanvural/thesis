@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Red Executive", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "bullhorn-2192517", 
+    "title": "Senior Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101157567, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. redexecutive. com", 
+    "logo": "urn:li:media:/p/3/000/04f/0f8/15a4ff2. png", 
+    "universalName": "redexecutive", 
+    "companyId": 275084
+  }, 
+  "description": "    Job Description    Our client is currently looking for data scientists to drive the shift    on how mobile impressions are sold today though the development of    effective programmatic buying algorithms while building out consumer    analytics to better understand user engagement.  You will help us make    major business decisions by applying machine learning,  cluster    analysis,  and statistical programming disciplines.  You must be    comfortable within jumping in the deep end,  learning new skills on a    bleeding edge platform,  and pushing out tons of high quality work fast.     You will ask critical questions about our metrics and crunch the    numbers on our existing features to help shape the new features.     What You’ll Bring And Do    Someone with both statistical modeling experience and technical,     engineering skills    Experienced on the commercial side,  and decidedly “hands-on” and not    just theoretical    Ability and experience analyzing gigabytes to terabytes of data    Bring not just an analytics-orientation,  but the ability to use    analytics to drive key success metrics related to yield management and    revenue generation    Design and execute A/B tests and user behavior analysis    What You’ll Need    Ability and experience designing and developing solutions for    increasing yield    Proven mastery of analysis and development of online ad systems for    consumer products and services.     Degree in statistics or math with working knowledge of computer science    and quantitative analysis    Practical experience of clustering,  regression analysis,  Bayesian    statistics,  and using tools like Big Query are a must    Experience with analysis tool(s) such as R,  Matlab,  or SAS    Fluency with at least one scripting language such as Python    Familiarity with relational databases and SQL    Comfortable working in a Unix environment    Minimum five to seven years professional experience    Pluses    Experience with MapReduce,  Hadoop,  Hive or similar systems    If you’re passionate about asking and answering questions in large    datasets and you are able to communicate that passion to product and    engineering teams,  we want to hear from you! Share with us any academic    papers,  personal websites/blogs or open source contributions. ", 
+  "companyDescription": "      Red Executive    Operating across EMEA,  RED EXECUTIVE provides first class retained    search and contingency recruitment solutions for the digital;    advertising/technology sector.  Our goal is to connect the world's    leading digital professionals with growing organisations,  helping them    continue to establish core markets and grow into new regions.  Indeed,     having worked with EMEA and US focused firms Red Executive have helped    organisations on both sides of the pond establish an organic base in    new region,  identifying talented staff to grow their business away from    their core areas.     Agencies,  Ad Servers,  Media Buying Platforms,  Creative Optimizations,     Analytics,  Demand Side Platform,  DSP,  DSP's,  Data Optimization,  Data    Suppliers,  Ad Exchanges,  Ad Networks,  Targeted,  Audience,  Re-Target,     Performance,  SEO,  SEM,  Display,  Affiliate,  Mobile,  Social Media,  Social    Tools,  Social Marketing Platforms,  Publisher,  Advertiser,  Ad Servers,     VOD,  Video on Demand,  Mobile,  Mobile DSP,  Mobile Advertising,     recruitment,  jobs,  careers,  Germany,  Italy,  France,  Spain,  The    Netherlands,  UK and US", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

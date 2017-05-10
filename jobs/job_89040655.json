@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89040655", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Singapore is aspiring to be not just a Smart City,  but a Smart Nation,  underpinned by Data and Analytics.  As a leading organisation and Singapore's Government CIO,  IDA is taking a clear leadership role in building Singapore into a Smart Nation.  We welcome interested professionals to join us in this journey. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Infocomm Development Authority of Singapore (IDA)", 
+  "canFollow": false, 
+  "companyId": "164351", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Infocomm Development Authority of Singapore (IDA)", 
+    "title": "Executive/Senior Consultant,  Data Scientist"
+  }, 
+  "description": "You will be joining a young,  agile multi-disciplinary team of data scientists,  software developers and designers excited about harnessing data and technology to improve public service delivery and the lives of Singaporeans.  We believe that it is imperative that public policy and service delivery utilize data and computational thinking to drive evidence-based decision-making.  As the centre of excellence for data science in government,  we are in the business of using advanced computational methods to help government agencies improve the way they do things.  We do not do research.    As a data scientist,  you will help crack challenging problems through advanced computational methods applied on large and streaming datasets.  You will design solutions that address policy and business problems that government agencies have and demonstrate how better data can help recommend new policies,  streamline operations or bring more customised solutions for citizens.  You will have the opportunity to work on a range of problems in different domains ranging from citizen engagement,  healthcare,  transportation and operations.   Requirements:             Ability to translate business problems into abstract mathematical models. Advanced Degree in Computer Science,  Applied Mathematics,  Statistics,  Engineering,  Operations Research,  Econometrics or related disciplines. Good understanding of machine learning or statistical techniques with expertise in at least 1 domain (machine learning,  text mining,  graph mining,  time series mining,  optimization,  deep learning)Proficiency with at least 1 programming language (SQL,  R,  Python,  Java,  Scala,  C++)Passion for the use of data and evidence to improve public services,  citizen experiences (and to change the world!)A get-things-done attitude and willingness to learn from other team members in a multi-disciplinary team. Preferred:PhD is an advantage. Experience working with distributed or stream computing (Hadoop,  Hive,  Spark,  Kafka)Comfortable with streaming and/or unstructured data. "
+}

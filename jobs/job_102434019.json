@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "22566214", 
+    "title": "SQL DATA ANALYST", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102434019, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Requirements    SQL Data Analyst Thetford,  Norfolk - £25-35k plus package This is an    outstanding,  newly created position with a highly successful    organisation.  Using analysis and reporting of available customer and    business data to deliver insight that will inform business decisions    and marketing campaigns.  Interrogate and collate customer,  sales,     marketing and business data from a variety of sources.  Presentation of    data analysis to highlight business opportunities to support future    growth.  Measure marketing campaign results.  Liaise with external    agencies on data hygiene and profiling support and any other ad hoc    requirements.  Work closely with IT,  business users,  marketing team and    external suppliers to define data needs for projects.  Analytics    reports/dashboards development Skills Required Strong SQL skills    essential Experience of working as a Data Analyst Advanced MS Office    skills excellent written and spoken communication skills including    report writing and presentation . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

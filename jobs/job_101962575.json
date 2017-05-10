@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "22613411", 
+    "title": "Data Analyst", 
+    "employmentStatus": "PART_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101962575, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Our client is an established charity that provides essential support to    people within Britain's retail sector they are currently looking for a    talented Data Analyst to join their successful London based team.  This    is a part-time,  permanent opportunity (3 days).  Salary is A£30, 000 -    A£35, 000 per annum (pro rata) + excellent benefits The successful    candidate will be an analytical IT professional with a proven    experience of data analysis and management they will also hold    substantial experience within the field of CRM databases.  Cored duties    of the Data Analyst : Responsible for all related data analysis within    the system To ensure that the data is accurate,  clean and relevant to    the KPIs The creation,  development and maintenance of a detailed    reporting suite and management of all reports The interpretation and    analysis of all related data that delivers meaningful and relevant    reports The optimisation of statistical efficiency and data quality To    regularly review the . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

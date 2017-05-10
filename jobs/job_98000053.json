@@ -1,0 +1,345 @@
+{
+  "jobPosting": {
+    "companyJobCode": "career012. successfactors. eu-3230132301", 
+    "expirationDate": 1451815248000, 
+    "title": "Junior Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4259, 
+          "type": "BR", 
+          "endIdx": 4259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4259, 
+          "type": "BR", 
+          "endIdx": 4259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4097, 
+          "type": "BR", 
+          "endIdx": 4097, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4080, 
+          "type": "B", 
+          "endIdx": 4094, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4080, 
+          "type": "BR", 
+          "endIdx": 4080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4029, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3912, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3837, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3724, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3561, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3472, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3404, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3334, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3229, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3154, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3048, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2839, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2822, 
+          "type": "B", 
+          "endIdx": 2835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2822, 
+          "type": "BR", 
+          "endIdx": 2822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2667, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2539, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2354, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2165, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2038, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1873, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1742, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "LI", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1583, 
+          "type": "LI", 
+          "endIdx": 1670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1583, 
+          "type": "BG", 
+          "endIdx": 4260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1581, 
+          "type": "BR", 
+          "endIdx": 1581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "B", 
+          "endIdx": 1581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1458, 
+          "type": "BR", 
+          "endIdx": 1458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1245, 
+          "type": "BR", 
+          "endIdx": 1245, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1245, 
+          "type": "BR", 
+          "endIdx": 1245, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1034, 
+          "type": "BR", 
+          "endIdx": 1034, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 778, 
+          "type": "BR", 
+          "endIdx": 778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 524, 
+          "type": "BR", 
+          "endIdx": 524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 25, 
+          "type": "BR", 
+          "endIdx": 25, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "B", 
+          "endIdx": 25, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "BR", 
+          "endIdx": 21, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 21, 
+          "type": "BR", 
+          "endIdx": 21, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 21, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Junior Data ScientistRole  Do you live and breathe the digital world ? Are you ready for the next generation job?  We are looking for a smart and ambitious young professional to join the IT Advanced Analytics Team to  contribute to transform the life of patients living with severe disease and make an impact with technology and data science.    You will be working in a company where innovation and collaboration play a key role.  You are passionate about data of any form and you have ideas on how to make the best of it.    You will bring Advanced Analytics and Big Data expertise to activities across all the business areas of the company to generate insights that will impact the development of our drugs,  the affordability of care and more generally the strategy of company.    As a Data Scientist,  you will be part of a highly stimulating team composed by different experienced data professionals (Senior Data Scientists,  Data Analytics Champions,  …) and you will play a key role in the development of innovative data solutions.    The role also requires close interaction with business teams and patient solutions colleagues to generate and test data-driven hypotheses,  involving advanced experimental data and working on innovative projects. In addition,  you are expected to be an advocate for Big Data and Advanced Analytics solutions within the company and support related platform and capability development in the larger UCB information organization.    We want data under any form,  to be key in everything we do to find new solutions for our patients.    Key Responsibilities  Responsible for the delivery of Big Data &amp; Analytics solutions to dedicated  teams.   Responsible of data discovery,  data modeling for value generation.     Maintain a trusting and productive relationship with the customer,  gaining a thorough understanding of the business challenges.     Implement and employ Big Data innovative approaches such as text mining,  machine learning,  modeling and simulation,  natural language processing and web crawling.     Integrate and summarize large scale data and information across multiple domains (real world data,  health outcome data,  …).     Digest complex data structures,  perform statistical data reduction,  summarization,  normalization,  multivariate data analyses and report findings using advanced visualization techniques     Stay updated on industry best practices and drive the adoption of novel approaches and methods in the field of Big Data &amp; Analytics within the scientific and the data community.     Follow core project management practices,  such as project justification,  initiation,  stakeholder communication and delivery.     Present to internal and external communities on Big Data solutions,  best practices and scientific approaches,  including external scientific publication.    Qualification    Master Degree in Statistics,  Mathematics,  Engineering,  Business Administration,  Computer Sciences or closely related fields with extensive knowledge in the application of statistics and computer sciences.      Up to 3 years of experience in the field actively employing big data and advanced analytics expertise.     Prior experience in the pharmaceutical or biotech industry is an asset.     Programming skills using scripting languages such as Perl,  Python,  R,  Unix shell or pipelining tools.     Strong knowledge of SQL,  web programming and database development.     Knowledge of the Hadoop stack (Map Reduce,  Spark) is an asset.       Experience in the use of semantic technologies to query unstructured data is a plus.      Deep understanding of statistical concepts,  algorithms,  data processing and visualization and experience processing and analyzing large multivariate data sets.     Experience with data mining,  Natural-Language Processing (NLP),  machine learning and artificial intelligence.     Experience of using R/Matlab/SAS or similar data analysis applications.     Excellent communication skills and facilitation skills with the ability to work with others to achieve objectives    Excellent interpersonal and communication skills   We offer you….    A challenging  ICT-job and access to state of the art technologies.  You'll also get recognition for excellent work and compensation in line with your performance.  "
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "UCB", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "At UCB,  everything we do starts with a simple question: “How will this make a difference to the lives of people living with severe diseases?” We have a passionate,  long-term commitment to discovering and developing innovative medicines that transform the lives of people living with severe diseases.  We do that by connecting with patients and their families around the world living with the physical and social burdens of severe disease of the immune system and the central nervous system.  Those connections offer new perspectives,  drive innovation,  and offer the hope of a new generation of therapies that are helping to transform lives.  With more than 8500 employees in approximately 40 countries,  we are a global biopharmaceutical company headquartered in Brussels,  Belgium which invests more than 25% of revenue in cutting-edge scientific research to meet unmet patient needs.  A few other reasons to believe that UCB is an amazing place to work: - Promising pipeline that includes new novel molecules and no major expirations in the next decade; - More than 25% of  2014 revenue reinvested into Research &amp; Development -  2014 Key Financials: €3. 3B global revenue Beyond being experts in their fields,  our employees are passionate individuals who place great importance on delivering top-notch results.  At UCB,  each employee is connected by a shared desire to make a difference. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447105129000, 
+    "countryCode": "be", 
+    "company": "urn:li:company:26195", 
+    "id": 98000053, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Brussels,  BE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAQYAAAAJGIxZmIwOGY0LWRiNTMtNGEzYi1hNjI0LWRjZTNlNTRkOGNlNQ. png"
+    }, 
+    "hasPaidLcp": true, 
+    "canonicalName": "UCB", 
+    "company": {
+      "specialities": [
+        "Central Nervous System (CNS)", 
+        "Immunology", 
+        "Healthcare Innovation Beyond Medicine"
+      ], 
+      "universalName": "ucb-pharma", 
+      "companyId": 26195, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/047/22d/09a54a7. png"
+      }
+    }, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanySize": "5001-10000", 
+    "formattedIndustries": [
+      "Pharmaceuticals"
+    ], 
+    "careersImage": "urn:li:media:/p/6/005/047/240/2bf3f16. png", 
+    "careersImageLink": "https://media. licdn. com/media/p/6/005/047/240/2bf3f16. png", 
+    "localizedDescription": "At UCB,  everything we do starts with a simple question: “How will this make a difference to the lives of people living with severe diseases?” We have a passionate,  long-term commitment to discovering and developing innovative medicines that transform the lives of people living with severe diseases.  We do that by connecting with patients and their families around the world living with the physical and social burdens of severe disease of the immune system and the central nervous system.  Those connections offer new perspectives,  drive innovation,  and offer the hope of a new generation of therapies that are helping to transform lives.  \r\rWith more than 8500 employees in approximately 40 countries,  we are a global biopharmaceutical company headquartered in Brussels,  Belgium which invests more than 25% of revenue in cutting-edge scientific research to meet unmet patient needs.  \r\rA few other reasons to believe that UCB is an amazing place to work: \r- Promising pipeline that includes new novel molecules and no major expirations in the next decade; \r- More than 25% of  2014 revenue reinvested into Research & Development \r-  2014 Key Financials: €3. 3B global revenue \r\rBeyond being experts in their fields,  our employees are passionate individuals who place great importance on delivering top-notch results.  At UCB,  each employee is connected by a shared desire to make a difference. ", 
+    "foundedYear": 1928
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Pharmaceuticals"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98000053?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareer012. successfactors. eu%2Fcareer%3Fcareer_ns%3Djob_listing%26company%3DUCB%26navBarLevel%3DJOB_SEARCH%26rcm_site_locale%3Den_US%26career_job_req_id%3D32301%26utm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=ENsT&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

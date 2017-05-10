@@ -1,0 +1,460 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-c9848c88-ca34-4697-a9c1-6ed05c810b1c", 
+    "expirationDate": 1451907488000, 
+    "title": "Senior Data Scientist/Informatics Expert", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3715, 
+          "type": "BR", 
+          "endIdx": 3715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3715, 
+          "type": "BR", 
+          "endIdx": 3715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3681, 
+          "type": "B", 
+          "endIdx": 3715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3681, 
+          "type": "BR", 
+          "endIdx": 3681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3614, 
+          "type": "LI", 
+          "endIdx": 3680, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3500, 
+          "type": "LI", 
+          "endIdx": 3612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3443, 
+          "type": "LI", 
+          "endIdx": 3498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3406, 
+          "type": "LI", 
+          "endIdx": 3441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3404, 
+          "type": "BG", 
+          "endIdx": 3681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "B", 
+          "endIdx": 3402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3111, 
+          "type": "LI", 
+          "endIdx": 3325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3109, 
+          "type": "BG", 
+          "endIdx": 3326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3098, 
+          "type": "U", 
+          "endIdx": 3107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3098, 
+          "type": "B", 
+          "endIdx": 3107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3040, 
+          "type": "LI", 
+          "endIdx": 3096, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2945, 
+          "type": "LI", 
+          "endIdx": 3038, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2728, 
+          "type": "LI", 
+          "endIdx": 2943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2610, 
+          "type": "LI", 
+          "endIdx": 2726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2402, 
+          "type": "LI", 
+          "endIdx": 2608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2207, 
+          "type": "LI", 
+          "endIdx": 2400, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2055, 
+          "type": "LI", 
+          "endIdx": 2205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "LI", 
+          "endIdx": 2053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1733, 
+          "type": "LI", 
+          "endIdx": 1846, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1673, 
+          "type": "LI", 
+          "endIdx": 1730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1620, 
+          "type": "LI", 
+          "endIdx": 1670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1581, 
+          "type": "LI", 
+          "endIdx": 1617, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1525, 
+          "type": "LI", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1465, 
+          "type": "LI", 
+          "endIdx": 1522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1462, 
+          "type": "BG", 
+          "endIdx": 1848, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1422, 
+          "type": "LI", 
+          "endIdx": 1850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "LI", 
+          "endIdx": 1420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "LI", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1134, 
+          "type": "LI", 
+          "endIdx": 1214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "LI", 
+          "endIdx": 1132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 897, 
+          "type": "LI", 
+          "endIdx": 1038, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 754, 
+          "type": "LI", 
+          "endIdx": 895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BG", 
+          "endIdx": 3097, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 722, 
+          "type": "B", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 722, 
+          "type": "BR", 
+          "endIdx": 722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "B", 
+          "endIdx": 722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "BR", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 330, 
+          "type": "BR", 
+          "endIdx": 330, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 330, 
+          "type": "BR", 
+          "endIdx": 330, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 318, 
+          "type": "U", 
+          "endIdx": 330, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 318, 
+          "type": "B", 
+          "endIdx": 330, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 318, 
+          "type": "BR", 
+          "endIdx": 318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 318, 
+          "type": "BR", 
+          "endIdx": 318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 148, 
+          "type": "B", 
+          "endIdx": 317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 148, 
+          "type": "LI", 
+          "endIdx": 317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 146, 
+          "type": "BG", 
+          "endIdx": 318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 132, 
+          "type": "U", 
+          "endIdx": 144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 132, 
+          "type": "B", 
+          "endIdx": 144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 132, 
+          "type": "BR", 
+          "endIdx": 132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 132, 
+          "type": "BR", 
+          "endIdx": 132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 95, 
+          "type": "BR", 
+          "endIdx": 95, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "B", 
+          "endIdx": 132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 23, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Title: Senior Data Scientist/Informatics ExpertLocation: Chapel Hill,  NC,  27517Duration: 6 Months (contract to perm)Imp Notes :-    Candidate must have experience with either Provider Analytics (Network analyses,  Tiering,  ETG or other groupers - Symmetry/Optum experience is a plus) or Care Management RequirementsLeverage technical knowledge of research and statistical methods,  and/or deep understanding of health insurance business issues to find innovative and informative solutions to business problems.  Work closely with staff across the enterprise to understand business processes,  articulate problems and find solutions that support enterprise strategies and tactics. Major Job Functions/Components Will work independently to:     Serve as the principal lead for complex analytic projects,  with accountability for the identification,  development,  methodology,  and outcome.   Collaborate with enterprise leadership on the assessment,  prioritization,  design and execution of large,  complex,  diverse analytics projects.   Proactively identify and lead the development of new research and statistical methodologies.   Conduct and present research studies that inform policy and strategic decisions.   Lead the consolidation of research,  authorship of key findings,  and communication of business solutions.   Works with key leadership in articulating and crafting informative solutions to business problems.   Lead all aspects of analytic projects:     conceptualizing research design to solve business problem   extract and transform data from warehouses as needed,    writing and maintaining source code,    quantitative and qualitative statistical analysis,    interpretation and synthesis of outcomes and conclusions,    and prepare documentation and communication of results and recommendations business owners and senior management.       Develop and ensure that appropriate research and analytic strategies are in place to support complex healthcare program design,  healthcare operations,  medical policies and provider network initiatives.   Demonstrate in-depth knowledge,  understanding,  and application of health services,  economic,  epidemiological and/or behavioral research methodologies.   Effectively communicates complex analytic results,  outcomes and research concepts to internal business leaders and external business partners in order to inform and influence business decisions  Maintain awareness of significant developments in the field,  including current research methodologies,  statistical modeling approaches and other issues as appropriate for specific position responsibilities.   Demonstrate understanding of the cross-functional nature of health insurance industry to inform enterprise strategy.   Demonstrate understanding of and partnering with other functional areas (e. g.  Finance,  Actuarial &amp; Underwriting,  etc. ) to deliver collaborative work products that align analysis results with enterprise strategy.   Provide support on research and statistical methodology issues to junior staff and customers.   People leadership duties as organizational needs require  Education    Masters or PhD (PhD preferred) in health services research,  informatics,  biostatistics,  epidemiology,  public health,  mathematics,  economics,  statistics,  quantitative social science or other relevant field of study.   A minimum of 7 years (w/ PhD) or 12 years (w/ Masters) of work experience:     In the health insurance industry or  Conducting public health or health outcomes research or  Conducting statistical modeling in areas of economics,  marketing,  finance,  epidemiology or operational analytics  Advanced statistical programming skills in SAS,  R,  SPSS,  or STATA.  Referrals Appreciated and Welcomed"
+    }, 
+    "postalCode": "27517", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1446742574000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 96753170, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Chapel Hill,  NC,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "canonicalName": "Spectraforce Technologies", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 30 days ago", 
+  "formattedPostedDaysAgoSlim": "30 days ago", 
+  "formattedPostedDaysAgoShort": "30d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 5,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/96753170?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3Dc9848c88-ca34-4697-a9c1-6ed05c810b1c%26OrgId%3D1%26UserId%3D1&urlHash=NQ-4&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Contract"
+}

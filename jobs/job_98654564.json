@@ -1,0 +1,557 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ing_nljobs-041593", 
+    "expirationDate": 1451739575000, 
+    "title": "Data Scientist Risk Reporting,  Data & Analytics", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2636, 
+          "type": "BR", 
+          "endIdx": 2636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2636, 
+          "type": "BR", 
+          "endIdx": 2636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2586, 
+          "type": "I", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2569, 
+          "type": "B", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "I", 
+          "endIdx": 2510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "B", 
+          "endIdx": 2510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2408, 
+          "type": "I", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2408, 
+          "type": "B", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2313, 
+          "type": "BR", 
+          "endIdx": 2313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2313, 
+          "type": "BR", 
+          "endIdx": 2313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "BR", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "BR", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2301, 
+          "type": "B", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2301, 
+          "type": "BR", 
+          "endIdx": 2301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2258, 
+          "type": "LI", 
+          "endIdx": 2301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2233, 
+          "type": "LI", 
+          "endIdx": 2258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2233, 
+          "type": "BG", 
+          "endIdx": 2301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2233, 
+          "type": "BR", 
+          "endIdx": 2233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2216, 
+          "type": "B", 
+          "endIdx": 2233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2216, 
+          "type": "BR", 
+          "endIdx": 2216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2216, 
+          "type": "BR", 
+          "endIdx": 2216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2215, 
+          "type": "BR", 
+          "endIdx": 2215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2173, 
+          "type": "LI", 
+          "endIdx": 2215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2112, 
+          "type": "LI", 
+          "endIdx": 2173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2075, 
+          "type": "LI", 
+          "endIdx": 2112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2037, 
+          "type": "LI", 
+          "endIdx": 2075, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1986, 
+          "type": "LI", 
+          "endIdx": 2037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1943, 
+          "type": "LI", 
+          "endIdx": 1986, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1926, 
+          "type": "LI", 
+          "endIdx": 1943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1926, 
+          "type": "BG", 
+          "endIdx": 2215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1926, 
+          "type": "BR", 
+          "endIdx": 1926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1910, 
+          "type": "B", 
+          "endIdx": 1926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1910, 
+          "type": "BR", 
+          "endIdx": 1910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1910, 
+          "type": "BR", 
+          "endIdx": 1910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "BR", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1856, 
+          "type": "LI", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1807, 
+          "type": "LI", 
+          "endIdx": 1856, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1755, 
+          "type": "LI", 
+          "endIdx": 1807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1602, 
+          "type": "LI", 
+          "endIdx": 1755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1602, 
+          "type": "BG", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1602, 
+          "type": "BR", 
+          "endIdx": 1602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "B", 
+          "endIdx": 1602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "BR", 
+          "endIdx": 1579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "BR", 
+          "endIdx": 1579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1578, 
+          "type": "BR", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "LI", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1470, 
+          "type": "LI", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "LI", 
+          "endIdx": 1470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1314, 
+          "type": "LI", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1244, 
+          "type": "LI", 
+          "endIdx": 1314, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "LI", 
+          "endIdx": 1244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "LI", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "BG", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1074, 
+          "type": "BR", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "B", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 754, 
+          "type": "LI", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "LI", 
+          "endIdx": 754, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BG", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BR", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "B", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 416, 
+          "type": "B", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 416, 
+          "type": "BR", 
+          "endIdx": 416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 416, 
+          "type": "BR", 
+          "endIdx": 416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "BR", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "BR", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 158, 
+          "type": "B", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 158, 
+          "type": "BR", 
+          "endIdx": 158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 158, 
+          "type": "BR", 
+          "endIdx": 158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 152, 
+          "type": "B", 
+          "endIdx": 157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 125, 
+          "type": "B", 
+          "endIdx": 137, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Within the CRO/Risk Services organisation,  the Reporting,  Data &amp; Analytics (RDA) department is looking for a Data Analyst in the area of risk.  Are you looking for the opportunity to work in a new team that started within the new Risk Services organisation of ING,  to work with Big Data in the area of risk and to deal with the challenges of ECB data requests,  then this job is something to apply for! Your Work EnvironmentIn June the Risk Services organisation was initiated to create synergy amongst the risk functions,  to leverage on big data,  and to build a lean,  innovative and integrated approach to risk management.   Risk Services integrates all activities related to risk,  change,  support,  operations,  reporting,  data and systems.  Within Risk Services,  the Reporting,  Data &amp; Analytics department services the risk organisation with analytics,  data quality assurance,  data governance,  data delivery and reporting with the aim to empower risk managers to make the right decisions.  The vacancy is in the Regulatory Data Requests team.  Job DescriptionInterpretation and analysis of data (e. g.  looking at trends / anomalies) to support the regulatory reporting processEnsure the data is managed and of the required qualityAddress ad hoc regulatory data requests ensuring regulatory complianceCoordination point of regulatory data requests in the risk management organisationEmbed the knowledge and way of analysing the data in the risk organisationBuild data marts to anticipate on future data requestsImplement lessons learned of data collection exercises Who we are looking for?Bachelor or Master in computer science or other science which has equipped you with the necessary statistics knowledge and database / programming skills. 3-4 years of experience in a data oriented function. Experience with data/analytic tooling (e. g.  SAS). Knowledge of banking,  risk management and regulation.  Personal ProfileAnalytical skillsStrong communication skills and team playerCritical mind-set with respect to what is deliveredHands on mentality with regard to dataStrong business and regulatory sense Stress-resistant,  able to deal with strict external deadlinesFluency in English both written and verbal What do we offer?A 36/40-hour working weekJob grade 9-10 depending on your experienceInterested? Click on Apply.  If you would like to have more information,  please call  Marnix van der Ploeg (+31 (0)20 576 8384),  head of Risk Services Data &amp; Analytics,  or Elizabeth Jose (+31 (0)20 57 61845),  Product owner Data Requests.  This vacancy closes on the 30th of November,  2015.  We are looking forward to your application!"
+    }, 
+    "postalCode": "5540", 
+    "jobState": "LISTED", 
+    "companyName": "ING Nederland", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Met ruim 8, 9 miljoen rekeninghouders is de ING één van de grootste en meest toonaangevende financiële dienstverleners van Nederland.  We zijn onderdeel van ING Groep,  een wereldwijd opererende financiële instelling met 94. 000 medewerkers,  waarvan er 26. 000 bij ING Nederland werken.  ING Groep heeft ruim 67 miljoen klanten in meer dan 40 landen in Europa,  Noord-Amerika,  Latijns-Amerika,  Azië en Australië. Het is onze ambitie om mee te bouwen aan een financieel gezonde en duurzame samenleving voor Nederland,  voor haar inwoners,  voor haar bedrijfsleven en voor haar instellingen. Sinds 2005 investeren we samen met UNICEF in onderwijsprojecten. Sinds 2010 is ING hoofdsponsor van het Nederlands Elftal. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "FIN"
+    ], 
+    "listDate": 1447369517000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:215713", 
+    "id": 98654564, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Holland,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98654564?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. ing. jobs%2FNederland%2FVacatures%2FVacature%2FData-Scientist-Risk-Reporting-Data-Analytics-1. htm%3Forg%3Dsearchresult&urlHash=3U-w&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Finance"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Banking"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "10001+", 
+    "formattedIndustries": [
+      "Banking"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "Met ruim 8, 9 miljoen rekeninghouders is de ING één van de grootste en meest toonaangevende financiële dienstverleners van Nederland.  \r\rWe zijn onderdeel van ING Groep,  een wereldwijd opererende financiële instelling met 94. 000 medewerkers,  waarvan er 26. 000 bij ING Nederland werken.  ING Groep heeft ruim 67 miljoen klanten in meer dan 40 landen in Europa,  Noord-Amerika,  Latijns-Amerika,  Azië en Australië. \r\rHet is onze ambitie om mee te bouwen aan een financieel gezonde en duurzame samenleving voor Nederland,  voor haar inwoners,  voor haar bedrijfsleven en voor haar instellingen. \r\rSinds 2005 investeren we samen met UNICEF in onderwijsprojecten. \r\rSinds 2010 is ING hoofdsponsor van het Nederlands Elftal. ", 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "careersImage": "urn:li:media:/p/2/005/08c/043/21c4a9f. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAVeAAAAJDgyYzIxM2VhLTYxMWItNDg3My1iNDg4LWNlNWM2ZDczNzhiMA. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/2/005/08c/043/21c4a9f. png", 
+    "company": {
+      "universalName": "ing-nederland", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAASWAAAAJDgxNjk0YTVkLTE2ZDItNDExMS1hZjI4LWVhZjQ3OTRjODQwZQ. png"
+      }, 
+      "companyId": 215713
+    }, 
+    "canonicalName": "ING Nederland"
+  }, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

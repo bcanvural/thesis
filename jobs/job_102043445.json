@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Abide Financial Ltd", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "drapersjobs_westerndailypress-502572791", 
+    "title": "Big Data Software Engineer", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102043445, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      43
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. abide-financial. com", 
+    "logo": "urn:li:media:/p/2/005/085/18b/0275b1d. png", 
+    "universalName": "abide-financial", 
+    "companyId": 2255526
+  }, 
+  "description": "     Preferred Skills: C#,  Database,  Big Data,  Java,  C++.  We’re looking for    excellent software engineers from junior to senior who will be    responsible for: Working as part of a team to deliver key projects    Maintaining and improving our existing code base Salary is in the    region of £25 - £50k and we have a profit-share programme as well so we    all benefit when the business does well.  Skills & Requirements: We are    looking for people who have: Significant C# development skills (or    similar easily transferable language e. g.  Java or C++) Significant    experience working with databases A passion for quality Additionally,     any experience in the following will be advantageous: AWS Functional    programming Windows Server SQL Server GIT ASP. NET Non-relational data    storage We have a broad range of roles here at Abide Financial.  If you    were to come and work with us you would be an active participant in all    stages of the software development lifecycle,  from analysis and design    through to testing and operational delivery,  all using the agile    methodology.  We like everyone here to have a lot of responsibility and    autonomy so you will have a large degree of freedom in designing and    delivering your projects.  This challenge is not targeted at senior    developers only.  We welcome applications from all experience levels.  We    will review your solution based on what we read in your CV and the post    you are applying for at Abide.  A lot of the work we carry out involves    working with large datasets.  At the core of everything we build is the    need to deliver the efficient processing of large transaction volumes    on a daily basis.  The following coding challenge is to give you a taste    of the sort of work we do here at Abide.  In it we ask you to build a    solution from scratch to process and analyse a large dataset.  There is    no right or wrong way to tackle this challenge,  but we will be drawn to    solutions that have been engineered in an efficient and extensible way    (while taking your experience into account. ) There are a number of    guidelines below that describe the things we are looking for. ", 
+  "companyDescription": "      Abide Financial Ltd    Abide Financial,  an award winning regulatory reporting provider,  is at    the forefront of transaction services innovation.     In less than 5 years since its inception Abide Financial has become the    3rd largest reporting entity by EMIR reportable FX transactions and    processes more than 22% of all MiFID reportable trades.     Abide Financial is a true single reporting solution provider to clients    with multi-regime regulatory obligations.  The company is an approved    Reporting Mechanism (ARM) for MiFID / MiFID II,  a reporting hub for    EMIR and Regulatory Reporting Mechanism (RRM) for REMIT.  Abide    Financial also services clients subject to international regulatory    regimes like Dodd Frank (US),  ASIC (Australia),  MAS (Singapore) and    Canada.     The company manages reporting obligations of market participants like    ICAP,  BNP Paribas,  Investec,  CMC Markets,  Instinet Nomura,  GAIN    Capital,  Saxo Bank,  LMAX and others.     To find out how Abide Financial can help implement future proof    customised reporting solutions,  significantly reduce cost and simplify    the complexity of transaction reporting please get in touch:    E: advice@abide-financial. com    P: 0207 148 0971    W: http://www. abide-financial. com", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

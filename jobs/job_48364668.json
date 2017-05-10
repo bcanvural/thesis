@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/48364668", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Facebook was founded in 2004.  Our mission is to make the world more open and connected.  People use Facebook to stay connected with friends and family,  to discover what's going on in the world,  and to share and express what matters to them. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Facebook", 
+  "canFollow": false, 
+  "companyId": "10667", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Facebook", 
+    "title": "Data Scientist,  Analytics"
+  }, 
+  "description": "Facebook was built to help people connect and share,  and over the last decade our tools have played a critical part in changing how people around the world communicate with one another.  With over a billion people using the service and more than fifty offices around the globe,  a career at Facebook offers countless ways to make an impact in a fast growing organization.  We’re looking for data scientists to work on our core and business products (Instagram,  Ads,  Messaging,  Identity,  Growth &amp; Engagement,  Mobile,  Search,  Privacy,  Payments ) with a passion for Internet technology to help drive informed business decisions for Facebook.  You will enjoy working with one of the richest data sets in the world,  cutting edge technology,  and the ability to see your insights turned into real products on a regular basis.  The perfect candidate will have a background in a quantitative or technical field,  will have experience working with large data sets,  and will have some experience in data-driven decision making.  You are scrappy,  focused on results,  a self-starter,  and have demonstrated success in using analytics to drive the understanding,  growth,  and success of a product.  These positions are located in our London office.  ResponsibilitiesApply your expertise in quantitative analysis,  data mining,  and the presentation of data to see beyond the numbers and understand how our users interact with our core/business productsPartner with Product and Engineering teams to solve problems and identify trends and opportunitiesInform,  influence,  support,  and execute our product decisions and product launches. The Data Scientist Analytics role has work across the following four areas:+ Data InfrastructureWorking in hadoop and hive primarily,  sometimes mysql,  oracle,  and verticaAuthoring pipelines via SQL and python based ETL frameworkBuilding key data sets to empower operational and exploratory analysisAutomating analyses+ Product OperationsSetting goalsDesigning and evaluating experiments monitoring key product metrics,  understanding root causes of changes in metricsBuilding and analyzing dashboards and reports+ Exploratory AnalysisProposing what to build in the next roadmapUnderstanding ecosystems,  user behaviors,  and long-term trendsIdentifying levers to help move key metricsEvaluating and defining metricsBuilding models of user behaviors for analysis or to power production systems+ Product LeadershipInfluencing product teams through presentation of workCommunicating of state of business,  experiment results,  etc to product teamsSpreading best practices to analytics and product teamsRequirements 2+ years experience doing quantitative analysis. BA/BS in Computer Science,  Math,  Physics,  Engineering,  Statistics or other technical field.  Advanced degrees preferred. Fluency in SQL or other programming languages.  Some development experience in at least one scripting language (PHP,  Python,  Perl,  etc. )Ability to initiate and drive projects to completion with minimal guidanceThe ability to communicate the results of analyses in a clear and effective mannerBasic understanding of statistical analysis. Preferred experience with a statistical package such as R,  MATLAB,  SPSS,  SAS,  Stata,  etc. Preferred experience with an Internet-based company. Experience with large data sets and distributed computing (Hive/Hadoop) a plus. "
+}

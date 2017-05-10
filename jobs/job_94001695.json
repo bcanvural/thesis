@@ -1,0 +1,444 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94001695?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FBlaBlaCar%2F86094178-data-scientist&urlHash=XHjn&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "hasMySavedJobPosting": false, 
+  "hasDecoratedCompany": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedLocation": "London,  GB", 
+  "jobPosting": {
+    "expirationDate": 1451763748000, 
+    "veteranCommitted": false, 
+    "id": 94001695, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2372, 
+          "type": "BR", 
+          "endIdx": 2372, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2372, 
+          "type": "BR", 
+          "endIdx": 2372, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2325, 
+          "type": "BR", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2325, 
+          "type": "BR", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "B", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "BR", 
+          "endIdx": 2202, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "BR", 
+          "endIdx": 2202, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2116, 
+          "type": "BR", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2073, 
+          "type": "LI", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2045, 
+          "type": "LI", 
+          "endIdx": 2073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "LI", 
+          "endIdx": 2045, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2009, 
+          "type": "LI", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2009, 
+          "type": "BG", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2009, 
+          "type": "BR", 
+          "endIdx": 2009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "BR", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "BR", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1953, 
+          "type": "LI", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1936, 
+          "type": "LI", 
+          "endIdx": 1953, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1854, 
+          "type": "LI", 
+          "endIdx": 1936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1793, 
+          "type": "LI", 
+          "endIdx": 1854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1711, 
+          "type": "LI", 
+          "endIdx": 1793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1659, 
+          "type": "LI", 
+          "endIdx": 1711, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1604, 
+          "type": "LI", 
+          "endIdx": 1659, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1545, 
+          "type": "LI", 
+          "endIdx": 1604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1511, 
+          "type": "LI", 
+          "endIdx": 1545, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1446, 
+          "type": "LI", 
+          "endIdx": 1511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1380, 
+          "type": "LI", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1345, 
+          "type": "LI", 
+          "endIdx": 1380, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1281, 
+          "type": "LI", 
+          "endIdx": 1345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1281, 
+          "type": "BG", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1281, 
+          "type": "BR", 
+          "endIdx": 1281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1215, 
+          "type": "LI", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1167, 
+          "type": "LI", 
+          "endIdx": 1215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "LI", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "BG", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "BR", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 993, 
+          "type": "B", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "LI", 
+          "endIdx": 993, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 837, 
+          "type": "LI", 
+          "endIdx": 910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 837, 
+          "type": "BG", 
+          "endIdx": 993, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 837, 
+          "type": "BR", 
+          "endIdx": 837, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "B", 
+          "endIdx": 837, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "BR", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 678, 
+          "type": "LI", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "LI", 
+          "endIdx": 678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 544, 
+          "type": "LI", 
+          "endIdx": 599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 544, 
+          "type": "BG", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 544, 
+          "type": "BR", 
+          "endIdx": 544, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "B", 
+          "endIdx": 544, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "BR", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "BR", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 471, 
+          "type": "B", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 471, 
+          "type": "BR", 
+          "endIdx": 471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 471, 
+          "type": "BR", 
+          "endIdx": 471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionAs a Data Analyst you will be joining the Growth Team in Paris or London (location is flexible).  You will be working with a very skilled and motivated team of people.  The goal of the Growth Team is to provide BlaBlaCar markets with tools and support to help them grow,  especially through data intelligence,  marketing activities and business development efforts.  As such,  the role requires a sharp,  analytical mind and an entrepreneurial spirit. Key ResponsibilitiesBuilding and interpreting actionable models / reportsDefining and measuring KPIs according to business needsDeveloping models and reports using data visualization software such as TableauUsing advanced models / algorithms to drive smarter business decisions - eg.  econometric modeling,  clusteringProviding ad hoc analysis with actionable insightsAnalyzing and investigating large datasets to provide actionable insightsPresenting results of adhoc analyses to the team,  project stakeholders and managersManaging data processes,  projects and deadlinesCollaborating with many teams across the company to implement the processes and tools required to make relevant data accessibleEstimating bandwidth and scalability of projectsIdentifying and addressing bottlenecks / quick wins QualificationsEngineering degree or double degree program Engineering/BusinessAt least 1 year of work experience Passion for driving business decisions using data-driven insights Proficiency in Large Databases and Data Management (SQL,  Vertica)Excellent command of Excel and VBAProficiency in Data visualization tools (Tableau) is a plusKnowledge of programming language (Python,  R) is a plusSharp,  analytical mind and an entrepreneurial spiritBoth strong attention to detail and ability to step back to see the bigger pictureAbility to effectively prioritize in a fast-paced environmentAbility to work in a multicultural environment and collaborate with remote officesFluent in EnglishInternational experience is a plusAdditional InformationStart: ASAPLocation: London or ParisContract: Long-term contractSalary: According to profile and experienceIf you&apos;re interested please apply online with you CV and cover letter in English. Please note: only candidates with a meaningful cover letter citing specific motivation to join our team will be considered. All your information will be kept confidential. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "smartrecruiters_xml-84487703-86094178", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "BlaBlaCar is a trusted community marketplace that connects drivers with empty seats to passengers looking for a ride.  Over 2 million people use BlaBlaCar every month creating an entirely new,  people powered,  transport network.  With a dedicated customer service,  a state of the art web and mobile platform,  and a fast-growing community of users,  BlaBlaCar is making travel social,  money-saving and more efficient for millions of members. Company Metrics:- 20 million members- 19 countries- over 2 million trips available in the future at any given time- over 3 billion miles shared - an estimated £216 million saved by our drivers every year- an estimated 700, 000 tons of CO2 saved- average car occupancy 2. 8 people (vs 1. 6 average)- over 5 million app downloads (iPhone and Android)http://www. blablacar. com/subscription"
+    }, 
+    "sponsored": false, 
+    "closeDate": 1449358942000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "BlaBlaCar", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1445480049000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2479609"
+  }, 
+  "formattedPostedDaysAgo": "Posted 44 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 2006, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAZSAAAAJDUyMzI3NTFhLTYwZTEtNGQwYi1iNWQ2LWZjNTMxMjk1ZjllZg. png"
+    }, 
+    "localizedDescription": "BlaBlaCar is a trusted community marketplace that connects drivers with empty seats to passengers looking for a ride.  Over 2 million people use BlaBlaCar every month creating an entirely new,  people powered,  transport network.  With a dedicated customer service,  a state of the art web and mobile platform,  and a fast-growing community of users,  BlaBlaCar is making travel social,  money-saving and more efficient for millions of members. \r\rCompany Metrics:\r\r- 20 million members\r- 19 countries\r- over 2 million trips available in the future at any given time\r- over 3 billion miles shared \r- an estimated £216 million saved by our drivers every year\r- an estimated 700, 000 tons of CO2 saved\r- average car occupancy 2. 8 people (vs 1. 6 average)\r- over 5 million app downloads (iPhone and Android)\r\rhttp://www. blablacar. com/subscription", 
+    "company": {
+      "specialities": [
+        "covoiturage", 
+        "carpool", 
+        "ride share", 
+        "lift share", 
+        "car sharing", 
+        "collaborative consumption"
+      ], 
+      "universalName": "blablacar", 
+      "companyId": 2479609, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/5/005/01b/18e/08680ca. png"
+      }
+    }, 
+    "canonicalName": "BlaBlaCar", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "44d", 
+  "formattedListDate": "October 22,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "formattedCloseDate": "December 5,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true
+}

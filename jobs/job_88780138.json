@@ -1,0 +1,204 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-21723", 
+    "expirationDate": 1451865324000, 
+    "title": "Software Engineer – Big Data Platform", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 374, 
+          "type": "BR", 
+          "endIdx": 374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 374, 
+          "type": "BR", 
+          "endIdx": 374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 303, 
+          "type": "LI", 
+          "endIdx": 374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 278, 
+          "type": "LI", 
+          "endIdx": 303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 256, 
+          "type": "LI", 
+          "endIdx": 278, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 210, 
+          "type": "LI", 
+          "endIdx": 256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 175, 
+          "type": "LI", 
+          "endIdx": 210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 175, 
+          "type": "BR", 
+          "endIdx": 175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 175, 
+          "type": "BR", 
+          "endIdx": 175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 163, 
+          "type": "U", 
+          "endIdx": 175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 163, 
+          "type": "B", 
+          "endIdx": 175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 163, 
+          "type": "BR", 
+          "endIdx": 163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 163, 
+          "type": "BR", 
+          "endIdx": 163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BR", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 81, 
+          "type": "BR", 
+          "endIdx": 81, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהלחברת S. U סופר אטרקטיבית דרוש/ה Software Engineer – Big Data Platform. התפקיד כולל עיצוב ופיתוח פלטפורמת Big Data, המשמשת כליבת הטכנולוגיה של מוצרי החברה. דרישות המשרהתואר ראשון במדעי מחשב,  הנדסת תוכנה. חובה ניסיון בפיתוח בJAVA על פלטפורמת BIG DATA. +5 ש\"נ כמהנדס/ת תוכנה. ניסיון בפיתוח תוכנת Agileניסיון רב בתכנות OO,  Java ושליטה ב- לפחות אחת מהשפות: סקאלה, Python וC++"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "ENG"
+    ], 
+    "listDate": 1443507111000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 88780138, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/88780138?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F21723%2FSoftware-Engineer-%25e2%2580%2593-Big-Data-Platform&urlHash=8VW0&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 67 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "67d", 
+  "companyDescriptionLanguage": "he", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1995, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedListDate": "September 29,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "he", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Lost My Name", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "workable_xml-FCC20419F0", 
+    "title": "Lead Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102092365, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. lostmy. name", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAALHAAAAJDI2NjE1OTY5LWNjZmItNDQyMC05ODE1LWVjMGM1NjczNjAxOA. png", 
+    "universalName": "lost-my-name", 
+    "companyId": 5189626
+  }, 
+  "description": "    We're on a mission to make millions of children around the world more    curious,  clever and kind.     How? By combining the power of enchanting stories and stunning    illustrations with the possibilities of technology,  to create magical,     personalised experiences for kids.     Started as a pet project by three dads and one uncle,  our first product    - the Lost My Name book - has sold over 600, 000 copies worldwide.  Now    backed by Google Ventures among other leading investors,  we’re    embarking on an exciting journey to make bedtime more magical for    children all around the world - and we’re looking for a seriously    brilliant (and very,  very nice) Data Scientist to join our team.     You’ll need to love numbers and analysing great big piles of data.  In    fact: you'll literally live and breathe data.  You’ll need to combine    this with an inquisitive ability to ask the right questions,  and    interpret data in a real-world context with a commercial angle – to    help us get a better understanding of our customers and our business.     You will ideally have had experience working in high growth an    e-commerce business,  and you will be passionate about the potential of    using data to help us gain a better understanding of our customers.  We    are building a data team that is integral to the whole business and    this is a fantastic opportunity for someone to be involved very early    in this journey and grow as the company expands.     Requirements       Strong SQL skills,  ideally with experience of working with a        Postgres SQL database       Demonstrable professional experience in data analysis or data        science       A degree in science,  mathematics,  technology,  engineering or        similar discipline with outstanding numeracy and analytical skills        with fine attention to detail       As well as being comfortable writing complex SQL scripts,  knowing        your way around Google Analytics and have general Excel wizardry at        your fingertips       A good communicator with ability to explain detailed,  technical &        commercial insights clearly and concisely to engineers and        marketing teams alike       Analytical,  inquisitive and forward thinking       Clever,  curious and kind       An obsessive learner     Nice To Haves       Wide and deep experience of complex data structures and large data        stores working with API ‘s       Experience in statistical modelling       Experience in machine learning       Experience working in a start-up environment     Benefits       Competitive salary and a real stake in the business - you'll share        our success       Be part of a fast growing company creating products that are really        loved by customers all round the world       Friendly,  light filled studio in East London packed full of smart,         hard working people to work with       Manage your own work as part of a small,  tightly knit team       Flexible office hours       Awesome BUPA healthcare for you and your whole family       Training budget of £1000: we'll sponsor any conference you want to        attend or speak at.  Travel the world and share your knowledge on        us!       Delicious team lunch every week", 
+  "companyDescription": "      Lost My Name    Lost My Name is on a mission to make kids mindful,  kind and curious.  We    combine the power of stories with the possibilities of technology,  to    create magical,  personalised books for children.  Our books,  'The Little    Boy/Girl Who Lost His/Her Name' and 'The Incredible Intergalactic    Journey Home' have redefined personalisation in the publishing industry    with sales of over 1 million copies in 160 countries worldwide.     Our high growth company is always on the look out for talented story    tellers,  marketers,  developers,  designers and other smart people to    help us take our stories to even more audiences around the world. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

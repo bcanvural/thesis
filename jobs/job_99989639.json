@@ -1,0 +1,434 @@
+{
+  "jobPosting": {
+    "companyJobCode": "allianz_jobs-76562B4401031EE5A3D7A162BF4694FB", 
+    "expirationDate": 1451975510000, 
+    "title": "Omni-Channel Data Scientist (w/m)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4138, 
+          "type": "BR", 
+          "endIdx": 4138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4138, 
+          "type": "BR", 
+          "endIdx": 4138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4030, 
+          "type": "BR", 
+          "endIdx": 4030, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4030, 
+          "type": "BR", 
+          "endIdx": 4030, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3820, 
+          "type": "BR", 
+          "endIdx": 3820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3820, 
+          "type": "BR", 
+          "endIdx": 3820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3273, 
+          "type": "BR", 
+          "endIdx": 3273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3273, 
+          "type": "BR", 
+          "endIdx": 3273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2705, 
+          "type": "BR", 
+          "endIdx": 2705, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2690, 
+          "type": "B", 
+          "endIdx": 2705, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2690, 
+          "type": "BR", 
+          "endIdx": 2690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2690, 
+          "type": "BR", 
+          "endIdx": 2690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2590, 
+          "type": "BR", 
+          "endIdx": 2590, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2590, 
+          "type": "BR", 
+          "endIdx": 2590, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2499, 
+          "type": "BR", 
+          "endIdx": 2499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2499, 
+          "type": "BR", 
+          "endIdx": 2499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2404, 
+          "type": "BR", 
+          "endIdx": 2404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2404, 
+          "type": "BR", 
+          "endIdx": 2404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2300, 
+          "type": "BR", 
+          "endIdx": 2300, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2300, 
+          "type": "BR", 
+          "endIdx": 2300, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2148, 
+          "type": "BR", 
+          "endIdx": 2148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2148, 
+          "type": "BR", 
+          "endIdx": 2148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2100, 
+          "type": "BR", 
+          "endIdx": 2100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2100, 
+          "type": "BR", 
+          "endIdx": 2100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1868, 
+          "type": "BR", 
+          "endIdx": 1868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1868, 
+          "type": "BR", 
+          "endIdx": 1868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1791, 
+          "type": "BR", 
+          "endIdx": 1791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1791, 
+          "type": "BR", 
+          "endIdx": 1791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1727, 
+          "type": "BR", 
+          "endIdx": 1727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1727, 
+          "type": "BR", 
+          "endIdx": 1727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1610, 
+          "type": "BR", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1610, 
+          "type": "BR", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "U", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "B", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "BR", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "BR", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1489, 
+          "type": "BR", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1489, 
+          "type": "BR", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1419, 
+          "type": "BR", 
+          "endIdx": 1419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1419, 
+          "type": "BR", 
+          "endIdx": 1419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "BR", 
+          "endIdx": 1349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "BR", 
+          "endIdx": 1349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1286, 
+          "type": "BR", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1286, 
+          "type": "BR", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1172, 
+          "type": "BR", 
+          "endIdx": 1172, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1172, 
+          "type": "BR", 
+          "endIdx": 1172, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1024, 
+          "type": "BR", 
+          "endIdx": 1024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1024, 
+          "type": "BR", 
+          "endIdx": 1024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "U", 
+          "endIdx": 1024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "B", 
+          "endIdx": 1024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "BR", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "BR", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 23, 
+          "type": "BR", 
+          "endIdx": 23, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 23, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job PurposeDas Customer Insight Center beschäftigt sich als Teil des Bereiches Strategisches Marketmanagement mit den Themenschwerpunkten Marktforschung,  Behavioral Economics,  Customer (Journey) Analytics und dem zentralem Beschwerdemanagement.  Dabei treiben wir insbesondere die Entwicklung von Forecasting Modellen voran,  unterstützen bei der Planung,  Umsetzung und dem Controlling von digitalen wie klassischen Marketingkampagnen und arbeiten an zentralen Projekten der Allianz Suisse mit.  In der Rolle als Omni-Channel Data Scientist sind Sie massgeblich am Aufbau der Verknüpfung der klassischen mit den digitalen Vertriebs- und Informationskanälen beteiligt.  Ein internationaler Austausch mit anderen Konzerneinheiten sowie die Zusammenarbeit mit allen Bereichen innerhalb der Allianz Suisse sind Bestandteil unserer Tätigkeit.  Wir arbeiten dabei nicht nur schnell und zuverlässig,  sondern auch mit äusserst hohem Qualitätsanspruch und hoher Servicequalität gegenüber allen unseren Stakeholdern. Description• Ihr Hauptaufgabengebiet liegt im dem Aufbau eines umfassenden Omni-Channel Trackings und der Verdichtung von digitalen und klassischen Kundendaten• Selbständigen Entwicklung von Modellen zur End-to-End Messung der Customer Journeys (online,  hybrid und offline)• Aufbau von RTCM-Analytics zur Optimierung der Kundenansprache• Erstellung von statistischen Analysen sowie von Forecasting Modellen• Regelmässiges Erstellen und Reporting von Kennzahlen auf Kundenebene• Einflussnahme auf die Planung,  Umsetzung und das Controlling von Marketingmassnahmen (online sowie offline)Requirements• Sehr guter Abschluss an einer betriebs-,  volkswirtschaftlichen oder naturwissenschaftlichen Fakultät (mind.  Master)• Fundiertes Wissen bezüglich datengetriebenen Business Modellen• Interesse für die aktuellsten Trends und Entwicklungen im digitalen Bereich• Mehrjährige Arbeitserfahrung mit: Omni-Channel Analytics inkl.  Messung von ROPO-KPIs,  Web Analytics (Bspw.  Google Analytics oder netmind),  Predictive Modelling,  Regressionsmodelle,  Generalized Linear Models oder Tree Based Methods• Überdurchschnittliche Kenntnisse von R und SAS• Analytisches,  strukturiertes und vernetztes Denken,  unterstützt durch einen geübten Umgang mit adressatengerechter Aufbereitung von Analyseergebnissen• Selbstständiges Arbeiten,  sicheres Auftreten,  gute rhetorische Fähigkeiten,  sicherer Präsentationsstil• Kenntnisse der Versicherungswirtschaft und des Schweizer Versicherungsmarkts sind von Vorteil• Proaktive,  kommunikative sowie integre Persönlichkeit mit ausgeprägter Kundenorientierung• Deutsch fliessend,  ausgezeichnete Englischkenntnisse,  Französisch und/oder Italienisch von VorteilAdditional InfoSie sind eine engagierte Persönlichkeit und erfüllen unsere Anforderungen? Bei uns erwartet Sie eine herausfordernde und abwechslungsreiche Aufgabe.  Unser Hauptsitz auf dem Richti-Areal in Wallisellen,  zwischen Einkaufszentrum Glatt und Bahnhof gelegen,  verfügt über modernste Arbeitsplätze sowie eine Kinderkrippe und ist vom Zürich HB in 10 Minuten per Bahn zu erreichen.  Fitness- und Sportmöglichkeiten befinden sich in unmittelbarer Nachbarschaft.  Haben Sie Fragen? Frau Ursula Planzer,  Telefon +41 58 358 83 18,  gibt Ihnen gerne weitere Auskünfte über die Stelle. Zusammen mit unseren Kunden und Vertriebspartnern ist die Allianz Gruppe eine der stärksten Finanzgemeinschaften und in über 70 Ländern vertreten.  Rund 83 Millionen Privat- und Unternehmenskunden setzen auf Wissen,  globale Reichweite,  Kapitalkraft und Solidität der Allianz,  um finanzielle Chancen zu nutzen,  Risiken zu vermeiden und sich abzusichern.  Wir haben das klare Ziel,  mit exzellenten Mitarbeitern,  einem erstklassigen Geschäftsergebnis und der erforderlichen Finanzkraft der Partner der Wahl zu sein.  Werden Sie Teil dieser Gemeinschaft!Die Allianz Suisse hat sich als vertrauenswürdiger Partner in Versicherungs- und Vorsorgefragen etabliert.  Dies verdanken wir zu einem grossen Teil unseren engagierten Mitarbeitenden.  Deshalb suchen wir Sie alsInteressiert? Wir freuen uns auf Ihre Bewerbung. Allianz Suisse,  Ihr zuverlässiger Partner in Karrierefragen. "
+    }, 
+    "postalCode": "8304", 
+    "jobState": "LISTED", 
+    "companyName": "Allianz", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Join Allianz Group to build with us the strongest financial community!About Allianz Group:Founded in 1890 in Berlin,  Allianz Group is a global leader and employer in insurance and financial services in more than 70 countries worldwide.  With Allianz SE as headquarters,  our many different insurance and financial service companies are present on all continents.  Further high quality services are offered globally by Allianz Asset Management (Allianz Global Investors &amp; PIMCO),  Allianz Global Corporate &amp; Specialty (corporate and specialty risks),  Allianz Managed Operations and Services (AMOS),  Euler Hermes (credit insurance) and Allianz Worldwide Partners (assistance services). Imprint: www. allianz. com/en/info/credits/credits. html"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447993402000, 
+    "countryCode": "ch", 
+    "company": "urn:li:company:2979", 
+    "id": 99989639, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Wallisellen,  CH", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99989639?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. allianz. com%2Fsap%2Fbc%2Fbsp%2Fsap%2Fzhcmx_erc_ui_ex%2F%3FjobId%3D76562B4401031EE5A3D7A162BF4694FB%26utm_campaign%3DAZSE%26utm_source%3DSocial%26utm_medium%3DLinkedInLL&urlHash=6Air&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 15 days ago", 
+  "formattedPostedDaysAgoSlim": "15 days ago", 
+  "formattedPostedDaysAgoShort": "15d", 
+  "companyDescriptionLanguage": "de", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Financial Services"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Allianz Group", 
+    "company": {
+      "specialities": [
+        "Insurance", 
+        "Asset Management"
+      ], 
+      "universalName": "allianz", 
+      "companyId": 2979, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAO8AAAAJDJjNDBjMGQ3LWI2NjAtNDYyNC05ZDEzLTQ2NThlNjE0Mjg2MA. png"
+      }
+    }, 
+    "foundedYear": 1890, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/p/8/000/251/2ec/10c32fd. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAOWAAAAJDBhZDBiNGUxLTk3MTAtNGNmZC1iYjRmLTllN2VhOTBlZWEyZA. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/8/000/251/2ec/10c32fd. png", 
+    "localizedDescription": "Join Allianz Group to build with us the strongest financial community!\r\rAbout Allianz Group:\rFounded in 1890 in Berlin,  Allianz Group is a global leader and employer in insurance and financial services in more than 70 countries worldwide.  With Allianz SE as headquarters,  our many different insurance and financial service companies are present on all continents.  Further high quality services are offered globally by Allianz Asset Management (Allianz Global Investors & PIMCO),  Allianz Global Corporate & Specialty (corporate and specialty risks),  Allianz Managed Operations and Services (AMOS),  Euler Hermes (credit insurance) and Allianz Worldwide Partners (assistance services). \r\rImprint: www. allianz. com/en/info/credits/credits. html"
+  }, 
+  "formattedListDate": "November 20,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "hasDecoratedCompany": true
+}

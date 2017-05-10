@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90355146", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Serves as the High Performance Computing and Machine Learning expert on cross-functional teams,  working throughout assay/product development life cycles and in support of commercial laboratory operationsDevelop distributed/parallel solutions for data analysis,  mining and visualization of structured and unstructured biological data setsDevelop,  optimize,  parallelize and implement novel algorithms for statistical modeling and data mining of complex biological data,  on high performance multicore architectures,  including but not limited to,  any of the following:Next Generation Sequencing,  qPCR and image processing applicationsBiomarker discovery and biological network identificationLab processes parameter identification and optimizationIn-silico biological hypothesis generation through simulationMonitor and continuously evaluate new methodologies and third-party technologies addressing analysis of large data sets applicable to GHI&rsquo;s productsResponsible for the development and execution of analyses that support decision making in diverse areas such as technology assessment,  analytical method development and validation,  and process improvement and optimizationSelects and applies appropriate machine learning methodologies to provide actionable results,  to all project related studies,  under general strategic guidance and in compliance with best practicesMay determine methods and procedures on new assignmentsNo management responsibilities but may train and mentor less senior personnelREQUIREDAdvanced degree in Computer Science,  Statistics or related discipline; normally requires Ph. D.  and 8+ or Masters&rsquo; and 11+ years of experienceProven expertise in developing algorithms and applications using MapReduce,  MPI,  OpenMP or similar frameworksProven expertise in applying descriptive and inferential statistics in Big Data problemsCompetence in theory and application of standard machine learning or data mining algorithmsExperience with common data science toolkits,  such as R,  NumPy,  MatLab,  SAS,  etc.  Mastery of at least two of them is highly desirable. Proficiency in Linux operating system and query languages as SQL,  Hive,  Pig,  etc. Must have a demonstrated ability to identify and obtain required information,  present and analyze potential solutions,  and ultimately determine and present options for the appropriate course of actionStrong communicator with ability to maintain open communication with internal employees,  managers and customers as neededAble to integrate and apply feedback in a professional mannerAble to prioritize and drive to results with a high emphasis on qualityAbility to work as part of a team&nbsp;&nbsp;&nbsp;DESIRED&nbsp;Knowledge of applied and theoretical statisticsExperience working with biological data and publically available databases a plusExperience developing and optimizing data analysis pipelines on AWS&nbsp;TRAVEL,  PHYSICAL DEMANDS AND WORK ENVIRONMENT:&nbsp;Travel Requirements: 5% travelStanding or sitting for long periods of time may be necessaryPI92443449", 
+  "following": false, 
+  "companyDescription": "", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Genomic Health", 
+  "canFollow": false, 
+  "companyId": "163973", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Genomic Health", 
+    "title": "Senior Data Scientist,  Big Data Analytics"
+  }, 
+  "description": "Genomic Health is pioneering the application of genomics to clinical practice to dramatically improve the quality of treatment decisions for patients with cancer. &nbsp; As a member of the Biostatistics team,  the Senior Data Scientist II,  Big Data Analytics will collaborate across Genomic Health,  working closely with Biomedical Data Computing,  Bioinformatics,  Research &amp; Development,  Process Engineering,  Pathology and Commercial Operations to provide expertise in applying High Performance Computing and advanced Machine Learning methodologies to problems involving large data sets. "
+}

@@ -1,0 +1,343 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-EE8474739C", 
+    "expirationDate": 1451993841000, 
+    "title": "Data Analyst/Data Scientist - London - Online Consumer Giant - SAS", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1799, 
+          "type": "LI", 
+          "endIdx": 1864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1625, 
+          "type": "LI", 
+          "endIdx": 1798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1465, 
+          "type": "LI", 
+          "endIdx": 1624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1385, 
+          "type": "LI", 
+          "endIdx": 1464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1302, 
+          "type": "LI", 
+          "endIdx": 1384, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1301, 
+          "type": "BG", 
+          "endIdx": 1864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1301, 
+          "type": "BR", 
+          "endIdx": 1301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1286, 
+          "type": "BR", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1286, 
+          "type": "BR", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "U", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "B", 
+          "endIdx": 1286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "BR", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "BR", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1243, 
+          "type": "BR", 
+          "endIdx": 1243, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1243, 
+          "type": "BR", 
+          "endIdx": 1243, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1211, 
+          "type": "BR", 
+          "endIdx": 1211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1211, 
+          "type": "BR", 
+          "endIdx": 1211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "BR", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1176, 
+          "type": "BR", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "U", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "B", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "BR", 
+          "endIdx": 1144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "BR", 
+          "endIdx": 1144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1053, 
+          "type": "LI", 
+          "endIdx": 1143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 941, 
+          "type": "LI", 
+          "endIdx": 1052, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 829, 
+          "type": "LI", 
+          "endIdx": 940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 747, 
+          "type": "LI", 
+          "endIdx": 828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 602, 
+          "type": "LI", 
+          "endIdx": 746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 447, 
+          "type": "LI", 
+          "endIdx": 601, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 305, 
+          "type": "LI", 
+          "endIdx": 446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 304, 
+          "type": "BG", 
+          "endIdx": 1144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 304, 
+          "type": "BR", 
+          "endIdx": 304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "U", 
+          "endIdx": 304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "B", 
+          "endIdx": 304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Online Consumer Giant is looking for Data Analysts/Scientists to help build out next generation tools and platform to predict consumer needs.   This is a new team and the aim is to be at the forefront of Data Analytics.  An amazing opportunity. The Data Analyst Will Be Involved In The Following Perform deep-dive analysis to gain insight into how our customers are interacting with Tesco across multiple platforms,  products and services Create replicable,  robust statistical models that can be distributed to the wider business to aid in decision making and drive value to our core offerings Larger projects such as segmentations,  propensity modelling,  recommender systems,  attribution models etc.  to help make automated decision making Undertake ad-hoc reporting and analytics based on business requirements and needs Help to determine KPIs for business strategies,  then build/automate reports to monitor them on an ongoing basis Ensure our reporting is joined up with other parts of Tesco so we can report on the end-to-end customer journey Work closely with the core analytics team to educate and define best practice and insight.  For More Information Please CallLondon office: +44 (0) 207 604 4444New York office: +1 212 400 4845Chicago office: +1 312 204 7216RequirementsIdeal Candidate Experience in data analytics and science with experience in SAS,  SPSS,  R,  SQL etc.  Demonstrative programming in Java,  Scala,  Python,  C++,  etc.  very much preferred Be able to process data from various sources in an organised and logical manner,  big data platform experience preferred (Hadoop/Apache foundation toolset etc. ) Strong understanding of statistical technicals such as logistical regression,  chi-squared distribution,  bayesian probability,  k-means clustering,  CHAID,  neural networks etc.  2. 1 or higher in a statistical or computer science related degree"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "NJF Global Holdings Ltd", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  Our objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  The Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1444623960000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:623337", 
+    "id": 92106134, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92106134?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F8D1ECFD0DA&urlHash=XlwB&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 54 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "54d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2003, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/05f/173/24873d6. png"
+    }, 
+    "localizedDescription": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  \r\rOur objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  \r\rThe Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. ", 
+    "company": {
+      "specialities": [
+        "IT", 
+        "Finance", 
+        "Technology", 
+        "Financial Services", 
+        "Commodities", 
+        "Quantitative", 
+        "Risk", 
+        "Energy", 
+        "Global Markets", 
+        "Social Media", 
+        "Gaming", 
+        "Pharmaceutical", 
+        "Biotechnology", 
+        "Medical Devices Industry", 
+        "Global", 
+        "International Jobs", 
+        "Asia", 
+        "USA", 
+        "Europe"
+      ], 
+      "universalName": "njf-group", 
+      "companyId": 623337, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/091/366/0404d59. png"
+      }
+    }, 
+    "canonicalName": "NJF Global Holdings Ltd", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 12,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

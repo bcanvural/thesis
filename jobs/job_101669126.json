@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78130245", 
+    "title": "Big Data Solutions Architect | Hadoop | Spark | Big 4", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101669126, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "     Big Data Solutions Architect | Hadoop | Spark | Big 4 Consultancy |    £75, 000 to £100, 000One of the Big 4 management consultancies with    turnover in the tens of billions and a massive global presence,  are    looking for a senior Big Data Architect to join their rapidly growing    Big Data & Data Science department. As Big Data Solutions Architect,  you    will join at a really exciting time in the companys Big Data journey.     Given that the departments young age and the small team,  youll get a    rare combination of autonomy,  ownership of technology and the weight of    a global player behind you. With their new analytics lab in place,  there    are amazing opportunities for training and Big Data certifications for    yourself and your team. THE ROLEAs Big Data Solutions Architect,  your    role will be to architect and own greenfield Big Data platforms for    industry leading companies in financial services,  eCommerce and    insurance,  to name a few. Youll be working closely with a variety of    advanced analytics teams to ensure market leading techniques are    implemented. Your main responsibilities will be as follows:Design and    architect custom,  high-performance Hadoop/Spark/Storm/Flink Big Data    platformsAct as the Big Data evangelist and suggest new technologies,     sources of data and innovative techniquesWork alongingside Engineers &    Programmers to develop MapReduce/Spark/ETL jobs,  all customised for the    job in hand and decided by youMaintain close relationships with Big    Data vendorsWork closely with the Data Science and Data Visualisation    teams to provide an advanced platform for analyticsYOUR SKILLS &    EXPERIENCEThis is a brilliant opportunity for someone from a BI/data    warehousing architecture background with experience and/or strong    knowledge of Big Data tools. The successful Big Data Solutions Architect    will have the following skills:Solid data warehousing architecture    background (e. g.  SQL Server,  Oracle,  Teradata)Strong knowledge of Big    Data tools,  products and vendors,  including Hadoop/Spark/NoSQL    databases,  especially newer tools (e. g.  Storm,  Flink,  Impala,     Kudu)Understanding of the wider commercial benefits of Big Data    toolsExperience working closely with advanced analytics/Data    Science/data visualisation teamsSome hands-on experience of ETL    development or programming (Java/Python/Scala)The following background    will be a major benefit and preference,  but not a complete    necessity:Experience architecting an end to end Big Data platform from    scratchTHE BENEFITSThe Big Data Solutions Architect will benefit from    the following:An opportunity to join an incredibly advanced analytics    department,  in a solely Big Data orientated positionBrilliant training    opportunities/Big Data certifications,  in the companys new analytics    lab£75, 000 to £100, 000Flexible benefits package and bonusAPPLYPlease    register your interest by sending your CV via the Apply link on this    page. CONTACTFor further details or to enquire about other Big Data    roles,  please contact Jethro Willett at Harnham. KEYWORDSBig Data    Solutions Architect,  Lead Big Data Architect,  Big Data Engineer,  Data    Architect,  Hadoop,  Spark,  NoSQL,  Storm,  Flink,  Java,  SQL,  London", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

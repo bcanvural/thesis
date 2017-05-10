@@ -1,0 +1,419 @@
+{
+  "jobPosting": {
+    "companyJobCode": "CMEGROUP-11466", 
+    "expirationDate": 1451909445000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4750, 
+          "type": "LI", 
+          "endIdx": 4788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4679, 
+          "type": "LI", 
+          "endIdx": 4749, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4563, 
+          "type": "LI", 
+          "endIdx": 4678, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4496, 
+          "type": "LI", 
+          "endIdx": 4562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4485, 
+          "type": "LI", 
+          "endIdx": 4495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4453, 
+          "type": "LI", 
+          "endIdx": 4484, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4442, 
+          "type": "LI", 
+          "endIdx": 4452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4436, 
+          "type": "LI", 
+          "endIdx": 4441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4420, 
+          "type": "LI", 
+          "endIdx": 4435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4420, 
+          "type": "BG", 
+          "endIdx": 4788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4420, 
+          "type": "BR", 
+          "endIdx": 4420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4402, 
+          "type": "BR", 
+          "endIdx": 4402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4334, 
+          "type": "LI", 
+          "endIdx": 4401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4282, 
+          "type": "LI", 
+          "endIdx": 4333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4256, 
+          "type": "LI", 
+          "endIdx": 4281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4206, 
+          "type": "LI", 
+          "endIdx": 4255, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4164, 
+          "type": "LI", 
+          "endIdx": 4205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4146, 
+          "type": "LI", 
+          "endIdx": 4163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4103, 
+          "type": "LI", 
+          "endIdx": 4145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4018, 
+          "type": "LI", 
+          "endIdx": 4102, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3887, 
+          "type": "LI", 
+          "endIdx": 4017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3887, 
+          "type": "BG", 
+          "endIdx": 4402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3887, 
+          "type": "BR", 
+          "endIdx": 3887, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3869, 
+          "type": "BR", 
+          "endIdx": 3869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3792, 
+          "type": "LI", 
+          "endIdx": 3868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3588, 
+          "type": "LI", 
+          "endIdx": 3791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3506, 
+          "type": "LI", 
+          "endIdx": 3587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3445, 
+          "type": "LI", 
+          "endIdx": 3505, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3357, 
+          "type": "LI", 
+          "endIdx": 3444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3205, 
+          "type": "LI", 
+          "endIdx": 3356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3121, 
+          "type": "LI", 
+          "endIdx": 3204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2969, 
+          "type": "LI", 
+          "endIdx": 3120, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2867, 
+          "type": "LI", 
+          "endIdx": 2968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2737, 
+          "type": "LI", 
+          "endIdx": 2866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2649, 
+          "type": "LI", 
+          "endIdx": 2736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2576, 
+          "type": "LI", 
+          "endIdx": 2648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2460, 
+          "type": "LI", 
+          "endIdx": 2575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2375, 
+          "type": "LI", 
+          "endIdx": 2459, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2334, 
+          "type": "LI", 
+          "endIdx": 2374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2334, 
+          "type": "BG", 
+          "endIdx": 3869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2334, 
+          "type": "BR", 
+          "endIdx": 2334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2286, 
+          "type": "BR", 
+          "endIdx": 2286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2286, 
+          "type": "BR", 
+          "endIdx": 2286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2260, 
+          "type": "BR", 
+          "endIdx": 2260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2260, 
+          "type": "BR", 
+          "endIdx": 2260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1744, 
+          "type": "BR", 
+          "endIdx": 1744, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1744, 
+          "type": "BR", 
+          "endIdx": 1744, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1005, 
+          "type": "BR", 
+          "endIdx": 1005, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1005, 
+          "type": "BR", 
+          "endIdx": 1005, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 514, 
+          "type": "BR", 
+          "endIdx": 514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 514, 
+          "type": "BR", 
+          "endIdx": 514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 8, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "OverviewCME Technology and Support Services is relentlessly focused on developing the worlds most advanced electronic trading,  post trade processing and risk management systems.  We are the world’s leading and most diverse derivatives market place providing risk management solutions that help drive the global economy.  Our customers include leading investment and commercial banks,  hedge funds,  proprietary trading firms,  pension funds,  sovereign wealth funds,  asset managers,  corporations,  and individual traders. The selected candidate will join the CME Engineering and Execution team in Belfast as a Data Scientist,  initially working within our Regulatory Data Services (RDS) team.   The Belfast team is a high performing group of individuals that deliver on a broad range of functions including systems/business analysis,  software development and quality assurance services.    The team is responsible from initial request review,  impact assessment,  and prioritization through to solution implementation. CME Group,  is one of the world's biggest and most diverse financial exchanges,  and with that comes a certain amount of responsibility to the global marketplace.  We have a significant commitment to our regulators,  across the globe,  for monitoring trading activity to pick up on any malicious intent that may have a detrimental impact on the markets.  The RDS team maintains our regulatory data.  The team are responsible for manipulating,  translating,  enriching and mapping data from a variety of sources,  into regulatory schemas.  Real-Time and Batch analytics then execute against this data to provide regulatory information.  The team works with a vast array of technologies including Oracle Exadata,  Hadoop,  Python,  R,  Informatica and Java. Although initially working in the RDS space,  the engineering and execution team also develop a variety of trading and post-trade solutions,  supporting our exchange and clearing business.  Internal mobility and flexibility are a key part to our agile approach to technology delivery.  The successful candidate,  throughout their career,  will form a key part in driving our success across technology,  and will find opportunities to work in a variety of projects and technologies,  beyond their initial team and specialism. Principal AccountabilitiesAs a Data Scientist you will be responsible for;  Develop code and unit tests in Java.      Develop data mapping and enrichment,  using 3rd Party tools,  such as Informatica.      Develop solutions for managing structured and unstructured data using tools,  such as Hadoop and Oracle Exadata.      Develop real-time data analytics,  capable of mining large data sets.      Participates and contributes to dialogue on detailed design and architecture plans.      Applies knowledge of java language,  DBMS and middle-ware technologies in independently designing and developing key services.      Participates in code reviews,  proactively identifying and mitigating potential issues and defect.      Participates in story review,  providing constructive feedback and input on both work effort estimation as well as architecture/design improvements.      Works well in a team,  fostering an environment of collaboration and innovation.      Plays supporting role in white box test case identification sessions to establish high level consensus on test case sets for corresponding stories.      Participates in troubleshooting efforts,  proposing potential fixes and workarounds.      Provides 3rd Line Support for applications and services.      Assists with environment build deployments,  release notes,  and build notices.      Participates in continuous improvement efforts by suggesting practical means of reducing time to market while maintaining high quality products (i. e.  – process improvements/automation opportunities).      Embraces and enforces CME Group SDLC and information security standards.    Essential Criteria  Bachelor's degree (with honours) or equivalent/better strongly preferred,  but substantial relevant experience could substitute     Strong knowledge and experience of SDLC methodologies; agile is a big advantage.      Competent core Java development skills     Excellent SQL     Strong DBMS skills (Oracle preferred)     Expertise in the development of ETL solutions     Data mining expertise     Data Optimisation,  including Query Optimisation     Exposure to unstructured data,  and working with large data-sets   Desirable Criteria  Informatica     R     Python     Oracle (especially Exadata)     Hadoop     Prior experience working in financial services/exchange space.      Prior experience working with BDD methodologies and automated acceptance criteria (Feature Files and Cucumber).      Prior experience using Confluence,  JIRA,  or other Atlassian tools.      Fortify,  Sonar,  Coverity experience. "
+    }, 
+    "postalCode": "BT10", 
+    "jobState": "LISTED", 
+    "companyName": "CME Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "As the world's leading and most diverse derivatives marketplace,  CME Group (www. cmegroup. com) is where the world comes to manage risk.   CME Group exchanges offer the widest range of global benchmark products across all major asset classes,  including futures and options based on interest rates,  equity indexes,  foreign exchange,  energy,  agricultural commodities,  metals,  weather and real estate.   CME Group brings buyers and sellers together through its CME Globex® electronic trading platform and its trading facilities in New York and Chicago.   CME Group also operates CME Clearing,  one of the world’s leading central counterparty clearing provider in the world,  which offers clearing and settlement services for exchange-traded contracts,  as well as for over-the-counter derivatives transactions through CME ClearPort®.   These products and services ensure that businesses everywhere can substantially mitigate counterparty credit risk in both listed and over-the-counter derivatives markets. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443939438000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:5499", 
+    "id": 90080600, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Belfast,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1848, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/0ac/032/355d1e3. png"
+    }, 
+    "localizedDescription": "As the world's leading and most diverse derivatives marketplace,  CME Group (www. cmegroup. com) is where the world comes to manage risk.   CME Group exchanges offer the widest range of global benchmark products across all major asset classes,  including futures and options based on interest rates,  equity indexes,  foreign exchange,  energy,  agricultural commodities,  metals,  weather and real estate.   CME Group brings buyers and sellers together through its CME Globex® electronic trading platform and its trading facilities in New York and Chicago.   CME Group also operates CME Clearing,  one of the world’s leading central counterparty clearing provider in the world,  which offers clearing and settlement services for exchange-traded contracts,  as well as for over-the-counter derivatives transactions through CME ClearPort®.   These products and services ensure that businesses everywhere can substantially mitigate counterparty credit risk in both listed and over-the-counter derivatives markets. ", 
+    "company": {
+      "specialities": [
+        "futures", 
+        "commodities", 
+        "derivatives", 
+        "risk management", 
+        "finance", 
+        "financial services", 
+        "economics"
+      ], 
+      "universalName": "cme-group", 
+      "companyId": 5499, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAH_AAAAJDkyZDBhYzgzLWQxZmItNDUyYi04YjcxLWU0MzU0Y2IxZDQwZQ. png"
+      }
+    }, 
+    "canonicalName": "CME Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Financial Services"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 62 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "62d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 4,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/90080600?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fchk. tbe. taleo. net%2Fchk05%2Fats%2Fcareers%2Frequisition. jsp%3Forg%3DCMEGROUP%26cws%3D1%26rid%3D11466&urlHash=krM5&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

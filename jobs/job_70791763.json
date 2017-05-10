@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/70791763", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Eagle Alpha was founded in 2012 by a former Morgan Stanley investment banker,  Emmett Kilduff.  Since then we have built a world-class team of employees,  investors and advisory panel members that brings together experience from companies including Barclays,  Cairn Capital,  Cantor,  CQS,  Credit Suisse,  Data Explorers,  HSBC Asset Management,  Jefferies,  JP Morgan,  Knight Capital,  Macquarie,  Markit,  MergerMarket,  Morgan Stanley,  Oaktree,  Schroders and Twitter.    Eagle Alpha is headquartered in Dublin,  Ireland with employees in New York City,  London and Los Angeles.  For more,  check out http://www. eaglealpha. com. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Eagle Alpha", 
+  "canFollow": false, 
+  "companyId": "2828211", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Eagle Alpha", 
+    "title": "Data Scientist (Python,  Java,  Spark,  Elasticsearch and more!)"
+  }, 
+  "description": "We are looking for experienced and talented Data Scientists to come and work with us in Eagle Alpha to build and enhance our different analytics engines.  You'll be joining quite a young and diverse team of Software Engineers,  Data Scientists,  Equities and Macro-economic analysts and Global Finance and IPO experts.   We’re exploring many different diverse data sources to provide relevant and reliable insights,  and we've modelled our products to cater for real-time breaking information,  and long-term data-driven research for some of the biggest financial institutions and investment houses in the world.  Naturally,  you'll be happy to hear we commit and ship code and products frequently.  Our Data Scientists work with a variety of toolkits,  and we have large datasets built by domain experts over three years.  We're very open to learning new things.  We're also architecting an ambitious next-generation platform.  with a variety of languages like Java and Scala as well as Python,  and high-performance toolkits and frameworks.   We're doing much of this with close guidance and advice from our Data Science advisor,  and also the advice and guidance of our Technical Advisor -  who was once Twitter's Technical Architect,  and our other panel of expert advisors (eaglealpha. com/about).  We offer compeititve salary and stock options,  free coffee,  a decent equipment budget.  What we're looking for: 2-3+ years demonstrable Industry Experience.  M. Sc or Ph. D in Computer Science,  Mathematics,  Finance and Statistics,  or other related qualifications desired.  Flexibilities that are needed to work in a small,  fast-paced startup.  Passionate about technology and developing world-class software,  wanting to learn and gain new skills as you progress.    Fluent in English (verbal and written).  Development history with Python,  Scala,  Java,  Spark and others (impress us!).  Database and storage management with one or more of MySQL,  PostgreSQL,  MongoDB,  HDFS etc.   Enjoy solving big and small data science and technical challenges,  and initiative to taking ownership of projects,  proposing solutions and new features on the entire stack.   Appreciative of Agile development,  continuous integration,  and efficient code.  "
+}

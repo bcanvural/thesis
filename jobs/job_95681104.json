@@ -1,0 +1,322 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-o2h01fw4", 
+    "expirationDate": 1450991463000, 
+    "title": "Data scientist intern - NLP specialist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2127, 
+          "type": "BR", 
+          "endIdx": 2127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2127, 
+          "type": "BR", 
+          "endIdx": 2127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1562, 
+          "type": "BR", 
+          "endIdx": 1562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1562, 
+          "type": "BR", 
+          "endIdx": 1562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1549, 
+          "type": "BR", 
+          "endIdx": 1549, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1451, 
+          "type": "LI", 
+          "endIdx": 1548, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1388, 
+          "type": "LI", 
+          "endIdx": 1451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1355, 
+          "type": "LI", 
+          "endIdx": 1388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "LI", 
+          "endIdx": 1355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "BG", 
+          "endIdx": 1548, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1272, 
+          "type": "BR", 
+          "endIdx": 1272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "LI", 
+          "endIdx": 1272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1093, 
+          "type": "LI", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1039, 
+          "type": "LI", 
+          "endIdx": 1093, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1039, 
+          "type": "BG", 
+          "endIdx": 1272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1029, 
+          "type": "BR", 
+          "endIdx": 1029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1028, 
+          "type": "BR", 
+          "endIdx": 1028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 865, 
+          "type": "LI", 
+          "endIdx": 1028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 813, 
+          "type": "LI", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 786, 
+          "type": "LI", 
+          "endIdx": 813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 773, 
+          "type": "LI", 
+          "endIdx": 786, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 773, 
+          "type": "BG", 
+          "endIdx": 813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 724, 
+          "type": "LI", 
+          "endIdx": 773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 724, 
+          "type": "BG", 
+          "endIdx": 1028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 724, 
+          "type": "BR", 
+          "endIdx": 724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 642, 
+          "type": "B", 
+          "endIdx": 724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 642, 
+          "type": "BR", 
+          "endIdx": 642, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 642, 
+          "type": "BR", 
+          "endIdx": 642, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 622, 
+          "type": "BR", 
+          "endIdx": 622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 622, 
+          "type": "BR", 
+          "endIdx": 622, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 307, 
+          "type": "BR", 
+          "endIdx": 307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 307, 
+          "type": "BR", 
+          "endIdx": 307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 307, 
+          "type": "BR", 
+          "endIdx": 307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 54, 
+          "type": "BR", 
+          "endIdx": 54, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 40, 
+          "type": "BR", 
+          "endIdx": 40, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 40, 
+          "type": "BR", 
+          "endIdx": 40, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 40, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Internships | Paris,  FranceAbout the TeamThe Data team consists of 3 data engineers and a data scientist.  The team focuses on optimizing data collection,  data storage and the development of data applications.  Their work improves the A little Market experience for buyers,  sellers and employees. The Etsy France Data team is focused on data engineering - identifying,  collecting,  and storing the data in order to analyse it and realize great features.  Priorities are the recommendation systems,  search engine,  SEO,  and BI.  Our goal is to help our users and our team to better answer to what they’re looking for. About the InternshipAs a Member Of The Data Team,  Your Work Will Be Focused On NLP.  Your Goals Will BeImprovement of the search bar autosuggest system. Complete dataUpgrade suggestions qualityDetect / generate keywords from product information. Sentiments / opinions / emotions analysis of our customers: You will analyze the opinions of all products’ reviews in order to provide indicators for each product.  About You You are passionate about data science and NLP (French)Python,  Scala and Java are languages that you learnt.  You have mastered one of them. You enjoy working in a bilingual (English and French) environment and you speak fluent english. You will be successful in this role if you: You’re open minded and listen to othersYour dream is to change the worldYou know how to properly express your ideas,  written and spokenYou enjoy autonomy,  sharing,  discussions,  and are an inexhaustible source of revolutionary ideas   What’s Next If you're interested in joining the team,  please send us your resume with a cover letter.  Let us know how you fit the bill for each of our requirements above.  Etsy and A Little Market is a place that values individuality and variety,  so use your judgment and write to us in your own voice.  If you have a presence on the web that we can easily access (Twitter,  Facebook,  rap sheet),  contribute to an open source project,  write a blog,  or practice another craft besides designing beautiful,  functional websites,  that means something to us,  we’d love to hear about it. "
+    }, 
+    "postalCode": "75004", 
+    "jobState": "LISTED", 
+    "companyName": "Etsy", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Etsy is a marketplace where people around the world connect,  both online and offline,  to make,  sell and buy unique goods. The heart and soul of Etsy is our global community: the creative entrepreneurs who use Etsy to sell what they make or curate,  the shoppers looking for things they can’t find anywhere else,  the manufacturers who partner with Etsy sellers to help them grow,  and the Etsy employees who maintain and nurture our marketplace. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1446207266000, 
+    "countryCode": "fr", 
+    "company": "urn:li:company:67849", 
+    "id": 95681104, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Paris,  FR", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95681104?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3DqmZ9Vfw9%26j%3Do2h01fw4%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=u8v2&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Temporary", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 36 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "36d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "foundedYear": 2005, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMZAAAAJGI2YmJhNjU2LTc1MTMtNGU2NS05NjY2LTM4N2M0YmU0NWMzZQ. png"
+    }, 
+    "localizedDescription": "Etsy is a marketplace where people around the world connect,  both online and offline,  to make,  sell and buy unique goods. \r\rThe heart and soul of Etsy is our global community: the creative entrepreneurs who use Etsy to sell what they make or curate,  the shoppers looking for things they can’t find anywhere else,  the manufacturers who partner with Etsy sellers to help them grow,  and the Etsy employees who maintain and nurture our marketplace. ", 
+    "company": {
+      "universalName": "etsy", 
+      "companyId": 67849, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAANZAAAAJGRkZTcyMmQ1LTk2MGYtNGZmNC1hNjllLTg0MTNjY2M3MTAxZA. png"
+      }
+    }, 
+    "canonicalName": "Etsy", 
+    "hasPaidLcp": true, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "October 30,  2015", 
+  "formattedExpireDate": "December 24,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

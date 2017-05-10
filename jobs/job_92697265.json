@@ -1,0 +1,261 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-oH3H1fwc", 
+    "expirationDate": 1451713048000, 
+    "title": "Data Scientist,  Unity Ads", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2457, 
+          "type": "BR", 
+          "endIdx": 2457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2457, 
+          "type": "BR", 
+          "endIdx": 2457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1963, 
+          "type": "BR", 
+          "endIdx": 1963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1952, 
+          "type": "B", 
+          "endIdx": 1962, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1819, 
+          "type": "LI", 
+          "endIdx": 1951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "LI", 
+          "endIdx": 1819, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1600, 
+          "type": "LI", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1512, 
+          "type": "LI", 
+          "endIdx": 1600, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1475, 
+          "type": "LI", 
+          "endIdx": 1512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1475, 
+          "type": "BG", 
+          "endIdx": 1951, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1455, 
+          "type": "LI", 
+          "endIdx": 1465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1391, 
+          "type": "LI", 
+          "endIdx": 1455, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1324, 
+          "type": "LI", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1259, 
+          "type": "LI", 
+          "endIdx": 1324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1181, 
+          "type": "LI", 
+          "endIdx": 1259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1181, 
+          "type": "BG", 
+          "endIdx": 1465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "LI", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1035, 
+          "type": "LI", 
+          "endIdx": 1114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 925, 
+          "type": "LI", 
+          "endIdx": 1035, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 865, 
+          "type": "LI", 
+          "endIdx": 925, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "LI", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BG", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 770, 
+          "type": "BR", 
+          "endIdx": 770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "BR", 
+          "endIdx": 422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "BR", 
+          "endIdx": 422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "B", 
+          "endIdx": 498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 32, 
+          "type": "BR", 
+          "endIdx": 32, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 32, 
+          "type": "BR", 
+          "endIdx": 32, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 31, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Engineering | Helsinki,  Finland Unity Ads enables mobile game developers to make a living doing what they love - making games - by monetizing their entire player base with gaming ads for gamers.  Trusted by large publishers and indies alike,  we're proudly built by Unity and focus strongly on gaming.  Unity Ads can deliver significant revenue to our developers by providing engaging,  non-intrusive user-initiated video ads. Unity Ads analytics team is responsible of optimising the Unity Ads network.  The optimisation of the complex network is based solely on data and machine learning.  As part of the team you will be working with big data engineers responsible of data architecture and group of other data scientists working with data,  optimisation and machine learning.  Responsibilities Data sciencing - studying the data,  preparing data and developing methodologyStudying data to understand the current state of the networkBeing able to implement and test different ML algorithms to find suitable and continuously improve the networkImplementing algorithms in the production environment and not just in isolationDoing ad-hoc analysis when questions get tricky       Requirements Be a data scientist (MSc/PhD in math,  physics,  computer science or equivalent)You are familiar with big data specific problems and technologiesKnow well something like Spark,  Kafka,  SQL (Presto/Hive/data bases)Have experience in conversion optimisation or online advertisingBe awesome We offer A workplace where diversity is valuedLunch,  exercise and commuting vouchers,  massage,  Monday breakfast,  FFA foods and whatnotA music room made for those who are or want to become rock starsThe cutest office dog Nella – she is as cute and fluffy as million teddies put together (no,  not talking about the movie Ted) and makes Mondays a lot nicerAnd of course,  the chance to work with the coolest technologies and an opportunity to be part of changing the mobile gaming industry Who we are We are product-driven,  curious,  and creative.  We aggressively reinvest in development to keep Unity moving and evolving - from expanding usability and power,  to platform reach.  With over a billion installs per month,  Unity touches gamers and non-gamers alike.  As well as video games,  our software is used in industries as diverse as medicine,  visualization and shopping - democratizing game development while solving hard problems and enabling success for a huge range of developers worldwide.  Today,  Unity has expanded to over 15 international offices and has employees in 23 countries.  Every person at Unity Technologies has an inherent passion and driven spirit and it isn’t enough to be able to do the job- we’re looking for people that color outside the lines,  are looking to be freed from the process tangle,  and can dream big!"
+    }, 
+    "postalCode": "00100", 
+    "jobState": "LISTED", 
+    "companyName": "Unity Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Unity Technologies is the creator of Unity,  an intuitive and flexible development platform used to make wildly creative and intelligently interactive 3D and 2D content.  The \"author once,  deploy everywhere\" capability ensures developers can publish to all of the most popular platforms.  Unity Technologies boasts a thriving community of over 2 million registered developers including large publishers,  indie studios,  students and hobbyists.  Unity Technologies aggressively re-invests in its award-winning 3D development tools and democratization initiatives,  such as the Asset Store digital content marketplace and Union game distribution service,  in order to remain at the forefront of innovation.  Unity Technologies is headquartered in San Francisco and has offices in Canada,  China,  Colombia,  Denmark,  Finland,  Germany,  Japan,  Korea,  Lithuania,  Singapore,  Sweden,  Ukraine,  the United Kingdom and elsewhere the United States. For more information,  visit: http://unity3d. comFacebook: http://www. facebook. com/unity3dTwitter: http://twitter. com/unity3d"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1444883319000, 
+    "countryCode": "fi", 
+    "company": "urn:li:company:212669", 
+    "id": 92697265, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Helsinki,  FI", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92697265?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3Dqx29Vfwn%26j%3DoH3H1fwc%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=0Sr2&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Unity Pro is a powerful and productive 3D and 2D game engine and visualisation tool used by independent professionals and leading studios. "
+      ], 
+      "universalName": "unity-technologies", 
+      "companyId": 212669, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAYDAAAAJGZmZTc3NjBjLTgyMjgtNDZlMS1hNDJkLWUzY2RkYTYzZmFkZQ. png"
+      }
+    }, 
+    "localizedDescription": "Unity Technologies is the creator of Unity,  an intuitive and flexible development platform used to make wildly creative and intelligently interactive 3D and 2D content.  The \"author once,  deploy everywhere\" capability ensures developers can publish to all of the most popular platforms.  \r\rUnity Technologies boasts a thriving community of over 2 million registered developers including large publishers,  indie studios,  students and hobbyists.  Unity Technologies aggressively re-invests in its award-winning 3D development tools and democratization initiatives,  such as the Asset Store digital content marketplace and Union game distribution service,  in order to remain at the forefront of innovation.  \r\rUnity Technologies is headquartered in San Francisco and has offices in Canada,  China,  Colombia,  Denmark,  Finland,  Germany,  Japan,  Korea,  Lithuania,  Singapore,  Sweden,  Ukraine,  the United Kingdom and elsewhere the United States. \r\rFor more information,  visit: http://unity3d. com\rFacebook: http://www. facebook. com/unity3d\rTwitter: http://twitter. com/unity3d", 
+    "foundedYear": 2004, 
+    "formattedIndustries": [
+      "Computer Software"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "Unity Technologies", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAN1AAAAJDg5YWIyZGRlLTFkZmEtNDEwNi04YTM4LTcxOTZkNzhkZDZiNw. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/005/093/358/32d4af6. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAN1AAAAJDg5YWIyZGRlLTFkZmEtNDEwNi04YTM4LTcxOTZkNzhkZDZiNw. png"
+  }, 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 51 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "51d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedListDate": "October 15,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

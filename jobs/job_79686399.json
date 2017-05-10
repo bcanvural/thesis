@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/79686399", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Education / Certification Requirements PhD degree in Informatics,  Computer Science/engineering or related field Thesis or applied knowledge in semantic data management or semantic analysis Several years of professional experience Skills and Experience Proven track record of industrial experience Solid and deep experience in Semantic Technologies (OWL/RDF,  graph databases and triple/quad stores,  SPARQL,  linked data) and theoretical foundations Solid experience in design of scalable,  distributed systems,  in particular parallel and distributed computing systems and event-driven systems.  Experience in building semantic data management systems is highly desirable.  Candidates with experience in managing sensor data are preferred Background in semantic analysis,  machine learning,  pattern recognition and statistics,  preferably having been applied to sensor data Strong coding skills in languages such as Java,  Python or Scala and experience with Linux systems Experience with Big Data Technologies such as Spark,  Hadoop,  NoSQL databases,  Esper,  Storm  and similar systems is highly desirable Personal Competencies Commercial acumen Experience in solving real-world and complex data analysis problems Hands-on mentality Ability to think out-of-the-box and solve unconventional problems in unconventional ways Creativity and excellent problem solving skills Desire to be part of a highly dynamic,  innovative &amp; self-driven culture", 
+  "following": false, 
+  "companyDescription": "AGT is all about striving for the best IoT and Big Data technologies!   Our teams are professional and fearless – our working environment is energized,  sweeping and demands use of cutting edge technology.  We are never behind.  Out of the box thinking and creativity in everything we do - leads our daily high paced routine.    Being always in search of new ideas turning into great new features and products,  we would love to meet and welcome team members who can join the ride and drive us forward to one of our offices: US (San Francisco,  New York),  Switzerland (Zurich),  Germany (Darmstadt) and Israel (Herzliya). ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "AGT International", 
+  "canFollow": false, 
+  "companyId": "61784", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "AGT International", 
+    "title": "Semantic Data Scientist"
+  }, 
+  "description": "We are strengthening our Data Analytics team in our international R&amp;D center in Darmstadt,  Germany and are looking for Semantic Data Scientists with experience in implementing data management systems.  You will contribute your skills and knowledge as part of an inter-disciplinary,  highly dynamic global team.    Responsibilities Design and implementation of innovative data management modules and analytics based on semantic technologies (proof of concept implementations,  experiments and prototypes) Applying existing state-of-the art semantic technologies to Big Data sets and infrastructures Building value propositions from requirements and idea creation to delivery of prototypes and intellectual property Execution on research and technology transfer projects,  including rapid transfer of knowledge and results to Scrum software development teams Active collaboration with peer multidisciplinary teams,  software development,  solution engineers,  product management and product/solution marketing experts,  as well as external partners and subcontractors Collaboration with customers,  academic and industrial partners,  and enhancement of network of collaborators Communication of results and activities to senior internal and external audience"
+}

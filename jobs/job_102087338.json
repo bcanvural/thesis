@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "NICE Systems", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "drushim-9937231", 
+    "title": "Big Data – Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102087338, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      4
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. nice. com", 
+    "logo": "urn:li:media:/p/2/000/07c/083/3c9c308. png", 
+    "universalName": "nice-systems", 
+    "companyId": 4728
+  }, 
+  "description": "    NICEIf you are big technology fan that gets excited by billions of    transactions and petabytes of data,  this is the challenge you've been    looking for!    We are looking for highly talented,  hands on person,  who is excited    about building innovative products that analyze large amount of data    collected by an organization to generate insights,  by correlating data    pieces together.     In this role you will be working with the customer data feed that our    product is getting.  You will be responsible for generating business    value for customers using the NICE product.  You will work closely with    both the product-house and the customers’ team to define the    interesting questions and insights.  Once defined,  you’ll be responsible    to implement them as part of the product roll out,  maximizing the value    that the system can yield for each customer.     Responsibilities    Partner with product and implementation team,  bridging between the    customer requirements and CEA Product    Learn the customers’ business and fulfill the requirements by    translating them into Data Model & Business Rules in the CEA product    Utilizing various tools and techniques (hands-on) to slice & dice the    data to extract insights and links    Execute and support product POCs for new Customers    Job Requirements:    Education    B. Sc.  degree in Computer Science /Software Engineering/Information    Management    Requirements    At least 3 years of experience working on similar problems in the    industry    Experienced in data manipulation,  statistical analysis,  and analytical    problem solving    Proficient in preferably R or other statistical software package    Hands on experience with SQL (advanced SQL - an advantage)    Knowledge of a scripting language such as Python / Ruby / Bash    Big Data Experience - Advantage    Experience with SCRUM/Agile methodologies – an advantage    Excellent interpersonal skills    Ability to work under high pressure    High attention to details and accuracy    Team Player    Good English    Ability to perform under pressure and changing priorities    Self-starter,  autodidactic    Required Experience:    3-4 שנים    Locations:מרכז,  צפון,  השרון    Sub Categories:Big Data,  Python,  Ruby on Rails", 
+  "companyDescription": "      NICE Systems    NICE Systems (NASDAQ: NICE) is the worldwide leading provider of    software solutions that enable organizations to take the next best    action in order to improve customer experience and business results,     ensure compliance,  fight financial crime,  and safeguard people and    assets.  NICE’s solutions empower organizations to capture,  analyze,  and    apply,  in real time,  insights from both structured and unstructured Big    Data.  This data comes from multiple sources,  including phone calls,     mobile apps,  emails,  chat,  social media,  video,  and transactions.  NICE    solutions are used by over 25, 000 organizations in more than 150    countries,  including over 80 of the Fortune 100 companies.     www. nice. com. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

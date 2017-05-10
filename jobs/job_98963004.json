@@ -1,0 +1,467 @@
+{
+  "jobPosting": {
+    "companyJobCode": "fastrecruitmentwebsites-big-wednesday-1689", 
+    "expirationDate": 1451973912000, 
+    "title": "Data Scientist TH-Bangkok", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2095, 
+          "type": "BR", 
+          "endIdx": 2095, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2095, 
+          "type": "BR", 
+          "endIdx": 2095, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1978, 
+          "type": "BR", 
+          "endIdx": 1978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1978, 
+          "type": "BR", 
+          "endIdx": 1978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1828, 
+          "type": "BR", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "LI", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1773, 
+          "type": "LI", 
+          "endIdx": 1804, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1741, 
+          "type": "LI", 
+          "endIdx": 1773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1714, 
+          "type": "LI", 
+          "endIdx": 1741, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1661, 
+          "type": "LI", 
+          "endIdx": 1714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1645, 
+          "type": "LI", 
+          "endIdx": 1661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1542, 
+          "type": "LI", 
+          "endIdx": 1645, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "LI", 
+          "endIdx": 1542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "BG", 
+          "endIdx": 1828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "BR", 
+          "endIdx": 1517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "U", 
+          "endIdx": 1517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "B", 
+          "endIdx": 1517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1500, 
+          "type": "BR", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1469, 
+          "type": "LI", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1439, 
+          "type": "LI", 
+          "endIdx": 1469, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1415, 
+          "type": "LI", 
+          "endIdx": 1439, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "LI", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "LI", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1229, 
+          "type": "LI", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1174, 
+          "type": "LI", 
+          "endIdx": 1229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1099, 
+          "type": "LI", 
+          "endIdx": 1174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1078, 
+          "type": "LI", 
+          "endIdx": 1099, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "LI", 
+          "endIdx": 1078, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 944, 
+          "type": "LI", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "LI", 
+          "endIdx": 944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "BG", 
+          "endIdx": 1500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "BR", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "U", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "B", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "BR", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "BR", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 764, 
+          "type": "LI", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 694, 
+          "type": "LI", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "LI", 
+          "endIdx": 694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BG", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BR", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "U", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "B", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "BR", 
+          "endIdx": 614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "BR", 
+          "endIdx": 614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "U", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "B", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "BR", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 431, 
+          "type": "BR", 
+          "endIdx": 431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 174, 
+          "type": "BR", 
+          "endIdx": 174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 174, 
+          "type": "BR", 
+          "endIdx": 174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "U", 
+          "endIdx": 174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "B", 
+          "endIdx": 174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "BR", 
+          "endIdx": 167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "BR", 
+          "endIdx": 167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 129, 
+          "type": "BR", 
+          "endIdx": 129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 117, 
+          "type": "BR", 
+          "endIdx": 117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 117, 
+          "type": "BR", 
+          "endIdx": 117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "DescriptionData Scientist (Bangkok) - FULL RELOCATION AND VISA SPONSORSHIP AVAILABLE - Enjoy great Tax breaks abroad!PLEASE NOTE:THIS ROLE IS FOR RELCOATION TO BANGKOKCompanyOur client is the largest and fastest growing online hotel booking platform in Asia.  With world class talent from over 65 countries,  the atmosphere of a start-up and the muscle of a $bn business,  this company is an incredible technical creative melting pot. RoleAs a Data Scientist you will be in involved in helping maintain our client's growth working with an incredible amount of data and leveraging the firm's superior IT infrastructure. ResponsibilitiesWork with the business domains to help shape the right questionsDevelop predictive models and algorithms to support business decisionsMine large &amp; growing volumes of data to find actionable insights to drive ongoing improvements RequirementsAt least 3 years working as a statistician / analyst / data scientistAt least a BSc in Statistics / Economics / Computer Science / FinanceGood knowledge of what's \"Under the hood\" of statistical methods. Good knowledge of SQLProficiency in at least 1 scripting/programming language (Python/Perl/Java)Mastery of a statistical software environment such as RA strong desire to learnThe desire to keep up with the latest technologies and stay ahead of the curveGreat communication and interpersonal skills; a good sense of humor is always a plusMindset of a team playerIndependent and quick learner Happy to work either in BangkokOur Client OffersCompetitive annual salaryCompelling income tax breaks for international candidates with a degree and a min of 5 years experienceMedical coverageDiscounted hotel accommodation; anywhere in the worldExposure to travel industryCareer advancement opportunitiesWork environment: multinationalDress code: smart casualWe welcome both local and international applications for this role.  Full visa sponsorship and relocation assistance available for eligible candidates. If you are a Data Scientist and this role appeals to you we want to hear from you straight away.  Send us your CV now. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Big Wednesday", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Big Wednesday Digital Limited is a Staffing and Recruiting company located in First Floor 2 Woodberry Grove North Finchley,  London,  United Kingdom. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447660975000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:4274322", 
+    "id": 98963004, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "canonicalName": "Big Wednesday Digital Limited", 
+    "localizedDescription": "Big Wednesday Digital Limited is a Staffing and Recruiting company located in First Floor 2 Woodberry Grove North Finchley,  London,  United Kingdom. ", 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "hasPaidLcp": false, 
+    "company": {
+      "universalName": "big-wednesday-digital-limited", 
+      "companyId": 4274322
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98963004?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. big-wednesday. com%2Fjob-search%2F1689-data-scientist-th-bangkok%2Ftechnology%2Fit%2Funited-kingdom%2Fjob&urlHash=CZGR&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

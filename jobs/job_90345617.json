@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90345617", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Candidates should meet the following requirements: 5+ years of relevant work experience - statistical tools,  applied mathematics,  machine learning,  data manipulation or quantitative research A strong desire to learn everything about the company and make a difference Being creative,  open-minded and bottom-up oriented Experience with graph databases - an advantage Strong coding background - preferably Python/R", 
+  "following": false, 
+  "companyDescription": "Simplex enables crypto-currencies exchanges to accept credit cards at no chargeback risk.    This is achieved by utilizing our fraud analysis and risk management fraud detection years-long experience along with unique understanding of the crypto-currency protocol in its context.    The solution expands the total addressable market of bitcoin by orders of magnitude while accumulating priceless user and identity data and associate with the pseudo anonymous environment. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "SimplexCC", 
+  "canFollow": false, 
+  "companyId": "5174336", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "SimplexCC", 
+    "title": "Lead Data Scientist "
+  }, 
+  "description": "Simplex processes payments with two unique specializations - fraud prevention and bitcoin,  and our data science needs are as big and as challenging as one could expect: Tons of data of all kinds - internal,  external,  behavioral and more A long list of features (past,  present and future)  handling various kinds of attack vectors Real-time models which not only detect fraud,  but determine the customer experience,  flow and messaging Highly advanced features derived from the bitcoin blockchain - an open,  anonymous ledger which contains all bitcoin transactions ever made as our very first lead data scientist,  you’ll: Influence and change everything - automated systems,  data sources,  UI/UX and more Extract as much as you can from the most attractive new data source on the planet - the bitcoin blockchain Create,  build and implement state-of-the-art automated fraud mitigation solutions Handle various types of data - some of it tagged,  some of it structured,  all of it challenging Innovate your way to the best possible solution Mentor the analysts with best practices of data science and feature creation"
+}

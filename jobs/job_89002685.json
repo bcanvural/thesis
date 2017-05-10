@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89002685", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Development on the JVM using Scala and possibly other JVM languages,  knowledge of Python or R is a bonus.  Experience with Spark,  or the Hadoop ecosystem and similar frameworks.  Familiarity with tools such as AWS,  Mesos or Docker and an instinct for automation.  Agile experience with Scrum/Kanban/XP.  Experience with agile engineering practices such as TDD,  Pair Programming,  Continuous Integration,  automated testing and deployment.  Web service development using frameworks such as Dropwizard,  Scalatra,  Hysterix or similar.  A positive,  constructive approach with an emphasis on collaboration and good execution. ", 
+  "following": false, 
+  "companyDescription": "Functional Works is the first Functional Programming recruitment specialist in the world.  Working with only the top percentile of tech talent and visionary companies to place technologists driving business growth.  We focus all our efforts on providing an outstanding service to our clients and candidates where we become a trusted advisor by building lasting relationships with both.   Functional Programming - Clojure,  Haskell,  F#,  Scala,  Erlang,  Lisp,  OCaml and Hume.   Big Data - Hadoop ,  Mongodb ,  Hive,  Redis,  Pig,  Git etc.   Data Scientists/Scientific Engineers - Text Mining, Data Mining and Machine learning.   Development Technologies - C++,  C# (WCF, Winforms,  WPF, Silverlight),  Core Java/J2EE,  Unix/Windows,  Sybase,  Oracle,  SQL,  HPC Grid Technologies,  Excel/VBA,  Web Tech (Javascript, HTML5, CSS3) , KDB and NoSQL.   We are striving to build something amazing,  we want to work on hard,  interesting problems,  and to surround ourselves with the brightest technology professionals in the world.  We want our clients and candidates to challenge us,  but that’s what makes it fun - so get in touch!", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Functional Works", 
+  "canFollow": false, 
+  "companyId": "3504222", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Functional Works", 
+    "title": "Senior Big Data Engineer - Scala - Spark"
+  }, 
+  "description": "We are seeking talented and self-motivated Data Developers at all levels with an interest in big data and technologies such as Spark,  Scala and the Hadoop ecosystem.  You will be joining a new and fast- growing agile team in our London offices to help design and build a new way of working with big data.  This is an exciting opportunity to play a leading role in changing the way that data based products are delivered within the company,  devising and implementing a modern approach to software engineering that enables people throughout the company to take advantage of one of the worlds broadest collections of scientific literature.  You will be enthusiastic about engineering quality and be interested in sharing good practices within the team and the company as a whole.  Developing applications that exploit a unique collection of scientific data.  Building a cloud based platform that allows easy development of new applications.  Integrate with wider systems to make data easily available to others.  Take advantage of techniques such as test-driven development,  pair programming and continuous delivery.  Work with Product Managers ensure software is high quality and meets user requirements. "
+}

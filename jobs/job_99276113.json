@@ -1,0 +1,573 @@
+{
+  "jobPosting": {
+    "companyJobCode": "xerox-1292031", 
+    "expirationDate": 1451729081000, 
+    "title": "Research Scientist: Applied Machine Learning and Data Science", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2601, 
+          "type": "BR", 
+          "endIdx": 2601, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2601, 
+          "type": "BR", 
+          "endIdx": 2601, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2558, 
+          "type": "BR", 
+          "endIdx": 2558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2558, 
+          "type": "BR", 
+          "endIdx": 2558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2453, 
+          "type": "BR", 
+          "endIdx": 2453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2453, 
+          "type": "BR", 
+          "endIdx": 2453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2453, 
+          "type": "BR", 
+          "endIdx": 2453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2453, 
+          "type": "BR", 
+          "endIdx": 2453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2433, 
+          "type": "B", 
+          "endIdx": 2453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2433, 
+          "type": "BR", 
+          "endIdx": 2433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2433, 
+          "type": "BR", 
+          "endIdx": 2433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2432, 
+          "type": "BR", 
+          "endIdx": 2432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2432, 
+          "type": "BR", 
+          "endIdx": 2432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2240, 
+          "type": "BR", 
+          "endIdx": 2240, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2240, 
+          "type": "BR", 
+          "endIdx": 2240, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2172, 
+          "type": "BR", 
+          "endIdx": 2172, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2172, 
+          "type": "BR", 
+          "endIdx": 2172, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2061, 
+          "type": "BR", 
+          "endIdx": 2061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2061, 
+          "type": "BR", 
+          "endIdx": 2061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1837, 
+          "type": "BR", 
+          "endIdx": 1837, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1837, 
+          "type": "BR", 
+          "endIdx": 1837, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1835, 
+          "type": "BR", 
+          "endIdx": 1835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1835, 
+          "type": "BR", 
+          "endIdx": 1835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1829, 
+          "type": "B", 
+          "endIdx": 1835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1829, 
+          "type": "BR", 
+          "endIdx": 1829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1829, 
+          "type": "BR", 
+          "endIdx": 1829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1826, 
+          "type": "BR", 
+          "endIdx": 1826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1826, 
+          "type": "BR", 
+          "endIdx": 1826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1803, 
+          "type": "B", 
+          "endIdx": 1826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1803, 
+          "type": "BR", 
+          "endIdx": 1803, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1803, 
+          "type": "BR", 
+          "endIdx": 1803, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1796, 
+          "type": "BR", 
+          "endIdx": 1796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1796, 
+          "type": "BR", 
+          "endIdx": 1796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1782, 
+          "type": "B", 
+          "endIdx": 1796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1782, 
+          "type": "BR", 
+          "endIdx": 1782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1782, 
+          "type": "BR", 
+          "endIdx": 1782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1773, 
+          "type": "BR", 
+          "endIdx": 1773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1773, 
+          "type": "BR", 
+          "endIdx": 1773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1761, 
+          "type": "B", 
+          "endIdx": 1773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1761, 
+          "type": "BR", 
+          "endIdx": 1761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1761, 
+          "type": "BR", 
+          "endIdx": 1761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1731, 
+          "type": "BR", 
+          "endIdx": 1731, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1731, 
+          "type": "BR", 
+          "endIdx": 1731, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1715, 
+          "type": "B", 
+          "endIdx": 1731, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1715, 
+          "type": "BR", 
+          "endIdx": 1715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1715, 
+          "type": "BR", 
+          "endIdx": 1715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1689, 
+          "type": "BR", 
+          "endIdx": 1689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1689, 
+          "type": "BR", 
+          "endIdx": 1689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1686, 
+          "type": "B", 
+          "endIdx": 1689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1686, 
+          "type": "BR", 
+          "endIdx": 1686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1686, 
+          "type": "BR", 
+          "endIdx": 1686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1422, 
+          "type": "BR", 
+          "endIdx": 1422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1422, 
+          "type": "BR", 
+          "endIdx": 1422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 790, 
+          "type": "BR", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 790, 
+          "type": "BR", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 790, 
+          "type": "BR", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 790, 
+          "type": "BR", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 769, 
+          "type": "B", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 769, 
+          "type": "BR", 
+          "endIdx": 769, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 769, 
+          "type": "BR", 
+          "endIdx": 769, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "BR", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "BR", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "BR", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "BR", 
+          "endIdx": 768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "BR", 
+          "endIdx": 285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "BR", 
+          "endIdx": 285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "BR", 
+          "endIdx": 285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 285, 
+          "type": "BR", 
+          "endIdx": 285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 272, 
+          "type": "B", 
+          "endIdx": 285, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 272, 
+          "type": "BR", 
+          "endIdx": 272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 272, 
+          "type": "BR", 
+          "endIdx": 272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 271, 
+          "type": "BR", 
+          "endIdx": 271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 271, 
+          "type": "BR", 
+          "endIdx": 271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 34, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "PARC’s Scalable Data Analytics Lab in Rochester,  NY is looking for a machine learning scientist interested in designing and developing novel algorithms,  statistical models and state-of-the-art analytic solutions that have direct and measurable impact for PARC and Xerox.   About the JobOur work for Xerox Services as well as commercial and government clients requires analyzing diverse data sets and leveraging machine learning research to address a wide range of business problems (e. g.  in healthcare,  transportation and customer experience management).  This scientist will have the opportunity to work with researchers,  business managers and leaders to help identify strategic research directions and viable opportunities as well as help deliver impactful solutions.   Role/Responsibilities·         Work with a diverse set of data sources,  such as time series data,  spatial,  graph data,  semi-structured and unstructured data,  and build statistical/machine-learning models in support of on-demand,  real-time analytic services. ·         Research,  design and prototype novel models based on machine learning,  data mining,  and statistical modeling in order to solve hard analytics problems,  where the problems may range from exploratory to highly applied.  ·         Keep abreast of the latest developments in the field by continuous learning and proactively championing promising new methods relevant to current challenges.   ·         Collaborate closely with university partners,  other scientists and engineers in a multi-disciplinary work environment.  ·         Work with existing “intrapreneurship” and business teams to develop and help commercialize highly adaptive and robust models. JobResearch &amp; DevelopmentPrimary LocationUnited States-New York-WebsterOrganizationPARC EastUnposting DateOngoingVirtual/work from home?YesTravelNo·         A Ph. D.  in computer-science or related field with deep knowledge of the fundamentals of machine learning,  data mining and statistical predictive modeling and with a strong record of scholarship or entrepreneurship. ·         Strong knowledge and skills in rapid prototype programming languages,  such as Python,  Java,  and/or R. ·         Ability and inclination to see ideas realized in practice. ·         Strong analytical,  written and verbal communication skills,  including the ability to explain and interpret the analytic models and outcomes in both research and application contexts.  Desirable Experience·         Proficiency in publicly available data analytics toolkits (such as Scikit-Learn,  Mallet,  etc. ). ·          Deep Learning methods and tools. ·         Experience in manipulating and analyzing large data sets using existing Big Data technologies such as Hadoop and other high performance computing platforms. "
+    }, 
+    "postalCode": "10001", 
+    "jobState": "LISTED", 
+    "companyName": "Xerox", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Xerox is helping change the way the world works.  By applying our expertise in imaging,  business process,  analytics,  automation and user-centric insights,  we engineer the flow of work to provide greater productivity,  efficiency and personalization.  We conduct business in 180 countries,  and our more than 130, 000 employees create meaningful innovations and provide business process services, printing equipment,  software and solutions that make a real difference for our clients – and their customers. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447764789000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:1373", 
+    "id": 99276113, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "New York City,  NY,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "Xerox is helping change the way the world works.  By applying our expertise in imaging,  business process,  analytics,  automation and user-centric insights,  we engineer the flow of work to provide greater productivity,  efficiency and personalization.  We conduct business in 180 countries,  and our more than 130, 000 employees create meaningful innovations and provide business process services, printing equipment,  software and solutions that make a real difference for our clients – and their customers. ", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAcTAAAAJDRhZTdlZjA5LTg5NWUtNGNiZC05NzczLTU0YjQ0NDYwNWNlZg. png"
+    }, 
+    "canonicalName": "Xerox", 
+    "company": {
+      "specialities": [
+        "BPO", 
+        "Document Management", 
+        "Finance and Accounting Services", 
+        "Managed Print Services", 
+        "Healthcare Services", 
+        "HR Services", 
+        "Government Services", 
+        "Customer Care", 
+        "Transportation Services", 
+        "Printers", 
+        "Graphics Communications", 
+        "Multifunction Systems"
+      ], 
+      "universalName": "xerox", 
+      "companyId": 1373, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/3/005/093/34b/09f6f60. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanyType": "Public Company", 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99276113?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fxerox. taleo. net%2Fcareersection%2Fxerox_shared_external_portal%2Fjobdetail. ftl%3Fjob%3D1292031&urlHash=eExt&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

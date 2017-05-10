@@ -1,0 +1,419 @@
+{
+  "jobPosting": {
+    "companyJobCode": "smartrecruiters_xml-103774487-87316885", 
+    "expirationDate": 1451188976000, 
+    "title": "Italian speaking Web Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1888, 
+          "type": "BR", 
+          "endIdx": 1888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1888, 
+          "type": "BR", 
+          "endIdx": 1888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1758, 
+          "type": "BR", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1758, 
+          "type": "BR", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1584, 
+          "type": "BR", 
+          "endIdx": 1584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1584, 
+          "type": "BR", 
+          "endIdx": 1584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1576, 
+          "type": "B", 
+          "endIdx": 1584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1576, 
+          "type": "BR", 
+          "endIdx": 1576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1576, 
+          "type": "BR", 
+          "endIdx": 1576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1554, 
+          "type": "BR", 
+          "endIdx": 1554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1554, 
+          "type": "BR", 
+          "endIdx": 1554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1518, 
+          "type": "LI", 
+          "endIdx": 1554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1450, 
+          "type": "LI", 
+          "endIdx": 1518, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1407, 
+          "type": "LI", 
+          "endIdx": 1450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1371, 
+          "type": "LI", 
+          "endIdx": 1407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "LI", 
+          "endIdx": 1371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1249, 
+          "type": "LI", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1205, 
+          "type": "LI", 
+          "endIdx": 1249, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1147, 
+          "type": "LI", 
+          "endIdx": 1205, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1147, 
+          "type": "BG", 
+          "endIdx": 1554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1147, 
+          "type": "BR", 
+          "endIdx": 1147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1118, 
+          "type": "B", 
+          "endIdx": 1147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1118, 
+          "type": "BR", 
+          "endIdx": 1118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1118, 
+          "type": "BR", 
+          "endIdx": 1118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1076, 
+          "type": "LI", 
+          "endIdx": 1103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1051, 
+          "type": "LI", 
+          "endIdx": 1076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1014, 
+          "type": "LI", 
+          "endIdx": 1051, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 999, 
+          "type": "LI", 
+          "endIdx": 1014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 963, 
+          "type": "LI", 
+          "endIdx": 999, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 865, 
+          "type": "LI", 
+          "endIdx": 963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 836, 
+          "type": "LI", 
+          "endIdx": 865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 812, 
+          "type": "LI", 
+          "endIdx": 836, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 812, 
+          "type": "BG", 
+          "endIdx": 1103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 812, 
+          "type": "BR", 
+          "endIdx": 812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "B", 
+          "endIdx": 812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "BR", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 787, 
+          "type": "BR", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "LI", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 721, 
+          "type": "LI", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 672, 
+          "type": "LI", 
+          "endIdx": 721, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 646, 
+          "type": "LI", 
+          "endIdx": 672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "LI", 
+          "endIdx": 646, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 556, 
+          "type": "LI", 
+          "endIdx": 614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "LI", 
+          "endIdx": 556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BG", 
+          "endIdx": 787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BR", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "B", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Description Due to continued growth within the business,   we are looking for a new addition to the team to take responsibility of the Italian speaking markets.  You will be in charge of the management and development of the Italian websites and apps.  The job requires a fast-learning individual that will work as a vital member of the team,  and also work independently,  taking ownership and responsibility of the markets and products. ResponsibilitiesResearching,  adding and configuring online data sources for inclusion in the search engine;Monitoring and continually quality-controlling online ads;Content and quality improvement;Management of our systems;Proposing improvements to products and processes;Reporting issues;Proposing solutions and following up on progress;Compensation And BenefitsCompetitive basic salaryAttractive sales commissions. Annual pay raise scheme based on employee&apos;s initiative,  conscientiousness and quality of workHealth Insurance and Pension schemes25 days holidayInsight into search engine technologyMulticultural environmentCareer growth opportunities QualificationsThe Ideal Candidate Will HaveOutstanding written and oral skills in Italian and EnglishStrong computer literacy and internet skillsA bachelor degree and/or solid professional experience in a similar position;A passion for all things internet and mobile;Analytical and technical proficiencyFast-learner,  autonomous and well-organisedDetail-oriented,  with excellent problem-solving and follow-up skillsTeam player with a positive attitudeAdditional InformationTo ApplyIf you think you are the right candidate,  send us your CV and a cover letter detailing the key skills and experiences that will make you the best applicant for this position. For administrative purposes,  ALL applicants please indicate in your e-mail whether you currently have the right to work in the UK. Careerjet is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Careerjet", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. With over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. Launched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). Evolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. Here at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447936706000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:137242", 
+    "id": 99851301, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. \rWith over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. \r\rLaunched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). \r\rEvolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. \r\rHere at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/15d/0ae/1ffd119. png"
+    }, 
+    "company": {
+      "specialities": [
+        "search engine", 
+        "jobs", 
+        "internet", 
+        "advertising", 
+        "software development"
+      ], 
+      "universalName": "careerjet", 
+      "companyId": 137242
+    }, 
+    "canonicalName": "Careerjet", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99851301?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FCareerjet%2F87316885-italian-speaking-web-data-analyst&urlHash=ldAv&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

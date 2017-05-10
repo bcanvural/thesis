@@ -1,0 +1,364 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-dk7hU8KVyr5ivriGalkWKP", 
+    "expirationDate": 1451783777000, 
+    "title": "Data scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3318, 
+          "type": "BR", 
+          "endIdx": 3318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3318, 
+          "type": "BR", 
+          "endIdx": 3318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3167, 
+          "type": "BR", 
+          "endIdx": 3167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3167, 
+          "type": "BR", 
+          "endIdx": 3167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3159, 
+          "type": "B", 
+          "endIdx": 3167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3159, 
+          "type": "BR", 
+          "endIdx": 3159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3159, 
+          "type": "BR", 
+          "endIdx": 3159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3158, 
+          "type": "BR", 
+          "endIdx": 3158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3104, 
+          "type": "LI", 
+          "endIdx": 3157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3047, 
+          "type": "LI", 
+          "endIdx": 3103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2995, 
+          "type": "LI", 
+          "endIdx": 3046, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2944, 
+          "type": "LI", 
+          "endIdx": 2994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2894, 
+          "type": "LI", 
+          "endIdx": 2943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2858, 
+          "type": "LI", 
+          "endIdx": 2893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2858, 
+          "type": "BG", 
+          "endIdx": 3158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2858, 
+          "type": "BR", 
+          "endIdx": 2858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2849, 
+          "type": "B", 
+          "endIdx": 2858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2849, 
+          "type": "BR", 
+          "endIdx": 2849, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2849, 
+          "type": "BR", 
+          "endIdx": 2849, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2848, 
+          "type": "BR", 
+          "endIdx": 2848, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2803, 
+          "type": "LI", 
+          "endIdx": 2847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2737, 
+          "type": "LI", 
+          "endIdx": 2802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2631, 
+          "type": "LI", 
+          "endIdx": 2736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2533, 
+          "type": "LI", 
+          "endIdx": 2630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2461, 
+          "type": "LI", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2252, 
+          "type": "LI", 
+          "endIdx": 2460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2116, 
+          "type": "LI", 
+          "endIdx": 2251, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2116, 
+          "type": "BG", 
+          "endIdx": 2848, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2116, 
+          "type": "BR", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2101, 
+          "type": "B", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2101, 
+          "type": "BR", 
+          "endIdx": 2101, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2101, 
+          "type": "BR", 
+          "endIdx": 2101, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2010, 
+          "type": "BR", 
+          "endIdx": 2010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2010, 
+          "type": "BR", 
+          "endIdx": 2010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1620, 
+          "type": "BR", 
+          "endIdx": 1620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1620, 
+          "type": "BR", 
+          "endIdx": 1620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BR", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1405, 
+          "type": "BR", 
+          "endIdx": 1405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "BR", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "BR", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Mezzobit is a New York City-based start-up that's building a revolutionary platform that will change how data is exchanged on the Internet.  We empower digital publishers,  e-commerce sites,  and brand marketers to understand and control how third-party data collectors interact with their on-line audiences.  Mezzobit is gathering information that's never been seen before on this scale regarding how data flows through the Internet. We're assembling an expert team in New York and Krakow to tackle these problems,  and are looking for a Senior Data Scientist to make sense of the 100+ billion daily transactions we expect to process by year's end.  By developing insights into how data collectors operate,  the data scientist will enable Mezzobit to help enterprise customers better control how their audiences are treated.  Additionally,  we dream of an Internet where consumer privacy is treated with the highest respect -- a future state supported by Mezzobit’s drive to bring greater transparency to this opaque world. Among the areas into which the data scientist will lead research include: identifying data collection and user tracking anomalies; detecting non-human web traffic fraud; modeling data leakage and Internet economics; architecting expert systems to systemize customer business knowledge; and developing metrics to monitor how data collectors comply with consumer privacy standards. Through this work,  the data scientist also will develop into a global thought leader on data mechanics on the Internet,  and will present research at industry conferences,  publish papers,  and interact with the media. The data scientist will also work with engineering to support the extension of our data processing and analytics platform,  which utilizes node. js,  MongoDB,  Express and AngularJS (MEAN stack),  along with Golang,  Kafka,  Amazon RedShift,  and Hadoop/Storm.  The data scientist will frequently get his/her hands dirty with these technologies as part of collecting,  transforming,  and loading data. The data scientist also will help build and lead a groundbreaking global data science team. Required SkillsMasters or PhD in a technical discipline (e. g. ,  mathematics,  physics,  statistics,  electrical engineering,  computer science,  or similar) 5+ years of hands-on experience with machine learning,  predictive modeling,  and statistical analysis techniques in a business environment.  Experience with digital media,  analytics,  or advertising a huge plus.  Experience working with very large datasets with trillions of elements.  Strong skills in data manipulation and analysis using a language Python,  Scala,  R,  J,  or similar.  Hands-on experience using the Hadoop stack or related technologies,  as well as SQL and noSQL data stores.  Proven ability to collaborate with engineering and product teams.  Excellent written and spoken English skills.   PreferredWork in an Agile/Scrum environment.  Experience with high-growth technology companies.  Experience working with globally distributed team.  Background in data science concepts and statistics.  Experience mentoring and recruiting junior team members.  Prior experience in presenting work in public forums.   To applySubmit your resume and attach a short cover note (no more than 300 words) that tells us why you’re a good fit for this position.  No recruiters,  please. "
+    }, 
+    "postalCode": "30146", 
+    "jobState": "LISTED", 
+    "companyName": "Mezzobit", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Mezzobit increases the value of online visitors by giving digital publishers and marketers unprecedented control over third-party data collection and tracking. Our Audience Value Platform (AVP) acts like a data firewall,  empowering digital enterprises to choose what's tracked and shared about visitors,  stopping revenue-sapping data leakage. AVP's high ROI transcends verticals: publishers can safely use programmatic,  marketers can stop competitors from using their own data to lure away customers,  and regulated industries can reduce compliance risks while aggressively using digital marketing. More than 1, 000 sites are powered by Mezzobit or will go live soon,  including Fast Company,  New York Review of Books,  HitFix,  and Tampa Bay Times. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1442747416000, 
+    "countryCode": "pl", 
+    "company": "urn:li:company:3111517", 
+    "id": 86626630, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Kraków,  PL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/86626630?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fmezzobit%2Fdata-scientist%2Fdk7hU8KVyr5ivriGalkWKP%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=c5kr&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 76 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "76d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2013, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/000/250/3ef/06b4fbd. png"
+    }, 
+    "localizedDescription": "Mezzobit increases the value of online visitors by giving digital publishers and marketers unprecedented control over third-party data collection and tracking. \r\rOur Audience Value Platform (AVP) acts like a data firewall,  empowering digital enterprises to choose what's tracked and shared about visitors,  stopping revenue-sapping data leakage. \r\rAVP's high ROI transcends verticals: publishers can safely use programmatic,  marketers can stop competitors from using their own data to lure away customers,  and regulated industries can reduce compliance risks while aggressively using digital marketing. \r\rMore than 1, 000 sites are powered by Mezzobit or will go live soon,  including Fast Company,  New York Review of Books,  HitFix,  and Tampa Bay Times. ", 
+    "company": {
+      "specialities": [
+        "Big Data", 
+        "Data interchange", 
+        "Business intelligence", 
+        "Privacy", 
+        "Data leakage", 
+        "Ad technology"
+      ], 
+      "universalName": "mezzobit", 
+      "companyId": 3111517, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/250/3ee/2b83fff. png"
+      }
+    }, 
+    "canonicalName": "Mezzobit", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "September 20,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

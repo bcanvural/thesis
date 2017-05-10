@@ -1,0 +1,416 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-oMeY1fwJ", 
+    "expirationDate": 1451956786000, 
+    "title": "Data Engineer/Scientist (m/f) for a FinLeap Venture", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2756, 
+          "type": "BR", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2756, 
+          "type": "BR", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2692, 
+          "type": "B", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2691, 
+          "type": "BR", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2665, 
+          "type": "LI", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2589, 
+          "type": "LI", 
+          "endIdx": 2665, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2504, 
+          "type": "LI", 
+          "endIdx": 2589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2435, 
+          "type": "LI", 
+          "endIdx": 2504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2368, 
+          "type": "LI", 
+          "endIdx": 2435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2310, 
+          "type": "LI", 
+          "endIdx": 2368, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2239, 
+          "type": "LI", 
+          "endIdx": 2310, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2153, 
+          "type": "LI", 
+          "endIdx": 2239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1971, 
+          "type": "LI", 
+          "endIdx": 2153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1899, 
+          "type": "LI", 
+          "endIdx": 1971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1899, 
+          "type": "BG", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1899, 
+          "type": "BR", 
+          "endIdx": 1899, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1881, 
+          "type": "B", 
+          "endIdx": 1899, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1881, 
+          "type": "BR", 
+          "endIdx": 1881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1881, 
+          "type": "BR", 
+          "endIdx": 1881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1880, 
+          "type": "BR", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1790, 
+          "type": "LI", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1713, 
+          "type": "LI", 
+          "endIdx": 1790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1658, 
+          "type": "LI", 
+          "endIdx": 1713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1594, 
+          "type": "LI", 
+          "endIdx": 1658, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1519, 
+          "type": "LI", 
+          "endIdx": 1594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1476, 
+          "type": "LI", 
+          "endIdx": 1519, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1426, 
+          "type": "LI", 
+          "endIdx": 1476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1374, 
+          "type": "LI", 
+          "endIdx": 1426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "LI", 
+          "endIdx": 1374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1251, 
+          "type": "LI", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1194, 
+          "type": "LI", 
+          "endIdx": 1251, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1194, 
+          "type": "BG", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1194, 
+          "type": "BR", 
+          "endIdx": 1194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1182, 
+          "type": "U", 
+          "endIdx": 1194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1182, 
+          "type": "B", 
+          "endIdx": 1194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1182, 
+          "type": "BR", 
+          "endIdx": 1182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1182, 
+          "type": "BR", 
+          "endIdx": 1182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1181, 
+          "type": "BR", 
+          "endIdx": 1181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1098, 
+          "type": "LI", 
+          "endIdx": 1181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1036, 
+          "type": "LI", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 935, 
+          "type": "LI", 
+          "endIdx": 1036, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "LI", 
+          "endIdx": 935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 698, 
+          "type": "LI", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 627, 
+          "type": "LI", 
+          "endIdx": 698, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 627, 
+          "type": "BG", 
+          "endIdx": 1181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 627, 
+          "type": "BR", 
+          "endIdx": 627, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "U", 
+          "endIdx": 627, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "B", 
+          "endIdx": 627, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "BR", 
+          "endIdx": 618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "BR", 
+          "endIdx": 618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " FinLeap is a fintech company builder based in Berlin with the mission to reshape the financial services industry by empowering entrepreneurs to build impactful,  technology-enabled and customer-centric companies.  FinLeap provides entrepreneurs with 0. 5 - 5 million euro in seed funding and further contacts to a strong network of investors.  As an industry-specific startup factory with a team of experienced fintech experts,  FinLeap enables founders to focus on executing business ideas by also giving them access to top talent,  integrated services,  best-practice processes and financial industry expertise. Your RoleYou create concepts of data flows and you create underlying data modelsYou design and help implement data-related system and software solutions and take ownership for projects related to building data-related technical infrastructure and productYou contribute to product vision from a technical point of viewYou contribute to the strategic decision making of the company related to system architecture or dataYou manage goals &amp; expectations both upwards and downwardsYou will also take over other typical development,  planning or organizational tasks Your Profile3+ years of experience in machine learning or data miningGood knowledge in statistics and mathematicsPrevious practical experience in IT,  engineering or related fields is preferredExperience in data bases and data modeling is a plusExperience with Python or other language is a plusAbility to Work independently and in a teamExcellent communication skills,  fluent in English (German is not mandatory)Demonstrated capability to excel in a performance driven cultureDemonstrate strong technical and problem solving skillsAbility to manage your tasks independently and proactively bring in new ideasBSc or Master in IT,  Computer Science,  Mathematics,  Physics,  Engineering or related fields What do we offer? You get to work with industry experienced IT- and business-professionalsYou can take over responsibility in a new fintech company and contribute to the further growth with the possibility of leading a team of highly skilled people within less than 1 yearYou get a rewarding career where you continuously grow in a performance driven cultureYou get access to a well-established network in Berlin’s start-up sceneYou enjoy a competitive remuneration package and much moreYou work with a highly motivated and skilled team of top performersYou have the opportunity to attend German classes and numerous eventsYou get support in relocation,  work permit,  and other administrative issues if neededYou work in the start-up centre of Berlin-Mitte,  the European Silicon ValleyEnjoy a competitive salary Interested? - Submit your CV along with your Git Account Online!"
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "HitFox GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "HitFox is a global company builder focused on AdTech,  Big Data,  and FinTech founded in 2011.  Today over 400 professionals from 45 nationalities are shaping emerging digital industries from Berlin and the group’s international offices.  HitFox offers career opportunities for both experienced entrepreneurs and ambitious talent.  If you have founded before,  or bring with you years of relevant industry experience,  you might be a good fit for co-founding the companies we build.  If you are just starting out,  HitFox is a great place to grow,  be it in technology,  product,  marketing,  business development or any other field.  And if you are somewhere in between,  there are plenty of opportunities to take your next career step with us.  In 2014,  HitFox was awarded the renowned EY Entrepreneur of the Year Award.  For more insight on career opportunities and life at HitFox,  check out: http://vimeo. com/99734712 and http://www. hitfoxgroup. com/jobs. html HitFox was founded in 2011 by serial entrepreneurs Jan Beckers,  Dr.  Hanno Fichtner,  Tim Koschella and Ruben Haas.  http://www. hitfoxgroup. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1445836440000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2302922", 
+    "id": 94713620, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Marketing & Advertising"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "HitFox is a global company builder focused on AdTech,  Big Data,  and FinTech founded in 2011.  Today over 400 professionals from 45 nationalities are shaping emerging digital industries from Berlin and the group’s international offices.  HitFox offers career opportunities for both experienced entrepreneurs and ambitious talent.  If you have founded before,  or bring with you years of relevant industry experience,  you might be a good fit for co-founding the companies we build.  If you are just starting out,  HitFox is a great place to grow,  be it in technology,  product,  marketing,  business development or any other field.  And if you are somewhere in between,  there are plenty of opportunities to take your next career step with us.  In 2014,  HitFox was awarded the renowned EY Entrepreneur of the Year Award.  \r\rFor more insight on career opportunities and life at HitFox,  check out: http://vimeo. com/99734712 and http://www. hitfoxgroup. com/jobs. html \r\rHitFox was founded in 2011 by serial entrepreneurs Jan Beckers,  Dr.  Hanno Fichtner,  Tim Koschella and Ruben Haas.  \r\rhttp://www. hitfoxgroup. com", 
+    "foundedYear": 2011, 
+    "canonicalName": "HitFox Group", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/05f/13c/2d24c89. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Advertising", 
+        "Big Data", 
+        "FinTech", 
+        "Mobile and Web", 
+        "Performance Marketing", 
+        "Data Driven Marketing"
+      ], 
+      "universalName": "hitfox-group", 
+      "companyId": 2302922, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAK3AAAAJDdmMTIyODljLTFjNGEtNDE1OC05MGEzLTBiN2JjYzY5MTFhMQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "201-500", 
+    "formattedEmployeeCount": "201-500 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Marketing and Advertising"
+  ], 
+  "formattedPostedDaysAgo": "Posted 40 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "40d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 26,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/94713620?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3Dq889Vfw4%26j%3DoMeY1fwJ%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=ccI8&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

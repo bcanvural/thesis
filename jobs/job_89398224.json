@@ -1,0 +1,85 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4025083", 
+    "expirationDate": 1451979442000, 
+    "title": "Junior Big Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "We are looking for a future Data Scientist that will be involved in the following activities,  for example:     Hadoop programming in Hive,  Spark,  Imapala,  MapReduce to process a massive real-time data stream (e. g. ,  Kinesis,  Kafka) inside a Big Data cluster (e. g. ,  Amazon EMR) and exports the aggregated data to an RDBMS database (e. g. ,  MySql)   Developing SQL scripts to query a MPP (Massively Parallel Processing) Big Data backend (e. g,  Postgres-XL,  Crate. io) and feed the results to a front-end web application for real-time slicing/dicing and interactive visualizing of the data   MapReduce large amounts of data (900M records) using Hive/Pig and create visualizations in Tableau by connecting to the Hive Server   Apply Machine Learning to sports.  E. g. ,  what is the impact of Injury on the performance of other players in the team in Americal football (NFL)   Twitter Analytics - develop a python script to collect the tweets,  process the tweets using a Spark application,  store the processed data on a Redshift database in AWS,  develop machine learning and NLP models on this data,  and visualize this on Tableau     The above examples are just a glimpse on the kind of projects at Winnow.    An ideal canditate would be a quick learner,  with decent IQ and a passion to become a data scientist.    If you were a Gamer and a Hacker-for-fun back in college,  then I think we'd like to hear from you. "
+    }, 
+    "postalCode": "560015", 
+    "jobState": "LISTED", 
+    "companyName": "Winnow Analytics", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Winnow is an outsourced analytics services partner based in Bangalore.  Founded in 2008,  Winnow has been serving a few Global 200 companies in the area of Data Sciences,  Business Intelligence,  Data Warehousing,  Big Data,  Web Analytics,  and Online Marketing Optimization. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443679036000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2761109", 
+    "id": 89398224, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Bangalore,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanySize": "11-50", 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "localizedDescription": "Winnow is an outsourced analytics services partner based in Bangalore.  Founded in 2008,  Winnow has been serving a few Global 200 companies in the area of Data Sciences,  Business Intelligence,  Data Warehousing,  Big Data,  Web Analytics,  and Online Marketing Optimization. ", 
+    "foundedYear": 2008, 
+    "company": {
+      "specialities": [
+        "Business Intelligence", 
+        "Predictive Modeling", 
+        "Web Analytics", 
+        "Big Data", 
+        "Analytics Training", 
+        "Digital Marketing Optimization"
+      ], 
+      "universalName": "-winnow", 
+      "companyId": 2761109, 
+      "heroImage": {}
+    }, 
+    "canonicalName": "Winnow Analytics Solutions Private Limited", 
+    "hasPaidLcp": false, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/1b0/1c6/32de8be. png"
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 65 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "65d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 1,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/89398224?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fjunior-big-data-scientist%2Fwinnow-analytics%2F4025083%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=06am&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

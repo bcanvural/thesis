@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Land Transport Authority", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "pageuppeople-pageuppeople-502356", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102426212, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      92
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. lta. gov. sg", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAX6AAAAJDEzMGZiYzAxLTUyOTUtNDE1ZS1hNjRiLTMyZTI0MDY3NDBmYQ. png", 
+    "universalName": "lta", 
+    "companyId": 12977
+  }, 
+  "description": "     You will be part of a team of data scientists deriving business    insights from large and real-time datasets for strategic planning and    operational efficiency.  You will also be responsible for the team's    projects to identify and explore suitable technologies,  strategies and    solutions for advance data analytics.  In your role,  you will be    establishing business synergies and strategise with the team to derive    deeper business insights through meshing different datasets and propel    innovative land transport solutions forward.     Requirements: -    • MSc or PhD in a relevant technical field    • Those without working experience are also welcome to apply.     Candidates with more experience might be considered for more senior    roles.     • Strong passion for empirical research and extensive experience    solving analytical problems using quantitative approaches    • Strong analytical,  communication and presentation skills to    communicate complex quantitative analysis in a clear,  precise,  and    actionable manner    • Keen sense in value of data relating to business objectives    • Strong knowledge in statistical modelling and machine learning    algorithms    • Good knowledge in data visualisation tools like Tableau,  and    predictive analysis tools like R and SAS    • Familiarity with data management,  relational databases and SQL    • Experience working with large and real-time datasets,  preferably on    MPP platforms    • Experience with distributed computing tools is a plus (like    MapReduce,  Hadoop)", 
+  "companyDescription": "      Land Transport Authority    The Land Transport Authority (LTA) is a statutory board under Ministry    of Transport that spearheads land transport developments in Singapore.     We are seeking dynamic individuals who are highly motivated &    passionate about their work to join us.  Many opportunities & challenges    await those who are keen on an exciting career to realise our    commitment to envision & implement a much improved & integrated public    transport system. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

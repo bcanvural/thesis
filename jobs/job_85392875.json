@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/85392875", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Your Skills We expect you: To have extensive experience with analytical and quantitative problem solving Are familiarity with database modeling and data warehousing principles and you have deep knowledge of SQL Have experience with analysis tools,  open source or commercially available libraries and toolsets (R,  python,  etc) Have experience from working with data on the PB scale Have working knowledge of data mining algorithms including decision trees,  probability networks,  association rules,  clustering,  regression,  and neural networks Know how to program in at least one language in addition to SQL (Java,  Scala,  Python or similar) Feel comfortable on at the linux prompt and will happily script your solutions rather than doing the same manual task twice.  Are an excellent communicator,  who comes across well with peers as well as other colleagues or external parties.  Have a knack for coming up with a surprising,  useful visualization of the data that makes what is going on obvious to everyone.  It’s a bonus if you also: Have experience working with Hadoop clusters,  and the tools in Hadoop ecosystem (Spark,  Map Reduce,  etc).  Have experience working with stream processing (Spark Streaming,  Storm,  Apache Flink etc) Have experience from working with mobile applications Applying This position is located in Stockholm,  Sweden We only accept applications in English. ", 
+  "following": false, 
+  "companyDescription": "About us Truecaller is a leading search technology company that is transforming the phonebook with a set of intelligent and useful services.  Our three apps,  Truecaller,  Truedialer and Truemessenger coincide to create different functions based off of our database of 2 billion phone numbers (and growing),  and more than 200 million users around the world.  Each second we handle over 12, 000 user searches and we support multiple platforms like Android,  iOS,  Windows Phone,  Symbian and Blackberry.  Our users have rewarded our hard work with 4+ stars on our apps both Google Play and in App Store.  In 2014 we were the proud recipient of the “Swedish Company of the Year” award.    We are backed by some of the most prominent investors in the world,  and last year we received over $80 million in funding from Sequoia Capital,  Atomico,  and Kleiner Perkins Caufield &amp; Byers.  Today,  we are 80 employees in an agile organization where we focus more on the product and our users than on processes and policies.  Every team member voices their opinion,  and ideas and are part of building and shaping our Truecaller vision and culture. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Truecaller", 
+  "canFollow": false, 
+  "companyId": "567872", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Truecaller", 
+    "title": "Data Scientist"
+  }, 
+  "description": "Your Mission You will work as a member of our Analytics team enabling truecaller to make data driven decisions.  You will interface with both our product and engineering team as well with our commercial team to identify and follow up on metrics,  evaluate A/B tests and user behavior and identify product insights.  You will work independently and proactively with identifying improvement opportunities as well as being involved in separate projects.  You will act as an advisor for our Product Steering Group and Management Team and play a key role in influencing our decision making by asking the right questions,  pin-point the right problems and high-light the right data. "
+}

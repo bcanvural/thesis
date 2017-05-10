@@ -1,0 +1,232 @@
+{
+  "jobPosting": {
+    "companyJobCode": "arbetsformedlingen_xml-2816191", 
+    "expirationDate": 1451708529000, 
+    "title": "Data Scientist - Marketing Analytics", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3001, 
+          "type": "BR", 
+          "endIdx": 3001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3001, 
+          "type": "BR", 
+          "endIdx": 3001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2833, 
+          "type": "BR", 
+          "endIdx": 2833, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2833, 
+          "type": "BR", 
+          "endIdx": 2833, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2699, 
+          "type": "BR", 
+          "endIdx": 2699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2584, 
+          "type": "BR", 
+          "endIdx": 2584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2494, 
+          "type": "BR", 
+          "endIdx": 2494, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2327, 
+          "type": "BR", 
+          "endIdx": 2327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2108, 
+          "type": "BR", 
+          "endIdx": 2108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1956, 
+          "type": "BR", 
+          "endIdx": 1956, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1956, 
+          "type": "BR", 
+          "endIdx": 1956, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1507, 
+          "type": "BR", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1507, 
+          "type": "BR", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1483, 
+          "type": "BR", 
+          "endIdx": 1483, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1483, 
+          "type": "BR", 
+          "endIdx": 1483, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1417, 
+          "type": "BR", 
+          "endIdx": 1417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "BR", 
+          "endIdx": 1316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1154, 
+          "type": "BR", 
+          "endIdx": 1154, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 881, 
+          "type": "BR", 
+          "endIdx": 881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "BR", 
+          "endIdx": 780, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 263, 
+          "type": "BR", 
+          "endIdx": 263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 263, 
+          "type": "BR", 
+          "endIdx": 263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "We are looking for a talented and creative Data Scientist/interested in pushing the boundaries of games analytics.  You?ll have a proven ability to apply your skills,  be it technical,  behavioural or economic,  in order to generate value. Your role within our KingdomIf you want to improve the experience of King?s 300 million+ players across our network of games,  then this may be the right opportunity for you.  You?ll help us to further understand,  model,  predict,  segment and retain our players.  You will be part of a community of 80+ business intelligence &amp; analytics experts,  while working on a daily basis in smaller teams of 6-8 people.  As a data scientist at King,  your role will be focused on particular games,  our network or specific business areas. Specifically,  you?ll:?Identify potential business opportunities and scope/design approaches to capture those opportunities?Translate business needs to technical requirements and AB-tests,  then work with development teams to ensure correct implementation and tracking?Develop an analysis strategy and perform analysis of complex scenarios and AB-tests,  both systematically and on a one-off basis. ?Carefully check,  debug,  and problem solve issues to ensure you deliver accurate and clear analysis and reports,  even when confronted by subtle data complications?Provide an analytics perspective to discussions and helping to drive the priorities within your team?Be the pro-active owner of the entire data chain for your game(s)Skills to create thrillsYou have a passion for quantitative analysis and will have the ability to draw business insights which will add real value to King.  You will need to demonstrate the ability to learn quickly and will have worked in a fast paced and collaborative environment.  This role will involve working with teams and individuals across King - such as Game Developers,  Business Performance Managers and Marketeers,  so excellent communication skills are essential. While we certainly don?t expect you to have all of these skills from day one,  we do expect you to learn and develop in each of the following five areas:?Business Insight: The ability to understand the problems and issues our games and business wants to solve,  and then defining the right data,  analysis or interpretation to lead to the right recommendations and decisions?SQL: The ability to write complex SQL queries to analyse our databases with 300+ million players,  and work effectively with both Hive and relational database systems. ?Analytical coding: Using tools such as R,  Python (and also Excel) for analytical purposes?Stats: Understanding the appropriate statistical or machine learning techniques to use in different circumstances. ?Communication: Designing good ways of communicating,  visualising or reporting your results/analysis so they are clear and unambiguousThere is plenty of scope at King for you to learn from your colleagues in the areas where you have less experience,  and to share your own skills where you are stronger. Specific experience that might be helpful,  but is not required,  includes: experience in the games industry or similarly sophisticated customer-facing digital businesses; experience in ?big data? systems such as Hadoop,  Hive; experience in behavioural psychology/economics; robust understanding of more advanced statistical techniques suitable for analysis of highly skewed populations; experience in predictive analytics,  segmentation,  and related areas; experience i"
+    }, 
+    "postalCode": "10375", 
+    "jobState": "LISTED", 
+    "companyName": "Midasplayer AB", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": ""
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1447889340000, 
+    "countryCode": "se", 
+    "company": "urn:li:company:5866554", 
+    "id": 99737173, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Stockholm,  SE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99737173?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. arbetsformedlingen. se%2Fledigajobb%3Fid%3D2816191&urlHash=fdz6&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "hasPaidLcp": false, 
+    "canonicalName": "Midasplayer AB", 
+    "company": {
+      "universalName": "midasplayer-ab", 
+      "companyId": 5866554
+    }
+  }, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

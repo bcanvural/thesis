@@ -1,0 +1,206 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-oz2U1fwg", 
+    "expirationDate": 1451463152000, 
+    "title": "Senior Data Scientist Discovery (m/f) - Rocket Internet", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2134, 
+          "type": "BR", 
+          "endIdx": 2134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2134, 
+          "type": "BR", 
+          "endIdx": 2134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2115, 
+          "type": "B", 
+          "endIdx": 2134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2115, 
+          "type": "BR", 
+          "endIdx": 2115, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2115, 
+          "type": "BR", 
+          "endIdx": 2115, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1453, 
+          "type": "BR", 
+          "endIdx": 1453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1453, 
+          "type": "BR", 
+          "endIdx": 1453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1444, 
+          "type": "B", 
+          "endIdx": 1453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1444, 
+          "type": "BR", 
+          "endIdx": 1444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1444, 
+          "type": "BR", 
+          "endIdx": 1444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 643, 
+          "type": "BR", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 643, 
+          "type": "BR", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 629, 
+          "type": "B", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 629, 
+          "type": "BR", 
+          "endIdx": 629, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 629, 
+          "type": "BR", 
+          "endIdx": 629, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 30, 
+          "type": "B", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 30, 
+          "type": "BR", 
+          "endIdx": 30, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 30, 
+          "type": "BR", 
+          "endIdx": 30, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 29, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Engineering | Berlin,  Germany About Rocket InternetRocket is the world’s largest Internet platform outside of China and the United States.  We identify and build proven Internet business models and transfer them to new,  underserved or untapped markets where we seek to scale them into market leading online companies.  We are focused on online business models that satisfy basic consumer needs across three sectors: e-commerce,  marketplaces and financial technology.  Our company was founded in 2007 and now has more than 20, 000 employees across its network of companies,  which operate in more than 100 countries on five continents. About the RoleRocket Internet’s discovery team is a fast-growing interdisciplinary team that designs,  builds and maintains a world-class real-time data platform that is at the heart of the search and recommendation experience of our e-commerce and marketplace ventures.  We are looking for a principal data scientist who is excited to the take the massive amount of product and event data and turn it into powerful algorithms to take our search and recommendation algorithms to the next level.  You will define key metrics to measure the business-impact of ranking and relevance models that you develop through exploratory analysis of our vast data sets.  Working closely with the engineers on the team you will put these models into production to improve the user experience of millions of customers around the globe. About YouAt Rocket we value self-starters who are innovative and curious,  owning responsibility for the applications and systems they design and built from day one.  You enjoy working in a fast-paced environment and are open to learning new things every day.  You are as much passionate about data as you are about building distributed applications and services.  You have a strong theoretical background in computer science,  statistics,  engineering,  mathematics,  or similar quantitative discipline.  You have at least three years hands-on experience of using machine-learning models in production and a proven track record of developing models that have a real-world impact. Up for a challenge?We’d love to receive your convincing application in English.  Please include any contributions that you have made to open-source or research projects.  This position is based out of our Berlin global headquarter. "
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "Rocket Internet AG", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "WHO WE AREWe identify opportunities,  build companies and retain ownership over time.   We are headquartered right in the vibrant centre of Berlin,  Europe's Silicon Valley,  and operate a network of international Rocket offices,  covering all relevant developed and emerging markets.  Our primary focus is on building proven,  transaction-based business models in the online and mobile space.  We are however not limited by such parameters and seize other attractive opportunities whenever they arise.  Investors in companies started by Rocket Internet include Investment AB Kinnevik,  Holtzbrinck Ventures and many others. HOW WE WORKRocket is much more than a venture capital firm or an incubator.  We bring together all key elements required to create great companies: team,  concept,  technology,  and capital.  We are 100 percent operationally involved in building our companies and cover all critical functions with our expert teams.  They work together seamlessly in order to ensure that best practices are implemented in all key areas.  These teams include: Engineering and Product Development,  Online Marketing,  CRM,  Business Intelligence,  Operations,  HR,  PR and Finance.  In addition,  we have a global task force of top entrepreneurial talents that brings expertise and speed to all our markets. WHAT WE BELIEVE IN AND HOW WE SEE OURSELVESWe are passionate entrepreneurs and focus on performance.  We remain humble,  and we understand that success is a result of hard work.  We want to learn every day and share our knowledge with each other.  We focus on the details and always try to solve problems ourselves.  We want to be selfless and pragmatic and have no time for politics.  We value intelligence more than experience.  We believe that anything is possible.  We move as fast as we can and take risks.  We like to get and give autonomy and responsibility.  We are flexible and tolerant towards ambiguity and uncertainty.  And above all: we are always looking for great people. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444879394000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:1298456", 
+    "id": 92684876, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92684876?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3DqEe9VfwG%26j%3Doz2U1fwg%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=npsD&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "WHO WE ARE\r\rWe identify opportunities,  build companies and retain ownership over time.  \r \rWe are headquartered right in the vibrant centre of Berlin,  Europe's Silicon Valley,  and operate a network of international Rocket offices,  covering all relevant developed and emerging markets.  Our primary focus is on building proven,  transaction-based business models in the online and mobile space.  We are however not limited by such parameters and seize other attractive opportunities whenever they arise. \r \rInvestors in companies started by Rocket Internet include Investment AB Kinnevik,  Holtzbrinck Ventures and many others. \r\rHOW WE WORK\r\rRocket is much more than a venture capital firm or an incubator.  We bring together all key elements required to create great companies: team,  concept,  technology,  and capital.  We are 100 percent operationally involved in building our companies and cover all critical functions with our expert teams.  They work together seamlessly in order to ensure that best practices are implemented in all key areas. \r \rThese teams include: Engineering and Product Development,  Online Marketing,  CRM,  Business Intelligence,  Operations,  HR,  PR and Finance.  In addition,  we have a global task force of top entrepreneurial talents that brings expertise and speed to all our markets. \r\rWHAT WE BELIEVE IN AND HOW WE SEE OURSELVES\r\rWe are passionate entrepreneurs and focus on performance.  We remain humble,  and we understand that success is a result of hard work.  We want to learn every day and share our knowledge with each other.  We focus on the details and always try to solve problems ourselves. \r \rWe want to be selfless and pragmatic and have no time for politics.  We value intelligence more than experience.  We believe that anything is possible.  We move as fast as we can and take risks.  We like to get and give autonomy and responsibility.  We are flexible and tolerant towards ambiguity and uncertainty.  And above all: we are always looking for great people. ", 
+    "foundedYear": 2007, 
+    "canonicalName": "Rocket Internet SE", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/18c/0f1/3211ef1. png"
+    }, 
+    "company": {
+      "universalName": "rocket-internet-ag", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/085/3d3/3e3407f. png"
+      }, 
+      "companyId": 1298456
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "201-500", 
+    "formattedEmployeeCount": "201-500 employees"
+  }, 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 51 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "51d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "October 15,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

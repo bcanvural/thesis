@@ -1,0 +1,419 @@
+{
+  "jobPosting": {
+    "companyJobCode": "smartrecruiters_xml-103774487-87316865", 
+    "expirationDate": 1451188980000, 
+    "title": "Romanian speaking Web Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2023, 
+          "type": "BR", 
+          "endIdx": 2023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2023, 
+          "type": "BR", 
+          "endIdx": 2023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1891, 
+          "type": "BR", 
+          "endIdx": 1891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1891, 
+          "type": "BR", 
+          "endIdx": 1891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1761, 
+          "type": "BR", 
+          "endIdx": 1761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1761, 
+          "type": "BR", 
+          "endIdx": 1761, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "BR", 
+          "endIdx": 1587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "BR", 
+          "endIdx": 1587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "B", 
+          "endIdx": 1587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "BR", 
+          "endIdx": 1579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1579, 
+          "type": "BR", 
+          "endIdx": 1579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "BR", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "BR", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1521, 
+          "type": "LI", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1453, 
+          "type": "LI", 
+          "endIdx": 1521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1410, 
+          "type": "LI", 
+          "endIdx": 1453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1374, 
+          "type": "LI", 
+          "endIdx": 1410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1329, 
+          "type": "LI", 
+          "endIdx": 1374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1252, 
+          "type": "LI", 
+          "endIdx": 1329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1208, 
+          "type": "LI", 
+          "endIdx": 1252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "LI", 
+          "endIdx": 1208, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "BG", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "BR", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1120, 
+          "type": "B", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1120, 
+          "type": "BR", 
+          "endIdx": 1120, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1120, 
+          "type": "BR", 
+          "endIdx": 1120, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1078, 
+          "type": "LI", 
+          "endIdx": 1105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1053, 
+          "type": "LI", 
+          "endIdx": 1078, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "LI", 
+          "endIdx": 1053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1001, 
+          "type": "LI", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 965, 
+          "type": "LI", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "LI", 
+          "endIdx": 965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 838, 
+          "type": "LI", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "LI", 
+          "endIdx": 838, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BG", 
+          "endIdx": 1105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BR", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 789, 
+          "type": "B", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 789, 
+          "type": "BR", 
+          "endIdx": 789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 789, 
+          "type": "BR", 
+          "endIdx": 789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "LI", 
+          "endIdx": 789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 723, 
+          "type": "LI", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 674, 
+          "type": "LI", 
+          "endIdx": 723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 648, 
+          "type": "LI", 
+          "endIdx": 674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 616, 
+          "type": "LI", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 558, 
+          "type": "LI", 
+          "endIdx": 616, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 467, 
+          "type": "LI", 
+          "endIdx": 558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 467, 
+          "type": "BG", 
+          "endIdx": 789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 467, 
+          "type": "BR", 
+          "endIdx": 467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 451, 
+          "type": "B", 
+          "endIdx": 467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 451, 
+          "type": "BR", 
+          "endIdx": 451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 451, 
+          "type": "BR", 
+          "endIdx": 451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Description Due to continued growth within the business,   we are looking for a new addition to the team to take responsibility of the Romanian speaking markets.  You will be in charge of the management and development of the Romanian websites and apps.  The job requires a fast-learning individual that will work as a vital member of the team,  and also work independently,  taking ownership and responsibility of the markets and products. ResponsibilitiesResearching,  adding and configuring online data sources for inclusion in the search engine;Monitoring and continually quality-controlling online ads;Content and quality improvement;Management of our systems;Proposing improvements to products and processes;Reporting issues;Proposing solutions and following up on progress;Compensation And BenefitsCompetitive basic salaryAttractive sales commissions. Annual pay raise scheme based on employee&apos;s initiative,  conscientiousness and quality of workHealth Insurance and Pension schemes25 days holidayInsight into search engine technologyMulticultural environmentCareer growth opportunities QualificationsThe Ideal Candidate Will HaveOutstanding written and oral skills in Romanian and EnglishStrong computer literacy and internet skillsA bachelor degree and/or solid professional experience in a similar position;A passion for all things internet and mobile;Analytical and technical proficiencyFast-learner,  autonomous and well-organisedDetail-oriented,  with excellent problem-solving and follow-up skillsTeam player with a positive attitudeAdditional InformationTo ApplyIf you think you are the right candidate,  send us your CV and a cover letter detailing the key skills and experiences that will make you the best applicant for this position. For administrative purposes,  ALL applicants please indicate in your e-mail whether you currently have the right to work in the UK. Careerjet is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Careerjet", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. With over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. Launched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). Evolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. Here at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447936717000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:137242", 
+    "id": 99849577, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "hasPaidLcp": false, 
+    "localizedDescription": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. \rWith over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. \r\rLaunched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). \r\rEvolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. \r\rHere at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/15d/0ae/1ffd119. png"
+    }, 
+    "company": {
+      "specialities": [
+        "search engine", 
+        "jobs", 
+        "internet", 
+        "advertising", 
+        "software development"
+      ], 
+      "universalName": "careerjet", 
+      "companyId": 137242
+    }, 
+    "canonicalName": "Careerjet", 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanyType": "Privately Held"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99849577?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FCareerjet%2F87316865-romanian-speaking-web-data-analyst&urlHash=h6kH&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

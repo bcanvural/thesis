@@ -1,0 +1,258 @@
+{
+  "jobPosting": {
+    "companyJobCode": "enworld-16702", 
+    "expirationDate": 1450694452000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 315, 
+          "type": "BR", 
+          "endIdx": 315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 315, 
+          "type": "BR", 
+          "endIdx": 315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 281, 
+          "type": "BR", 
+          "endIdx": 281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 281, 
+          "type": "BR", 
+          "endIdx": 281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 261, 
+          "type": "BR", 
+          "endIdx": 261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 261, 
+          "type": "BR", 
+          "endIdx": 261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 249, 
+          "type": "B", 
+          "endIdx": 261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 249, 
+          "type": "BR", 
+          "endIdx": 249, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 249, 
+          "type": "BR", 
+          "endIdx": 249, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 224, 
+          "type": "BR", 
+          "endIdx": 224, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 224, 
+          "type": "BR", 
+          "endIdx": 224, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 184, 
+          "type": "BR", 
+          "endIdx": 184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 184, 
+          "type": "BR", 
+          "endIdx": 184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 168, 
+          "type": "B", 
+          "endIdx": 184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 168, 
+          "type": "BR", 
+          "endIdx": 168, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 168, 
+          "type": "BR", 
+          "endIdx": 168, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 154, 
+          "type": "BR", 
+          "endIdx": 154, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 143, 
+          "type": "BR", 
+          "endIdx": 143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 129, 
+          "type": "BR", 
+          "endIdx": 129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 129, 
+          "type": "BR", 
+          "endIdx": 129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 116, 
+          "type": "LI", 
+          "endIdx": 129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 57, 
+          "type": "LI", 
+          "endIdx": 116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 57, 
+          "type": "BR", 
+          "endIdx": 57, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 41, 
+          "type": "BR", 
+          "endIdx": 41, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 41, 
+          "type": "BR", 
+          "endIdx": 41, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 8, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Overview（若手歓迎）DBソリューションベンダーのデータサイエンティストですAdditional Notes Reason for Opening: New position due to business expansion Location: 東京Desired Traits・英語（読書きレベル）・チームワークに貢献できる方Responsibilities・学術、知的財産、ライフサイエンスに関するデータベースソリューションのデータ解析・プロジェクトによっては直接顧客へプレゼンなどありRequirements・業種問わず大量のデータ分析経験のある方社内規定による Holidays: 完全週休2日その他社内規定による"
+    }, 
+    "postalCode": "160-0023", 
+    "jobState": "LISTED", 
+    "companyName": "en world group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "外資系情報ソリューションベンダー"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446207981000, 
+    "countryCode": "jp", 
+    "company": "urn:li:company:19557", 
+    "id": 95682399, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tokyo,  JP", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95682399?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. enworld. com%2Fjp-en%2Fjobs%2Fshow%2Fid%2F16702%2F&urlHash=w_cT&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 36 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "36d", 
+  "companyDescriptionLanguage": "ja", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "foundedYear": 1999, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAJfAAAAJGNkYWZhYjlmLTAzNGEtNGZmZS1iZGZiLWFiZTUwNzcyMzU0Mw. png"
+    }, 
+    "localizedDescription": "About en world\ren world is a group of recruiting consultancies specialising in professional and managerial roles.  Operating from 7 countries,  we support global companies’ recruitment needs through our Asia Pacific network. \r\rBehind any great company is a team of great people.  Not just a collection of individuals but people who work together to create success.  Helping companies put together winning teams is what en world does. \r\rWe’ve had extraordinary success because our approach to recruiting is anything but ordinary.  Because our roots are here in Asia and we operate throughout the region,  we’ve learned to place particular value on close and long-lasting relationships – with our clients,  with candidates and among our staff. \r\rAt the same time,  our approach is practical,  professional,  and at all times results-driven.  Our client and candidate approval ratings – both well above industry averages – tell us we’re on the right track. \r\rMaking the right human connections helps companies and their people thrive and prosper.  That’s the success factor our clients are looking for and that is the result we deliver. \r\rRetained search\rRetained search services are ideal if you have special needs and require an especially thorough search supported by personalized attention.  Those seeking to fill a confidential or highly specialized position,  or have an urgent staffing need where there are few available candidates,  may find retained search an ideal solution. \r\rContingency search\rFor contingency searches,  you pay only after we successfully place a candidate.  We will introduce candidates and manage the negotiation process until you select a new employee and a contract is signed. ", 
+    "company": {
+      "specialities": [
+        "management", 
+        "recruitment", 
+        "talent acquisition", 
+        "high performing", 
+        "headhunting", 
+        "outplacement", 
+        "mid-career", 
+        "executive search"
+      ], 
+      "universalName": "en-world", 
+      "companyId": 19557, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJTAAAAJDE2MGY4ZGViLTQ1OTktNGFmYi04YjhkLTI2N2Y2ZDA3ZmE3MA. png"
+      }
+    }, 
+    "canonicalName": "en world group", 
+    "hasPaidLcp": true, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 30,  2015", 
+  "formattedExpireDate": "December 21,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "ja", 
+  "hasDecoratedCompany": true
+}

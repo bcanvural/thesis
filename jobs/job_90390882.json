@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90390882", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": " -2+ years of experience in a data scientist position or a relevant position analyzing multi-dimensional non-structured data related.  One or more years of experience in the financial sector.   -Excellent programming skills,  particularly with data analysis tools (R,  python,  etc…)  -Strong problem solving abilities using quantitative techniques,  machine learning,  statistics and signal processing  -Perseverance and creativity to look for alternative options when facing difficulties or negative results  -Passion for applying data science to real-world problems  -Good communication skills to be able to describe the results of the analysis with different levels of detail to technical and non-technical people -Ability to work in a team  Education &amp; Qualifications BS in computer science,  engineering or related fields MS in data science or machine learning is a plus", 
+  "following": false, 
+  "companyDescription": " Credit Scoring is an innovation project aimed to provide –mainly financial,  but not limited to-- companies with alternative indicators and scores in order to enable them able to increase their offer and/or reduce their costs (from acquisition to collection).   We are looking for a Data Scientist to lead our efforts in data analysis in order to help us infer and predict financial behaviours from costumers (e. g: likelihood of activating a credit card,  probability of defaulting/not defaulting a credit payment,  fraud proneness,  potential to repay a debt,  capability of paying a financial product…) based on alternative sources of information to traditional financial history,  including Telco Data and external public information.   The ideal candidate would be passionate about analyzing data and finding relevant patterns that would help us create that portfolio of insights and scores that can be used along all the credit lifecycle (marketing,  acceptance,  account management,  collections).   ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Telefonica Innovation", 
+  "canFollow": false, 
+  "companyId": "2449035", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Telefonica Innovation", 
+    "title": "Data Analyst for Credit Scoring"
+  }, 
+  "description": " -Build models and indicators of financial behavior from Telco data and potentially external information using state-of-the-art machine learning and data analysis techniques,  and potentially developing new approaches  -Develop best practices in data analytics,  feature extraction and selection,  carrying out experiments to validate the proposed approaches  -Work closely with our engineering team to analyze the data and leverage already extraction processes  -Drive the collection of new data and the refinement of existing data sources when needed -Communicate findings to project manager and the rest of the team "
+}

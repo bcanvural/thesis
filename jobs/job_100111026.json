@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Asda Ltd", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "22334649", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100111026, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      27
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. asda. jobs", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAP5AAAAJGNjM2Y4MmIxLTA1NGEtNGZlOC04NmRlLWJmMDZlODZmMGJiNQ. png", 
+    "universalName": "asda", 
+    "companyId": 7001
+  }, 
+  "description": "    Job Ref.     588027BR    Role Summary    eCommerce Data Scientist    It’s an exciting time to join our newly formed Data Science team as    they focus on driving efficiencies across our eCommerce division,  the    fastest growing part of our Retail business.  As a Data Scientist,     within eCommerce,  you will work cross functionally and draw upon our    existing technical,  product and analytical resources to improve    business operations.     The Ins And Outs       To construct data driven solutions       Advise on data driven decisions       Design and improve algorithms       Use statistical and mathematical techniques to improve efficiency       Work with other data teams within Asda in order to develop robust        and consistent data sets     What You’ll Need       Ideally a degree (or equivalent qualification) in Maths,         Statistics,  Physics,  Computer Science or Engineering (or similarly        highly numerate subject )       Strong written and verbal communication skills       Able to perform statistical analysis       Able to advise senior management in clear language about the        implications of their work for the organisation       Able to understand,  deconstruct and build algorithms       An understanding of programming principles       Comfortable working with large volumes of data       Experience with databases would be an advantage,  particularly        familiarity with SQL       Modelling experience would be an advantage       Some experience of research would be an advantage     Business Unit    About our Home Office We're very proud of our Yorkshire roots and Asda    House,  our Home Office,  is still in Leeds.  The teams at Asda House    provide support to all of our stores nationally through many diverse    roles.  So in the queue for lunch at the onsite restaurant you might    find a Buyer,  a Solicitor,  a Chartered Surveyor,  a Project Manager,  a    Marketing Manager or an Accountant at any one time! There are a wide    variety of different departments all working together to support our    store colleagues who are out there on the front line,  keeping our    customers happy and saving them money every day.     Position Type    FULL TIME    UK Postal Code    LS11 5AD", 
+  "companyDescription": "      Asda Ltd    At Asda,  Every Day Matters.  Every day we make it our business to save    our customers money and make life better.  Every day 200, 000 colleagues    share this one sole purpose and strive to be Britain’s most trusted    retailer.  And because we want every colleague to enjoy every minute of    their Asda career,  we make every day a development opportunity.  As part    of Walmart,  the world’s largest retailer,  you’ll have unlimited scope    and support to succeed.  Because your success is our success. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

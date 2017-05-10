@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89079836", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Apple revolutionized personal technology with the introduction of the Macintosh in 1984.  Today,  Apple leads the world in innovation with iPhone,  iPad,  the Mac and Apple Watch.  Apple’s three software platforms — iOS,  OS X and watchOS — provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store,  Apple Music,  Apple Pay and iCloud.  Apple’s 100, 000 employees are dedicated to making the best products on earth,  and to leaving the world better than we found it. Apple is an Equal Employment Opportunity Employer that is committed to inclusion and diversity.  We also take affirmative action to offer employment and advancement opportunities to all applicants,  including minorities,  women,  protected veterans,  and individuals with disabilities. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Apple", 
+  "canFollow": false, 
+  "companyId": "162479", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Apple", 
+    "title": "Data Scientist"
+  }, 
+  "description": "A job at Apple is unlike any other you’ve had.  You’ll be challenged.  You’ll be inspired.  And you’ll be proud. The Maps Data team has an opening for a scientist skilled in Machine Learning and Large Scale Data Mining for making significant contributions to Apple Maps. Key QualificationsDeep understanding of Machine Learning and Data Mining techniques. Thorough knowledge of supervised and unsupervised learning. Experience with DeepLearning techniques (CNNs,  RNNs)Familiarity with popular tools and packages like Caffe,  Torch,  Weka,  MLLib etc. Ability to build and interpret probabilistic models of complex,  high-dimensional systems. Ability to work with incomplete or imperfect data to extract usable information. Results oriented and deadline driven. Ability to explain and present hypotheses and analysis results to a wide audience in a clear and concise mannerAbility to work independently and in a team to research innovative solutions to challenging business/technical problems. Attention to detail,  data accuracy and quality of output. Expertise in one or more of Python,  Java,  Scala,  Python,  Matlab/R,  C++ Bonus Skills Experience with large scale distributed data processing frameworks like Hadoop and Spark Experience with GeoSpatial data Experience in ComputerVision and ImageProcessing DescriptionThe person,  based on the skill set,  will be responsible for Research and Development involving some of the following techniques:•Artificial Intelligence•Machine Learning•Deep Learning•Large Scale Data Mining•Network Analysis &amp; Graph Mining •Information Retrieval•Probabilistic ModelingThese skills are required for developing models for identifying patterns and anomalies and for mining structured,  semi-structured and unstructured data.  The person will get an opportunity to contribute to projects ranging from the ones involving massive datasets to the ones solving small scale but very complex problems using machine learning &amp; data mining techniques.  The position will be responsible for: •Data Collection/identification from existing internal data sources and external/public data sources. •Analyzing data to build analytical models for solving high-value business problems•Implementing standard and proprietary algorithms for handling and processing the data. •Incorporating the algorithms in distributed and parallel software systems. •Working with other engineers,  statisticians and managers to help identify viable solutions to business problems and implement end to end analytics solutions. EducationPh. D.  in CS,  Statistics or related field or M. S.  in related field with 5+ years experience applying data mining techniques to real business problems. Additional Requirements• Experience in information retrieval and storage and distributed computing is a plus• Experience in Computer Vision is an added bonus• Fluency in data manipulation languages and tools such as R,  SQL,  Matlab"
+}

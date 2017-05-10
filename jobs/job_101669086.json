@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78130239", 
+    "title": "Data Science Engineer", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101669086, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "     Customer Loyalty Card Analytics AgencyData Science Engineer SQL/    Automation/SAS Central London£30000 - £40000THE COMPANYThis company    have dominated the US and are now breaking into the UK market.  This    success is due to their excellent teams of data experts.  This is an    incredible opportunity to join their analytics team and play a crucial    part in making the customer transactional data insightful and    profitable. YOUR ROLEAs the Data Science Engineer you will:Have a    crucial role in the data operations function team and develop your    understanding of reporting and Data Warehouse implementation Work    closely with billions of rows of transactional data and map codes to    make this data matter You will use your excellent SQL and automation    skills to make data easily available and enable analysts to make the    data mean somethingYOUR SKILLS AND EXPERIENCEAs the successful Data    Science Engineer you will:Have extensive experience using SQL and    developing ETL processes Have proven success in automating processes    Have a strong academic background,  a numerate degree and a keen    interest in data science Ideally have previous exposure to SAS,  R,     Python or Java Ideally have an understanding of reporting tools such as    Tableau or SSRSHOW TO APPLYIf you are interested in working with some    of the biggest financial/ retailer services and making data matter then    please apply via this site. KEY WORDSLondon | Transaction | Data | Data    Science | SQL | SAS | Automation | Loyalty Analytics | R | Python |    Java | Tableau | SSRS | Data Engineer | Reporting | ETL", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

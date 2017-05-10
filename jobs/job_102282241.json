@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Allianz", 
+    "functions": [
+      "OTHR", 
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "allianz_jobs-76562B4401031EE5A6B3E52803685A83", 
+    "title": "Working Student (m/f) Big Data Engineer – Global Data & Analytics", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102282241, 
+    "experienceLevel": "INTERNSHIP", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      43
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. allianz. com/careers", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAOWAAAAJDBhZDBiNGUxLTk3MTAtNGNmZC1iYjRmLTllN2VhOTBlZWEyZA. png", 
+    "universalName": "allianz", 
+    "companyId": 2979
+  }, 
+  "description": "    Job Purpose    The Allianz Group is the largest insurance company and one of the    largest financial services group of the world.  It has more than 150. 000    employees spread around the globe.  The Global Data & Analytics    competence center is responsible for defining a big data strategy and    implementing respective services to leverages a huge amount and variety    of data from different organizational entities within the Allianz    Group.     Within GD&A,  you will be part of a global team of data scientists,  data    architects,  solution architects,  operational administrators,  and    visualization designers.  You will work together with data architects    and data scientists on several projects (use cases) and contribute to    their success.  You will work with data ingestion / manipulation    frameworks,  virtualization technologies,  automation tools. The position    is located in Munich,  Germany.     Description    • Support the design of new evolutions of the GD&A ecosystem’s    technology stack    • Support the evaluation of new components by testing and comparing    them.     • Support the development of end-to-end prototypes in different stages,     e. g.  data ingestion,  feature engineering,  data provisioning,     visualization design    • Support the lifecycle of GD&A’s solutions by automating deployments,     configurations,  updates    Requirements    • University Student (BSc or MSc) in a technical field such as Software    Engineering or Computer Science    • Hands-on experience with Linux systems    • Experience with at least one programming language    • Firm grasp of fundamental IT concepts like networking and encryption    • Ability to communicate effectively in English    • Willing to work in an international team    • Quick mental grasp,  creative and pro-activeOptional qualifying skills    • Hands-on experience with hypervisor,  provisioning,  configuration and    deployment technologies,  (KVM,  Vagrant,  Puppet,  Docker. . . )    • Hands-on experience with cloud technologies    • Technical knowledge of Hadoop ecosystem or scalable databases    technologies    • Knowledge of enterprise-grade environments    • Experience with distributed computation,  in-memory processing,     cluster management    Additional Info    Job Start: 01. 01. 2016    Together with its customers and sales partners,  Allianz is one of the    strongest financial communities with a presence in over 70 countries.     Around 83 million private and corporate customers rely on Allianz's    knowledge,  global reach,  capital strength and solidity to help them    make the most of financial opportunities and to avoid and safeguard    themselves against risks.  Our ambition is to be the partner of choice -    with excellent employees,  top-notch operating performance and the    necessary financial strength.  Join us to be part of our community!    Allianz SE is the global headquarters of the Allianz Group.  Our    employees reflect the Group's geographic and functional diversity.     Located in Munich,  Allianz SE provides the perfect opportunity to start    or continue with your international career.     Please submit your complete application documents (incl.  CV,     certificates,  references and motivation letter)We are looking forward    to receiving your application on www. allianz. com/careers. Allianz SE is    committed to employment equity and thereforewelcomes applications from    men and womenregardless race or ethnicity,  age,  nationality,  religion,     disability,  sexualorientation or philosophy of life. ", 
+  "companyDescription": "      Allianz    Join Allianz Group to build with us the strongest financial community!    About Allianz Group:    Founded in 1890 in Berlin,  Allianz Group is a global leader and    employer in insurance and financial services in more than 70 countries    worldwide.  With Allianz SE as headquarters,  our many different    insurance and financial service companies are present on all    continents.  Further high quality services are offered globally by    Allianz Asset Management (Allianz Global Investors & PIMCO),  Allianz    Global Corporate & Specialty (corporate and specialty risks),  Allianz    Managed Operations and Services (AMOS),  Euler Hermes (credit insurance)    and Allianz Worldwide Partners (assistance services).     Imprint: www. allianz. com/en/info/credits/credits. html", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

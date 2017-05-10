@@ -1,0 +1,548 @@
+{
+  "jobPosting": {
+    "companyJobCode": "successfactorsenterprise-288378300", 
+    "expirationDate": 1451712801000, 
+    "title": "Data Scientist,  Business Intelligence,  Network Big Data Centre of Excellence", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 5824, 
+          "type": "BR", 
+          "endIdx": 5824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5824, 
+          "type": "BR", 
+          "endIdx": 5824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5732, 
+          "type": "BR", 
+          "endIdx": 5732, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5732, 
+          "type": "BR", 
+          "endIdx": 5732, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5382, 
+          "type": "BR", 
+          "endIdx": 5382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5382, 
+          "type": "BR", 
+          "endIdx": 5382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5270, 
+          "type": "B", 
+          "endIdx": 5382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5270, 
+          "type": "B", 
+          "endIdx": 5382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5270, 
+          "type": "B", 
+          "endIdx": 5382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5270, 
+          "type": "BR", 
+          "endIdx": 5270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5270, 
+          "type": "BR", 
+          "endIdx": 5270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5269, 
+          "type": "BR", 
+          "endIdx": 5269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5225, 
+          "type": "B", 
+          "endIdx": 5246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5225, 
+          "type": "BR", 
+          "endIdx": 5225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5109, 
+          "type": "B", 
+          "endIdx": 5122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5109, 
+          "type": "BR", 
+          "endIdx": 5109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5072, 
+          "type": "B", 
+          "endIdx": 5086, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5072, 
+          "type": "BR", 
+          "endIdx": 5072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5072, 
+          "type": "BR", 
+          "endIdx": 5072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5050, 
+          "type": "B", 
+          "endIdx": 5072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5050, 
+          "type": "BR", 
+          "endIdx": 5050, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5050, 
+          "type": "BR", 
+          "endIdx": 5050, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5005, 
+          "type": "BR", 
+          "endIdx": 5005, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5005, 
+          "type": "BR", 
+          "endIdx": 5005, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4982, 
+          "type": "BR", 
+          "endIdx": 4982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4916, 
+          "type": "LI", 
+          "endIdx": 4981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4816, 
+          "type": "LI", 
+          "endIdx": 4914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4708, 
+          "type": "LI", 
+          "endIdx": 4814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4630, 
+          "type": "LI", 
+          "endIdx": 4706, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4513, 
+          "type": "LI", 
+          "endIdx": 4628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4476, 
+          "type": "LI", 
+          "endIdx": 4511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4333, 
+          "type": "LI", 
+          "endIdx": 4474, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4255, 
+          "type": "LI", 
+          "endIdx": 4331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4175, 
+          "type": "LI", 
+          "endIdx": 4253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4057, 
+          "type": "LI", 
+          "endIdx": 4173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3948, 
+          "type": "LI", 
+          "endIdx": 4055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3766, 
+          "type": "LI", 
+          "endIdx": 3946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3523, 
+          "type": "LI", 
+          "endIdx": 3764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3378, 
+          "type": "LI", 
+          "endIdx": 3521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3378, 
+          "type": "BG", 
+          "endIdx": 4982, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3378, 
+          "type": "BR", 
+          "endIdx": 3378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3357, 
+          "type": "B", 
+          "endIdx": 3378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3357, 
+          "type": "BR", 
+          "endIdx": 3357, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3160, 
+          "type": "LI", 
+          "endIdx": 3356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3061, 
+          "type": "LI", 
+          "endIdx": 3158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3010, 
+          "type": "LI", 
+          "endIdx": 3059, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2925, 
+          "type": "LI", 
+          "endIdx": 3008, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2718, 
+          "type": "LI", 
+          "endIdx": 2923, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2718, 
+          "type": "BG", 
+          "endIdx": 3357, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2718, 
+          "type": "BR", 
+          "endIdx": 2718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2698, 
+          "type": "B", 
+          "endIdx": 2718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2698, 
+          "type": "BR", 
+          "endIdx": 2698, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2698, 
+          "type": "BR", 
+          "endIdx": 2698, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2305, 
+          "type": "BR", 
+          "endIdx": 2305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2305, 
+          "type": "BR", 
+          "endIdx": 2305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1832, 
+          "type": "BR", 
+          "endIdx": 1832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1832, 
+          "type": "BR", 
+          "endIdx": 1832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1821, 
+          "type": "B", 
+          "endIdx": 1832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1821, 
+          "type": "BR", 
+          "endIdx": 1821, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1821, 
+          "type": "BR", 
+          "endIdx": 1821, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1431, 
+          "type": "BR", 
+          "endIdx": 1431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1431, 
+          "type": "BR", 
+          "endIdx": 1431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1020, 
+          "type": "BR", 
+          "endIdx": 1020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1020, 
+          "type": "BR", 
+          "endIdx": 1020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 824, 
+          "type": "BR", 
+          "endIdx": 824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 824, 
+          "type": "BR", 
+          "endIdx": 824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 608, 
+          "type": "BR", 
+          "endIdx": 608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 608, 
+          "type": "BR", 
+          "endIdx": 608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 447, 
+          "type": "BR", 
+          "endIdx": 447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 447, 
+          "type": "BR", 
+          "endIdx": 447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 201, 
+          "type": "BR", 
+          "endIdx": 201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 201, 
+          "type": "BR", 
+          "endIdx": 201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 37, 
+          "type": "BR", 
+          "endIdx": 37, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 37, 
+          "type": "BR", 
+          "endIdx": 37, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Req Id:             89140Bell is a truly Canadian company with over 135 years of success.  We are defined by the passion of our team members and their belief in our company’s vast potential. To ensure we continue to be recognized as Canada’s leading communications company,  we’re committed to finding and developing the next generation of leaders.  This means creating best-in-class career and development opportunities for our employees. If you’re passionate,  driven and find yourself seeking interesting work,  new challenges and continuous learning opportunities,  then we want you to join our team. Our Network team plans,  designs,  builds and operates Bell’s multi-billion dollar networks,  including the continued expansion of our fibre optic network,  HSPA+ and LTE —  Canada’s largest and fastest wireless network. The service we provide is the foundation of Bell’s competitive advantage and a critical step towards achieving Bell’s goal to be recognized by customers as Canada’s leading communications company. Bell is a truly Canadian company with over 135 years of success.  We are defined by the passion of our team members and their belief in our company’s vast potential.  To ensure we continue to be recognized as Canada’s leading communications company,  we’re committed to finding and developing the next generation of leaders.  This means creating best-in-class career and development opportunities for our employees. If you’re passionate,  driven and find yourself seeking interesting work,  new challenges and continuous learning opportunities,  then we want you to join our team.  The Network team plans,  designs,  builds and operates Bell’s multi-billion dollar networks,  including the continued expansion of our fibre optic network,  HSPA+ and LTE — Canada’s largest and fastest wireline and wireless network. Hiring teamThe Network Big Data Centre of Excellence and Business Intelligence team is accountable for leading data technology and data science initiatives across Bell’s Network.  The team works to create and implement technology strategies and solutions to take advantage of vast amounts of Network data spanning wireless,  wireline,  TV,  and Media to improve Bell’s network planning and operation as well as Bell customers’ user experience and to provide advance data related services. This is a unique and exciting opportunity to be part of a newly established and growing Bell Network Data Centre of Excellence team and help execute key Big Data initiatives.  You will have opportunities to apply and grow your data architecture skills by working with experts in the field and using state of the art BI and Big data tools,  as well as apply and grow your business and leadership. Key ResponsibilitiesLead and participate in the design and implementation of Big data and BI solutions using Hadoop and Apache open source components as well as enterprise grade BI and analytics solutions from leading vendors  Analyse user requirements and create effective and efficient data related solutions  Perform data exploration,  mining,  and forecasting  Explore and propose solutions to business problems that can be addressed using insights from data  Develops data architectures strategies,  principles,  standards and frameworks.  Analyzes and evaluates alternative tactical and/or strategic data architecture solutions to meet business requirements Critical CompetenciesUniversity degree in Engineering,  Computer Science,  or Mathematics.  Graduate degree in Analytics or Data Science related discipline is an asset  Advance and hands on data experience spanning database design,  data modelling,  analytics,  reporting,  forecasting,  data warehousing,  Hadoop,  ETL,  etc.  Experience implementing big data solutions using hadoop,  SAS,  and Microstrategy is an asset  Experience in requirements analysis,  design,  implementation,  and testing of software solutions especially data related using C++,  Java,  . net,  Python and other programming languages  Gifted thinker who is extremely resourceful and can learn new technologies on the fly,  driven and proactive  Strong interpersonal,  oral and written communication skills,  at the same time fun and possess a good sense of humour  Team player who always put the interest of the team above all other priorities  A Bachelor degree in Computer Science,  Electrical Engineering,  or equivalent  8+ years technical experience with at least 3 years as data architect holding similar R&amp;Rs as above,  preferably in a Telecom environment.   Autonomous and energetic individual  Ability to oversee and work simultaneously on different requirements with a variety of projects and short timelines  Experience in technology research and evaluation as well as vendor selection  Strong aptitude to recognize opportunities for improvement in day-to-day work and take appropriate actions  Excellent analytical,  problem solving and decision making skills with a strong attention to detail  Experience in Networking and Telecommunications is a strong asset BCE:WKP #feature LI-MIBilingualism is an asset (English and French)Additional InformationPosition Type:             ManagementJob Location:             Canada : Ontario : Mississauga || Canada : Ontario : Toronto || Canada : Quebec : MontrealApplication Deadline:             12/18/2015  Please apply directly online to be considered for this role.   Applications through email will not be accepted.  Bell is committed to fostering an inclusive,  equitable,  and accessible environment where all employees and customers feel valued,  respected,  and supported.  We are dedicated to building a workforce that reflects the diversity of the communities in which we live and serve,  and where every team member has the opportunity to reach their full potential. Created:             Canada            ,              ON            ,              Mississauga"
+    }, 
+    "postalCode": "L5B 0G5", 
+    "jobState": "LISTED", 
+    "companyName": "Bell", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "As Canada’s largest communications company,  Bell provides consumers and businesses with communications solutions through Bell Mobility,  Bell Internet,  Bell TV,  Bell Home Phone,  Bell Media and Bell Business Markets IP-broadband and information and communications technology (ICT) services. SpecialtiesBell Mobility,  Bell TV,  Bell Internet,  Bell Home Phone,  Bell Business Markets"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MGMT", 
+      "IT"
+    ], 
+    "listDate": 1446055898000, 
+    "countryCode": "ca", 
+    "company": "urn:li:company:1531", 
+    "id": 95234509, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mississauga,  CA", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95234509?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. bce. ca%2Fjob%2FMississauga-Data-Scientist%252C-Business-Intelligence%252C-Network-Big-Data-Centre-of-Excellence-ON%2F288378300%2F%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=CLVD&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Management", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Telecommunications"
+  ], 
+  "formattedPostedDaysAgo": "Posted 38 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "38d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Telecommunications"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Bell", 
+    "company": {
+      "universalName": "bell", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/5/005/056/2cc/2e82eb7. png"
+      }, 
+      "companyId": 1531
+    }, 
+    "foundedYear": 1880, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAIZAAAAJDAwZmIyZTlkLWE4YTktNDkyYi04MGFhLWQ4MzM4NmVmZDM4NQ. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/00e/2aa/2bf003a. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAIZAAAAJDAwZmIyZTlkLWE4YTktNDkyYi04MGFhLWQ4MzM4NmVmZDM4NQ. png", 
+    "localizedDescription": "As Canada’s largest communications company,  Bell provides consumers and businesses with communications solutions through Bell Mobility,  Bell Internet,  Bell TV,  Bell Home Phone,  Bell Media and Bell Business Markets IP-broadband and information and communications technology (ICT) services. \r\rSpecialties\r\rBell Mobility,  Bell TV,  Bell Internet,  Bell Home Phone,  Bell Business Markets"
+  }, 
+  "formattedListDate": "October 28,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

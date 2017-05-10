@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Sqor Sports", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "greenhouse_xml-120622", 
+    "title": "Lead Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101234365, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      33
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. sqor. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAARvAAAAJDFjNjY3YjQ5LTlhYjEtNDk0ZC1iNTVmLTcwNWI3NTlmNzE2Zg. png", 
+    "universalName": "sqor", 
+    "companyId": 3106650
+  }, 
+  "description": "     Description    Sqor has a clear technology vision of being a world leader in    Artificial Intelligence in sports by partnering with teams,  athletes    and events to enhance their digital brand.  Sqor Sports is actively    seeking an experienced hands on data engineer who is an incredible    individual contributor,  but an even better team player.  Help build the    next generation of our Data Science pipeline by creating working    solutions,  reports,  and data visualization.  Strong software    engineering,  communication and statistical background is a must.     Familiar with lambda architecture and functional programming.  Must    posses incredible teamwork and collaboration skills,  including    exceptional written and verbal communication.     Requirements       Minimum M. S.  in related field,  Phd preferred       Mastery of machine learning and ability to create reliable        predictions       Fluency in R or Python in the context of scripting,  data        visualization and machine learning       Ability to create working prototypes and dashboards in Shiny        framework       5+ years experience working in large and complex code bases while        maintaining quality and speed       Exceptional teamwork and communication skills       Analyse data and create reports for business functions of company       Strong functional programming skills,  experience with Haskell        preferred       Mastery of Lambda Architecture and AWS       Strong Graph Database skills and experience with Neo4j       7+ years working in software industry       Deep learning experience       Demonstrable Track record of success", 
+  "companyDescription": "      Sqor Sports    Sqor Sports is a social network focused exclusively on sports.  We have    created an entirely new paradigm in digital sports by giving elite    athletes and corporate brands the power to monetize their digital    presence.  Founded in 2011 by entrepreneur Brian Wilhite,  Sqor Sports is    based in San Francisco,  California.     Download the app here:    https://itunes. apple. com/us/app/sqor/id700913088?mt=8", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "FIN", 
+      "IT", 
+      "CUST"
+    ], 
+    "companyJobCode": "22703655", 
+    "title": "Business Data Analyst - Enterprise Data Management - Financial Service", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101963790, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Our client provide banks and financial services companies with    largescale multi-domain big data solutions which help them meet their    own regulatory obligations with a view to customer and transactional    data.  We currently require a number of Business Data Analysts to work    on a global data project spending time on-site with a large    international banking organisation headquartered in London.  Working as    part of a small group of specialist data analysts working on a global    regulatory data project in The City.  This role will suit a data savy    invididual with previous Data Management experience who wants to move    into a specialised but expanding space in the financial services    markets.  The project is focused on driving regulatory data solutions in    order to match the current regulatory requirements faced by the banks    with a view to rcustomer data and especially rulings like Dodd Frank,     FATCA and EMIR.  You will have the following experience: Current    experience in a number of elements of . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

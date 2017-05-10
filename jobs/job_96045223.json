@@ -1,0 +1,362 @@
+{
+  "jobPosting": {
+    "companyJobCode": "silkroad_xml-124", 
+    "expirationDate": 1452015018000, 
+    "title": "Sr.  Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2402, 
+          "type": "BR", 
+          "endIdx": 2402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2402, 
+          "type": "BR", 
+          "endIdx": 2402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2343, 
+          "type": "BR", 
+          "endIdx": 2343, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2270, 
+          "type": "BR", 
+          "endIdx": 2270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2218, 
+          "type": "BR", 
+          "endIdx": 2218, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2191, 
+          "type": "BR", 
+          "endIdx": 2191, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2178, 
+          "type": "BR", 
+          "endIdx": 2178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2137, 
+          "type": "BR", 
+          "endIdx": 2137, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2124, 
+          "type": "BR", 
+          "endIdx": 2124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2088, 
+          "type": "BR", 
+          "endIdx": 2088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2055, 
+          "type": "BR", 
+          "endIdx": 2055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2018, 
+          "type": "BR", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2018, 
+          "type": "BR", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1779, 
+          "type": "BR", 
+          "endIdx": 1779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1779, 
+          "type": "BR", 
+          "endIdx": 1779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1699, 
+          "type": "BR", 
+          "endIdx": 1699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1606, 
+          "type": "BR", 
+          "endIdx": 1606, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1520, 
+          "type": "BR", 
+          "endIdx": 1520, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1392, 
+          "type": "BR", 
+          "endIdx": 1392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1267, 
+          "type": "BR", 
+          "endIdx": 1267, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1145, 
+          "type": "BR", 
+          "endIdx": 1145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1070, 
+          "type": "BR", 
+          "endIdx": 1070, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 911, 
+          "type": "U", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 911, 
+          "type": "B", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 911, 
+          "type": "BR", 
+          "endIdx": 911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 911, 
+          "type": "BR", 
+          "endIdx": 911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 852, 
+          "type": "BR", 
+          "endIdx": 852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 779, 
+          "type": "BR", 
+          "endIdx": 779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 727, 
+          "type": "BR", 
+          "endIdx": 727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 700, 
+          "type": "BR", 
+          "endIdx": 700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 687, 
+          "type": "BR", 
+          "endIdx": 687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 646, 
+          "type": "BR", 
+          "endIdx": 646, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 633, 
+          "type": "BR", 
+          "endIdx": 633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 597, 
+          "type": "BR", 
+          "endIdx": 597, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 527, 
+          "type": "BR", 
+          "endIdx": 527, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 527, 
+          "type": "BR", 
+          "endIdx": 527, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "U", 
+          "endIdx": 527, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "B", 
+          "endIdx": 527, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "BR", 
+          "endIdx": 512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "BR", 
+          "endIdx": 512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Inscape,  VIZIO is pioneering big data products from Smart TV viewing data.  The Senior Data Scientist will be responsible for Designing,  developing algorithms,  programs,  methods,  processes,  and systems to consolidate and analyze unstructured,  diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement.  Additionally,  the Senior Data Scientist will have the opportunity to explore a data set previously unavailable at such scale or granularity. Required Skills• SQL as well as other big-data tools• Scripting language (ex.  Python)• Professional/polished communicator• Team player• Extremely detail oriented and organized• Resourceful• Enthusiastic and positive• Maintains an extreme high level of confidentiality• Ability to catch on quickly and thrive in a very fast paced environment• Professional demeanor with a very high level of integrityRequired Experience• Bachelor&rsquo;s Degree required in a quantitative discipline such as Statistics,  Engineering,  Computer Science,  Applied Mathematics,  etc. • 4+ years of relevant work related experience working with large data sets• Strong data analytics skills.  Demonstrated proficiency with data and big-data tools such as SQL,  Tableau,  Redshift,  etc. • Comfortable writing code in python or equivalent scripting language.  Must be able to test and execute algorithms and models• Ability to understand business problems,  draw conclusions from data and recommend actions on how best to solve these problems. • Experience with TV viewing data,  the TV industry,  or Ad Tech a plus but not required• Excellent communications skills,  ability to document requirements and work collaboratively. • Self-starter,  willing to get hands dirty with own products,  and “make it work”Vizio,  Inc.  offers excellent career opportunity as well as a competitive compensation and benefits package.  We are an equal opportunity,  drug-free employer committed to diversity in the workplace.  Minority/Female/Disabled/Protected Veteran• SQL as well as other big-data tools• Scripting language (ex.  Python)• Professional/polished communicator• Team player• Extremely detail oriented and organized• Resourceful• Enthusiastic and positive• Maintains an extreme high level of confidentiality• Ability to catch on quickly and thrive in a very fast paced environment• Professional demeanor with a very high level of integrity"
+    }, 
+    "postalCode": "94103", 
+    "jobState": "LISTED", 
+    "companyName": "VIZIO", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We deliver smart,  innovative electronics.  With each new product,  we remain faithful to the original vision: Provide brilliant,  awe-inspiring entertainment experiences. Interested in a career at VIZIO? Join us: VIZIO. com/careers"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446410932000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:150048", 
+    "id": 96045223, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "San Francisco,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96045223?trk=guest_apply_click_apply_button&url=http%3A%2F%2FVizio-openhire. silkroad. com%2Fepostings%2Fsubmit. cfm%3Ffuseaction%3Dapp. dspjob%26jobid%3D124%26company_id%3D17149%26version%3D1%26jobBoardId%3D3349&urlHash=azrJ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 2002, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAP4AAAAJDYyNTJjYzU4LTk1ZDYtNGVhZS1iMzYxLTFlMWEzOTdlMGQ4Yw. png"
+    }, 
+    "localizedDescription": "We deliver smart,  innovative electronics.  With each new product,  we remain faithful to the original vision: Provide brilliant,  awe-inspiring entertainment experiences. \r\rInterested in a career at VIZIO? Join us: VIZIO. com/careers", 
+    "company": {
+      "universalName": "vizio", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAMAAAAAJDdmYzgyMzhhLTdkOTAtNDZiMC1iZDMyLTUzMWFiZGNmMTUyZA. png"
+      }, 
+      "companyId": 150048
+    }, 
+    "canonicalName": "VIZIO", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Consumer Electronics"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Consumer Electronics"
+  ], 
+  "formattedPostedDaysAgo": "Posted 34 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "34d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 1,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

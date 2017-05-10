@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Harrington Starr", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "harringtonstarr-3750", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101821774, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. harringtonstarr. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAblAAAAJDY3MzBlYThlLTM5MDYtNGQ4ZS1hMWFjLTJmNDk3NzA3MjUwMg. png", 
+    "universalName": "harrington-starr", 
+    "companyId": 1032582
+  }, 
+  "description": "    DATA SCIENTIST – DUBLIN 40-60k EURO’s     We are looking for experienced and talented Data Scientists to come and    work with us  to build and enhance our Machine Learning and Analysis    engines.  You'll be joining quite a young and diverse team of Software    Engineers,  Data Scientists,  Equities and Macro-economic analysts and    Global Finance and IPO experts.     We’re exploring many different diverse data sources to provide relevant    and reliable insights,  and we've modelled our products to cater for    real-time breaking information,  and long-term data-driven research for    some of the biggest financial institutions and investment houses in the    world.     Naturally,  you'll be happy to hear we commit and ship code and products    frequently.  Our Data Scientists work with a variety of toolkits,  and we    have large datasets built by domain experts over three years.  We're    very open to learning new things.  We're also architecting an ambitious    next-generation platform.  with a variety of languages like Java and    Scala,  and high-performance toolkits and frameworks.     We're doing much of this with close guidance and advice from our Data    Science advisor,  and also the advice and guidance of our Technical    Advisor -  who was once Twitter's Technical Architect,  and our other    panel of expert advisors (eaglealpha. com/about).  We offer compeititve    salary and stock options,  free coffee,  a decent equipment budget.     What We're Looking For    2-3+ years demonstrable Industry Experience.  M. Sc or Ph. D in Computer    Science,  Mathematics,  Finance or Statistics,  or other related    qualifications desired.  Flexibilities that are needed to work in a    small,  fast-paced startup.  Passionate about technology and developing    world-class software,  wanting to learn and gain new skills as you    progress.    Fluent in English (verbal and written).  Development history    with Python,  Scala,  Java,  Spark and others (impress us!).  Database and    storage management with one or more of MySQL,  PostgreSQL,  MongoDB,  HDFS    etc.   Enjoy solving big and small data science and technical    challenges,  and initiative to taking ownership of projects,  proposing    solutions and new features on the entire stack.   Appreciative of Agile    development,  continuous integration,  and efficient code. ", 
+  "companyDescription": "      Harrington Starr    Harrington Starr deliver high quality IT professionals on a permanent,     retained,  contract,  and interim basis to the global financial services    and commodity trading sectors.  Specialising in Financial IT,     Commodities IT,  Buy and Sell Side Trading Systems and Enterprise    Technology we provide a full solution to all of our clients    and candidates.     Our experienced consultants are passionate about our core belief of    excellence through understanding and we strive to work with both our    clients and candidates to ensure we consistently deliver to their    needs.  We believe that success in the search for talent comes from    developing a deep understanding of your situation and having a    malleable approach to presenting the best solutions to exceed    expectations.     We are meticulous in our attention to detail,  seeking to ensure we    consistently fulfil a thorough and comprehensive service that leads to    complete customer satisfaction.  Through this detail,  we will tailor    solutions that hold strong,  long term benefits as well as short term    wins.  We pride ourselves on getting the    basics right ensuring that we achieve excellence by mastering the    fundamentals.     We see honesty as integral to our relationships and will advise on what    the best solutions for the customer are.  We don’t look to force    decisions,  we look to present and advise on options.  We understand our    markets and have built impressive networks throughout the industry for    candidates and clients alike.     We are highly committed to the details.  We deal in facts,  not opinions.     We seek to master the basics.  We are focused in our markets.  We    understand the needs of our customers.  We consistently deliver.     All of these combine to ensure Harrington Starr consistently makes it    happen for our clients and candidates. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,432 @@
+{
+  "jobPosting": {
+    "companyJobCode": "intermediair-7802665", 
+    "expirationDate": 1451962682000, 
+    "title": "Data Analyst/Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4418, 
+          "type": "BR", 
+          "endIdx": 4418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3942, 
+          "type": "BR", 
+          "endIdx": 3942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3941, 
+          "type": "BR", 
+          "endIdx": 3941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3690, 
+          "type": "BR", 
+          "endIdx": 3690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3690, 
+          "type": "BR", 
+          "endIdx": 3690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3675, 
+          "type": "BR", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3675, 
+          "type": "BR", 
+          "endIdx": 3675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3600, 
+          "type": "BR", 
+          "endIdx": 3600, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3599, 
+          "type": "BR", 
+          "endIdx": 3599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3496, 
+          "type": "BR", 
+          "endIdx": 3496, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3496, 
+          "type": "BR", 
+          "endIdx": 3496, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3495, 
+          "type": "BR", 
+          "endIdx": 3495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3495, 
+          "type": "BR", 
+          "endIdx": 3495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3334, 
+          "type": "BR", 
+          "endIdx": 3334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3334, 
+          "type": "BR", 
+          "endIdx": 3334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3302, 
+          "type": "B", 
+          "endIdx": 3334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3302, 
+          "type": "BR", 
+          "endIdx": 3302, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3302, 
+          "type": "BR", 
+          "endIdx": 3302, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3246, 
+          "type": "BR", 
+          "endIdx": 3246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3246, 
+          "type": "BR", 
+          "endIdx": 3246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3193, 
+          "type": "BR", 
+          "endIdx": 3193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3193, 
+          "type": "BR", 
+          "endIdx": 3193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3159, 
+          "type": "BR", 
+          "endIdx": 3159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3159, 
+          "type": "BR", 
+          "endIdx": 3159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3118, 
+          "type": "BR", 
+          "endIdx": 3118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3118, 
+          "type": "BR", 
+          "endIdx": 3118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3108, 
+          "type": "B", 
+          "endIdx": 3118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3108, 
+          "type": "BR", 
+          "endIdx": 3108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3108, 
+          "type": "BR", 
+          "endIdx": 3108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3107, 
+          "type": "BR", 
+          "endIdx": 3107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3107, 
+          "type": "BR", 
+          "endIdx": 3107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2435, 
+          "type": "BR", 
+          "endIdx": 2435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2435, 
+          "type": "BR", 
+          "endIdx": 2435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2147, 
+          "type": "BR", 
+          "endIdx": 2147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2147, 
+          "type": "BR", 
+          "endIdx": 2147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2130, 
+          "type": "BR", 
+          "endIdx": 2130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2130, 
+          "type": "BR", 
+          "endIdx": 2130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1939, 
+          "type": "BR", 
+          "endIdx": 1939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1939, 
+          "type": "BR", 
+          "endIdx": 1939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1938, 
+          "type": "BR", 
+          "endIdx": 1938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1938, 
+          "type": "BR", 
+          "endIdx": 1938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1271, 
+          "type": "BR", 
+          "endIdx": 1271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "B", 
+          "endIdx": 1271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "BR", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "BR", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 523, 
+          "type": "BR", 
+          "endIdx": 523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 501, 
+          "type": "B", 
+          "endIdx": 523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 501, 
+          "type": "BR", 
+          "endIdx": 501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 501, 
+          "type": "BR", 
+          "endIdx": 501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 208, 
+          "type": "BR", 
+          "endIdx": 208, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 208, 
+          "type": "BR", 
+          "endIdx": 208, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Functieomschrijving Zoek je een uitdaging op het gebied van Business Analytics,  Advanced Analytics en Big Data? Bij de ORTEC Consulting Group zit je dan op de juiste plek en kun jij je carrière optimaliseren. Ben jij analytisch sterk,  word jij enthousiast als je een klant blij kan maken met nieuwe inzichten verkregen uit data,  wil jij klanten helpen met betere en betrouwbaardere voorspellingen? Wil je werken en doorgroeien bij een bedrijf dat tot de wereldtop behoort? Kom dan ons team versterken.  ORTEC Consulting GroupWij zorgen er voor dat medicijnen op tijd in de apotheek liggen,  dat grote supermarktketens miljoenen besparen op hun logistieke netwerken.  Dat de melk die jij koopt vers is.  Dat vliegtuigen op tijd vertrekken.  Dat het beste staal ter wereld nog altijd uit Nederland komt.  Dat e-commerce bedrijven de optimale prijs kunnen vragen voor hun producten. Overal waar revenues,  supply-chains,  logistieke,  bedrijfs- of productieprocessen geoptimaliseerd worden,  kun je de ORTEC Consulting Group aantreffen.  Maar we doen nog meer: met onze wiskundige en econometrische modellen ondersteunen wij bedrijven in hun besluitvorming.  Als Data Analyst/Data Scientist maak jij dus deel uit van een uniek team van specialisten. Data Science bij ORTEC Consulting GroupWat kun je leren van historische data? Wat is er gebeurd? Waarom is dat gebeurd? Wat kunnen we doen om dit voortaan te voorkomen? Kunnen we de toekomst beter voorspellen? En als we die kunnen voorspellen wat zijn de juiste beslissingen of alternatieven?Dat zijn de vragen die wij van onze klanten krijgen.  Ons team gebruikt de beschikbare informatie van de klant,  maar ook open data bronnen om zo relevante inzichten te verkijgen en te ontdekken.  Wij zijn de ‘Data Crunchers’ die informatie visueel tot leven laten komen,  die van een set van nietszeggende getallen een helder dashboards creëeren,  die de toekomstige beslissingen onderbouwt met quatitatieve inzichten.  Wij hebben een divers team met expertise in alle componenten van Analytics: Descriptive,  Prescriptive,  Predictive en Optimized.  Wij werken voor verschillende markten en werken internationaal.  Bedrijfsprofiel ORTEC is een ambitieuze organisatie die bestaat uit experts op het gebied van geavanceerde planningssystemen en consultancydiensten.  Wereldwijd maken meer dan duizend bedrijven gebruik van onze producten en (consultancy)dienstverlening,  zoals BP,  Coca-Cola Enterprises,  TNT,  Ahold en KLM. Bij ORTEC geven we medewerkers graag volop de ruimte om zich verder te ontwikkelen en zijn we altijd geïnteresseerd in jouw (nieuwe) ideeën.  De organisatiestructuur is plat.  Hierdoor houden we de communicatielijnen kort en vermijden we een sterke hiërarchie.  De sfeer is open en informeel,  wat een uitstekende basis is voor een goede werksfeer.  ORTEC is een internationaal bedrijf,  gespecialiseerd in geavanceerde softwareoplossingen en consultancydiensten voor planning en optimalisatie.  Sinds onze oprichting zijn we gegroeid tot meer dan 750 medewerkers in Nederland,  België,  Duitsland,  Frankrijk,  Engeland,  Roemenië,  Italië,  de Verenigde Staten,  Australië en Brazilië.  Wij bieden·        Een prettige informele werksfeer·        Veel verantwoordelijkheid·        Volop mogelijkheden om jezelf te ontwikkelen·        Goede primaire en secundaire arbeidsvoorwaardenMeer informatie of solliciteren?Kijk op onze website www. werkenbijortec. com voor meer informatie over onze organisatie en voor andere (IT) vacatures,  of bel +31 (0) 88-6783265 en vraag naar HR.  Heb je interesse in deze functie? Stuur dan je motivatie,  cijferlijst en CV naar recruitment@ortec. com.  Acquisitie naar aanleiding van deze advertentie wordt niet op prijs gesteld Functie-eisen Wij zoeken analytisch sterke,  nieuwsgierige,  creatieve mensen,  die door willen groeien en die praktisch om kunnen gaan met complexiteit en een exacte achtergrond hebben.  Zowel starters als professionals met een aantal jaar werkervaring mogen reageren.  Je hebt een Universitair diploma en bijvoorbeeld business analytics,  (toegepaste) wiskunde,  econometrie,  operations research,  informatica of bedrijfskunde gestudeerd.  Jij bent bekwaam in (of wilt leren) statistiek,  machine learning,  visualisatie en/of programmeren.  En je kunt niet wachten om de wereld van Big Data om te zetten van een hype naar een defacto trend.  Omdat wij een internationaal bedrijf zijn wordt van je verwacht dat jij uitstekend Engels spreekt en schrijft.  "
+    }, 
+    "postalCode": "2702", 
+    "jobState": "LISTED", 
+    "companyName": "ORTEC", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "ORTEC is one of the world’s leaders in optimization software and analytics solutions.  We make your business more efficient,  more predictable and more effective.  Turning complex challenges into easy-to-use solutions. ORTEC’s products and services result in optimized fleet routing and dispatch,  vehicle and pallet loading,  workforce scheduling,  delivery forecasting,  logistics network planning and warehouse control.  ORTEC offers stand-alone,  custom-made and SAP® certified and embedded solutions,  supported by strategic partnerships.  We serve clients in almost every industry.  And with 15 offices strategically located across 4 continents,  we can deliver solutions on a global scale.  Always underpinned by local know-how and service. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1447661061000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:165351", 
+    "id": 98964299, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Zoetermeer,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "ORTEC is one of the world’s leaders in optimization software and analytics solutions.  \rWe make your business more efficient,  more predictable and more effective.  Turning complex challenges into easy-to-use solutions. \r\rORTEC’s products and services result in optimized fleet routing and dispatch,  vehicle and pallet loading,  workforce scheduling,  delivery forecasting,  logistics network planning and warehouse control.  ORTEC offers stand-alone,  custom-made and SAP® certified and embedded solutions,  supported by strategic partnerships.  \r\rWe serve clients in almost every industry.  And with 15 offices strategically located across 4 continents,  we can deliver solutions on a global scale.  Always underpinned by local know-how and service. ", 
+    "foundedYear": 1981, 
+    "canonicalName": "ORTEC", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/29c/1b5/34cdb3c. png"
+    }, 
+    "company": {
+      "specialities": [
+        "logistics", 
+        "operation research", 
+        "optimization", 
+        "logistics planning", 
+        "consulting", 
+        "scheduling"
+      ], 
+      "universalName": "ortec", 
+      "companyId": 165351, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAbfAAAAJGRkNGEzN2M0LTVhNDMtNGRlZS1hYzczLWYzY2JmOTVlOWVkNA. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "nl", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98964299?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. intermediair. nl%2Fvacature%2F7802665%2FData%2BAnalyst%252FData%2BScientist%2F&urlHash=80bA&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "nl", 
+  "formattedEmploymentStatus": "Full-time"
+}

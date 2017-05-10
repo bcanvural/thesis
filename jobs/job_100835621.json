@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Cyclad", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "careesma-11335302", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100835621, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. cyclad. eu", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWKAAAAJGIyNGQwMTAzLWQ1ZWUtNDRkNy04MDJmLTg5YWYwNjA4YWMyNQ. png", 
+    "universalName": "cyclad", 
+    "companyId": 363271
+  }, 
+  "description": "    For our Client - worldwide leader providing software for the service    and online booking in travel industry we are currently seeking for    candidates for the position of Data Scientist.     Job Specification       Participate in the identification,  implementation and growth of the        Travel Intelligence solutions for customers       Understand the business of the customer and understand the main        performance indicators that can be leveraged to improve activity or        decrease costs       Work closely with customer facing teams and the customers to        identify and answer relevant customer questions using appropriate        statistical techniques on available data       Drive the collection of new data,  both internal and external,  and        ensure its accuracy       Drive the refinement of existing data sources       Communicate findings to all relevant internal and external        contributors in a way that is accessible to each audience", 
+  "companyDescription": "      Cyclad    Cyclad is an International consulting company operating in the IT/ICT    sectors,  providing outsourcing solutions in the area of HR and IT    services.  Core of services include Knowledge Process Outsourcing,     Recruitment Process Outsourcing,  Software House,  Infrastructure    Management,  Service Desk and Monitoring.     Just because of the commitment of our employees and a growing number of    consultants employed by Cyclad we operate globally,  primarily in Europe    but also in North America,  Africa,  and Asia.     Our mission is to provide services of the highest quality and at the    same time maintain partner relations with our Clients as well as with    our employees.  Why? Because Cyclad’s success depends not only on new    technologies but most of all on people and their commitment.     Get to know us better and learn more about Cyclad recruitment process    at www. cyclad. eu. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

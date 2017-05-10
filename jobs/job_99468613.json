@@ -1,0 +1,181 @@
+{
+  "jobPosting": {
+    "companyJobCode": "damen-dbd4a3d7afbf54f8c5afced86ba03e27", 
+    "expirationDate": 1451964892000, 
+    "title": "Internship Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1425, 
+          "type": "LI", 
+          "endIdx": 1486, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1329, 
+          "type": "LI", 
+          "endIdx": 1420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1313, 
+          "type": "LI", 
+          "endIdx": 1324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "LI", 
+          "endIdx": 1308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "LI", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "LI", 
+          "endIdx": 1248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "LI", 
+          "endIdx": 1231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1107, 
+          "type": "LI", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1107, 
+          "type": "BG", 
+          "endIdx": 1486, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1093, 
+          "type": "BR", 
+          "endIdx": 1093, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 898, 
+          "type": "BR", 
+          "endIdx": 898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 640, 
+          "type": "BR", 
+          "endIdx": 640, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 640, 
+          "type": "BR", 
+          "endIdx": 640, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 311, 
+          "type": "BR", 
+          "endIdx": 311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 311, 
+          "type": "BR", 
+          "endIdx": 311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Background The Group IT&amp;IM (Information Management) department is urgently looking for a student of Information Science (or a similar study background) with interest in programming scripting languages for a complex Big Data assignment.  Are YOU the right person for this task? Then we would love to meet you! Big Data is an all-encompassing term for a collection of tools designed to handle and process data sets so large and complex that it becomes difficult to process them using traditional applications.  Big Data is a trend in the field of Business Intelligence &amp; Analytics that is developing fast and is becoming the “new norm”. The objective of the Business Intelligence &amp; Analytics department is to provide the right information,  regardless of what the source of the data is.  For this reason,  the Business Intelligence &amp; Analytics team is developing its Big Data capabilities.   To further develop our Big Data solution,  we are in search of an intern who has the ambition to learn in this field  and who can support us in setting up and developing our Big Data environment.  Your Profile HBO/WO Information Science or similar studies;     Native Dutch speaking person with excellent English communication skills;     Independent;     Creative (solutions);     Problem solving capabilities;     Analytical;     Familiar with and interest in programming scripting languages (like Java,  Linux,  Python,  R)     Experience in Big Data analytics and/or willingness to learn. "
+    }, 
+    "postalCode": "4200", 
+    "jobState": "LISTED", 
+    "companyName": "Damen Shipyards Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Damen Shipyards Group consists of 32 operating companies worldwide.  The group originates from a single shipyard founded in Holland in 1927 and is active in ship newbuilding and repair as well as marine services.  With an annual turnover of approximately 2 billion euros,  Damen is the largest shipbuilding group in The Netherlands and one of the leading builders of workboats and fast craft worldwide. Damen focuses on construction of standardised proven designs and ongoing product development,  offering our clients advantages such as optimized performances and reliability,  short delivery times and low operational costs.  Available designs include both commercial and military vessels,  ranging from tugs,  workboats,  dredgers,  buoy laying and offshore vessels,  to cargo vessels,  fast ferries,  patrol boats,  crew boats and other fast craft. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1447826926000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:30419", 
+    "id": 99468613, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Gorinchem,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "formattedCompanySize": "5001-10000", 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAPvAAAAJGRkNmUwNGI1LWZmM2ItNGJkZi04NmFhLTUzOGUzZWZlZmJiMg. png", 
+    "localizedDescription": "Damen Shipyards Group consists of 32 operating companies worldwide.  The group originates from a single shipyard founded in Holland in 1927 and is active in ship newbuilding and repair as well as marine services.  With an annual turnover of approximately 2 billion euros,  Damen is the largest shipbuilding group in The Netherlands and one of the leading builders of workboats and fast craft worldwide. \r\rDamen focuses on construction of standardised proven designs and ongoing product development,  offering our clients advantages such as optimized performances and reliability,  short delivery times and low operational costs.  Available designs include both commercial and military vessels,  ranging from tugs,  workboats,  dredgers,  buoy laying and offshore vessels,  to cargo vessels,  fast ferries,  patrol boats,  crew boats and other fast craft. ", 
+    "formattedIndustries": [
+      "Shipbuilding"
+    ], 
+    "canonicalName": "Damen Shipyards Group", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAPvAAAAJGRkNmUwNGI1LWZmM2ItNGJkZi04NmFhLTUzOGUzZWZlZmJiMg. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/01c/201/1fe1b3a. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Ship Building", 
+        "Ship Repair"
+      ], 
+      "universalName": "damen-shipyards", 
+      "companyId": 30419, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAa4AAAAJDk4YzhmMjNlLWFlMzQtNDk2MC04OTc1LTkwNjk1MmZmM2I3ZA. png"
+      }
+    }, 
+    "hasPaidLcp": true
+  }, 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedExperience": "Internship", 
+  "formattedIndustries": [
+    "Shipbuilding"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99468613?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareer. damen. com%2Fen%2Fjobs%2Fdamen-shipyards-gorinchem%2F785084-internship-big-data&urlHash=CzXM&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Temporary"
+}

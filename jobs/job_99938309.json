@@ -1,0 +1,228 @@
+{
+  "jobPosting": {
+    "companyJobCode": "careesma-12460182", 
+    "expirationDate": 1451767084000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1224, 
+          "type": "LI", 
+          "endIdx": 1340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1081, 
+          "type": "LI", 
+          "endIdx": 1213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "LI", 
+          "endIdx": 1070, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 746, 
+          "type": "LI", 
+          "endIdx": 892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 746, 
+          "type": "BG", 
+          "endIdx": 1340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 746, 
+          "type": "BR", 
+          "endIdx": 746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 736, 
+          "type": "B", 
+          "endIdx": 746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 736, 
+          "type": "BR", 
+          "endIdx": 736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 736, 
+          "type": "BR", 
+          "endIdx": 736, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 604, 
+          "type": "BR", 
+          "endIdx": 604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 604, 
+          "type": "BR", 
+          "endIdx": 604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 589, 
+          "type": "B", 
+          "endIdx": 604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 589, 
+          "type": "BR", 
+          "endIdx": 589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 589, 
+          "type": "BR", 
+          "endIdx": 589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 588, 
+          "type": "BR", 
+          "endIdx": 588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 588, 
+          "type": "BR", 
+          "endIdx": 588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 286, 
+          "type": "BR", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 286, 
+          "type": "BR", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 188, 
+          "type": "BR", 
+          "endIdx": 188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 188, 
+          "type": "BR", 
+          "endIdx": 188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Technological partner of reference of the largest international companies,  ALTEN has become in 20 years the leading European provider of engineering and technology consultancy. Over 18 400 employees (including 88% engineers) – present in 20 countries – Revenues of €1 373. 2 MITEKNA Polska is an ALTEN Group company,  Europe's leading Engineering and Technology Consultancy (ETC) company,  and is involved in R&amp;D projects in major corporations.  We provide high value added engineering services,  being at the core of our client’s innovation process in various industry sectors.  Job DescriptionCurrently,  we are looking for a Consultant who will carry out a project for our Client - international travel IT solutions provider. Main TasksUnderstand the business of the customer and understand the main performance indicators that can be leveraged to improve activity or decrease costs           Work closely with customer facing teams and the customers to identify and answer relevant customer questions using appropriate statistical techniques on available data           Drive the collection of new data,  both internal and external,  and ensure its accuracy.  Drive the refinement of existing data sources           Communicate findings to all relevant internal and external contributors in a way that is accessible to each audience"
+    }, 
+    "postalCode": "01716", 
+    "jobState": "LISTED", 
+    "companyName": "ITEKNA Polska", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "ITEKNA Polska is an ALTEN Group Company,  Europe's leading Engineering and Technology Consultancy (ETC) company,  and is involved in R&amp;D projects in major corporations.  Technological partner of reference of the largest international companies,  ALTEN has become in 20 years the leading European provider of engineering and technology consultancy. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447965188000, 
+    "countryCode": "pl", 
+    "company": "urn:li:company:5341247", 
+    "id": 99938309, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Warsaw,  PL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99938309?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. infopraca. pl%2Fpraca%2Fdata-scientist%2Fwarszawa%2F12460182%3Futm_source%3DLinkedin%26utm_medium%3Dorganic_jobs%26utm_campaign%3DLinkedin&urlHash=0l2d&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2009, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/086/14b/0910f0e. png"
+    }, 
+    "localizedDescription": "ITEKNA Polska is an ALTEN Group Company,  Europe's leading Engineering and Technology Consultancy (ETC) company,  and is involved in R&D projects in major corporations.  Technological partner of reference of the largest international companies,  ALTEN has become in 20 years the leading European provider of engineering and technology consultancy. ", 
+    "company": {
+      "specialities": [
+        "Information Technology and Services", 
+        "IT & Software", 
+        "Technical Consulting", 
+        "Project Management", 
+        "Information Services", 
+        "Engineering", 
+        "Automotive", 
+        "Industrial Automation"
+      ], 
+      "universalName": "itekna-polska", 
+      "companyId": 5341247, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/086/137/092006e. png"
+      }
+    }, 
+    "canonicalName": "ITEKNA Polska", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/86788360", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Job Requirements             The candidate must have:  1) Scientific expertise and real-world experience in deep learning (convolutional neural networks,  restricted Boltzmann machines,  and deep neural networks).   2) Strong background in basic machine learning and statistical modeling (e. g. ,  classification,  regression,  and clustering)  3) Strong track record in related scientific fields (e. g. ,  machine learning,  computer science,  engineering,  statistics,  and robotics)  4) Expertise in programming (e. g. ,  C++,  CUDA,  Python,  R and Java) and computing technologies (high-performance computing and/or big-data platforms)  5) Ability to use existing machine/deep learning libraries (e. g. ,  Torch,  Theano,  Caffe,  and SciKitLearn)   The Ideal candidate would also have:  1) Track record in integrating machine learning with real-time computing (including mobile apps and front-end systems)  2) Experience in employing machine learning in a commercial/business setting – in collaboration with product (back-end and front-end) development teams.   3) Experience in applying machine learning (ideally,  deep learning) to problems in one of the following domains: Natural language processing,  signal processing,  and speech processing.   4) Publication record in scientific conferences such as NIPS,  CVPR,  ICML,  ICCV,  ECCV,  ICLR,  and IJCV.   5) Broad knowledge of machine learning (including topics such as graph theory,  hierarchical modeling,  and Bayesian inference)  6) Practical experience of modern big-data computing ecosystems such as Apache Spark  7) Proven track record in leading scientific projects                                                                                                                         Our client is a leading global insurance company.  They provide a wide range of property casualty insurance,  life insurance,  retirement products,  mortgage insurance and other financial services to customers in more than 130 countries and jurisdictions.  Their diverse offerings include products and services that help businesses and individuals protect their assets,  manage risks,  and provide for retirement security. ", 
+  "following": false, 
+  "companyDescription": "Leading financial services company ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Investigo", 
+  "canFollow": false, 
+  "companyId": "31172", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Investigo", 
+    "title": "Data Scientist - Computer Vision \t "
+  }, 
+  "description": "We are looking for a computer-vision scientist to lead the development and implementation of the algorithmic core of a series of exciting new projects in our clients Special Projects Lab (part of our clients Global Science team).  The success in this role requires the ownership of a significant new work-stream in the team focused on solving complex computer vision problems (including,  but not limited to,  image representation,  object recognition,  and caption generation),  using machine learning (particularly,  deep learning methods such as convolutional neural networks) and high-performance computing (including,  near real-time image analysis).    The success in this role require the candidate to:  1) Employ the best of computer-vision research for solving business problems - disrupting the current practice in insurance  2) Build and refine computer vision and machine learning algorithms that can find patterns in large multi-modal data (particularly,  images and videos)  3) Provide the business with data-driven apps,  insights and strategies  4) Participate in,  lead,  create cross-functional projects  5) Communicate (both oral and written) with colleagues and stakeholders (both internal and external)  6) Review,  direct,  guide,  inspire the research of more junior scientists in the team   Above all,  this role will provide a unique opportunity to enjoy state-of-the-art research and development; grow and be challenged in an entrepreneurial / start-up-like division of a large company; and create game-changing products for the insurance/financial industry.                "
+}

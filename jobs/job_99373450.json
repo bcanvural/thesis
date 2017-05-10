@@ -1,0 +1,319 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobsacuk-AME160", 
+    "expirationDate": 1451784232000, 
+    "title": "PhD - Big Data and Internet of Things Architecture and Protocols", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2136, 
+          "type": "BR", 
+          "endIdx": 2136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2136, 
+          "type": "BR", 
+          "endIdx": 2136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1950, 
+          "type": "BR", 
+          "endIdx": 1950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1950, 
+          "type": "BR", 
+          "endIdx": 1950, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1813, 
+          "type": "BR", 
+          "endIdx": 1813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1813, 
+          "type": "BR", 
+          "endIdx": 1813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1801, 
+          "type": "B", 
+          "endIdx": 1813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1801, 
+          "type": "BR", 
+          "endIdx": 1801, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1801, 
+          "type": "BR", 
+          "endIdx": 1801, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1757, 
+          "type": "B", 
+          "endIdx": 1778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1757, 
+          "type": "BR", 
+          "endIdx": 1757, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1757, 
+          "type": "BR", 
+          "endIdx": 1757, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "B", 
+          "endIdx": 1677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "BR", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "BR", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "BR", 
+          "endIdx": 1517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "BR", 
+          "endIdx": 1517, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1340, 
+          "type": "B", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1340, 
+          "type": "BR", 
+          "endIdx": 1340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1340, 
+          "type": "BR", 
+          "endIdx": 1340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "B", 
+          "endIdx": 1337, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "BR", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "BR", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "B", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 868, 
+          "type": "BR", 
+          "endIdx": 868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 868, 
+          "type": "BR", 
+          "endIdx": 868, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 687, 
+          "type": "BR", 
+          "endIdx": 687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 687, 
+          "type": "BR", 
+          "endIdx": 687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 405, 
+          "type": "BR", 
+          "endIdx": 405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 405, 
+          "type": "BR", 
+          "endIdx": 405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 111, 
+          "type": "BR", 
+          "endIdx": 111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 111, 
+          "type": "BR", 
+          "endIdx": 111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 64, 
+          "type": "BR", 
+          "endIdx": 64, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 64, 
+          "type": "BR", 
+          "endIdx": 64, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Leeds Anniversary Research Scholarship - Open to allSchool of Electronic and Electrical EngineeringVery large data sets are currently generated as a result of increased real time sensing and measurements in a range of fields from healthcare to smart cities.  Radically different network architecture and protocols are needed to support the expected growth and new functionalities are required.  Simple devices are expected in future to gain and provide significant levels of intelligence by linking to the Internet.  The Internet of Things (IoT) is expected to grow to over 100 billion devices linking a wide range of consumer,  business and industrial devices to the Internet.   The focus of this studentship is to develop network architectures and protocols that provide resilience,  scalability and low power consumption in future Big data and IoT networks.   The PhD studentship will provide a good opportunity to work within the world class Communication Networks and Systems group in the School of Electronic and Electrical Engineering,  University of Leeds,  and link with the industrial collaborators and academic partners on the different projects within the group. Value: This studentship,  which is open to UK,  EU and international students,  will cover academic fees and a maintenance of £14, 254 in 2016/17.  Number of awards: 1 Entry requirements: Applicants must have a minimum of a UK upper second class honours degree (2. 1),  or equivalent,  in electronic/electrical engineering,  physics,  or mathematics. If English is not the applicant’s first language,  they must provide evidence that they meet the University’s minimum English Language requirements. Main contact: Contact Professor Jaafar Elmirghani to discuss this project further informally. Application deadline: Friday 15 January 2016How To ApplyApplications for this scheme will open on Friday 30th October.  This is when details about the application process will be made available. If you would like to receive an email reminder,  to inform you that applications have opened,  please fill in your name and email on our contact form and we will be in touch in due course. "
+    }, 
+    "postalCode": "LS1", 
+    "jobState": "LISTED", 
+    "companyName": "University of Leeds", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Leeds is among the top ten universities for research in the UK and is internationally acknowledged as a centre of excellence in a wide range of academic and professional disciplines.  We have an ambitious vision to join the top 50 universities in the world by 2015 through our distinctive ability to integrate world-class research,  scholarship and education.  Integrating research and learning and teaching is at the heart of our strategy.  Our courses are taught by staff who are engaged in world-class research and cutting-edge professional practice. We invest our own resources in helping organisations turn university research into world-class products and services.  From the invention of the Ultracane which helps blind and visually impaired people,  to a spin-out company which provides expert services and new technologies for the biopharmaceutical,  defence and healthcare sectors,  we are at the forefront of innovation.  Our size and international reputation enables us to offer one of the widest ranges of academic courses in the UK.  During the current academic year there are over 30, 500 students attached to 700 undergraduate and 474 postgraduate degree programmes.  A further 31, 382 men and women are enrolled on short courses with the University. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR", 
+      "ENG"
+    ], 
+    "listDate": 1447790654000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:7244", 
+    "id": 99373450, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Leeds,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Educational", 
+    "formattedEmployeeCount": "5001-10000 employees", 
+    "hasPaidLcp": false, 
+    "foundedYear": 1904, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/083/107/23eca25. png"
+    }, 
+    "localizedDescription": "Leeds is among the top ten universities for research in the UK and is internationally acknowledged as a centre of excellence in a wide range of academic and professional disciplines.  \r\rWe have an ambitious vision to join the top 50 universities in the world by 2015 through our distinctive ability to integrate world-class research,  scholarship and education.  \r\rIntegrating research and learning and teaching is at the heart of our strategy.  Our courses are taught by staff who are engaged in world-class research and cutting-edge professional practice. \r\rWe invest our own resources in helping organisations turn university research into world-class products and services.  From the invention of the Ultracane which helps blind and visually impaired people,  to a spin-out company which provides expert services and new technologies for the biopharmaceutical,  defence and healthcare sectors,  we are at the forefront of innovation.  \r\rOur size and international reputation enables us to offer one of the widest ranges of academic courses in the UK.  During the current academic year there are over 30, 500 students attached to 700 undergraduate and 474 postgraduate degree programmes.  A further 31, 382 men and women are enrolled on short courses with the University. ", 
+    "company": {
+      "specialities": [
+        "Higher Education"
+      ], 
+      "universalName": "university-of-leeds", 
+      "companyId": 7244, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/3/005/00c/38e/0d23361. png"
+      }
+    }, 
+    "canonicalName": "University of Leeds", 
+    "formattedIndustries": [
+      "Higher Education"
+    ], 
+    "formattedCompanySize": "5001-10000"
+  }, 
+  "formattedJobFunctions": [
+    "Other", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Higher Education"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99373450?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobs. ac. uk%2Fjob%2FAME160%2Fphd-big-data-and-internet-of-things-architecture-and-protocols%2F&urlHash=PtvD&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

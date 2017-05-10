@@ -1,0 +1,466 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobsindia-4027639", 
+    "expirationDate": 1451284779000, 
+    "title": "Data Scientist - Machine Learning Techniques", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1501, 
+          "type": "BR", 
+          "endIdx": 1501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1501, 
+          "type": "BR", 
+          "endIdx": 1501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1501, 
+          "type": "LI", 
+          "endIdx": 1501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1501, 
+          "type": "BR", 
+          "endIdx": 1501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1489, 
+          "type": "BR", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "LI", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "BR", 
+          "endIdx": 1482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1464, 
+          "type": "BR", 
+          "endIdx": 1464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "LI", 
+          "endIdx": 1464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "BR", 
+          "endIdx": 1448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1436, 
+          "type": "BR", 
+          "endIdx": 1436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "LI", 
+          "endIdx": 1436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1342, 
+          "type": "BR", 
+          "endIdx": 1342, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1332, 
+          "type": "BR", 
+          "endIdx": 1332, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1187, 
+          "type": "BR", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1170, 
+          "type": "B", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1170, 
+          "type": "BR", 
+          "endIdx": 1170, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "BR", 
+          "endIdx": 1139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1071, 
+          "type": "BR", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1071, 
+          "type": "BR", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "B", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1044, 
+          "type": "BR", 
+          "endIdx": 1044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "LI", 
+          "endIdx": 1044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 948, 
+          "type": "BR", 
+          "endIdx": 948, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 935, 
+          "type": "LI", 
+          "endIdx": 948, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 893, 
+          "type": "LI", 
+          "endIdx": 935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 893, 
+          "type": "BR", 
+          "endIdx": 893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 857, 
+          "type": "BR", 
+          "endIdx": 857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 816, 
+          "type": "LI", 
+          "endIdx": 857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 764, 
+          "type": "LI", 
+          "endIdx": 816, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "LI", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 703, 
+          "type": "LI", 
+          "endIdx": 718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 683, 
+          "type": "LI", 
+          "endIdx": 703, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 683, 
+          "type": "BR", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 675, 
+          "type": "BR", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "LI", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 649, 
+          "type": "LI", 
+          "endIdx": 666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 633, 
+          "type": "LI", 
+          "endIdx": 649, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 608, 
+          "type": "LI", 
+          "endIdx": 633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 593, 
+          "type": "LI", 
+          "endIdx": 608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 593, 
+          "type": "BR", 
+          "endIdx": 593, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 567, 
+          "type": "BR", 
+          "endIdx": 567, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 567, 
+          "type": "BR", 
+          "endIdx": 567, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 542, 
+          "type": "LI", 
+          "endIdx": 567, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 519, 
+          "type": "LI", 
+          "endIdx": 542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 519, 
+          "type": "BR", 
+          "endIdx": 519, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 510, 
+          "type": "BR", 
+          "endIdx": 510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "LI", 
+          "endIdx": 510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "LI", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 414, 
+          "type": "BR", 
+          "endIdx": 414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 311, 
+          "type": "BR", 
+          "endIdx": 311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 269, 
+          "type": "BR", 
+          "endIdx": 269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 269, 
+          "type": "BR", 
+          "endIdx": 269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 213, 
+          "type": "BR", 
+          "endIdx": 213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 111, 
+          "type": "BR", 
+          "endIdx": 111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " We are looking for a Data Scientist with strong machine learning background and hands-on experiencein conducting statistical analysis,  development of predictive models to work with our engineering teamto architect solutions over our big data infrastructure. We are looking for a resource who wants tobe a core part of a rapidly growing startup and enjoys implementing algorithms and as much as designingand fine-tuning them.  5-10 years of strong experience in Machine Learning Techniques; SupervisedLearning.  Unsupervised Learning.  Semi-Supervised LearningMachine learning paradigms Decision Trees Support Vector Machines.  Neural Networks Ensemble Methods BayesianApproach Logistic Regression Random Forests Experience with Big Data tools Spark,  Hadoop.  Strong programming skills in C++,  Python,  and Java.  Experience with NoSQL / graph databases:Neo4J,  MongoDB and Google Big Query.  Excellent written and oral communication.  Must be ableto adapt to a fast changing environment Ability to work independently as well as collaborativelywithin a team. QualificationPh. D/M. Tech/M. S in Computer Science,  Statistics,  Applied Mathematicsfrom top educational institute. Education Detailstion-   UG: Any Graduate - Any SpecializationPG:M. Tech - Any Specialization,  M. Sc - Any Specialization,  Maths,  Statistics Doctorate:Ph. D - Maths, StatisticsIndustry:    IT-Software  /    Software Services Functional Area:     Analytics &amp; BusinessIntelligence  Role Category:Analytics &amp; BI  Role:Data Analyst"
+    }, 
+    "postalCode": "122101", 
+    "jobState": "LISTED", 
+    "companyName": "Future Makers", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Leading client of Future Makers"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447788828000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:913679", 
+    "id": 99367960, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Gurgaon,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99367960?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobsindia. com%2Fjobdetails. aspx%3Fjobid%3D4027639&urlHash=URvq&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2010, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/15c/36a/29b393c. png"
+    }, 
+    "localizedDescription": "Future Makers was incorporated in year 2010 with the object of providing the end to end manpower recruitment and management solutions through innovative ideas in the diversified Industry Verticals across the levels .  Future Makers aims to take its footprint nationally ,  offering bouquet of services,  in the HR consulting domain. \r Since our inception we grew our business organically  with the help of our esteemed clients from E-commerce, IT,  Telecom,  ,  Media,  BFSI,  Healthcare and other industry domains .  We have strengthen our services by creating skill set specific verticals and meeting our client expectations through cohesive blend of services and expertise in this space .  Future Makers has the insight,  resources and access to a network of talent to provide your company with the people you need - just when you need them. \r By offering a complete range of services,  we can help any company - no matter where they are in their business evolution - raise productivity through improved strategy,  quality,  efficiency and cost reduction across their total workforce.  \rWe understand that right talent carries high impact on the achievement of company’s business goals and also helps in maintaining competitiveness in today’s era of globalization.  It is important to adopt a dynamic strategy with valuable insight and specific to the client needs for talent sourcing. ", 
+    "company": {
+      "specialities": [
+        "Recruitments", 
+        "Headhunting", 
+        "Referencing"
+      ], 
+      "universalName": "future-makers", 
+      "companyId": 913679
+    }, 
+    "canonicalName": "Future Makers", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "December 28,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,324 @@
+{
+  "jobPosting": {
+    "companyJobCode": "njoyn_groom-cgi-J0715-2106", 
+    "expirationDate": 1452004217000, 
+    "title": "Expert technique \"Data Scientist\" H/F", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3063, 
+          "type": "BR", 
+          "endIdx": 3063, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3063, 
+          "type": "BR", 
+          "endIdx": 3063, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3021, 
+          "type": "BR", 
+          "endIdx": 3021, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3021, 
+          "type": "BR", 
+          "endIdx": 3021, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2932, 
+          "type": "BR", 
+          "endIdx": 2932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2932, 
+          "type": "BR", 
+          "endIdx": 2932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2779, 
+          "type": "BR", 
+          "endIdx": 2779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2779, 
+          "type": "BR", 
+          "endIdx": 2779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "BR", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "BR", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "BR", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "BR", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "BR", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1664, 
+          "type": "BR", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1491, 
+          "type": "BR", 
+          "endIdx": 1491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1491, 
+          "type": "BR", 
+          "endIdx": 1491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1361, 
+          "type": "BR", 
+          "endIdx": 1361, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1072, 
+          "type": "BR", 
+          "endIdx": 1072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1072, 
+          "type": "BR", 
+          "endIdx": 1072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1066, 
+          "type": "BR", 
+          "endIdx": 1066, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1066, 
+          "type": "BR", 
+          "endIdx": 1066, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 859, 
+          "type": "BR", 
+          "endIdx": 859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 859, 
+          "type": "BR", 
+          "endIdx": 859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 634, 
+          "type": "BR", 
+          "endIdx": 634, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 634, 
+          "type": "BR", 
+          "endIdx": 634, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 626, 
+          "type": "BR", 
+          "endIdx": 626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 626, 
+          "type": "BR", 
+          "endIdx": 626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 492, 
+          "type": "BR", 
+          "endIdx": 492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 215, 
+          "type": "BR", 
+          "endIdx": 215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 215, 
+          "type": "BR", 
+          "endIdx": 215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 57, 
+          "type": "BR", 
+          "endIdx": 57, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 57, 
+          "type": "BR", 
+          "endIdx": 57, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 20, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Position DescriptionExpert technique \"Data Scientist\" H/FCGI en France est le 4ème acteur indépendant en conseil et services en technologies de l’information réunissant 10 000 collaborateurs présents dans 21 villes. A Toulouse,  550 collaborateurs accompagnent nos clients grands comptes dans la mise en œuvre de leurs projets stratégiques. Nos collaborateurs sont amenés à intervenir dans le cadre de mission de conseil et d’intégration sur des projets à engagements ou en assistance technique. Pour soutenir le développement de notre pôle de compétences BI,  au sein de notre agence de Toulouse,  nous recrutons un Data Scientist. MissionsRattaché à un directeur de projet,  vous serez intégré dans l’équipe BI &amp; Big Data de CGI Toulouse,  et vous interviendrez auprès de nos clients en tant que data scientist afin d’apporter votre expertise data et analytique. En fonction de votre potentiel et de votre volonté,  vous pourrez être amené à tenir un rôle d’encadrement d’équipe,  puis de contribution au développement de l’offre Big Data,  tant commercial que stratégique. ProfilVous maitrisez les techniques statistiques (R,  SAS etc. ),  les langages SQL et programmation (C VBA Python etc. ),  les méthodes de machine learning (SVM,  Random Forest,  Kmeans,  etc…) et avez une bonne connaissance des outils informatiques Big Data (Hadoop,  Java,  MapReduce,  Bigtable,  NoSQL). Et vous avez eu plusieurs expériences sur des projets de traitement de données nécessitant la mise en place d’outils statistiques. Enfin,  votre anglais est courant. Doté d’un bon relationnel,  vos qualités d’adaptation et votre sens du service vous permettront d’élargir vos responsabilités sur nos projetsComme tous les postes de l’entreprise,  ce poste est ouvert aux personnes en situation de handicap. Chez CGI,  nous sommes une équipe de bâtisseurs.  Chacun de nos membres (ou employés) concourt à bâtir sa propre entreprise - une firme qui regroupe 68, 000 professionnels présents dans 40 pays.  Fondée en 1976,  CGI est un chef de file des services en TI et en gestion des processus d’affaires qui contribue au succès de ses clients.  Nos clients - tout comme nos membres - peuvent compter sur nos ressources mondiales,  sur notre savoir-faire,  sur notre stabilité et sur nos professionnels chevronnés pour obtenir les résultats escomptés.  Joignez-vous à nous.  Pour en savoir davantage : www. cgi. com. Cette offre est une excellente occasion de vous joindre à une équipe gagnante.  CGI offre des conditions de rémunération avantageuses et des possibilités de croissance et de développement professionnel.   Les avantages des membres permanents à temps plein entrent en vigueur dès le premier jour et comprennent des vacances payées,  un régime de participation aux bénéfices ainsi qu’un régime de participation à l’actionnariat. Nous aimerions remercier tous les candidats de leur intérêt pour notre organisation.  Cependant,  nous communiquerons seulement avec les candidats retenus. Les candidatures non sollicitées provenant d'agences de placement ne seront pas retenues. CGI FAVORISE L'ÉQUITÉ EN MATIÈRE D'EMPLOI. "
+    }, 
+    "postalCode": "39230", 
+    "jobState": "LISTED", 
+    "companyName": "CGI", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "ABOUT US: With 65, 000 professionals in 40 countries,  CGI is a leading IT and business process services provider focused on being a partner,  employer and investment of choice.  À PROPOS DE CGI – Regroupant 65 000 professionnels dans 40 pays,  CGI se classe parmi les plus importants fournisseurs de services en TI et en gestion des processus d'affaires et s’engage à être un partenaire,  un employeur et un investissement de choix. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1443010104000, 
+    "countryCode": "fr", 
+    "company": "urn:li:company:1415", 
+    "id": 87377672, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Toulouse-le-Château,  FR", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "consulting - services-conseils", 
+        "systems integration - intégration de systèmes", 
+        "managed services (outsourcing) - gestion déléguée (impartition)", 
+        "100+ proprietary business solutions - plus de 100 solutions d’affaires exclusives"
+      ], 
+      "universalName": "cgi", 
+      "companyId": 1415, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAPzAAAAJGJhMTViYTllLTU3ODgtNGU3Ni04YTJhLTM5N2NiMmQzODZlNg. png"
+      }
+    }, 
+    "localizedDescription": "ABOUT US: With 65, 000 professionals in 40 countries,  CGI is a leading IT and business process services provider focused on being a partner,  employer and investment of choice.  \r\rÀ PROPOS DE CGI – Regroupant 65 000 professionnels dans 40 pays,  CGI se classe parmi les plus importants fournisseurs de services en TI et en gestion des processus d'affaires et s’engage à être un partenaire,  un employeur et un investissement de choix. ", 
+    "foundedYear": 1976, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "CGI", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAARYAAAAJDAzNTdkMjMyLTcwMTEtNDYzMC04MzIyLWNjMjA1YjBiNzhjNw. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAJrAAAAJGYzNzc5NmIxLTkzODQtNDY3Yi1iZmIzLTkzZjIzZmE2YjZhNw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAARYAAAAJDAzNTdkMjMyLTcwMTEtNDYzMC04MzIyLWNjMjA1YjBiNzhjNw. png"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 73 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "73d", 
+  "companyDescriptionLanguage": "fr", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "September 23,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/87377672?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcgi. njoyn. com%2FCGI%2Fxweb%2FXWeb. asp%3Fclid%3D21001%26Page%3DJobDetails%26jobid%3DJ0715-2106&urlHash=1Ujs&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "fr", 
+  "formattedEmploymentStatus": "Full-time"
+}

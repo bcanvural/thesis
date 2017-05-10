@@ -1,0 +1,180 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-24890", 
+    "expirationDate": 1452027201000, 
+    "title": "Big Data Scientist/Machine Learning", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 882, 
+          "type": "BR", 
+          "endIdx": 882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 487, 
+          "type": "BR", 
+          "endIdx": 487, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 341, 
+          "type": "BR", 
+          "endIdx": 341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 341, 
+          "type": "BR", 
+          "endIdx": 341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 329, 
+          "type": "U", 
+          "endIdx": 341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 329, 
+          "type": "B", 
+          "endIdx": 341, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 329, 
+          "type": "BR", 
+          "endIdx": 329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 329, 
+          "type": "BR", 
+          "endIdx": 329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 48, 
+          "type": "BR", 
+          "endIdx": 48, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהLead the technical big data research. design,  develop,  test,  and analyze complex models and analytics to support research challenges.  develop algorithms and analytics for discovery and characterization from voluminous and noisy data in order to achieve real time malwares and exploits detection/analysis/classification. דרישות המשרהMajor advantage to Candidate that have at least MS in Applied Mathematics,  Statistics,  Computer Engineering,  Computer Science,  or a related field. Big data analysis skills are a must: At least 5 year Experience in data mining skills,  as is experience related big-data architectures.  Experience with any combination of the following is desired: machine learning,  statistical modeling,  computer and network security,  simulation modeling,  cyber threat modeling,  user behavior modeling,  computational/artificial intelligence,  agent-based systems. Knowledge and experience of 2 years in information security or Cyber related research. Knowledge of Matlab,  R,  Java,  or Python is highly desired"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1445611323000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 94240132, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94240132?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F24890%2FBig-Data-Scientist-Machine-Learning&urlHash=Rwgq&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 43 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "43d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1995, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedListDate": "October 23,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

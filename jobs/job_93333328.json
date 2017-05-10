@@ -1,0 +1,79 @@
+{
+  "jobPosting": {
+    "companyJobCode": "stellenmarkt-1106743__1", 
+    "expirationDate": 1451041389000, 
+    "title": "Business Analyst / Data Scientist (m/w) Business Intelligence & Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Beratung im BI-Umfeld zu den Themengebieten Datenintegration,  Data Management und Reporting"
+    }, 
+    "postalCode": "22085", 
+    "jobState": "LISTED", 
+    "companyName": "Lufthansa Industry Solutions AS GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Lufthansa Industry Solutions is an IT service company for process consulting and system integration.  This wholly-owned subsidiary of Lufthansa Group supports its customers with the digital transformation of their company.  Its customer base includes both companies within Lufthansa Group as well as more than 150 companies in various other industries.  Lufthansa Industry Solutions emerged from Lufthansa Systems AG on April 1,  2015 and is headed by Bernd Appel.  The group of companies,  based in Norderstedt,  employs around 1, 000 members of staff at several branch offices in Germany,  Switzerland and the USA. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR", 
+      "IT"
+    ], 
+    "listDate": 1445163136000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:9391893", 
+    "id": 93333328, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Hamburg,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Lufthansa Industry Solutions is an IT service company for process consulting and system integration.  This wholly-owned subsidiary of Lufthansa Group supports its customers with the digital transformation of their company.  Its customer base includes both companies within Lufthansa Group as well as more than 150 companies in various other industries.  Lufthansa Industry Solutions emerged from Lufthansa Systems AG on April 1,  2015 and is headed by Bernd Appel.  The group of companies,  based in Norderstedt,  employs around 1, 000 members of staff at several branch offices in Germany,  Switzerland and the USA. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAANbAAAAJDg1ZmVlYzcyLWZhNGEtNDQ4ZS04OGYzLThlNTU2YzVlYjU4ZQ. png"
+    }, 
+    "company": {
+      "universalName": "lufthansa-industry-solutions", 
+      "companyId": 9391893
+    }, 
+    "canonicalName": "Lufthansa Industry Solutions", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 48 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "48d", 
+  "companyDescriptionLanguage": "de", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 18,  2015", 
+  "formattedExpireDate": "December 25,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/93333328?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fstellenmarkt. sueddeutsche. de%2Fjobs%2Fbusiness-analyst-data-scientist-m-w-business-intelligence-big-data-398593&urlHash=eUcg&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

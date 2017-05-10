@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "iZettle AB", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "companyJobCode": "arbetsformedlingen_xml-2823398", 
+    "title": "Data Scientist - Modelling expert", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100095501, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      43
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://izettle. com", 
+    "logo": "urn:li:media:/p/2/005/056/15e/1ceba67. png", 
+    "universalName": "izettle", 
+    "companyId": 2226655
+  }, 
+  "description": "    iZettle lets anyone take secure card payments with their smartphones or    tablets.  The fast-growing start-up was founded in 2010 and currently    has approximately 200 employees across its offices in Berlin,  London,     Madrid,  Mexico City,  Sao Paulo and Stockholm (HQ).     We are looking for a Senior Data Scientist to join the Growth Analytics    team.  The right person has extensive modelling experience and is able    to lead and continuously develop and maintain tools related to    understanding the value of our customers.     The ideal candidate takes own initiatives,  solve problems and take lead    on projects with support from the Growth Analytics Team.  He/She will    not only be motivated by optimizing the data,  but also by what the data    tells us and the decisions the organization can make as a result of the    conclusions.     You will be part of the Growth analytics team.  The team today consists    of eight people and is responsible of converting data into growth and    business value,  understanding past performance,  supporting teams to    improve future performance and finding and measuring opportunities.     Responsibilities       Design,  implement and maintain models used for churn prediction,         segmentation,  lifetime value calculation and similar.        Support the organisation to make data driven decisions based on        model output and build data centric applications.        Work closely with engineers and analysts in finding new,  smart ways        of consolidating data from different sources and using the data to        build better models.      Requirements       Extensive experience from using a wide variety of modelling        techniques (such as clustering,  regression,  classification,  graph        analysis etc) to solve business problems.        Potentially an advanced degree in quantitative field such as        physics,  math,  engineering,  computer science.        Posses business acumen and ability to communicate practical        capabilities of model results to non-technical stakeholders.        You have the technical competence (some combination of Java,         Python,  SQL,  Spark/Hadoop and similar) to conduct large scale        analytics,  parameter estimation and deployment of models.      We're looking for creative and passionate people who share our vision    of making payments easy.  If that sounds like you and you meet the    requirements above - get in touch!", 
+  "companyDescription": "      iZettle AB    We believe running a business should be easier.     At iZettle we come to work every day to build game-changing payment    services and apps – from card readers for smartphones and tablets to    registers and tools for increasing sales.  They are simple to set up and    use,  always secure and help you build your business.  But that’s not    all,  they actually make running your small business way more fun.     Our headquarters may be in Stockholm,  but we’re now used by hundreds of    thousands of businesses in 11 countries around the world.  Join us at    www. izettle. com. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

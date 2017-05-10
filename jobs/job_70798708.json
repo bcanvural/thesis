@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/70798708", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "PHD/Masters/Bachelors on Econometrics,  Statistics,  Applied Mathematics,  Computer Science,  Operation Research or Physics.  4 to 5 years working experience,  with at least 3 years of Data Mining experience or BA experience in the implementation of BA solutions for end users.  Deep knowledge of Analytics models/software &amp; tools with the ability to conceptualise,  architect the key components of BA projects and to develop prototypes using statistical software packages such as R/SAS/SPSS.  Extensive experience working with very large data sets,  including statistical analyses,  data visualization,  data mining,  and data cleansing/transformation and machine learning.  Experience in solutions using technologies such as Hadoop/Hive/Hbase/NoSQL and developer skills in Python,  Perl,  Java highly desired.  Proven track record of solving challenging problems by applying advanced analytics Proactive,  quality-conscious,  customer-oriented and results-oriented.  Good analytical ability,  conceptual thinking,  planning and organisational skills.  Excellent writing skills,  good verbal communications skills and good presentation skills.  Candidates with no prior working experience are welcomed to apply", 
+  "following": false, 
+  "companyDescription": "NCS is a leading infocommunications technology (ICT) service provider and together with SingTel,  we have a presence in 22 countries located throughout APAC,  Europe and the USA.   NCS delivers end-to-end ICT and communications engineering solutions to help governments and enterprises realise business value through the innovative use of technology.  Our unique delivery capabilities range across consulting,  development,  systems integration,  outsourcing,  infrastructure management &amp; solutions and portal management.  We also provide mobility,  social networking,  business analytics and cloud computing services.   Headquartered in Singapore,  NCS has over 8, 000 staff serving governments and large global commercial enterprises.  We provide solutions across a spread of industries including the public sector,  defence &amp; homeland security,  education,  transportation &amp; logistics,  airport &amp; aviation,  healthcare &amp; life sciences,  financial services,  manufacturing,  telecommunications and utilities.   NCS is the No.  1 IT Professional IT Services provider in Singapore according to Gartner,  and one of the top 10 in the Asia-Pacific (excluding Japan) - 2011 Gartner ranking in IT Professional Services,  March 2012.   Recent awards won include Land Transport Excellence Awards 2012 for Best System Delivery Partner &amp; Most Creative Promotion Campaign (Land Transport),  Singapore Superbrands Awards 2012,  IT Excellence Award 2012,  Best Bottom line IT for SSOE project,  by Fairfax Business Media &amp; IDC Asia Pacific. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "NCS Group", 
+  "canFollow": false, 
+  "companyId": "145556", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "NCS Group", 
+    "title": "Data Scientist "
+  }, 
+  "description": "Work with customers to identify opportunities where Business Analytics (BA) can be applied to transform and enhance the business effectiveness of the customer’s business intent.  Individually or collaborate with other team members to develop BA prototypes/Proof of Concept and values through big data and advanced analytics modeling &amp; algorithms to derive actionable insights from data provided by customers.  Collaborate with the customer and internal stakeholders to architect the overall supporting storage and compute infrastructure to support the deployment of the analytics models,  applications and visualisation of the results.    Collaborate with the relevant project managers to conceptualise,  develop project scope,  requirements,  budget and timeline for the implementation of the identified BA projects Implement the BA projects and to ensure that the projects analytics objectives are met. "
+}

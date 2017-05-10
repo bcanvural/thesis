@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "My Jobs Group", 
+    "functions": [
+      "OTHR", 
+      "MRKT", 
+      "IT"
+    ], 
+    "companyJobCode": "allthetopbananas-54615315", 
+    "title": "Senior Database Developer - SQL - Global Marketing & Big Data Leader", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102260664, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 13466, 
+    "websiteUrl": "http://www. xpressdocs. com", 
+    "universalName": "jobs. com"
+  }, 
+  "description": "    Senior Database Developer - SQL - Global Marketing & Big Data Leader    Brighton    40, 000 - 50, 000 plus 10% bonus + Private Medical,  Dental plan,  Critical    Illness cover,  Life Assurance,  Income protection,  3% Contributory    Pension + Friday lunch and Wednesday breakfast    About us    Part of a leading international technology and solutions provider to    the Digital Marketing industry we use a combination of technology and    service to help businesses move towards data driven decision making.  We    have an enviable reputation for building solutions which respond to    both client and industry needs,  and we work with many of the most    progressive digital brands who use insight gained from our technology    to accurately value and optimise their online marketing activities.  Our    clients not only benefit from using our suite of robust and pioneering    tools,  but we also make sure that they receive exceptional service,     support and training.     // The Senior Database Developer role    This is a great opportunity to work on our award-winning portfolio of    products and services,  dealing with high transaction volumes and very    large databases.  Working within the database development team,  you will    be contributing to the development of bespoke data integration and    reporting projects for new and existing clients.  Your enthusiasm and    constant drive for technical excellence will ensure that there is huge    potential for you to develop in our fast-paced and challenging    environment.     We are based in central Brighton and our office has a juice bar,  roof    terrace and breakout areas which we all make the most of.  Everyone is    very friendly and its a hard working,  fun and sociable environment!    // Your Responsibilities    > Develop database schemas and stored procedures    > Develop and maintain ETL packages for high-performance data    transformation    > Develop and maintain Cubes    > Troubleshoot performance bottlenecks and resolve bugs    > Carry out maintenance tasks within our existing data warehouse and    reporting architecture    > Work within the established methodology,  ensuring correct use of    ticketing systems,  source control tools and QA processes    // Your Skills & Experience    > Solid (5+ years) experience of Database Development using SQL Server    2005 / 2008 / 2008R2 delivering high-performance large-scale database    applications    > A solid understanding of Relational Database theory and practice    > Stored Procedure development    > Performance tuning    > Experience of working with non-technical staff on solution    development    > Excellent communication skills,  both written and verbal    // Preferred Skills    > Dashboard / Report development    > SSIS/SSAS/SSRS experience.     > . NET development (especially C#,  SQLCLR).     > Big Data tools and techniques    > Experience in the Digital Marketing industry    You May Have Worked In The Following Capacities    Senior SQL Developer,  Senior SQL Server Engineer,  Senior SQL Engineer,     SQL Server Engineer.        -------------------------------------------------------------------        ------------     The Senior Database Developer - SQL role is being managed by agency    innovator RecruitmentRevolution. com.  By applying for this role you give    express consent for us to process & submit (subject to required skills)    your application to our client in conjunction with this vacancy only. . ", 
+  "companyDescription": "      My Jobs Group", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

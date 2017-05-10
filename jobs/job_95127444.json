@@ -1,0 +1,540 @@
+{
+  "jobPosting": {
+    "companyJobCode": "deloitte-E15-CO-SM-IT-582", 
+    "expirationDate": 1451769236000, 
+    "title": "Senior- / Manager (m/w) Analytics - Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3939, 
+          "type": "BR", 
+          "endIdx": 3939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3939, 
+          "type": "BR", 
+          "endIdx": 3939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3892, 
+          "type": "B", 
+          "endIdx": 3939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3892, 
+          "type": "BR", 
+          "endIdx": 3892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3892, 
+          "type": "BR", 
+          "endIdx": 3892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3891, 
+          "type": "BR", 
+          "endIdx": 3891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3891, 
+          "type": "BR", 
+          "endIdx": 3891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3871, 
+          "type": "BR", 
+          "endIdx": 3871, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3871, 
+          "type": "BR", 
+          "endIdx": 3871, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3870, 
+          "type": "BR", 
+          "endIdx": 3870, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3870, 
+          "type": "BR", 
+          "endIdx": 3870, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3864, 
+          "type": "BR", 
+          "endIdx": 3864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3864, 
+          "type": "BR", 
+          "endIdx": 3864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3863, 
+          "type": "BR", 
+          "endIdx": 3863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3863, 
+          "type": "BR", 
+          "endIdx": 3863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3660, 
+          "type": "B", 
+          "endIdx": 3863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3660, 
+          "type": "BR", 
+          "endIdx": 3660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3660, 
+          "type": "BR", 
+          "endIdx": 3660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3659, 
+          "type": "BR", 
+          "endIdx": 3659, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3659, 
+          "type": "BR", 
+          "endIdx": 3659, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3609, 
+          "type": "BR", 
+          "endIdx": 3609, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3609, 
+          "type": "BR", 
+          "endIdx": 3609, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3608, 
+          "type": "BR", 
+          "endIdx": 3608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3608, 
+          "type": "BR", 
+          "endIdx": 3608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3563, 
+          "type": "B", 
+          "endIdx": 3608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3563, 
+          "type": "BR", 
+          "endIdx": 3563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3563, 
+          "type": "BR", 
+          "endIdx": 3563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3562, 
+          "type": "BR", 
+          "endIdx": 3562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3562, 
+          "type": "BR", 
+          "endIdx": 3562, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3236, 
+          "type": "BR", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3236, 
+          "type": "BR", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3235, 
+          "type": "BR", 
+          "endIdx": 3235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3235, 
+          "type": "BR", 
+          "endIdx": 3235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2943, 
+          "type": "BR", 
+          "endIdx": 2943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2943, 
+          "type": "BR", 
+          "endIdx": 2943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2942, 
+          "type": "BR", 
+          "endIdx": 2942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2942, 
+          "type": "BR", 
+          "endIdx": 2942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2911, 
+          "type": "B", 
+          "endIdx": 2942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2911, 
+          "type": "BR", 
+          "endIdx": 2911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2879, 
+          "type": "LI", 
+          "endIdx": 2911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2802, 
+          "type": "LI", 
+          "endIdx": 2879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2579, 
+          "type": "LI", 
+          "endIdx": 2802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2438, 
+          "type": "LI", 
+          "endIdx": 2579, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2291, 
+          "type": "LI", 
+          "endIdx": 2438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2157, 
+          "type": "LI", 
+          "endIdx": 2291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "LI", 
+          "endIdx": 2157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "BG", 
+          "endIdx": 2911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "BR", 
+          "endIdx": 1965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1940, 
+          "type": "B", 
+          "endIdx": 1965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1940, 
+          "type": "BR", 
+          "endIdx": 1940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1799, 
+          "type": "LI", 
+          "endIdx": 1940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1653, 
+          "type": "LI", 
+          "endIdx": 1799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1450, 
+          "type": "LI", 
+          "endIdx": 1653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1229, 
+          "type": "LI", 
+          "endIdx": 1450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1108, 
+          "type": "LI", 
+          "endIdx": 1229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "LI", 
+          "endIdx": 1108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "BG", 
+          "endIdx": 1940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "BR", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 966, 
+          "type": "B", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 966, 
+          "type": "BR", 
+          "endIdx": 966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 966, 
+          "type": "BR", 
+          "endIdx": 966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 965, 
+          "type": "BR", 
+          "endIdx": 965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 965, 
+          "type": "BR", 
+          "endIdx": 965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 859, 
+          "type": "B", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 824, 
+          "type": "BR", 
+          "endIdx": 824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 824, 
+          "type": "BR", 
+          "endIdx": 824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 823, 
+          "type": "BR", 
+          "endIdx": 823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 823, 
+          "type": "BR", 
+          "endIdx": 823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "BR", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 563, 
+          "type": "BR", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Deloitte treibt Fortschritt voran.  Mit unserem breiten Leistungsspektrum - von Wirtschaftsprüfung über Tax &amp; Legal bis Consulting und Corporate Finance - helfen wir weltweit unseren Kunden,  neue Maßstäbe zu setzen.  Deloitte investiert in Vielfalt.  Wir fördern herausragende Menschen mit verschiedensten Talenten und persönlichen Hintergründen,  so dass sie mit uns mehr erreichen.  In unserer Arbeit verbinden wir Beratung mit Umsetzung - und Integrität.  Wir sind überzeugt: Je stärker unsere Kunden und die Gesellschaft,  umso stärker sind auch wir.  In unserem Deloitte Analytics Institute arbeiten wir in einem cross-funktionalen Expertenteam mit Kooperationspartnern aus Forschung und Wissenschaft sowie führenden Vendoren an innovativen und maßgeschneiderten Analytics-Lösungen für unsere namhaften Kunden.  Für unsere Teams an den Standorten Berlin,  Düsseldorf,  Frankfurt,  Hamburg,  Hannover,  München und Stuttgart suchen wir engagierte Verstärkung.  Spannende Aufgaben erwarten SieLeitende Rolle im Data Science Bereich des Deloitte Analytics Institute und Subject Matter Expert bei Deloitte Begleitung von Projekten von der Entwurfsphase über die Entwicklung / Prototyping bis hin zu einer produktiven Umsetzung Nutzung von Data-Mining- und Machine-Learning-Techniken,  um verschiedenste Modelle und geschäftsrelevante Erkenntnisse aus großen Mengen strukturierter und unstrukturierter Daten abzuleiten und systematisch zu validieren Zusammen mit führenden Wirtschafts- und Industrieexperten,  Data Engineers und Informationsdesignern arbeiten Sie in marktrelevanten Projekten und präsentieren Ergebnisse gegenüber Kunden und Entwicklern Dabei haben Sie direkten Einfluss auf die Gestaltung von Analytics-Lösungen für eine Vielfalt von Stakeholdern,  Industrien und Anwendungsgebieten Immer am Puls der Zeit identifizieren Sie Chancen für den Einsatz von neuen Technologien zur Lösung bestehender wie zukünftiger AnforderungenDarin sind Sie SpezialistM. Sc.  / PhD in Informatik,  Physik,  Mathematik,  Statistik oder einem vergleichbaren quantitativen Feld sowie tiefgehendes theoretisches Verständnis zu Machine Learning und Data Mining Methoden Umfassende Kenntnisse im Projektmanagement größerer Data Analytics Projekte einschließlich Überzeugungskraft auf Top Management Level 5+ Jahre praktische Erfahrung im Bereich Data Science einschließlich der Umsetzung mit Systemen wie Python Pandas / scikit-learn,  R,  SAS oder SPSS Sehr gutes Verständnis des gesamten Prozesses der Datenanalyse,  von der Datengewinnung bis zur nutzerfokussierten Visualisierung im Frontend Nachweisbare Expertise in der Softwareentwicklung für den Aufbau und die produktive Umsetzung von Analytics Anwendungen (Methoden; Stack); Erfahrung mit Big-Data-Lösungen und Konzepten (z. B.  Hadoop,  Spark) sind von Vorteil Sehr gute Präsentations- und Kommunikationsfähigkeit in Deutsch und Englisch Mobilität und Reisebereitschaft Was Sie von uns erwarten können Neben einem sicheren Arbeitsplatz in einer angenehmen,  kollegialen Atmosphäre bieten wir Ihnen ein chancenreiches,  internationales Arbeitsumfeld.  Hier warten vielfältige Projekte bei Kunden unterschiedlicher Branchen auf Sie.  Bei uns gelten flache Hierarchien und ein Prinzip der offenen Tür.  Ein weiterer Pluspunkt: Mit der Deloitte University verfolgen wir einen einzigartigen innovativen Ansatz für Ihre Weiterentwicklung.  Durch ein für Sie maßgeschneidertes World Class Curriculum stellen wir sicher,  dass Sie über das Know-how und die Qualifikation verfügen,  um für unsere Kunden die besten Lösungen zu entwickeln.  Sie sind interessiert? Wir freuen uns auf Sie Bitte richten Sie Ihre Bewerbung an Silja Peisker.  Bei Fragen Rund Um Das Thema Bewerbung Bei Deloitte Helfen Ihnen Unsere FAQs Schnell Weiter.  Unsere Bewerbungshinweise Geben Ihnen Konkrete Ratschläge Zur Erfolgreichen Bewerbung Über Unser Online-Portal › FAQs › Bewerbungshinweise Es ist Ihre Karriere.  Was wollen Sie erreichen?"
+    }, 
+    "postalCode": "40213", 
+    "jobState": "LISTED", 
+    "companyName": "Deloitte", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Deloitte drives progress.  Our firms around the world help clients become leaders wherever they choose to compete.  Deloitte invests in outstanding people of diverse talents and backgrounds and empowers them to achieve more than they could elsewhere.  Our work combines advice with action and integrity.  We believe that when our clients and society are stronger,  so are we.  Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited,  a UK private company limited by guarantee (“DTTL”),  its network of member firms,  and their related entities.  DTTL and each of its member firms are legally separate and independent entities.  DTTL (also referred to as “Deloitte Global”) does not provide services to clients.  Please see www. deloitte. com/about for a more detailed description of DTTL and its member firms. The content on this page contains general information only,  and none of Deloitte Touche Tohmatsu Limited,  its member firms,  or their related entities (collectively the “Deloitte Network”) is,  by means of this publication,  rendering professional advice or services.  Before making any decision or taking any action that may affect your finances or your business,  you should consult a qualified professional adviser.  No entity in the Deloitte Network shall be responsible for any loss whatsoever sustained by any person who relies on content from this page. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1446007249000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:1038", 
+    "id": 95127444, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Düsseldorf,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "formattedIndustries": [
+      "Management Consulting"
+    ], 
+    "localizedDescription": "Deloitte drives progress.  Our firms around the world help clients become leaders wherever they choose to compete.  Deloitte invests in outstanding people of diverse talents and backgrounds and empowers them to achieve more than they could elsewhere.  Our work combines advice with action and integrity.  We believe that when our clients and society are stronger,  so are we.  \r\rDeloitte refers to one or more of Deloitte Touche Tohmatsu Limited,  a UK private company limited by guarantee (“DTTL”),  its network of member firms,  and their related entities.  DTTL and each of its member firms are legally separate and independent entities.  DTTL (also referred to as “Deloitte Global”) does not provide services to clients.  Please see www. deloitte. com/about for a more detailed description of DTTL and its member firms. \r\rThe content on this page contains general information only,  and none of Deloitte Touche Tohmatsu Limited,  its member firms,  or their related entities (collectively the “Deloitte Network”) is,  by means of this publication,  rendering professional advice or services.  Before making any decision or taking any action that may affect your finances or your business,  you should consult a qualified professional adviser.  No entity in the Deloitte Network shall be responsible for any loss whatsoever sustained by any person who relies on content from this page. ", 
+    "hasPaidLcp": true, 
+    "formattedCompanyType": "Privately Held", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAPPAAAAJGQ3ZDZiNWRmLTIyZDMtNGY2YS05NTc2LTYwOWFhMjE5Y2E2Ng. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMdAAAAJDhiM2NmYWQxLTRmNDAtNDE0NC05ZTY5LTY4NDdiODU2YjM5Mw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAPPAAAAJGQ3ZDZiNWRmLTIyZDMtNGY2YS05NTc2LTYwOWFhMjE5Y2E2Ng. png", 
+    "company": {
+      "specialities": [
+        "Audit", 
+        "Consulting", 
+        "Financial Advisory", 
+        "Risk Management", 
+        "and Tax services"
+      ], 
+      "universalName": "deloitte", 
+      "companyId": 1038, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAKTAAAAJDI2ZDEwMzVkLTRjNDYtNDI4NC04ZGYyLWQ2YmQ2NWY1ZDg4MA. png"
+      }
+    }, 
+    "canonicalName": "Deloitte"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 38 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "38d", 
+  "companyDescriptionLanguage": "de", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 28,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95127444?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. deloitte. com%2Fjobs%2Feng-US%2Fdetails%2Fj%2FE15-CO-SM-IT-582%2Fsenior-%2F-manager-m%2Fw-analytics-data-scientist%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=5WdA&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Big Cloud Recruitment", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "jobijoba-7ef090cd92c0969b13a460e3e0e3ce46", 
+    "title": "GoLang Engineer - Big Data - work with Spark / Storm", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102242882, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. bigcloudco. com", 
+    "logo": "urn:li:media:/p/4/005/052/1c1/16cac92. png", 
+    "universalName": "the-big-cloud-company", 
+    "companyId": 5077838
+  }, 
+  "description": "     Are you an experienced GoLang Engineer?Does the opportunity to work on    Big Data sets excite you? Would you like to get experience in Hadoop,     Spark or Storm?Do you want to work for a cool start-up company that is    looking to transform the retail market? If so read on! A cool and    exciting start-up company is looking for a GoLang Engineer to join    their team in Berlin.  They are passionate about revolutionizing the    retail market and are determined in providing their customers with up    to the moment information on key products and services.  They are    focused on enhancing their customers experience and have a vision to    expand and develop quickly.  As a GoLang Engineer you’ll have the unique    opportunity to work on applications rather than devops,  and will be    responsible for the engineering and development of the company’s    backend systems inline with product requirements.  You’ll be tackling    big data sets and be responsible for optimising the flow of data    including capture,  storage,  enrichment and translation - all in    realtime.  Therefore you’ll have the opportunity to work with the newest    Big Data tech including Hadoop,  Spark,  Storm. Desired Skills and    ExperienceA good understanding of GoLang (or Go) with commercial    project experienceGood knowledge of one of the following programming    languages (Ruby,  Java,  C or Scala)A strong understanding of PostgreSQL    Knowledge of building and consuming restful APIsExperience developing    distributed Linux based micro-servicesIf you are interested in finding    out more about this opportunity,  please get in touch for an informal    chat. , , ,  , ", 
+  "companyDescription": "      Big Cloud Recruitment    The Big Cloud Company is a friendly new British company that will make    it easier,  cheaper and quicker for you to store and share your photos,     videos,  music,  movies and more online.     We’re BIG on simplicity.  With The Big Cloud Co.  you can store your    photos,  videos,  music,  movies and documents both safely and securely –    and access everything from any device,  anywhere,  anytime.     We’re BIG on convenience.  Our system lets you share the files you    choose with the people you choose – they don’t even have to be users of    our service.     And we’re BIG on value.  Get unlimited space to backup your computers –    plus as much storage as you need – at a really low fixed price. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

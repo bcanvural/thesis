@@ -1,0 +1,344 @@
+{
+  "jobPosting": {
+    "companyJobCode": "cpljobs-3176", 
+    "expirationDate": 1451949228000, 
+    "title": "Data Scientist JO-1509-317574", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1578, 
+          "type": "BR", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1578, 
+          "type": "BR", 
+          "endIdx": 1578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1570, 
+          "type": "BR", 
+          "endIdx": 1570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1539, 
+          "type": "BR", 
+          "endIdx": 1539, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1493, 
+          "type": "BR", 
+          "endIdx": 1493, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1460, 
+          "type": "BR", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1384, 
+          "type": "BR", 
+          "endIdx": 1384, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "BR", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "BR", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "U", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "B", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "BR", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "BR", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1209, 
+          "type": "BR", 
+          "endIdx": 1209, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1091, 
+          "type": "BR", 
+          "endIdx": 1091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 995, 
+          "type": "BR", 
+          "endIdx": 995, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 949, 
+          "type": "BR", 
+          "endIdx": 949, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 890, 
+          "type": "BR", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 799, 
+          "type": "BR", 
+          "endIdx": 799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 764, 
+          "type": "BR", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 764, 
+          "type": "BR", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "U", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "B", 
+          "endIdx": 764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BR", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BR", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 683, 
+          "type": "BR", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 556, 
+          "type": "BR", 
+          "endIdx": 556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 462, 
+          "type": "BR", 
+          "endIdx": 462, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 398, 
+          "type": "BR", 
+          "endIdx": 398, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 314, 
+          "type": "BR", 
+          "endIdx": 314, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "BR", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 175, 
+          "type": "BR", 
+          "endIdx": 175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 85, 
+          "type": "BR", 
+          "endIdx": 85, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 85, 
+          "type": "BR", 
+          "endIdx": 85, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "U", 
+          "endIdx": 85, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "B", 
+          "endIdx": 85, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 51, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Our Prestigious Multinational Client Is Looking ForData Scientist JO-1509-317574Tasks• Design and implement regular reports and dashboards to support service business strategy• Work with several large and complex databases• Understand and be up to date on available data sources and business intelligence solutions• Perform ad hoc statistical,  data mining,  and analysis on complex business problems• Be an expert on data quality issues and data quality assurance• Consult with business senior leadership to develop analyses that lead to actionable insights• Create compelling interactive visualizations and presentations to enhance decision making capabilities throughout the company• Constant learning new analytical algorithms,  tools and technologiesRequirements• Fluent English language knowledge• Master or Bachelor degree preferably in Statistics/Computer Science/Mathematics/Economics• Experience in data modelling and data mining is advantage• Experience with SQL and BI/OLAP technologies• Expertise with statistical modelling with R,  Matlab,  SAS,  Python or similar strongly preferred• Ability to juggle multiple projects with high level of ambiguity and shifting priorities in a fast-paced environment• Passion for answering complex business questions using structured problem solving and rigorous analysing skillsOur Offer• Working in an international,  young and dynamic team• Opportunity to develop your professional skills in a multinational company• Competitive salary and benefits• Innovative training and development programs• Internal career pathLocation:Budapest"
+    }, 
+    "postalCode": "1117", 
+    "jobState": "LISTED", 
+    "companyName": "CPL Hungary", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Cpl Jobs is a global provider of recruitment,  staffing and outsourcing services,  with 36 offices worldwide incl.  Ireland,  United Kingdom,  Spain,  Holland,  Poland,  Czech Republic,  Slovakia,  Hungary,  Tunisia and more.  Our job is to find the best candidates for our clients and to find the best jobs for our candidates.  We recruit across a wide variety of industries and functions including: • ICT • Construction • Science • Customer Support • Engineering • Finance • Retail • Banking • HR • Sales • Administration • Marketing We're strong believers in \"work\" and \"ability\",  and how they combine for success.  We call it \"workability\" and it describes what we look for in candidates.  When our recruiters meet candidates in person,  we look for the intangible characteristics that make you more than just a list of skills and experience.  When we speak to our clients we don’t just put forward a CV,  we put forward a person with true “workability”. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447502110000, 
+    "countryCode": "hu", 
+    "company": "urn:li:company:1558452", 
+    "id": 98913991, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Budapest,  HU", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98913991?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. cpljobs. hu%2Fjob%2Fdetails%2FData-Scientist-JO-1509-317574%2F3176%2F&urlHash=O7zI&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 21 days ago", 
+  "formattedPostedDaysAgoSlim": "21 days ago", 
+  "formattedPostedDaysAgoShort": "21d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 1989, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAKQAAAAJGRjMGUxZWViLTYzOGItNDE5ZS1iNTkyLTljMjg4NjVjNGQ1ZQ. png"
+    }, 
+    "localizedDescription": "Cpl Jobs is a global provider of recruitment,  staffing and outsourcing services,  with 36 offices worldwide incl.  Ireland,  United Kingdom,  Spain,  Holland,  Poland,  Czech Republic,  Slovakia,  Hungary,  Tunisia and more.  Our job is to find the best candidates for our clients and to find the best jobs for our candidates.  \r\rWe recruit across a wide variety of industries and functions including: \r\r• ICT \r• Construction \r• Science \r• Customer Support \r• Engineering \r• Finance \r• Retail \r• Banking \r• HR \r• Sales \r• Administration \r• Marketing \r\rWe're strong believers in \"work\" and \"ability\",  and how they combine for success.  We call it \"workability\" and it describes what we look for in candidates.  When our recruiters meet candidates in person,  we look for the intangible characteristics that make you more than just a list of skills and experience.  When we speak to our clients we don’t just put forward a CV,  we put forward a person with true “workability”. ", 
+    "company": {
+      "universalName": "cpl-jobs-hungary", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJDNlNThhMTIwLTE2MDgtNDc3Ny1iYzdiLWE0NTgwYzExN2M2OA. png"
+      }, 
+      "companyId": 1558452
+    }, 
+    "canonicalName": "CPL Jobs Hungary", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "November 14,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

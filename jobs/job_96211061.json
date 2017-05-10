@@ -1,0 +1,282 @@
+{
+  "jobPosting": {
+    "companyJobCode": "adzuna_xml-325941117", 
+    "expirationDate": 1451487445000, 
+    "title": "Data Scientist / Аналитик (Big Data)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1715, 
+          "type": "LI", 
+          "endIdx": 1781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1660, 
+          "type": "LI", 
+          "endIdx": 1714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1619, 
+          "type": "LI", 
+          "endIdx": 1659, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1558, 
+          "type": "LI", 
+          "endIdx": 1618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1473, 
+          "type": "LI", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1472, 
+          "type": "BG", 
+          "endIdx": 1781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1361, 
+          "type": "LI", 
+          "endIdx": 1470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1245, 
+          "type": "LI", 
+          "endIdx": 1360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1181, 
+          "type": "LI", 
+          "endIdx": 1244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1091, 
+          "type": "LI", 
+          "endIdx": 1180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1090, 
+          "type": "BG", 
+          "endIdx": 1471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1090, 
+          "type": "BR", 
+          "endIdx": 1090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "B", 
+          "endIdx": 1090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "BR", 
+          "endIdx": 1073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "BR", 
+          "endIdx": 1073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1023, 
+          "type": "LI", 
+          "endIdx": 1072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "LI", 
+          "endIdx": 1022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 927, 
+          "type": "LI", 
+          "endIdx": 979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 776, 
+          "type": "LI", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 684, 
+          "type": "LI", 
+          "endIdx": 775, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 614, 
+          "type": "LI", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 613, 
+          "type": "BG", 
+          "endIdx": 1073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 613, 
+          "type": "BR", 
+          "endIdx": 613, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 594, 
+          "type": "B", 
+          "endIdx": 613, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 594, 
+          "type": "BR", 
+          "endIdx": 594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 594, 
+          "type": "BR", 
+          "endIdx": 594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 467, 
+          "type": "LI", 
+          "endIdx": 593, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 380, 
+          "type": "LI", 
+          "endIdx": 466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 194, 
+          "type": "LI", 
+          "endIdx": 379, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 25, 
+          "type": "LI", 
+          "endIdx": 193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 24, 
+          "type": "BG", 
+          "endIdx": 594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 24, 
+          "type": "BR", 
+          "endIdx": 24, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 24, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Чем Вы Будете Заниматься Применением современных методов машинного обучения (machine learning) и анализа больших данных для извлечения наибольшей ценности из огромного массива данных оператора; Классификацией и кластеризацией абонентской базы,  построением предсказательных и скоринговых моделей,  а также предобработкой,  визуализацией данных и презентацией результатов заказчикам; Работой на большом кластере Hadoop с использованием Hive,  Pig,  Python,  Spark,  R,  SPSS; Решение внутренних задач для оператора,  таких как борьба с оттоком,  профилирование абонентов,  борьба с фродом и многих других; Что Мы Хотим От Вас Образование в статистике,  эконометрике или статистической социологии; Большой опыт и свободное владение методами машинного обучения и/или анализа больших данных; Владение инструментами подготовки и анализа данных: Hive,  Python,  R,  Spark,  SQL,  знание основных библиотек машинного обучения для Python,  R или Spark; Опыт участия в соревнованиях Kaggle очень желателен; Умение презентовать полученные результаты; Опыт в телекоме приветствуется,  но не обязателен.  Что Мы Предлагаем Работу в стратегически важном для компании направлении — поэтому быстро и без бюрократии; Работу в команде практиков,  регулярно тусующихся в топе Kaggle; Перспективу — после работы у нас можно будет смело претендовать на любую вакансию сферы в стране и за ее пределами; Возможность использовать современные инструменты анализа и обработки данных и греться около мощного кластера;   Крутые задачи,  которые затрагивают 55 миллионов человек (каждого третьего в стране); Добровольное медицинское страхование (включая стоматологию); Страхование на время зарубежных поездок; Корпоративную мобильную связь,  корпоративный интернет; Уютный офис недалеко от станций метро Новослободская и Маяковская. "
+    }, 
+    "postalCode": "101990", 
+    "jobState": "LISTED", 
+    "companyName": "VimpelCom,  Russia", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "VimpelCom is one of the world’s largest integrated telecommunications services operators providing voice and data services through a range of traditional and broadband mobile and fixed technologies in Russia,  Italy,  Ukraine,  Kazakhstan,  Uzbekistan,  Tajikistan,  Armenia,  Georgia,  Kyrgyzstan,  Laos,  Algeria,  Bangladesh,  Pakistan,  and Zimbabwe.  VimpelCom’s operations around the globe cover territory with a total population of approximately 740 million people.  VimpelCom provides services under the \"Beeline\",  \"Kyivstar\",  “WIND”,  \"Infostrada\" “Mobilink”,  “Banglalink”,  “Telecel”,  and “Djezzy” brands.  As of 6 August,  2015 VimpelCom had 213 million mobile customers on a combined basis.  VimpelCom is headquartered in Amsterdam,  the Netherlands and is traded on the NASDAQ Global Select Market under the symbol \"VIP\".  With annual 2014 revenue of USD 19. 6 billion and EBITDA of USD 8 billion,  we are one of the largest telecommunications companies in the industry and have established the scale for successful growth and development of our group of companies going forward. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446536338000, 
+    "countryCode": "ru", 
+    "company": "urn:li:company:6132", 
+    "id": 96211061, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Moscow,  RU", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96211061?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. adzuna. ru%2Fland%2Fad%2F325941117%3Fv%3DE7227B73BF6210C5AC927761F7E94A18DDAC582A%26utm_source%3Dlinkedinru%26utm_medium%3Dorganic%26chnlid%3D177&urlHash=80Ms&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Telecommunications"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "VimpelCom is one of the world’s largest integrated telecommunications services operators providing voice and data services through a range of traditional and broadband mobile and fixed technologies in Russia,  Italy,  Ukraine,  Kazakhstan,  Uzbekistan,  Tajikistan,  Armenia,  Georgia,  Kyrgyzstan,  Laos,  Algeria,  Bangladesh,  Pakistan,  and Zimbabwe.  \r\rVimpelCom’s operations around the globe cover territory with a total population of approximately 740 million people.  VimpelCom provides services under the \"Beeline\",  \"Kyivstar\",  “WIND”,  \"Infostrada\" “Mobilink”,  “Banglalink”,  “Telecel”,  and “Djezzy” brands.  As of 6 August,  2015 VimpelCom had 213 million mobile customers on a combined basis.  \r\rVimpelCom is headquartered in Amsterdam,  the Netherlands and is traded on the NASDAQ Global Select Market under the symbol \"VIP\".  \r\rWith annual 2014 revenue of USD 19. 6 billion and EBITDA of USD 8 billion,  we are one of the largest telecommunications companies in the industry and have established the scale for successful growth and development of our group of companies going forward. ", 
+    "foundedYear": 1992, 
+    "canonicalName": "Beeline Russia", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/009/2b3/2cd98c2. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Telecommunications", 
+        "Телекоммуникации"
+      ], 
+      "universalName": "beeline-russia", 
+      "companyId": 6132, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/015/3c1/3ca327d. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees"
+  }, 
+  "formattedIndustries": [
+    "Telecommunications"
+  ], 
+  "formattedPostedDaysAgo": "Posted 32 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "32d", 
+  "companyDescriptionLanguage": "ru", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "November 3,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "ru", 
+  "formattedEmploymentStatus": "Full-time"
+}

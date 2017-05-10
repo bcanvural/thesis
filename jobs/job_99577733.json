@@ -1,0 +1,257 @@
+{
+  "jobPosting": {
+    "companyJobCode": "werkenbijaegon_nl-50661", 
+    "expirationDate": 1451997318000, 
+    "title": "Applicatie beheerder Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3471, 
+          "type": "BR", 
+          "endIdx": 3471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3459, 
+          "type": "BR", 
+          "endIdx": 3459, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2984, 
+          "type": "BR", 
+          "endIdx": 2984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2984, 
+          "type": "BR", 
+          "endIdx": 2984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2969, 
+          "type": "B", 
+          "endIdx": 2983, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2873, 
+          "type": "LI", 
+          "endIdx": 2961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2778, 
+          "type": "LI", 
+          "endIdx": 2873, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2621, 
+          "type": "LI", 
+          "endIdx": 2778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2513, 
+          "type": "LI", 
+          "endIdx": 2621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2460, 
+          "type": "LI", 
+          "endIdx": 2513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2426, 
+          "type": "LI", 
+          "endIdx": 2460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2375, 
+          "type": "LI", 
+          "endIdx": 2426, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2251, 
+          "type": "LI", 
+          "endIdx": 2375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2204, 
+          "type": "LI", 
+          "endIdx": 2251, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2131, 
+          "type": "LI", 
+          "endIdx": 2204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2131, 
+          "type": "BG", 
+          "endIdx": 2961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2122, 
+          "type": "BR", 
+          "endIdx": 2122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1764, 
+          "type": "BR", 
+          "endIdx": 1764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1764, 
+          "type": "BR", 
+          "endIdx": 1764, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1479, 
+          "type": "BR", 
+          "endIdx": 1479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1479, 
+          "type": "BR", 
+          "endIdx": 1479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "BR", 
+          "endIdx": 1236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "BR", 
+          "endIdx": 1236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1029, 
+          "type": "BR", 
+          "endIdx": 1029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1029, 
+          "type": "BR", 
+          "endIdx": 1029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 831, 
+          "type": "BR", 
+          "endIdx": 831, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 831, 
+          "type": "BR", 
+          "endIdx": 831, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 558, 
+          "type": "BR", 
+          "endIdx": 558, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Over Aegon Bij Aegon voelen we ons verantwoordelijk voor de financiële bewustwording van mensen.  We bieden begrijpelijke oplossingen waardoor onze klanten zelf bewuste keuzes kunnen maken voor een gezonde financiële toekomst.  Om succesvol te zijn in een snel veranderende wereld wil Aegon een toonaangevende speler zijn op het gebied van e-commerce en intelligence.  In rap tempo passen we onze bestaande infrastructuur aan om klanten fundamenteel beter te bedienen.  Ons bedrijfsonderdeel Business Information Services (BIS) is de spil in dit proces.  Functie Als applicatiebeheerder fungeer je als spil tussen de business en de IT-organisatie.  Je maakt deel uit van een dynamisch en enthousiast team bestaande uit functioneel beheerders,  projectmanagers,  releasemanagers,  testcoördinatoren,  testers en business information analysts. De applicatie beheerder maakt onderdeel uit van de afdeling Data en Integratie waar o. a.  Data Warehouses,  Business Intelligence applicaties en de Aegon Integratie Laag (service laag) worden beheerd. Voor de komende periode staat er een ambitieuze implementatie van de BI en Big Data strategie gepland: “By providing fit for purpose information,  we empower customers and employees to make better decisions. ”Je bent verantwoordelijk voor het beheer van de caching laag tussen Aegon’s back-office en de mijnOmgeving in zowel web als mobile app.  Deze is volledig met big data tooling opgezet en vormt de spil in de communicatie tussen de klant en Aegon. Wij zoeken een collega die kan mobiliseren en organiseren,  en de ambitie heeft om het verschil te maken door vernieuwend te zijn.  Je voert de regie tussen business en IT leveranciers in het kader van incident-,  problem management en wijzigingenbeheer voor in beheer zijnde applicaties. Je zorgt voor probleemoplossende en probleemvoorkomende acties en impact analyses bij incidenten en complexe verstoringen.  Stelt wijzigingsverzoeken op die de (technische) kwaliteit en onderhoudbaarheid van de applicatie verhogen.  Je bewaakt de performance van het systeem en ondersteunt gebruikers bij het juiste gebruik van informatiesystemen.               Profiel Je hebt een afgeronde WO of HBO-opleiding,  op het gebied van informatica. Je hebt minimaal 3 jaar relevante werkervaring. Je hebt bij voorkeur kennis van en ervaring met minimaal 2 van de van de volgende tools: Hadoop,  Cassandra,  Pentaho en Mule. Je hebt kennis van en ervaring met Databases en SQLJe hebt kennis van Agile en Scrum. Je hebt kennis van methodieken als BiSL,  ASL en ITIL. Je bent analytisch sterk,  klantgericht,  creatief en beschikt over een uitstekend probleemoplossend vermogen. Je bruist van ambitie en wilt meewerken aan de transformatie van ons bedrijf tot een toonaangevende,  klantgerichte organisatie in financiële dienstverlening. Je beschikt over uitstekende communicatieve vaardigheden en kunt goed luisteren en samenwerken. Je beschikt over gedegen vakmanschap,  gezonde daadkracht en kunt grensverleggend denken.  Aanbod Wat bieden we? Je krijgt een mooie positie binnen een team waarin samenwerking,  performance en een goede sfeer vooropstaan.  Daarbij bieden we actieve aandacht voor je persoonlijke en professionele ontwikkeling,  en krijg je alle ruimte om initiatieven te nemen en je eigen ideeën uit te werken.  Om je carrière gericht vorm te geven kun je bij Aegon kiezen uit een breed aanbod van opleidingen en coachingstrajecten.  Zo bieden wij de randvoorwaarden voor jouw succes.                           Interesse? Heb je interesse in jouw mogelijkheden bij Aegon,  dan nodigen wij je graag uit te solliciteren.  Voor meer informatie kun je contact opnemen met Tim Blok,  op telefoonnummer 06-123 60 106"
+    }, 
+    "postalCode": "2591", 
+    "jobState": "LISTED", 
+    "companyName": "Aegon Nederland", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Aegon Nederland is de Nederlandse werkmaatschappij van de beursgenoteerde Aegon N. V.  Sinds 1983,  toen AGO en Ennia fuseerden tot Aegon,  heeft Aegon Nederland in de particuliere en zakelijke markt een toonaangevende positie opgebouwd. Wij bieden een breed assortimenten aan diensten,  zoals collectieve en individuele pensioenen,  levensverzekeringen,  vermogensbeheer,  schadeverzekeringen,  zorgverzekeringen,  uitvaartverzekeringen,  sparen en beleggen. KlantenKlanten die Aegon Nederland bedient,  zijn:- particulieren- het MKB - grote ondernemingen - pensioenfondsen DistributieAegon Nederland biedt haar producten en diensten voor een belangrijk deel aan via tussenpersonen,  adviesbureaus,  accountants en andere professionele bedrijfsadviseurs.  De volgende distributiebedrijven zijn onderdeel van Aegon: - Unirobe,  een holding van onafhankelijke assurantiebemiddeling- en volmachtbedrijven en een hypotheekketen- Meeùs- NedascoDaarnaast beschikt Aegon Nederland over een eigen verkooporganisatie die particulieren en bedrijven rechtstreeks bedient.  Organisatie per klantgroepVoor deze klanten heeft Aegon Nederland verschillende verkooporganisaties:- Intermediair,  voor het professionele intermediair (Leeuwarden)- Corporate &amp; Institutional Clients,  voor middelgrote tot grote bedrijven (Den Haag) - Aegon Bank,  voor consumenten (Den Haag)"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "ADM", 
+      "IT"
+    ], 
+    "listDate": 1447864524000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:375861", 
+    "id": 99577733, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "The Hague,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99577733?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwerkenbijaegon. nl%2Fvacature%2Fapplicatie-beheerder-big-data-50661. html&urlHash=7ins&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Administrative", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1983, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/079/3ff/05a46aa. png"
+    }, 
+    "localizedDescription": "Aegon Nederland is de Nederlandse werkmaatschappij van de beursgenoteerde Aegon N. V.  Sinds 1983,  toen AGO en Ennia fuseerden tot Aegon,  heeft Aegon Nederland in de particuliere en zakelijke markt een toonaangevende positie opgebouwd. \r\rWij bieden een breed assortimenten aan diensten,  zoals collectieve en individuele pensioenen,  levensverzekeringen,  vermogensbeheer,  schadeverzekeringen,  zorgverzekeringen,  uitvaartverzekeringen,  sparen en beleggen. \r\rKlanten\rKlanten die Aegon Nederland bedient,  zijn:\r- particulieren\r- het MKB \r- grote ondernemingen \r- pensioenfondsen \r\rDistributie\rAegon Nederland biedt haar producten en diensten voor een belangrijk deel aan via tussenpersonen,  adviesbureaus,  accountants en andere professionele bedrijfsadviseurs.  De volgende distributiebedrijven zijn onderdeel van Aegon: \r\r- Unirobe,  een holding van onafhankelijke assurantiebemiddeling- en volmachtbedrijven en een hypotheekketen\r- Meeùs\r- Nedasco\r\rDaarnaast beschikt Aegon Nederland over een eigen verkooporganisatie die particulieren en bedrijven rechtstreeks bedient.  \r\rOrganisatie per klantgroep\rVoor deze klanten heeft Aegon Nederland verschillende verkooporganisaties:\r\r- Intermediair,  voor het professionele intermediair (Leeuwarden)\r- Corporate & Institutional Clients,  voor middelgrote tot grote bedrijven (Den Haag) \r- Aegon Bank,  voor consumenten (Den Haag)", 
+    "company": {
+      "specialities": [
+        "Verzekeringen", 
+        "Pensioen & Inkomen", 
+        "Sparen", 
+        "Hypotheek", 
+        "Beleggen"
+      ], 
+      "universalName": "aegon-nederland", 
+      "companyId": 375861, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAMsAAAAJGMyZWMwNzk0LTBhOTctNDczYi05MTI3LWE5Mjk3MDY2YWQ0Mg. png"
+      }
+    }, 
+    "canonicalName": "Aegon Nederland", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Financial Services"
+    ]
+  }, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

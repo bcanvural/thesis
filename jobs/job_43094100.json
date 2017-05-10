@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/43094100", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Qualifications:  A minimum of 3 years a professional experience in data analysis and modeling You have a strong analytical background (Mathematics / Machine Learning) You have a computer science background  You are versatile and dynamic You are Fluent in English", 
+  "following": false, 
+  "companyDescription": "About Criteo [CTRO]   Criteo delivers personalized performance marketing at an extensive scale.  Measuring return on post-click sales,  Criteo makes ROI transparent and easy to measure.  Criteo has over 1, 600 employees in 27 offices across the Americas,  Europe and Asia-Pacific,  serves over 8, 500 advertisers worldwide and maintains direct relationships with over 11, 000 publishers.  Our R&amp;D team of close to 300 engineers is building the next generation digital advertising technologies that allow us to manage billions of ad impressions every day.  We're working in a very fast-paced release cycle and are adding new capabilities weekly and even daily.    A few figures: • 15 datacenters (8 with computing capacity + 7 dedicated to network connectivity)  across US,  EU,  APAC • More than 15K servers,  running a mix of Linux and Windows • One of the largest Hadoop clusters in Europe with close to 40PB of storage and 30. 000 cores – • 30B HTTP requests and close to 3B unique banners displayed per day • Close to 1M HTTP requests per second handled during peak times • 40Gbps of bandwidth,  half of it through peering exchanges   We recognize that engineering culture is key for building a world-class engineering organization.  Our core values are getting stuff done,  collaboration and respect,  code quality,  striving for excellence,  and having fun at what we do.    For more information,  please visit http://www. criteolabs. com", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Criteo", 
+  "canFollow": false, 
+  "companyId": "37209", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Criteo", 
+    "title": "Data Scientist - Engine BI"
+  }, 
+  "description": "Mission:    As part of our R&amp;D team,  you will be in charge of improving our Criteo Engine.  This Engine is a key component of Criteo business offer.  Our technology takes an algorithmic approach to determining what user we show an ad to,  when,  and for what products.  We serve daily two billion unique adverts while keeping the latency under 10 ms.  The BI Engine team is responsible to use this 10 ms the most efficient way to estimate the value of each display and drive the best performance to our clients.   More specifically:  Build and improve Prediction Models Gather and analyze data Identify key prediction problems and propose innovating solutions Report,  visualize and communicate results Contribute to the exploration and creation of new scientific understanding (monitoring,  new metrics)"
+}

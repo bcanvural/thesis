@@ -1,0 +1,397 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobsindia-4013643", 
+    "expirationDate": 1451876822000, 
+    "title": "Sr.  & Chief Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2281, 
+          "type": "BR", 
+          "endIdx": 2281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2281, 
+          "type": "BR", 
+          "endIdx": 2281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2281, 
+          "type": "LI", 
+          "endIdx": 2281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2281, 
+          "type": "BR", 
+          "endIdx": 2281, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2269, 
+          "type": "BR", 
+          "endIdx": 2269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2262, 
+          "type": "LI", 
+          "endIdx": 2269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2262, 
+          "type": "BR", 
+          "endIdx": 2262, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2235, 
+          "type": "BR", 
+          "endIdx": 2235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2229, 
+          "type": "LI", 
+          "endIdx": 2235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2170, 
+          "type": "LI", 
+          "endIdx": 2229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2170, 
+          "type": "BR", 
+          "endIdx": 2170, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2146, 
+          "type": "BR", 
+          "endIdx": 2146, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2146, 
+          "type": "BR", 
+          "endIdx": 2146, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2138, 
+          "type": "U", 
+          "endIdx": 2146, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2138, 
+          "type": "B", 
+          "endIdx": 2146, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2138, 
+          "type": "BR", 
+          "endIdx": 2138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2138, 
+          "type": "BR", 
+          "endIdx": 2138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2049, 
+          "type": "BR", 
+          "endIdx": 2049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1944, 
+          "type": "LI", 
+          "endIdx": 2049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1840, 
+          "type": "LI", 
+          "endIdx": 1944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1840, 
+          "type": "BR", 
+          "endIdx": 1840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1779, 
+          "type": "BR", 
+          "endIdx": 1779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "B", 
+          "endIdx": 1779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "BR", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1756, 
+          "type": "BR", 
+          "endIdx": 1756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1656, 
+          "type": "BR", 
+          "endIdx": 1656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1546, 
+          "type": "BR", 
+          "endIdx": 1546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1504, 
+          "type": "BR", 
+          "endIdx": 1504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1504, 
+          "type": "BR", 
+          "endIdx": 1504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "U", 
+          "endIdx": 1504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "B", 
+          "endIdx": 1504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "BR", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "BR", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1443, 
+          "type": "BR", 
+          "endIdx": 1443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1334, 
+          "type": "BR", 
+          "endIdx": 1334, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1234, 
+          "type": "BR", 
+          "endIdx": 1234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1130, 
+          "type": "BR", 
+          "endIdx": 1130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BR", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 826, 
+          "type": "BR", 
+          "endIdx": 826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 720, 
+          "type": "BR", 
+          "endIdx": 720, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 619, 
+          "type": "BR", 
+          "endIdx": 619, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 516, 
+          "type": "BR", 
+          "endIdx": 516, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 414, 
+          "type": "BR", 
+          "endIdx": 414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 313, 
+          "type": "BR", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 207, 
+          "type": "BR", 
+          "endIdx": 207, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 100, 
+          "type": "BR", 
+          "endIdx": 100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 28, 
+          "type": "BR", 
+          "endIdx": 28, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 28, 
+          "type": "BR", 
+          "endIdx": 28, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 28, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 28, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Roles &amp; ResponsibilitiesDo you have a passion for creating data-driven solutions for challengingbusiness problems? Analyttica needs outgoing,  curious,  interdisciplinary data savvy specialists to organizeand interpret Big Data to inform client decision makers,  drive successful operations,  and shape technologyand resource investments.  We are looking for individuals from diverse educational backgrounds to fillthe roles of Senior and Chief Data Scientists.  As a Data Scientist,  you will get to work with advancedhardware,  software and techniques to develop computational algorithms and statistical methods that findpatterns and relationships in large volumes of data.  You will work as a data miner,  statistician,  andbusiness analyst.  You will have the opportunity to work across many areas to analyze operational,  digital, voice,  mobile data,  and consumer behaviour; with a variety of people and technologies to bring aboutadvanced insights for our clients.  We would expect you to be passionate about delivering accurate andactionable analyses to business decision-makers and be able to understand and creatively solve problemsthat span insights,  techniques,  technology,  and business.  Successful applicants will have keen technicalinsight,  creativity,  initiative and a curious mind to try and solve open-ended problems.  A fantasticopportunity to learn communicating conclusions clearly to a lay audience and become experts through continuededucation,  attending and / or preseEducational QualificationsPhD / Post Doc from a reputed institution. Field of Education  Computer Science,  Engineering,  Mathematics,  Operations Research,  Statistics,  Econometrics, Computational Social Science,  or similar quantitative areas.  Computer Science a plus. Strong academicrecordEducation Detailstion-   UG: B. Tech/B. E.  - Any Specialization,  Computers,  B. Sc Any Specialization,  Computers,  Maths,  Statistics,  B. A - Any Specialization,  Maths,  Statistics PG:M. Tech Any Specialization,  Computers,  MCA - Computers,  M. Sc - Any Specialization,  Computers,  Maths,  Statistics, M. A - Any Specialization,  Maths,  Statistics Doctorate:Ph. D - Computers,  Maths,  StatisticsIndustryInternet  /    Ecommerce Functional Area:     Analytics &amp; Business Intelligence  RoleCategory:Analytics &amp; BI  Role:Data Analyst"
+    }, 
+    "postalCode": "560015", 
+    "jobState": "LISTED", 
+    "companyName": "Analyttica Datalab Inc. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Analyttica DataLab INC is a startup based out Bangalore,  working on a highly scalable and a futuristic product.  The founders are well recognized and share immense experience and competence between them"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1447029061000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2691083", 
+    "id": 97875252, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Bangalore,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Analyttica Datalab,  with liaison offices in NY,  USA and Bangalore/New Delhi,  India,  is a fast growing analytics start-up.  Analyttica has a high powered team of experienced professionals to lead the creation of pioneering analytical services and solutions.  \rOur talent brings in a combined experience of 200+ years in fortune 100 companies with diverse skill sets including data mining,  data quality,  business analysis,  segmentation & clustering,  predictive modelling & governance,  and unstructured data (text) analytics application to create business impact.  The team is highly passionate about the application of advanced analytics in various industries to provide analytical solutions to enterprises.  Our forte is consumer banking in terms of the PnL,  but we leverage all our past experiences in customer centricity across industries.  Depth & breadth of our experiences help us rapidly connect with the business challenges and demonstrate quantifiable impact.  \r\rAnalyttica’s clientele is primarily in USA and EU,  and includes large MNCs.  Apart from services & staff augmentation as offerings,  we have built an innovative solution (Patent Pending) with 10+ man years of R&D efforts that can create 50+% efficiencies in client’s data analytics solutions,  and experiential analytic training requirements. ", 
+    "foundedYear": 2012, 
+    "canonicalName": "Analyttica Datalab", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/18f/155/3987c15. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Customer Analytics", 
+        "Analytical Insights & Delivery", 
+        "Simulation & Forecasting", 
+        "Statistical Modeling", 
+        "Analytical Applications across Customer Life Cycle", 
+        "Simulation based Training", 
+        "End-End analytics solutions and products"
+      ], 
+      "universalName": "analyttica-datalab-pvt-ltd-", 
+      "companyId": 2691083, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAPcAAAAJDZlNzQ4NDQyLWI0M2QtNGNkOS05NjViLWZkODU2NGI2OWIzYQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Executive", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97875252?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobsindia. com%2Fjobdetails. aspx%3Fjobid%3D4013643&urlHash=SRH6&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

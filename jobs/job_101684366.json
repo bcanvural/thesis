@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "jobweb kenya", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "jobwebkenya-4g-capital-data-scientist-job", 
+    "title": "4G Capital Data Scientist Job", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101684366, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. jobweb. fr", 
+    "logo": "urn:li:media:/p/4/005/025/1bd/3413150. png", 
+    "universalName": "jobweb", 
+    "companyId": 2832868
+  }, 
+  "description": "    Job Description    4G Capital    Job Title: Data ScientistReporting to:    CEOHours: 8:30 – 17:30,  Monday – Friday and beyond when required    Location: Nairobi,  with occasional local travel required    Purpose of the Position: The Data Scientist will work with a team of    talented analysts and software developers to create cutting-edge data    reporting,  analytical applications and business intelligence to deliver    4G Capital’s credit products.     This individual will actively engage end-users and stakeholders to    determine requirements and work quickly to turn specifications into    quality deliverables.     The Data Scientist will work with the team to incorporate the latest    technologies and tools to keep our skills current and our deliverables    cutting-edge.     Responsibilities & Duties       Pose hypotheses,  challenge assumptions and uncover best practices        in the way we do business       Discover and manipulate data using SQL,  Excel and Google Analytics       Create compelling predefined and ad-hoc reports using database and        web analytics       Analyze Data – Conducts data analysis,  understands        strengths/weaknesses of different methods       Communication and Presentation – Explains results of analysis to        team members,  train business how to use decision support tools,         develops training materials.  Uses data visualization to aid        communication.        Follows project plan,  best practices and group standards.  Documents        work.  Provides accurate estimates of time to complete tasks and        projects.      Academic & Trade Qualifications       Undergraduate Degree in Analytics,  Statistics,  Mathematics,         Computer Science or a related field     Work Experience & Skills Essential       3 to 7 years’ work experience performing statistical data analysis,         data mining,  data science,  machine learning,  etc.  in a professional        setting       Real world experience with advanced statistics,  time series        analysis,  regression analysis,  statistical learning algorithms        (neural networks,  decision trees,  nearest neighbour,  support vector        machines,  k-means,  hierarchical clustering,  ensembles),         bootstrapping and resampling,  exploratory data analysis,  operations        research       Statistical fluency,  investigative creativity and analytical        experience       Strong written and verbal communication skills     Desirable       Interest in using data to solve problems in the MFI industry       Commitment to continuous improvement in organizing and technical        systems     Personal qualities & behavioral traits       Ability to perform multiple tasks simultaneously,  employing        effective time management and organizational skills       Ability to work independently and as a team to meet deadlines,         goals and objectives       Passion for learning new data analysis methods and tools       Excellent critical thinking skills     Relationships    With    Purpose    CEO    Direct line manager,  who will offer ongoing support and supervision    COO    Support in generating data-driven decisions and projects    CTO    Support in developing and deploying real-time reports and analytics for    consumption by the business    Performance review period: Initial 6 month probation.     Upon successful completion of the probation period,  annual reviews will    be conducted in April. ", 
+  "companyDescription": "      jobweb kenya    Jobweb. fr est un site web d’emploi généraliste de type Freemium qui    allie simplicité,  ergonomie,  précision et efficacité.     Développé par des experts du conseil en recrutement,  Jobweb. fr vous    permet de réduire considérablement vos coûts liés au sourcing de    candidats.     Vous avez une offre de stage,  un CDD ou un CDI ? diffusez-la    gratuitement sur www. jobweb. fr !    Vous souhaitez améliorer la visibilité de votre offre ? des options    sont à votre disposition (à partir de 15 € HT).     Nous innovons sur le marché du recrutement avec notre formulaire de    matching.  Il vous permettra de prioriser les candidatures en fonction    des compétences que vous recherchez.     Jobweb s’adresse aux candidats tout au long de leur vie étudiante    (stage,  alternance…) et professionnelle (CDD,  CDI,  intérim…). ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

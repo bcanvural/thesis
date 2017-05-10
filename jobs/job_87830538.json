@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87830538", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Technical Capabilities/Skills &amp; Experience Required for the Role: Extensive hands-on experience of data sourcing,  process and business use for Risk purposes within Financial Services Familiarity with industry best practice for Data standards,  Control and Governance frameworks Thorough understanding of end-to-end data flow architectures and data lineage Excellent analytical and documentation skills – ability to assess large data volumes with strong attention to detail and accuracy Strong experience in data testing,  test support and production data migrations Good team-working and stakeholder communication skills Sound MS office skills: Word,  Excel,  Access as minimum; Visio advantageous ", 
+  "following": false, 
+  "companyDescription": "Parker Fitzgerald is a specialist risk management consultancy to the financial services sector.   We provide strategic advice,  research and consulting services in all areas of risk management,  financial regulation and risk technology.     Through our international network of highly experienced industry practitioners and recognised technical experts,  we partner with the world's leading financial institutions to improve their risk adjusted performance and ultimately,  shareholder value.     Our senior team of consultants is trusted by regulators and supervisory bodies to advise on capital and liquidity management,  market conduct,  enterprise and quantitative risk management. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Parker Fitzgerald", 
+  "canFollow": false, 
+  "companyId": "312524", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Parker Fitzgerald", 
+    "title": "Risk Data Analyst"
+  }, 
+  "description": "We are seeking detailed oriented data analysts with a deep understanding of risk and regulatory related data requirements.   Our data analysts work closely with business analysts and project managers to convert business requirements into technical specifications and execute data queries in an orderly and controlled manner.   Our data analysts must be able to understand key risk concepts (PD,  LGD and EAD,  EL and capital requirements) in order to quickly mine or summarise data in a way that is meaningful to the client.    Key Purpose of the Role: Provision of subject matter expertise on the sourcing,  processing and business use of all forms of data used in Risk calculations and reporting.  Supporting all aspects of programme delivery with a dependency on data sourcing,  completeness and integrity.  Key contributor to design and implementation of data standards,  governance and control framework   Key Responsibilities:   Analysis of data sources to assess completeness,  integrity and appropriateness of use Identification and assessment of data sourcing gaps and any remediation requirements Specification of business and functional requirements in respect of data sourcing and data quality assurance framework,  including mappings,  transformations,  validations,  interface processing,  monitoring,  controls and exceptions handling Assessment and specification of any downstream data feed requirements or impacts,  including inputs to management / regulatory reporting and Data Quality MI and dashboards.  Providing domain expertise to support data flow architecture design and solutioning Contributing to the formulation or extension of Data Standards,  Governance and Quality Control Framewor Scoping,  planning and execution of data remediation work Preparation and supply of data to support programme testing,  impact analysis,  and production cut-over events Creation and execution of test cases for data integration and functional testing purposes,  including investigation and remediation of exceptions.  Providing user training and support in respect of data migration,  testing and production acceptance Contributor to project working groups "
+}

@@ -1,0 +1,419 @@
+{
+  "jobPosting": {
+    "companyJobCode": "smartrecruiters_xml-103774487-87316776", 
+    "expirationDate": 1451188976000, 
+    "title": "Dutch speaking Web Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2013, 
+          "type": "BR", 
+          "endIdx": 2013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2013, 
+          "type": "BR", 
+          "endIdx": 2013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1881, 
+          "type": "BR", 
+          "endIdx": 1881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1881, 
+          "type": "BR", 
+          "endIdx": 1881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "BR", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "BR", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "B", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "BR", 
+          "endIdx": 1569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "BR", 
+          "endIdx": 1569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1547, 
+          "type": "BR", 
+          "endIdx": 1547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1547, 
+          "type": "BR", 
+          "endIdx": 1547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1511, 
+          "type": "LI", 
+          "endIdx": 1547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1443, 
+          "type": "LI", 
+          "endIdx": 1511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1400, 
+          "type": "LI", 
+          "endIdx": 1443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1364, 
+          "type": "LI", 
+          "endIdx": 1400, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1319, 
+          "type": "LI", 
+          "endIdx": 1364, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1242, 
+          "type": "LI", 
+          "endIdx": 1319, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1198, 
+          "type": "LI", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1142, 
+          "type": "LI", 
+          "endIdx": 1198, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1142, 
+          "type": "BG", 
+          "endIdx": 1547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1142, 
+          "type": "BR", 
+          "endIdx": 1142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1113, 
+          "type": "B", 
+          "endIdx": 1142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1113, 
+          "type": "BR", 
+          "endIdx": 1113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1113, 
+          "type": "BR", 
+          "endIdx": 1113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1071, 
+          "type": "LI", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1046, 
+          "type": "LI", 
+          "endIdx": 1071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1009, 
+          "type": "LI", 
+          "endIdx": 1046, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 994, 
+          "type": "LI", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "LI", 
+          "endIdx": 994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 860, 
+          "type": "LI", 
+          "endIdx": 958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 831, 
+          "type": "LI", 
+          "endIdx": 860, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 807, 
+          "type": "LI", 
+          "endIdx": 831, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 807, 
+          "type": "BG", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 807, 
+          "type": "BR", 
+          "endIdx": 807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "B", 
+          "endIdx": 807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "BR", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "BR", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 733, 
+          "type": "LI", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 716, 
+          "type": "LI", 
+          "endIdx": 733, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 667, 
+          "type": "LI", 
+          "endIdx": 716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "LI", 
+          "endIdx": 667, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 609, 
+          "type": "LI", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 551, 
+          "type": "LI", 
+          "endIdx": 609, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "LI", 
+          "endIdx": 551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BG", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BR", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 444, 
+          "type": "B", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 444, 
+          "type": "BR", 
+          "endIdx": 444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 444, 
+          "type": "BR", 
+          "endIdx": 444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionDue to continued growth within the business,   we are looking for a new addition to the team to take responsibility of the Dutch speaking markets.  You will be in charge of the management and development of the Dutch websites and apps.  The job requires a fast-learning individual that will work as a vital member of the team,  and also work independently,  taking ownership and responsibility of the markets and products. ResponsibilitiesResearching,  adding and configuring online data sources for inclusion in the search engine;Monitoring and continually quality-controlling online ads;Content and quality improvement;Management of our systems;Proposing improvements to products and processes;Reporting issues;Proposing solutions and following up on progress;Compensation And BenefitsCompetitive basic salaryAttractive sales commissions. Annual pay raise scheme based on employee&apos;s initiative,  conscientiousness and quality of workHealth Insurance and Pension schemes25 days holidayInsight into search engine technologyMulticultural environmentCareer growth opportunities QualificationsThe Ideal Candidate Will HaveOutstanding written and oral skills in Dutch and EnglishStrong computer literacy and internet skillsA bachelor degree and/or solid professional experience in a similar position;A passion for all things internet and mobile;Analytical and technical proficiencyFast-learner,  autonomous and well-organisedDetail-oriented,  with excellent problem-solving and follow-up skillsTeam player with a positive attitudeAdditional InformationTo ApplyIf you think you are the right candidate,  send us your CV and a cover letter detailing the key skills and experiences that will make you the best applicant for this position. For administrative purposes,  ALL applicants please indicate in your e-mail whether you currently have the right to work in the UK. Careerjet is an equal opportunities employer and positively encourages applications from suitably qualified and eligible candidates. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Careerjet", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. With over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. Launched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). Evolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. Here at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447936710000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:137242", 
+    "id": 99851308, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Careerjet is a leading online job search engine with a large presence worldwide,  sourcing over 40 million job ads from more than 70 thousands quality websites from all over the world. \rWith over 90 localised websites,  in 28 major languages,  Careerjet gives job seekers direct access to an extensive database of jobs,  targeted to their needs,  in just one straight forward search. \r\rLaunched in 2001,  the job search engine is still expanding through its three brands: Careerjet (worldwide),  Opcionempleo (Spanish language markets) and Optioncarriere (French language markets). \r\rEvolving in a fast paced industry,  Careerjet is also currently expanding its range of products and technologies towards exciting new activities. \r\rHere at Careerjet we share our passion for technology and innovation to improve every day our existing products,  develop new ones and maintain our position as one of the leading online aggregators worldwide. ", 
+    "company": {
+      "specialities": [
+        "search engine", 
+        "jobs", 
+        "internet", 
+        "advertising", 
+        "software development"
+      ], 
+      "universalName": "careerjet", 
+      "companyId": 137242
+    }, 
+    "canonicalName": "Careerjet", 
+    "hasPaidLcp": false, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/15d/0ae/1ffd119. png"
+    }, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanySize": "11-50"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99851308?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FCareerjet%2F87316776-dutch-speaking-web-data-analyst&urlHash=2dvl&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "LondonLocaljobs-79067451", 
+    "title": "Principal Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101670065, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "    Principal Data Scientist (Python,  R programming,  Hadoop)    Data Scientist required for data analytics role who can solve the    complex challenges of collecting,  sharing and interpreting information.     You can expect to be deployed on a range of projects from direct    support to national security,  creating the architectures to collaborate    with partners and extracting and presenting information in high    quality.     Salary range £50, 000 - £60, 000 + pension scheme and share options    Qualifications       2. 1 degree or better in data science,  computing science,  geospatial        science,  applied mathematics,  statistics,  physics,  engineering or        similar.        A higher degree (MSc or PhD) in a related subject is desirable     You must be able to prove commercial experience of using a variety of    data science analytical methods eg: machine learning,  graph databases,     programming languages.     Skills    You must possess technical experience from a number of core skills:       programming ability preferably in Java,  JavaScript,  Python or R       MATLAB and C++ experience desirable       information management,        computer science,        data science,        mathematics,  statistics or related disciplines.      Experience of writing routines for machine learning,  the semantic web    and data visualisation is particularly valued.     You will demonstrate relevant technical expertise as well as strong    interpersonal skills,  including the ability to form relationships with    a broad range of stakeholders.     The post will be office based in Central London    If this is you,  get in touch with your CV", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/85359628", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "AMAZING THINGS HAPPEN HERE! At Microsoft,  we're about helping customers realize their potential.  From gamers to governments,  moms to mega-corporations,  we serve just about every kind of customer,  all over the globe.  Many people think Microsoft = software.  We do do software-but we also do hardware,  services,  research,  and more.  We work on PC operating systems and applications-like Windows and Windows Live.  Products for IT professionals and developers-like Windows Server and Visual Studio.  Online services such as Bing and MSN.  Business solutions like Office and Exchange.  And devices like Xbox,  keyboards,  webcams,  and mice.  We're passionate about what we do.  What this means if you come to work here is opportunity-to do things that make a real difference in millions,  even billions,  of lives.  To reach your potential.  So why not take a closer look at Microsoft? We think you'll find that amazing things really do happen here. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Microsoft", 
+  "canFollow": false, 
+  "companyId": "1035", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Microsoft", 
+    "title": "Data Scientist Student - Aorato"
+  }, 
+  "description": "This Job is eligible for the following work arrangements :Part-TimeAorato team in Israel (Acquired by Microsoft) is an innovator in enterprise security. Aorato will give customers a new level of protection against threats through better visibility into their identity infrastructure.  With Aorato we will accelerate our ability to give customers powerful identity and cyber-security solutions that span on-premises and the cloud,  which is central to our overall hybrid cloud strategy. Aorato’s sophisticated technology learns entities’ behavior by building organizational security interaction graph and analyzes it using machine learning,  to detect suspicious activities of users,  devices and resources on a company’s network. We are looking for a brilliant and independent data scientist (intern) to tackle head-on some of most interesting problems in abnormal behavioral analysis.  Responsibilities include: Tackle real-world big data problems,  and design machine learning algorithms to solve them.  Improve existing ML detection pipelines for discovering abnormal behaviors.  Statistical analysis of data.  Insights extraction from data.  Data manipulations (filtering,  data transformations,  etc. ).  Qualifications:BSC or MSC in Computer Science or Software Eng.  or a related field. Excellent coding skills- C# and python experience preferredTeam player,  confident,  independent and enthusiastic!Advantages:Familiarity with machine learning or data mining algorithms. Hands on experience working with large data sets. Passionate about big-data. "
+}

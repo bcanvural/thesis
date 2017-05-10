@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/78929511", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "We believe running a business should be easier.   At iZettle we come to work every day to build game-changing payment services and apps – from card readers for smartphones and tablets to registers and tools for increasing sales.  They are simple to set up and use,  always secure and help you build your business.  But that’s not all,  they actually make running your small business way more fun.   Our headquarters may be in Stockholm,  but we’re now used by hundreds of thousands of businesses in 11 countries around the world.  Join us at www. izettle. com. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "iZettle", 
+  "canFollow": false, 
+  "companyId": "2226655", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "iZettle", 
+    "title": "Data Scientist - Tracking,  Stockholm"
+  }, 
+  "description": "iZettle lets anyone take secure card payments with their smartphones or tablets.  The fast-growing start-up was founded in 2010 and currently has approximately 200 employees across its offices in Berlin,  London,  Madrid,  Mexico City,  Sao Paulo and Stockholm (HQ). We are looking for a Senior Data Scientist to join the Growth Analytics team.  The role involves driving the implementation of product usage tracking processes throughout the organization.  The candidate should possess a deep technical understanding as well as strong people and project management skills to efficiency drive,  explain and implement changes that impact multiple stakeholders. The ideal candidate takes own initiatives,  solve problems and take lead on projects with support from the Growth Analytics Team.  He/She will not only be motivated by optimizing the data,  but also by what the data tells us and the decisions the organization can make as a result of the conclusions. You will be part of the Growth analytics team.  The team today consists of eight people and is responsible of converting data into growth and business value,  understanding past performance,  supporting teams to improve future performance and finding and measuring opportunities. Responsibilities:Define strategy and drive implementation of iZettle’s product usage tracking on our multiple platforms (e. g iOS,  Android,  Web) and more generally throughout the iZettle organization (e. g Online Acquisition,  Finance,  Tech). Implementing product tracking will require close work with relevant stakeholders across product teams,  technical platforms and business teams. Work with other product and business analysts to design,  implement and maintain models used for converting product usage insights into actions and value. Requirements:Extensive experience from defining and implementing product usage tracking across platforms and products. You enjoy interacting with multiple stakeholders and driving change. Potentially an advanced degree in quantitative field such as physics,  math,  engineering,  computer science. Posses business acumen and ability to communicate practical capabilities of model results to non-technical stakeholders. You have the technical competence (some combination of Java,  Python,  SQL,  Spark/Hadoop and similar) to conduct large scale analytics,  parameter estimation and deployment of models. We’re looking for creative and passionate people who share our vision of making payments easy.  If that sounds like you and you meet the requirements above - get in touch!"
+}

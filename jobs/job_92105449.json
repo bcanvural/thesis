@@ -1,0 +1,259 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-ADFD06F49A", 
+    "expirationDate": 1451993841000, 
+    "title": "Urgent - Data Analyst/Data Scientist - London - Online Consumer Giant - SAS", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1631, 
+          "type": "B", 
+          "endIdx": 1660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "LI", 
+          "endIdx": 2654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BG", 
+          "endIdx": 2654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1025, 
+          "type": "BR", 
+          "endIdx": 1025, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1010, 
+          "type": "BR", 
+          "endIdx": 1010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1010, 
+          "type": "BR", 
+          "endIdx": 1010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "U", 
+          "endIdx": 1010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "B", 
+          "endIdx": 1010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "BR", 
+          "endIdx": 998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "BR", 
+          "endIdx": 998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "BG", 
+          "endIdx": 998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 925, 
+          "type": "LI", 
+          "endIdx": 996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "LI", 
+          "endIdx": 924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 682, 
+          "type": "LI", 
+          "endIdx": 834, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 582, 
+          "type": "LI", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 496, 
+          "type": "LI", 
+          "endIdx": 581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 361, 
+          "type": "LI", 
+          "endIdx": 495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 275, 
+          "type": "LI", 
+          "endIdx": 360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BG", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BR", 
+          "endIdx": 274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Online Consumer Giant is looking for Data Analysts/Scientists to help build out next generation tools and platform to predict consumer needs.   This is a new team and the aim is to be at the forefront of Data Analytics.  An amazing opportunity. Key Responsibilities Identifying new ways to gain insight from one of the world s largest retail data sets Developing our data processing pipeline.  Importing data from heterogeneous sources.  Using Spark and Impala to transform and clean data Using statistical models to create personalisation and recommendations for customers.  Working with Technology teams to take these models from prototypes to fully productionised systems.  Infer commercial insight from complex statistical modelling and analysis and communicate complex solutions in a clear,  understandable way to non-experts Perform deep-dive analysis to gain insight into how our customers are using our products.  Creating data views to support data analysts and customer insight teams  RequirementsIdeal Candidate ·         Masters or Phd in Machine Learning,  Statistics,  Computer Science,  Maths,  Physics,  or other similar field  ·         Demonstrable programming experience in a high-level programming language e. g.  Java,  Scala,  Python,  C++,  etc.   ·         Understanding of the fundamentals of machine learning/statistical modelling  ·         Demonstrable eagerness to learn more about data science,  statistics and machine learning (e. g.  Coursera courses,  Kaggle competitions,  personal/academic projects,  blog,  etc. )  ·         Experience working with data in an industry environment.  Ideally as a Data Scientist.   Additional desired experience  ·         Experience with Hadoop ecosystem in particular using Spark and Impala/Hive.   ·         Experience working with large (multi-terabyte) unstructured and structured datasets.   ·         Programming experience in Scala.   ·         Experience in a statistical prototyping language R,  Matlab,  Python (scikit),  etc.   ·         Familiarity with SQL  ·         Unix (Linux) experience  ·         Scrum/Kanban experience  ·         Version control experience (Git)  ·         Developing data processing pipelines (productionising proof of concepts,  using scheduling tools,  using CI tools,  using Maven,  etc. )  ·         Statistical modelling experience:  ·         Supervised learning Classification/regression methods,  advantages and disadvantages of different methods,  how to evaluate performance of models,  symptoms of overfitting and prevention.   ·         Unsupervised learning Clustering,  dimensionality reduction.   ·         Recommendation Basic algorithms,  context aware recommendation"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "NJF Global Holdings Ltd", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  Our objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  The Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1444623962000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:623337", 
+    "id": 92105449, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2003, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/05f/173/24873d6. png"
+    }, 
+    "localizedDescription": "NJF Global Holdings is a privately owned portfolio of recruitment and executive search companies.  The constituent companies cover a multitude of industry sectors and offer services across a diverse spectrum of geographical locations.  \r\rOur objective is to continue to diversify our Portfolio by bringing our services to new sectors,  where we see both long-term sustainability and enough market liquidity,  to contribute a significant increase in revenue to our overall portfolio,  over the medium and long term.  \r\rThe Group’s headquarters are based in the UK,  with offices in New York,  Chicago and Nottingham. ", 
+    "company": {
+      "specialities": [
+        "IT", 
+        "Finance", 
+        "Technology", 
+        "Financial Services", 
+        "Commodities", 
+        "Quantitative", 
+        "Risk", 
+        "Energy", 
+        "Global Markets", 
+        "Social Media", 
+        "Gaming", 
+        "Pharmaceutical", 
+        "Biotechnology", 
+        "Medical Devices Industry", 
+        "Global", 
+        "International Jobs", 
+        "Asia", 
+        "USA", 
+        "Europe"
+      ], 
+      "universalName": "njf-group", 
+      "companyId": 623337, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/091/366/0404d59. png"
+      }
+    }, 
+    "canonicalName": "NJF Global Holdings Ltd", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 54 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "54d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 12,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/92105449?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F4DF3C80E0E&urlHash=T2Le&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

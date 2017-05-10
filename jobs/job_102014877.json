@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "LondonLocaljobs-80469851", 
+    "title": "Senior Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102014877, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "    Job Title: Senior Data Scientist    Background    The vision for the group is to grow the business with smarter decisions    enabled by analytics.  The team is organised in Hub & Spoke arrangement;    the Spokes partnering with the business units on analytics agenda and    accountable to them for quality delivery of agreed capabilities on time    in full.  The Hub brings in component including an effective data    science delivery capability,  analytics R&D and building re-usable    analytics assets.     This role will be a key constituent of UK Analytics Spoke,  which will    initially focus on analytical solution for Customer Development and    broad based approach to other functions.  This position will put you on    the fast track to directorship in one of the world largest and most    successful company.     Main Job Purpose    This is an exciting new role in the Analytics Capability group in    Information & Analytics,  which is tasked with the mandate to drive    across Markets,  Functions and Categories in Unilever.     The Role Has Two Main Accountabilities       Helps business to structure their problem statement (for analytics        solutioning).  Gathers,  analyses and models data to solve and        address complex business problems and evaluate scenarios to make        predictions on future outcomes and support decision making.        Create an capability:        Designs and drives the creation of new standards and best practices        in the use of statistical Datamodelling,  big data and optimization        tools.        Collaborates across the wider data science team to develop reusable        analytics products/assets     Key Accountabilities       Implements solutions to business problems using data analysis,  data        mining,  optimization tools,  and machine learning techniques and        statistics       Build data-science and technology based algorithmic solutions to        address business needs       Communicate findings to analytics leads and business stakeholders       Design large scale models using Logistic Regression,  Linear Models        Family,  Conjoint Analysis,  Spatial models,  Time-series models,  Text        mining       Drive the collection of new data and the refinement of existing        data sources       Analyse and interpret the results of analytics experiments       Develop best practices for instrumentation and experimentation and        communicate those to wider analytics team       Prepares and conducts trainings and mentors team members on latest        analytical methodologies       Applies a global approach to analytical solutions-both within a        business area and across the enterprise     Skills/Experience/Qualifications       M. S.  or Ph. D.  in a relevant technical field.  Extensive experience        solving analytical problems using quantitative approaches       Comfort manipulating and analysing complex,  high-volume,         high-dimensionality data from varying sources       A strong passion for empirical research and for answering hard        questions with data       A flexible analytic approach that allows for results at varying        levels of precision       Ability to communicate complex quantitative analysis in a clear,         precise,  and actionable manner       Familiarity with relational databases and SQL       Expert knowledge of an analysis tool such as R,  Matlab,  or SAS       Experience working with large data sets,  experience working with        distributed computing tools a plus (Map/Reduce,  Hadoop,  Hive,  etc. )", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": null, 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/85361490", 
+  "descriptionLanguage": "en", 
+  "description": "Do you want to get involved in helping our customers transform their data into vital intelligence by delivering technical solutions to clients using our award-winning software and helping them turn business strategies into a tangible competitive advantage? If you are,  SAS are looking for Data Scientists to join our team and work on big data and analytics projects.  We are looking for someone who has a Master's degree (or equivalent) in Computer Science,  Artificial Intelligence,  Machine Learning or closely related field with extensive knowledge in the application of data science using either open source of proprietary solutions.  Good communication skills and willing to be fully UK mobile with National and potential International travel.  Skills required/desirable Expert in either R,  Python (Numpy,  Scipy,  Pandas,  scikit-learn) Data wrangling in Python/R framworks Proficient in building machine learning models and pipelines (Regression,  Decision Trees,  Cluster Analysis,  SVMs,  Random Forests,  LDA,  LSA etc) Knowledge of techniques in Natural Language Processing (NLP) Knowledge of Big dataplatforms (HDFS,  Hive,  Imapala etc) Knowledge of Big data processing frameworks (MapReduce,  Tez,  Spark) Prior experience in general purpose programming languages: Python,  Scala,  Java   For an initial (confidential) conversation and to find out more,  contact Sarah Newman on 07900 738823 or email sarah. newman@sas. com", 
+  "jobPosting": {
+    "title": "Senior Data Scientist - SAS UK", 
+    "companyName": "SAS"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "1491", 
+  "canFollow": false, 
+  "companyName": "SAS", 
+  "bottom": "true"
+}

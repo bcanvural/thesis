@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Amazon", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "us-amazon-343682", 
+    "title": "Senior Research Scientist – Big Data,  AWS Elastic MapReduce (EMR)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102188428, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. amazon. com", 
+    "logo": "urn:li:media:/p/7/005/062/16d/0dc58bb. png", 
+    "universalName": "amazon", 
+    "companyId": 1586
+  }, 
+  "description": "     Are you an experienced research scientist excited about inventing    techniques to solve the most complex big data problems? Do you like to    work on algorithms for graph processing,  query processing and analyzing    big data? Are you skilled in software development and keen on getting    your work into customers’ hands to make a material difference on    solving real-world problems?    The Amazon EMR team is looking for top scientists in the big data and    machine learning domain to develop and leverage such techniques to    advance the state of the art.  Amazon EMR is a web service that enables    cost-effective analysis of vast amounts of data.  It runs a managed    framework on Amazon's cloud computing and storage services,  offering    products like Hadoop,  Hive and Spark.  Our customers (including Netflix,     Yelp,  and FINRA) rely on EMR to process petabytes of data across    thousands of machines.  We seek to stay at the forefront of big data    technologies,  and provide the best place to run such data processing    workloads,  across a wide variety of customer domains (life sciences,     financial services,  material sciences,  advertising,  analytics,  etc. ).     As a Senior Research Scientist,  you will work independently as well as    in collaboration with other Research Scientists across Amazon Web    Services,  with Principal Engineers as well as Product Managers to    develop the right solutions for customer problems.  You will get to    interact with savvy customers with complex use-cases.  You will get to    work with Open Source products,  ranging from well-established to very    new and bleeding-edge ones,  as well as products developed internally at    Amazon.  You will shape the structure of new Amazon Web Service    offerings and have direct impact on our business.        BS in Computer Science or relevant domain       7+ years experience in software development       Strong algorithm development experience       Skills with Java,  C++,  or other programming language,  as well as        with R,  MATLAB,  Python or similar scripting language       Expertise on one or more relevant Big Data projects like Hadoop,         Hive,  Spark        Masters or PhD in Computer Science       10+ years of relevant experience in industry and/or academia       3+ years of hands-on experience on relevant domains like query        processing,  graph processing,  distributed systems", 
+  "companyDescription": "      Amazon    Amazon strives to be Earth's most customer-centric company where people    can find and discover virtually anything they want to buy online.  By    giving customers more of what they want - low prices,  vast selection,     and convenience - Amazon continues to grow and evolve as a world-class    e-commerce platform.     Founded by Jeff Bezos,  the Amazon. com website started in 1995 as a    place to buy books because of the unique customer experience the Web    could offer book lovers.  Bezos believed that only the Internet could    offer customers the convenience of browsing a selection of millions of    book titles in a single sitting.  During the first 30 days of business,     Amazon fulfilled orders for customers in 50 states and 45 countries -    all shipped from his Seattle-area garage.     Amazon's evolution from Web site to e-commerce partner to development    platform is driven by the spirit of innovation that is part of the    company's DNA.  The world's brightest technology minds come to    Amazon. com to research and develop technology that improves the lives    of shoppers and sellers around the world. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "QHR", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "drushim-9796688", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101471782, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      14
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://qhr. com/", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAK0AAAAJDgyZjMxZmNiLTYyMzItNDE4OS05NzQ4LTJjOGYyZWY0YWNjOA. png", 
+    "universalName": "quorum-health-resources-qhr", 
+    "companyId": 27388
+  }, 
+  "description": "     QHRלחברה מובילה בתחומה דרוש/ה Algorithm Expert בעל/ת ניסיון של לפחות4    שנים בפיתוח אלגוריתמים בתחומים: data-mining/machine learning ,  signal    processing ,  statistics.     Job Requirements:Bachelor’s Degree in Mathematics,  Physics,  Computer    Science,  Statistics,  Engineering or equivalent- 85 and above average    from top universities    • 2+ years work experience in Machine-Learning,  Data Mining or    Statistics    • Code writing capability in any programming language (Python,  R,  Java,     etc. )    • Work experience with databases and SQL    • Hadoop experience (MapReduce,  PIG,  Hive,  Spark) – an advantage    • Advanced degree in a related field – a plus    • Excellent spoken and written English    • Quick-thinker,  fast learner,  wide general knowledge,  problem solver    • Team worker,  responsible ,  delivery-oriented    Required Experience:3-4 שנים    Locations:מרכז,  השרון,  השפלה    Sub Categories:מפתח/ת אלגוריתמים,  מתכנת,  ראש צוות", 
+  "companyDescription": "      QHR    The Quorum Difference is the extraordinary combination of consulting    guidance and operations experience that enables client healthcare    organizations to achieve a sustainable future.  As an integrated    professional services company,  Quorum has been delivering innovative    executable solutions through experience and thought leadership for more    than three decades.  Quorum is consistently ranked among the top    healthcare consulting firms in the nation,  and the QHR Learning    Institute educates more than 10, 000 healthcare leaders and    professionals each year.  Quorum Purchasing Advantage is our group    purchasing organization which offers clients unbeatable savings on    healthcare supplies and other healthcare products and services,  and    supply chain support through regional service directors. ", 
+  "descriptionLanguage": "he", 
+  "companyDescriptionLanguage": "he"
+}

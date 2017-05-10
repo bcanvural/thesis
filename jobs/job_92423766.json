@@ -1,0 +1,81 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4101321", 
+    "expirationDate": 1451796336000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Experience with Design,  Develop &amp; Deploying with SSIS,  SSRS,  SSAS.  Knowledge of SAS &amp; SQL Server,  T-SQL.  Provide trend analysis by using statistic knowledge and provide recommendation on business policies and procedures. "
+    }, 
+    "postalCode": "123456", 
+    "jobState": "LISTED", 
+    "companyName": "Corporate Ladder. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The Corporate Ladder was founded in 2007 as a boutique recruiting firm specializing in placing top tier support staff and human resource professionals in the New York City as well as the tri-state area.  Clients include fashion conglomerates,  billion dollar hedge funds,  successful commercial and retail banks as well as socialites,  celebrities and finance moguls.  Additionally,  The Corporate Ladder provides domestic staffing for both corporate and personal entities.  What truly sets The Corporate Ladder apart from its competition is that all of our account executives,  including myself,  were executive assistants to high level executives.  We parlay our past experiences into every search we conduct and provide top quality results to both our clients and our job applicants.  With more than half of our candidates coming from referrals as well as a one year retention rate of 80%,  we pride ourselves not only on the placements we make,  but the relationships we establish. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1444797306000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2091220", 
+    "id": 92423766, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mumbai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92423766?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-analyst%2Fcorporate-ladder%2F4101321%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=WJFn&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 52 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "52d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2007, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/0a7/180/3e505f1. png"
+    }, 
+    "localizedDescription": "The Corporate Ladder was founded in 2007 as a boutique recruiting firm specializing in placing top tier support staff and human resource professionals in the New York City as well as the tri-state area.  Clients include fashion conglomerates,  billion dollar hedge funds,  successful commercial and retail banks as well as socialites,  celebrities and finance moguls.  Additionally,  The Corporate Ladder provides domestic staffing for both corporate and personal entities.  \r\rWhat truly sets The Corporate Ladder apart from its competition is that all of our account executives,  including myself,  were executive assistants to high level executives.  We parlay our past experiences into every search we conduct and provide top quality results to both our clients and our job applicants.  With more than half of our candidates coming from referrals as well as a one year retention rate of 80%,  we pride ourselves not only on the placements we make,  but the relationships we establish. ", 
+    "company": {
+      "specialities": [
+        "support staff", 
+        "human resources", 
+        "domestic"
+      ], 
+      "universalName": "the-corporate-ladder", 
+      "companyId": 2091220
+    }, 
+    "canonicalName": "The Corporate Ladder", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 14,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,173 @@
+{
+  "jobPosting": {
+    "companyJobCode": "1e28ef0543ddd287e6bf5ef57b926bd9", 
+    "expirationDate": 1451234022000, 
+    "title": "Data Analyst – Software,  Big Data", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1009, 
+          "type": "BR", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1009, 
+          "type": "BR", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 907, 
+          "type": "BR", 
+          "endIdx": 907, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 907, 
+          "type": "BR", 
+          "endIdx": 907, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 863, 
+          "type": "BR", 
+          "endIdx": 863, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 823, 
+          "type": "BR", 
+          "endIdx": 823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 811, 
+          "type": "BR", 
+          "endIdx": 811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 811, 
+          "type": "BR", 
+          "endIdx": 811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 578, 
+          "type": "BR", 
+          "endIdx": 578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 578, 
+          "type": "BR", 
+          "endIdx": 578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Data Analyst - Software,  Big DataMy client is a world class technology company based in the Cambridgeshire area and focus on a variety of industrial sectors,  including Defence and Aerospace.  The successful Data Analyst would join the team alongside multidiscplinary engineers and scientist's,  and would be the first dedicated employee focussed on data analysis.  With this in mind,  they are keen to get a Data Analyst on board who is well-versed and has a breadth of interests/experience in software programming &amp; development,  alongside the primary data analytics experience. The eligible data analyst needs to be able to achieve UK Security clearance,  will most likely have A's at A-level in Mathematics,  Science,  achieved at least a 2:1 degree in a relevant displine and meet most of the following criteria;Matlab,  R,  Machine Learning,  Algorithm DevelopmentBig Data Frameworks,  Hadoop,  MapReduce etc. Wider experience in software,  database design and visualisation will be beneficial,  but not essential. Data Analyst's with skills in hadoop,  big data,  mapreduce,  spark,  oracle,  R,  Matlab,  mathematical modelling,  finite element methods,  database,  data analytics,  data visualisation,  machine learning and algorithm development,  will most likely be considered. "
+    }, 
+    "postalCode": "CB4", 
+    "jobState": "LISTED", 
+    "companyName": "IC Resources", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "IC Resources is the recognised recruitment partner to the global technology community. Our team of 50 consultants offers more than 500 years of industry and specialist recruitment experience in the Semiconductor,  Software,  Electronics,  and Creative Digital arenas. Every day,  our clients call upon us to help them build talented teams that will increase their competitiveness in the global marketplace.  At the same time our candidates look to us for the opportunities and advice that will help them take their careers to the next level.  Our ability to offer such support is dependent upon developing industry expertise within specialist sectors.  Many of IC Resources’ consultants hail from industry.  All operate within tightly defined verticals and become the “go to” specialist in their domain.  Their expertise has helped us to gain international recognition as a trusted partner to the industry.  This trust is shared by thousands of candidates,  from graduate to executive level,  and hundreds of clients,  from start ups to major blue chip organisations. Over the past 15 years,  IC Resources has built specialist teams with extensive worldwide networks in the semiconductor,  electronics,  software and Creative Digital technical and commercial (sales,  marketing,  customer support) communities.  Customer service excellence and rigorous ethical standards are of paramount importance to us.  If you’d like to discuss any aspect of our service please call us on +44 (0)118 988 1150 or email enquiry@ic-resources. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1447951790000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:208224", 
+    "id": 99882081, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Cambridge,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Electronics", 
+        "Semiconductors", 
+        "Software", 
+        "Mechanical", 
+        "Hardware", 
+        "Recruitment", 
+        "Employment", 
+        "Jobs", 
+        "IC Design", 
+        "Embedded", 
+        "Sales", 
+        "Marketing", 
+        "Executive Search", 
+        "Creative Digital", 
+        "Germany"
+      ], 
+      "universalName": "icresources", 
+      "companyId": 208224, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAcCAAAAJDI2MTEwMmYwLWI1M2YtNDU2OS05Mzg1LTVhMzhkOGRjY2ZlYg. png"
+      }
+    }, 
+    "localizedDescription": "IC Resources is the recognised recruitment partner to the global technology community. \rOur team of 50 consultants offers more than 500 years of industry and specialist recruitment experience in the Semiconductor,  Software,  Electronics,  and Creative Digital arenas. \r\rEvery day,  our clients call upon us to help them build talented teams that will increase their competitiveness in the global marketplace.  At the same time our candidates look to us for the opportunities and advice that will help them take their careers to the next level.  Our ability to offer such support is dependent upon developing industry expertise within specialist sectors.  \r\rMany of IC Resources’ consultants hail from industry.  All operate within tightly defined verticals and become the “go to” specialist in their domain.  Their expertise has helped us to gain international recognition as a trusted partner to the industry.  This trust is shared by thousands of candidates,  from graduate to executive level,  and hundreds of clients,  from start ups to major blue chip organisations. \r\rOver the past 15 years,  IC Resources has built specialist teams with extensive worldwide networks in the semiconductor,  electronics,  software and Creative Digital technical and commercial (sales,  marketing,  customer support) communities. \r \rCustomer service excellence and rigorous ethical standards are of paramount importance to us.  If you’d like to discuss any aspect of our service please call us on +44 (0)118 988 1150 or email enquiry@ic-resources. com", 
+    "foundedYear": 1999, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "IC Resources", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAW5AAAAJGNiZDdhNmM2LTM0MjUtNDkwNC05OGQyLWE0M2U3ZGQwMzc0NQ. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAOPAAAAJDk5NWYwZjg2LTUwZTctNDI3Ny04M2ExLWM1MzJlN2ExMTNlMQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAW5AAAAJGNiZDdhNmM2LTM0MjUtNDkwNC05OGQyLWE0M2U3ZGQwMzc0NQ. png"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99882081?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. ic-resources. com%2Fjob%2Fdata-analyst-software-big-data%2F&urlHash=NitG&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

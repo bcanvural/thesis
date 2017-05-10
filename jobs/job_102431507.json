@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "ENG"
+    ], 
+    "companyJobCode": "22704034", 
+    "title": "Software Engineers - Java/ Hadoop/ AWS/ GWT/ Big Data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102431507, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     We are looking for Talented Java and Web Developers for a couple of    client of ours in South East UK,  the companies are clients we have good    relationships with and are very reputed and recognised as Industrial    Leaders in their market.     Role 1 - Senior Software Engineer - Java/Hadoop/Linux/Oracle -    Uxbridge,  West London,  £50-65k    The Software Engineer handles various programming responsibilities    depending on their respective area.  The Software Engineer is    responsible for the implementation and execution of the technical    requirements.  The Software Engineer will be responsible for technical    leadership for a defined project during requirements,  design,     construction,  and transition.     Technical responsibilities include requirements analysis and    elaboration,  schedule and scope management,  architectural design    review,  design modelling,  code construction,  QA and deployment    consultation,  documentation and support.  Responsible for consultation,     support and mentoring of other engineering . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

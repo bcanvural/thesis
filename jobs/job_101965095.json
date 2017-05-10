@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "companyJobCode": "22658126", 
+    "title": "Junior Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101965095, 
+    "experienceLevel": "ASSOCIATE", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "    The Data Analyst is responsible for the planning,  analysing and    reporting on Sales and Purchasing data,  amongst other business critical    information.     Client Details    Our client is an ever-expanding,  trendy retail outlet.  They are hugely    popular with the 18-30 year old market and show no signs of falling out    of fashion!    Description    Monthly purchasing reports Reconciling supplier,  transactional and    finance data Creating monthly stock reports for management Planning and    measuring stock targets across Europe Investigating queries and    anomalies Planning and coordination of stock movements across Europe    Sales forecasting    Profile    A good numerical-based degree Excellent analytical skills Experience in    Forecasting Data mining and data modelling Good working knowledge of    Microsoft Excel (VBA and Macros and advantage) Experience using MySQL a    desirable Experience in using Qlikview,  IBM SPSS modeller and R an    advantage Ability to work well as part of a team and independently . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

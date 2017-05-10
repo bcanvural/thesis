@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/78919024", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "We are looking for candidates with strong knowledge of MD (AX and HFM),  a process driven approach and IT affinity,  especially with AX &amp; HFM.   You must have a solid understanding of the importance of data in business processes: data integrity,  governance,  standardization,  atomization and optimization,  data quality,  data analytics and data process/management improvement and you should be familiar with the usage of KPI’s for measuring MDM statistics.  Candidates should possess a proven ability to consistently achieve high levels of accuracy and strong analytical skills,  in terms of data and process management as well possess excellent technical and organizational skills.  Experience to act in a complex and rapidly changing environment is an advantage.  An FMCG background is a bonus.  Personal profile: You have at least 2 to 3 year’s experience in a comparable position You have a Bachelor or Master degree (preferably in Business or Economics) You have experience with HFM and Dynamics AX You have a (strong) IT affinity You speak Dutch and English", 
+  "following": false, 
+  "companyDescription": "McGregor Fashion Group BV,  opgericht in 1993,  is één van de meest succesvolle modehuizen in het hogere marktsegment.  Meer dan 1300 medewerkers in Europa bouwen dagelijks aan het succes van onze merken McGregor en Gaastra.  Onze merken zijn verkrijgbaar in 3000 multi-brand stores,  250 shop-in-shops en meer dan 150 eigen winkels binnen de formules McGregor,  Gaastra en ADAM Brandstore. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "McGregor Fashion Group", 
+  "canFollow": false, 
+  "companyId": "37785", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "McGregor Fashion Group", 
+    "title": "Master Data Analyst"
+  }, 
+  "description": "The Master Data Officer is responsible for the Governance and Quality Assurance of the master data in the field of Microsoft Dynamics AX,  HFM and related objects.  This includes responsibility for data governance &amp; stewardship,  standardization / improvements and determining &amp; implementing KPI’s.  You will be part of a new position within McGregor Fashion Group.  In this role you will manage the company’s Master Data on a global scale.  Responsibilities will include implementing global data governance and data stewardship,  conducting needs and impact analysis on business data requests.  Furthermore you will be defining ways to link data,  processes and systems through the organization to achieve optimal efficiency.  You will directly report to the BI Manager and be a key member of the KPI dashboard team.     In your role as Master Data Officer you will be responsible for coding master data and associated attributes,  standardization and quality assurance to ensure smooth operational processes,  consistent reporting and clear communication. "
+}

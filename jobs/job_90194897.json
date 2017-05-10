@@ -1,0 +1,431 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-54CCC64BEF", 
+    "expirationDate": 1451831543000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3122, 
+          "type": "LI", 
+          "endIdx": 3154, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3097, 
+          "type": "LI", 
+          "endIdx": 3121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "LI", 
+          "endIdx": 3096, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3084, 
+          "type": "LI", 
+          "endIdx": 3088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3075, 
+          "type": "LI", 
+          "endIdx": 3083, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3071, 
+          "type": "LI", 
+          "endIdx": 3074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3064, 
+          "type": "LI", 
+          "endIdx": 3070, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3062, 
+          "type": "LI", 
+          "endIdx": 3063, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3061, 
+          "type": "BG", 
+          "endIdx": 3154, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3061, 
+          "type": "BR", 
+          "endIdx": 3061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3022, 
+          "type": "B", 
+          "endIdx": 3061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3022, 
+          "type": "BR", 
+          "endIdx": 3022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2939, 
+          "type": "LI", 
+          "endIdx": 3021, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2894, 
+          "type": "LI", 
+          "endIdx": 2938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2870, 
+          "type": "LI", 
+          "endIdx": 2893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "BG", 
+          "endIdx": 3022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "BR", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2857, 
+          "type": "B", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2857, 
+          "type": "BR", 
+          "endIdx": 2857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2857, 
+          "type": "BR", 
+          "endIdx": 2857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2831, 
+          "type": "LI", 
+          "endIdx": 2856, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2786, 
+          "type": "LI", 
+          "endIdx": 2830, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2709, 
+          "type": "LI", 
+          "endIdx": 2785, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2708, 
+          "type": "BG", 
+          "endIdx": 2857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2708, 
+          "type": "BR", 
+          "endIdx": 2708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2691, 
+          "type": "B", 
+          "endIdx": 2708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2691, 
+          "type": "BR", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2523, 
+          "type": "LI", 
+          "endIdx": 2690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2379, 
+          "type": "LI", 
+          "endIdx": 2522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2378, 
+          "type": "BG", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2378, 
+          "type": "BR", 
+          "endIdx": 2378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "B", 
+          "endIdx": 2378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "BR", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2260, 
+          "type": "LI", 
+          "endIdx": 2355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2134, 
+          "type": "LI", 
+          "endIdx": 2259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2037, 
+          "type": "LI", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1940, 
+          "type": "LI", 
+          "endIdx": 2036, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1857, 
+          "type": "LI", 
+          "endIdx": 1939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1793, 
+          "type": "LI", 
+          "endIdx": 1856, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1759, 
+          "type": "LI", 
+          "endIdx": 1792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1649, 
+          "type": "LI", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1578, 
+          "type": "LI", 
+          "endIdx": 1648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "LI", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1481, 
+          "type": "BG", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1481, 
+          "type": "BR", 
+          "endIdx": 1481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "B", 
+          "endIdx": 1481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "BR", 
+          "endIdx": 1447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "BR", 
+          "endIdx": 1447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "BR", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "BR", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 463, 
+          "type": "BR", 
+          "endIdx": 463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 463, 
+          "type": "BR", 
+          "endIdx": 463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 100, 
+          "type": "BR", 
+          "endIdx": 100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 100, 
+          "type": "BR", 
+          "endIdx": 100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " StrategyWise is a global provider of data analytics and business intelligence solutions. We help companies and governmental entities create value by capturing,  analyzing,  and applying data insights to drive policy formation,  business process improvement,  and game-changing innovations.  Taking a unique approach to each situation,  we analyze qualitative and quantitative data to uncover strategic,  actionable insights that help move our clients forward. We are hiring a full time Data Scientist.  This position is a  career-development track to Senior Data Scientist.  While we are seeking a  solid foundation in statistics,  mathematics,  or programming,  we will  provide training to develop the necessary skills and expertise to help  you develop your skills as a Senior data scientist. Candidates who  are an excellent fit for this job have a strong desire to learn,  are  highly proficient in statistical computing,  and are adept at learning  new skills and grasping complex concepts.  This position will challenge  you mentally.  We hire no less than the best and brightest,  and will  require you to give 100%.  If you are not willing to go the extra mile,   learn new skills on your own time,  and completely dedicate yourself to  the craft,  this job is not for you.  If you want to be on the cutting  edge of big data and data analytics,  and you are willing to invest in  yourself and our team,  you will find this position immensely rewarding. Analytics/Modeling/Reporting (75%) Retrieve data from disparate data systems (e. g.  Excel,  Proprietary Systems,  Scanned PDFs,  etc. ) Manipulate data tables and analyze disparate data sources for patterns Understand the business process with the ability to translate business requirements into analytical reporting Create summary statistics reports Use appropriate statistical and probability modeling techniques Develop detailed reports to support performance and strategic business initiatives Run routine,  ad hoc and support information requests in a rapid &amp; dynamic turnaround climate Develop charts,  graphs,  and basic reports to represent data sets in a visually compelling format Provide accurate and timely reporting of performance metrics to business and senior leadership team as requested or scheduled Summarize information and effectively communicate analyses in writing and verbally to customers Special Projects (20%) Generate innovative solutions by approaching problems with curiosity  and open mindedness,  using existing information to its fullest  potential Assist on various projects,  meet deadlines,  and handle multiple  priorities in a fast-paced,  ever changing and evolving business  environment with shifting time frames Other Duties (5%) Attend team meetings,  phone conferences,  and training as scheduled or needed Perform other duties as assigned or required Travel required: up to 5% Requirements Proficiency in MS Excel Moderate to Advanced Statistical Proficiency Masters Degree or equivalent career experience in a Business or STEM-related field Preference Given (Any of the following) R Python C++ SAS,  JMP SPSS Tableau SQL,  NoSQL,  NewSQL,  etc.  Distributed Computing experience"
+    }, 
+    "postalCode": "35203", 
+    "jobState": "LISTED", 
+    "companyName": "StrategyWise", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "StrategyWise is a global provider of data analytics and business intelligence solutions. We help companies and governmental entities create value by capturing,  analyzing,  and applying data insights to drive policy formation,  business process improvement,  and game-changing innovations.  Taking a unique approach to each situation,  we analyze qualitative and quantitative data to uncover strategic,  actionable insights that help move our clients forward. Whether you need us to provide a bird’s eye view of your industry’s competitive environment or comb through your company’s marketing and business practices,  we leave no stone unturned when determining the best strategy to positively impact your bottom line. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443966024000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:3302664", 
+    "id": 90194897, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Birmingham,  AL,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/90194897?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F521ABEB603&urlHash=Yx2m&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 62 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "62d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2013, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/6/005/07c/2c5/200f467. png"
+    }, 
+    "localizedDescription": "StrategyWise is a global provider of data analytics and business intelligence solutions. \r\rWe help companies and governmental entities create value by capturing,  analyzing,  and applying data insights to drive policy formation,  business process improvement,  and game-changing innovations.  Taking a unique approach to each situation,  we analyze qualitative and quantitative data to uncover strategic,  actionable insights that help move our clients forward. \r\rWhether you need us to provide a bird’s eye view of your industry’s competitive environment or comb through your company’s marketing and business practices,  we leave no stone unturned when determining the best strategy to positively impact your bottom line. ", 
+    "company": {
+      "specialities": [
+        "Corporate Strategy", 
+        "Data Analytics", 
+        "Marketing Strategy and Execution", 
+        "Foundation and Non-Profit Consulting", 
+        "Economic Development", 
+        "Cluster Analysis and Market Segmentation", 
+        "Custom Analytics Projects"
+      ], 
+      "universalName": "strategywise", 
+      "companyId": 3302664, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/096/3d8/14ed591. png"
+      }
+    }, 
+    "canonicalName": "StrategyWise", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Management Consulting"
+    ]
+  }, 
+  "formattedListDate": "October 4,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

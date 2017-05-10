@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Adecco", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "adecco_uk-593119", 
+    "title": "Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101560564, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. adecco. co. uk", 
+    "logo": "urn:li:media:/p/5/000/26f/181/3fbc7fe. png", 
+    "universalName": "adecco-uk", 
+    "companyId": 354803
+  }, 
+  "description": "     Description    Are you an experienced Data Analyst? Have you got advanced excel    skills? Can you produce reports to a high standard? Yes,  then read on.     Our client is looking to recruit a Data Analyst to provide effective    and efficient reporting support to the department.  You will need to    provide data in varying formats to support management and provide    feedback/suggestions.  Previous experience of working in a similar role    is essential.     For more information about this position,  please contact Adecco on    01296 428782.     Adecco is acting as an Employment Agency in relation to this vacancy.     The Adecco Group UK & Ireland is an Equal Opportunities Employer. ", 
+  "companyDescription": "      Adecco    Better work,  better life    Working with some of the most exciting companies in the UK,  our teams    specialise in four key industry sectors and cater for all job levels    within those sectors.  We also have a strong reputation for supplying    multi-lingual candidates; so if you are fluent in more than just your    mother tongue,  we can find the right opportunity to suit your skill.     Adecco Group is the UK and global leader in HR solutions.  And as the    London 2012 recruitment provider,  you couldn’t choose a more trusted    partner. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

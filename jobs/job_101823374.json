@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Airbus Group", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "companyJobCode": "airbusgroup-001A4B0A914A1EE5A6866ED8F5951D08", 
+    "title": "Research Engineer Data Scientist (m/f)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101823374, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      52
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. airbusgroup. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAVGAAAAJDZiYjhmOGQ0LWI0NmQtNDdlYS05ZmQ5LWQwMGEwNjUyNDRjYw. png", 
+    "universalName": "airbusgroup", 
+    "companyId": 2734
+  }, 
+  "description": "    A vacancy for a Research Engineer Data Scientist has arisen within    Airbus Group in Newport.  The successful applicant will join    Computational Intelligence and Services team.     Skills    We are looking for candidates with the following skills and experience:       Educated to Masters’ Degree or more in Computer Science,  Applied        Mathematics or Artificial Intelligence,        Knowledge of statistics and mathematics (machine learning,         statistical analysis,  pattern recognition),        Knowledge of an Object Oriented Language (e. g.  C/C++) and        willingness to learn and develop skills around new technologies        (Java,  Python,  Big Data & Analytics,  etc),        Knowledge of the Data Scientists domain (data processing,         management,  mining and storage,  artificial intelligence,  cloud &        HPC computing) would be a plus,        Negotiation level in English.      Responsibilities    Your main tasks and responsibilities will be to develop operational    intelligence capabilities:       Fusion,  analysis and representation of various types of operational        data coming from different sources such as aircraft health        monitoring,  surveillance operations,  pilot/operator health        monitoring,  pilots and maintenance logbooks,  air traffic        management,  logistic network,  manufacturing operations,  ERP and        possibly many others       Build reasoning capabilities to support information understanding        and decision making for various application cases such as        operational planning,  diagnostics,  prognostics,  usage and        performance monitoring,  material management,  adaptive human machine        interface,  adaptive manufacturing systems     The Expected Business Values Are The Following Ones       Improve aircraft safety and operability;       minimize aircraft manufacturing and operation costs;       Enhanced security through improved monitoring and situational        awareness of products and infrastructure.      This role will involve some travel for business and as such you must be    able to travel accordingly. ", 
+  "companyDescription": "      Airbus Group    Airbus Group is a global leader in aeronautics,  space and related    services.  In 2014,  the Group – comprising Airbus,  Airbus Defence and    Space and Airbus Helicopters – generated revenues of € 60. 7 billion and    employed a workforce of around 138, 600.  Visit www. airbusgroup. com for    more information. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

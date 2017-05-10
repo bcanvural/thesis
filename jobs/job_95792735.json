@@ -1,0 +1,539 @@
+{
+  "jobPosting": {
+    "companyJobCode": "teradata-348560", 
+    "expirationDate": 1450093088000, 
+    "title": "Data Scientist Consultant", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3854, 
+          "type": "BR", 
+          "endIdx": 3854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3854, 
+          "type": "BR", 
+          "endIdx": 3854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3746, 
+          "type": "BR", 
+          "endIdx": 3746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3746, 
+          "type": "BR", 
+          "endIdx": 3746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3699, 
+          "type": "BR", 
+          "endIdx": 3699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3699, 
+          "type": "BR", 
+          "endIdx": 3699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3660, 
+          "type": "BR", 
+          "endIdx": 3660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3660, 
+          "type": "BR", 
+          "endIdx": 3660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3448, 
+          "type": "BR", 
+          "endIdx": 3448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3448, 
+          "type": "BR", 
+          "endIdx": 3448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3389, 
+          "type": "BR", 
+          "endIdx": 3389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3389, 
+          "type": "BR", 
+          "endIdx": 3389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3271, 
+          "type": "BR", 
+          "endIdx": 3271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3271, 
+          "type": "BR", 
+          "endIdx": 3271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "B", 
+          "endIdx": 3271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "BR", 
+          "endIdx": 3259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "BR", 
+          "endIdx": 3259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3229, 
+          "type": "BR", 
+          "endIdx": 3229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3229, 
+          "type": "BR", 
+          "endIdx": 3229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3177, 
+          "type": "BR", 
+          "endIdx": 3177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3177, 
+          "type": "BR", 
+          "endIdx": 3177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3132, 
+          "type": "BR", 
+          "endIdx": 3132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3132, 
+          "type": "BR", 
+          "endIdx": 3132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2929, 
+          "type": "BR", 
+          "endIdx": 2929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2929, 
+          "type": "BR", 
+          "endIdx": 2929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2728, 
+          "type": "BR", 
+          "endIdx": 2728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2728, 
+          "type": "BR", 
+          "endIdx": 2728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2695, 
+          "type": "BR", 
+          "endIdx": 2695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2695, 
+          "type": "BR", 
+          "endIdx": 2695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2681, 
+          "type": "BR", 
+          "endIdx": 2681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2681, 
+          "type": "BR", 
+          "endIdx": 2681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "BR", 
+          "endIdx": 2656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2656, 
+          "type": "BR", 
+          "endIdx": 2656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2644, 
+          "type": "B", 
+          "endIdx": 2656, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2644, 
+          "type": "BR", 
+          "endIdx": 2644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2644, 
+          "type": "BR", 
+          "endIdx": 2644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2598, 
+          "type": "BR", 
+          "endIdx": 2598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2598, 
+          "type": "BR", 
+          "endIdx": 2598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "B", 
+          "endIdx": 2598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "BR", 
+          "endIdx": 2582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "BR", 
+          "endIdx": 2582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2573, 
+          "type": "BR", 
+          "endIdx": 2573, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2573, 
+          "type": "BR", 
+          "endIdx": 2573, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2565, 
+          "type": "B", 
+          "endIdx": 2573, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2565, 
+          "type": "BR", 
+          "endIdx": 2565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2565, 
+          "type": "BR", 
+          "endIdx": 2565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "BR", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "BR", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2543, 
+          "type": "B", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2543, 
+          "type": "BR", 
+          "endIdx": 2543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2543, 
+          "type": "BR", 
+          "endIdx": 2543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2542, 
+          "type": "BR", 
+          "endIdx": 2542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2542, 
+          "type": "BR", 
+          "endIdx": 2542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2541, 
+          "type": "BR", 
+          "endIdx": 2541, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2541, 
+          "type": "BR", 
+          "endIdx": 2541, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2540, 
+          "type": "BR", 
+          "endIdx": 2540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2433, 
+          "type": "LI", 
+          "endIdx": 2540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2353, 
+          "type": "LI", 
+          "endIdx": 2432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2231, 
+          "type": "LI", 
+          "endIdx": 2352, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2030, 
+          "type": "LI", 
+          "endIdx": 2230, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1904, 
+          "type": "LI", 
+          "endIdx": 2029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1838, 
+          "type": "LI", 
+          "endIdx": 1903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1775, 
+          "type": "LI", 
+          "endIdx": 1837, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1775, 
+          "type": "BG", 
+          "endIdx": 2540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1775, 
+          "type": "BR", 
+          "endIdx": 1775, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1748, 
+          "type": "B", 
+          "endIdx": 1775, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1748, 
+          "type": "BR", 
+          "endIdx": 1748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1748, 
+          "type": "BR", 
+          "endIdx": 1748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "BR", 
+          "endIdx": 958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "BR", 
+          "endIdx": 958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BR", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BR", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " The Data Scientist gathers intelligence from the massive streams of data that clients gather each day.  Due to the volume of data,  its multi-structured nature,  and the various advanced analysis involved,  MapReduce software available with,  for example,  Teradata Aster and Hadoop are used to supplement traditional SQL analysis.  Data can originate anywhere; from sales records,  web logs,  and web crawlers to jet engines,  electronic switches,  and countless other sources.  The Data Scientist sifts through the data for useful nuggets of information,  and then presents results to the client to allow business decisions to be made on the findings.  The Data Scientist captures,  sorts,  and determines what is relevant in the data.  The analysis process involves assembling and preparing the data,  writing the software programs,  and executing the actual analysis.  Advanced analysis is required on the data that includes data mining and statistical analysis.  A background in computer science or a related technical field such as math or physics is required.  Computer science programming expertise is desirable to analyze the data and provide intelligence that leads to better business decisions or new products.  The Data Scientist will also have a strong analytic background,  typically in mathematics and the application of statistics.  Techniques are used to detect patterns in large volumes of data for applications such as forecasting,  response modeling,  fraud detection,  and segmentation.  Industry specific methods and solutions are used to solve industry specific tasks.  Strong communication skills are required to convey complex analytical results to business sponsors of programs.  The Data Scientist may be the Project Tech Lead on a project. Key Areas of ResponsibilityClarify the business problem for the purpose of data analysis.  Translate the business requirements into technical requirements.   Translate the requirements into existing MapReduce functions or help design new MapReduce functions to meet the requirements.  Work closely with the client teams to generate insights,  diagnose problems,  and provide information for business and product decisions by transforming very large data sets into actionable information.  Build and maintain tools and documentation to enable the consumption of data by the platform team and the entire company.  Perform both regular and ad-hoc analysis leveraging a wide array of data tools.  Interpret and document the analysis and results,  and communicate the information effectively to the client.    JobServices/ConsultingScheduleFull-timePrimary LocationEurope,  Middle East &amp; Africa-Poland-WarsawOrganizationEMEA Sales &amp; ServicesFluency in SQLKnowledge of analytical toolsets. Explore – base skills in statistics,  algorithms,  machine learning,  and mathematics.  A solid grounding in these principles is required to actually extract signals from the data and build things with it. Communicate – making the results real by making data available to users.  This involves communicating the results of analysis clearly and effectively to both business and technical users in presentations. Exploring,  manipulating,  and visualizing dataAbility to initiate and drive projects to completionAbility to travel (up to 60%). Nice To HaveExperience with large data sets and distributed computing with MapReduce (Teradata Aster,  Hadoop,  Hive,  Pig,  R,  etc. ). In depth knowledge of statistics and mathematics is a plus. Build – experienced with at least one programming language,  preferably Java.  While advanced coding techniques are not required,  the candidate needs to be aware of the open source libraries and packages available. Experience building software is a plus. Knowledge across multiple industries is a plus. Knowledge of Architecture Principles,  Advocated Positions,  Design Patterns,  and Implementation Alternatives. "
+    }, 
+    "postalCode": "01716", 
+    "jobState": "LISTED", 
+    "companyName": "Teradata", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Teradata is a global leader in analytic data platforms,  marketing and analytic applications,  and consulting services.  Teradata helps organizations collect,  integrate,  and analyze all of their data so they can know more about their customers and business and do more of what’s really important.  Visit teradata. com for details. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "CNSL"
+    ], 
+    "listDate": 1446254123000, 
+    "countryCode": "pl", 
+    "company": "urn:li:company:1466", 
+    "id": 95792735, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Warsaw,  PL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95792735?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fteradata. taleo. net%2Fcareersection%2F2014_referral_portal%2Fjobdetail. ftl%3Fjob%3D164095%26lang%3Den&urlHash=sgoi&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "analytic data platforms", 
+        "marketing and analytic applications", 
+        "consulting services"
+      ], 
+      "universalName": "teradata", 
+      "companyId": 1466, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/0ac/043/335f045. png"
+      }
+    }, 
+    "localizedDescription": "Teradata is a global leader in analytic data platforms,  marketing and analytic applications,  and consulting services.  Teradata helps organizations collect,  integrate,  and analyze all of their data so they can know more about their customers and business and do more of what’s really important.  Visit teradata. com for details. ", 
+    "foundedYear": 1979, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Teradata", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAOJAAAAJDNmNmIzZjUzLWJhZTQtNDJlMy05Zjk4LWVhNTFmNTU3MmQ3Mw. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAbMAAAAJGU0OTEyN2E4LWYxY2UtNDZjOS05Y2JmLWM2YzExY2JiNzI3NQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAOJAAAAJDNmNmIzZjUzLWJhZTQtNDJlMy05Zjk4LWVhNTFmNTU3MmQ3Mw. png"
+  }, 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 35 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "35d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Consulting"
+  ], 
+  "formattedListDate": "October 31,  2015", 
+  "formattedExpireDate": "December 14,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

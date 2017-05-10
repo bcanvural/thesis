@@ -1,0 +1,201 @@
+{
+  "jobPosting": {
+    "companyJobCode": "greenhouse_xml-117576", 
+    "expirationDate": 1451795702000, 
+    "title": "★ Big Data Developer ★", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 999, 
+          "type": "BR", 
+          "endIdx": 999, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 999, 
+          "type": "BR", 
+          "endIdx": 999, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 944, 
+          "type": "BR", 
+          "endIdx": 944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 944, 
+          "type": "BR", 
+          "endIdx": 944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 893, 
+          "type": "BR", 
+          "endIdx": 893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 832, 
+          "type": "BR", 
+          "endIdx": 832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 744, 
+          "type": "BR", 
+          "endIdx": 744, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 651, 
+          "type": "BR", 
+          "endIdx": 651, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "BR", 
+          "endIdx": 512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 472, 
+          "type": "BR", 
+          "endIdx": 472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 472, 
+          "type": "BR", 
+          "endIdx": 472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "B", 
+          "endIdx": 472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BR", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BR", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " For a new department,  we are looking for a talented Big Data developer.  Such developer will work closely with the Research team to implement statistical and machine learning algorithms and help design,  build and scale our data infrastructure using the best tools the open source world have to offer.  The ideal candidate will be a true team player with passion to cutting edge technologies and will join us in creating both existing and new productsRequirements★ BSc.  in Computer Science or equivalent★ 3 years of experience with server side development★ In-depth knowledge of at least one high level systems language (Java,  C#,  Scala,  etc)★ Good knowledge of additional languages or data science tools (Python,  R,  Scala) - Advantage★ Experience with the Hadoop ecosystem (HBase,  MapReduce,  Hive/Pig) or Spark - Advantage★ Experience in building large scale data systems - Advantage★ Excellent verbal and written communication skillsThis is a full time position located in our TLV office. "
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Yotpo", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Yotpo is a customer content marketing platform that generates reviews,  social Q&amp;A and rich media and uses this content to drive traffic and increase conversions. Our vision is to maximize the potential of User-Generated Content (UGC) for every business and redefine the way they market themselves via Customer Content Marketing. What does Yotpo do? - We boost the chances of obtaining user-generated content from customers in a smart and automatic way using tools that make the experience simple. - We transform this user generated content into a powerful customer content marketing engine that drives     qualified traffic back to the site. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1447087916000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:1515446", 
+    "id": 97955667, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tel Aviv,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97955667?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fgrnh. se%2F5n7qml&urlHash=nW6Y&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Entry level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Yotpo is a customer content marketing platform that generates reviews,  social Q&A and rich media and uses this content to drive traffic and increase conversions. \r\rOur vision is to maximize the potential of User-Generated Content (UGC) for every business and redefine the way they market themselves via Customer Content Marketing. \r\rWhat does Yotpo do?\r\r - We boost the chances of obtaining user-generated content from customers in a smart and automatic way using tools that make the experience simple. \r\r- We transform this user generated content into a powerful customer content marketing engine that drives     qualified traffic back to the site. ", 
+    "foundedYear": 2011, 
+    "canonicalName": "Yotpo", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALWAAAAJDkxN2ExMWJmLTEyNzYtNGE2MS1hNDgxLWM2ZjBmZjU3MWI4Nw. png"
+    }, 
+    "company": {
+      "specialities": [
+        "eCommerce", 
+        "Content Marketing", 
+        "User generated content", 
+        "Product Reviews", 
+        "Omnichannel Marketing", 
+        "On-site Conversion", 
+        "Customer Experience", 
+        "Customer Retention", 
+        "SEO", 
+        "Review Engine", 
+        "Social Marketing"
+      ], 
+      "universalName": "yotpo", 
+      "companyId": 1515446, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAMOAAAAJDkxN2NkMmY1LTcxOTYtNDhhNi1iYTA1LTQ2MTBmNGRkMzgzNA. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

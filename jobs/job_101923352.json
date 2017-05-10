@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Client Server", 
+    "functions": [
+      "ENG"
+    ], 
+    "companyJobCode": "clientserver-java-developer-big-data-hadoop-java-2", 
+    "title": "Java Developer - Big Data Hadoop Java", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101923352, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. client-server. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAYeAAAAJDUwODcxYzM5LTFlOGMtNDEyZC05YTc5LWNkMWU5NTczOTJhYw. png", 
+    "universalName": "client-server", 
+    "companyId": 99339
+  }, 
+  "description": "    2318    London,  £55000 - £70000 per annum + bonus + benefits    Job Type: Permanent    Managed by: Java Development Team    Java Developer / Java EE Software Engineer (Web Multi-threading Market    Data Agile TDD Spring Clojure).  World leading financial trading    organisation is seeking a skilled Java Developer to design and develop    a complex system,  providing real-time data and data analytics from    web-based sources and trading data.  Keeping up-to-date with the latest    technologies and industry trends,  you will work with Big Data    infrastructure (Hadoop 2. 0) to drive forward innovation.     As a Java Developer,  you will create clever analytical tools,  working    throughout the full development lifecycle with short iterations and    frequent releases.  This is a collaborative,  Agile (XP) development team    environment that encourages knowledge sharing and personal improvement.     Requirements       Strong core Java development experience       Good understanding of Java EE and related technologies: Spring        Framework,  JMS,  JDBC,  JMX       Experience of Tomcat and / or Weblogic       Previous experience in a Linux environment       Excellent communicator with highly professional standards and a        real passion for software engineering and delivering world-class        solutions       Degree educated (2. 1 or above)       Desirable: Big Data,  Hadoop and / or messaging technology (JMS /        MQSeries / AMQP / Redhat MRG)     As a Java Developer / Java EE Software Engineer you can expect to earn    a highly competitive salary (to £70k),  plus bonus and a comprehensive    flexible benefits package.  Offices based in the City with easy access    to public transport (season ticket loan available).     Send your CV now or call for an informal chat about this Java Developer    opportunity.     REF: BB/7987/B/CS/011215", 
+  "companyDescription": "      Client Server    Client Server Ltd is a leading IT recruitment consultancy specialising    in positions in London and the South East.     Our focus is finding exceptional candidates for exceptional    organisations including established technology leaders,  innovative    technology start-ups,  hedge funds,  banks and consultancies.  Offering a    personal and flexible approach,  coupled with a high degree of    professionalism and integrity ensures the provision of an effective    recruitment solution to both our client companies and candidates. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

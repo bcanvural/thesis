@@ -1,0 +1,352 @@
+{
+  "jobPosting": {
+    "companyJobCode": "LondonLocaljobs-76812320", 
+    "expirationDate": 1452013656000, 
+    "title": "Data Scientist - DUBAI Based", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2086, 
+          "type": "BR", 
+          "endIdx": 2086, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2086, 
+          "type": "BR", 
+          "endIdx": 2086, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "B", 
+          "endIdx": 2086, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "BR", 
+          "endIdx": 2017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "BR", 
+          "endIdx": 2017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1846, 
+          "type": "BR", 
+          "endIdx": 1846, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1763, 
+          "type": "LI", 
+          "endIdx": 1845, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1727, 
+          "type": "LI", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1608, 
+          "type": "LI", 
+          "endIdx": 1726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1556, 
+          "type": "LI", 
+          "endIdx": 1607, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1556, 
+          "type": "BG", 
+          "endIdx": 1846, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1556, 
+          "type": "BR", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1534, 
+          "type": "U", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1534, 
+          "type": "B", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1534, 
+          "type": "BR", 
+          "endIdx": 1534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1534, 
+          "type": "BR", 
+          "endIdx": 1534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "LI", 
+          "endIdx": 1532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1507, 
+          "type": "LI", 
+          "endIdx": 1528, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "LI", 
+          "endIdx": 1506, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1466, 
+          "type": "LI", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1454, 
+          "type": "LI", 
+          "endIdx": 1465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1411, 
+          "type": "LI", 
+          "endIdx": 1453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1411, 
+          "type": "BG", 
+          "endIdx": 1533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1411, 
+          "type": "BR", 
+          "endIdx": 1411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1368, 
+          "type": "LI", 
+          "endIdx": 1533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1328, 
+          "type": "LI", 
+          "endIdx": 1367, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1237, 
+          "type": "LI", 
+          "endIdx": 1327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1237, 
+          "type": "BG", 
+          "endIdx": 1534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1237, 
+          "type": "BR", 
+          "endIdx": 1237, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "U", 
+          "endIdx": 1237, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "B", 
+          "endIdx": 1237, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "BR", 
+          "endIdx": 1216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "BR", 
+          "endIdx": 1216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "BR", 
+          "endIdx": 1144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1144, 
+          "type": "BR", 
+          "endIdx": 1144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 971, 
+          "type": "BR", 
+          "endIdx": 971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 971, 
+          "type": "BR", 
+          "endIdx": 971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 279, 
+          "type": "BR", 
+          "endIdx": 279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 279, 
+          "type": "BR", 
+          "endIdx": 279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 164, 
+          "type": "BR", 
+          "endIdx": 164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 164, 
+          "type": "BR", 
+          "endIdx": 164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " We can only at this stage accept applications from candidates with exceptional English skills.  Please ensure you have read the job description in full.  Our client is currently seeking to immediately appoint a Senior Level Data Scientist to join their team in the UAE. The successful applicants will need to be someone who deeply believes in the exponential impact that the disciplines of mathematics,  machine learning,  deep learning and data science can have on businesses.  Someone who is able to transcend this world of theory and bring it to life in the business context.  Someone who is able to simplify these complex fields and have conversations with business leaders to get them excited about prospects and potential.  Someone who can contribute to building a digital platform which will be underpinned by data science and big/real time data.  Someone who has done the long hours in this field and ideally attained expertise in the form of completing a PhD. Most importantly,  someone who passionately believes that a revolution is underway,  which will redefine the world of business and wants to be part of this digital revolution. If this is you,  then our CLIENT would like to hear from you immediately. Capability (required)M. Sc degree in Mathematics,  Operations Research,  Computer Science or other technical field Minimum 8 years related work experience Proficiency in at least 2 of the following:Machine Learning &amp; Predictive Modeling Data Mining Hadoop,  Spark,  Hive etc Scipy,  Scikit,  R Information retrieval NLP  Capability (preferred)Ph. D degree in Data Science,  Machine learning or AI Experience interacting with cross functional teams including,  academic researchers,  business stakeholders and IT teams Exceptional written and oral skills Self-starter,  autonomous,  functions independently while providing regular updates.  These are critical hire positions and therefore contracts can last between 6 and 12 months and be extended there after.  Our client will organise &amp; pay for your VISA's. Applicants from the AVIATION industry are highly encouraged to apply. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Job G8", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in 2008,  Jobg8 has deep roots within the Job Board industry.  The founder of Jobg8,  Robbie Cowling,  started one of the first and most successful job sites in Europe in 1995 and understands the problems facing Job Board owners today.  Jobg8 was created to address these challenges.  The senior management team at Jobg8 has over 40 years of combined Job Board experience on multiple continents and believes passionately about the value of the platform that they have created. Jobg8 Understands Job BoardsThe Jobg8 marketplace is a unique service within the Job Board industry and addresses three key challenges facing Job Board operators today:Job Boards operate in a fragmented market of over 50, 000 job boards from various countries.  This makes it difficult for advertisers to know where to post Jobs and for Job Seekers to know where to look for relevant positions. Driving Traffic to your Job Board can be expensive and includes no guarantee that the added Traffic will yield the qualified applicants that your advertisers demand. Although many Job Boards can deliver clicks and \"job views\",  what is truly required is delivering qualified applicants to your advertisers.  Your advertisers would rather review a smaller list of qualified CVs,  than a large number of unqualified applications. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447465475000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:10329349", 
+    "id": 98881231, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "Founded in 2008,  Jobg8 has deep roots within the Job Board industry.  The founder of Jobg8,  Robbie Cowling,  started one of the first and most successful job sites in Europe in 1995 and understands the problems facing Job Board owners today.  Jobg8 was created to address these challenges.  The senior management team at Jobg8 has over 40 years of combined Job Board experience on multiple continents and believes passionately about the value of the platform that they have created. \r\rJobg8 Understands Job Boards\r\rThe Jobg8 marketplace is a unique service within the Job Board industry and addresses three key challenges facing Job Board operators today:\r\rJob Boards operate in a fragmented market of over 50, 000 job boards from various countries.  This makes it difficult for advertisers to know where to post Jobs and for Job Seekers to know where to look for relevant positions. \r\rDriving Traffic to your Job Board can be expensive and includes no guarantee that the added Traffic will yield the qualified applicants that your advertisers demand. \r\rAlthough many Job Boards can deliver clicks and \"job views\",  what is truly required is delivering qualified applicants to your advertisers.  Your advertisers would rather review a smaller list of qualified CVs,  than a large number of unqualified applications. ", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXJAAAAJDE4ZTU1MWNhLTQ5ZGYtNDcyOS04NjgxLTE4OWNkMzFmZjk1OQ. png"
+    }, 
+    "canonicalName": "Job G8", 
+    "company": {
+      "universalName": "job-g8", 
+      "companyId": 10329349
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanyType": "Privately Held", 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 21 days ago", 
+  "formattedPostedDaysAgoSlim": "21 days ago", 
+  "formattedPostedDaysAgoShort": "21d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 14,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98881231?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. LondonLocaljobs. co. uk%2Fdata-scientist-dubai-based-3013888&urlHash=b9Zl&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

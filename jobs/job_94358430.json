@@ -1,0 +1,277 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94358430?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3815522&urlHash=W67_&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "hasMySavedJobPosting": false, 
+  "formattedEmploymentStatus": "Full-time", 
+  "descriptionLanguage": "en", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "An IT and Capital Markets recruitment consultancy centred in London,  UK. \r\rAnson McCade Ltd is an established and well-respected IT & Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. \r\rAnson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. \r\rAnson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT & Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. ", 
+    "foundedYear": 2000, 
+    "canonicalName": "Anson McCade", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR2AAAAJDBmODYwMzBkLWZmNDAtNDk2Mi1hNDFjLWIxMzA4MmY3ODk2Yg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Information Technology", 
+        "Banking", 
+        "Capital markets", 
+        "Risk", 
+        "Consulting"
+      ], 
+      "universalName": "anson-mccade", 
+      "companyId": 31392, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/071/13d/3b47d9b. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "London,  GB", 
+  "jobPosting": {
+    "expirationDate": 1449096800000, 
+    "veteranCommitted": false, 
+    "id": 94358430, 
+    "title": "Data Scientist (SAS/ ETL/ Hadoop/ MongoDB/ Tableau)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2374, 
+          "type": "BR", 
+          "endIdx": 2374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2374, 
+          "type": "BR", 
+          "endIdx": 2374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2349, 
+          "type": "BR", 
+          "endIdx": 2349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2269, 
+          "type": "BR", 
+          "endIdx": 2269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2254, 
+          "type": "BR", 
+          "endIdx": 2254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2227, 
+          "type": "BR", 
+          "endIdx": 2227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2212, 
+          "type": "BR", 
+          "endIdx": 2212, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2180, 
+          "type": "BR", 
+          "endIdx": 2180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2045, 
+          "type": "BR", 
+          "endIdx": 2045, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1994, 
+          "type": "BR", 
+          "endIdx": 1994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1840, 
+          "type": "BR", 
+          "endIdx": 1840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1840, 
+          "type": "BR", 
+          "endIdx": 1840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1708, 
+          "type": "BR", 
+          "endIdx": 1708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "BR", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "BR", 
+          "endIdx": 1526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1400, 
+          "type": "BR", 
+          "endIdx": 1400, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1264, 
+          "type": "BR", 
+          "endIdx": 1264, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1088, 
+          "type": "BR", 
+          "endIdx": 1088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 984, 
+          "type": "BR", 
+          "endIdx": 984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 984, 
+          "type": "BR", 
+          "endIdx": 984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 919, 
+          "type": "B", 
+          "endIdx": 984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 919, 
+          "type": "BR", 
+          "endIdx": 919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 919, 
+          "type": "BR", 
+          "endIdx": 919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "BR", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 364, 
+          "type": "BR", 
+          "endIdx": 364, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 251, 
+          "type": "BR", 
+          "endIdx": 251, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Data Scientist (SAS/ ETL/ Hadoop/ MongoDB/ Tableau)London,  GuildfordDo you want the opportunity to work with large data sets using cutting edge technologies such as SAS and R within one of the fastest growing FTSE100 companies in the U. K. ?My client is offering the successful Data Scientist (SAS/ ETL/ Hadoop/ MongoDB/ Tableau) to do all this and more. As the successful candidate you will be responsible for choosing the best tools and techniques for each business problem.  You will be able to define the underlying causes of problems and define the correct action to take to solve these.  You will be working on large scale projects but will also have the opportunity to manage small standalone projects.  You will have a strong career path using tools such as; SAS,  R,  Tableau and using such tool to explore Big Data platforms such as; Hadoop and MongoDB. You must be able to gain SC Clearance for this role. The Data Scientist (SAS/ ETL/ Hadoop/ MongoDB/ Tableau) Will HaveExcellent analytical and problem solving skills using a range of data analysis or statistical techniquesHands-on analytical experience in technologies such as SAS and R on large volumes of data (other similar languages are acceptable coupled with a demonstrated aptitude to learn)Appreciation and understanding of relational databases,  ETL principles,  data quality or new big data platforms such as Hadoop or MongoDBAbility to quickly understand the data landscape of an organisation (operational and warehouse systems) at an enterprise levelSelf-motivated and motivates others,  keeping morale and performance highAbility to prioritise workload and work well under pressure to meet deadlines and manage business expectationsExcellent verbal and written communication skills with the ability to present complex ideas to technical and non-technical audiencesThis is a fantastic opportunity to join a FTSE100 company experienced in created a forward thinking atmosphere and dedicated to your personal development. Data Scientist (SAS/ ETL/ Hadoop/ MongoDB/ Tableau)If you fell that you will be the successful candidate contact Richard on 020 7780 6706 or email your CV Richard. Cousins@ansonmccade. comReference Number: AMCRC/221001Type: PermanentLocation: London,  GuildfordStart: FlexibleSalary: £50, 000 - £80, 000 plus outstanding package (Car,  Bonus,  Pension,  Health)Telephone: 020 778 067 06"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "AMCRC/221001", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An IT and Capital Markets recruitment consultancy centred in London,  UK. Anson McCade Ltd is an established and well-respected IT &amp; Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. Anson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. Anson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT &amp; Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. "
+    }, 
+    "sponsored": false, 
+    "closeDate": 1447136822000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "Anson McCade", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1445660565000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:31392"
+  }, 
+  "formattedPostedDaysAgo": "Posted 42 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "42d", 
+  "formattedListDate": "October 24,  2015", 
+  "formattedExpireDate": "December 2,  2015", 
+  "formattedCloseDate": "November 10,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false
+}

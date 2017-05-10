@@ -1,0 +1,314 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite_1-paloaltonetworks-o6rU1fwc", 
+    "expirationDate": 1451807381000, 
+    "title": "Big Data Scientist/Machine Learning", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2064, 
+          "type": "BR", 
+          "endIdx": 2064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2064, 
+          "type": "BR", 
+          "endIdx": 2064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2057, 
+          "type": "LI", 
+          "endIdx": 2064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1907, 
+          "type": "LI", 
+          "endIdx": 2057, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1810, 
+          "type": "LI", 
+          "endIdx": 1907, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1810, 
+          "type": "BG", 
+          "endIdx": 2064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1810, 
+          "type": "BR", 
+          "endIdx": 1810, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1809, 
+          "type": "BR", 
+          "endIdx": 1809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "LI", 
+          "endIdx": 1809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "LI", 
+          "endIdx": 1633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1431, 
+          "type": "LI", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1234, 
+          "type": "LI", 
+          "endIdx": 1431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "LI", 
+          "endIdx": 1234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1056, 
+          "type": "LI", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 970, 
+          "type": "LI", 
+          "endIdx": 1056, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "LI", 
+          "endIdx": 970, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "BG", 
+          "endIdx": 1809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 575, 
+          "type": "BR", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 552, 
+          "type": "B", 
+          "endIdx": 575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 552, 
+          "type": "BR", 
+          "endIdx": 552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 552, 
+          "type": "BR", 
+          "endIdx": 552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 485, 
+          "type": "LI", 
+          "endIdx": 552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 409, 
+          "type": "LI", 
+          "endIdx": 485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 224, 
+          "type": "LI", 
+          "endIdx": 409, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 130, 
+          "type": "LI", 
+          "endIdx": 224, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 93, 
+          "type": "LI", 
+          "endIdx": 130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 93, 
+          "type": "BG", 
+          "endIdx": 552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 93, 
+          "type": "BR", 
+          "endIdx": 93, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 77, 
+          "type": "B", 
+          "endIdx": 93, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 77, 
+          "type": "BR", 
+          "endIdx": 77, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 77, 
+          "type": "BR", 
+          "endIdx": 77, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "B", 
+          "endIdx": 77, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 41, 
+          "type": "B", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "B", 
+          "endIdx": 41, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "DescriptionOur Company is looking for a (Big Data Scientist)/Machine LearningResponsibilitiesLead the technical big data research. design,  develop,  test,  and analyze complex models and analytics to support research challengesdevelop algorithms and analytics for discovery and characterization from voluminous and noisy data in order to achieve real time malwares and exploits detection/analysis/classification. Support Research to discover new malware/APT/exploit techniques and samples. Stay up to date with big data research,  algorithms,  and techniques. Required QualificationsBig data analysis skills are a must: At least 5 year Experience in data mining skills,  as is experience related big-data architectures.  Experience with any combination of the following is desired: machine learning,  statistical modeling,  computer and network security,  simulation modeling,  cyber threat modeling,  user behavior modeling,  computational/artificial intelligence,  agent-based systems. Knowledge and experience of 2 years in information security or Cyber related research. Broad understanding and have experience with real-time analytics systems,  algorithms,  SQL databases,  elastic search,  etc. Knowledge of Matlab,  R,  Java,  or Python is highly desiredMajor advantage to Candidate that have at least 2 years of experience in at least one of the following: exploitation mitigation,  vulnerability research,  malware research,  operating system security. Major advantage to Candidate that have at least MS in Applied Mathematics,  Statistics,  Computer Engineering,  Computer Science,  or a related field. Ability to work independently and as a technical leader. Should be able to develop new insights from the available data and to supply clear and insightful analyses on the data at hand.  Explaining results in clear and concise reports.  Proactively seeking clarification of requirements and direction; take responsibility when needed. Candidate should also possess the ability to work under pressure with extreme deadlines,  prioritize projects,  and maintain focus and a sense of humor. #LI-ML2"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Palo Alto Networks", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Palo Alto Networks is the next-generation security company,  leading a new era in cybersecurity by safely enabling applications and preventing cyber breaches for thousands of organizations worldwide.   Built with an innovative approach and highly differentiated cyber threat prevention capabilities,  our game-changing security platform delivers security far superior to legacy or point products,  safely enables daily business operations,  and protects an organization’s most valuable assets.   Find out more at www. paloaltonetworks. com. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447458935000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:30086", 
+    "id": 98865098, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tel Aviv,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAaXAAAAJDAyN2JjZGJiLTI2MGMtNGJiOC04MzQyLWQ0MzM4YTg1ZDljNw. png"
+    }, 
+    "hasPaidLcp": true, 
+    "canonicalName": "Palo Alto Networks", 
+    "company": {
+      "specialities": [
+        "network security", 
+        "firewall", 
+        "IPS", 
+        "URL filtering", 
+        "threat and malware prevention", 
+        "cybersecurity", 
+        "enterprise security platform", 
+        "threat intelligence"
+      ], 
+      "universalName": "palo-alto-networks", 
+      "companyId": 30086, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAU7AAAAJDlkMjVlNzJmLTRlNWYtNDFkNC1hZjJlLTNjZjJlYmI4YTRlNQ. png"
+      }
+    }, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "formattedIndustries": [
+      "Computer & Network Security"
+    ], 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAN6AAAAJGE3NmY3NTE1LWY1MDAtNGYxMC05YzQ5LWEwM2E5YTYwZWM4Ng. png", 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAN6AAAAJGE3NmY3NTE1LWY1MDAtNGYxMC05YzQ5LWEwM2E5YTYwZWM4Ng. png", 
+    "localizedDescription": "Palo Alto Networks is the next-generation security company,  leading a new era in cybersecurity by safely enabling applications and preventing cyber breaches for thousands of organizations worldwide.   Built with an innovative approach and highly differentiated cyber threat prevention capabilities,  our game-changing security platform delivers security far superior to legacy or point products,  safely enables daily business operations,  and protects an organization’s most valuable assets.   Find out more at www. paloaltonetworks. com. ", 
+    "foundedYear": 2005
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer & Network Security"
+  ], 
+  "formattedPostedDaysAgo": "Posted 22 days ago", 
+  "formattedPostedDaysAgoSlim": "22 days ago", 
+  "formattedPostedDaysAgoShort": "22d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 13,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98865098?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. jobvite. com%2Fpaloaltonetworks%2Fjob%2Fo6rU1fwc&urlHash=BpBv&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

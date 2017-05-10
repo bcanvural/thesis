@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "GoGoVan", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "companyJobCode": "gogovan-j1LCtr", 
+    "title": "Data Scientist / Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101596427, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. gogovan. hk", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAANGAAAAJDg5NGI3Mjg0LTM1OTgtNDJhZC04MzBjLWI0ZWZlZTdjYjBjMQ. png", 
+    "universalName": "gogovan", 
+    "companyId": 3787021
+  }, 
+  "description": "    GoGoVan is on a mission to transform the global logistics industry with    a mobile app that allows anyone to get something from Point A to Point    B at the touch of a button.  We are in the early stages of building a    world-class product adapted to the needs of each market we will touch,     and we’re building a phenomenally talented team of engineers to help us    scale.      What You'll Be Doing       Create key insights and recommendations through quantitative        analysis.        Develop tools for tracking,  analyzing and reporting data from        multiple sources and for diverse business needs.        Provide recommendations to the management and product team.        Build automated models and visualizations tools to uncover        patterns,  optimize service offering and improve business model.        Guide,  oversee and interpret experiments.      What We're Looking For       Prior experience working with data.        Strong quantitative or engineering background.        Ability to code (preferably Python).        Good knowledge of SQL.        Familiarity with tools and libraries for data analysis.        Fast learner,  enjoying solving problems using cutting edge        technology.        Good communication skills.      Awesome If You Have Those       Interest in logistics problems and geographic data.        Experience in machine learning or operational research.        Data visualization (knowledge of Javascript and libraries like        d3. js is an advantage). ", 
+  "companyDescription": "      GoGoVan    Established in 2013,  GoGoVan is Asia’s first app-based platform for    transporting goods in Asia.  The app GoGoVan was created to connect    drivers and customers,  and we aim to redefine the everyday logistic    experience by providing a convenient and efficient service.     Since its successful July 2013 launch in Hong Kong,  GoGoVan has    expanded to Singapore,  South Korea,  China,  and Taiwan.  The GoGoVan    network is currently comprised of over 20, 000 commercial vehicles and    70, 000 registered drivers.  It continues to grow rapidly,  and our    presence will soon encompass additional cities on a global scale. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "RSCH", 
+      "SALE", 
+      "CUST"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78130210", 
+    "title": "Data Scientist - Client Lead", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101668148, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "     Data Scientist - Client LeadLondon£90, 000 - £100, 000 BenefitsOVERVIEW -    Data ScientistThis is a great opportunity to join one of the worlds    leading Data Science consultancies based in their central London    offices.  You will be joining a team of innovators whose experience    ranges from some of the worlds leading technology companies.  My client    offers a range of services spanning from data analysis to software    engineering to algorithmic development - working with clients from the    financial services industry to tech companies,  aerospace engineering    and automotive industries.  Their work offers their clients a    competitive advantage through their use of cutting-edge    technologies. THE ROLE - Data ScientistAs a Data Science Consultant you    will be:Responsible for fostering strong client relationships and the    delivery of projects within time,  budget and scopePresenting analysis    to clients,  pushing the limits of what they can do with their    dataLeading cross-functional teams,  defining and implementing robust    analytical process and methodologySKILLS AND EXPERTISE - Data    ScientistTo be considered for this position you must have the    following:A degree in a quantitative disciplineExperience in leading    cross-functional teams and the ability to work with Data Scientists,     Engineers,  Developers and ArchitectsA proven background in delivering    Data Science/Big Data projects for clientsA track record in winning new    businessHOW TO APPLYTo be considered for this exciting opportunity,     please submit your details using the Apply button on this    page. KEYWORDSData Science,  Consultant,  Consultancy,  Client,  Team Lead,     Stakeholder,  Scala,  Python,  R,  Machine Learning,  Hadoop,  Java,  C,  Perl,     SQL,  Matlab,  Mathematica,  Modelling,  Machine Learning,  Algorithmic    Development,  Algorithm,  Hive,  PIG,  Spark,  Big Data,  mySQL,  noSQL,     Insight. ", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

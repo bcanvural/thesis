@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Client Server", 
+    "functions": [
+      "OTHR", 
+      "CNSL"
+    ], 
+    "companyJobCode": "clientserver-big-data-developer-slash-consultant-hadoop-java-4", 
+    "title": "Big Data Developer / Consultant - Hadoop Java", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101642693, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. client-server. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAYeAAAAJDUwODcxYzM5LTFlOGMtNDEyZC05YTc5LWNkMWU5NTczOTJhYw. png", 
+    "universalName": "client-server", 
+    "companyId": 99339
+  }, 
+  "description": "    2318    London,  £60000 - £75000 per annum + benefits    Job Type: Permanent    Managed by: Java Development Team    Big Data Developer / Consultant / Software Engineer (Hadoop Java Hive    Impala SparkSQL NoSQL).  Award winning IT Consultancy is seeking skilled    software engineers with strong knowledge of Big Data and the Hadoop    ecosystem.     Big Data is a growth area for the business; you will gain exposure to a    wide range of projects with input into design,  direction and technology    decisions.  You'll be working on large scale systems on client site    (typically London based),  acting as the Big Data technology expert and    liaising with stake holders.     Above all they are seeking passionate technologists,  keen to stay at    the forefront of technical innovation and apply this to a real world    business setting.     Requirements       Strong experience of developing and implementing solutions built on        tools within the Hadoop ecosystem       Experience of implementing SQL in Hadoop using Hive,  Impala or        SparkSQL       Java development experience       Excellent written and verbal communication skills       Desirable: Hadoop Certification,  NoSQL databases (Cassandra,  Riak,         MongoDB),  Elasticsearch or Solr     As a Big Data Developer / Consultant you can expect to earn a highly    competitive salary (to £75k) plus benefits.     Send your CV or call for an informal discussion about this Big Data    Developer / Consultant opportunity.     REF: BB/7237/A/KS/301115", 
+  "companyDescription": "      Client Server    Client Server Ltd is a leading IT recruitment consultancy specialising    in positions in London and the South East.     Our focus is finding exceptional candidates for exceptional    organisations including established technology leaders,  innovative    technology start-ups,  hedge funds,  banks and consultancies.  Offering a    personal and flexible approach,  coupled with a high degree of    professionalism and integrity ensures the provision of an effective    recruitment solution to both our client companies and candidates. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

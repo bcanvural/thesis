@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Amaris", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "amaris-4680", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100399968, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. amaris. com", 
+    "logo": "urn:li:media:/p/2/000/1af/1c5/10d87f8. png", 
+    "universalName": "amaris", 
+    "companyId": 72327
+  }, 
+  "description": "     Description    Amaris is an independent and international Management and Technologies    Consulting Group created in 2007. Present in more than 45 countries and    60 offices worldwide,  it offers proximity support to its clients,     wherever their locations.  Amaris' added value lies in its teams'    quality,  in their attention to detail,  and in their commitment to    always deliver the most innovative solutions.     Your Role    You will work in our corporate IT department in order to suit Amaris    growth.  • Design,  develop,  and program methods,  processes,  and systems    to consolidate and analyze unstructured,  diverse “big data” sources to    generate actionable insights and solutions for services and products    enhancement • Identify meaningful insights from large data and metadata    sources; interpret and communicate insights and findings from analysis    and experiments to product,  service,  and business managers • Interact    with service teams to identify questions and issues for data analysis    and experiments • Develop and code software programs,  algorithms,  and    automated processes to cleanse,  integrate,  and evaluate large datasets    from multiple disparate sources • Leverage a variety of open source    frameworks for large scale data management and distribution processing    • Architect solutions to handle large amounts of data,  including data    mining,  optimization,  reporting,  and analytics • Develop use-case    showcases to demonstrate automation of insights discovery from data •    Treat a database that concerns a platform of more than 45 countries    Your Profile    Graduated from a top engineering school or university,  you want to work    in a challenging atmosphere and get involved in ambitious international    project.  You like to work in autonomy and are able to demonstrate    initiatives.  Ideally you got a first experience or a specialized    training in business intelligence,  data analysis or big data.  Curious    and driven,  you are willing to learn and evolve towards a high level    data-oriented career.  You master English and ideally another language    (German,  or French).  Location: Europe,  Mauritius,  Vietnam", 
+  "companyDescription": "      Amaris    Created in 2007,  Amaris is an International Consulting Group    specialised in Technologies and Management.  We have today more than 55    offices throughout the world.     Our mission: We aim at contributing to the operational performance of    our clients by acting on their organization,  information systems and    technologies.     Our international network,  unique for an Independent Consulting    Company,  makes Amaris a key player able to globally support and    maintain a strong relationship with our clients across their geographic    locations. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

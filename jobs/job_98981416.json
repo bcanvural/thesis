@@ -1,0 +1,147 @@
+{
+  "jobPosting": {
+    "companyJobCode": "AMCRC/041101", 
+    "expirationDate": 1452000190000, 
+    "title": "Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1387, 
+          "type": "BR", 
+          "endIdx": 1387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1363, 
+          "type": "BR", 
+          "endIdx": 1363, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1315, 
+          "type": "BR", 
+          "endIdx": 1315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1300, 
+          "type": "BR", 
+          "endIdx": 1300, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1275, 
+          "type": "BR", 
+          "endIdx": 1275, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1142, 
+          "type": "BR", 
+          "endIdx": 1142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 818, 
+          "type": "BR", 
+          "endIdx": 818, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 99, 
+          "type": "BR", 
+          "endIdx": 99, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 57, 
+          "type": "BR", 
+          "endIdx": 57, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig)LondonTier 1 client looking for multiple hiresAre you an experience Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig) who has experience working with Big Data with cutting edge technologies? Working for my FTSE100 client you will have the opportunity to solve complex business issues using tools such as; SAS,  R and MATLAB working on Big Data platforms; Hadoop and MongoDB.  The successful Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig) will be delivering analytically informed solutions to allow clients to make smarter decisions through data driven predictive models.  As the Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig) you will have experience working on software such as; Spark,  maven,  Pig,  Hive and will have built large scale computation metrics. The successful Data Scientist (MATLAB/ Big Data/ SAS/ Hadoop/ Pig) will gain access to excellent opportunities for career progression and will be making a difference on impressive projects at the forefront of the technology sector.  You will have the opportunity to lean daily and collaborate with experts across the company. If you feel you are the ideal candidate please contact Richard Cousins on 02077806706 or send your CV Richard. Cousins@ansonmccade. comReference: AMCRC/041101Type: PermanentSalary: £40, 000 - £60, 000 (plus amazing package)Contact: Richard CousinsTelephone: 02077806706"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Anson McCade", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An IT and Capital Markets recruitment consultancy centred in London,  UK. Anson McCade Ltd is an established and well-respected IT &amp; Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. Anson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. Anson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT &amp; Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447662964000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:31392", 
+    "id": 98981416, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98981416?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3951985&urlHash=Dhcb&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "An IT and Capital Markets recruitment consultancy centred in London,  UK. \r\rAnson McCade Ltd is an established and well-respected IT & Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. \r\rAnson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. \r\rAnson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT & Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. ", 
+    "foundedYear": 2000, 
+    "canonicalName": "Anson McCade", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR2AAAAJDBmODYwMzBkLWZmNDAtNDk2Mi1hNDFjLWIxMzA4MmY3ODk2Yg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Information Technology", 
+        "Banking", 
+        "Capital markets", 
+        "Risk", 
+        "Consulting"
+      ], 
+      "universalName": "anson-mccade", 
+      "companyId": 31392, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/071/13d/3b47d9b. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

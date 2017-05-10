@@ -1,0 +1,717 @@
+{
+  "jobPosting": {
+    "companyJobCode": "wr_nl-5939", 
+    "expirationDate": 1451985825000, 
+    "title": "Big Data Engineer Amsterdam SQL Query", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3722, 
+          "type": "BR", 
+          "endIdx": 3722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3722, 
+          "type": "BR", 
+          "endIdx": 3722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3565, 
+          "type": "BR", 
+          "endIdx": 3565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3565, 
+          "type": "BR", 
+          "endIdx": 3565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3553, 
+          "type": "B", 
+          "endIdx": 3565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3553, 
+          "type": "BR", 
+          "endIdx": 3553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3553, 
+          "type": "BR", 
+          "endIdx": 3553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3442, 
+          "type": "BR", 
+          "endIdx": 3442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3442, 
+          "type": "BR", 
+          "endIdx": 3442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3407, 
+          "type": "U", 
+          "endIdx": 3442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3407, 
+          "type": "B", 
+          "endIdx": 3442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3407, 
+          "type": "BR", 
+          "endIdx": 3407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3407, 
+          "type": "BR", 
+          "endIdx": 3407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3299, 
+          "type": "BR", 
+          "endIdx": 3299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3299, 
+          "type": "BR", 
+          "endIdx": 3299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "U", 
+          "endIdx": 3299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "B", 
+          "endIdx": 3299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "BR", 
+          "endIdx": 3259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3259, 
+          "type": "BR", 
+          "endIdx": 3259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3236, 
+          "type": "BR", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3236, 
+          "type": "BR", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3196, 
+          "type": "U", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3196, 
+          "type": "B", 
+          "endIdx": 3236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3196, 
+          "type": "BR", 
+          "endIdx": 3196, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3196, 
+          "type": "BR", 
+          "endIdx": 3196, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3127, 
+          "type": "BR", 
+          "endIdx": 3127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3127, 
+          "type": "BR", 
+          "endIdx": 3127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "U", 
+          "endIdx": 3127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "B", 
+          "endIdx": 3127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "BR", 
+          "endIdx": 3089, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "BR", 
+          "endIdx": 3089, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3016, 
+          "type": "BR", 
+          "endIdx": 3016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3016, 
+          "type": "BR", 
+          "endIdx": 3016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "U", 
+          "endIdx": 3016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "B", 
+          "endIdx": 3016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "BR", 
+          "endIdx": 2997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "BR", 
+          "endIdx": 2997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2929, 
+          "type": "BR", 
+          "endIdx": 2929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2929, 
+          "type": "BR", 
+          "endIdx": 2929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2773, 
+          "type": "BR", 
+          "endIdx": 2773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2773, 
+          "type": "BR", 
+          "endIdx": 2773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2608, 
+          "type": "BR", 
+          "endIdx": 2608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2608, 
+          "type": "BR", 
+          "endIdx": 2608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2416, 
+          "type": "BR", 
+          "endIdx": 2416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2416, 
+          "type": "BR", 
+          "endIdx": 2416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2406, 
+          "type": "B", 
+          "endIdx": 2416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2406, 
+          "type": "BR", 
+          "endIdx": 2406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2406, 
+          "type": "BR", 
+          "endIdx": 2406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2385, 
+          "type": "BR", 
+          "endIdx": 2385, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2366, 
+          "type": "BR", 
+          "endIdx": 2366, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2316, 
+          "type": "BR", 
+          "endIdx": 2316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2278, 
+          "type": "BR", 
+          "endIdx": 2278, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2278, 
+          "type": "BR", 
+          "endIdx": 2278, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2268, 
+          "type": "B", 
+          "endIdx": 2278, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2268, 
+          "type": "BR", 
+          "endIdx": 2268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2268, 
+          "type": "BR", 
+          "endIdx": 2268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2187, 
+          "type": "BR", 
+          "endIdx": 2187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2187, 
+          "type": "BR", 
+          "endIdx": 2187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2079, 
+          "type": "BR", 
+          "endIdx": 2079, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2004, 
+          "type": "BR", 
+          "endIdx": 2004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1911, 
+          "type": "BR", 
+          "endIdx": 1911, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1875, 
+          "type": "BR", 
+          "endIdx": 1875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1875, 
+          "type": "BR", 
+          "endIdx": 1875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1760, 
+          "type": "BR", 
+          "endIdx": 1760, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1760, 
+          "type": "BR", 
+          "endIdx": 1760, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1684, 
+          "type": "BR", 
+          "endIdx": 1684, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1603, 
+          "type": "BR", 
+          "endIdx": 1603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1603, 
+          "type": "BR", 
+          "endIdx": 1603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1446, 
+          "type": "BR", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1446, 
+          "type": "BR", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1436, 
+          "type": "B", 
+          "endIdx": 1446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1436, 
+          "type": "BR", 
+          "endIdx": 1436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1436, 
+          "type": "BR", 
+          "endIdx": 1436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1328, 
+          "type": "BR", 
+          "endIdx": 1328, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1328, 
+          "type": "BR", 
+          "endIdx": 1328, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BR", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BR", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 795, 
+          "type": "BR", 
+          "endIdx": 795, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 795, 
+          "type": "BR", 
+          "endIdx": 795, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 620, 
+          "type": "BR", 
+          "endIdx": 620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 620, 
+          "type": "BR", 
+          "endIdx": 620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 605, 
+          "type": "BR", 
+          "endIdx": 605, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 591, 
+          "type": "BR", 
+          "endIdx": 591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 564, 
+          "type": "BR", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 521, 
+          "type": "U", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 521, 
+          "type": "B", 
+          "endIdx": 564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 521, 
+          "type": "BR", 
+          "endIdx": 521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 521, 
+          "type": "BR", 
+          "endIdx": 521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 497, 
+          "type": "BR", 
+          "endIdx": 497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 424, 
+          "type": "BR", 
+          "endIdx": 424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 378, 
+          "type": "BR", 
+          "endIdx": 378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 309, 
+          "type": "BR", 
+          "endIdx": 309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 309, 
+          "type": "BR", 
+          "endIdx": 309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 270, 
+          "type": "U", 
+          "endIdx": 309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 270, 
+          "type": "B", 
+          "endIdx": 309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 270, 
+          "type": "BR", 
+          "endIdx": 270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 270, 
+          "type": "BR", 
+          "endIdx": 270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Dit doe jeVoor de vacature als Big Data Engineer Amsterdam SQL Query ga je het volgende doen: je wordt onderdeel van het Business Intelligence/Data Warehousing team.  Met elkaar zorg je voor de doorontwikkeling en optimalisatie van de nieuwe DWH/BI omgeving.  Je Hebt Een Breed Werkgebied,  Zo SpelenJe gaat aan de slag met Data modelling,  ETL en database ontwikkeling. Ontwikkelingen rapporteren en deze analyseren. State of the art big data en cloud oplossingen bedenken en implementeren. Nieuwe systemen beheren. Belangrijke Elementen Bij Deze Functie ZijnBI oplossingen ontwikkelen. Systeembeheer. Data modelling. Reageer direct op deze advertentie en wij kunnen direct kijken of we een kennismakingsgesprek kunnen regelen.  Wij hebben WR ingeschakeld voor de advertentie en de afhandeling. Wij zijn een toonaangevende internationale onderneming op het gebied van detailhandel in luxeartikelen.  Wij streven ernaar om onze klanten een exclusieve winkelbeleving te bieden,  zowel online als in onze fysieke winkels. Ons gedreven team heeft de missie om onze keten het meest inspirerende,  verrassende en creatieve warenhuis van het land te maken.  Om dit te bereiken werkt iedereen intensief samen en zijn we constant op zoek naar nieuwe,  innovatieve applicatiemogelijkheden.  Heb jij creatieve ideeën op het gebied van e-commerce?Ter versterking van ons team zijn we op zoek naar een gemotiveerde Big Data Engineer,  die past in deze rol.  Dit heb jeJe hebt HBO - denkniveau.  Je hebt een opleiding gedaan bij voorkeur in de richting Informatica,  of vergelijkbaar.  Je ervaring is belangrijker dan diploma's! Je hebt werkervaring met database ontwikkeling en het schrijven van SQL Queries.  Je beschikt over ervaring met data platformen als Oracle,  MySQL,  SQL Server. Het is van belang dat je goed Nederlands spreekt.  Daarnaast is het een eis,  dat je behoorlijk goed Engels spreekt.  Wat leer je verder in deze functie? Je gaat werken met Linux serverbeheer en het beheren van cloud omgevingen (bijvoorbeeld AWS). Met verschillende ETL tools te werken als Pentaho,  Talend,  Informatica etc. Je gaat werken met Java,  Python of R en doet ervaring op met ongestructureerde en semigestructureerde data.  Je woont in de omgeving van Amsterdam,  Amstelveen,  Haarlem,  Zaandam en Hoofddorp. Dit ben jeJe bent handig in contact met anderen. Je houdt van nieuwe dingen en deze inspireren jou. Je bent pro actief. Je werkt doelgericht. Dit wil jeWe zoeken iemand voor de lange termijn.  We hebben een goede sfeer op kantoor.  Wij investeren in onze medewerkers.  Je wordt bij ons goed ingewerkt en wij bieden uitgebreide studiemogelijkheden. Er is een goede pensioenregeling.  De salarismogelijkheden zijn gunstig en hangen af van jouw niveau.  Zowel jouw mogelijkheden,  ervaring en opleiding spelen een rol.  De salarisrange voor de functie is globaal Euro 2. 500 tot Euro 4. 300 per maand,  o. b. v.  een 40-urige werkweek.  Daarnaast zijn er goede secundaire regelingen. Betreft vaste baan / WR doet Werving en Selectie / GEEN detachering Vacature SamengevatBig Data Engineer,  BI Engineer,  Big Intelligence,  ,  SQL Query ,  ETL ToolsAndere Functienamen Voor Deze VacatureBig Data Engineer,  Data Warehousing Specialist,  Big Data Specialist,  Aangrenzende Sectoren Voor Deze VacatureICT,  Retail,  e-commerceRelevante Opleidingen Voor Deze VacatureHBO,  WO,  Informatica,  Computer Science,  Technische Informatica,  Bedrijfskundige Informatica,  InformatiekundeVerder Van Belang Bij Deze VacatureSQL Query's,  ETL,  Pentaho,  Talend,  Informatica,  Oracle,  MySQL,  SQL Sevrer,  Java,  Python,  R,  Linux,  AWS,  Engels InlichtingenSolliciteer nu direct bij ons via de Solliciteren button.  Stuur je CV,  bij voorkeur in Word-format.  Met het CV kunnen wij verder.  Je hoort snel meer van ons!"
+    }, 
+    "postalCode": "1005", 
+    "jobState": "LISTED", 
+    "companyName": "WR Werving", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Werving en Selectie van ICT,  CLOUD en Web medewerkersEngineers,  Embedded,  PLCAccountancy medewerkers,  Assistent-Accountants"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1447835984000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:679144", 
+    "id": 99483674, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Amsterdam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99483674?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. wr. nl%2Fwr-vacatures%2Fvacature%2F5939%2FAmsterdam%2FBig-Data-Engineer-Amsterdam-SQL-Query. html&urlHash=_e-X&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 1989, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/000/173/02b/2a89f3c. png"
+    }, 
+    "localizedDescription": "Zoekt u medewerkers Engineering,  ICT,  Sales/Marketing,  HRM,  Juridisch of Accounting op HBO- of academisch niveau? WR heeft ze in huis,  dankzij 23 jaar expertise.  Wij zijn gespecialiseerd in Werving & Selectie. \rVeel organisaties doen regelmatig een beroep op WR.  Van grote multinationals tot nationaal opererende ondernemingen.  In de sectoren handel,  industrie en zakelijke dienstverlening.  Tevens bedienen wij diverse non-profitorganisaties en overheidsinstanties.  \rWR opereert landelijk.  Wij houden van een pragmatische aanpak en no nonsense stijl. ", 
+    "company": {
+      "specialities": [
+        "Bemiddeling van medewerkers Accounting & Control", 
+        "Bemiddeling van Engineers", 
+        "Bemiddeling van ICT-ers", 
+        "Bemiddeling van HR Managers", 
+        "Bemiddeling van Juristen", 
+        "Bemiddeling van Experts in Supply Chain"
+      ], 
+      "universalName": "wr-leading-in-finance", 
+      "companyId": 679144
+    }, 
+    "canonicalName": "WR Werving. Selectie. Consultancy", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

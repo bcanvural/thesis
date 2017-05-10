@@ -1,0 +1,308 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-bXwUJcIoSr5yLXeMg-44q7", 
+    "expirationDate": 1451950404000, 
+    "title": "Data Scientist - REMOTE", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1908, 
+          "type": "BR", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1908, 
+          "type": "BR", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1859, 
+          "type": "BR", 
+          "endIdx": 1859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1805, 
+          "type": "LI", 
+          "endIdx": 1858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1735, 
+          "type": "LI", 
+          "endIdx": 1804, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "LI", 
+          "endIdx": 1734, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1517, 
+          "type": "LI", 
+          "endIdx": 1632, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1479, 
+          "type": "LI", 
+          "endIdx": 1516, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1452, 
+          "type": "LI", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1408, 
+          "type": "LI", 
+          "endIdx": 1451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "LI", 
+          "endIdx": 1407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1294, 
+          "type": "LI", 
+          "endIdx": 1376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1209, 
+          "type": "LI", 
+          "endIdx": 1293, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1151, 
+          "type": "LI", 
+          "endIdx": 1208, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1151, 
+          "type": "BG", 
+          "endIdx": 1859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1151, 
+          "type": "BR", 
+          "endIdx": 1151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "U", 
+          "endIdx": 1151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "B", 
+          "endIdx": 1151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "BR", 
+          "endIdx": 1139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1139, 
+          "type": "BR", 
+          "endIdx": 1139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1056, 
+          "type": "LI", 
+          "endIdx": 1138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 913, 
+          "type": "LI", 
+          "endIdx": 1055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "LI", 
+          "endIdx": 912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 735, 
+          "type": "LI", 
+          "endIdx": 801, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "LI", 
+          "endIdx": 734, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BG", 
+          "endIdx": 1139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BR", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "U", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "B", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "BR", 
+          "endIdx": 636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "BR", 
+          "endIdx": 636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 375, 
+          "type": "B", 
+          "endIdx": 389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 354, 
+          "type": "BR", 
+          "endIdx": 354, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 354, 
+          "type": "BR", 
+          "endIdx": 354, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 20, 
+          "type": "BR", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 20, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " About UsWe are a growing company with a solid customer base,  excellent compensation and benefits,  and a collaborative yet flexible work environment.   If you enjoy challenging projects,  using new technologies to deliver innovative business solutions,  and you're interested in working for an entrepreneurial company,  we may have a home for you. PTP is looking for a Data Scientist to join our Customer Experience practice.   At PTP,  we value aptitude and creativity as well as experience.  We are a diverse organization and are looking for bright,  passionate and committed professionals who strive to be the best at what they do. ResponsibilitiesUse machine learning techniques to create scalable solutions for business problems Analyze and extract key insights from rich stores of customer data Implement highly innovative models for predictive learning for applications like recommendations and targeting Establish scalable,  efficient,  automated processes for large scale data analyses,  model development,  model validation and model implementation Research and implement novel machine learning algorithms for new business problems RequirementsPhD.  in Computer Science with a focus on machine learning Track record of having developed novel machine learning algorithms,  SIGKDD/ICML/NIPS Hands-on experience in predictive modeling and analysis over large volumes of data Strong problem solving ability Strong programming skills in C/C++  or Java Experience with R/SAS/SPSS Experience with SQL and MPP databases Experience with large scale distributed programming  paradigms – experience with the Hadoop stack(HDFS/MR/Pig/Hive) Familiarity with AWS and other cloud-based technologies that can be used with large mapReduce efforts Experience in free-text analytics / natural language processing (NLP) Excellent written and verbal communication and skills Compensation is DOE and is extremely competitive. "
+    }, 
+    "postalCode": "95670", 
+    "jobState": "LISTED", 
+    "companyName": "PTP", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": ""
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447699126000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:1546174", 
+    "id": 99052892, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Rancho Cordova,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99052892?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fptp%2Fdata-scientist-remote%2FbXwUJcIoSr5yLXeMg-44q7%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=SyRK&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "hasPaidLcp": false, 
+    "canonicalName": "PTP Inc. ", 
+    "company": {
+      "universalName": "ptp-inc. ", 
+      "companyId": 1546174
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,456 @@
+{
+  "jobPosting": {
+    "companyJobCode": "carerix-812", 
+    "expirationDate": 1451818723000, 
+    "title": "Big Data Talent gezocht voor internationaal technisch hoogstaand bedrijf!", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 6461, 
+          "type": "BR", 
+          "endIdx": 6461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6461, 
+          "type": "BR", 
+          "endIdx": 6461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6453, 
+          "type": "B", 
+          "endIdx": 6461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6439, 
+          "type": "BR", 
+          "endIdx": 6439, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6318, 
+          "type": "B", 
+          "endIdx": 6328, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6282, 
+          "type": "B", 
+          "endIdx": 6286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6240, 
+          "type": "B", 
+          "endIdx": 6256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6208, 
+          "type": "B", 
+          "endIdx": 6212, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6149, 
+          "type": "BR", 
+          "endIdx": 6149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6149, 
+          "type": "BR", 
+          "endIdx": 6149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6139, 
+          "type": "B", 
+          "endIdx": 6149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6139, 
+          "type": "BR", 
+          "endIdx": 6139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6136, 
+          "type": "BR", 
+          "endIdx": 6136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6110, 
+          "type": "BR", 
+          "endIdx": 6110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6110, 
+          "type": "BR", 
+          "endIdx": 6110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6085, 
+          "type": "BR", 
+          "endIdx": 6085, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6082, 
+          "type": "BR", 
+          "endIdx": 6082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6068, 
+          "type": "B", 
+          "endIdx": 6082, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6068, 
+          "type": "BR", 
+          "endIdx": 6068, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6068, 
+          "type": "BR", 
+          "endIdx": 6068, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5332, 
+          "type": "B", 
+          "endIdx": 5359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5288, 
+          "type": "BR", 
+          "endIdx": 5288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5288, 
+          "type": "BR", 
+          "endIdx": 5288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4669, 
+          "type": "B", 
+          "endIdx": 4683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4645, 
+          "type": "BR", 
+          "endIdx": 4645, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4484, 
+          "type": "BR", 
+          "endIdx": 4484, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4450, 
+          "type": "BR", 
+          "endIdx": 4450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4309, 
+          "type": "BR", 
+          "endIdx": 4309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4297, 
+          "type": "BR", 
+          "endIdx": 4297, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4109, 
+          "type": "BR", 
+          "endIdx": 4109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4055, 
+          "type": "LI", 
+          "endIdx": 4098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3994, 
+          "type": "LI", 
+          "endIdx": 4055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3912, 
+          "type": "LI", 
+          "endIdx": 3994, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3748, 
+          "type": "LI", 
+          "endIdx": 3912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3693, 
+          "type": "LI", 
+          "endIdx": 3748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3693, 
+          "type": "BG", 
+          "endIdx": 4098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3639, 
+          "type": "LI", 
+          "endIdx": 3688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3564, 
+          "type": "LI", 
+          "endIdx": 3639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3477, 
+          "type": "LI", 
+          "endIdx": 3564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3414, 
+          "type": "LI", 
+          "endIdx": 3477, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3326, 
+          "type": "LI", 
+          "endIdx": 3414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3303, 
+          "type": "LI", 
+          "endIdx": 3326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3303, 
+          "type": "BG", 
+          "endIdx": 3688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3290, 
+          "type": "BR", 
+          "endIdx": 3290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2800, 
+          "type": "BR", 
+          "endIdx": 2800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2800, 
+          "type": "BR", 
+          "endIdx": 2800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2538, 
+          "type": "BR", 
+          "endIdx": 2538, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2510, 
+          "type": "BR", 
+          "endIdx": 2510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2166, 
+          "type": "BR", 
+          "endIdx": 2166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2166, 
+          "type": "BR", 
+          "endIdx": 2166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "BR", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "BR", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1032, 
+          "type": "BR", 
+          "endIdx": 1032, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1032, 
+          "type": "BR", 
+          "endIdx": 1032, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "BR", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 479, 
+          "type": "BR", 
+          "endIdx": 479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 219, 
+          "type": "BR", 
+          "endIdx": 219, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 47, 
+          "type": "BR", 
+          "endIdx": 47, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 47, 
+          "type": "BR", 
+          "endIdx": 47, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 46, 
+          "type": "BR", 
+          "endIdx": 46, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "BR", 
+          "endIdx": 0, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "BR", 
+          "endIdx": 0, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Please review the job details and click Apply.                                           Big Data Talent gezocht voor internationaal  technisch hoogstaand bedrijf!   (Groenlo)                                 IntroductionOp zoek naar de juiste plek waar je je passie voor Big Data kwijt kunt? Wil je dit binnen een uitdagende,  innovatieve werkomgeving waar je aan de slag kunt met complexe internationale projecten? Laat jouw Big Data talent dan tot bloei komen bij deze werkgever!OrganizationDeze internationale,  innovatieve speler is gevestigd in Groenlo,  een plaats die misschien niet iedereen kent.  Hoe klein dit plaatsje ook is,  het bedrijf geniet zelf internationaal aanzien.  Het betreft een grote speler op het gebied van technologisch hoogstaande ontwikkelingen en heeft klanten over de hele wereld.  Deze onderneming bestaat al vanaf 1929 en is beursgenoteerd.  Hedendaags telt het bedrijf meer dan 700 personeelsleden verspreid over de hele wereld.  Vestigingen staan onder andere in China,  VS,  Dubai,  VK,  Frankrijk en België.  Je begrijpt dat techniek,  innovatie en creativiteit in dit bedrijf een centrale plek inneemt.  Daarnaast staat ook de gebruiker centraal bij de ontwikkeling van producten.  In het bedrijf bestaan in totaal 10 marktsegmenten met ieder een eigen specialisatie,  waaronder Indentification Systems,  Healthcare Livestock Management en Energy Systems.  Wat maken ze? Heel veel gave dingen! Om het iets concreter te maken; zij maken bijvoorbeeld diverse portalen voor in de zorg die door 50. 000 verplegers wordt gebruikt.  Daarnaast hebben zij dieridentificatie voor veehouderij ontwikkeld zodat voeding en productie inzichtelijk is.  Verder hebben zij voor één van Nederlands bekendste festivals,  Lowlands,  een polsbandje met chip ontwikkeld waarmee je kunt inchecken bij een optreden en op die manier jouw route op het festival volgt,  met als resultaat dat jij op het eind een gepersonaliseerd verslag met statistieken,  foto’s en liedjes ontvangt.  Ook kun je denken aan sensoren die ontwikkeld zijn voor parkeerplaatsen waardoor slim gemeten kan worden of een auto te lang geparkeerd staat en waar in de stad vrije parkeerplekken aanwezig zijn.  Niet alleen voor klanten worden er innovatieve oplossingen bedacht,  ook intern worden eigentijdse oplossingen doorgevoerd.  Voor een collega die naar het buitenland is geëmigreerd heeft het team een Ipad aan een Segway gemonteerd waardoor de collega op afstand toch aanwezig kan blijven en zelf over de afdeling en naar vergaderingen kan rijden!                   Function In de functie als Big Data Engineer zul je werken in een innovatief,  hoogopgeleid en dynamisch team dat bestaat uit ± 10 mensen.  Als team werk je aan de lancering van een nieuw product waarbij je volop te maken krijgt met Big Data,  Mata mining en Data Analysis.  Vanaf de start krijg je de ontwikkeling van een nieuw product mee wat uiteraard ontzettend interessant en leerzaam is.  Daarnaast biedt het uiteraard veel voldoening om te zien wat de resultaten zijn! Van je verwacht wordt je al interessante kennis kunt brengen,  actief meedenkt over ontwikkelingen en het leuk vind om nieuwe inzichten aan te dragen.  Je bent gemotiveerd,  gedreven en hebt de intentie om het project tot een succes te maken.  Een zeer interessante functie met volop uitdaging! RequirementsAfgeronde WO opleiding;Je hebt kennis van Big Data,  Data Mining,  Data Analysis,  ervaring met Java en databases;Je hebt affiniteit met nieuwe technieken en je bent leergierig;Je zet graag je tanden in NoSQL ,  distributed databases en event processing frameworks;Oplossingsgericht,  gedreven en beschikt over een sterk analytisch vermogen;Je bent enthousiast en hebt doorzettingsvermogen. OfferAantrekkelijk salaris en secundaire arbeidsvoorwaarden;Boven marktconform salaris,  pensioenregeling,  winstdelingsregeling,  optie tot aandelenplan,  een dertiende maand,  reiskostenvergoeding en meteen een jaarcontract(!);Uitdagende projecten en veel ruimte voor technische- en persoonlijke ontwikkeling;Moderne,  ondernemende werkomgeving en buitengewoon mooi pand;Werken aan tastbare,  innovatieve producten!InformationKlinkt dit als de volgende stap in jouw carrière,  of heb je vragen na het lezen van deze vacature? Laat dan van je horen door te reageren! Mail je CV naar r. petersen@java-professionals. nl.  ApplicationVoor vragen of meer informatie kun je ons bereiken op 020 – 8203 666,  of kijk op de website www. java-professionals. nl.  We horen graag van je! Closing date31-12-2015                       Back                                                                   Apply                                                                                                 Similar jobs:                              Een internationaal bedrijf,  een uniek product én in Groningen (inhouse)! (Groningen) |                        Java developer met e-commerce affiniteit gezocht te Amsterdam! (Amsterdam) |                        Werken met Java,  Scala,  Go,  DevOps,  Python en andere gave tooling aan mooi product met een topsfeer? (Rotterdam) |                        Java vacature bij duurzame financiële werkgever in Zeist! (Zeist) |                        Junior Java Developer voor internationale topwerkgever die inhouse en bij klanten aan de slag wil! (Randstad)        . . . More jobs                                                    More jobs at this company:                                                                                                                                                                                                                                                                                                                                Inhouse Java Software Engineers gezocht voor  innovatieve speler op wereldniveau! (Groenlo)                                                                                                                                                                                                                                                                                                           &lt; Previous  |  Inhouse Ja. . .  (Groenlo) Medior ASP. . .  (Nieuwegein) |  Next &gt;                                        Function:          Java         Job type:          Vast / Tijdelijk         Job ID           #812          Date posted:          25-08-2014                                                                                                                             Show map                             Subscribe to the RSS feed                                                      Email to a friend                                                                     Save this job                             Print this job"
+    }, 
+    "postalCode": "7141", 
+    "jobState": "LISTED", 
+    "companyName": "PHP Professionals", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 10 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. We onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. Kunnen wij jou helpen?Ben jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nlBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. We horen graag van je. Groet, Het PHP Professionals Team"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "HR"
+    ], 
+    "listDate": 1445824377000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:1559016", 
+    "id": 94702089, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Groenlo,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Human Resources"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 40 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 11 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. \r\rWe onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. \r\rKunnen wij jou helpen?\r\rBen jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nl\r\rBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. \r\rWe horen graag van je. \r\rGroet, \rHet PHP Professionals Team", 
+    "foundedYear": 2010, 
+    "canonicalName": "PHP Professionals", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/244/0e0/3b99166. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "PHP", 
+        "OOP", 
+        "Werving & Selectie"
+      ], 
+      "universalName": "php-professionals", 
+      "companyId": 1559016, 
+      "heroImage": {}
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "2-10", 
+    "formattedEmployeeCount": "2-10 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "40d", 
+  "formattedListDate": "October 26,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/94702089?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fphpprofessionals. carerix. com%2Fcxportal%2Fjobdetails%2F953%2FGroenlo%2FBig-Data-Talent-gezocht-voor-internationaal-technisch-hoogstaand-bedrijf%21. html&urlHash=WQkS&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

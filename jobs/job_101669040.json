@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78080072", 
+    "title": "Senior Data Analyst (R,  Tableau,  SQL,  SSIS,  SSRS,  Java,  SQL, . . . ", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101669040, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "     Senior Data Analyst with R,  Tableau,  SQL,  SSIS,  SSRS,  Java,  SQL,     Hadoop,  ETL required to join a financial services company in London,     Canary Wharf.  The role offers a competitive salary £28 - 50, 000 per    annum,  with additional company benefits package.     Key Skills & Background       Previous experience and proven track record in data analytics and        data visualisation       Ability and passion about performing complex analysis including the        data gathering,  analysis,  data visualisation and reporting       Ability to address complex business problems through standard and        innovative analytical tools and methods       A statistical background preferred - knowledge of R,  Tableau,         network analytics code,  Java,  SQL,  Hadoop,  SQL,  SSIS,  SSRS       Previous experience in a similar data analytics role.        Expertise in working with large corporate organisations as part of        a large data team.      About the Role       The role of the data analyst manager is to support the data        propositions and commercialisation VP in driving the data        commercialisation agenda with focus on corporates.  The role covers        a span of different with focus on Datamodelling,  analysis and        reporting.        The role holder should be able to translate our clients unique data        sets into useful data insights that would solve key data challenges        for our clients and customers.        Our client expects the senior data analyst to have strong data        capabilities in addition to knowledge of core big data platforms,         data manipulation,  analytics and visualisation tools.      About the Company    Our client is a leading international financial services provider    engaged in personal banking,  credit cards,  corporate and investment    banking and wealth management with an extensive presence in Europe,  the    Americas,  Africa and Asia.  Our Client purpose is to help people achieve    their ambitions - in the right way. ", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

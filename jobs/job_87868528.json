@@ -1,0 +1,28 @@
+{
+  "jobPosting": {
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "PREMIUM", 
+    "experienceLevel": "NOT_APPLICABLE", 
+    "title": "Data Scientist", 
+    "veteranCommitted": false, 
+    "id": 87868528, 
+    "applicationRouting": "LINKEDIN", 
+    "industries": [
+      96
+    ], 
+    "functions": [
+      "IT"
+    ], 
+    "companyName": "Ferrari Healy"
+  }, 
+  "company": {
+    "websiteUrl": "www. ferrarihealy. com", 
+    "logo": "urn:li:media:/p/4/005/02e/1d0/249645c. png", 
+    "universalName": "ferrari-healy", 
+    "companyId": 276283
+  }, 
+  "description": "     A leading Central London media company is seeking an aspiring Data    Scientist to evolve its Big Data technologies and advance its overall    data proposition.  The role is paying £25, 000-£30, 000 with excellent    benefits.       The Data Scientist will be responsible for creating data products with    a commercial focus that have a direct impact on the performance of the    business.   They will gather an understanding of existing ad-tech    platforms and how to combine their datasets effectively to produce new    sources of revenue.       This individual should be smart,  pragmatic and have a passion for    solving complex problems.   The ability to communicate advanced    solutions to less-technical stakeholders is essential,  as is a general    dedication to using data and technology effectively. ", 
+  "companyDescription": "      Ferrari Healy    [1]Following companyUnfollow company[2]Follow company  References     1.  file:///jobs2/view/actions/unfollowCompany/276283?csrfToken=ajax:2644187314825728846    2.  file:///jobs2/view/actions/followCompany/276283?csrfToken=ajax:2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

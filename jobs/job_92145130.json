@@ -1,0 +1,266 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-aTxrXMjkWr5k1fiGalkWKP", 
+    "expirationDate": 1451950039000, 
+    "title": "Data Scientist / Intern", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1390, 
+          "type": "BR", 
+          "endIdx": 1390, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1389, 
+          "type": "BR", 
+          "endIdx": 1389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1389, 
+          "type": "BR", 
+          "endIdx": 1389, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1388, 
+          "type": "BR", 
+          "endIdx": 1388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1348, 
+          "type": "LI", 
+          "endIdx": 1387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1294, 
+          "type": "LI", 
+          "endIdx": 1347, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1192, 
+          "type": "LI", 
+          "endIdx": 1293, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1192, 
+          "type": "BG", 
+          "endIdx": 1388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1192, 
+          "type": "BR", 
+          "endIdx": 1192, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1164, 
+          "type": "B", 
+          "endIdx": 1192, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1164, 
+          "type": "BR", 
+          "endIdx": 1164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1122, 
+          "type": "LI", 
+          "endIdx": 1163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "LI", 
+          "endIdx": 1121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1005, 
+          "type": "LI", 
+          "endIdx": 1048, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "LI", 
+          "endIdx": 1004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BG", 
+          "endIdx": 1164, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BR", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 925, 
+          "type": "BR", 
+          "endIdx": 925, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "B", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "BR", 
+          "endIdx": 910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "BR", 
+          "endIdx": 910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 360, 
+          "type": "BR", 
+          "endIdx": 360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 360, 
+          "type": "BR", 
+          "endIdx": 360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BR", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BR", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5, 
+          "type": "BR", 
+          "endIdx": 5, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5, 
+          "type": "BR", 
+          "endIdx": 5, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 5, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 5, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "AboutPredikt is a Seed funded startup based in Sunnyvale,  CA.  Try out www. predikt. co and learn more on www. talent. predikt. coWe are building algorithms and technology to measure the professional data all across the web.  Our technology goes beyond keyword matching,  semantic analysis and would power leading recruiting systems,  job boards,  professional networks. We are looking for highly motivated individuals to work on our core machine learning algorithm.  If you have passion and experience in building mind blowing machine learning &amp; predictive algorithms,  this is something you will enjoy.  Doesn't matter if you are a Kaggler,  an experienced Data Scientist,  or someone in school or a MOOC.  Working with our team will give you the liberty to materialize your research interests instead of working on routine industry stuff.  We have a very promising technology and are looking for high calibre individuals. Qualifications: Bachelors degree in Computer Science,  IT,  Physics,  Statistics,  Math or related Interest or experience in Machine Learning  Exposure or background in Natural Language Processing,  Semantic analysis Experience building algorithms in Python.  Nice to have (bonus points!)Coursework or experience in Artificial Intelligence,  Machine Learning,  Deep Learning,  Neural Networks Experience in building scalable algorithms is a plus  Understanding of Github,  Bitbucket,  AWS   "
+    }, 
+    "postalCode": "94085", 
+    "jobState": "LISTED", 
+    "companyName": "Predikt", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Predictive Talent Acquisition and Sourcing Platform.  Instantly Discover top talent similar to your best hires.  Learn more how you can scale up and build awesome teams: http://www. predikt. co"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1444650342000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:3679931", 
+    "id": 92145130, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Sunnyvale,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92145130?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fpredikt%2Fdata-scientist-intern%2FaTxrXMjkWr5k1fiGalkWKP%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=WbXo&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Temporary", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 54 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "54d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2013, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/053/2a6/3cf276f. png"
+    }, 
+    "localizedDescription": "Predictive Talent Acquisition and Sourcing Platform.  Instantly Discover top talent similar to your best hires.  \r\rLearn more how you can scale up and build awesome teams: http://www. predikt. co", 
+    "company": {
+      "specialities": [
+        "Sourcing", 
+        "Hiring", 
+        "Artificial Intelligence", 
+        "Big Data", 
+        "Social Sourcing"
+      ], 
+      "universalName": "predikt", 
+      "companyId": 3679931
+    }, 
+    "canonicalName": "Predikt Inc. ", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Computer Software"
+    ]
+  }, 
+  "formattedListDate": "October 12,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

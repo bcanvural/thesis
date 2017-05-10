@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "CBSbutler", 
+    "functions": [
+      "OTHR"
+    ], 
+    "companyJobCode": "cbsbutler-1447957939", 
+    "title": "Big Data Developer", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100187511, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. cbsbutler. com/", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAARVAAAAJDFiYzIzNDY0LWE2MDYtNGZmYi05MWNkLTRjYmYxZmRlYmFlNA. png", 
+    "universalName": "cbsbutler", 
+    "companyId": 43832
+  }, 
+  "description": "     Description    A Big Data Developer is required to work with one of the brightest    companies on the European Tech Scene on a range of Visual and    Interaction Design Projects for their hallmark product.  This is an    exciting opportunity to help shape the way in which Data based products    are used by the company in the future and will see you working at the    cutting edge of Big Data in a vibrant,  innovative and stimulating    environment.     Role:    Big Data Developer    As Big Data Developer You Will Be Responsible For    + Developing applications that exploit a unique collection of    scientific data    + Building a cloud based platform that allows easy development of new    applications    + Integrate with wider systems to make data easily available to others    + Work with Product Managers ensure software is high quality and meets    user requirements    As Big Data Developer You Will Have Experience Of    + Degree qualified or equivalent in Computer science or other relevant    discipline    + Development on the JVM using Scala and possibly other JVM languages,     knowledge of Python or R is a bonus    + Experience with Spark,  or the Hadoop ecosystem and similar frameworks    + Familiarity with tools such as AWS,  Mesos or Docker and an instinct    for automation    +Agile experience with Scrum/Kanban/XP    + Experience with agile engineering practices such as TDD,  Pair    Programming,  Continuous Integration,  automated testing and deployment    + Web service development using frameworks such as Dropwizard,     Scalatra,  Hysterix or similar    + A positive,  constructive approach with an emphasis on collaboration    and good execution", 
+  "companyDescription": "      CBSbutler    CBSbutler    A multi-award winning technical recruiter specialising in the    engineering,  manufacturing,  science,  information technology and    commercial sectors.     A key testament to us being a leading technical recruitment consultancy    is borne out by the fact that CBSbutler has been awarded 'Best    Technical Agency' and 'Best Engineering Agency' 6 out of the last 8    occasions by Recruiter Magazine.  Recruiter International also awarded    CBSbutler as 'Best Recruitment Agency to work for' 2 years running.     In 2012 we were awarded the Best Companies - 'Three Star' -    Extraordinary status & were listed in the Sunday Times Top 100 Best    Small Companies to Work For.     In 2009 where we were awarded the Best Companies - 'Two Star' -    Outstanding status,  'Best Employer' at the London and South East    Recruitment Awards and 'Recruitment Company of the Year (£21m-£100m    t/over) by APSCo.     As a leading technical recruitment agency CBSbutler covers the complete    spectrum of technical and functional job disciplines for engineering,     manufacturing,  science,  technology and commercially driven based    organisations.     Today CBSbutler serves a diverse range of companies from blue-chip    multi-nationals to high growth SMEs,  identifying and securing the best    technical talent on a global level.  Territories covered include Europe,     North & South America,  Eastern Europe,  The Middle East,  Asia and the    Oceana. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

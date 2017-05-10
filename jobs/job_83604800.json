@@ -1,0 +1,327 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-C1B42BB0D3", 
+    "expirationDate": 1451832390000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1741, 
+          "type": "LI", 
+          "endIdx": 1756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1702, 
+          "type": "LI", 
+          "endIdx": 1740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1702, 
+          "type": "BG", 
+          "endIdx": 1740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1672, 
+          "type": "LI", 
+          "endIdx": 1740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1618, 
+          "type": "LI", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1586, 
+          "type": "LI", 
+          "endIdx": 1617, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1477, 
+          "type": "B", 
+          "endIdx": 1585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1477, 
+          "type": "LI", 
+          "endIdx": 1585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1439, 
+          "type": "LI", 
+          "endIdx": 1476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1379, 
+          "type": "LI", 
+          "endIdx": 1438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "LI", 
+          "endIdx": 1378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1261, 
+          "type": "LI", 
+          "endIdx": 1291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1210, 
+          "type": "LI", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1175, 
+          "type": "LI", 
+          "endIdx": 1209, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1174, 
+          "type": "BG", 
+          "endIdx": 1756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1174, 
+          "type": "BR", 
+          "endIdx": 1174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "B", 
+          "endIdx": 1174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1125, 
+          "type": "LI", 
+          "endIdx": 1157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1107, 
+          "type": "LI", 
+          "endIdx": 1124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "LI", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1010, 
+          "type": "LI", 
+          "endIdx": 1039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 939, 
+          "type": "LI", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 860, 
+          "type": "LI", 
+          "endIdx": 938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "LI", 
+          "endIdx": 859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 781, 
+          "type": "BG", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 781, 
+          "type": "BR", 
+          "endIdx": 781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "B", 
+          "endIdx": 781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "BR", 
+          "endIdx": 765, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "BR", 
+          "endIdx": 765, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 633, 
+          "type": "BR", 
+          "endIdx": 633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 493, 
+          "type": "BR", 
+          "endIdx": 493, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 493, 
+          "type": "BR", 
+          "endIdx": 493, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "B", 
+          "endIdx": 236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 201, 
+          "type": "BR", 
+          "endIdx": 201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 201, 
+          "type": "BR", 
+          "endIdx": 201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Are you looking for a new challenging work experience in a startup environment? Do you want to put your passion and expertise for food to the test? Then this is the job you are looking for!We are looking for a Data Scientist willing to make the world smarter with his/her passion,  dedication and creativity. You will be working in a close-knit team doing business intelligence for all Cortilia’s department: Marketing,  Supply Chain,  CRM, . . . . and will report to the Marketing Manager. You will be inspecting and analyzing data,  defining new processes improvement initiatives and maintaining our large database of information. You will be working closely with the team leads of the company to provide efficient delivery of analytics solutions for our businessResponsibilities Developing predictive models in the area of marketing,  store and supply chain Understanding business problems and translating them into data mining problems Applying techniques such as clustering,  classification and association Customer behaviour prediction Web analytics,  data mining techniques application for large data.   Analytics for CRM Predictive models to improve KPI Preferred Skills Basic experience in data analytics Basic experience using Business Intelligence tools Strong mathematical background Experience with data models,  data mining,  database design,  and segmentation techniques Knowledge of statistical packages for analyzing large data  Knowledge of data analysis techniques Undergraduate degree in Computer Science,  Electrical Engineering,  Applied Mathematics,  Statistics or Physics Excellent communications skills Ability to learn and pick up new technologies quickly Database knowledge within SQL Knowledge within Postgre Sql is a plus English: Fluent"
+    }, 
+    "postalCode": "20133", 
+    "jobState": "LISTED", 
+    "companyName": "Cortilia", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Cortilia (www. cortilia. it) is an online agricultural market connecting consumers and local farmers: the freshest fruit and vegetables are just a click away,  delivered to your doorstep from the farmer.  With a strong dedication to enhancing the local economy,  preserving the environment and supporting a healthy way of life,  Cortilia is the perfect fit for all those wishing to bring into their kitchen the authentic flavours of genuine,  locally grown products.  How does it work? Setting up an account is easy and for free.  Once logged in,  you can either place a one-off order or a regular one (based on a weekly or biweekly delivery) and you’ll receive your fruit &amp; veg box complete with any other product you may wish: cheese,  bread,  meats,  jams,  eggs,  flour,  wine,  home-made beer and much more.  Find your local farmer.  Cortilia represents a brand-new way of enhancing your local economy.  To make the most out of it and avoid unnecessary waste,  farmers are aggregated in virtual markets based on proximity and on the variety of products offered also in order to optimise logistics.  Products are picked and delivered to your door in just a few hours to guarantee quality and freshness: “Just in time” is one of our mottos!Cortilia carefully selects a number of trusted farmers: on our website,  you can find out more about them and their values and learn how they grow their products,  thus creating a relationship with them,  just like in a proper local farmer's market. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1441722895000, 
+    "countryCode": "it", 
+    "company": "urn:li:company:2718282", 
+    "id": 83604800, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Milano,  IT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAN1AAAAJDAwYjE2ZjAzLWE3YzYtNGY4MS04ZDYxLTYwYjZkMmZmOGFhZA. png"
+    }, 
+    "localizedDescription": "Cortilia (www. cortilia. it) is an online agricultural market connecting consumers and local farmers: the freshest fruit and vegetables are just a click away,  delivered to your doorstep from the farmer.  \r\rWith a strong dedication to enhancing the local economy,  preserving the environment and supporting a healthy way of life,  Cortilia is the perfect fit for all those wishing to bring into their kitchen the authentic flavours of genuine,  locally grown products.  \r\rHow does it work? Setting up an account is easy and for free.  Once logged in,  you can either place a one-off order or a regular one (based on a weekly or biweekly delivery) and you’ll receive your fruit & veg box complete with any other product you may wish: cheese,  bread,  meats,  jams,  eggs,  flour,  wine,  home-made beer and much more.  \r\rFind your local farmer.  Cortilia represents a brand-new way of enhancing your local economy.  To make the most out of it and avoid unnecessary waste,  farmers are aggregated in virtual markets based on proximity and on the variety of products offered also in order to optimise logistics.  Products are picked and delivered to your door in just a few hours to guarantee quality and freshness: “Just in time” is one of our mottos!\r\rCortilia carefully selects a number of trusted farmers: on our website,  you can find out more about them and their values and learn how they grow their products,  thus creating a relationship with them,  just like in a proper local farmer's market. ", 
+    "company": {
+      "specialities": [
+        "eCommerce", 
+        "Grocery", 
+        "Home delivery", 
+        "Local food", 
+        "farmers market"
+      ], 
+      "universalName": "cortilia", 
+      "companyId": 2718282, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALvAAAAJDA3ZDFkZWVkLWU5YTAtNGVlMi04MzAyLTA0OGIyZTg4NWMyNw. png"
+      }
+    }, 
+    "canonicalName": "Cortilia", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 88 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "88d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "September 8,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/83604800?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2FF10CDF0AC4&urlHash=QIwI&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

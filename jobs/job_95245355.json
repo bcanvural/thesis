@@ -1,0 +1,456 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobs. citi. com-8540625", 
+    "expirationDate": 1451922996000, 
+    "title": "Data Scientist for Analytics team", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2563, 
+          "type": "BR", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2563, 
+          "type": "BR", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "B", 
+          "endIdx": 2554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "LI", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2532, 
+          "type": "B", 
+          "endIdx": 2544, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2532, 
+          "type": "LI", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2508, 
+          "type": "B", 
+          "endIdx": 2521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2508, 
+          "type": "LI", 
+          "endIdx": 2532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2481, 
+          "type": "B", 
+          "endIdx": 2491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2481, 
+          "type": "LI", 
+          "endIdx": 2508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2434, 
+          "type": "B", 
+          "endIdx": 2451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2434, 
+          "type": "LI", 
+          "endIdx": 2481, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2434, 
+          "type": "BG", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2434, 
+          "type": "BR", 
+          "endIdx": 2434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2379, 
+          "type": "LI", 
+          "endIdx": 2434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2308, 
+          "type": "LI", 
+          "endIdx": 2379, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2253, 
+          "type": "LI", 
+          "endIdx": 2308, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2162, 
+          "type": "LI", 
+          "endIdx": 2253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2123, 
+          "type": "LI", 
+          "endIdx": 2162, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "LI", 
+          "endIdx": 2123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2005, 
+          "type": "LI", 
+          "endIdx": 2052, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1935, 
+          "type": "LI", 
+          "endIdx": 2005, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1848, 
+          "type": "LI", 
+          "endIdx": 1935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1687, 
+          "type": "LI", 
+          "endIdx": 1848, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1591, 
+          "type": "LI", 
+          "endIdx": 1687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1591, 
+          "type": "BG", 
+          "endIdx": 2434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1591, 
+          "type": "BR", 
+          "endIdx": 1591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "U", 
+          "endIdx": 1591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "B", 
+          "endIdx": 1591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "BR", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1560, 
+          "type": "BR", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "LI", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1392, 
+          "type": "LI", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1347, 
+          "type": "LI", 
+          "endIdx": 1392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1299, 
+          "type": "LI", 
+          "endIdx": 1347, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1299, 
+          "type": "BG", 
+          "endIdx": 1560, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1299, 
+          "type": "BR", 
+          "endIdx": 1299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "BR", 
+          "endIdx": 1279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "B", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "LI", 
+          "endIdx": 1279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1151, 
+          "type": "LI", 
+          "endIdx": 1220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "LI", 
+          "endIdx": 1151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1020, 
+          "type": "LI", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "LI", 
+          "endIdx": 1020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 895, 
+          "type": "LI", 
+          "endIdx": 958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 895, 
+          "type": "BG", 
+          "endIdx": 1279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 895, 
+          "type": "BR", 
+          "endIdx": 895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "BR", 
+          "endIdx": 880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "B", 
+          "endIdx": 2563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "BR", 
+          "endIdx": 880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "BR", 
+          "endIdx": 880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 511, 
+          "type": "BR", 
+          "endIdx": 511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 511, 
+          "type": "BR", 
+          "endIdx": 511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 25, 
+          "type": "BR", 
+          "endIdx": 25, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 25, 
+          "type": "BR", 
+          "endIdx": 25, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "LI", 
+          "endIdx": 25, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Description Send CV to :Citi is running a strategic Innovation Lab in Tel Aviv,  developing advanced financial technology products within a dynamic ‘start-up like’ environment.  We are seeking a Data Scientist to join a new team that will research the opportunities and build analytics engines for Citi’s institutional clients.  Research will include analyzing market data and unstructured data as well as exploring the domain of traders’ decision making focusing on behavioral economics aspects of human trading. The ideal candidate will have experience in solving analytical problems using quantitative approaches,  a passion for data,  enthusiasm to work closely with the engineering teams on data related projects and interest in the financial domain.  As a data scientist you would have a unique opportunity to work on projects with high business impact and visibility within Citi. Job Description      Lead and be accountable for all project research stages    Formulate research problems and define a research roadmap    Conduct independent hands-on research and data analysis    Work with engineering team to implement strategies into production    Work with business partners to articulate strategies and results    Learn and implement behavioral economics methodologies  What’s in it for me?  Be part of a strong team of data scientists    Joining a rapidly growing innovation lab    Work with professional traders and a growing local community of FinTech engineers    Work within an environment which encourages and promotes personal development  Experience &amp; Qualifications M. S.  or Ph. D.  in computer science or other quantitative discipline (e. g. ,  math or statistics)   Recognized expert with significant relevant research experience in at least one of the following fields: data mining,  machine learning,  statistics,  or finance   Hands on coding knowledge and experience in Java or similar OO programming languages   Fluency with at least one scripting language such as Python or Perl   Working knowledge of SQL and NoSQL databases   Familiarity with an data mining tools such as R,  Matlab,  WEKA or SAS   Experience with time series analysis   Experience with large data sets and distributed computing tools (Map/Reduce,  Hive,  etc. )   Excellent communication skills in Hebrew and English   Creative,  innovative thinker with outstanding problem-solving skills   Finance experience or knowledge – a strong advantage  Primary Location: Israel, Tel Aviv, Tel-Aviv-YafoEducation: Doctorate DegreeJob Function: TechnologyTravel Time: NoJob ID: 15080865"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Citi", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Wherever people come together to imagine something,  create something,  build something,  we're there to help make it real.   For over 200 years.   Around the world. Citi's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.  Our core activities are safeguarding assets,  lending money,  making payments and accessing the capital markets on behalf of our clients.  We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.  We are Citi,  the global bank – an institution connecting millions of people across hundreds of countries and cities. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446061189000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:11448", 
+    "id": 95245355, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Tel Aviv,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Banking", 
+        "Commercial Banking", 
+        "Investment Banking", 
+        "Wealth Management", 
+        "Credit Cards", 
+        "Capital Markets", 
+        "Equity and Fixed Income Research", 
+        "Fixed Income Analytics and Indices", 
+        "The Yield Book", 
+        "Consumer Lending", 
+        "Cash Management", 
+        "Transaction Services"
+      ], 
+      "universalName": "citi", 
+      "companyId": 11448, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAV0AAAAJDY2YTdmODQ1LTBhMWYtNGUyZC05OWJkLTcwZGNkN2ZiMWNlZg. png"
+      }
+    }, 
+    "localizedDescription": "Wherever people come together to imagine something,  create something,  build something,  we're there to help make it real.   For over 200 years.   Around the world. \r\rCiti's mission is to serve as a trusted partner to our clients by responsibly providing financial services that enable growth and economic progress.  Our core activities are safeguarding assets,  lending money,  making payments and accessing the capital markets on behalf of our clients.  We have 200 years of experience helping our clients meet the world's toughest challenges and embrace its greatest opportunities.  We are Citi,  the global bank – an institution connecting millions of people across hundreds of countries and cities. ", 
+    "foundedYear": 1812, 
+    "formattedIndustries": [
+      "Financial Services"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Citi", 
+    "careersImage": "urn:li:media:/p/1/000/19a/044/324bb99. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMxAAAAJDVhNjBjYjJiLTQxYmYtNGFkZi1iMjI1LTEwZjlkMGFkZjVlOQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/1/000/19a/044/324bb99. png"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 38 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "38d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 28,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95245355?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. citi. com%2Fil%2Fisrael%2Ftechnology%2Fjobid8540625-data-scientist-for-analytics-team-jobs%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=-UwL&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

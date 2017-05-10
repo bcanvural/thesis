@@ -1,0 +1,82 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4147815", 
+    "expirationDate": 1451799163000, 
+    "title": "Data Scientist ,  Insights", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "JOB DESCRIPTION We are looking for an experienced and passionate data scientist to join the Insights Team.  This is a hands-on role requiring deep expertise in applying machine learning techniques to improve business objectives and drive overall usage growth.  This role will requires you to be a number crunching data scientist one minute and critically thinking through strategic issues the next.  Strong communication skills are a must as this is a cross-functional role requiring you to work with product,  engineering and business teams.  Responsibilities  -Design,  develop and deliver new models/segmentations and their extension to new markets and products to drive customer acquisition and pipeline performance  -Conduct advanced data analysis to identify trends using data mining algorithms and alert the management on risk and opportunity  -Design,  manage and complete large analytical projects to determine trends and significant data relationships,  both independently and in partnership with others.   -Convey complex analytical findings to senior stakeholders  Translate business needs into data modeling,  analytical or tool-building initiatives Requirements  -Bachelors or Masters in Engineering,  Computer Science,  Mathematics,  Statistics,  Economics or related quantitative field from a top tier university,  or equivalent practical experience  -2+ years of relevant work experience  -Experience with statistical and quantitative modeling (e. g.  regression,  classification,  clustering,  etc)  -Experience working with datasets/data warehouses.  Experience managing projects while also handling ad hoc requests  -Experience with SQL,  Python,  R,  HTML,  JavaScript,  and/or other languages  -Strong communication and interpersonal skills"
+    }, 
+    "postalCode": "123456", 
+    "jobState": "LISTED", 
+    "companyName": "Shopsense Retail Technologies (P) Ltd. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Fynd is a nearby shopping app which allows consumers to shop for lifestyle products from your favorite brands around you. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1445431689000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2894538", 
+    "id": 93745621, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mumbai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAQmAAAAJDRiYjFkMjk0LTdjODItNDM5Yy1iNDgwLTY3YjVkNWNkZThjNQ. png"
+    }, 
+    "localizedDescription": "Fynd is a nearby shopping app which allows consumers to shop for lifestyle products from your favorite brands around you. ", 
+    "company": {
+      "specialities": [
+        "Mobile", 
+        "Hyperlocal", 
+        "Fashion", 
+        "E-Commence"
+      ], 
+      "universalName": "addsale-retail-technologies", 
+      "companyId": 2894538
+    }, 
+    "canonicalName": "Shopsense Fynd", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Retail"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Retail"
+  ], 
+  "formattedPostedDaysAgo": "Posted 45 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "45d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 21,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/93745621?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-scientist-insights%2Fshopsense-retail-technologies-p-ltd%2F4147815%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=N3l4&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

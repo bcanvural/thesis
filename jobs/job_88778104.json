@@ -1,0 +1,246 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-23445", 
+    "expirationDate": 1451865271000, 
+    "title": "Data Mining Expert", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 773, 
+          "type": "BR", 
+          "endIdx": 773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 773, 
+          "type": "BR", 
+          "endIdx": 773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 735, 
+          "type": "BR", 
+          "endIdx": 735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 735, 
+          "type": "BR", 
+          "endIdx": 735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "BR", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 691, 
+          "type": "BR", 
+          "endIdx": 691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 655, 
+          "type": "BR", 
+          "endIdx": 655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 655, 
+          "type": "BR", 
+          "endIdx": 655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 602, 
+          "type": "BR", 
+          "endIdx": 602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 602, 
+          "type": "BR", 
+          "endIdx": 602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 578, 
+          "type": "BR", 
+          "endIdx": 578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 578, 
+          "type": "BR", 
+          "endIdx": 578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 423, 
+          "type": "BR", 
+          "endIdx": 423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 423, 
+          "type": "BR", 
+          "endIdx": 423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 313, 
+          "type": "BR", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 313, 
+          "type": "BR", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 301, 
+          "type": "U", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 301, 
+          "type": "B", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 301, 
+          "type": "BR", 
+          "endIdx": 301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 301, 
+          "type": "BR", 
+          "endIdx": 301, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהThe position includes performing optimization and data analysis based on machine learning and data mining techniques.  Responsibility across the entire life cycle,  including: detecting the optimization goals and factors,  data processing and analysis,  implementation and performance tracking. דרישות המשרהSumma Cum laude B. Sc.  (average above 92) in Computer Sciences / Electrical Engineering / Physics / MathematicsM. Sc.  / PHD – an advantageExperience in one or more of the following fields: statistics,  image processing,  signal processing,  data mining,  machine learningHigh mathematical skillsExperience in C++/Matlab/R development – an advantageNetworking Background – an advantageSystem Engineering Background – an advantageIndependent ,   initiative and creative"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1443507054000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 88778104, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "foundedYear": 1995, 
+    "canonicalName": "Nisha Group", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 67 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "67d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "September 29,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/88778104?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F23445%2FData-Mining-Expert&urlHash=cEg3&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,480 @@
+{
+  "jobPosting": {
+    "companyJobCode": "smartrecruiters_xml-53425431-87256990", 
+    "expirationDate": 1451761532000, 
+    "title": "Big Data Trainer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3039, 
+          "type": "BR", 
+          "endIdx": 3039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3039, 
+          "type": "BR", 
+          "endIdx": 3039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2985, 
+          "type": "LI", 
+          "endIdx": 3039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "LI", 
+          "endIdx": 2985, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "BG", 
+          "endIdx": 3039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "BR", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2789, 
+          "type": "LI", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2624, 
+          "type": "LI", 
+          "endIdx": 2789, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2479, 
+          "type": "LI", 
+          "endIdx": 2624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2479, 
+          "type": "BG", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2479, 
+          "type": "BR", 
+          "endIdx": 2479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2449, 
+          "type": "B", 
+          "endIdx": 2479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2449, 
+          "type": "BR", 
+          "endIdx": 2449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2449, 
+          "type": "BR", 
+          "endIdx": 2449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2427, 
+          "type": "BR", 
+          "endIdx": 2427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2427, 
+          "type": "BR", 
+          "endIdx": 2427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "BR", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2356, 
+          "type": "BR", 
+          "endIdx": 2356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2323, 
+          "type": "BR", 
+          "endIdx": 2323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2323, 
+          "type": "BR", 
+          "endIdx": 2323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2156, 
+          "type": "BR", 
+          "endIdx": 2156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2156, 
+          "type": "BR", 
+          "endIdx": 2156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2110, 
+          "type": "B", 
+          "endIdx": 2156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2110, 
+          "type": "BR", 
+          "endIdx": 2110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2110, 
+          "type": "BR", 
+          "endIdx": 2110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2028, 
+          "type": "BR", 
+          "endIdx": 2028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2028, 
+          "type": "BR", 
+          "endIdx": 2028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1966, 
+          "type": "BR", 
+          "endIdx": 1966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1966, 
+          "type": "BR", 
+          "endIdx": 1966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1908, 
+          "type": "BR", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1908, 
+          "type": "BR", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1714, 
+          "type": "BR", 
+          "endIdx": 1714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1714, 
+          "type": "BR", 
+          "endIdx": 1714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1651, 
+          "type": "BR", 
+          "endIdx": 1651, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1651, 
+          "type": "BR", 
+          "endIdx": 1651, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1608, 
+          "type": "BR", 
+          "endIdx": 1608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1608, 
+          "type": "BR", 
+          "endIdx": 1608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1461, 
+          "type": "B", 
+          "endIdx": 1608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1461, 
+          "type": "BR", 
+          "endIdx": 1461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1461, 
+          "type": "BR", 
+          "endIdx": 1461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1433, 
+          "type": "B", 
+          "endIdx": 1461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1433, 
+          "type": "BR", 
+          "endIdx": 1433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1433, 
+          "type": "BR", 
+          "endIdx": 1433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1419, 
+          "type": "B", 
+          "endIdx": 1433, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1419, 
+          "type": "BR", 
+          "endIdx": 1419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1419, 
+          "type": "BR", 
+          "endIdx": 1419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "BR", 
+          "endIdx": 1292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "BR", 
+          "endIdx": 1292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1053, 
+          "type": "BR", 
+          "endIdx": 1053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1053, 
+          "type": "BR", 
+          "endIdx": 1053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 929, 
+          "type": "BR", 
+          "endIdx": 929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 929, 
+          "type": "BR", 
+          "endIdx": 929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 595, 
+          "type": "BR", 
+          "endIdx": 595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 595, 
+          "type": "BR", 
+          "endIdx": 595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 393, 
+          "type": "BR", 
+          "endIdx": 393, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 393, 
+          "type": "BR", 
+          "endIdx": 393, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionAs a start-up,  we’re looking for an out-going individual who wants to do more than just train: we’re keen for you to get involved in all parts of the business and really help to grow the organisation.  However your primary role would be to deliver our training services to customers,  so either experience of this or an interest in moving into the area is essential.   You do not need any prior experience with our technologies: if you’re enthusiastic and can quickly turn theory into real-world deliverables,  we’ll provide all the necessary training and certifications.  The curriculum encompasses a range of technical and non-technical courses.  Most UK training is run from a Central London training centre,  along with a variety of other locations across Europe and further afield.  Many courses are also run privately on-site for enterprise customers,  so a willingness and ability to travel is essential. There is also the opportunity for growth into curriculum development,  for candidates who demonstrate the appropriate skills. Our Training Instructors are certified technology experts and thought-leaders who travel the world to teach extensively on Hadoop,  Cassandra and the wider big data ecosystem,  with a track record of delivering engaging,  inspiring training.  If you want to train the world in big data analytics and inspire tomorrow&apos;s thought leaders,  this is where you want to be. QualificationsWhat we&apos;re looking for:Successful Candidates Must Be Highly Motivated,  Delivery Focused And Accountable.  We Will Consider Talented Graduates With The Following Attributes• Ability to write and understand Java code• Experience as a technical instructor in any IT/software field• An infectious passion for big data,  real-time systems and other bleeding edge technologies• Strong communication &amp; interpersonal skills: able to explain concepts to all levels of audiences• Desire to share your knowledge in a training environment• Desire to work on customer and internal development projects• You must be eligible to work in the UK and travel the world without restrictionsIn Addition The Following Are Highly Desirable• Any exposure to or hands-on experience of Hadoop,  Cassandra,  Couchbase,  HBase,  MapReduce,  Pig,  Hive,  Oozie,  Flume,  or other NoSQL platforms and big data technologies• Excellent communication skills • Ability to travel around Europe regularly,  and world-wide on occasionAdditional InformationWhat&apos;s so great about us?We offer a great package; competitive salary,  annual bonus scheme,  26 days holiday (including your birthday off) and a flexible benefit offering. Not your average place to work; inspiring and passionate people,  dynamic,  relaxed and collaborative culture.  A chance for you to make your mark and shape the future. A chance to join a rapidly expanding organisation with ambitious growth targets. Big Data Partnership do not use head-hunters or recruiters and will only accept direct applications from candidates. Big Data Partnership is an Equal Opportunity Employer. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Big Data Partnership", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Big Data Partnership is the leading EMEA-based big data specialist solution provider.  Offering a combination of big data engineering,  data science,  certified training services and support,  Big Data Partnership helps customers  unlock the value in complex data. Companies are generating data at a faster rate than ever before and are continuing to outpace the growth of storage capacity.  A significant proportion of the driving force behind this explosive growth is in form of unstructured data which has been created from relatively new sources including social networks,  mobile content,  and machine data,  all of which create massive complex data sets.  In an information society where data is now the new currency,  Big Data Partnership firmly believe that making sense of this data in an economically viable way will drive new revenue streams and give customers competitive advantage that were never before possible using traditional data warehouse and business intelligence solutions. Big Data Partnership helps organisations to identify use cases to address their big data challenges and more importantly realise value from it.  This encompasses end-to-end consultancy from data strategy,  technology enablement and application of data science techniques.  Our Consultants are certified industry experts who have worked extensively with Big Data technologies and toolsets including the Apache Hadoop ecosystem,  Apache Cassandra and other NoSQL databases,  Apache Spark and search technologies including Elasticsearch to provide scalable and reliable data solutions. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "HR"
+    ], 
+    "listDate": 1447777621000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2502751", 
+    "id": 99329607, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99329607?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FBigDataPartnership%2F87256990-big-data-trainer&urlHash=v83S&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Human Resources"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAPmAAAAJGJjMDJmMDJlLWVjYjYtNDI1Ny1iZDFmLWVlYTQzZGI4ZWQ4NQ. png"
+    }, 
+    "localizedDescription": "Big Data Partnership is the leading EMEA-based big data specialist solution provider.  Offering a combination of big data engineering,  data science,  certified training services and support,  Big Data Partnership helps customers  unlock the value in complex data. \r\rCompanies are generating data at a faster rate than ever before and are continuing to outpace the growth of storage capacity.  A significant proportion of the driving force behind this explosive growth is in form of unstructured data which has been created from relatively new sources including social networks,  mobile content,  and machine data,  all of which create massive complex data sets.  In an information society where data is now the new currency,  Big Data Partnership firmly believe that making sense of this data in an economically viable way will drive new revenue streams and give customers competitive advantage that were never before possible using traditional data warehouse and business intelligence solutions. \r\rBig Data Partnership helps organisations to identify use cases to address their big data challenges and more importantly realise value from it.  This encompasses end-to-end consultancy from data strategy,  technology enablement and application of data science techniques.  Our Consultants are certified industry experts who have worked extensively with Big Data technologies and toolsets including the Apache Hadoop ecosystem,  Apache Cassandra and other NoSQL databases,  Apache Spark and search technologies including Elasticsearch to provide scalable and reliable data solutions. ", 
+    "company": {
+      "specialities": [
+        "Big Data", 
+        "Data Science", 
+        "Machine Learning", 
+        "Hadoop", 
+        "Hive", 
+        "PIG", 
+        "MapReduce", 
+        "Mahout", 
+        "Consulting", 
+        "Training", 
+        "YARN", 
+        "HBase", 
+        "Hortonworks", 
+        "MapR", 
+        "IBM BigInsights", 
+        "NoSQL", 
+        "Cassandra", 
+        "Apache Spark", 
+        "Apache Storm", 
+        "Elasticsearch"
+      ], 
+      "universalName": "big-data-partnership", 
+      "companyId": 2502751, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAVOAAAAJDQ1ZGNkMTcwLWUxMjgtNDI5OC1hNjEwLTBiZTZkMGJmODJmYg. png"
+      }
+    }, 
+    "canonicalName": "Big Data Partnership", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

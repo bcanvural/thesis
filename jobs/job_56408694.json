@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/56408694", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Profile: You have a Master degree or Bachelor degree in Informatics You have a hands-on attitude,  proven problem solving and team work skills You have good communication skills and you are capable of liaising with colleagues as well as clients You are fluent in Dutch,  French and English You are flexible and apt to work in a continuously challenging and changing environment You are eager to work on cross-border projects that will require some travelling You are eager to learn different BI/DWH/Nextgen big data technologies and will get an in-depth training in our BI Academy Technical Knowledge: You have experience and/or interest in: Hadoop and MapReduce internals Cloudera,  Hortonworksor MapR distributions HBase or Cassandra RDBMS,  SQL and NOSQL databases HD Insight,  InfoSphere BigInsights or Lily ElasticSearch MongoDB", 
+  "following": false, 
+  "companyDescription": "CSC is a global leader in providing technology enabled business solutions and services.  CSC is more than just a place to work.  It’s a world in which you have the opportunity to use your talents to deliver tangible results for major clients.  CSC is like a campus,  a state of mind,  where you get the professional freedom to develop yourself as an individual and as a team member.  With 70. 000 employees world-wide,  our single mission is to put IT to work in practical,  bottom-line ways.  In Belgium,  CSC brings together the combined strengths of 500 professionals who all share the same client-intimate approach: we listen to our clients,  respect their culture and their way of working,  and work with them as a true team. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "CSC", 
+  "canFollow": false, 
+  "companyId": "1120", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "CSC", 
+    "title": "Next-Gen Big Data & Analytics Consultant"
+  }, 
+  "description": "You participate in workshops for business requirements and are able to translate these requirements into solution components You focus on collecting and analyzing internal and external data to generate knowledge and value for the organization You are eager to turn raw data in strategic information and propose creative solutions for presenting dashboards,  KPIís and operational reports.  You will be part of CSCís Big Data competence center and take up a challenging role in our Big Data projects at our key clients in different sectors like insurance,  banking,  public sector,  utilities,  manufacturing You support in determining Big data strategy,  select tools and techniques to devise the solution You provide business process decision support at strategic,  tactical and operational level"
+}

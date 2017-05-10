@@ -1,0 +1,158 @@
+{
+  "jobPosting": {
+    "companyJobCode": "europa_eu-259003", 
+    "expirationDate": 1451688037000, 
+    "title": "Data scientist (m/w) / Data scientist (m/w)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1542, 
+          "type": "B", 
+          "endIdx": 1555, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1291, 
+          "type": "LI", 
+          "endIdx": 1327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1278, 
+          "type": "LI", 
+          "endIdx": 1288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1275, 
+          "type": "BG", 
+          "endIdx": 1329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1231, 
+          "type": "LI", 
+          "endIdx": 1258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1224, 
+          "type": "LI", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1221, 
+          "type": "BG", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1110, 
+          "type": "B", 
+          "endIdx": 1123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 686, 
+          "type": "LI", 
+          "endIdx": 1107, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "LI", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 463, 
+          "type": "LI", 
+          "endIdx": 563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BG", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 391, 
+          "type": "B", 
+          "endIdx": 406, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "THE BEST WAY FOR CONSULTANT TO DO BUSINESS.  FIND A JOB DIRECTLY WITH THE END CUSTOMER We simply want to make sure you find the best jobs,  wherever you want,  in the sector you want,  exclusively and directly with the end Customer.  You want to become a freelancer,  but you are not sure you will find any missions? Don’t worry,  you can check the missions and find job via an affiliated partner.  Job description   Within the Marketing Analytics and Research team:      Participate to the Run activities of the team (data management,  data requests,  campaign process,  …)    Participate to the exploration and exploitation of transactional data to create value to the business or the clients    Understand the environment and participate to the creation of innovative project that brings unexploited value to the business or the clients Share knowledge/experience with the rest of the team both in data / project management as well as in advanced data mining methods.  Education Master degree in Engineering,  Mathematics,  IT,  Economics or Business administration.  English Good written and spoken communication skills   Job required   Experience  Experience Several years of experience with SAS  Technical Experience   Mandatory:      SAS    Quantitative methodologies    Preferable:      R,  Python    Customer segmentation methodologies   Business Experience   Mandatory: Marketing Customer journey / customer experience topics   Preferable: Innovation &amp; Big Data Financial institutions http://www. forms. fortis. com/ExternalStaff/pdf/6566DDSAS. pdf Interested ?  You can send your application directly through our website http://www. forms. fortis. com/ExternalStaff/pdf/6566DDSAS. pdfAttention ! It's not necessary to contact Actiris for this job offer.  The ad was written by the employer.  Actiris is not responsible for its content or a possible violation of the legislation in order.  If you have any remarks concerning this job offer,  please inform Actiris - MCS Employers,  Anspachlaan 65,  1000 Brussels. "
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "CROWDFLY", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Are you a freelancer and looking for new business opportunities? Crowdfly puts you directly in contact with end customers. No more multiple interviews or time-consuming negotiations,  you negotiate your prices and terms. Mission:Easy access to market for freelancers.  Expand business opportunities for freelancers.  Negotiate directly with the mission customerAccess to national and international markets freelancers normally don’t have access toBe informed in real time about the position of your offer and adapt where necessary to improve your ranking Reduce your cost of exploring new business opportunitiesReduce your invoice charges with a globalized invoice document Remain informed in real-time about decisions taken by the mission requestorsAccess to national and international candidates customers do not have access to"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1445982033000, 
+    "countryCode": "be", 
+    "company": "urn:li:company:5024407", 
+    "id": 95039221, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Brussels,  BE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/95039221?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fec. europa. eu%2Feures%2Feures-searchengine%2Fpage%2Fmain%3Flang%3Den%23%2FfullscreenJvView%3FuuId%3D571c6c622ed942398f8a0d12c53e102e%26jvId%3D259003%26pesId%3D63&urlHash=nmoT&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 39 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "39d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2014, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/005/0a7/097/171d75c. png"
+    }, 
+    "localizedDescription": "Are you a freelancer and looking for new business opportunities? \rCrowdfly puts you directly in contact with end customers. \rNo more multiple interviews or time-consuming negotiations,  you negotiate your prices and terms. \r\rMission:\r\rEasy access to market for freelancers.  \rExpand business opportunities for freelancers.  \rNegotiate directly with the mission customer\rAccess to national and international markets freelancers normally don’t have access to\rBe informed in real time about the position of your offer and adapt where necessary to improve your ranking \rReduce your cost of exploring new business opportunities\rReduce your invoice charges with a globalized invoice document \rRemain informed in real-time about decisions taken by the mission requestors\rAccess to national and international candidates customers do not have access to", 
+    "company": {
+      "universalName": "crowdfly", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/0b7/237/1713969. png"
+      }, 
+      "companyId": 5024407
+    }, 
+    "canonicalName": "Crowdfly", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "October 27,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

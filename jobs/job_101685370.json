@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "jobweb kenya", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "jobwebkenya-data-scientist-job", 
+    "title": "Data Scientist Job", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101685370, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. jobweb. fr", 
+    "logo": "urn:li:media:/p/4/005/025/1bd/3413150. png", 
+    "universalName": "jobweb", 
+    "companyId": 2832868
+  }, 
+  "description": "    Job Description    Vacancy: Data Scientist    The Data Scientist will be a member of the Sales and Operations Team.     In partnership with the operations team,  the incumbent is required to    develop data-based customer and business insights,  through in depth    analysis of data sets and development of predictive models.     The insights will help drive business strategy regarding the sale and    use of our toilets and to optimize operational processes.  Role &    Responsibilities    Contribution to growth strategies: This will involve taking full    responsibility for all in-field primary research/data collection as    well as utilizing all available data sources to develop  models    Development of a model that generates relevant business insights: For    example,  the top-line project will focus on modeling the purchasing    behavior of our main customers and to develop key profiles of our    target markets.     The bottom-line project will focus on reducing the costs of our    logistics through optimization of waste collection system.  Education &    Experience       Master’s degree (or equivalent work experience) in a pure or        applied numeric discipline (e. g.  mathematics,  economics,  political        science,  psychology,  engineering)       Proven ability to manage,  manipulate and analyse large datasets       Proven experience of modeling datasets     Knowledge       Advanced knowledge of statistical techniques including multivariate        regression,  GLM,  factor analysis       Knowledge of behavioral economics or consumer psychology       Ability to use statistical packages such as SPSS or Stata       Ability to model statistical data using Arc GIS     Skills       Ability to train colleagues on the use and application of advanced        analytical methods       Willing to contribute to team ethos while leading certain parts of        projects       A drive for continuous improvement of individual skills,  team        capacity and organization knowledge     Core Competencies    Authenticity: Personally invests in creating a culture of equality for    all team members,  customers,  and others who interact with the    organization.  Building Value for stakeholders: Takes responsibility to    make sure that teammates believe in the vision and ensures alignment    between teammates’ duties and actions and the organization’s vision    Collaboration & Teamwork: Understands their team’s level of influence    so prioritizes listening to others and allowing others to share their    views first.  Encourages others to challenge their views    Pragmatic Innovation: Provides feedback to teams about viability of    potential innovations based on what is desired by the organization and    breaks down barriers as necessary    Pursuing Excellence: Remains focused on achieving results,  even in the    face of significant obstacles,  such as uncertain outcomes,  strong    internal or external opposition,  market changes and organizational    roadblocks", 
+  "companyDescription": "      jobweb kenya    Jobweb. fr est un site web d’emploi généraliste de type Freemium qui    allie simplicité,  ergonomie,  précision et efficacité.     Développé par des experts du conseil en recrutement,  Jobweb. fr vous    permet de réduire considérablement vos coûts liés au sourcing de    candidats.     Vous avez une offre de stage,  un CDD ou un CDI ? diffusez-la    gratuitement sur www. jobweb. fr !    Vous souhaitez améliorer la visibilité de votre offre ? des options    sont à votre disposition (à partir de 15 € HT).     Nous innovons sur le marché du recrutement avec notre formulaire de    matching.  Il vous permettra de prioriser les candidatures en fonction    des compétences que vous recherchez.     Jobweb s’adresse aux candidats tout au long de leur vie étudiante    (stage,  alternance…) et professionnelle (CDD,  CDI,  intérim…). ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

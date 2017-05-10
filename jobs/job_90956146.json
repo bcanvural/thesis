@@ -1,0 +1,289 @@
+{
+  "jobPosting": {
+    "companyJobCode": "8999", 
+    "expirationDate": 1451113177000, 
+    "title": "Data Scientist - London", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 779, 
+          "type": "BR", 
+          "endIdx": 779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 779, 
+          "type": "BR", 
+          "endIdx": 779, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "BR", 
+          "endIdx": 718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "BR", 
+          "endIdx": 718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 717, 
+          "type": "BR", 
+          "endIdx": 717, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 717, 
+          "type": "BR", 
+          "endIdx": 717, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 643, 
+          "type": "LI", 
+          "endIdx": 717, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 594, 
+          "type": "LI", 
+          "endIdx": 643, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 572, 
+          "type": "LI", 
+          "endIdx": 594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 528, 
+          "type": "LI", 
+          "endIdx": 572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "LI", 
+          "endIdx": 528, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "B", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "BR", 
+          "endIdx": 437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 437, 
+          "type": "BR", 
+          "endIdx": 437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 436, 
+          "type": "BR", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 436, 
+          "type": "BR", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 435, 
+          "type": "BR", 
+          "endIdx": 435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 306, 
+          "type": "BR", 
+          "endIdx": 306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 306, 
+          "type": "BR", 
+          "endIdx": 306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 305, 
+          "type": "BR", 
+          "endIdx": 305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 305, 
+          "type": "BR", 
+          "endIdx": 305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 119, 
+          "type": "BR", 
+          "endIdx": 119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 119, 
+          "type": "BR", 
+          "endIdx": 119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 50, 
+          "type": "BR", 
+          "endIdx": 50, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 50, 
+          "type": "BR", 
+          "endIdx": 50, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "LI", 
+          "endIdx": 50, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Data Scientists- £40-80k - London  New positions for great data scientists looking to take your career!Depending on industry and experience,  we have looking for a variety of different skilled professionals with a strong mathematical and statistical background,  or data analysis experience.  You will need to display use of the following technical tools (R,  Python,  SQL,  SAS,  AWS,  Machine Learning,  Big Data,  Statistics).   Requirements Data Science background - R,  Python,  SQL,  SAS,  AWS,  Machine Learning,  Big Data Visualisation skills - Tableau,  R,  Qlikview Commercial experience Excellent communication and client-facing skills An open minded and determined professional with an innovative personality Please email – peter. tam@parallelconsulting. com – CV required"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Parallel Consulting", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Parallel Consulting is an award winning,  specialist IT Recruitment Consultancy which consistently delivers high quality and enduring staffing solutions to companies throughout the UK and Europe.  These include Contract/Interim solutions,  Permanent/Contingency and Search &amp; Selection.  Our experienced staff are able to build valuable,  long-term relationships with clients and candidates which provide the bedrock for our success and is,  in the eyes of many,  a real differentiator in our approach to their business.  Our expertise is well recognised in delivering tailored recruitment programmes for companies within the Financial Services,  Banking,  Telecoms,  Consultancy,  Media and E-Commerce sectors.  We encourage business enquiries from prospective clients or IT specialists at any time.  Simply contact via our website: www. parallelconsulting. com or office - 020 3326 4118 Parallel Consulting is currently recruiting staff with experience of contract or permanent recruitment sales and actively encourage approaches from interested or inquisitive parties.  If you’ve always wondered where that truly rewarding,  fun and interesting career opportunity lay…it’s here ! So,  get in touch and find out where a journey with us could take you…"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444262735000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:30099", 
+    "id": 90956146, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2004, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/198/3af/2227d99. png"
+    }, 
+    "localizedDescription": "Parallel Consulting is an award winning,  specialist IT Recruitment Consultancy which consistently delivers high quality and enduring staffing solutions to companies throughout the UK and Europe.  \r\rThese include Contract/Interim solutions,  Permanent/Contingency and Search & Selection.  \r\rOur experienced staff are able to build valuable,  long-term relationships with clients and candidates which provide the bedrock for our success and is,  in the eyes of many,  a real differentiator in our approach to their business.  \r\rOur expertise is well recognised in delivering tailored recruitment programmes for companies within the Financial Services,  Banking,  Telecoms,  Consultancy,  Media and E-Commerce sectors.  \r\rWe encourage business enquiries from prospective clients or IT specialists at any time.  Simply contact via our website: \r\rwww. parallelconsulting. com or office - 020 3326 4118\r\r\r Parallel Consulting is currently recruiting staff with experience of contract or permanent recruitment sales and actively encourage approaches from interested or inquisitive parties.  If you’ve always wondered where that truly rewarding,  fun and interesting career opportunity lay…it’s here ! So,  get in touch and find out where a journey with us could take you…", 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "interim placements", 
+        "technology"
+      ], 
+      "universalName": "parallel-consulting", 
+      "companyId": 30099, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAANxAAAAJDg2NzhmZDUxLTg2MDEtNGVlZi1iMWVmLWI5YTFiNWIxYzk3NA. png"
+      }
+    }, 
+    "canonicalName": "Parallel Consulting", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 58 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "58d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 8,  2015", 
+  "formattedExpireDate": "December 26,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/90956146?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. parallelconsulting. com%2Flive-vacancies%2Fdata-scientist-london&urlHash=XF8J&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

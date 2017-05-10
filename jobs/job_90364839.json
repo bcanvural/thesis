@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90364839", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "You have a master + 2-5 years of working or a PhD (it's a real plus) with a solid background in statistical learning,  image computing,  data science,  optimization methods or related fields.    You are motivated by working at the interface between mathematics,  computer science,  and by the transfer of the output of front-end research to the clinics and the industry.    You are interested in working on major public health issues,  and to work on projects that may change the way we treat patients with brain diseases.    You have good relational and communication skills with scientists from various disciplines and you appreciate a collaborative team.    You are self-directed in identifiying and adressing key issues   You are fluent in English (writing and speaking).    Inria's disabilities policy: All positions at the institute are open to disabled people.  For more information and to apply,  contact Stanley. Durrleman@inria. fr", 
+  "following": false, 
+  "companyDescription": "INRIA,  is a research institute dedicated to digital sciences.  It promotes \"the scientific excellency to serve technology transfer. \" INRIA counts 2, 700 employees from the best universities in the world.  They all  address the multidisciplinary and applicative challenges of digital transition,  computer and mathematical sciences.  The open and agile model of Inria allows it to explore original paths with industrial and academic partners.  INRIA is proud of its many  innovations  that create values and jobs. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Inria", 
+  "canFollow": false, 
+  "companyId": "164385", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Inria", 
+    "title": "Data Scientist R&D engineer (F/M),  in Statistical Learning and Medical Imaging (CDD 2-5 ans)"
+  }, 
+  "description": "Place of work: Hôpital Pitié Salpêtrière,  47-83 Boulevard de l'Hôpital,  75013 Paris Contract duration : 2 to 5 years Expected starting date : january or february 2016 Gross salary per month : from 2600 euros.  The salary is based both on the professional expertise and the diploma level.  Context Research domain (Inria) : Digital Health,  Biology and Earth Research lab.  : ARAMIS Contact : Stanley Durrleman (either LinkedIn or email @inria. fr)   Keywords: statistical learning,  data science,  medical imaging  Context The ARAMIS lab within INRIA is located at the Brain and Spine Institute (www. icm-institute. org),  one of the major research institute for neurosciences.  At the heart of the Pité-Salpêtrière hospital in Paris,  the team benefits from a stimulating research and clinical environment.  It is one of the few places in the world where you can contribute to the coming era of data science in medicine.  Join a multi-cultural and enthusiast team and learn from renowned researchers in data science and clinical experts in neurology and neuroradiology.  Your mission is to develop compter-aided tools for the diagnosis,  prognosis and monitoring of neurological diseases.  These tools will exploit large neuroimaging and clinical data sets with statistical methods to make prediction on patients disease progression.  The goals are,  in absence of known reliable biomarkers of most brain diseases,  to (1) provide clinicians with new tools for the early diagnosis and the monitoring of their patients,  (2) offer new ways to assess treatment efficacy,  by the mean of front-end statistical learning techniques. "
+}

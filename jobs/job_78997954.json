@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/78997954", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "About the Position As a Java Software Developer you will primarily work on new features and designs for our products,  often taking a technical or project leading role.    You will join a strong team of developers,  in a relaxed,  friendly,  but technically challenging area of the business: our projects range from pure R&amp;D to major new product developments and enhancements.  They are built on modern,  cutting-edge platforms such as Lucene and Hadoop.      For example our data analytics systems ingest up to 1 million records per second into massively-scalable storage,  and our content search tools handle multiple languages and sources.    Skills &amp; Experience:   Extensive experience of software development in Java.  Experienced in developing using agile methods,  source control,  continuous integration,  Spring,  Eclipse and Maven.  Knowledge of some of the following technologies/skills would be beneficial but is not mandatory: Hibernate,  Spring/MVC,  Spring Integration,  MySQL,  Oracle,  Lucene,  Hadoop,  Multi-threading,  Networking (HTTP,  TCP,  UDP etc. ),  SANs and distributed storage,  HTML,  CSS,  JavaScript,  JQuery,  performance tuning (particularly using YourKit),  Linux.    We look forward to hearing from you!", 
+  "following": false, 
+  "companyDescription": "Optimus Search is a recruitment company that supplies high class talent to companies in Europe.  With 10 years of expertise working with some of the biggest names in the industry we know what makes a recruitment company successful – “understanding of our clients’ needs”.    We have broken our business down in to three separate divisions in order to make sure it is clear to you,  as a client or as a candidate,  as to exactly what markets and therefore what skills it is we recruit for.  The Three Divisions are as follows:   Optimus Data &amp; Technology Optimus Engineering Optimus Life Sciences   Our range of services includes contingency search,  executive search and contract recruitment.    With various awards to our name,  including the Virgin Fast track 100,  the Optimus Search brand is recognised as a recruitment company that will deliver on its promises. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Optimus Search", 
+  "canFollow": false, 
+  "companyId": "1592017", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Optimus Search", 
+    "title": "Senior Software Developer (Big Data: Java,  Hadoop)"
+  }, 
+  "description": "Senior Software Developer (Big Data: Java,  Hadoop)     Optimus Search has a great opportunity for a Senior Java Developer to join a cutting edge R&amp;D organisation based in the beautiful city of Munich.    This role is right for an engineer who wants to work on different challenges every day – this company is a globally recognised R&amp;D leader and builds products and services that cross multiple industry and market segments.    Famous for creating some of the most pioneering technologies in computer science and beyond,  you should join this company if you want the chance to work on some truly cutting edge work.    On top of that they have offices situated in the heart of Munich,  will pay in line with the highest in the market and offer you the long term career development that will still keep you excited in 10 years time.  They will also pay a competitive salary up to €80, 000.    Interested? Please read on and then send us your CV!"
+}

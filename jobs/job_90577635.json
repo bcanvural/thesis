@@ -1,0 +1,224 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-23386", 
+    "expirationDate": 1452027217000, 
+    "title": "Senior Data Scientist for Ad Optimization", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 889, 
+          "type": "BR", 
+          "endIdx": 889, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 889, 
+          "type": "BR", 
+          "endIdx": 889, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 715, 
+          "type": "BR", 
+          "endIdx": 715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 715, 
+          "type": "BR", 
+          "endIdx": 715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 590, 
+          "type": "BR", 
+          "endIdx": 590, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 590, 
+          "type": "BR", 
+          "endIdx": 590, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 473, 
+          "type": "BR", 
+          "endIdx": 473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 473, 
+          "type": "BR", 
+          "endIdx": 473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 394, 
+          "type": "BR", 
+          "endIdx": 394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 394, 
+          "type": "BR", 
+          "endIdx": 394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 339, 
+          "type": "BR", 
+          "endIdx": 339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 339, 
+          "type": "BR", 
+          "endIdx": 339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 327, 
+          "type": "U", 
+          "endIdx": 339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 327, 
+          "type": "B", 
+          "endIdx": 339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 327, 
+          "type": "BR", 
+          "endIdx": 327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 327, 
+          "type": "BR", 
+          "endIdx": 327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 212, 
+          "type": "BR", 
+          "endIdx": 212, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 212, 
+          "type": "BR", 
+          "endIdx": 212, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהRapidly develop a deep understanding of the quantitative methodologies and implementation details behind existing machine learning algorithms in place,  and the currently-planned roadmap of enhancementsLead optimization effort for introducing new algorithms to platform with eye towards ad performance and scalabilityדרישות המשרהAdvanced degree in Computer Engineering or Mathematics. 4+ Years prior experience developing Ad Optimization for Ad Network or ExchangeExperience in building architecture and implementing robust high scale and high volume optimized Ad serving platform. Hands on experience with machine learning,  predictive modeling,  and statistical analysis techniques in a business environmentExperience working with large datasets,  data storage &amp; distribution,  and data processing &amp; querying methods &amp; software in relational databases as well as Big data"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1444103058000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 90577635, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "51-200 employees", 
+    "hasPaidLcp": false, 
+    "foundedYear": 1995, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanySize": "51-200"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 60 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "60d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 6,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/90577635?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F23386%2FSenior-Data-Scientist-for-Ad-Optimization&urlHash=0cLk&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

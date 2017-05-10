@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/75879592", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "You will have: Over 2 years of experience in a Data Scientist role Proficiency in Python,  Java,  or similar Comfortable building and deploying production models A technical background,  for example a BS,  MS,  PhD,  or similar work experience Driven to learn fast,  be creative,  and win as a team Bonus points: Ability to write production quality code Experience with distributed computing frameworks like Hadoop or Spark", 
+  "following": false, 
+  "companyDescription": "Be a part of a fast-growing company that is using technology to improve the daily lives of millions of Americans! LendUp is looking for a backend software developer to join its world-class engineering team.  We are an early stage startup funded by Google Ventures,  Y-Combinator,  Kleiner Perkins,  Andresseen Horowitz,  QED Investors,  Yuri Milner’s Startfund,  Data Collective,  Thomvest Ventures and a bunch of awesome angels.  Our vision of redefining the billion dollar payday lending market has been featured in CNN,  Techcrunch,  AllThingsD,  NPR,  Inc. ,  and Venturebeat,  among others.  Plus,  we offer awesome perks: Free lunch and lots of free healthy snacks.  An open vacation policy.  We trust your judgement.  Whatever equipment you need to get the job done.  Build your own setup! Competitive salary and equity packages.  Health,  dental,  and vision benefits.  Weekly happy hours.  Beautiful exposed brick office.  Centrally located in downtown San Francisco close to public transportation. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "LendUp", 
+  "canFollow": false, 
+  "companyId": "2871792", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "LendUp", 
+    "title": "Data Scientist"
+  }, 
+  "description": "You’ll power decisions at the core of LendUp on lending,  growth,  ops,  and more.  We want you to apply the greatest machine learning models,  create the most clever hacks,  design the best architectures,  and help us find a way to help the tens of millions of Americans banks won’t lend to.  You’ll have the chance to: Go end-to-end and take models from prototype to production Build algorithms that touch the cutting edge of machine learning Work across the entire company,  from listening to customers to pitching ideas to the CEO Wrangle data and find solutions regardless of speed or scale — everything is in play,  from memcache,  to relational d atabases,  to distributed queues and databases Learn from some of the smartest,  most experienced,  scientists and engineers in the world"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Okta Resourcing", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "s1jobs-599212702", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101628934, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. oktaresourcing. com", 
+    "logo": "urn:li:media:/p/4/005/0ab/3e6/3d47f80. png", 
+    "universalName": "okta-resourcing", 
+    "companyId": 9237205
+  }, 
+  "description": "     This is a newly created opportunity for a highly talented Data    Scientist/ Statistical Analyst to join a global Master Data Management    Solutions Company as it undertakes a period of considerable growth both    in the UK and US.     The key focus of this role it work alongside the Product Consultancy    team analysing customer data and identifying data quality challenges    and anomalies.     The Data Scientist will also be required to perform exploratory data    analysis,  develop machine learning models,  evaluate models and writes    concise reports for consumption by customers and internal Consultants.     Candidates are required to have extensive experience solving analytical    problems using quantitative approaches and be comfortable manipulating    and analysing complex,  medium-volume and high-dimensionality data from    varying sources.  Experience of Data mining to prepare data for    consumption by data matching algorithms and a passion for empirical    research is essential.     Candidates should have a solid background in mathematics and statistics    combined with a familiarity with relational databases and SQL,  expert    knowledge of analysis tools such as R,  Matlab,  or SAS and experience    working with large data sets,  experience working with distributed    computing tools a plus.     Additional experience of data matching algorithms and working with    demographic and general population data would be particularly    attractive.     This is a demanding,  exciting and rewarding role with a company who has    an excellent reputation as an employer and solution provider and who    can offer real career progression opportunities for driven,  talented    people.     If you would like further information on this position please send a    copy of your most up to date cv to kari-ann@oktaresourcing. com    DATA SCIENTIST / STATISTICIAN/ DATA ANALYSIS / DATA MINING /    DIMENSIONAL DATA / SQL", 
+  "companyDescription": "      Okta Resourcing    We are a team of big-picture thinkers who live,  eat and sometimes even    dream about recruitment.  From day one our ambition has been to build    great relationship with our clients and our candidates.  And we've been    doing just that since 2001.     Many of our clients were once candidates we placed in roles that took    their career from strength to strength.  We’ve helped major corporates    strengthen their existing teams and we also work with start-ups    including many that have gone on to grow their workforce with our help.     Whatever your current position we'd love to be part of your story    Follow us on Twitter @oktaresourcing or find us on Facebook. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

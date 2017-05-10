@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "ID Analytics", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "careers-idanalytics-2419", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102090330, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      4
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. idanalytics. com", 
+    "logo": "urn:li:media:/p/5/005/05b/388/099ace5. png", 
+    "universalName": "id-analytics", 
+    "companyId": 164286
+  }, 
+  "description": "    The Data Scientist will be part of a team responsible for the    development of ID Analytics’ advanced technologies in statistical score    modeling,  score model development and deployment,  large scale database    analysis and statistical algorithms.  This position includes devising    new approaches to solving difficult statistical modeling problems.   The    Data Scientist will resolve problems or coordinate score model design    architecture and may require frequent client interaction to complete    the deliverables.        Analysis,  design,  development,  test,  troubleshooting and        documentation of complex data systems that may involve one or more        of the following: predictive score models,  feature extraction,         data-driven analysis,  application of machine learning algorithms,         decision making and related utilities.        Completing written documentation and reports of results.   This will        take the form of business reports,  internal technology white papers        and statistical system documentation.        Devise new algorithmic approaches to solving difficult quantitative        problems.        Adopt new tools and algorithms effectively to improve model        performance.        Work independently on complex statistical score modeling and        analysis problems with very large and complex data structures.        Design data experiments to verify assumptions and hypothesis.        Experiment with new algorithms and analytical approaches and report        on the impact to model performance.        Other duties as assigned.         Master’s degree in a relevant technical discipline (Math,         Engineering,  Computer Science,  Statistics or similar field) with at        least 3 years of job experience or Bachelor’s degree in a relevant        technical discipline with 5-7 years of job experience.   PhD in a        relevant technical discipline preferred.        At least 2 years of experience with Object-Oriented programming        languages.        1-2 years of experience with Unix/Linux system architecture and        command line tools.        1-2 years of experience with scripting languages such as python,         awk or perl       Experience with statistical or scientific computing packages such        as MATLAB,  R or SAS       Strong interpersonal and communication skills (both written and        oral) including the ability to communicate complex        technical/statistical concepts to a non-technical audience.      Preferred Skills       Prior statistical score modeling and/or machine learning        experience.        Experience and/or proficiency in emerging big data analytics tools        and architecture.        Experience with distributed computing systems,  noSQL and Hadoop        based technologies       Fraud and risk management industry experience in developing scoring        models from very large data sets.        Experience with the use of Java for delivering high-speed,  large        scale data modeling.        Experience with data visualization technologies such as d3,         matplotlib,  Tableau       Knowledge and/or experience with large scale Convolutional Neural        Network will be plus.      This brief summary is not an all-inclusive description of job duties.     Other job duties and responsibilities may also be assigned by the    incumbent’s supervisor at any time based upon Company need.     ID Analytics,  Inc.  is an Equal Opportunity Employer,     AA/M/F/IWD/Protected Veterans. ", 
+  "companyDescription": "      ID Analytics    ID Analytics is a leader in consumer risk management with patented    analytics,  proven expertise and real-time insight into consumer    behavior.  By combining proprietary data from the ID Network®—one of the    nation’s largest networks of cross-industry consumer behavioral    data—with advanced science,  ID Analytics provides in-depth visibility    into identity risk and creditworthiness.  Every day,  many of the largest    U. S.  companies and critical government agencies rely on ID Analytics to    make risk-based decisions that enhance revenue,  reduce fraud,  drive    cost savings and protect consumers.  Based in San Diego,  California,  ID    Analytics is a wholly-owned subsidiary of LifeLock,  Inc.  Please visit    us at www. idanalytics. com.     Winner of the 2014 Agile Team of the Year Award from Scrum Day San    Diego. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

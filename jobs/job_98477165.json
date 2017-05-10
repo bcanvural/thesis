@@ -1,0 +1,344 @@
+{
+  "jobPosting": {
+    "companyJobCode": "itjobs_pt-138280", 
+    "expirationDate": 1452006364000, 
+    "title": "Big Data Scientist (m/f)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1800, 
+          "type": "BR", 
+          "endIdx": 1800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1800, 
+          "type": "BR", 
+          "endIdx": 1800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1709, 
+          "type": "BR", 
+          "endIdx": 1709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1709, 
+          "type": "BR", 
+          "endIdx": 1709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1647, 
+          "type": "BR", 
+          "endIdx": 1647, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1563, 
+          "type": "BR", 
+          "endIdx": 1563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1507, 
+          "type": "BR", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1507, 
+          "type": "BR", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1497, 
+          "type": "U", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1497, 
+          "type": "B", 
+          "endIdx": 1507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1497, 
+          "type": "BR", 
+          "endIdx": 1497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1497, 
+          "type": "BR", 
+          "endIdx": 1497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1387, 
+          "type": "BR", 
+          "endIdx": 1387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "BR", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1256, 
+          "type": "B", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1256, 
+          "type": "BR", 
+          "endIdx": 1256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1256, 
+          "type": "BR", 
+          "endIdx": 1256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1089, 
+          "type": "BR", 
+          "endIdx": 1089, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "BR", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "BR", 
+          "endIdx": 958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "BR", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 792, 
+          "type": "BR", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 792, 
+          "type": "BR", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 763, 
+          "type": "U", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 763, 
+          "type": "B", 
+          "endIdx": 792, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 763, 
+          "type": "BR", 
+          "endIdx": 763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 763, 
+          "type": "BR", 
+          "endIdx": 763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "BR", 
+          "endIdx": 718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 593, 
+          "type": "BR", 
+          "endIdx": 593, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 502, 
+          "type": "BR", 
+          "endIdx": 502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 336, 
+          "type": "BR", 
+          "endIdx": 336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 336, 
+          "type": "BR", 
+          "endIdx": 336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 239, 
+          "type": "U", 
+          "endIdx": 336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 239, 
+          "type": "B", 
+          "endIdx": 336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 239, 
+          "type": "BR", 
+          "endIdx": 239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 239, 
+          "type": "BR", 
+          "endIdx": 239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 238, 
+          "type": "BR", 
+          "endIdx": 238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 238, 
+          "type": "BR", 
+          "endIdx": 238, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "BR", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Aptoide is looking for a Data Scientist to work on challenging big data problems through the use of statistics and predictive analytics techniques. We are looking for people able to extract meaning and interpretation from data.  Contribute To The Product Strategy,  Influence The Product Roadmap,  And Guide Product Decisions By    -Accessing and analysing data to generate insights and design the systems to make proactive recommendations to apps users,  facilitating the app discovery process;    -Design and contribute to the AWS infrastructure architecture used for storing the data    -Working closely with other Aptoide teams to enhance anti-malware system,  providing predictive Big Data analytics for it;    -Providing Business Intelligence insightsDesired Skills And Experience    -Strong programming background with languages such as Java,  C++, Python etc ;    -Interest and passion for big data technologies (e. g. ,  Hadoop,  Mahout,  Pig,  Hive);    -Experience with Apache Mahout,  LensKit or similar;    -Background working in cloud environments – AWS,  Rackspace,  Azure,  etc ;    -MSc or PhD in a quantitative discipline: Computer Science,  Statistics,  Applied Mathematics,  Operations      Research,  Engineering,  Economics,  Social Sciences etc. Offered conditionsWith amazing team,  unique ideas and stunning technology,  we are defining the future of Android marketplace today. Does the idea of data exploration and providing information for strategic decisions attract you? Come join us!We Provide       -Attractive package of salary and fringe benefits       -Interaction with partners and clients worldwide,  from China to Saudi Arabia.        -Integration in a young team and a friendly environmentTell us what is your motivation to work with us and send us your CV to to [email protected]"
+    }, 
+    "postalCode": "1600", 
+    "jobState": "LISTED", 
+    "companyName": "Aptoide", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Aptoide is an Android marketplace for applications with multiple stores managed by our partners and clients.  Aptoide offers not only a main store but also the possibility for any user to create and manage its own store.  This unique approach to the apps marketplace ecosystem allows rapid growth founded on users’ collaborative work.  In fact,  it ensures greater diversity of applications and better capacity for dissemination and propagation of Aptoide among new users. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447309602000, 
+    "countryCode": "pt", 
+    "company": "urn:li:company:2912705", 
+    "id": 98477165, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Lisbon,  PT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Computer Software"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Aptoide is an Android marketplace for applications with multiple stores managed by our partners and clients.  \r\rAptoide offers not only a main store but also the possibility for any user to create and manage its own store.  This unique approach to the apps marketplace ecosystem allows rapid growth founded on users’ collaborative work.  In fact,  it ensures greater diversity of applications and better capacity for dissemination and propagation of Aptoide among new users. ", 
+    "foundedYear": 2010, 
+    "canonicalName": "Aptoide", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXTAAAAJDIwZjE1OWMyLTk1MjItNGMxOC05MThlLWU4ZTQzMjRkZTZiNA. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Software", 
+        "Android Apps Distribution", 
+        "Self-care process", 
+        "Android Market Management"
+      ], 
+      "universalName": "aptoide", 
+      "companyId": 2912705, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAZnAAAAJDRmOWIwNmQ4LWJlZjEtNDZlNS04NWMzLTFhN2FkZDg5NGY3Mw. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98477165?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. itjobs. pt%2Foferta%2F138280%2Fbig-data-scientist&urlHash=Ph3n&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

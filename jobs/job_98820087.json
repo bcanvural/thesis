@@ -1,0 +1,736 @@
+{
+  "jobPosting": {
+    "companyJobCode": "catsone-5103396", 
+    "expirationDate": 1451775172000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2998, 
+          "type": "BR", 
+          "endIdx": 2998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2998, 
+          "type": "BR", 
+          "endIdx": 2998, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "BR", 
+          "endIdx": 2997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2997, 
+          "type": "BR", 
+          "endIdx": 2997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2936, 
+          "type": "BR", 
+          "endIdx": 2936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2936, 
+          "type": "BR", 
+          "endIdx": 2936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2844, 
+          "type": "BR", 
+          "endIdx": 2844, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2844, 
+          "type": "BR", 
+          "endIdx": 2844, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2799, 
+          "type": "BR", 
+          "endIdx": 2799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2799, 
+          "type": "BR", 
+          "endIdx": 2799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2693, 
+          "type": "BR", 
+          "endIdx": 2693, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2693, 
+          "type": "BR", 
+          "endIdx": 2693, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2632, 
+          "type": "BR", 
+          "endIdx": 2632, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2632, 
+          "type": "BR", 
+          "endIdx": 2632, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2558, 
+          "type": "BR", 
+          "endIdx": 2558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2558, 
+          "type": "BR", 
+          "endIdx": 2558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2461, 
+          "type": "BR", 
+          "endIdx": 2461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2461, 
+          "type": "BR", 
+          "endIdx": 2461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "B", 
+          "endIdx": 2461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "BR", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "BR", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2397, 
+          "type": "BR", 
+          "endIdx": 2397, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2397, 
+          "type": "BR", 
+          "endIdx": 2397, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2344, 
+          "type": "BR", 
+          "endIdx": 2344, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2344, 
+          "type": "BR", 
+          "endIdx": 2344, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2282, 
+          "type": "BR", 
+          "endIdx": 2282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2282, 
+          "type": "BR", 
+          "endIdx": 2282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2246, 
+          "type": "BR", 
+          "endIdx": 2246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2246, 
+          "type": "BR", 
+          "endIdx": 2246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2221, 
+          "type": "BR", 
+          "endIdx": 2221, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2221, 
+          "type": "BR", 
+          "endIdx": 2221, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2123, 
+          "type": "BR", 
+          "endIdx": 2123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2123, 
+          "type": "BR", 
+          "endIdx": 2123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2105, 
+          "type": "BR", 
+          "endIdx": 2105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2105, 
+          "type": "BR", 
+          "endIdx": 2105, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1986, 
+          "type": "BR", 
+          "endIdx": 1986, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1986, 
+          "type": "BR", 
+          "endIdx": 1986, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1896, 
+          "type": "BR", 
+          "endIdx": 1896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1896, 
+          "type": "BR", 
+          "endIdx": 1896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1892, 
+          "type": "BR", 
+          "endIdx": 1892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1892, 
+          "type": "BR", 
+          "endIdx": 1892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1824, 
+          "type": "BR", 
+          "endIdx": 1824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1824, 
+          "type": "BR", 
+          "endIdx": 1824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1668, 
+          "type": "BR", 
+          "endIdx": 1668, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1668, 
+          "type": "BR", 
+          "endIdx": 1668, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1639, 
+          "type": "B", 
+          "endIdx": 1650, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1615, 
+          "type": "BR", 
+          "endIdx": 1615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1615, 
+          "type": "BR", 
+          "endIdx": 1615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1510, 
+          "type": "BR", 
+          "endIdx": 1510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1510, 
+          "type": "BR", 
+          "endIdx": 1510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1425, 
+          "type": "B", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1420, 
+          "type": "BR", 
+          "endIdx": 1420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1420, 
+          "type": "BR", 
+          "endIdx": 1420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1356, 
+          "type": "B", 
+          "endIdx": 1363, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1346, 
+          "type": "BR", 
+          "endIdx": 1346, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1346, 
+          "type": "BR", 
+          "endIdx": 1346, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1323, 
+          "type": "B", 
+          "endIdx": 1344, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1266, 
+          "type": "BR", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1266, 
+          "type": "BR", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1195, 
+          "type": "B", 
+          "endIdx": 1201, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1193, 
+          "type": "BR", 
+          "endIdx": 1193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1193, 
+          "type": "BR", 
+          "endIdx": 1193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1159, 
+          "type": "BR", 
+          "endIdx": 1159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1159, 
+          "type": "BR", 
+          "endIdx": 1159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1069, 
+          "type": "B", 
+          "endIdx": 1076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1058, 
+          "type": "BR", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1051, 
+          "type": "BR", 
+          "endIdx": 1051, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1051, 
+          "type": "BR", 
+          "endIdx": 1051, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 954, 
+          "type": "BR", 
+          "endIdx": 954, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 954, 
+          "type": "BR", 
+          "endIdx": 954, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 906, 
+          "type": "B", 
+          "endIdx": 920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 889, 
+          "type": "BR", 
+          "endIdx": 889, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 889, 
+          "type": "BR", 
+          "endIdx": 889, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 820, 
+          "type": "B", 
+          "endIdx": 827, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 813, 
+          "type": "BR", 
+          "endIdx": 813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 813, 
+          "type": "BR", 
+          "endIdx": 813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 722, 
+          "type": "BR", 
+          "endIdx": 722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 722, 
+          "type": "BR", 
+          "endIdx": 722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 558, 
+          "type": "BR", 
+          "endIdx": 558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 558, 
+          "type": "BR", 
+          "endIdx": 558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 520, 
+          "type": "B", 
+          "endIdx": 534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 497, 
+          "type": "BR", 
+          "endIdx": 497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 497, 
+          "type": "BR", 
+          "endIdx": 497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "B", 
+          "endIdx": 497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 345, 
+          "type": "BR", 
+          "endIdx": 345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 345, 
+          "type": "BR", 
+          "endIdx": 345, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 307, 
+          "type": "BR", 
+          "endIdx": 307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 307, 
+          "type": "BR", 
+          "endIdx": 307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 237, 
+          "type": "BR", 
+          "endIdx": 237, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 237, 
+          "type": "BR", 
+          "endIdx": 237, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 133, 
+          "type": "BR", 
+          "endIdx": 133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 133, 
+          "type": "BR", 
+          "endIdx": 133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 13, 
+          "type": "B", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 13, 
+          "type": "BR", 
+          "endIdx": 13, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 13, 
+          "type": "BR", 
+          "endIdx": 13, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Data ScientistAre you on the the leading edge? Want to be part of a young,  rapidly growing,  privately held company where‘exceptional’ is more than a buzzword? Where focus on technology,  technical client service and workplaceculture is what it’s all about.  If flexible hours,  the “work hard playhard” atmosphere of a new ‘Googlelike’office and the absence of the stiff downtown glass tower appeals to you,  then consider joining our team!The Following Will Appeal To The Ideal Candidate● You’re looking for a cultural ‘fit’ rather than just a job. ● The gratification of a job well done comes from the satisfaction of your clients. ● You work more for the client than for yourself,  yet remain true to your values. ● It’s in your nature to do less but do it really well and always deliver what you promise. ● Your passion ,  outgoing personality and self motivation drive who you are. ● You like to be part of a team much more than to be by yourself. ● Your strengths come from collaborating with others,  reading and learning like you’ve never leftschool. ● You have no boss ,  but a mentor and guru,  that guides you to master your skills and will expect youto outshine him/her in the future. ● Kaizen applies to you because of your relentless drive for improvement. ● You work hard yet you find time to rejuvenate and have fun in your workplace . ● You are curious ,  creative,  biased for action and love solving problems. As a Data Scientist  you will report to the Chief Technology Officer with the objective ofleveraging/applying innovative machine learning and data mining technologies for solving a diverse set ofproblems related to the oil and gas industry.  You’ll;● Work independently and as a team member to deliver a successful product to market● Background and experience in machine learning and information retrieval● Dataset experience in document,  graph,  log data and semistructureddata● Strength in Machine Learning,  Statistical Modeling,  Data Mining,  Pattern Recognition andInformation Retrieval● Knowledge of distributed computing solutions and ability to leverage them towards gaining fasterinsights from data● Ability to explore and examine data from multiple disparate sources with the goal of discoveringpreviously hidden insight● Live,  breath and work in the Cloud● Utilize SCRUM and Agile methodologies to just get stuff done● Be exposed to a culture of innovation and greatness● Engage in intense Foosball challengesSkills &amp; Requirements● Graduate degree in Engineering,  Science or related field at an accredited college or university● 2+ years work experience designing and developing data science solutions● High level programming skills (Python,  R,  Matlab,  C++,  etc)● Experience using ML techniques such as clustering,  regression,  classification,  graphical models,  mixturemodels,  topic models and matrix factorization● Data mining experience including data auditing,  aggregation,  validation and reconciliation● Experience working with Hadoop,  MapReduce would be an asset "
+    }, 
+    "postalCode": "T2P5N4", 
+    "jobState": "LISTED", 
+    "companyName": "Sheridan Morton,  Search Partners", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "“A COLLABORATIVE APPROACH TO RECRUITING”Sheridan Morton was founded in 2002 as an IT Recruitment Practice,  and since has maintained a very strong reputation and commitment to Alberta’s Business Community.  We have developed our best practices in recruiting based on our ongoing analysis of client satisfaction with those who work with recruiting firms.  Seizing the initiative to significantly improve inefficiencies,  Sheridan Morton drives the recruiting process by providing hiring managers – the ability to engage a Select Group of Recruitment firms and have Sheridan Morton act as the single point of contact to manage the process – a quality driven double screened shortlist of candidates - a broader access to high-caliber applicants – an unbiased recommendation of candidate suitability – the elimination of candidate duplication – a great solution at no additional cost. Sheridan Morton has established Local,  National and International Partnerships with Industry Specific Recruitment Firms,  all of which provides us access to niche,  hard to find candidates.  We have the ability to source qualified candidates from a variety of proprietary databases,  industry contacts and professional networks.  Our mandate is to provide Exceptional Service and to build Strong Working Relationships with both our Clients and our Search Partners. As innovators we are actively redefining the recruitment process to help build strong companies and the leaders of tomorrow. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447443406000, 
+    "countryCode": "ca", 
+    "company": "urn:li:company:2249763", 
+    "id": 98820087, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Calgary,  CA", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98820087?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fsheridanmorton. catsone. com%2Fcareers%2Findex. php%3Fm%3Dportal%26a%3Ddetails%26jobOrderID%3D5103396%26utm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=fsEG&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "“A COLLABORATIVE APPROACH TO RECRUITING”\r\r\rSheridan Morton was founded in 2002 as an IT Recruitment Practice,  and since has maintained a very strong reputation and commitment to Alberta’s Business Community.  We have developed our best practices in recruiting based on our ongoing analysis of client satisfaction with those who work with recruiting firms.  \r\rSeizing the initiative to significantly improve inefficiencies,  Sheridan Morton drives the recruiting process by providing hiring managers – the ability to engage a Select Group of Recruitment firms and have Sheridan Morton act as the single point of contact to manage the process – a quality driven double screened shortlist of candidates - a broader access to high-caliber applicants – an unbiased recommendation of candidate suitability – the elimination of candidate duplication – a great solution at no additional cost. \r\rSheridan Morton has established Local,  National and International Partnerships with Industry Specific Recruitment Firms,  all of which provides us access to niche,  hard to find candidates.  We have the ability to source qualified candidates from a variety of proprietary databases,  industry contacts and professional networks.  \r\rOur mandate is to provide Exceptional Service and to build Strong Working Relationships with both our Clients and our Search Partners. \r\rAs innovators we are actively redefining the recruitment process to help build strong companies and the leaders of tomorrow. ", 
+    "foundedYear": 2002, 
+    "canonicalName": "Sheridan Morton Search Partners", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/0c5/07a/3e6e38d. png"
+    }, 
+    "company": {
+      "specialities": [
+        "IT Recruitment", 
+        "Recruitment Consultancy", 
+        "Vendor Management"
+      ], 
+      "universalName": "sheridan-morton-search-partners", 
+      "companyId": 2249763
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "2-10", 
+    "formattedEmployeeCount": "2-10 employees"
+  }, 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 22 days ago", 
+  "formattedPostedDaysAgoSlim": "22 days ago", 
+  "formattedPostedDaysAgoShort": "22d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "November 13,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

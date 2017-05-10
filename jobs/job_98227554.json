@@ -1,0 +1,84 @@
+{
+  "jobPosting": {
+    "companyJobCode": "europa_eu-WERKNL8925281", 
+    "expirationDate": 1451929703000, 
+    "title": "Data Scientist bij BigData. Company", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "BigData. Company creëert Big Data oplossingen voor grote organisaties.  Wij hebben een flexibel Big Data framework ontwikkeld voor het schrapen,  opslaan,  structureren,  schoonmaken,  analyseren en visualiseren van grote hoeveelheden data.  Vanwege onze groei zijn wij op zoek naar een Data Scientist om ons team te versterken.  Je zal ons helpen onze business te verbeteren door uitbreidingen te schrijven aan onze bestaande applicaties.  Daarnaast zul je het team ondersteunen in het bouwen van prototypes.  Bij BigData. Company kom je terecht in een dynamische omgeving waarbij we constant bezig zijn met innovatie en nieuwe kansen van Big Data.  Je werkt aan verschillende projecten voor verschillende opdrachtgevers.  De focus ligt op het creëren van een realtime,  predicatieve infrastructuur en een andere manier van werken.  Het profiel: - Een afgeronde WO opleiding in de richting Informatica,  Wiskunde,  Econometrie of vergelijkbaar,  bij voorkeur met het accent op Artificial Intelligence of machine learning - Je hebt ervaring in minimaal één van de volgende expertisegebieden: data architectuur,  data mining en/of data analyse - Je hebt kennis van en/of ervaring met technologie en methodologie op het gebied van gestructureerde en ongestructureerde data (Elastic Search,  Storm,  R,  SQL,  MapReduce) - Je kunt werken met SQL databases en NoSQL data stores - Je beschikt over kennis van datastructuren en het vermogen om efficiënte code te schrijven in Java of Scala - Je beschikt over goede communicatie en uitstekende analytische vaardigheden Wij bieden: - Werken aan een snelgroeiende applicatie die internationaal gebruikt gaat worden door grote organisaties - Een werkplek in een ambitieus en een jong team,  met een informele sfeer - Eigen verantwoordelijkheid en vrijheid in werken Solliciteren en meer weten? Neem contact op met Thi Nga Nguyen via +31 633 75 46 35 of thinga@bigdata. company"
+    }, 
+    "postalCode": "8363", 
+    "jobState": "LISTED", 
+    "companyName": "BigData. Company B. V. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "BigData. Company builds end-to-end big data applications.  The BigData. Company platform is build to provide insight to our clients by cleaning,  coupling,  analyzing and visualizing their internal data,  enriched by external data. The strength of BigData. Company is the ability to offer innovative and creative concepts,  and the ability to convert concepts into usable big data applications.  Our goal is to offer our clients solutions that are not technology-driven but focus on business value. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447169965000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:9210265", 
+    "id": 98227554, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Nederland,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98227554?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fec. europa. eu%2Feures%2Feures-searchengine%2Fpage%2Fmain%3Flang%3Den%23%2FfullscreenJvView%3FuuId%3Da19f00fc29ff4642ae25e865de603a08%26jvId%3DWERKNL8925281%26pesId%3D44&urlHash=Upn6&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 25 days ago", 
+  "formattedPostedDaysAgoSlim": "25 days ago", 
+  "formattedPostedDaysAgoShort": "25d", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2014, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/005/0a3/176/33da1c6. png"
+    }, 
+    "localizedDescription": "BigData. Company builds end-to-end big data applications.  The BigData. Company platform is build to provide insight to our clients by cleaning,  coupling,  analyzing and visualizing their internal data,  enriched by external data. \r\rThe strength of BigData. Company is the ability to offer innovative and creative concepts,  and the ability to convert concepts into usable big data applications.  Our goal is to offer our clients solutions that are not technology-driven but focus on business value. ", 
+    "company": {
+      "specialities": [
+        "Data Sience", 
+        "Big Data", 
+        "Data Analytics"
+      ], 
+      "universalName": "bigdata-company", 
+      "companyId": 9210265, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/0a3/176/33ceb66. png"
+      }
+    }, 
+    "canonicalName": "BigData. Company", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 10,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

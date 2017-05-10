@@ -1,0 +1,72 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4264647_6", 
+    "expirationDate": 1451975452000, 
+    "title": "Data Scientist (Retail) - $80k", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Quantum Retail is looking for a stellar data scientist to join its team.  As a scientist on the Q team you are responsible for all aspects of client development and implementation as it relates to the algorithms and inventory management.  These can span everything from data analysis,  algorithm design,  testing,  prototyping,  supporting development and implementation,  assisting with documentation for training and client delivery,  supporting go-live and measuring ROI.  Quantums product manages inventory for retailers; forecasting,  order planning,  allocation and replenishment plus analytics relating to product sizes,  clustering,  assorting/ranging and other related activities. Scientists are responsible for the science-related configuration and data quality of customer installations of Quantums solutions.  They perform analysis on large data sets,  collating and explaining results to varied audiences.  This analysis informs the best science configuration for a given client installation.       About Q      Science,  Strategy,  Solutions are the three tenets of Q.  Quantums innovative retail technology is the combined experience,  intelligence,  and vision of six seasoned industry executives who believed they could create a retail platform that streamlines supply chain complexities to provide intuitive inventory solutionsplus the infinite ingenuity of Q.       Q synthesizes retail science and strategy to capitalize on fluctuating patterns of consumer behavior and demand,  adapt to emerging needs of retailers in an ever-evolving market,  and solve specific inventory problems as they arise.  Qs predictive inventory management software empowers retailers with the actionable insight,  strategic agility,  and profit-driven efficiency to thrive in todays high-velocity marketplace.         Key Responsibilities       Manage environments needed to facilitate science processing.        Analyze retail data to identify trends and relationships       Work as part of an Agile software team to configure Quantum software science       Work closely with Developers to diagnose data-related issues.        Create science training materials for clients,  participate in client education.        Participate in system and release testing,  as it pertains to science.        Develop science-driven approaches that can evolve into analytics solutions.           Required Skills and Experience          BS in Computer Science,  Mathematics,  Statistics,  Physics,  or a related field is mandatory.  MS is preferred.        Total Expertise in SQL,  Microsoft Office (particularly Excel)       Experience with HIVE/Hadoop stack.        Experience with retail is preferred       Experience in Unix and Data analysis or data visualization tools        Experience using tools such as Mathematica,  MATLAB,  Maple,  SAS,  Cognos,  Crystal Reports,  etc.        R or fluency in another language such as Java,  Python,  or C++,  and the ability to get up to speed on R quickly.        Comfortable working from the Linux command line.        Java,  PL/SQL,  VBA experience strongly preferred       Intelligent,  hardworking individual with interpersonal and organizational skills and a strong entrepreneurial drive.        Excellent communication skills a must.        Ability to think scientifically about complex problems and translate this thinking into real-world solutions.        Programming experience strongly preferred.        Demonstrated ability to work collaboratively in a team.           Total annual compensation is USD $80, 000 paid at $40/hour for a 40 hour,  50 week work year.       To qualify,  please provide a resume/CV demonstrating the required experience and skills.  From here you will be invited to compete in a set of online challenges that will help us find the top 1% of global talent      Are you up for the challenge?"
+    }, 
+    "postalCode": "123456", 
+    "jobState": "LISTED", 
+    "companyName": "Crossover Pvt Ltd", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Crossover Inc is an Oil and Energy company located in 420 County Road 2460,  Mineola,  Texas,  United States. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "SALE"
+    ], 
+    "listDate": 1447718300000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:4314556", 
+    "id": 99142049, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mumbai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "Crossover Inc is an Oil and Energy company located in 420 County Road 2460,  Mineola,  Texas,  United States. ", 
+    "hasPaidLcp": false, 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "formattedIndustries": [
+      "Oil & Energy"
+    ], 
+    "canonicalName": "Crossover Inc", 
+    "company": {
+      "universalName": "crossover-inc", 
+      "companyId": 4314556
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Sales"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Oil & Energy"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99142049?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-scientist-retail-80k%2Fcrossover-pvt-ltd%2F4264647%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=IIue&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

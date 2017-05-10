@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "companyJobCode": "22656229", 
+    "title": "Assistant Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101962569, 
+    "experienceLevel": "ASSOCIATE", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Have you got experience of using an industry recognised system such as    Progress,  Raisers Edge,  Thank Q or Salesforce? This is a new    opportunity for an Assistant Data Analyst to join our Fundraising team.     Assisting the Data Analyst,  you will have at least 1 years work    experience,  ideally working within the not for profit sector and be    competent in relational database theory and practice.  You will assist    with the day-to-day database management including segmentation,  data    export,  maintaining data quality and data protection.  Working across    the organisation and building relationships with all database users,     you will have excellent interpersonal skills and be able to identify    their data needs.  You will be able to communicate simply,  complex    technical details to a wide range of people.  You enjoy problem solving    and are able to identify faults and have the tenacity and technical    competence to fix them.  You will assist in supporting the evolvement of    data systems,  including . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

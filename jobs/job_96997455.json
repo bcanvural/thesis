@@ -1,0 +1,1094 @@
+{
+  "jobPosting": {
+    "companyJobCode": "alliancedata-93708", 
+    "expirationDate": 1451820824000, 
+    "title": "AD,  Data Science", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 6478, 
+          "type": "BR", 
+          "endIdx": 6478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6478, 
+          "type": "BR", 
+          "endIdx": 6478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6477, 
+          "type": "BR", 
+          "endIdx": 6477, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6477, 
+          "type": "BR", 
+          "endIdx": 6477, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6476, 
+          "type": "BR", 
+          "endIdx": 6476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6476, 
+          "type": "BR", 
+          "endIdx": 6476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6188, 
+          "type": "BR", 
+          "endIdx": 6188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6188, 
+          "type": "BR", 
+          "endIdx": 6188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6187, 
+          "type": "BR", 
+          "endIdx": 6187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6187, 
+          "type": "BR", 
+          "endIdx": 6187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5570, 
+          "type": "BR", 
+          "endIdx": 5570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5570, 
+          "type": "BR", 
+          "endIdx": 5570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5569, 
+          "type": "BR", 
+          "endIdx": 5569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5569, 
+          "type": "BR", 
+          "endIdx": 5569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5553, 
+          "type": "B", 
+          "endIdx": 5569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5553, 
+          "type": "BR", 
+          "endIdx": 5553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5553, 
+          "type": "BR", 
+          "endIdx": 5553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5551, 
+          "type": "BR", 
+          "endIdx": 5551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5551, 
+          "type": "BR", 
+          "endIdx": 5551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5442, 
+          "type": "BR", 
+          "endIdx": 5442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5442, 
+          "type": "BR", 
+          "endIdx": 5442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5441, 
+          "type": "BR", 
+          "endIdx": 5441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5441, 
+          "type": "BR", 
+          "endIdx": 5441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5038, 
+          "type": "BR", 
+          "endIdx": 5038, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5038, 
+          "type": "BR", 
+          "endIdx": 5038, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5037, 
+          "type": "BR", 
+          "endIdx": 5037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5037, 
+          "type": "BR", 
+          "endIdx": 5037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4978, 
+          "type": "B", 
+          "endIdx": 5037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4978, 
+          "type": "BR", 
+          "endIdx": 4978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4978, 
+          "type": "BR", 
+          "endIdx": 4978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4977, 
+          "type": "BR", 
+          "endIdx": 4977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4977, 
+          "type": "BR", 
+          "endIdx": 4977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4875, 
+          "type": "BR", 
+          "endIdx": 4875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4875, 
+          "type": "BR", 
+          "endIdx": 4875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4758, 
+          "type": "BR", 
+          "endIdx": 4758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4758, 
+          "type": "BR", 
+          "endIdx": 4758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4719, 
+          "type": "BR", 
+          "endIdx": 4719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4719, 
+          "type": "BR", 
+          "endIdx": 4719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4655, 
+          "type": "BR", 
+          "endIdx": 4655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4655, 
+          "type": "BR", 
+          "endIdx": 4655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4500, 
+          "type": "BR", 
+          "endIdx": 4500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4500, 
+          "type": "BR", 
+          "endIdx": 4500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4446, 
+          "type": "BR", 
+          "endIdx": 4446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4446, 
+          "type": "BR", 
+          "endIdx": 4446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4317, 
+          "type": "BR", 
+          "endIdx": 4317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4317, 
+          "type": "BR", 
+          "endIdx": 4317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4133, 
+          "type": "BR", 
+          "endIdx": 4133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4133, 
+          "type": "BR", 
+          "endIdx": 4133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4119, 
+          "type": "B", 
+          "endIdx": 4133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4119, 
+          "type": "BR", 
+          "endIdx": 4119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4119, 
+          "type": "BR", 
+          "endIdx": 4119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4112, 
+          "type": "BR", 
+          "endIdx": 4112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4112, 
+          "type": "BR", 
+          "endIdx": 4112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4104, 
+          "type": "B", 
+          "endIdx": 4112, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4104, 
+          "type": "BR", 
+          "endIdx": 4104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4104, 
+          "type": "BR", 
+          "endIdx": 4104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4080, 
+          "type": "BR", 
+          "endIdx": 4080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4080, 
+          "type": "BR", 
+          "endIdx": 4080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4069, 
+          "type": "B", 
+          "endIdx": 4080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4069, 
+          "type": "BR", 
+          "endIdx": 4069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4069, 
+          "type": "BR", 
+          "endIdx": 4069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4062, 
+          "type": "BR", 
+          "endIdx": 4062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4062, 
+          "type": "BR", 
+          "endIdx": 4062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4054, 
+          "type": "B", 
+          "endIdx": 4062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4054, 
+          "type": "BR", 
+          "endIdx": 4054, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4054, 
+          "type": "BR", 
+          "endIdx": 4054, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4044, 
+          "type": "BR", 
+          "endIdx": 4044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4044, 
+          "type": "BR", 
+          "endIdx": 4044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4032, 
+          "type": "B", 
+          "endIdx": 4044, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4032, 
+          "type": "BR", 
+          "endIdx": 4032, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4032, 
+          "type": "BR", 
+          "endIdx": 4032, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4017, 
+          "type": "BR", 
+          "endIdx": 4017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4017, 
+          "type": "BR", 
+          "endIdx": 4017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4014, 
+          "type": "B", 
+          "endIdx": 4017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4014, 
+          "type": "BR", 
+          "endIdx": 4014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4014, 
+          "type": "BR", 
+          "endIdx": 4014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3983, 
+          "type": "BR", 
+          "endIdx": 3983, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3983, 
+          "type": "BR", 
+          "endIdx": 3983, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3969, 
+          "type": "B", 
+          "endIdx": 3983, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3969, 
+          "type": "BR", 
+          "endIdx": 3969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3969, 
+          "type": "BR", 
+          "endIdx": 3969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3875, 
+          "type": "BR", 
+          "endIdx": 3875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3875, 
+          "type": "BR", 
+          "endIdx": 3875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3859, 
+          "type": "B", 
+          "endIdx": 3875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3859, 
+          "type": "BR", 
+          "endIdx": 3859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3859, 
+          "type": "BR", 
+          "endIdx": 3859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3722, 
+          "type": "BR", 
+          "endIdx": 3722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3722, 
+          "type": "BR", 
+          "endIdx": 3722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3542, 
+          "type": "BR", 
+          "endIdx": 3542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3542, 
+          "type": "BR", 
+          "endIdx": 3542, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3311, 
+          "type": "BR", 
+          "endIdx": 3311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3311, 
+          "type": "BR", 
+          "endIdx": 3311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3091, 
+          "type": "BR", 
+          "endIdx": 3091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3091, 
+          "type": "BR", 
+          "endIdx": 3091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2923, 
+          "type": "BR", 
+          "endIdx": 2923, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2923, 
+          "type": "BR", 
+          "endIdx": 2923, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2788, 
+          "type": "BR", 
+          "endIdx": 2788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2788, 
+          "type": "BR", 
+          "endIdx": 2788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2771, 
+          "type": "B", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2771, 
+          "type": "BR", 
+          "endIdx": 2771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2771, 
+          "type": "BR", 
+          "endIdx": 2771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2770, 
+          "type": "BR", 
+          "endIdx": 2770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2770, 
+          "type": "BR", 
+          "endIdx": 2770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2756, 
+          "type": "BR", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2756, 
+          "type": "BR", 
+          "endIdx": 2756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2755, 
+          "type": "BR", 
+          "endIdx": 2755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2755, 
+          "type": "BR", 
+          "endIdx": 2755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2502, 
+          "type": "BR", 
+          "endIdx": 2502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2502, 
+          "type": "BR", 
+          "endIdx": 2502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2501, 
+          "type": "BR", 
+          "endIdx": 2501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2501, 
+          "type": "BR", 
+          "endIdx": 2501, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2388, 
+          "type": "BR", 
+          "endIdx": 2388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2388, 
+          "type": "BR", 
+          "endIdx": 2388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2294, 
+          "type": "BR", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2294, 
+          "type": "BR", 
+          "endIdx": 2294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2241, 
+          "type": "BR", 
+          "endIdx": 2241, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2241, 
+          "type": "BR", 
+          "endIdx": 2241, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "BR", 
+          "endIdx": 2017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "BR", 
+          "endIdx": 2017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1867, 
+          "type": "BR", 
+          "endIdx": 1867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1867, 
+          "type": "BR", 
+          "endIdx": 1867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1696, 
+          "type": "BR", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1696, 
+          "type": "BR", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1327, 
+          "type": "B", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1327, 
+          "type": "BR", 
+          "endIdx": 1327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1327, 
+          "type": "BR", 
+          "endIdx": 1327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1305, 
+          "type": "B", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1305, 
+          "type": "BR", 
+          "endIdx": 1305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1305, 
+          "type": "BR", 
+          "endIdx": 1305, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1304, 
+          "type": "BR", 
+          "endIdx": 1304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1304, 
+          "type": "BR", 
+          "endIdx": 1304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1244, 
+          "type": "B", 
+          "endIdx": 1276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BR", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BR", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1189, 
+          "type": "BR", 
+          "endIdx": 1189, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1189, 
+          "type": "BR", 
+          "endIdx": 1189, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 778, 
+          "type": "BR", 
+          "endIdx": 778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 778, 
+          "type": "BR", 
+          "endIdx": 778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 777, 
+          "type": "BR", 
+          "endIdx": 777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 777, 
+          "type": "BR", 
+          "endIdx": 777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 479, 
+          "type": "BR", 
+          "endIdx": 479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 479, 
+          "type": "BR", 
+          "endIdx": 479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 478, 
+          "type": "BR", 
+          "endIdx": 478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 478, 
+          "type": "BR", 
+          "endIdx": 478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 100, 
+          "type": "BR", 
+          "endIdx": 100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 100, 
+          "type": "BR", 
+          "endIdx": 100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 99, 
+          "type": "BR", 
+          "endIdx": 99, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 99, 
+          "type": "BR", 
+          "endIdx": 99, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 99, 
+          "type": "BR", 
+          "endIdx": 99, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "B", 
+          "endIdx": 99, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Join our European Expansion team and become our Associate Director Data ScienceAbout Us Precima applies shopper insights derived from advanced analytics to help retailers and manufacturers drive sales growth and boost profitability.  Using comprehensive fact bases of purchase data,  Precima's experts help you improve your marketing and merchandising,  identify opportunities for growth and align both internal teams and external partners to best meet shoppers' needs.  Precima tailors the scope and pace of its solutions to the unique priorities of each client.  The overall goal is to achieve not just tactical wins but long-term strategic gains,  encouraging retailers to broaden the marketing agenda and fully explore the potential of sophisticated shopper insights.  Precima's roster of past and current clients includes many leading Fortune 1000 brands,  among them some of the top high-frequency retailers in North America.  Backed by firsthand experience with leading retail and manufacturing organizations,  the Precima team brings a remarkable blend of expertise in loyalty,  analytics,  marketing and management to help you make more informed and profitable business decisions.  For our European Team we are currently looking for an Associate Director Data Science to help expand our business.  About the Opportunity This Role Is Accountable For Leading Our Company’s European Expansion Plans As Part Of a Project Activation Team.   The Focus Of This Cross Functional Team Is To Win New Clients And Then Work With Those New Clients To Establish And Structure a Meaningful Engagement That Effectively Delivers Precima’s Solutions And Delivers On The Value Propositions.   This Will Involve·         Conducting new business development activities and the identification of new opportunities in order to continue expanding our business across the EMEA geography. ·         Relationship management at senior levels of prospect client organizations; including decision makers in the buying/solution selling process. ·         Leveraging of functional expertise e. g.  client service,  data management &amp; technology infrastructure,  or analytics to foster client engagement across Precima’s suite of tools,  optimizations,  and other solutions. ·         Shaping new standards/templates/approaches. ·         Exploring opportunities for value proposition development/business model innovation. ·         Identifying,  vetting,  and onboarding top talent in customer-centric retailing within local markets won.  Precima's Executive Team views this role’s work as necessary to sustaining our high growth rate and believes that the opportunity to work on multiple clients and be part of our cutting-edge solutions delivery and development will be extremely rewarding.  Travel: 40-60% Responsibilities • Develop materials for and participate in science discussions as required in client acquisition or business development opportunities. • Developing advanced statistical and econometric models of pricing,  assortment and promotion/marketing.  Provide analytical consulting on best practices and approaches. • Interpret,  document and present/communicate analytical results to multiple business disciplines,  providing conclusions and recommendations based on customer-centric data.  Be an internal expert in advanced capabilities. • Work closely with clients and client teams to develop methodology and implement analysis and technology that enables more profitable assortment,  pricing and marketing/promotion decisions in support of partner customer strategies. • Take analytical objectives and define data requirements.  Extract,  clean,  and transform customer and item-level data for purposes of analysis,  modeling/segmentation and reporting. • Identify,  develop and make recommendations for process improvements and best practices; own implementation of recommendations required. Primary LocationNLD - Netherlands-4706 - North Brabant-55854 - s-Hertogenbosch-X1-Koningsweg 101 - NetherlandsWork LocationsX1-Koningsweg 101 - NetherlandsJobClient ServicesOrganizationLoyaltyOneScheduleRegularJob PostingSep 14,  2015,  8:33:54 AMDivisionPrecimaQualifications• Master Degree (PhD strongly preferred) in Statistics,  Operations Research,  Mathematics,  Economics,  Econometrics,  Industrial Engineering,  Computer Science or other quantitative fields• Minimum 5-7 years of directly related work experience in Econometric Modeling/Pricing,  Assortment or Marketing Mix Optimization• Minimum 2 years of Supervisory/Management experience• Expert proficiency in developing original statistical and econometric models in pricing,  assortment,  promo/marketing to support clients in B2B and Retail• Expert proficiency in implementing models in #1 using SAS or R• Working knowledge of C/C++/C# and SQL• Knowledge of Mathematical Optimization (Linear and Nonlinear Programming and Metaheuristic Optimization) is a plus. • Computer programs/software: MS Excel,  Word,  PowerPoint,  Visio,  Access,  SQL,  SAS,  C/C++/C#,  R,  Matlab Interested to join our growing,  innovative team in Europe?  We invest in the loyalty of every one of our associates,  by fostering a culture in which passion and imagination are balanced by pragmatism.  We empower all our associates to test bold new ideas and take risks in pursuit of creating even richer customer relationships.  Employee growth extends across all of our lines of business and we walk the talk on responsibility to our community,  and to our planet.  At Precima you’ll learn,  grow,  and contribute.  Please apply directly online if you are interested to join us!  About LoyaltyOne LoyaltyOne is a subsidiary of Alliance Data Services headquartered in Dallas,  Texas.  LoyaltyOne works with more than 100 of North America's leading brands in the retail,  financial services,  grocery,  petroleum retail,  and travel and hospitality industries to profitably change customer behavior.  Through a team of businesses,  including Precima and the AIR MILES Reward Program,  each specialize in a loyalty discipline,  LoyaltyOne designs,  delivers and manages a suite of loyalty marketing services focused on consumer data,  customer-centric retail strategies,  direct-to-consumer marketing,  loyalty consulting and more.  Furthermore,  for the last 6 consecutive years,  LoyaltyOne was recognized by Hewitt Associates as one of the 50 Best Employers in Canada,  demonstrating LoyaltyOne's continued commitment to providing a great work experience for its associates and a great service experience for its clients.   "
+    }, 
+    "postalCode": "5211", 
+    "jobState": "LISTED", 
+    "companyName": "LoyaltyOne", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "LoyaltyOne is a global leader in the design and implementation of coalition loyalty programs,  customer analytics and loyalty services for Fortune 1000 clients around the world.  LoyaltyOne’s unparalleled track record delivering sustained business performance improvement for clients stems from its unique combination of hands-on practitioner experience and continuous thought leadership.  LoyaltyOne has over 20 years history leveraging data-driven insights to develop and operate some of the world's most effective loyalty programs and customer-centric solutions.  These include the AIR MILES Reward Program,  North America's premier coalition loyalty program; a majority stake in European-based BrandLoyalty,  one of the largest and most successful campaign-driven loyalty marketers outside of the Americas; and a working partnership with Latin America's leading coalition program,  dotz.  LoyaltyOne is also the owner of COLLOQUY,  a group dedicated to research,  publishing and education for the global loyalty industry.  LoyaltyOne is an Alliance Data company.  For more information,  visit www. loyalty. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1446799285000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:6327", 
+    "id": 96997455, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "'s-Hertogenbosch,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "loyalty programs", 
+        "retail analytics", 
+        "marketing", 
+        "customer centric solutions", 
+        "customer analytics", 
+        "loyalty strategy"
+      ], 
+      "universalName": "loyaltyone", 
+      "companyId": 6327, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/046/3e6/1b74b04. png"
+      }
+    }, 
+    "localizedDescription": "LoyaltyOne is a global leader in the design and implementation of coalition loyalty programs,  customer analytics and loyalty services for Fortune 1000 clients around the world.  \r\rLoyaltyOne’s unparalleled track record delivering sustained business performance improvement for clients stems from its unique combination of hands-on practitioner experience and continuous thought leadership.  \r\rLoyaltyOne has over 20 years history leveraging data-driven insights to develop and operate some of the world's most effective loyalty programs and customer-centric solutions.  These include the AIR MILES Reward Program,  North America's premier coalition loyalty program; a majority stake in European-based BrandLoyalty,  one of the largest and most successful campaign-driven loyalty marketers outside of the Americas; and a working partnership with Latin America's leading coalition program,  dotz.  LoyaltyOne is also the owner of COLLOQUY,  a group dedicated to research,  publishing and education for the global loyalty industry. \r \rLoyaltyOne is an Alliance Data company.  For more information,  visit www. loyalty. com", 
+    "foundedYear": 1992, 
+    "formattedIndustries": [
+      "Marketing & Advertising"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "LoyaltyOne", 
+    "careersImage": "urn:li:media:/p/2/005/013/101/0a8c3f5. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAcYAAAAJDEyMjE4Nzk0LTFhOWQtNGMwNi1hZmEwLTAxYWZjYzY1MTMzNQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/2/005/013/101/0a8c3f5. png"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Marketing and Advertising"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/96997455?trk=guest_apply_click_apply_button&url=https%3A%2F%2Falliancedata. taleo. net%2Fcareersection%2Floyalty%2Fjobdetail. ftl%3Fjob%3D0067676%26lang%3Den&urlHash=fluI&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

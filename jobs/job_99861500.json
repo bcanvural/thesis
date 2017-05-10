@@ -1,0 +1,236 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobstairs-609262", 
+    "expirationDate": 1451918866000, 
+    "title": "SW-Entwickler für kartenbasierte Fahrerassistenzfunktionen Big Data(m/w)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1661, 
+          "type": "LI", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1661, 
+          "type": "BG", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1661, 
+          "type": "BR", 
+          "endIdx": 1661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1606, 
+          "type": "LI", 
+          "endIdx": 1661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "LI", 
+          "endIdx": 1606, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1459, 
+          "type": "LI", 
+          "endIdx": 1526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1342, 
+          "type": "LI", 
+          "endIdx": 1459, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "LI", 
+          "endIdx": 1342, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "BG", 
+          "endIdx": 1661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1213, 
+          "type": "BR", 
+          "endIdx": 1213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1213, 
+          "type": "BR", 
+          "endIdx": 1213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1130, 
+          "type": "BR", 
+          "endIdx": 1130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1130, 
+          "type": "BR", 
+          "endIdx": 1130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1077, 
+          "type": "LI", 
+          "endIdx": 1130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 949, 
+          "type": "LI", 
+          "endIdx": 1077, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 949, 
+          "type": "BG", 
+          "endIdx": 1130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 949, 
+          "type": "BR", 
+          "endIdx": 949, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "LI", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "BG", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 735, 
+          "type": "BR", 
+          "endIdx": 735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 576, 
+          "type": "BR", 
+          "endIdx": 576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 576, 
+          "type": "BR", 
+          "endIdx": 576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 177, 
+          "type": "BR", 
+          "endIdx": 177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 177, 
+          "type": "BR", 
+          "endIdx": 177, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Innovationsfähigkeit und Know-how-Vorsprung bestimmen den Bosch Unternehmenserfolg.  Meistern Sie zusammen mit uns neue Aufgaben durch Ihre Bereitschaft,  ständig Neues zu lernen. Die Robert Bosch Car Multimedia GmbH ist eine international operierende Unternehmenseinheit der Bosch Gruppe.   Wir entwickeln intelligente verwenderorientierte Lösungen zur Integration von Entertainment-,  Navigations-,  Telematik- und Fahrerassistenzfunktionen im Erstausrüstungsgeschäft.  Dabei nutzen wir unsere Stärken in der Systemintegration um unsere Führung auf diesem Gebiet weiter auszubauen. Am Standort Hildesheim konzentrieren wir uns auf die Steuerung des Geschäftsbereichs sowie auf Entwicklung,  Vertrieb,  Marketing und auf kaufmännische Aufgaben.    Konzeption und Implementierung von vernetzten,  kartenbasierten Fahrerassistenzfunktionen in Vorentwicklungs- und Kundenprojekten Aufgabenschwerpunkt \"Distributed Computing\" und entsprechende Architekturkonzepte Entwicklung von vorhandenen SW-Komponenten,  -Schnittstellen und -Architekturen in existierende Fahrzeug- und Navigationssysteme Bearbeitung von Aufgaben in interdisziplinären Teams Sie möchten in Teilzeit arbeiten? Wir unterstützen individuelle Arbeitszeitmodelle.    Abgeschlossenes Studium im Bereich Informatik,  SW-,  Informations- oder Kommunikationstechnik sowie vergleichbare Ausbildungen Fundierte Kenntnisse und Erfahrung bezüglich \"Distributed Computing\",  Big Data und entsprechende Architekturkonzepte Fundierte Kenntnisse der objektorientierten SW-Entwicklung in Java Starke Motivation zur Entwicklung der Assistenzsysteme und Services der Zukunft Wünschenswert sind Kenntnisse der agilen SW-EntwicklungWir freuen uns auf Ihre Bewerbung!"
+    }, 
+    "postalCode": "31134", 
+    "jobState": "LISTED", 
+    "companyName": "Robert Bosch Car Multimedia GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The Bosch Group is a leading global supplier of technology and services.  It employs roughly 360, 000 associates worldwide (as per April 1,  2015).  The company generated sales of 49 billion euros in 2014.  Its operations are divided into four business sectors: Mobility Solutions,  Industrial Technology,  Consumer Goods,  and Energy and Building Technology.  The Bosch Group comprises Robert Bosch GmbH and its roughly 440 subsidiary and regional companies in some 60 countries.  Including its sales and service partners,  Bosch is represented in roughly 150 countries.  This worldwide development,  manufacturing,  and sales network is the foundation for further growth.  In 2014,  Bosch applied for some 4, 600 patents worldwide.  The Bosch Group’s strategic objective is to create solutions for a connected life.  Bosch improves quality of life worldwide with products and services that are innovative and spark enthusiasm.  In short,  Bosch creates technology that is “Invented for life. ” Imprint: bit. ly/bosch_imprint"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "ENG"
+    ], 
+    "listDate": 1447941331000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2508619", 
+    "id": 99861500, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Hildesheim,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99861500?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobstairs. de%2Fstellenangebot%2Fbosch%2F609262. html&urlHash=cg3k&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Mechanical or Industrial Engineering"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "de", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Mechanical or Industrial Engineering"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Bosch", 
+    "company": {
+      "specialities": [
+        "Mobility Solutions", 
+        "Industrial Technology", 
+        "Consumer Goods", 
+        "Energy and Building Technology", 
+        "Connected Industries", 
+        "Internet of Things", 
+        "Automated Driving", 
+        "Smart Home"
+      ], 
+      "universalName": "bosch", 
+      "companyId": 2508619, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAUUAAAAJDA1NjM4MDJjLTEzMTctNDMzNy05ZTVhLTZkOWE2OTU5OWQ0NQ. png"
+      }
+    }, 
+    "foundedYear": 1886, 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/p/8/000/23f/0a7/358137c. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAcJAAAAJDdhM2Y4NDViLTgxNGQtNDkyMC05MGQzLTk3Nzg1ODMxNGQ4ZA. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/8/000/23f/0a7/358137c. png", 
+    "localizedDescription": "The Bosch Group is a leading global supplier of technology and services.  It employs roughly 360, 000 associates worldwide (as per April 1,  2015).  The company generated sales of 49 billion euros in 2014.  Its operations are divided into four business sectors: Mobility Solutions,  Industrial Technology,  Consumer Goods,  and Energy and Building Technology.  The Bosch Group comprises Robert Bosch GmbH and its roughly 440 subsidiary and regional companies in some 60 countries.  Including its sales and service partners,  Bosch is represented in roughly 150 countries.  This worldwide development,  manufacturing,  and sales network is the foundation for further growth.  In 2014,  Bosch applied for some 4, 600 patents worldwide.  The Bosch Group’s strategic objective is to create solutions for a connected life.  Bosch improves quality of life worldwide with products and services that are innovative and spark enthusiasm.  In short,  Bosch creates technology that is “Invented for life. ” \r\rImprint: bit. ly/bosch_imprint"
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,402 @@
+{
+  "jobPosting": {
+    "companyJobCode": "smartrecruiters_xml-53425431-87257007", 
+    "expirationDate": 1451189251000, 
+    "title": "Big Data Architect", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2568, 
+          "type": "BR", 
+          "endIdx": 2568, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2568, 
+          "type": "BR", 
+          "endIdx": 2568, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2514, 
+          "type": "BR", 
+          "endIdx": 2514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2514, 
+          "type": "BR", 
+          "endIdx": 2514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2495, 
+          "type": "BR", 
+          "endIdx": 2495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2329, 
+          "type": "LI", 
+          "endIdx": 2495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2277, 
+          "type": "LI", 
+          "endIdx": 2329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2104, 
+          "type": "LI", 
+          "endIdx": 2277, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1964, 
+          "type": "LI", 
+          "endIdx": 2104, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1964, 
+          "type": "BG", 
+          "endIdx": 2495, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1964, 
+          "type": "BR", 
+          "endIdx": 1964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1934, 
+          "type": "B", 
+          "endIdx": 1964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1934, 
+          "type": "BR", 
+          "endIdx": 1934, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1934, 
+          "type": "BR", 
+          "endIdx": 1934, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "BR", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "BR", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1786, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1685, 
+          "type": "LI", 
+          "endIdx": 1786, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1577, 
+          "type": "LI", 
+          "endIdx": 1685, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1493, 
+          "type": "LI", 
+          "endIdx": 1577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "LI", 
+          "endIdx": 1493, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1243, 
+          "type": "LI", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "LI", 
+          "endIdx": 1243, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1073, 
+          "type": "LI", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1010, 
+          "type": "LI", 
+          "endIdx": 1073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 955, 
+          "type": "LI", 
+          "endIdx": 1010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 895, 
+          "type": "LI", 
+          "endIdx": 955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 847, 
+          "type": "LI", 
+          "endIdx": 895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 808, 
+          "type": "LI", 
+          "endIdx": 847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 750, 
+          "type": "LI", 
+          "endIdx": 808, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "LI", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "BG", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "BR", 
+          "endIdx": 599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 585, 
+          "type": "B", 
+          "endIdx": 599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 585, 
+          "type": "BR", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 585, 
+          "type": "BR", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 559, 
+          "type": "LI", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 491, 
+          "type": "LI", 
+          "endIdx": 559, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 423, 
+          "type": "LI", 
+          "endIdx": 491, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 379, 
+          "type": "LI", 
+          "endIdx": 423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 336, 
+          "type": "LI", 
+          "endIdx": 379, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 216, 
+          "type": "LI", 
+          "endIdx": 336, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 153, 
+          "type": "LI", 
+          "endIdx": 216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 95, 
+          "type": "LI", 
+          "endIdx": 153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "LI", 
+          "endIdx": 95, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BG", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionClient facing Tech Lead/Technical Architect/Solutions Architect roleUnderstand business drivers,  functional and non-functionalLead/define technical architecture and/or solution architectureLead implementation of big data platforms to implement scalable solutions,  leveraging the latest Data Science techniquesDevelop data strategy and data architectureRun workshops,  author solution documentationMentor and lead project teams of Big Data Engineers,  Data ScientistsContribute to and help establish best practice and quality standardsProvide thought leadershipQualificationsExtensive experience with big data platforms such as Hadoop,  Spark,  Storm,  Cassandra,  HBase,  NoSQL,  Elastic (Elasticsearch),  MapReduce,  Pig,  Hive,  etc. Ability to utilise them in enterprise,  production settingsExperience with any relational databaseExcellent interpersonal and communication skillsExperience in delivering large enterprise level applicationsShould be strong in conceptualising and problem solvingHighly analytical,  with structured thinking and decision makingTeam leading skills with ability to present comfortably to senior managementExperience of mentoring/leading junior team members through knowledge sharing and peer reviewsStrong verbal and written communication,  with good exposure to working in a cross-cultural/international environmentShould be able to mentor a team of technical architects and be able to network with Client technology leaders,  Directors,  VP,  CxO,  etcThought leader,  participate in calls/relationships with analysts for the above areasIdentify and create patentable artefacts,  intellectual property,  design documents and author articles/papersPresent thought leading perspectives at internal and external forums,  conferences,  community meet-upsLeverage project experience and self-driven research,  to develop practical solutions based on the latest industry developmentsAdditional InformationWhat&apos;s so great about us?We offer a great package – competitive salary,  bonus,  26 days holiday including your birthday off,  ride2work bike scheme,  childcare vouchersNot your average place to work – inspiring and passionate people,  dynamic,  relaxed and collaborative culture,  a genuine chance for you to make your mark and shape the futureWe are growing quickly with ambitious growth targetsWe are well-funded and secure,  with highly supportive VC investors who are really bought into our vision of creating the most advanced big data solutions in the worldNo Agencies Please. Big Data Partnership is an Equal Opportunity Employer. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Big Data Partnership", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Big Data Partnership is the leading EMEA-based big data specialist solution provider.  Offering a combination of big data engineering,  data science,  certified training services and support,  Big Data Partnership helps customers  unlock the value in complex data. Companies are generating data at a faster rate than ever before and are continuing to outpace the growth of storage capacity.  A significant proportion of the driving force behind this explosive growth is in form of unstructured data which has been created from relatively new sources including social networks,  mobile content,  and machine data,  all of which create massive complex data sets.  In an information society where data is now the new currency,  Big Data Partnership firmly believe that making sense of this data in an economically viable way will drive new revenue streams and give customers competitive advantage that were never before possible using traditional data warehouse and business intelligence solutions. Big Data Partnership helps organisations to identify use cases to address their big data challenges and more importantly realise value from it.  This encompasses end-to-end consultancy from data strategy,  technology enablement and application of data science techniques.  Our Consultants are certified industry experts who have worked extensively with Big Data technologies and toolsets including the Apache Hadoop ecosystem,  Apache Cassandra and other NoSQL databases,  Apache Spark and search technologies including Elasticsearch to provide scalable and reliable data solutions. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447777627000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2502751", 
+    "id": 99328842, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99328842?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. smartrecruiters. com%2FBigDataPartnership%2F87257007-big-data-architect&urlHash=l8mC&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Big Data Partnership is the leading EMEA-based big data specialist solution provider.  Offering a combination of big data engineering,  data science,  certified training services and support,  Big Data Partnership helps customers  unlock the value in complex data. \r\rCompanies are generating data at a faster rate than ever before and are continuing to outpace the growth of storage capacity.  A significant proportion of the driving force behind this explosive growth is in form of unstructured data which has been created from relatively new sources including social networks,  mobile content,  and machine data,  all of which create massive complex data sets.  In an information society where data is now the new currency,  Big Data Partnership firmly believe that making sense of this data in an economically viable way will drive new revenue streams and give customers competitive advantage that were never before possible using traditional data warehouse and business intelligence solutions. \r\rBig Data Partnership helps organisations to identify use cases to address their big data challenges and more importantly realise value from it.  This encompasses end-to-end consultancy from data strategy,  technology enablement and application of data science techniques.  Our Consultants are certified industry experts who have worked extensively with Big Data technologies and toolsets including the Apache Hadoop ecosystem,  Apache Cassandra and other NoSQL databases,  Apache Spark and search technologies including Elasticsearch to provide scalable and reliable data solutions. ", 
+    "foundedYear": 2012, 
+    "canonicalName": "Big Data Partnership", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAPmAAAAJGJjMDJmMDJlLWVjYjYtNDI1Ny1iZDFmLWVlYTQzZGI4ZWQ4NQ. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Big Data", 
+        "Data Science", 
+        "Machine Learning", 
+        "Hadoop", 
+        "Hive", 
+        "PIG", 
+        "MapReduce", 
+        "Mahout", 
+        "Consulting", 
+        "Training", 
+        "YARN", 
+        "HBase", 
+        "Hortonworks", 
+        "MapR", 
+        "IBM BigInsights", 
+        "NoSQL", 
+        "Cassandra", 
+        "Apache Spark", 
+        "Apache Storm", 
+        "Elasticsearch"
+      ], 
+      "universalName": "big-data-partnership", 
+      "companyId": 2502751, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAVOAAAAJDQ1ZGNkMTcwLWUxMjgtNDI5OC1hNjEwLTBiZTZkMGJmODJmYg. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

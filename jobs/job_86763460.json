@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/86763460", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "2+ years commercial experience of the MS SQL platform (2008+) Experience with SAS platform,  manipulation of data using SAS Base/Macro preferred Proven experience in SQL for querying big data and authoring SQL Stored Procedures (SP) and/or User Defined Functions (UDF) Experience in developing ETL processes within MS SQL 2008+ databases Authored re-usable routines to parse and manipulate textual and categorical data a plus Has track record of identifying and implementing process improvements Highly numerate and proficient in MS Excel and advanced functionality (Vlookup,  VBA) Adept to working in fast-moving environment where priorities can change Education and Training Highly numerate degree in Computer Science,  Statistics,  Engineering,  Operations Research etc.  Knowledge of MS SQL Full-Text Searching functionality Exposure to Big Data platforms a plus Awareness of text mining techniques and approaches Exposure to Reporting or BI tools such as MS SQL SSRS,  Tableau,  Cognos Usage of other programming languages e. g.  Python,  Java Ability to gather information speedily and accurately from online sources via desk research Good knowledge of local UK geographies Communication and Cognitive Abilities Excellent verbal and written communication skills Excellent attention to detail with solid experience in participating in robust QA procedures Analytically minded with great problem-solving capabilities Pragmatic and methodical approach", 
+  "following": false, 
+  "companyDescription": "Cardlytics® is a purchase-based data intelligence platform that makes all advertising better.  Our patented technology measures and connects trillions in purchases to millions of consumers.  We partner with major financial institutions,  including Bank of America,  Lloyds Banking Group and FIS,  to provide Card-Linked Loyalty programs,  which deliver significant savings to customers and revenue to banks,  securely and without any personally identifiable information ever leaving the bank.  Our view into consumer spending,  and purchase-based targeting and measurement,  helps thousands of companies in the US and UK connect advertising directly to in-store sales lift.  Cardlytics is a private company that has raised more than $170 million from leading hedge and venture funds,  private investors,  and from the world’s leading loyalty company,  Aimia.  Headquartered in Atlanta,  Cardlytics has offices in London,  New York,  Chicago,  and San Francisco.  For more information,  visit www. cardlytics. com. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Cardlytics,  Inc. ", 
+  "canFollow": false, 
+  "companyId": "208544", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Cardlytics,  Inc. ", 
+    "title": "Data Science Engineer"
+  }, 
+  "description": "Cardlytics is seeking an inquisitive,  energetic,  solution oriented individual to join our Analytics team.  We are looking for a detail oriented individual that is keen on improving data quality within the organization.   The individual must embrace the importance of their role and its downstream implications on the business.   The Data Science Engineer will be working as a member of our Analytics team,  focused on improving current data processes and getting a holistic appreciation for the data that we use.  After a period of training,  the Data Science Engineer will be working closely with the team to help the business to categorise and normalise transactional data to be used for targeted campaigns.  As time allows,  the role will be exposed to BI reporting practices and support,  in addition to the implementation of an Enterprise Data Warehouse.  Responsibilities Mapping of bank transaction data to a corresponding retailer designation Interfacing with Sales,  Account Management and Analytics to ensure accurate timely data Continual review of past work to ensure textual mapping rules still apply"
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90337223", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Your profile: Master in (Applied) Computer Science or Science (Mathematics or Physics) First job experience in statistical process control (SPC),  data mining ( e. g.  insurances,   social analytics) or data warehousing,  DB administration or similar Expert knowledge of software technologies (C) and Matlab Simulink Programming- /Scripting languages : Python,  JavaScript,  Java First experience with Big Data technologies (Hadoop,  Hive,  No SQL) and RDMBS (Oracle,  SQL Server,  etc) Strong skills in using of statistics- and data mining software packages (IBM SPSS,  SAS,  RapidMiner,  KNIME) Applied knowledge in ETL tooling,  software development environments (Eclipse,  GNU ARM,  µC technologies) Strong analytical ability and problem analysis techniques Self responsible way of working Enjoy working in an international team Advanced English (German and other language skills are an advantage) Willingness to travel", 
+  "following": false, 
+  "companyDescription": "  “Made by Bosch” stands for exceptional quality of a global player.  As market leader,  the Automotive Electronics Division offers innovative electronic systems,  photo voltaic inverters,  control units,  sensors and system solution for the smart factory.  Be part of our new and innovative Bosch team in Cluj. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Bosch Group Romania", 
+  "canFollow": false, 
+  "companyId": "9361631", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Bosch Group Romania", 
+    "title": "Data Scientist (m/f)"
+  }, 
+  "description": "Data scientist for the development of smart factory systems for the international Bosch production and research facilities.  Process of Data Mining (CRISP-DM) Identifying and describing required data sources based on input from the process engineers (business understanding),  definition of data models,  data gather and the retention strategy,  data quality,  advanced data analysis,  development and maintenance of data mining solution libraries,  visualisation of data and analytics results,  transfer of the analytics results into the business process of the worldwide Bosch network.  Definition and selection of data mining tool sets in cooperation with corporate IT departments.  Collaboration with data specialists within international data mining and research projects.  Let's be remarkable together!"
+}

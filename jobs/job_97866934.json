@@ -1,0 +1,181 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-E115BECFC6", 
+    "expirationDate": 1451993932000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1443, 
+          "type": "LI", 
+          "endIdx": 1540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1357, 
+          "type": "LI", 
+          "endIdx": 1442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1249, 
+          "type": "LI", 
+          "endIdx": 1356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "LI", 
+          "endIdx": 1248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1075, 
+          "type": "LI", 
+          "endIdx": 1157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 977, 
+          "type": "LI", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "BG", 
+          "endIdx": 1540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "BR", 
+          "endIdx": 976, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 960, 
+          "type": "U", 
+          "endIdx": 976, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 960, 
+          "type": "B", 
+          "endIdx": 976, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 960, 
+          "type": "BR", 
+          "endIdx": 960, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 960, 
+          "type": "BR", 
+          "endIdx": 960, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " The growth team is a multi-disciplinary team consisting of Data Scientists,  Engineers,  Mathematicians,  Statisticians,  Physicists and Product Managers.  We are currently expanding our growth team and are seeking Data Scientists to drive forward the use of predictive modelling and data analytics to improve key business metrics,  and leverage our data platform to not only measure and instrument our business,  but to drive decisions around product and company strategy.  You are a hybrid of analyst and software engineer with a laser-like focus on data analysis and powerful SQL-fu.  You will use cutting-edge machine learning techniques to improve certain features of the site and to optimise core funnels and use various other data mining methods,  such as clustering analysis,  to help surface interesting trends or opportunities.  Ideally,  you will be a data-driven thinker that can apply novel solutions to problems using data to support any theories. Responsibilities Equip the team with a strong platform to conduct machine learning on various aspects of the site.  Leverage data mining techniques to drive forward or optimise products on the site.  Explore our abundance of data to extrapolate meaning and influence decisions and strategy.  Drive projects that that will directly increase conversion rates and overall Freelancer growth and revenue.  Understanding of Internet scale systems (scalability into tens of millions of users).  Extensive knowledge and experience in statistics,  machine learning and big data analytics a plus. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Freelancer. com", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "8 time Webby award winning Freelancer. com is the world's largest freelancing and crowdsourcing marketplace by total number of users and projects posted.  Over 16 million registered users have posted over 8. 3 million projects and contests to date in over 700 areas as diverse as website development,  logo design,  marketing,  copywriting,  astrophysics,  aerospace engineering and manufacturing.  Freelancer Limited is listed on the Australian Securities Exchange under the ticker ASX:FLN. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447024470000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3477553", 
+    "id": 97866934, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97866934?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F3119770098&urlHash=6Afg&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 2004, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/5/005/025/004/10ef708. png"
+    }, 
+    "localizedDescription": "8 time Webby award winning Freelancer. com is the world's largest freelancing and crowdsourcing marketplace by total number of users and projects posted.  \r\rOver 16 million registered users have posted over 8. 3 million projects and contests to date in over 700 areas as diverse as website development,  logo design,  marketing,  copywriting,  astrophysics,  aerospace engineering and manufacturing.  \r\rFreelancer Limited is listed on the Australian Securities Exchange under the ticker ASX:FLN. ", 
+    "company": {
+      "specialities": [
+        "Freelancing", 
+        "Crowdsourcing", 
+        "Outsourcing"
+      ], 
+      "universalName": "freelancer-com", 
+      "companyId": 3477553, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/025/004/171f104. png"
+      }
+    }, 
+    "canonicalName": "Freelancer. com", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

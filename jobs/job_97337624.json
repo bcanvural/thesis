@@ -1,0 +1,306 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-25024", 
+    "expirationDate": 1451865209000, 
+    "title": "Researcher / Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1211, 
+          "type": "BR", 
+          "endIdx": 1211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1211, 
+          "type": "BR", 
+          "endIdx": 1211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1210, 
+          "type": "BR", 
+          "endIdx": 1210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1210, 
+          "type": "BR", 
+          "endIdx": 1210, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1183, 
+          "type": "BR", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1183, 
+          "type": "BR", 
+          "endIdx": 1183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1138, 
+          "type": "BR", 
+          "endIdx": 1138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1138, 
+          "type": "BR", 
+          "endIdx": 1138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1099, 
+          "type": "BR", 
+          "endIdx": 1099, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1099, 
+          "type": "BR", 
+          "endIdx": 1099, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1068, 
+          "type": "BR", 
+          "endIdx": 1068, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1068, 
+          "type": "BR", 
+          "endIdx": 1068, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 928, 
+          "type": "BR", 
+          "endIdx": 928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 928, 
+          "type": "BR", 
+          "endIdx": 928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 832, 
+          "type": "BR", 
+          "endIdx": 832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 832, 
+          "type": "BR", 
+          "endIdx": 832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "BR", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "BR", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "BR", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 615, 
+          "type": "BR", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "U", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "B", 
+          "endIdx": 615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "BR", 
+          "endIdx": 512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 512, 
+          "type": "BR", 
+          "endIdx": 512, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 406, 
+          "type": "BR", 
+          "endIdx": 406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 406, 
+          "type": "BR", 
+          "endIdx": 406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 313, 
+          "type": "BR", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 313, 
+          "type": "BR", 
+          "endIdx": 313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהApply your expertise in mathematics,  quantitative analysis,  data mining and machine learning to develop models and algorithms for online marketing (search engines such as Google,  Bing and more,  social networks etc. ) to infer online market behavior and optimize spend to maximize profit for our clients. Work closely with other teams around Sentic to integrate the platforms features into productsMake decisions on whether specific problems can be solved and how they can be solved based on raw datasetsDefine the roadmap and contribute to the development of solutions for a variety of projectsדרישות המשרהB. S. ,  M. S. ,  or Ph. D.  in Computer Science,  Mathematics,  Statistics,  Engineering or related field.  Advanced degrees preferredAbility to initiate and drive research projects from start to completion with minimal guidanceExperience in data science (predictive modeling/data mining / machine learning / optimizations). Hands on experience working with big data sets using No-SQLExperience with at least one scripting/ modeling language (Python/Matlab/R/Scala)Experience in predictive modelsExperience in big data machine learningExperience in classification &amp; clusteringExperience in deep learning "
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446867418000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 97337624, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "foundedYear": 1995, 
+    "canonicalName": "Nisha Group", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 28 days ago", 
+  "formattedPostedDaysAgoSlim": "28 days ago", 
+  "formattedPostedDaysAgoShort": "28d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 7,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97337624?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F25024%2FResearcher-Data-Scientist&urlHash=e_K5&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

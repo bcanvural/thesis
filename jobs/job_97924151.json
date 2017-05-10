@@ -1,0 +1,282 @@
+{
+  "jobPosting": {
+    "companyJobCode": "brassring-171320BR", 
+    "expirationDate": 1451861023000, 
+    "title": "Data Scientist,  Scientific Data Analysis", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2248, 
+          "type": "BR", 
+          "endIdx": 2248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2248, 
+          "type": "BR", 
+          "endIdx": 2248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2213, 
+          "type": "BR", 
+          "endIdx": 2213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2163, 
+          "type": "BR", 
+          "endIdx": 2163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2065, 
+          "type": "BR", 
+          "endIdx": 2065, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "BR", 
+          "endIdx": 2001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1913, 
+          "type": "BR", 
+          "endIdx": 1913, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1867, 
+          "type": "BR", 
+          "endIdx": 1867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1824, 
+          "type": "BR", 
+          "endIdx": 1824, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1793, 
+          "type": "BR", 
+          "endIdx": 1793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1737, 
+          "type": "BR", 
+          "endIdx": 1737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1644, 
+          "type": "BR", 
+          "endIdx": 1644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1437, 
+          "type": "BR", 
+          "endIdx": 1437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1329, 
+          "type": "BR", 
+          "endIdx": 1329, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1273, 
+          "type": "BR", 
+          "endIdx": 1273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1155, 
+          "type": "BR", 
+          "endIdx": 1155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1102, 
+          "type": "BR", 
+          "endIdx": 1102, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1003, 
+          "type": "BR", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1003, 
+          "type": "BR", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "U", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "B", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "BR", 
+          "endIdx": 976, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 976, 
+          "type": "BR", 
+          "endIdx": 976, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 421, 
+          "type": "BR", 
+          "endIdx": 421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 421, 
+          "type": "BR", 
+          "endIdx": 421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 380, 
+          "type": "BR", 
+          "endIdx": 380, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 380, 
+          "type": "BR", 
+          "endIdx": 380, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Description The Informatics department (NX) at Novartis Institutes for BioMedical Research (NIBR) is looking for an independent Data Scientist to join the multidisciplinary Scientific Data Analysis team that brings together bench scientists,  software engineers,  statisticians and bioinformaticians to provide high quality analyses of large scale experimental data. Work location will be Basel,  Switzerland. You will be responsible for the exploration and development of deep neural network approaches for applications in drug discovery.  You will work closely with drug discovery teams and computational biology colleagues to frame key questions,  define data sets for these efforts,  and perform machine learning and analysis aspects of these projects.  Furthermore,  you will identify tractable machine learning problems in all stages of drug discovery from disease biology discovery,  to target identification,  assay development,  safety,  and patient stratification. Specific Activities Include• Understanding relevant datasets,  both those generated internally and those from the public domain• Providing guidance on study design to project teams• Applying machine learning algorithms – especially deep learning methods when applicable – to drug discovery problems• Educating colleagues about machine learning approaches• Communicating data analysis results and methods to the NIBR community and the broader scientific community• Staying current with new developments in machine learning methodology Minimum requirements• PhD or Master’s degree in Computer Science,  Data Science,  Mathematics,  Statistics,  Engineering or a related field• Several years of experience in data science or data analysis; industry experience preferred• Proven experience in applying deep learning approaches• Expertise in machine learning• Expertise in data analysis and statistics• Experience working in Unix/Linux environment• Strong scientific curiosity and initiative; work experience in life sciences preferred• Demonstrated ability to work collaboratively as part of a team• Strong analytical skills and proven capability to provide clear,  correct,  and actionable results• Excellent interpersonal and communication skills• Fluency in English (oral/written)"
+    }, 
+    "postalCode": "4003", 
+    "jobState": "LISTED", 
+    "companyName": "Novartis", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Novartis provides healthcare solutions that address the evolving needs of patients and societies worldwide.  We want to discover,  develop and successfully market innovative products to prevent and cure diseases,  to ease suffering,  and to enhance the quality of life.  Our portfolio focuses on broad areas of healthcare: pharmaceuticals,  eye care and generics. Novartis is headquartered in Basel,  Switzerland.  Novartis Group companies employ approximately 120, 000 associates and Novartis products are available in more than 180 countries around the world. See our community guidelines: https://www. novartis. com/sites/www. novartis. com/files/linkedin-community-guidelines. pdf"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1447058427000, 
+    "countryCode": "ch", 
+    "company": "urn:li:company:1406", 
+    "id": 97924151, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Basel,  CH", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97924151?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fsjobs. brassring. com%2FTGWebHost%2Fjobdetails. aspx%3Fsiteid%3D5296%26partnerid%3D13617%26jobid%3D2378684&urlHash=WzMy&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Research", 
+        "Innovation", 
+        "Quality", 
+        "Sustainability", 
+        "innovative medicines", 
+        "vaccines and diagnostic tools", 
+        "generic medicines and biosimilars", 
+        "global leader in eye care", 
+        "self-medication products", 
+        "unique portfolio focuses & broad healthcare portfolio"
+      ], 
+      "universalName": "novartis", 
+      "companyId": 1406, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/06a/152/373e716. png"
+      }
+    }, 
+    "localizedDescription": "Novartis provides healthcare solutions that address the evolving needs of patients and societies worldwide.  We want to discover,  develop and successfully market innovative products to prevent and cure diseases,  to ease suffering,  and to enhance the quality of life.  \r\rOur portfolio focuses on broad areas of healthcare: pharmaceuticals,  eye care and generics. \r\rNovartis is headquartered in Basel,  Switzerland.  Novartis Group companies employ approximately 120, 000 associates and Novartis products are available in more than 180 countries around the world. \r\rSee our community guidelines: https://www. novartis. com/sites/www. novartis. com/files/linkedin-community-guidelines. pdf", 
+    "foundedYear": 1996, 
+    "formattedIndustries": [
+      "Pharmaceuticals"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Novartis", 
+    "careersImage": "urn:li:media:/p/2/005/06a/3e3/147721c. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/000/119/338/3efd961. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/2/005/06a/3e3/147721c. png"
+  }, 
+  "formattedIndustries": [
+    "Pharmaceuticals"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

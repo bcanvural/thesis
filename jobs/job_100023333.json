@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "QuantumBlack", 
+    "functions": [
+      "RSCH", 
+      "CNSL"
+    ], 
+    "companyJobCode": "workable_xml-EBF63FDA63", 
+    "title": "Data Scientist (Consultant / Analyst)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100023333, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. quantumblack. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAXmAAAAJDJhNDdkODk2LTVhNDYtNDdlZC1iOWU5LWE0ZjgxNDBhYTc3Yw. png", 
+    "universalName": "quantumblack", 
+    "companyId": 900243
+  }, 
+  "description": "    We’re looking for an exceptional Data Scientist with a genuinely    creative outlook – and a collaborative approach.  This role gives you    the chance to balance experimentation with project delivery.  You’ll    also get a chance to work with very senior clients,  as part of a    talented multidisciplinary team,  solving real-world strategic and    challenging business problems in a wide variety of industries and    contexts.     What you'll do       Support the client services lead to identify business hypotheses        and metrics       Map data sources to hypotheses,  variables,  and analytical methods       Work closely with the data engineering team to create variables,         views,  and prepare data for analysis       Carry out exploratory data analysis,  create visualisations,  and        perform statistical analyses       Create explanatory and predictive models       Translate commercial and business objectives into analytical        targets,  and analytical outputs into business impact     Requirements       An advanced degree (preferably PhD) in a quantitative field       Strong programming skills       A background in Matlab,  R,  Python,  or Scala/Spark       A knowledge of SQL,  NoSQL,  and Big Data databases", 
+  "companyDescription": "      QuantumBlack    QuantumBlack helps companies use data to drive decisions.  We combine    business experience,  expertise in large-scale data analysis and    visualization,  and advanced software engineering know-how to deliver    results.  From aerospace to finance to Formula One,  we help companies    prototype,  develop,  and deploy bespoke data science and data    visualisation solutions to make better decisions.     In today’s competitive environment,  organizations that respond faster    to change,  with better insight and greater precision,  hold a    sustainable advantage.  At the same time,  information has gone from    scarce to superabundant,  affording an unprecedented opportunity for    them to do so.  Effective decision-making is therefore increasingly    underpinned by data processing and technology capabilities. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

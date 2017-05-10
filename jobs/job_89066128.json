@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89066128", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Preferred skills and qualifications: Degree in mathematics,  computer science,  statistics or other related fields At least two years of experience in data science Experience with at least one data analysis tools like SciPy,  R,  etc.  Knowledge of (big) data related tools like: Hadoop,  Spark,  Tableau etc.  Programming skills in at least one mainstream language (preferably Java or Python) Open minded and keen on learning Experience in online marketing,  RTB optimization a big plus", 
+  "following": false, 
+  "companyDescription": "glispa is a high-performance,  digital marketing pioneer empowering our clients to activate global audiences,  reach growth objectives and move markets.  With offices in Berlin,  Beijing,  San Francisco,  Tel Aviv,  Bangalore and Sao Paulo our multinational,  client-focused team boasts 40 nationalities and 24 languages.    The inside scoop on us: Founded 2008; organically grown &amp; highly profitable; awarded Deloitte Fast 50 &amp; Red Herring,  located in the heart of Berlin’s new media district High performance,  multicultural and collaborative culture,  dynamic start up attitude Transparency,  agility,  empowered small teams and tailored career progression create the environment where you can make your mark Strong social vibe; regular team &amp; company events,  perks include breakfasts,  after-work beers,  provision of healthy food &amp; drink options Relocation &amp; acclimatization assistance for international candidates including on-site language classes  ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "glispa GmbH", 
+  "canFollow": false, 
+  "companyId": "143634", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "glispa GmbH", 
+    "title": "Data Scientist"
+  }, 
+  "description": "We are looking for a multi-disciplinary Data Scientist who is driven by problems.  As a fast growing company we face many differents problems,  all involving data.  You will work closely with various stakeholders in the company and your primary goal will be to obtain deeper  understanding of the business and derive methods and algorithms to improve it.   Key responsibilities: Design data crunching and machine learning tailored algorithms Be involved in building and expanding glispa’s data science infrastructure and workflows Study existing data and derive actionable knowledge Take part in all development steps; from design to integration Monitor performances and detect bottlenecks Ask smart questions and come up with brilliant answers"
+}

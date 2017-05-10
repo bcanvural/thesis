@@ -1,0 +1,531 @@
+{
+  "jobPosting": {
+    "companyJobCode": "emptylemon-696895", 
+    "expirationDate": 1451925555000, 
+    "title": "Senior/Lead Data Scientist (Senior,  Lead,  Data)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4927, 
+          "type": "BR", 
+          "endIdx": 4927, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4927, 
+          "type": "BR", 
+          "endIdx": 4927, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4918, 
+          "type": "BR", 
+          "endIdx": 4918, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4918, 
+          "type": "BR", 
+          "endIdx": 4918, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4865, 
+          "type": "BR", 
+          "endIdx": 4865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4865, 
+          "type": "BR", 
+          "endIdx": 4865, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4742, 
+          "type": "BR", 
+          "endIdx": 4742, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4742, 
+          "type": "BR", 
+          "endIdx": 4742, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4737, 
+          "type": "U", 
+          "endIdx": 4742, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4737, 
+          "type": "B", 
+          "endIdx": 4742, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4737, 
+          "type": "BR", 
+          "endIdx": 4737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4737, 
+          "type": "BR", 
+          "endIdx": 4737, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4403, 
+          "type": "BR", 
+          "endIdx": 4403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4134, 
+          "type": "BR", 
+          "endIdx": 4134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4134, 
+          "type": "BR", 
+          "endIdx": 4134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4122, 
+          "type": "U", 
+          "endIdx": 4134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4122, 
+          "type": "B", 
+          "endIdx": 4134, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4122, 
+          "type": "BR", 
+          "endIdx": 4122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4122, 
+          "type": "BR", 
+          "endIdx": 4122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4087, 
+          "type": "LI", 
+          "endIdx": 4122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4028, 
+          "type": "LI", 
+          "endIdx": 4087, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3930, 
+          "type": "LI", 
+          "endIdx": 4028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3858, 
+          "type": "LI", 
+          "endIdx": 3930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3808, 
+          "type": "LI", 
+          "endIdx": 3858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3730, 
+          "type": "LI", 
+          "endIdx": 3808, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3730, 
+          "type": "BR", 
+          "endIdx": 3730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3730, 
+          "type": "BR", 
+          "endIdx": 3730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "U", 
+          "endIdx": 3730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "B", 
+          "endIdx": 3730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "BR", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "BR", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3558, 
+          "type": "LI", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3410, 
+          "type": "LI", 
+          "endIdx": 3558, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3307, 
+          "type": "LI", 
+          "endIdx": 3410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3226, 
+          "type": "LI", 
+          "endIdx": 3307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3155, 
+          "type": "LI", 
+          "endIdx": 3226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3155, 
+          "type": "BR", 
+          "endIdx": 3155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3155, 
+          "type": "BR", 
+          "endIdx": 3155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3103, 
+          "type": "U", 
+          "endIdx": 3155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3103, 
+          "type": "B", 
+          "endIdx": 3155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3103, 
+          "type": "BR", 
+          "endIdx": 3103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3103, 
+          "type": "BR", 
+          "endIdx": 3103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2978, 
+          "type": "LI", 
+          "endIdx": 3103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2847, 
+          "type": "LI", 
+          "endIdx": 2978, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2782, 
+          "type": "LI", 
+          "endIdx": 2847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2739, 
+          "type": "LI", 
+          "endIdx": 2782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2661, 
+          "type": "LI", 
+          "endIdx": 2739, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2594, 
+          "type": "LI", 
+          "endIdx": 2661, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2470, 
+          "type": "LI", 
+          "endIdx": 2594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2312, 
+          "type": "LI", 
+          "endIdx": 2470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2226, 
+          "type": "LI", 
+          "endIdx": 2312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2026, 
+          "type": "LI", 
+          "endIdx": 2226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1905, 
+          "type": "LI", 
+          "endIdx": 2026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1822, 
+          "type": "LI", 
+          "endIdx": 1905, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1716, 
+          "type": "LI", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1581, 
+          "type": "LI", 
+          "endIdx": 1716, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1513, 
+          "type": "LI", 
+          "endIdx": 1581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1460, 
+          "type": "LI", 
+          "endIdx": 1513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1460, 
+          "type": "BR", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1460, 
+          "type": "BR", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "U", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "B", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "BR", 
+          "endIdx": 1447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1447, 
+          "type": "BR", 
+          "endIdx": 1447, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1129, 
+          "type": "BR", 
+          "endIdx": 1129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1129, 
+          "type": "BR", 
+          "endIdx": 1129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 730, 
+          "type": "BR", 
+          "endIdx": 730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 730, 
+          "type": "BR", 
+          "endIdx": 730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 246, 
+          "type": "BR", 
+          "endIdx": 246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 246, 
+          "type": "BR", 
+          "endIdx": 246, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7, 
+          "type": "BR", 
+          "endIdx": 7, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7, 
+          "type": "BR", 
+          "endIdx": 7, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 7, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 7, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "SummaryA new team is being created to help drive initiatives to improve the efficiency and awareness of our online and mobile experience while delivering consumer analytics efforts to better understand how users engage with our digital platforms. We are looking for savvy Data Scientists to help improve customer engagement,  lower cost to serve and increase customer retention.  This role will focus on driving the shift in how digital media is used by our customers today; to forward a performance platform that provides a high degree of consumer and engagement insights.  The data scientists will be key members of the team that is making sure our platforms are hitting pace and that we are generating maximum revenue per customer. We are building out a sophisticated data management platform based around Cassandra,  Spark and Hadoop,  and the company now collects huge amounts of data across many dimensions.  A key challenge for anyone filling this role is to go beyond simply being a \"stats\" person or modeller and be someone who is able to \"get into the grid\" in the programming languages that are used in a Big Data environment. The role will include working with a wide range of departments,  including Marketing,  Product,  Sales and Technical,  so candidates must be able to traverse the different communication needs of such a wide audience and be able to communicate ideas and solutions in both a business and technical manner with equal clarity. Role OverviewDesigns experiments,  test hypotheses and build modelsConducts advanced data analysis and highly complex designs algorithmApplies advanced statistical and predictive modelling techniques to build,  maintain,  and improve on multiple real-time decision systemsLeads discovery processes with stakeholders to identify the business requirements and the expected outcomeWorks with and alongside business analysts by suggesting other products of interestModels and frames business scenarios that are meaningful and which impact on critical business processes and/or decisionsIdentifies what data is available and relevant,  including internal and external data sources,  leveraging new data collection processes such as smart meters and geo-location information or social mediaCollaborates with subject matter experts to select the relevant sources of informationMakes strategic recommendations on data collection,  integration and retention requirements incorporating business requirements and knowledge of best practicesDevelops innovative and effective approaches to solve client's analytics problems and communicates results and methodologiesWorks in iterative processes with the client and validates findingsDevelops experimental design approaches to validate finding or test hypothesesValidates analysis using scenario modellingIdentifies/creates the appropriate algorithm to discover patternsAssesses,  with the business,  opportunities to enhance the qualification and assurance of the information to strengthen the use caseDefines the validity of the information,  how long the information is meaningful,  and what other information it is related to. What The Successful Candidate Will Bring To The RoleBoth statistical modelling experience and technical,  engineering skillsExperienced on the commercial side,  and decidedly \"hands-on\" not just theoreticalAbility and experience dealing with very granular data - preferably from a Hadoop data storage platformHave the ability to use analytics to drive key success metrics related to yield management and revenue generation,  not just an analytics-orientationWork with others to develop,  refine and scale data management and analytics procedures,  systems,  workflows,  best practices and other issuesThe Desirable Candidate Will HaveAbility and experience designing and developing solutions for increasing yieldExperience of statistical modelling using R codingExperience of working with Hadoop family of products,  specifically SparkProven mastery of analysis and development of online ad systems for consumer products and servicesDegree in a quantitative field with working knowledge of CSSignificant professional experienceThe BenefitsAs well as a rewarding career,  development opportunities and competitive salary,  you'll also enjoy 25 days holiday (plus Bank Holidays),  pension,  option to purchase childcare vouchers,  and become eligible for our staff energy tariff along with other great ad-hoc offersWe believe in putting energy into looking after our teams,  so you'll benefit from BUPA Private Healthcare,  cycle to work scheme,  a great working environment with relaxation areas to recharge your batteries and free soft drinks available all day.  We also have \"Fruity Friday\" where fresh fruit is available every week for all employeesOtherAll applicants must be eligible to live and work in the UK and ideally be within commutable travelling distance of Warwick. To apply for this role,  click the APPLY button below. Excellent"
+    }, 
+    "postalCode": "CV32", 
+    "jobState": "LISTED", 
+    "companyName": "First Utility", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We're the UK's largest independent energy provider,  supplying gas and electricity to more than 800, 000 UK homes.  We want to change the face of the energy industry by campaigning for more transparency,  better communication and a speedier switching process for customers.   And by using the latest technology,  we put our customers firmly in control of their energy,  so they can spend less on what they need and more on what they want. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1447699674000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:379026", 
+    "id": 99054878, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Warwick,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99054878?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. emptylemon. co. uk%2FJob%2Ffirst-utility%2Fsenior-lead-data-scientist-senior-lead-data%2F696895&urlHash=HwVh&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Utilities"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "We're the UK's largest independent energy provider,  supplying gas and electricity to more than 800, 000 UK homes.  We want to change the face of the energy industry by campaigning for more transparency,  better communication and a speedier switching process for customers.   And by using the latest technology,  we put our customers firmly in control of their energy,  so they can spend less on what they need and more on what they want. ", 
+    "foundedYear": 2008, 
+    "canonicalName": "First Utility", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAcIAAAAJGViNDU3YmEyLWU5NmUtNGMwMC05ODdiLTgxZDgzOWQ0YTNlOA. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Low priced energy tariffs", 
+        "domestic electricity", 
+        "domestic gas"
+      ], 
+      "universalName": "first-utility", 
+      "companyId": 379026, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAUpAAAAJDljOGExNDQ0LTBkODItNDM0Ny1iODU3LTFiOTU2YjY3MzZjMA. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedIndustries": [
+    "Utilities"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

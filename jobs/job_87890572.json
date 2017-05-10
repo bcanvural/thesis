@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87890572", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "OMsignal (www. OMsignal. com) is a world leader in biometric technology and smart apparel,  developing products and applications that help people live fitter,  healthier lives.  Weaving technology into life,  the OM smart clothing platform provides a seamless connection between body,  textile and technology,  empowering the world’s leading fashion and sport brands to incorporate the very latest biometric technology into their clothing and stay one step ahead of the game.  Founded in 2011 by Stephane Marceau and Frederic Chanay,  OMsignal is home to an array of multinational interdisciplinary professionals who work together to advance and evolve wearable technology. For more information visit: http://www. omsignal. com", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "OMsignal", 
+  "canFollow": false, 
+  "companyId": "2448154", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "OMsignal", 
+    "title": "Big Data Software Engineer / Data Scientist"
+  }, 
+  "description": "Looking for Big Data Software Engineer / Data Scientist to join one of the most exciting start-ups in Montreal   We are looking for a Software Engineer who is well versed into Big Data,  Data Science and Statistics.  You will utilize the biometric data from our platform and you will design and build scalable systems that apply machine learning,  statistical modeling,  data visualization and other data science techniques to develop predictive models and generate insights.    We currently use the following technologies: Backend: Scala,  Akka,  Akka Persistence,  Spray,  ReactiveMongo,  SBT,  Kafka,  ZooKeeper,  InfluxDB (for time series and metrics),  and Elastic Search (for monitoring) Web: NodeJS,  AngularJS iOS: Swift,  Objective C,  ReactiveCocoa,  Core Bluetooth,  CocoaPods DevOps: Ubuntu,  Docker,  Ruby,  Amazon AWS/EC2 Source code management: git/github Agile project management: JIRA,  Confluence   In terms of our culture,  we get some inspiration from the Open Source model to achieve high cohesion (within teams) and low coupling (between teams): small,  empowered teams,  systematic pull requests,  developer autonomy.     Your qualifications and experience: M. Sc.  or Ph. D.  in a relevant technical field (computer science,  mathematics,  physics,  bioinformatics,  etc. ) or 4+ years experience in a relevant role Solid understanding of statistical modeling,  predictive analysis,  data mining and machine learning and demonstrated ability to apply statistical or data mining techniques to solve real problems Expert knowledge of a data analysis and visualization tool such as R,  Matlab or SAS Experience programming in an object oriented language (Java,  C++,  Scala,  etc. ) Proficiency with relational databases and SQL Experience working with large datasets and massively parallel architectures; proficiency with frameworks and tools such as MongoDB,  InfluxDB,  Hadoop,  MapReduce,  Pig,  Hive,  Spark and/or Samza Experience with Agile methodologies in a fast paced,  results-oriented organization   Your skills: Passionate and energetic about what you do Self-motivated and resourceful Approach technical challenges with an open mind and desire to innovate Have strong communicative skills Are flexible and adaptable to both organizational and project-level changes Can operate under tight deadlines Like to build software as part of a team A plus if you use applications to track yourself and life A plus if you practice yoga or other wellbeing practices   Show us what you can do: If you have a github/bitbucket account,  we would love to take a look at what you like doing (if you feel ashamed of it in retrospective,  don’t worry and instead explain to us what you would now improve). "
+}

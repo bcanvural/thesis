@@ -1,0 +1,308 @@
+{
+  "jobPosting": {
+    "companyJobCode": "careers-achilles-2726", 
+    "expirationDate": 1451991205000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2175, 
+          "type": "BR", 
+          "endIdx": 2175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2175, 
+          "type": "BR", 
+          "endIdx": 2175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1880, 
+          "type": "BR", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1880, 
+          "type": "BR", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1840, 
+          "type": "BR", 
+          "endIdx": 1840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1784, 
+          "type": "BR", 
+          "endIdx": 1784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1724, 
+          "type": "BR", 
+          "endIdx": 1724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1692, 
+          "type": "BR", 
+          "endIdx": 1692, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1633, 
+          "type": "BR", 
+          "endIdx": 1633, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1583, 
+          "type": "BR", 
+          "endIdx": 1583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "BR", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "BR", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1513, 
+          "type": "B", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1513, 
+          "type": "BR", 
+          "endIdx": 1513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1513, 
+          "type": "BR", 
+          "endIdx": 1513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1270, 
+          "type": "BR", 
+          "endIdx": 1270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1270, 
+          "type": "BR", 
+          "endIdx": 1270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1212, 
+          "type": "BR", 
+          "endIdx": 1212, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1119, 
+          "type": "BR", 
+          "endIdx": 1119, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1038, 
+          "type": "BR", 
+          "endIdx": 1038, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 906, 
+          "type": "BR", 
+          "endIdx": 906, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 748, 
+          "type": "BR", 
+          "endIdx": 748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "BR", 
+          "endIdx": 681, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 611, 
+          "type": "BR", 
+          "endIdx": 611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 502, 
+          "type": "BR", 
+          "endIdx": 502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 383, 
+          "type": "BR", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 383, 
+          "type": "BR", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 292, 
+          "type": "U", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 292, 
+          "type": "B", 
+          "endIdx": 383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 292, 
+          "type": "BR", 
+          "endIdx": 292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 292, 
+          "type": "BR", 
+          "endIdx": 292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 190, 
+          "type": "BR", 
+          "endIdx": 190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 190, 
+          "type": "BR", 
+          "endIdx": 190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Working as part of the team of Data Analysts within the growing Data Function to manage,  cleanse,  analyse,  interpret and report on supplier data supporting Global Projects teams. The role is a key part of the project team and supports the campaigns throughout the entire lifecycle. Become Lead Analyst For a Global Customer Undertaking All Data Related Activities Including• Handling and processing a high volume of data on a weekly or monthly basis using an accurate and analytical approach. • Using Microsoft Excel to accurately convert supplier information identifying patterns / trends in the data. • Create statistics &amp; reports for internal and external customers. • Work across a number of projects,  often with competing deadlines. • Pro-actively analyse the efficiency of processes undertaken and suggest/implement improvements as part of the continual process improvement within the team. • Responding to ad-hoc requests for data - identifying the methodology to use and documenting any new recurring tasks and processes. • Identifying problems within datasets and suggesting solutions to overcome them. • Ability to pick up different related tasks as required and supporting multiple individuals. • Ability to understand business information requirements. The ideal candidate will be a graduate with advanced experience using Microsoft Excel.   They will have a data handling or a mathematical background,  with experience in a similar role handling large amounts of data to a high degree of accuracy. Essential skills• Experience of managing and analysing large datasets. • Creative approach to handling and managing data. • Knowledge and/or experience of de-duplication techniques. • Excellent organisation skills. • Attention to detail to ensure all data is of high quality. • Quick leaner must be flexible,  with a can-do attitude. • Logical,  methodical approach to tasks. The successful applicant will be a well-organised team player who is flexible and adaptable and maintains a high attention to detail.   They will be an effective forward planner with good prioritisation skills,  with the ability to accurately process a large volume of data to ensure high quality. "
+    }, 
+    "postalCode": "OX14", 
+    "jobState": "LISTED", 
+    "companyName": "Achilles Group Limited", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Achilles creates and manages a global network of collaborative industry communities,  allowing trading partners to share high quality,  structured,  real-time data. Using cloud-based technology,  we act as an independent partner providing validated data and insightful analytics to enable buyers to manage risk,  and suppliers to increase market reach in their sector. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1446819126000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:442498", 
+    "id": 97088243, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Abingdon,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Services"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Achilles creates and manages a global network of collaborative industry communities,  allowing trading partners to share high quality,  structured,  real-time data. \r\rUsing cloud-based technology,  we act as an independent partner providing validated data and insightful analytics to enable buyers to manage risk,  and suppliers to increase market reach in their sector. ", 
+    "foundedYear": 1990, 
+    "canonicalName": "Achilles Group Limited", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/005/058/227/24bca99. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Supply Chain Solutions", 
+        "Supplier Data Management", 
+        "Supplier Audit and Assessment", 
+        "Supply chain risk management"
+      ], 
+      "universalName": "achilles-group-limited", 
+      "companyId": 442498, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJGAAAAJDI4MDJkZGQ4LWZjOTYtNGIzNC05Nzc5LTNkNGMwOWJiZDFkOA. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "29d", 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97088243?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers-achilles. icims. com%2Fjobs%2F2726%2Fdata-analyst%2Fjob%3Fin_iframe%3D1%26iis%3DLINKEDIN%26iisn%3Dlinkedin. com&urlHash=jX__&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,245 @@
+{
+  "jobPosting": {
+    "companyJobCode": "psdgroup-870650", 
+    "expirationDate": 1451878693000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2126, 
+          "type": "LI", 
+          "endIdx": 2338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2073, 
+          "type": "LI", 
+          "endIdx": 2126, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2022, 
+          "type": "LI", 
+          "endIdx": 2073, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1918, 
+          "type": "LI", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1743, 
+          "type": "LI", 
+          "endIdx": 1918, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1612, 
+          "type": "LI", 
+          "endIdx": 1743, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1612, 
+          "type": "BG", 
+          "endIdx": 2338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "BR", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1595, 
+          "type": "BR", 
+          "endIdx": 1595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "LI", 
+          "endIdx": 1595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1331, 
+          "type": "BG", 
+          "endIdx": 1595, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1215, 
+          "type": "LI", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1215, 
+          "type": "BG", 
+          "endIdx": 1331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1053, 
+          "type": "LI", 
+          "endIdx": 1215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "LI", 
+          "endIdx": 1053, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 536, 
+          "type": "LI", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 269, 
+          "type": "LI", 
+          "endIdx": 536, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 269, 
+          "type": "BG", 
+          "endIdx": 1215, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "BR", 
+          "endIdx": 268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 248, 
+          "type": "BR", 
+          "endIdx": 248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 248, 
+          "type": "BR", 
+          "endIdx": 248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 140, 
+          "type": "BR", 
+          "endIdx": 140, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 140, 
+          "type": "BR", 
+          "endIdx": 140, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Job Description                                     Data Scientist / MI Consultant – BI - Data Analytics - Insurance Broking – London MarketA leading Insurance organisation is looking to recruit a contract Data Scientist for an important programme. KEY RESPONSIBILITIES Participate in solutioning efforts to define and develop Data and Statistical Modelling components,  that interoperate seamlessly with existing Talent,  Reward and Performance business systems and can be leveraged by Consulting teams to add value to Client Engagements Leverage Data Visualization techniques and tools to effectively demonstrate patterns,  outliers and exceptional conditions in the data Leverage Data from across the Talent,  Rewards and Performance business and,  as necessary,  source and integrate public data Focus on design and execution of data-centric business problems,  and in the process create unique analytical solutions comprising (Big) Data management,  supported by advanced analytical techniques (e. g. ,  R,  machine learning,  neural networks,  A/B testing,  etc) Generate and test working hypotheses,  prepare and analyze historical data,  identify patterns from samples for reporting of trends and support Predictive AnalyticsConceptualize necessary Data Governance models to support the technical solution and assure the veracity of the dataWork collaboratively with other members of the Data,  Analytics and Reporting (and IT) teams to innovate and create compelling data-based stories and experiences Ensure Models developed can be leveraged and sold to generate revenue by the company’s Consulting teamsKEY REQUIREMENTS Masters/Ph. D.  in Computer Science,  Statistics,  Engineering or similar technical field and 2-3+ years’ experience in a relevant roleWell versed at applying advanced analytical techniques to large and varied data sets,  generated and flowing at a rapid rate.  Sample techniques include,  but are not limited to:Applied machine learning and natural language processing Collaborative filtering and recommender systemsSocial network analysis and statistical text miningNeural networks Data visualization (QlikView/Tableau)Data mining and predictive modelling Deep knowledge of Statistical Modelling,  using R,  SPSS or Alteryx.  Proficient with programming languages supported by a big data platform,  like . NET,  Python,  C++,  or ECL,  etc. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "PSD Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "PSD is a leading international board,  management and executive recruitment consultancy.  Our reputation has been built upon delivering outstanding results and exceptional service levels.  For more information &amp; to review the current opportunities,  go to http://www. psdgroup. com. PSD operates through a matrix structure organised by geography,  function and industry sector.  Our consultants are subject matter experts in their chosen fields,  they are experienced,  thoroughly trained and,  importantly,  passionate about their specialist fields. We employ over 200 experienced consultants in seven offices across Europe and Asia.  Our worldwide office network and global candidate contact networks reflect the international reach of our clients and the global nature of today's talent pool.  During the last five years,  we have placed candidates in 75 different countries. At PSD,  we have a key point of difference - the quality of our people.  It's through the skills and knowledge of our consultants and support staff that we are able to provide our clients and candidates with outstanding results and exceptional service. We were recently awarded the Gold status by Investors in People and were congratulated for being an \"exemplar organisation with great people management practices\".  We were commended for having \"engendered genuine loyalty and affection from staff\". Sectors: Banking &amp; Financial services,  Hospitality,  Leisure &amp; Travel,  Business &amp; Professional Services,  Property &amp; Construction,  Retail,  Technology &amp; Media,  Industry,  Retail &amp; Consumer,  Sport"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447815385000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:7399", 
+    "id": 99442900, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "PSD is a leading international board,  management and executive recruitment consultancy.  Our reputation has been built upon delivering outstanding results and exceptional service levels.  For more information & to review the current opportunities,  go to http://www. psdgroup. com. \r\rPSD operates through a matrix structure organised by geography,  function and industry sector.  Our consultants are subject matter experts in their chosen fields,  they are experienced,  thoroughly trained and,  importantly,  passionate about their specialist fields. \r\rWe employ over 200 experienced consultants in seven offices across Europe and Asia.  Our worldwide office network and global candidate contact networks reflect the international reach of our clients and the global nature of today's talent pool.  During the last five years,  we have placed candidates in 75 different countries. \r\rAt PSD,  we have a key point of difference - the quality of our people.  It's through the skills and knowledge of our consultants and support staff that we are able to provide our clients and candidates with outstanding results and exceptional service. \r\rWe were recently awarded the Gold status by Investors in People and were congratulated for being an \"exemplar organisation with great people management practices\".  We were commended for having \"engendered genuine loyalty and affection from staff\". \r\rSectors: Banking & Financial services,  Hospitality,  Leisure & Travel,  Business & Professional Services,  Property & Construction,  Retail,  Technology & Media,  Industry,  Retail & Consumer,  Sport", 
+    "foundedYear": 1991, 
+    "canonicalName": "PSD Group", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAL1AAAAJDE1YzRiYjYzLWQ3ZTAtNGEzZi1hNjg1LTdlNjgyOWZmZTk4Ng. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Board Practice", 
+        "Hospitality & Retail Operational Management", 
+        "Accountancy", 
+        "HR", 
+        "Finance & Audit", 
+        "Marketing", 
+        "Compliance & Risk", 
+        "Institutional Investments", 
+        "Customer Contact", 
+        "Procurement & Supply Chain", 
+        "Digital & ecommerce", 
+        "Sales & Business Development", 
+        "Technology & Change"
+      ], 
+      "universalName": "psd-group", 
+      "companyId": 7399, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAJEAAAAJDU1YjIwYzE5LWNhZDktNDBkNi1hZmI0LWY4OWYwOTRlNTlmMQ. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "201-500", 
+    "formattedEmployeeCount": "201-500 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99442900?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. psdgroup. com%2F870650_Data_Scientist. aspx&urlHash=AtDp&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Contract"
+}

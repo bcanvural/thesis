@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "TalentSpa", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "GB-5-11-DEng", 
+    "title": "Big Data Engineer", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101400340, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. talentspa. co. uk", 
+    "logo": "urn:li:media:/p/4/005/06b/22d/1dc722c. png", 
+    "universalName": "talentspa", 
+    "companyId": 3125642
+  }, 
+  "description": "    My client,  a leading UK Big Data and Data Science company working with    global clients and with a reputation at the forefront of the world-wide    data science community are seeking a Big Data Engineer to join their    team of talented data specialists and programmers working from    beautiful,  hi-tech offices in the City of London.     You will be working in a diverse variety of industries including some    of the most hi-tech companies around the world who benefit from my    client's cutting edge solutions and relentless focus on innovation and    continuous Data product improvement.  You will get exposure to bleeding    edge Big Data projects in industries such as F1,  Automotive,  Aerospace,     Pharmaceutical,  Hi-tech Start-ups,  FTSE100 giants and Financial    Services.     Role Description       You will work with other Data Engineers and the Data Science team        to create variables,  metrics,  and models to support the creation of        analytics platform       Refactors algorithms created by Data Scientists into        production-quality and operational code       Identifies and implements appropriate analytical libraries       Sets patterns and practices for analytical code across the team       Refactors code into re-usable libraries and tools       Designs and builds Data & Analytics platforms and processing        pipelines     Person Profile    To Be Successful In This Role,  You Could Be Either a       Big Data Technical Specialists (Big Data,  NoSQL,  SQL) with some        Data Science skills (incl.  R,  Matlab,  Python) and Big Data        Analytics tech like Hadoop/Hbase/Hive,  Spark.        An exceptional enterprise developer with C# or C++ or Scala or        Python or R skills,  and strong background and interest in Maths,         Analytics,  Data Science,  and Big Data tech.      Required Capabilities       Broad and deep knowledge of data architectures,  database platforms,         including RDBMs (MS SQL,  Oracle,  Teradata),  NoSQL (MongoDB,         Cassandra,  CouchDB),  Big Data (Hadoop/HDFS,  Hbase,  Hive)       Strong SQL programming skills       Strong and low-level programming skills in a variety of languages,         such as Java,  C#,  Python,  R,  Functional languages (Erlang,  F#,         Clojure or Scala),  C++       Mathematical background or interests.      If this role sounds interesting and you would like the opportunity to    work for one of the UK's leading Big Data & Data Science companies,     then please send me your CV for immediate interview. ", 
+  "companyDescription": "      TalentSpa    TalentSpa is the inbound recruitment platform where the right    candidates find you.     Our mission is simple: To change the way employers recruit    Have you like many others become tired of recruitment agency fees? Have    you found that In-House recruitment is a time consuming affair? Why not    try TalentSpa?    TalentSpa Provides an Inbound Recruitment Platform for Employers AND we    have successfully reduced the cost of recruitment for more than 2500 UK    Employers.     As the UK’s first inbound recruitment platform,  TalentSpa is helping to    prise the power away from the agencies and hand it back to the in-house    recruitment teams by increasing candidate engagement,  reducing time to    hire and driving down recruitment costs.  Through innovative inbound    recruitment techniques,  TalentSpa consistently outperforms the    traditional recruitment model,  bringing the best candidates directly to    the hiring manager for a fraction of the cost.     TalentSpa can help you reach the ideal candidates you never thought    existed. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

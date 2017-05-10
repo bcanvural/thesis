@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90312719", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Part of the Tourstan Group.  Empiric was set up with the vision of being a consistently reliable and trusted agency and a leading global provider of specialist recruitment services.   Our goal to constantly exceed expectations and to deliver results against promises means that we are synonymous with high-quality work practices and for leading the way in meeting the most demanding of requirements no matter what the circumstances.  Where other agencies pay \"lip service\" to both clients and candidates,  at Empiric we never underestimate the value and integrity of honest,  straightforward advice,  and we stand by this maxim.  We stand by our strong work ethic,  technical acumen and the impressive network of leading contacts that we have nurtured through years of experience in the industry.  Our grasp and extensive knowledge of global markets means that we never fail in yielding the quality results our clients have come to expect. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Empiric", 
+  "canFollow": false, 
+  "companyId": "135385", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Empiric", 
+    "title": "Senior Scala Engineer - Top 1%,  Big Data,  Data Scientist,  Machine Learning"
+  }, 
+  "description": "High End,  International,   Big Data Start Up is looking for a ' Top 1%' Software Engineer to design and build high perfomance Big Data Processing Systems and Analytics Products.  Key Responsibility. .  Design and Development of high performance Big Data Processing Systems and the implementation of complex statistical / machine learning algorithms.  Experience Required. .  'Top 1%' Programming skills especially in functional programming languages.  Scala is a strong preference.  Experience of building high performance / low latency / high availability systems.  Deep understanding of distributed systems and databases.  Stong Computer Science back-ground.  Nice to have. .  Experience with Hadoop,  Spark and / or Storm.  Machine Learning Experience.  Telco Domain Experience. "
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87814257", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Experience: As Big Data Developer you will have experience of: + Degree qualified or equivalent in Computer science or other relevant discipline + Development on the JVM using Scala and possibly other JVM languages,  knowledge of Python or R is a bonus + Experience with Spark,  or the Hadoop ecosystem and similar frameworks + Familiarity with tools such as AWS,  Mesos or Docker and an instinct for automation +Agile experience with Scrum/Kanban/XP + Experience with agile engineering practices such as TDD,  Pair Programming,  Continuous Integration,  automated testing and deployment + Web service development using frameworks such as Dropwizard,  Scalatra,  Hysterix or similar + A positive,  constructive approach with an emphasis on collaboration and good execution", 
+  "following": false, 
+  "companyDescription": "A Big Data Developer is required to work with one of the brightest companies on the European Tech Scene on a range of Visual and Interaction Design Projects for their hallmark product.  This is an exciting opportunity to help shape the way in which Data based products are used by the company in the future and will see you working at the cutting edge of Big Data in a vibrant,  innovative and stimulating environment. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "CBSbutler", 
+  "canFollow": false, 
+  "companyId": "43832", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "CBSbutler", 
+    "title": "Big Data Developer"
+  }, 
+  "description": "Role: Big Data Developer As Big Data Developer you will be responsible for: + Developing applications that exploit a unique collection of scientific data + Building a cloud based platform that allows easy development of new applications + Integrate with wider systems to make data easily available to others + Work with Product Managers ensure software is high quality and meets user requirements"
+}

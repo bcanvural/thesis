@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "PA Consulting Group", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "CNSL"
+    ], 
+    "companyJobCode": "peopleclick-14891", 
+    "title": "Consultant – Data Science - BI & Analytics Practice", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101763124, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      11
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. paconsulting. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAIGAAAAJDI5YjAzMWNjLTc2MTMtNDdiMi04MjEyLTVjNTMyMTJjNzcyZg. png", 
+    "universalName": "pa-consulting-group", 
+    "companyId": 2547
+  }, 
+  "description": "    Job Description    PA’s Analytics practice has a strong record of working with C-level    leaders in major organisations,  supporting them in making strategic and    operational decisions about their most critical challenges.     Together,  PA and BAR launched the Technical Innovation Group (TIG) to    bring together the best of British industry to contribute to this    unique technical and sporting challenge.     Nissan came to us to develop a planning and sequencing model to    optimise daily production at its Sunderland car plant using a bespoke    algorithm - helping the plant retain the planning agility that makes it    the most efficient in Europe.     And we were appointed by the UK Government to provide robust analysis    of competing bids for £2. 2 billion worth of technology contracts to    deliver the infrastructure for the UK’s smart metering initiative.     We blend business insights with core data science,  such as ‘big data’    analysis and machine learning to address the most challenging problems    our clients face.  This ranges from understanding the effect of world    events to forecasting the impact of £billion investments.     Our Analytics Service Offerings Include    • Marketing and Customer analytics    • Digital analytics    • Pricing analytics    • Audit Analytics    • Counter Fraud analytics    • Revenue optimisation    As Part Of Our Ambitious Growth Plans For Our Business,  We Are Looking    For Exceptional Candidates With Modelling And Data Analysis Experience    Gained Within a Leading Company Or Major Consultancy.  Our Areas Of    Interest Include    • Prediction of future outcomes by leveraging machine learning    techniques to discover data patterns and user behaviour in big data    • Evaluation of scenarios through statistical data modelling,     optimisation tools and techniques like Bayesian modelling ,     regression-based methods,  random forests,  decision trees,  etc.     • Use of a combination of R,  Python,  JavaScript,  C,  Java and SQL to    solve problems and discover new solutions Job Requirements    You'll Hit The Ground Running With Us If You Have    • A degree,  Masters or PhD from a leading University in a quantitative    discipline such as computer science,  statistics,  physics or mathematics    • 2 years+ experience in a modelling/data analytics role in consulting    or industry    • Experience of leading data science,  data discovery and machine    learning projects    • Exceptional analytical skills,  highly proficient in Python and R.  and    comfortable handling and analysing large data sets.  Knowledge of    statistical techniques is desirable but not essential    • Familiarity with a variety of machine learning techniques and    statistical methods    • Strong DB skills with SQL and NoSQL databases    • Exposure to Hadoop,  Map/Reduce,  Pig,  Scala,  Hive    • Experience in conducting analysis for evidence-based decision making,     developing models and decision support tools or building business cases    for investment decisions    We're looking for Consultants with excellent communication skills and    the ability to convey complex information to both technical and    non-technical audiences.     Your high levels of creativity and drive and your genuine affinity for    problem solving will serve you well in our innovative and fast-paced    environment.     #LI-JH1", 
+  "companyDescription": "      PA Consulting Group    An employee-owned firm of over 2, 500 people,  we operate globally from    offices across the Americas,  Europe,  the Nordics,  the Gulf and Asia    Pacific.     We are experts in energy and utilities,  financial services,  health,     life sciences,  consumer and manufacturing,  government,  defence and    security,  transport and logistics.     Our deep industry knowledge together with skills in management    consulting,  technology and innovation allows us to challenge    conventional thinking and deliver exceptional results that have a    lasting impact on businesses,  governments and communities worldwide.     So wherever the challenge is,  we have a team nearby.     Our clients choose us because we don’t just believe in making a    difference.  We believe in making the difference. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

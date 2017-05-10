@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Bayer HealthCare", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "jobstairs-611424", 
+    "title": "Big Data Analyst (m/f)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101676026, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      15
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://healthcare. bayer. com/scripts/pages/en/imprint. php", 
+    "logo": "urn:li:media:/p/6/005/088/245/1f4c761. png", 
+    "universalName": "bayer-healthcare", 
+    "companyId": 1894
+  }, 
+  "description": "     Bayer is a global enterprise with core competencies in the Life Science    fields of health care and agriculture.  Its products and services are    designed to benefit people and improve their quality of life.  Bayer    HealthCare combines the global activities of the Animal Health,     Consumer Care,  Medical Care and Pharmaceuticals divisions.  Its aim is    to discover,  develop,  manufacture and market products that will improve    human and animal health worldwide.  At Bayer you have the opportunity to    be part of a culture where we value the passion of our employees to    innovate and give them the power to change.        Responsible for IT architecture of BHC's Research & Development        (R&D) high performance compute (HPC) IT system landscape       Ensure stability and maintainability of the HPC environment for        BHC’s R&D       Develop conceptions for enhancements of the existing HPC landscape       Drive HPC architecture and contribute to R&D-IT strategy       Work closely with the IT architecture community in R&D IT as well        as the scientific computing competence center       Develop architectural skills in the organization in collaboration        with the IT architecture community       Drive the definition of the global R&D IT standards and platforms       Design and analyze system architectures in cooperation with other        experts       Proactively monitor business implications,  issues,  risks regarding        existing platforms       Oversee project portfolio,  define and review project’s scope and        business case in context of HPC architecture       Lead and manage international,  cross-functional projects or working        packages regarding architectural aspects       Drive the definition of the project’s scope,  business case        development and identification of required resources in        collaboration with IT business partners and stakeholders       Proactively monitor business implications,  compliance,  issues,         risks,  and business partner satisfaction throughout project        lifecycle       Support IT business partner with projects to deliver valued        solutions to BHC in the context of high performance computing       Manage external parties (e. g.  BBS,  third party vendors) on projects        University degree,  advanced degree or business equivalent,         preferably in a scientific discipline or informatics       Many years of work experience in an high performance computing        environment       Several years of experience in IT development and        architecture/design on senior level       Excellent conceptual thinking and good consulting skills       Ability to support change in complex organizations       Strategic thinker (m/f) who takes delight in tapping into new        fields without established routines and processes     For this Computational Life Science position we offer a competitive    salary in an international environment as well as excellent    opportunities for professional and personal development.  If your    background and personal experience fits this profile,  please send us    your complete application at www. career. bayer. de,  submitting a cover    letter,  your CV and references as well as your salary expectation", 
+  "companyDescription": "      Bayer HealthCare    Bayer HealthCare is one of the world’s leading,  innovative companies in    the healthcare and medical products industry and is based in    Leverkusen,  Germany.  We combine the global activities of the Animal    Health,  Consumer Care,  Medical Care and Pharmaceuticals divisions.     Our aim is to discover,  develop,  manufacture and market products that    will improve human and animal health worldwide.  We have a global    workforce of 60, 700 employees and we are represented in more than 100    countries. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

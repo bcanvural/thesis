@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Randstad USA", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "companyJobCode": "randstad_us-9760354", 
+    "title": "Data Scientist (Data Science R&D)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102158425, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. randstadusa. com", 
+    "logo": "urn:li:media:/p/2/000/24d/376/28670b6. png", 
+    "universalName": "randstad-usa", 
+    "companyId": 2396310
+  }, 
+  "description": "     The Diverse Expertise Of Our Team Members Enables Us To Collaborate    Across Projects To Deliver Value To Our Customers As Well As Learn From    Each Other.  We Are Looking For a Data Scientist Who Will Complement Our    Current Strengths.  Specifically We Are Looking For Candidates With The    Following Characteristics       Masters or PhD in Computer Science,  Applied Statistics or related        areas.        Primary expertise in the areas of:       Big Data technologies (Distributed Computing platforms such as        Hadoop and Spark,  NoSQL databases,  Distributed Real-time Systems)        and,        Software Engineering (Large-scale Software Architecture,         Java/Scala/Clojure)       Secondary expertise (or interest) in Machine Learning,  Natural        Language Processing (NLP) and related areas.        5+ years of hands on experience (either in industry or academia)        with a general purpose language such as Java or Scala (functional        programming experience is desirable) and a scripting language such        as Python or R.        Publications in academic and industry conferences and/or        open-source contributions.  As a member of the team you will        represent CareerBuilder and the Data Science R&D team at academic        and industry conferences.        Keen sense of software system and algorithm design and        optimization.        Willing to do deep dives into new research areas to solve tough        problems.        Good written and verbal skills.  Be a team player with strong        empathy for our internal and external customers.  Ability to        effectively collaborate with R&D team members as well as across        teams.      Equal Opportunity Employer: Race,  Color,  Religion,  Sex,  Sexual    Orientation,  Gender Identity,  National Origin,  Age,  Genetic    Information,  Disability,  Protected Veteran Status,  or any other legally    protected group status. ", 
+  "companyDescription": "      Randstad USA    Randstad is setting a new standard in HR services.  A standard founded    in growth,  proﬁtability,  engagement & success.  We are a    performance-based company that strives to lead through intelligence,     passion & intuition.  We are Randstad.  We are shaping the world of work.     Our comprehensive range of stafﬁng solutions includes temporary,     permanent & outsourced placement services for local & global customers.     We fulﬁll all aspects of professional & commercial stafﬁng within    administrative,  engineering,  executive solutions,  ﬁnance & accounting,     healthcare,  information technology,  life sciences/pharma,  manufacturing    & logistics and sales & marketing.  Other offerings include payrolling &    Independent Contractor Services,  managed services,  recruitment process    outsourcing & HR consulting solutions.     Award Winning    As a global provider for over six decades,  the Randstad family of    brands has received continued recognition internationally,  as well as    within the United States.  Among other industry rankings,  Randstad has    frequently been nominated as one of the Best Places to Work,  Employer    of Choice,  Partner of Choice & has been recognized for its innovation &    social responsibility.     Geographic Reach    Our mission is to be a world leader in matching demand for & supply of,     labor & HR services.  We believe in the value of work as a unifying    force that shapes society for the better.  We are known for continuing    to adhere to & live by the core values established early in our    company's history: to know,  serve & trust,  striving for perfection &    simultaneous promotion of all interests.     Community Focus    Since the company’s inception in 1960,  we have been committed to    improving the quality of life & enhancing the vitality of the    communities in which we operate.  Through our CSR framework,  we provide    support to causes reﬂecting employee & community interests by means of    employee volunteer efforts,  corporate initiatives & monetary donations. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

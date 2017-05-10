@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Viki,  Inc. ", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "omidyar-291954", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102006651, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://viki. com", 
+    "logo": "urn:li:media:/p/5/005/02b/346/057a255. png", 
+    "universalName": "viki", 
+    "companyId": 1969584
+  }, 
+  "description": "    Viki,  a Rakuten Company (Japan Stock Exchange: 4755),  is a global TV    site with more than 32 million viewers a month watching the world’s    primetime TV and movies,  subtitled in 200 languages by a community of    fans.  With billions of videos viewed and more than 600 million words    translated,  Viki brings global entertainment to fans everywhere.     Responsibilities    We are in search of a Data Scientist.  Reporting to the Director of    Analytics,  you will be joining a talented,  collaborative team at the    forefront of exciting new ventures in the digital media space.  A    successful candidate will have a passion for building highly scalable    systems,  enjoys working with big data sets and has a proactive and    organized approach to solving problems.  Essential duties and    responsibilities may include,  but are not limited to:    Build a comprehensive recommendation system from the ground up    (recommending mobile apps,  content,  etc. )    Build a data / stats-driven ad optimization system,  working closely    with the product team    Constantly experiment and improve the relevancy of the    recommendation/ad optimization system    Invent and improve algorithms given a set of business cases and help    implement them in production    Work with the product/engineering team to implement,  test and deploy    the solution on a Hadoop cluster    Qualifications    B. S. ,  M. S.  or Ph. D.  in Computer Science or similar applied technical    field    Must be hands-on Machine-learning related industry projects    Solid object-oriented programming skill and at least one scripting    language such as Python,  Ruby or Perl    Ability to work in a fast paced,  test-driven collaborative and    iterative programming environment    Understand major recommendation algorithms (Collaborative Filtering,     Matrix factorization,  Naive Bayes,  Boosting method)    Understand various ad optimization algorithms (CTR prediction,  eCPM    optimization,  user targeting and segmentation,  RTB and real-time    optimization)    Strong understanding of Algorithms,  Data Structures and Machine    Learning / Data Mining    Understanding of RDBMS,  SQL and NoSQL alternatives    Experience with Hadoop / Hbase / Pig or MapReduce / Mahout / Bigtable    is a plus    Previous experience with performance-based ad systems is a plus    Understanding of clustering and classification techniques (Naive Bayes,     SVM,  NN,  Boosting Methods,  etc. ) is a plus    Practical experience on natural language processing is preferred    This is a unique and excellent opportunity to join a very small team    and make a difference as we 100x growth.  We’re small but diverse,  with    more than 25 nationalities and 40 languages represented among our 70+    employees.  Come break down barriers that stand between great    entertainment and fans everywhere.     Any unsolicited resumes/candidate profiles submitted through our    website or to personal email accounts of employees of Viki are    considered property of Viki and are not subject to payment of agency    fees. ", 
+  "companyDescription": "      Viki,  Inc.     Viki,  often referred to as ‘the global Hulu, ’ is a global video    streaming site with TV shows,  movies,  music videos and more,  subtitled    into more than 160 languages by a community of avid fans.  With over 2    billion videos viewed and over 400 million words translated,  Viki    brings global entertainment to nearly 25 million users worldwide. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

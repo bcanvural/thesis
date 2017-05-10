@@ -1,0 +1,309 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ziprecruiter-fabe55de1", 
+    "expirationDate": 1450364101000, 
+    "title": "Data Scientist,  Data Science Pipeline", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1428, 
+          "type": "BR", 
+          "endIdx": 1428, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1428, 
+          "type": "BR", 
+          "endIdx": 1428, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1391, 
+          "type": "BR", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1391, 
+          "type": "BR", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "B", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "LI", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1193, 
+          "type": "B", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1193, 
+          "type": "LI", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1159, 
+          "type": "B", 
+          "endIdx": 1193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1159, 
+          "type": "LI", 
+          "endIdx": 1193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1097, 
+          "type": "B", 
+          "endIdx": 1159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1097, 
+          "type": "LI", 
+          "endIdx": 1159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1050, 
+          "type": "B", 
+          "endIdx": 1097, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1050, 
+          "type": "LI", 
+          "endIdx": 1097, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 985, 
+          "type": "B", 
+          "endIdx": 1050, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 985, 
+          "type": "LI", 
+          "endIdx": 1050, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 940, 
+          "type": "B", 
+          "endIdx": 985, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 940, 
+          "type": "LI", 
+          "endIdx": 985, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 854, 
+          "type": "B", 
+          "endIdx": 940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 854, 
+          "type": "LI", 
+          "endIdx": 940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 783, 
+          "type": "B", 
+          "endIdx": 854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 783, 
+          "type": "LI", 
+          "endIdx": 854, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 692, 
+          "type": "B", 
+          "endIdx": 783, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 692, 
+          "type": "LI", 
+          "endIdx": 783, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 620, 
+          "type": "B", 
+          "endIdx": 692, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 620, 
+          "type": "LI", 
+          "endIdx": 692, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 534, 
+          "type": "B", 
+          "endIdx": 620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 534, 
+          "type": "LI", 
+          "endIdx": 620, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 534, 
+          "type": "BG", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 534, 
+          "type": "BR", 
+          "endIdx": 534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 522, 
+          "type": "B", 
+          "endIdx": 534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 522, 
+          "type": "BR", 
+          "endIdx": 522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 522, 
+          "type": "BR", 
+          "endIdx": 522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "B", 
+          "endIdx": 522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "DescriptionSqor Sports is actively seeking an experienced data scientists who is an incredible individual contributor,  but an even better team player.  Help build the next generation of our Data Science pipeline by creating working solutions,  reports,  and data visualization.  Strong software engineering,  communication and statistical background are key factors in success.  Humility and ability to work well with cross-functional teams is a requirement.  Passion for sports data is a huge plus.  This could be your dream job!RequirementsMinimum M. S.  in Computer,  Applied Statistics,  or related field,  M. S.  or Phd preferred Knowledge of machine learning and ability to create reliable predictionsFluency in R or Python in the context of scripting,  data visualization and machine learningAbility to create working prototypes and dashboards in Shiny framework Experience working in large and complex code bases while maintaining quality and speedExceptional teamwork and communication skillsAnalyse data and create reports for business functions of company2+ years experience doing quantitative analysisAbility to initiate and complete projects with little guidanceStrong statistical analysis skillsCreate working machine learning solutions from scratch that go from idea to completion in a short,  focused and iterative mannerAbility to accept being constantly wrong while working on hard problemssqor. com/jobs   http://grnh. se/dxwju3"
+    }, 
+    "postalCode": "94101", 
+    "jobState": "LISTED", 
+    "companyName": "Sqor,  Inc", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Sqor Sports is a social network focused exclusively on sports.   We have created an entirely new paradigm in digital sports by giving elite athletes and corporate brands the power to monetize their digital presence.   Founded in 2011 by entrepreneur Brian Wilhite,  Sqor Sports is based in San Francisco,  California.   Download the app here:  https://itunes. apple. com/us/app/sqor/id700913088?mt=8"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447160921000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:3106650", 
+    "id": 98211533, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "San Francisco,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Sports"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 25 days ago", 
+  "formattedPostedDaysAgoSlim": "25 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Sports"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Sqor Sports is a social network focused exclusively on sports.   We have created an entirely new paradigm in digital sports by giving elite athletes and corporate brands the power to monetize their digital presence.   Founded in 2011 by entrepreneur Brian Wilhite,  Sqor Sports is based in San Francisco,  California.   \r\rDownload the app here:  https://itunes. apple. com/us/app/sqor/id700913088?mt=8", 
+    "foundedYear": 2011, 
+    "canonicalName": "Sqor Sports", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAUYAAAAJDNiM2QwYTM3LTc0MTgtNGJkNC05MGMxLWQxNjJjNTI2MjM2Ng. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Sports", 
+        "Athletes", 
+        "Social Media", 
+        "Media", 
+        "Digital Media"
+      ], 
+      "universalName": "sqor", 
+      "companyId": 3106650, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAASxAAAAJDdhODdmZjA2LTRkMjUtNDQ2OC1hODUzLTMzZjMyOTI0ZjQ4Nw. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "25d", 
+  "formattedListDate": "November 10,  2015", 
+  "formattedExpireDate": "December 17,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98211533?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. ziprecruiter. com%2Fclk%2FgzyeiWiaCQKBwNPvbExAl9CjQLWgFuAiJjAIfZxI5tiD70NR5FqbJgIyIkc2kJRPH2FN1JJzQ8OWr6ScS9HeoM4orTXTKzObzYsnsLu4cXOyGjGwo-j-o85ln9VFr0VhJbChMgxh_nfkCvG_j-x24x3BO04eQCF1CTlvwNVLuT9m8eBeGdnpPShfEJr7mH7U8jGcQ_eHChxkmOmNkp7EWVyYHMYMngwywrfSUUtmwIbnblD5YjPn_hLeLCokbPkIoX4_rdLWbc-eh40JZDsPLKMutR1vRvk-Qlw20HAwvoRYjgwovijBOAlTm6iistq7t5MJTa3wsXWBsZRPpWaNvFzmq8hsytlMbso4q0VkrB04iokVdG0Xqq8TQbyDUogZKxxwFhtLgTBx7qLp801eg1AZJFcWq2BcIydfTxh-RRvajRBpCxJaije_EWjgl3xPkW0OghYE3B2O3cHt5qR1WA. 121a0dc87a5f5eb8f0813c37b509a8ea&urlHash=S8n9&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,82 @@
+{
+  "jobPosting": {
+    "companyJobCode": "shinejobs_xml-4147837", 
+    "expirationDate": 1451799163000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "JOB DESCRIPTION The Insights Team is the quantitative brain of the organization.  They provide support,  understanding and insights to all stakeholders throughout the organization enabling them to make better decisions.  Responsibilities  -Work with huge datasets and passionate about bringing datasets together to answer business questions  -Work on initiatives with internal teams (marketing,  brand,  support,  design) to unearth relevant behavior that define their respective strategic directions  -Develop,  monitor and refine key metrics used by the organization to track the pulse of the product and its consumers  -Identify and understand why things happen the way they do and come up with relevant recommendations to boost product use  -Work on an as-needed basis with other teams to formulate and execute experiments aimed at improving usage Requirements  -Bachelors or Masters in Engineering,  Computer Science,  Mathematics,  Statistics,  Economics or related quantitative field from a top tier university,  or equivalent practical experience  -2+ years of relevant work experience  -Proficient in analysis using spreadsheet and database query (e. g. ,  SQL)  -Excellent business understanding to interpret data analysis and generate insights  -Experience in working with ecommerce organizations is a bonus  -Experience in working with data visualization tools (e. g. ,  Spotfire,  Tableau,  Charts. io) is a bonus  -Solid business knowledge and an understanding of ecommerce product dynamics  -A creative,  customer centric and analytical problem-solving mindset  -Very high level of curiosity to understand behavior  -Excellent time and task management skills  -Keen eye for detail"
+    }, 
+    "postalCode": "123456", 
+    "jobState": "LISTED", 
+    "companyName": "Shopsense Retail Technologies (P) Ltd. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Fynd is a nearby shopping app which allows consumers to shop for lifestyle products from your favorite brands around you. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447939076000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:2894538", 
+    "id": 99854607, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mumbai,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99854607?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. shine. com%2Fjobs%2Fdata-analyst%2Fshopsense-retail-technologies-p-ltd%2F4147837%2F%3Futm_source%3Dlinkedin-feed%26utm_medium%3Dreferral%26utm_campaign%3Dlinkedin-feed&urlHash=Oscn&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Retail"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAQmAAAAJDRiYjFkMjk0LTdjODItNDM5Yy1iNDgwLTY3YjVkNWNkZThjNQ. png"
+    }, 
+    "localizedDescription": "Fynd is a nearby shopping app which allows consumers to shop for lifestyle products from your favorite brands around you. ", 
+    "company": {
+      "specialities": [
+        "Mobile", 
+        "Hyperlocal", 
+        "Fashion", 
+        "E-Commence"
+      ], 
+      "universalName": "addsale-retail-technologies", 
+      "companyId": 2894538
+    }, 
+    "canonicalName": "Shopsense Fynd", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Retail"
+    ]
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

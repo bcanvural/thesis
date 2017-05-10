@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90309055", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Required skills: Java/Scala.  Git.  Desirable Skills: Parallel distributed processing based on the MapReduce paradigm with Spark or Apache Hadoop.  Experience or knowledge with any of the main Big Data distributions: Cloudera,  Hortonworks,  MapR etc.  Distributed processing of real-time data with Storm or Spark Streaming.  Experience or knowledge of the tools available in the Hadoop ecosystem: Hive,  Pig,  Flume,  Zookeeper,  Sqoop,  etc.  Knowledge of NoSQL databases: Cassandra,  MongoDB,  HBase,  Redis,  Aerospike,  etc.  Cluster Resources Management: Mesos,  YARN.  Experience with recommendation engines and machine learning algorithms: Apache Mahout,  MLlib,  etc.  CEP engines such as Esper CEP or Siddhi.  Experience with virtualization and cloud deployment AWS,  JCloud,  Docker.  Experience with search engines based on Lucene such as Elasticsearch.  Miscellaneous: Interest in learning and sharing knowledge with other team members.  Huge capacity for learning and self-management.   ", 
+  "following": false, 
+  "companyDescription": "Pioneers in the development of Big Data   Big Data is not a buzzword.  It is a reality that is helping shape and transform lives,  businesses and the world.  We are amongst the select few who have been officially Spark certified,  adopting it since its inception.  From Machine Learning to Graph based tools,  data processing,  storage systems,  real time streams… We are breaking ground in the development of Big Data technologies,  and we are building a team of experts second to none.    Dream Big   We are Stratians.  What does that mean? It means we make mistakes,  we are not afraid of trying out new things.  We are grateful to one another,  preferring kindness over squabbles.  We listen,  we share and we learn.  You will be part of a team where your voice will be heard.  We dream about making the impossible possible.  We dare you to dream.  Dream Big.  Why is it interesting for you to work with us We work with the latest technologies.  Possibility of flexible hours.  We have compressed work schedule during July and August,  and an unbeatable working environment.  Remuneration is set based on the experience provided by each person.  We value people individually.  Incorporation in a competitive and evolving company.  The chance to develop professionally.     ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "StratioBD", 
+  "canFollow": false, 
+  "companyId": "5122962", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "StratioBD", 
+    "title": "BIG DATA/SCALA/JAVA ARCHITECT"
+  }, 
+  "description": "We are looking for BIG DATA/J2EE ARCHITECTS with intellectual curiosity and a passion for new technologies.  If you are interested in the same things as us and want to come to work in Stratio,  don´t hesitate to contact us. "
+}

@@ -1,0 +1,412 @@
+{
+  "jobPosting": {
+    "companyJobCode": "best_empregos-63464", 
+    "expirationDate": 1451853457000, 
+    "title": "Data Scientist– Lisboa (M/F)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1770, 
+          "type": "BR", 
+          "endIdx": 1770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1770, 
+          "type": "BR", 
+          "endIdx": 1770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1596, 
+          "type": "BR", 
+          "endIdx": 1596, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1589, 
+          "type": "BR", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1589, 
+          "type": "BR", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1583, 
+          "type": "BR", 
+          "endIdx": 1583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1572, 
+          "type": "BR", 
+          "endIdx": 1572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1572, 
+          "type": "BR", 
+          "endIdx": 1572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1563, 
+          "type": "BR", 
+          "endIdx": 1563, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1552, 
+          "type": "BR", 
+          "endIdx": 1552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1552, 
+          "type": "BR", 
+          "endIdx": 1552, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1550, 
+          "type": "BR", 
+          "endIdx": 1550, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1550, 
+          "type": "BR", 
+          "endIdx": 1550, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1523, 
+          "type": "BR", 
+          "endIdx": 1523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1461, 
+          "type": "LI", 
+          "endIdx": 1523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1360, 
+          "type": "LI", 
+          "endIdx": 1460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1360, 
+          "type": "BG", 
+          "endIdx": 1523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "BR", 
+          "endIdx": 1349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "BR", 
+          "endIdx": 1349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1296, 
+          "type": "BR", 
+          "endIdx": 1296, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1296, 
+          "type": "BR", 
+          "endIdx": 1296, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1217, 
+          "type": "BR", 
+          "endIdx": 1217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1217, 
+          "type": "BR", 
+          "endIdx": 1217, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1106, 
+          "type": "BR", 
+          "endIdx": 1106, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 981, 
+          "type": "BR", 
+          "endIdx": 981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 981, 
+          "type": "BR", 
+          "endIdx": 981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 886, 
+          "type": "BR", 
+          "endIdx": 886, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 886, 
+          "type": "BR", 
+          "endIdx": 886, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 799, 
+          "type": "BR", 
+          "endIdx": 799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 799, 
+          "type": "BR", 
+          "endIdx": 799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 783, 
+          "type": "B", 
+          "endIdx": 799, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 783, 
+          "type": "BR", 
+          "endIdx": 783, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 783, 
+          "type": "BR", 
+          "endIdx": 783, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "BR", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 782, 
+          "type": "BR", 
+          "endIdx": 782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 586, 
+          "type": "BR", 
+          "endIdx": 586, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "BR", 
+          "endIdx": 566, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "BR", 
+          "endIdx": 566, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 83, 
+          "type": "BR", 
+          "endIdx": 83, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 74, 
+          "type": "BR", 
+          "endIdx": 74, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 74, 
+          "type": "LI", 
+          "endIdx": 74, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 74, 
+          "type": "BR", 
+          "endIdx": 74, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 54, 
+          "type": "BR", 
+          "endIdx": 54, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 51, 
+          "type": "BR", 
+          "endIdx": 51, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Data Scientist– Lisboa (M/F) Referência617Sector de ActividadeDescriçãoReditus is an international Business Consulting,  Information Technology and Outsourcing services company,  whose mission is to provide the best services and solutions to various sectors of activity.  With a path of success with more than 45 years,  Reditus is one of the oldest and largest information technology Portuguese companies.  Currently we have more than 3, 000 professionals and we have offices in Portugal,  France,  Sweden,  Angola,  Morocco,  Equatorial Guinea,  Brazil and Macau.  Requisitos da FunçãoRegarding our partnership with a prestigious company,  we are currently looking for professionals able to work in a small R&amp;D team and be responsible to tackle complex fraud detection problems.  Responsabilities·        Work close with other R&amp;D team members in thorny fraud detection problems. ·        Support your answers and findings with appropriate statistical techniques and methods. ·        Contribute to the team knowledge by keeping up with the state-of-the-art in machine learning applied to our domains. ·        Communicate findings within the organization,  particularly the management,  product and delivery teams. ·        Develop solution prototypes and help integrate them with the product.  MSc in Computer Science (or relevant field) required. Oferecemos Integration in a dynamic and innovative company where progression depends on individual performance; Continuous training and participation in interesting projects.  Location: Lisbon,  Portugal  CandidaturaSubmit CvLocalizaçãoLisbon‹voltarjQuery(function() {   jQuery(\"#edit-submitted-opcoes-de-candidatura-oportunidades\"). val(1353);  }); div#webform-component-opcoes-de-candidatura--oportunidades{display: none;}"
+    }, 
+    "postalCode": "1449-013", 
+    "jobState": "LISTED", 
+    "companyName": "Reditus", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in 1966,  Reditus has extensive experience in the various sectors in which it operates and employs more than 2. 500 professionals.  In 2012 developed a turnover of more than 128 million euros,  a third of which comes from its international activity. This is the result of the development of a strategy guided by a business growth policy supported by three main pillars:Growth of operational profitability and sustainability;Internationalisation;Development of integrated products and services. Its offer covers the entire value chain in a matrix approach,  combining intervention by sector of activity,  with an implementation capacity in several areas,  from consultancy to Business Process Outsourcing. Quality has been the strategic focus of Reditus.  We have had NP EN ISO 9001 standard certified companies in the Group since 2008,  and are continuing the certification process which is expected to be concluded during the forthcoming year. Reditus is currently one of the largest players in the Portuguese Information Technologies area,  involved in the main sectors of activity and with a strong national and international presence. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446974765000, 
+    "countryCode": "pt", 
+    "company": "urn:li:company:269317", 
+    "id": 97775299, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Lisbon,  PT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97775299?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. best-empregos. com%2Fdisplay-job%2F63464%2FData-Scientist%25E2%2580%2593-Lisboa-%28M-F%29. html%3FsearchId%3D1449112213. 7225%26page%3D61&urlHash=RPXt&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1966, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/036/358/00259e2. png"
+    }, 
+    "localizedDescription": "Founded in 1966,  Reditus has extensive experience in the various sectors in which it operates and employs more than 2. 500 professionals.  In 2012 developed a turnover of more than 128 million euros,  a third of which comes from its international activity. \r\rThis is the result of the development of a strategy guided by a business growth policy supported by three main pillars:\r\rGrowth of operational profitability and sustainability;\rInternationalisation;\rDevelopment of integrated products and services. \rIts offer covers the entire value chain in a matrix approach,  combining intervention by sector of activity,  with an implementation capacity in several areas,  from consultancy to Business Process Outsourcing. \r\rQuality has been the strategic focus of Reditus.  We have had NP EN ISO 9001 standard certified companies in the Group since 2008,  and are continuing the certification process which is expected to be concluded during the forthcoming year. \r\rReditus is currently one of the largest players in the Portuguese Information Technologies area,  involved in the main sectors of activity and with a strong national and international presence. ", 
+    "company": {
+      "specialities": [
+        "Microsoft", 
+        "SAP", 
+        "Oracle", 
+        "Java", 
+        "Outsystems", 
+        "Qlikview"
+      ], 
+      "universalName": "reditus-consulting-s-a-", 
+      "companyId": 269317, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/046/3ad/2bd8b92. png"
+      }
+    }, 
+    "canonicalName": "REDITUS,  SA", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

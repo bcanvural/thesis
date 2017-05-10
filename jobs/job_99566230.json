@@ -1,0 +1,370 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ticjobs_xml-64127", 
+    "expirationDate": 1451669812000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2147, 
+          "type": "LI", 
+          "endIdx": 2160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2118, 
+          "type": "LI", 
+          "endIdx": 2145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2100, 
+          "type": "LI", 
+          "endIdx": 2116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "LI", 
+          "endIdx": 2098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1947, 
+          "type": "LI", 
+          "endIdx": 2050, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1902, 
+          "type": "LI", 
+          "endIdx": 1945, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1900, 
+          "type": "BG", 
+          "endIdx": 2160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1900, 
+          "type": "BR", 
+          "endIdx": 1900, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1895, 
+          "type": "B", 
+          "endIdx": 1900, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1895, 
+          "type": "BR", 
+          "endIdx": 1895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1860, 
+          "type": "LI", 
+          "endIdx": 1893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1757, 
+          "type": "LI", 
+          "endIdx": 1858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1698, 
+          "type": "LI", 
+          "endIdx": 1755, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1588, 
+          "type": "LI", 
+          "endIdx": 1696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1424, 
+          "type": "LI", 
+          "endIdx": 1586, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "LI", 
+          "endIdx": 1422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "LI", 
+          "endIdx": 1318, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1064, 
+          "type": "LI", 
+          "endIdx": 1176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1018, 
+          "type": "LI", 
+          "endIdx": 1062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BG", 
+          "endIdx": 1895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BR", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1009, 
+          "type": "B", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1009, 
+          "type": "BR", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 951, 
+          "type": "LI", 
+          "endIdx": 1007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "LI", 
+          "endIdx": 949, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 745, 
+          "type": "LI", 
+          "endIdx": 873, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 670, 
+          "type": "LI", 
+          "endIdx": 743, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 580, 
+          "type": "LI", 
+          "endIdx": 668, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 457, 
+          "type": "LI", 
+          "endIdx": 578, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 340, 
+          "type": "LI", 
+          "endIdx": 455, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BG", 
+          "endIdx": 1009, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 322, 
+          "type": "B", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 322, 
+          "type": "BR", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 322, 
+          "type": "BR", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "LI", 
+          "endIdx": 320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "LI", 
+          "endIdx": 157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 122, 
+          "type": "BG", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 122, 
+          "type": "BR", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "B", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "BR", 
+          "endIdx": 110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "BR", 
+          "endIdx": 110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Founded in 1996,  Base 3 has almost 20 years of experience in the data analytics market in Belgium. Who are you?  You are passionate about data.      You are eager to collaborate with our customers using business intelligence,  advanced analytics or big data techniques to improve their data-driven decisions.      Responsibilities  Interpret data,  analyze results using statistical techniques and provide ongoing reports and clear visualisations.    Develop and implement data collection systems and other strategies that optimize statistical efficiency and data quality   Acquire data from primary or secondary data sources and maintain databases/data systems   Identify,  analyze,  and interpret trends or patterns in complex data sets   Filter and “clean” data,  and review computer reports,  printouts,  and performance indicators to locate and correct code problems   Work closely with management to prioritize business and information needs   Locate and define new process improvement opportunities   Profile  Proven working experience as a data analyst   Technical expertise regarding data models,  database design development,  data mining and segmentation techniques   Strong knowledge/ experience with reporting packages (SAS,  Qlik etc),  databases (SQL etc),  programming (XML,  Javascript,  or ETL frameworks)   Statistical knowledge &amp; experience using packages for analysing large datasets (SPSS,  SAS,  R etc)   Strong analytical skills with the ability to collect,  organise,  analyse,  and disseminate significant amounts of information with attention to detail and accuracy   Strong communication skills.  Able to explain complex or technical models in clear &amp; understandable way.    Adept at queries,  report writing and presenting findings   Bachelor or Master in Mathematics,  Economics,  Computer Science,  Information Management or Statistics   Native Dutch OR French + English   Offer  We offer you a position as a consultant.      We are looking for a person who is genuinely interested in contributing to the success of the company.    Competitive salary and benefits (company car)   32 days holiday   Group and health insurance   Meal vouchers"
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "Base 3", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in 1996,  Base 3 has almost 20 years of experience in the data analytics market in Belgium.    Our consultants have a passion for data.   They collaborate with our customers to improve their data-driven decisions.   They produce business value through the use of business intelligence,  advanced analytics or big data techniques.      Our customers are our biggest source of inspiration.   Their data-related questions and assignments are the challenges that excite our consultants.   We provide the right consultant based upon the task at hand and the working environment.     When passion meets purpose ….  Our Values Our long-term relationships with staff,  customers and partners are based upon honest collaboration,  mutual trust and respect. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447858553000, 
+    "countryCode": "be", 
+    "company": "urn:li:company:62332", 
+    "id": 99566230, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Brussels,  BE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99566230?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. ictjob. be%2Fen%2Fapply%2Fbase-3-data-analyst%2F68221%3Fcid%3Dlinkedin-listings%26utm_source%3Dlinkedin-listings%26utm_medium%3Dmeta%26utm_campaign%3Dlinkedin-listings&urlHash=sQyq&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 1996, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAY9AAAAJGQwMmVhNzc2LTZiYzktNDY1Mi04ZTM3LTEzNGUyMDI3NGQ0MQ. png"
+    }, 
+    "localizedDescription": "Founded in 1996,  Base 3 has almost 20 years of experience in the data analytics market in Belgium.   \r \rOur consultants have a passion for data.   They collaborate with our customers to improve their data-driven decisions.   They produce business value through the use of business intelligence,  advanced analytics or big data techniques.     \r \rOur customers are our biggest source of inspiration.   Their data-related questions and assignments are the challenges that excite our consultants.   We provide the right consultant based upon the task at hand and the working environment.    \r \rWhen passion meets purpose …. \r \rOur Values\r \rOur long-term relationships with staff,  customers and partners are based upon honest collaboration,  mutual trust and respect. ", 
+    "company": {
+      "specialities": [
+        "Data Warehousing", 
+        "Business Intelligence", 
+        "Data Mining", 
+        "Roambi", 
+        "Risk Security", 
+        "Infrastructure"
+      ], 
+      "universalName": "base-3-systems", 
+      "companyId": 62332, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAQyAAAAJGQ5MDY1YWNkLTdkZGItNGYwMi1hMjU4LTRmYTZmZjJmYWFjNA. png"
+      }
+    }, 
+    "canonicalName": "Base 3 Systems", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

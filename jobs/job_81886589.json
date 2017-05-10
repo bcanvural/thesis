@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/81886589", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "What you need to be successful in this role: 5+ years practical experience with application of results of data mining/machine learning/statistical analyses to real applications 5+ years experience with research and/or production implementation of data mining/machine learning/statistical analyses in a programming language.  (Knowledge of R,  Matlab,  Mathematica,  Python or other scripting language used in data science field is an advantage) Experience with leading group of people Strong statistical analysis knowledge with practical experience Knowledge of some relational database,  ideally HP Vertica.  Knowledge in non-SQL databases is an advantage Ability to visualize findings in data and interpret them.  The experience with Tableau BI or another BI tool is advantage Strong communication skills (verbal and written) to be able to present the ideas to business specialist and customers Ability to travel Master or PhD degree in Statistic or Machine Learning or Mathematics is an advantage     Why you will like working at Vendavo:   Working within a team of young and highly skilled people Opportunity to get to know the pricing domain and grow into a consulting role Professional and personal trainings Flexible working hours Daily communication in English,  international travel opportunities,  English courses Friendly atmosphere based on our company culture Standard company benefits", 
+  "following": false, 
+  "companyDescription": "Vendavo harnesses the power of Big Data to generate actionable insights that enable businesses to sell more profitably.  Our price optimization and management solutions help global customers make better data-driven decisions for pricing and sales effectiveness.  Using cutting-edge analytics and deep industry expertise,  Vendavo boasts the largest number of implementations for B2B enterprises in the industry,  having helped more than 300 company divisions dramatically increase revenue,  improve profit margins and maximize shareholder value.   We have on-premises,  hybrid,  and software-as-a-service (SaaS) offerings available for different customer needs and requirements.  Located across the globe,  Vendavo is the solution of choice for Fortune 500 companies in industries such as chemicals and process industries,  consumer packaged goods,  wholesale distribution,  energy and utilities,  technology,  industrial manufacturing,  and medical devices and consumables.  ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Vendavo", 
+  "canFollow": false, 
+  "companyId": "14613", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Vendavo", 
+    "title": "MaaS Research Lead (Data Scientist Lead)"
+  }, 
+  "description": "As Vendavo expands into new product and market segments,  we are looking for a highly skilled The Research Lead (Data Scientist Lead),  who will serve as leader of the team in CZ and US and idea maker for cutting edge analyses for Vendavo pricing software.  You will lead team of data scientists and researchers and significantly impact the future of the Vendavo product.  You will work closely with other team members on design and development of pricing analyses and on their validation with our customers.  You will be part of the team that enables Vendavo to enter a new phase of growth!     As a MaaS Researcher Lead (Data Scientist Lead),  you will be responsible for: Leading the team of data scientists and researchers Leading the strategy of analyses and play role of idea maker for rest of the team Data analyses,  visualization and presentation of the results to business specialists and customers in Tableau Application of existing statistical approaches and artificial intelligent algorithms to pricing domain and guiding the rest of the team Supervising R&amp;Dof the brand new algorithms and analyses for pricing domain in R language Systematic team work in accordance to the Scrum methodology"
+}

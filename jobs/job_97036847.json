@@ -1,0 +1,440 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-D6B6DE0489", 
+    "expirationDate": 1451668211000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3621, 
+          "type": "BR", 
+          "endIdx": 3621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3621, 
+          "type": "BR", 
+          "endIdx": 3621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3282, 
+          "type": "BR", 
+          "endIdx": 3282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3269, 
+          "type": "BR", 
+          "endIdx": 3269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3269, 
+          "type": "BR", 
+          "endIdx": 3269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3269, 
+          "type": "BR", 
+          "endIdx": 3269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3195, 
+          "type": "LI", 
+          "endIdx": 3268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3162, 
+          "type": "LI", 
+          "endIdx": 3194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3128, 
+          "type": "LI", 
+          "endIdx": 3161, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3038, 
+          "type": "LI", 
+          "endIdx": 3127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3037, 
+          "type": "BG", 
+          "endIdx": 3269, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3037, 
+          "type": "BR", 
+          "endIdx": 3037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3029, 
+          "type": "B", 
+          "endIdx": 3037, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3029, 
+          "type": "BR", 
+          "endIdx": 3029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3029, 
+          "type": "BR", 
+          "endIdx": 3029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2943, 
+          "type": "LI", 
+          "endIdx": 3029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2894, 
+          "type": "LI", 
+          "endIdx": 2942, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2791, 
+          "type": "LI", 
+          "endIdx": 2893, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2732, 
+          "type": "BR", 
+          "endIdx": 2732, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2730, 
+          "type": "BR", 
+          "endIdx": 2730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "LI", 
+          "endIdx": 2730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2546, 
+          "type": "BR", 
+          "endIdx": 2546, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2362, 
+          "type": "BR", 
+          "endIdx": 2362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2362, 
+          "type": "BR", 
+          "endIdx": 2362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2333, 
+          "type": "B", 
+          "endIdx": 2362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2333, 
+          "type": "BR", 
+          "endIdx": 2333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2333, 
+          "type": "BR", 
+          "endIdx": 2333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1962, 
+          "type": "BR", 
+          "endIdx": 1962, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1892, 
+          "type": "LI", 
+          "endIdx": 1961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1832, 
+          "type": "LI", 
+          "endIdx": 1891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1742, 
+          "type": "LI", 
+          "endIdx": 1831, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1691, 
+          "type": "LI", 
+          "endIdx": 1741, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1631, 
+          "type": "LI", 
+          "endIdx": 1690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "BG", 
+          "endIdx": 1962, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "BR", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1610, 
+          "type": "B", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1610, 
+          "type": "BR", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1610, 
+          "type": "BR", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "B", 
+          "endIdx": 1610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "BR", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "BR", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1542, 
+          "type": "LI", 
+          "endIdx": 1597, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "LI", 
+          "endIdx": 1541, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1420, 
+          "type": "LI", 
+          "endIdx": 1477, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "LI", 
+          "endIdx": 1419, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "LI", 
+          "endIdx": 1348, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "LI", 
+          "endIdx": 1291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BG", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 476, 
+          "type": "BR", 
+          "endIdx": 476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 476, 
+          "type": "BR", 
+          "endIdx": 476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "B", 
+          "endIdx": 476, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 417, 
+          "type": "BR", 
+          "endIdx": 417, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 43, 
+          "type": "BR", 
+          "endIdx": 43, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 43, 
+          "type": "BR", 
+          "endIdx": 43, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 43, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Why do we hire data scientists?Nubank is a technology company that has set out to completely rethink financial services in Brazil.  We need world-class data scientists (and modelers,  statisticians,  AI practitioners,  machine learning engineers) to build proprietary algorithms that predict responsiveness to marketing,  credit risk,  fraud likelihood and many other types of customer behavior to get us there. What are some examples of problems a data scientist solves?At Nubank,  we don’t shy away from using the latest and greatest machine learning algorithms and techniques; in fact,  we encourage them.  We use a database technology that virtually eliminates all potential sources of leakage,  which means you can spend less time worrying about data quality and more time building the most sophisticated models in the financial services industry.  We have a rich dataset with natural language text,  images,  graphs,  and much more,  as well as more traditional sources of financial data.  We also have an almost endless set of models to build,  including everything from credit scoring to text tagging.  Below are just a few of the problems a Nubank data scientist might solve: Create thousands of new predictive variables using your intuition,  sociological insight and automation techniques Discover and evaluate the usefulness of new data sources Automate the creation of hundreds of different machine learning models Find the most profitable people to market credit cards to Underwrite and assign spending limits to credit card applicants Thwart identity theft and credit card transaction fraud RequirementsYou will fit well if You are ambitious and razor sharp with tremendous potential You have a rigorous quantitative bent to your work You have a burning desire to use data and analysis to change the financial services world You like finding new,  better solutions to “solved problems” You learn fast and easily adapt to changing situations and priorities You will experience an early stage startup culture in a truly diverse and international environment.  We believe in good team chemistry,  flat hierarchy,  enthusiasm for creating things,  and our surprising capacity to learn new things when we stay humble and open-minded.  A quantitative academic background with advanced degrees and English language proficiency are helpful. Desired skills and experienceWe are excited to meet rock star data scientists with various areas of experience – there is no single ideal profile.  We believe there is room for very diverse skill sets  to add value3+ years of relevant professional or academic experience in a highly quantitative field (e. g.  statistics,  computer science,  mathematics,  physics,  genetics,  econometrics,  Biostatistics)ORMultiple notable finishes in machine learning competitions Experience working with languages that support statistical learning (e. g.  Python,  R,  C/C++,  Go,  Scala) An appreciation of skewed censorship in datasets An advanced ability to work on distributed cloud platforms and interact with databasesBenefits Competitive compensation package including opportunity to earn equity ownership in Nubank Health,  dental and life insurance Meal allowance (“vale refeição”) Flexibility to choose your own custom setup (computer,  monitors,  OS etc. ) NUBANK PUZZLEInstead of submitting a cover letter,  we strongly encourage you to complete a Puzzle we have created for this search process.  While this puzzle is optional,  you will increase your chances of advancing by completing it.  The Puzzle should only take 1-2 hours of your time and hopefully should be a fun task.  The directions can be found here. "
+    }, 
+    "postalCode": "20619", 
+    "jobState": "LISTED", 
+    "companyName": "Nubank", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nubank is a technology-driven financial services startup.  We are building some of the highest-performing engineering,  decision sciences and design teams in the world to redefine the standard in financial services in Brazil.  We are based in São Paulo,  Brazil. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446811545000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:3767529", 
+    "id": 97036847, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "California,  MD,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanySize": "51-200", 
+    "formattedIndustries": [
+      "Financial Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "51-200 employees", 
+    "localizedDescription": "Nubank is a technology-driven financial services startup.  We are building some of the highest-performing engineering,  decision sciences and design teams in the world to redefine the standard in financial services in Brazil.  We are based in São Paulo,  Brazil. ", 
+    "foundedYear": 2013, 
+    "company": {
+      "universalName": "nubank-brasil", 
+      "companyId": 3767529, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAATeAAAAJGE0ODZhMWYzLWFiMDgtNGRkZi1hMDQ1LWRjZmFkOTBkNDFhZQ. png"
+      }
+    }, 
+    "canonicalName": "Nubank Brasil", 
+    "hasPaidLcp": false, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/088/28e/00992ca. png"
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97036847?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F5524614118&urlHash=st5X&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Spectraforce Technologies", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "leoforce-63a9e0d5-d392-4f38-9a9e-16ad6d39de49", 
+    "title": "Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102141948, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. spectraforce. com", 
+    "logo": "urn:li:media:/p/8/005/015/2ad/1db9612. png", 
+    "universalName": "spectraforce-technologies", 
+    "companyId": 71350
+  }, 
+  "description": "     Job Title: Data Analyst    Duration: 12 Months    Location: Troy,  MI,  48098    Role:       This person will start with simple data entry to learn the business        process and tools (SharePoint/Nintex Workflow).        Then they will be asked to create/modify SharePoint approval        workflows using Nintex,  create training material,  train and        implement globally.      Requirements:       Computer Science Degree       Experience with Access database development,  SharePoint workflows        and Visual Basic.        1-3 years of experience", 
+  "companyDescription": "      Spectraforce Technologies    SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful    suite of IT and Consulting services allowing companies to embrace the    challenges of meeting and exceeding the company's IT needs with an    aggressive Total Cost of Ownership.  We enable companies to focus on    their core competencies,  while we handle the integral details of    building IT solution guaranteeing quality delivery with significant    cost savings.  We offer a competitive edge through our Staff    Augmentation Services (PrimuSourcing) and Projects Outsourcing    Services,  which are pwered by our Global Delivery Model with teams    based onsite in the US and offshore in India. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

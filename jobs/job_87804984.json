@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87804984", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "-Experience in a data scientist position or a relevant position analysing multi-dimensional non-structured data -Excellent programming skills,  particularly with data analysis tools (R,  python,  etc…) -Strong problem solving abilities using quantitative techniques,  machine learning,  statistics and signal processing -Perseverance and creativity to look for alternative options when facing difficulties or negative results -Passion for applying data science to real-world problems and having positive impact in the world through the Drivies product -Good communication skills to be able to describe the results of the analysis with different levels of detail to technical and non-technical people -Ability to work in a team   Education &amp; Qualifications - BS in computer science,  engineering or related fields - MS in data science or machine learning is a plus   Languages - English - Spanish is a plus but not needed", 
+  "following": false, 
+  "companyDescription": "Drivies is an innovative mobile app that helps drivers improve their driving skills by providing feedback about your routes,  your estimated gas consumption,  your speeding events,  harsh driving incidents and moments of distraction.  We are looking for a Data Scientist to lead our efforts in data analysis in order to help us predict the driving risk of our users.  The ideal candidate would be passionate about analysing data and finding relevant patterns that would help us create a driving-risk score that can be used in insurance pricing.  Our mission is… To bring fair pricing to automotive insurance through a better understanding of the real risk of every driver To drastically reduce the amount of accidents in our roads by providing feedback on driving ability,  hints on how to improve,  and incentives to motivate our users Our tools to achieve that mission include… An application that measures how you drive (already in market) The ability to measure a particular individual’s risk A multidisciplinary team with a very diverse set of competencies that works well together A lean approach to innovation that requires fast iterations and continuous contact with users Our culture is supported on three pillars: Fairness Social Good Fun", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Telefonica Innovation", 
+  "canFollow": false, 
+  "companyId": "2449035", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Telefonica Innovation", 
+    "title": "Data Scientist for Insurance Telematics"
+  }, 
+  "description": "-Develop best practices in data analytics and carry out experiments to interpret the data,  applying state-of-the-art machine learning and data analysis techniques -Build models of behaviour and driving risk from data captured by a mobile app and potentially the mobile network -Work closely with our engineering team to analyse the data captured by the app and provide feedback on how to improve the app -Drive the collection of new data and the refinement of existing data sources when needed -Communicate findings to project manager and the rest of the team -Provide feedback on potential new features of the app based on the results of the analysis"
+}

@@ -1,0 +1,344 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-57E4BE2269", 
+    "expirationDate": 1451832555000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1647, 
+          "type": "LI", 
+          "endIdx": 1674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1609, 
+          "type": "LI", 
+          "endIdx": 1646, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "LI", 
+          "endIdx": 1608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "LI", 
+          "endIdx": 1568, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1475, 
+          "type": "LI", 
+          "endIdx": 1556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1474, 
+          "type": "BG", 
+          "endIdx": 1674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1474, 
+          "type": "BR", 
+          "endIdx": 1474, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1466, 
+          "type": "B", 
+          "endIdx": 1474, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1466, 
+          "type": "BR", 
+          "endIdx": 1466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1466, 
+          "type": "BR", 
+          "endIdx": 1466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1397, 
+          "type": "LI", 
+          "endIdx": 1465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1308, 
+          "type": "LI", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1307, 
+          "type": "BG", 
+          "endIdx": 1466, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1307, 
+          "type": "BR", 
+          "endIdx": 1307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "B", 
+          "endIdx": 1307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1295, 
+          "type": "BR", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1152, 
+          "type": "LI", 
+          "endIdx": 1294, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1063, 
+          "type": "LI", 
+          "endIdx": 1151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 992, 
+          "type": "LI", 
+          "endIdx": 1062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 958, 
+          "type": "LI", 
+          "endIdx": 991, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "LI", 
+          "endIdx": 957, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 851, 
+          "type": "LI", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 850, 
+          "type": "BG", 
+          "endIdx": 1295, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 850, 
+          "type": "BR", 
+          "endIdx": 850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 840, 
+          "type": "B", 
+          "endIdx": 850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 840, 
+          "type": "BR", 
+          "endIdx": 840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 840, 
+          "type": "BR", 
+          "endIdx": 840, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 797, 
+          "type": "BR", 
+          "endIdx": 797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 797, 
+          "type": "BR", 
+          "endIdx": 797, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 756, 
+          "type": "BR", 
+          "endIdx": 756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 756, 
+          "type": "BR", 
+          "endIdx": 756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 676, 
+          "type": "B", 
+          "endIdx": 686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 584, 
+          "type": "BR", 
+          "endIdx": 584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 584, 
+          "type": "BR", 
+          "endIdx": 584, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 509, 
+          "type": "B", 
+          "endIdx": 532, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BR", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 460, 
+          "type": "BR", 
+          "endIdx": 460, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "B", 
+          "endIdx": 264, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "BR", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "BR", 
+          "endIdx": 222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " At AdPushup,  our mission is to help keep the world's information free and accessible.  This means helping the publishers and website owners to realize more money from their traffic while keeping the users happy. We work on a lot of interesting challenges in AdPushup.  It's usually fun,  followed by exasperation,  and then some more fun! We're working on numerous patent-pending technologies and are truly disrupting the publisher side AdTech industry. The role of the Data Scientist is to work on our ad optimization engine which is the key to achieving increased ad revenues. We're a small tech team right now (&lt;6) - so you'll be in our core team.  You can create a BIG impact - if that's your thing (and if not - we probably aren't a good fit).  And why should you work with us? Because:(view full at http://careers. adpushup. com/)Must Haves Creative approach to a problem solving.  Statistical modelling experience and technical engineering skills.  Experience in Data visualization.  Experience in dealing with structured,  unstructured and real-time data  Experienced with any one of the following - Go,  Java,  Python,  R,  Scala,  Hive,  Pig etc.    Working experience with all or some of the following frameworks/tools - ElasticSearch,  Kibana,  Spark,  Solr,  Hadoop,  Hive,  Storm,  Mahout etc.   Nice To Have Experience on working / designing highly scalable data ingestion and processing systems.  Experience in A/B testing,  probability theory,  Bayesian bandits etc.  Benefits Great culture and easy-going environment (check out - http://inside. adpushup. com)  Free food! Talented peers (we hire only the best!) Unlimited leaves and work-from-homes.  ESOPs (if you're worth it). "
+    }, 
+    "postalCode": "110085", 
+    "jobState": "LISTED", 
+    "companyName": "AdPushup Inc. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are a New Delhi,  India based AdTech startup aiming to help publishers maximize their ad earnings through Ad Revenue Optimization.  We use Advanced A/B Testing &amp; Continuous optimization algorithms to improve Ad CTR and eCPM for online publishers. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1440835418000, 
+    "countryCode": "in", 
+    "company": "urn:li:company:3346670", 
+    "id": 81269119, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Delhi,  IN", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/81269119?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F9471F718B8&urlHash=6Hbl&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 98 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "98d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2013, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/070/067/0cf50d1. png"
+    }, 
+    "localizedDescription": "We are a New Delhi,  India based AdTech startup aiming to help publishers maximize their ad earnings through Ad Revenue Optimization.  \r\rWe use Advanced A/B Testing & Continuous optimization algorithms to improve Ad CTR and eCPM for online publishers. ", 
+    "company": {
+      "specialities": [
+        "Ad Revenue Optimization"
+      ], 
+      "universalName": "adpushup", 
+      "companyId": 3346670
+    }, 
+    "canonicalName": "AdPushup", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "August 29,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

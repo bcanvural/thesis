@@ -1,0 +1,79 @@
+{
+  "jobPosting": {
+    "companyJobCode": "europa_eu-54258474", 
+    "expirationDate": 1451308917000, 
+    "title": "Data scientist @ ensemblo (omnichannel analytics start-up)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "To expand our growing team,  we are looking for a data scientist to tackle the hard-core mathematical modeling AND to apply this insight to concrete challenges.  You will become the go-to specialist for all things maths/statistics/modeling related,  in a team that works agile.  That means creativity and flexibility is requested and required from each team member,  while everyone has a clear specialization to grow in.  To sum it all up,  you will: Explore existing data from the viewpoint of a concrete business question Formulates hypotheses and designs experiments to collect the necessary data Propose models based on selected/collected data Assist the data science engineer to implement the proposed models Verify and ensure that the implemented models produce valid output Assist your team with the visualization and storytelling of the data"
+    }, 
+    "postalCode": "2000", 
+    "jobState": "LISTED", 
+    "companyName": "ENSEMBLO", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are a young start-up aiming to support multichannel retailers with data driven decision making at all levels and bridge the gap between online and offline channels.  We design,  develop and deliver products and services that produce relevant insight and visualizations based on physical-world measurements (sensors,  cameras,  beacons, …) and data from existing platforms (web,  mobile,  e-commerce,  POS, …). We believe the best performing companies will be those that provide a seamless experience across all points of customer interaction.  Our mission is to provide innovative technology solutions to take data-driven decisions and unlock the full potential of all customer engagement channels.  We aspire to service and product leadership in conversion improvement for multi-channel retailers. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447150701000, 
+    "countryCode": "be", 
+    "company": "urn:li:company:9506062", 
+    "id": 98083473, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Antwerpen,  BE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98083473?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fec. europa. eu%2Feures%2Feures-searchengine%2Fpage%2Fmain%3Flang%3Den%23%2FfullscreenJvView%3FuuId%3D15799daacad34307b127686d17d75bca%26jvId%3D54258474%26pesId%3D40&urlHash=FMZO&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 25 days ago", 
+  "formattedPostedDaysAgoSlim": "25 days ago", 
+  "formattedPostedDaysAgoShort": "25d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2015, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMHAAAAJGQ5YTA2NGRhLWNlZmItNDliNC1iMGE4LTVkNzk4ZTU1ODg1MA. png"
+    }, 
+    "localizedDescription": "We are a young start-up aiming to support multichannel retailers with data driven decision making at all levels and bridge the gap between online and offline channels.  We design,  develop and deliver products and services that produce relevant insight and visualizations based on physical-world measurements (sensors,  cameras,  beacons, …) and data from existing platforms (web,  mobile,  e-commerce,  POS, …). \r\rWe believe the best performing companies will be those that provide a seamless experience across all points of customer interaction.  Our mission is to provide innovative technology solutions to take data-driven decisions and unlock the full potential of all customer engagement channels.  We aspire to service and product leadership in conversion improvement for multi-channel retailers. ", 
+    "company": {
+      "universalName": "ensemblo", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALfAAAAJDYyOGVmMTBmLThmYmYtNGMyZC04MzZmLWU4YjVhNzBlNzAwNg. png"
+      }, 
+      "companyId": 9506062
+    }, 
+    "canonicalName": "ensemblo", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "November 10,  2015", 
+  "formattedExpireDate": "December 28,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

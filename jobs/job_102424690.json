@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Maritime and Port Authority of Singapore", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "pageuppeople-pageuppeople-502441", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102424690, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      95
+    ]
+  }, 
+  "company": {
+    "companyId": 104468, 
+    "websiteUrl": "www. mpa. gov. sg/", 
+    "logo": "urn:li:media:/p/6/005/068/1d9/2f43711. png", 
+    "universalName": "maritime-and-port-authority-of-singapore"
+  }, 
+  "description": "    You will be part of a multi-disciplinary team,  which is coordinating,     conceptualising,  planning and implementing a next generation port.   The    role of the data scientist is to identify data within the organisation    and from external sources,  exploring suitable strategies,  technologies    and advanced data/visual analytic tools and modelling systems,  and    using these data and tools to provide useful insights,  scenarios and    outcomes for the planning,  optimisation and design of the next    generation port systems and services.  You are expected to liaise with    technology provider(s),  research institutes and other data    stakeholders.     You Should Have Or Meet The Following    •   Advanced degree in computer science,  applied mathematics,     statistics,  operations research or related disciplines.  PhD is an    advantage.     •   At least 3 years in relevant experience in data analytics.     •   Passion for empirical research and extensive experience solving    complex problems using quantitative approaches. ", 
+  "companyDescription": "      Maritime and Port Authority of Singapore    The Maritime and Port Authority of Singapore (MPA) was established on 2    February 1996,  with the mission to develop Singapore as a premier    global hub port and international maritime centre (IMC),  and to advance    and safeguard Singapore's strategic maritime interests.  MPA is the    driving force behind Singapore's port and maritime development,  taking    on the roles of Port Authority,  Port Regulator,  Port Planner,  IMC    Champion,  and National Maritime Representative.  MPA partners the    industry and other agencies to enhance safety,  security and    environmental protection in our port waters,  facilitate port operations    and growth,  expand the cluster of maritime ancillary services,  and    promote maritime R&D and manpower development. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

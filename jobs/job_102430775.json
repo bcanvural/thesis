@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "DSGN", 
+      "IT"
+    ], 
+    "companyJobCode": "22703789", 
+    "title": "SQL Data Analyst Music Technology Brand £350", 
+    "employmentStatus": "CONTRACT", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102430775, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     SQL Data Analyst Music Technology Brand.     £350-£360 3 month contract Central London.     One of the most innovative brands in music is looking to bring on board    a talented data analyst who has extreme attention to detail.     With a unique product that is really disrupting the music industry,  the    technology sits at the heart of the business,  and the data they use and    generate are crucial to the ongoing success of the company.  This is a    great opportunity to join a fast paced and critical project in the    heart of the music technology business.     Essentially what our client needs is someone who can understand large    data sets and generate reports using this data to present back to the    business in a concise and logical way.  You will be writing SQL scripts    to extract and manipulate data form their data warehouse and then    presenting this into various management reports.     You will be responsible for creating data management reports for one of    their sister brand based in the U. S.     As . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

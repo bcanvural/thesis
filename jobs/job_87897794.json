@@ -1,0 +1,28 @@
+{
+  "jobPosting": {
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "PREMIUM", 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "title": "Data Scientist", 
+    "veteranCommitted": false, 
+    "id": 87897794, 
+    "applicationRouting": "LINKEDIN", 
+    "industries": [
+      96
+    ], 
+    "functions": [
+      "IT"
+    ], 
+    "companyName": "Lead Ratings"
+  }, 
+  "company": {
+    "websiteUrl": "http://lead-ratings. com", 
+    "logo": "urn:li:media:/p/3/005/05d/341/1b7ef39. png", 
+    "universalName": "lead-ratings", 
+    "companyId": 5198669
+  }, 
+  "description": "     At Lead Ratings we are looking to hire a Data Scientist to help us    solve the new exciting challenges we are facing.  We are looking for    talented individuals with motivation to work on Data Mining & Machine    Learning with marketing data.      The offered position is a full-time job based on our Barcelona office,     at L’Eixample Esquerra. ", 
+  "companyDescription": "      Lead Ratings    [1]Following companyUnfollow company[2]Follow company     Lead Ratings is a young startup providing a SaaS forecasting platform    that improves the conversion rate of sales leads based on a predictive    model.  It allows the classification of leads into groups based on sales    probability.   References     1.  file:///jobs2/view/actions/unfollowCompany/5198669?csrfToken=ajax:2644187314825728846    2.  file:///jobs2/view/actions/followCompany/5198669?csrfToken=ajax:2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

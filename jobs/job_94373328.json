@@ -1,0 +1,167 @@
+{
+  "jobPosting": {
+    "companyJobCode": "95ec70479d052595f7f77fb11b9bcf7f", 
+    "expirationDate": 1452001043000, 
+    "title": "Vacature (Senior) Consultant Big Data Management", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1629, 
+          "type": "LI", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1590, 
+          "type": "LI", 
+          "endIdx": 1628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1515, 
+          "type": "LI", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1435, 
+          "type": "LI", 
+          "endIdx": 1514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1376, 
+          "type": "LI", 
+          "endIdx": 1434, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1068, 
+          "type": "LI", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "LI", 
+          "endIdx": 1067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 852, 
+          "type": "LI", 
+          "endIdx": 925, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 852, 
+          "type": "BR", 
+          "endIdx": 852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 772, 
+          "type": "BR", 
+          "endIdx": 772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 772, 
+          "type": "BR", 
+          "endIdx": 772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 53, 
+          "type": "BR", 
+          "endIdx": 53, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Your role as a Senior Consultant Big Data Management To be able to store and analyse Big Data of our clients and obtain the maximum value out of it,  you advise them on how to design and develop their future data architecture.  Depending on the customers demand this can be by creating a real time report and dashboard and/or combining different internal and external sources.  During these projects you will be both working on a technical solution and managing teams.  To give the best advice to the client,  you will act in multidisciplinary teams,  built-up out of the other expert service lines within Deloitte.  For example,  you will be working in projects that focus on Customer Analytics,  Finance,  Supply Chain and/or Workforce Analytics in various sectors and industries. Do you feel challenged by the job description? If so,  we would love to meet you!You have 3 to 5 years of experience in a Big Data / Analytics environment You completed a relevant Master of Arts / Master of Science (like Computer Science,  Information Science or Technical Business Administration) During your working career you have gained practical knowledge of one or more of the following relevant technologies (Hadoop,  Spark,  Map Reduce).  Furthermore,  you are familiar with concepts like Data Warehousing,  Data Lakes and the use of database platforms and tools like Oracle,  Informatica,  MS SQL Server Strong affinity with solving business problems in projects You have a high EQ and can come to a constructive solution together with others You are pro-active and are able to lead projects and/or team independently Excellent command of Dutch and English Relevant certificates (Spark,  Hadoop / Cloudera or CBIP) is a plus Your career and employment conditions"
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "Deloitte Nederland", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Door de opkomst en exponentiële groei van nieuwe technologieën verandert de wereld de aankomende jaren radicaal.  Geen bedrijf of organisatie kan om de gevolgen van de verregaande digitalisering en informatisering heen.  Deloitte kent de uitdagingen in uw branche en vertaalt marktproblemen van de toekomst naar creatieve en innovatieve oplossingen.  Deloitte is een professionele dienstverlener met wereldwijd 200. 000 medewerkers en kantoren in meer dan 150 landen.  Met ruim 4. 500 medewerkers en 18 kantoren verspreid over heel Nederland is Deloitte een van de grootste aanbieders van professionele dienstverlening op het gebied van accountancy,  belastingadvies,  consultancy,  risk management en financiële advisering.  De professionals werken in multidisciplinaire teams en hebben daarom een zeer brede visie op de vraagstukken van onze klanten.  Deloitte is de betrouwbare en innovatieve partner die u nu inzicht geeft in de kansen van uw toekomstige business.  Wilt u meer informatie of in contact komen met de experts om van gedachten te wisselen? Kijk op www. deloitte. nl. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "CNSL"
+    ], 
+    "listDate": 1445665757000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:833228", 
+    "id": 94373328, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Amsterdam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94373328?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. werkenbijdeloitte. nl%2Fvacature%2Fsenior-consultant-big-data-management-236951. html&urlHash=rmsa&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Consulting"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Financial Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 42 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "42d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "1001-5000", 
+    "formattedIndustries": [
+      "Financial Services"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "Door de opkomst en exponentiële groei van nieuwe technologieën verandert de wereld de aankomende jaren radicaal.  Geen bedrijf of organisatie kan om de gevolgen van de verregaande digitalisering en informatisering heen.  Deloitte kent de uitdagingen in uw branche en vertaalt marktproblemen van de toekomst naar creatieve en innovatieve oplossingen.  \r\rDeloitte is een professionele dienstverlener met wereldwijd 200. 000 medewerkers en kantoren in meer dan 150 landen.  Met ruim 4. 500 medewerkers en 18 kantoren verspreid over heel Nederland is Deloitte een van de grootste aanbieders van professionele dienstverlening op het gebied van accountancy,  belastingadvies,  consultancy,  risk management en financiële advisering.  De professionals werken in multidisciplinaire teams en hebben daarom een zeer brede visie op de vraagstukken van onze klanten.  \r\rDeloitte is de betrouwbare en innovatieve partner die u nu inzicht geeft in de kansen van uw toekomstige business.  Wilt u meer informatie of in contact komen met de experts om van gedachten te wisselen? Kijk op www. deloitte. nl. ", 
+    "formattedCompanyType": "Partnership", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "careersImage": "urn:li:media:/p/1/005/08f/011/3f2dfb7. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIlAAAAJDczNTkwODU1LTFkYzItNDg2Ni05MDdlLWMzNTMyNWFlZjk2ZQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/1/005/08f/011/3f2dfb7. png", 
+    "company": {
+      "specialities": [
+        "Accountancy", 
+        "Consulting", 
+        "Belastingadvies", 
+        "Financial Advisory Services", 
+        "Innovatie", 
+        "Duurzaamheid", 
+        "Internationaal Zakendoen", 
+        "Mergers & Acquisitions", 
+        "Online Diensten", 
+        "Risicomanagement"
+      ], 
+      "universalName": "deloitte-nederland", 
+      "companyId": 833228, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/0b0/1d9/142d84a. png"
+      }
+    }, 
+    "canonicalName": "Deloitte Nederland"
+  }, 
+  "formattedListDate": "October 24,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

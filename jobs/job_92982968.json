@@ -1,0 +1,489 @@
+{
+  "jobPosting": {
+    "companyJobCode": "adzuna_xml-301606781", 
+    "expirationDate": 1451911684000, 
+    "title": "Аналитик Big Data,  Data Scientist,  Researcher (Hadoop,  Spark)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1791, 
+          "type": "BR", 
+          "endIdx": 1791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1791, 
+          "type": "BR", 
+          "endIdx": 1791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "B", 
+          "endIdx": 1791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1695, 
+          "type": "BR", 
+          "endIdx": 1695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1636, 
+          "type": "BR", 
+          "endIdx": 1636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1636, 
+          "type": "BR", 
+          "endIdx": 1636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1582, 
+          "type": "BR", 
+          "endIdx": 1582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1582, 
+          "type": "BR", 
+          "endIdx": 1582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1522, 
+          "type": "BR", 
+          "endIdx": 1522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1522, 
+          "type": "BR", 
+          "endIdx": 1522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1489, 
+          "type": "BR", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1489, 
+          "type": "BR", 
+          "endIdx": 1489, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1429, 
+          "type": "BR", 
+          "endIdx": 1429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1429, 
+          "type": "BR", 
+          "endIdx": 1429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "BR", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1377, 
+          "type": "BR", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "U", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "B", 
+          "endIdx": 1377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "BR", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "BR", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1276, 
+          "type": "BR", 
+          "endIdx": 1276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1276, 
+          "type": "BR", 
+          "endIdx": 1276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1177, 
+          "type": "BR", 
+          "endIdx": 1177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1122, 
+          "type": "BR", 
+          "endIdx": 1122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1122, 
+          "type": "BR", 
+          "endIdx": 1122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1035, 
+          "type": "BR", 
+          "endIdx": 1035, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1035, 
+          "type": "BR", 
+          "endIdx": 1035, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 943, 
+          "type": "BR", 
+          "endIdx": 943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 943, 
+          "type": "BR", 
+          "endIdx": 943, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 850, 
+          "type": "BR", 
+          "endIdx": 850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 850, 
+          "type": "BR", 
+          "endIdx": 850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 798, 
+          "type": "BR", 
+          "endIdx": 798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 798, 
+          "type": "BR", 
+          "endIdx": 798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 750, 
+          "type": "BR", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 750, 
+          "type": "BR", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "BR", 
+          "endIdx": 714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 714, 
+          "type": "BR", 
+          "endIdx": 714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BR", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 630, 
+          "type": "BR", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 611, 
+          "type": "U", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 611, 
+          "type": "B", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 611, 
+          "type": "BR", 
+          "endIdx": 611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 611, 
+          "type": "BR", 
+          "endIdx": 611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 585, 
+          "type": "BR", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 585, 
+          "type": "BR", 
+          "endIdx": 585, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 536, 
+          "type": "BR", 
+          "endIdx": 536, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 536, 
+          "type": "BR", 
+          "endIdx": 536, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 453, 
+          "type": "BR", 
+          "endIdx": 453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 453, 
+          "type": "BR", 
+          "endIdx": 453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 356, 
+          "type": "BR", 
+          "endIdx": 356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 356, 
+          "type": "BR", 
+          "endIdx": 356, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 288, 
+          "type": "BR", 
+          "endIdx": 288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 288, 
+          "type": "BR", 
+          "endIdx": 288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "U", 
+          "endIdx": 288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "B", 
+          "endIdx": 288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "BR", 
+          "endIdx": 268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 268, 
+          "type": "BR", 
+          "endIdx": 268, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 165, 
+          "type": "B", 
+          "endIdx": 177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 165, 
+          "type": "BR", 
+          "endIdx": 165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 165, 
+          "type": "BR", 
+          "endIdx": 165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 87, 
+          "type": "B", 
+          "endIdx": 165, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 87, 
+          "type": "BR", 
+          "endIdx": 87, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 87, 
+          "type": "BR", 
+          "endIdx": 87, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 87, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 87, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Рекрутинговое Агентство «GlobalCareer»,  Для Своего Клиента Ищет Специалиста На ВАКАНСИЮАналитик Big Data,  Data Scientist,  Researcher (Hadoop,  Spark),  Санкт-ПетербургНаш клиент: Российская ИT-Компания,  предоставляющая услуги в сфере банковских информационных технологийОсновные Обязанности· Анализа данных проекта по разработке кластера супермассивов данных· Анализ слабоструктурированных данных больших объемов с использованием технологий Hadoop и Spark· Осуществление «обучения моделей на данных» с применением методов Machine Learning· Проведение работ по подготовке и очистке данных· Обработка потоков данныхОсновные Требования· Обязателен опыт работы на аналогичной должности в проектах по Big Data: от 1-3 лет· Знание технологий анализа Big Data· Желателен опыт с Банковские системы - Big Data· Обязательно владение технологиями - Hadoop и Spark· Опыт применения технологий работы с графами,  технологий машинного обучения и анализа данных· Владение языками - Java,  Scala,  R и Python (желательно,  хотя бы одним из указанных языков)· Опыт управления командой либо опыт управления проектами – будет дополнительным плюсом· Готовность к командировкам ( 10-30% рабочего времени)· Способность эффективно работать в автономном режиме и способность наглядно представить результат. · Развитие коммуникативные навыки и умение выяснить все нюансы для постановки задачКопания Предлагает· Стабильную работу в Ведущей российской ИT-Компании· Достойный уровень заработной платы + ежеквартальные премии· Официальное оформление по ТК РФ· Социальный пакет (ДМС,  английский язык),  дисконт-программы· Возможность обучения и сертификации за счет компании· Возможность профессионального развития и карьерного ростаПожалуйста,  высылайте актуальное резюме на русском языке,  с указанием Ваших зарплатных ожиданий. "
+    }, 
+    "postalCode": "190906", 
+    "jobState": "LISTED", 
+    "companyName": "GlobalCareer", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "GlobalCareer is the new brand name of Luxoft Personnel,  the recruitment agency.  GlobalCareer is a leading provider of the best talent solutions and services.  We are a company with the global footprint,  and due to our various regions presence we have thorough understanding of local culture and mentality peculiarities.  This enables us to efficiently fulfill recruitment and consulting projects of diverse scope professionally and geographically. We are seasoned experts in Management Selection,  Professional Recruitment and IT Professionals Selection. We are dedicated to establishment of solid and mutually beneficial relationships with our clients and candidates. We are here to introduce employers and candidates to the opportunities available in the market.  Our aim is to make your recruitment process as efficient and cost effective as possible. We provide professional services in Poland,  Germany,  Russia,  Ukraine and the UK.  VisionOur vision is to be the leading global provider in creating the best talent solutions and services that provide our customers with competitive advantages in the changing world. MissionOur mission is to create comprehensive talent solutions,  to recruit and develop the right people,  in the right place and at the right time.  We help to unleash human potential necessary for increasing productivity,  improving performance and enabling the strategic change.  We never accept the status quo.  We make difference!We skillfully combine our extended experience and our ability to keep our eyes on the state of art market trends which shall impact the business landscape tomorrow. Due to our sense of commitment,  relevant industry expertise and successful recruitment experience,  we have become a longtime trusted partner of such market leaders as  Accenture,  KPMG,  Ericsson,  Samsung,  Huawei,  Kaspersky Lab,  Western Union,  BNP Paribas,  Sberbank,  Xerox,  SONY,  MAXAM,  EFES,  PepsiCo,  Ehrmann and many others. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444997996000, 
+    "countryCode": "ru", 
+    "company": "urn:li:company:2267119", 
+    "id": 92982968, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Saint Petersburg,  RU", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92982968?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. adzuna. ru%2Fland%2Fad%2F301606781%3Fv%3D2E507AC8978A0FEB8CB925FD0994CB093290CEC5%26utm_source%3Dlinkedinru%26utm_medium%3Dorganic%26chnlid%3D177&urlHash=QMI1&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 50 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "50d", 
+  "companyDescriptionLanguage": "ru", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2008, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAARCAAAAJGRjNWQzZmVmLTIyYjEtNDQ0Ni1iZjBkLWU0YmM0MzQwMGJlOQ. png"
+    }, 
+    "localizedDescription": "GlobalCareer is the new brand name of Luxoft Personnel,  the recruitment agency.  \r\rGlobalCareer is a leading provider of the best talent solutions and services.  \r\rWe are a company with the global footprint,  and due to our various regions presence we have thorough understanding of local culture and mentality peculiarities.  This enables us to efficiently fulfill recruitment and consulting projects of diverse scope professionally and geographically. \r\rWe are seasoned experts in Management Selection,  Professional Recruitment and IT Professionals Selection. \rWe are dedicated to establishment of solid and mutually beneficial relationships with our clients and candidates. \r\rWe are here to introduce employers and candidates to the opportunities available in the market.  Our aim is to make your recruitment process as efficient and cost effective as possible. \rWe provide professional services in Poland,  Germany,  Russia,  Ukraine and the UK. \r \rVision\rOur vision is to be the leading global provider in creating the best talent solutions and services that provide our customers with competitive advantages in the changing world. \r\rMission\rOur mission is to create comprehensive talent solutions,  to recruit and develop the right people,  in the right place and at the right time.  We help to unleash human potential necessary for increasing productivity,  improving performance and enabling the strategic change.  We never accept the status quo.  We make difference!\r\rWe skillfully combine our extended experience and our ability to keep our eyes on the state of art market trends which shall impact the business landscape tomorrow. \r\rDue to our sense of commitment,  relevant industry expertise and successful recruitment experience,  we have become a longtime trusted partner of such market leaders as  Accenture,  KPMG,  Ericsson,  Samsung,  Huawei,  Kaspersky Lab,  Western Union,  BNP Paribas,  Sberbank,  Xerox,  SONY,  MAXAM,  EFES,  PepsiCo,  Ehrmann and many others. ", 
+    "company": {
+      "specialities": [
+        "Executive search", 
+        "Management Selection", 
+        "Professional Recruitment", 
+        "RPO", 
+        "Market Analyst"
+      ], 
+      "universalName": "luxoft-personnel-recruitment-centre", 
+      "companyId": 2267119, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAX-AAAAJDc1OTE5NTEwLTEyNDUtNDQzMS04NzY5LTJiZDdiMDk3OGVmYQ. png"
+      }
+    }, 
+    "canonicalName": "GlobalCareer", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 16,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "ru", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,346 @@
+{
+  "jobPosting": {
+    "companyJobCode": "bullhorn-2136475", 
+    "expirationDate": 1451956211000, 
+    "title": "Data scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2027, 
+          "type": "BR", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2027, 
+          "type": "BR", 
+          "endIdx": 2027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2014, 
+          "type": "BR", 
+          "endIdx": 2014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2014, 
+          "type": "BR", 
+          "endIdx": 2014, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1977, 
+          "type": "BR", 
+          "endIdx": 1977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1977, 
+          "type": "BR", 
+          "endIdx": 1977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1938, 
+          "type": "BR", 
+          "endIdx": 1938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1938, 
+          "type": "BR", 
+          "endIdx": 1938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1937, 
+          "type": "BR", 
+          "endIdx": 1937, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1876, 
+          "type": "LI", 
+          "endIdx": 1937, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1794, 
+          "type": "LI", 
+          "endIdx": 1876, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1640, 
+          "type": "LI", 
+          "endIdx": 1794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1547, 
+          "type": "LI", 
+          "endIdx": 1640, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "LI", 
+          "endIdx": 1547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "LI", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "LI", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "BG", 
+          "endIdx": 1937, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "BR", 
+          "endIdx": 1306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "U", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "B", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "BR", 
+          "endIdx": 1227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1227, 
+          "type": "BR", 
+          "endIdx": 1227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "BR", 
+          "endIdx": 1216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1216, 
+          "type": "BR", 
+          "endIdx": 1216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "BR", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 738, 
+          "type": "BR", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 726, 
+          "type": "BR", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 726, 
+          "type": "BR", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 662, 
+          "type": "U", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 662, 
+          "type": "B", 
+          "endIdx": 726, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 662, 
+          "type": "BR", 
+          "endIdx": 662, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 662, 
+          "type": "BR", 
+          "endIdx": 662, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 95, 
+          "type": "BR", 
+          "endIdx": 95, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 95, 
+          "type": "BR", 
+          "endIdx": 95, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionData scientist - Stockholm - Well Backed 'Engineering First' StartupAre you a Data scientist,  who works to identify the best and most secure solution to every problem you find? An individual who wants to work in an 'Engineering First' environment that encourages you fulfill your own personal goals,  simply because they know by acheieving in your own personal arena it will bring value to the organization? Does the sounds of a weekly internal Hackathon and the ability to work directly with some of the top talent at Google on a regular basis,  allowing you to really learn and push your own personal limits sound like heaven on earth?If Your Answer To These Questions Is YES.  Please Feel To Read OnYour MissionYou will work closely with the strategy,  commercial and product teams to define and track key performance metrics,  evaluate A/B tests and user behavior,  and derive product insights.  You will identify improvement opportunities and be involved in special projects.  You will act as an advisor for the Strategy and Management Team and play a key role in influencing our decision making by asking the right questions,  pin-pointing the right problems,  and highlighting the right data. Your SkillsAboutAs far as your technical skills,  we’d love to hear about experiences like:Expertise in database modeling and data warehousing principles in SQLFamiliarity with data modeling on Hadoop clusters,  tools in the Hadoop ecosystem,  and stream processingExtensive experience with analytical and quantitative problem solvingExperience with analysis tools,  open source or commercially available libraries and toolsets Working knowledge of data mining algorithms including decision trees,  probability networks,  association rules,  clustering,  regression,  and neural networksExperience from working with mobile applications and big data is a great advantageProgramming knowledge in at least one language other than SQL Ready to take next step in your career?Get in touch - bjorn@redexecutive. com+356 79083008"
+    }, 
+    "postalCode": "10375", 
+    "jobState": "LISTED", 
+    "companyName": "Red Executive", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Operating across EMEA,  RED EXECUTIVE provides first class retained search and contingency recruitment solutions for the digital; advertising/technology sector.  Our goal is to connect the world's leading digital professionals with growing organisations,  helping them continue to establish core markets and grow into new regions.  Indeed,  having worked with EMEA and US focused firms Red Executive have helped organisations on both sides of the pond establish an organic base in new region,  identifying talented staff to grow their business away from their core areas. Agencies,  Ad Servers,  Media Buying Platforms,  Creative Optimizations,  Analytics,  Demand Side Platform,  DSP,  DSP's,  Data Optimization,  Data Suppliers,  Ad Exchanges,  Ad Networks,  Targeted,  Audience,  Re-Target,  Performance,  SEO,  SEM,  Display,  Affiliate,  Mobile,  Social Media,  Social Tools,  Social Marketing Platforms,  Publisher,  Advertiser,  Ad Servers,  VOD,  Video on Demand,  Mobile,  Mobile DSP,  Mobile Advertising,  recruitment,  jobs,  careers,  Germany,  Italy,  France,  Spain,  The Netherlands,  UK and US"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1442984133000, 
+    "countryCode": "se", 
+    "company": "urn:li:company:275084", 
+    "id": 87313302, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Stockholm,  SE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Operating across EMEA,  RED EXECUTIVE provides first class retained search and contingency recruitment solutions for the digital; advertising/technology sector.  Our goal is to connect the world's leading digital professionals with growing organisations,  helping them continue to establish core markets and grow into new regions.  Indeed,  having worked with EMEA and US focused firms Red Executive have helped organisations on both sides of the pond establish an organic base in new region,  identifying talented staff to grow their business away from their core areas. \r\rAgencies,  Ad Servers,  Media Buying Platforms,  Creative Optimizations,  Analytics,  Demand Side Platform,  DSP,  DSP's,  Data Optimization,  Data Suppliers,  Ad Exchanges,  Ad Networks,  Targeted,  Audience,  Re-Target,  Performance,  SEO,  SEM,  Display,  Affiliate,  Mobile,  Social Media,  Social Tools,  Social Marketing Platforms,  Publisher,  Advertiser,  Ad Servers,  VOD,  Video on Demand,  Mobile,  Mobile DSP,  Mobile Advertising,  recruitment,  jobs,  careers,  Germany,  Italy,  France,  Spain,  The Netherlands,  UK and US", 
+    "foundedYear": 2009, 
+    "canonicalName": "Red Executive", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/04f/0f8/15a4ff2. png"
+    }, 
+    "company": {
+      "specialities": [
+        "professional", 
+        "knowledgeable", 
+        "consultative", 
+        "executive", 
+        "marketing", 
+        "sales", 
+        "IT", 
+        "advertising technology", 
+        "recruitment", 
+        "search", 
+        "headhunting", 
+        "digital"
+      ], 
+      "universalName": "redexecutive", 
+      "companyId": 275084, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/052/341/0f4cfed. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 73 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "73d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "September 23,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/87313302?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. bullhornreach. com%2Fsites%2FRed_Executive%2Fjob%2F2136475_data-scientist-stockholm-sweden&urlHash=xQcQ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

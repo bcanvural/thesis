@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/86749900", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "WHO ARE WE? Mongoose Gray Technology is an information technology services company specialising in Business and Technical Application Support.  We,  former support professionals ourselves,  provide recruitment and consultancy services for startups,  SMEs and a select number of blue-chips. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Mongoose Gray Technology", 
+  "canFollow": false, 
+  "companyId": "3244141", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Mongoose Gray Technology", 
+    "title": "Are you a Java / Scala engineer who can make sense of Big Data?"
+  }, 
+  "description": "This is an exciting (yes the tag is truly merited in this instance) opportunity to join an early-stage big data analytics and market insight startup.  One of the most impressive aspects of this fledgling team is the formidable blend of both big corporate world and startup cool tech experience that its people bring to the table.  What can you bring? This role is all about building the back-end component of a massively scalable,  resilient,  high-uptime,  cloud-centric platform.  It's essential that you're comfortable in a big data engineering environment where data points will run into the billions.  First-rate Java and/or Scala software engineering skills are paramount,  coupled with a solid understanding of database technologies: PostgreSQL or NoSQL preferred.  Concurrency,  multithreading and microservices will be your bread and butter.  Prior experience of building platforms supporting multiple API,  web and mobile app connections is highly desirable.  On offer is a unique opportunity to carve out a niche and have a major say in the technical direction of this venture.  If that wasn't reward enough we also offer an attractive salary up to 50K and generous share options.  Interested? come talk to us.  We'd love to hear from you. "
+}

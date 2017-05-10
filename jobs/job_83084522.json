@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/83084522", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Your Skills &amp; Experience   Strong skills and experience in machine learning Expert knowledge in one or more programming languages e. g.  Python,  Java,  C/C++ Strong knowledge of one or more relevant database technologies e. g.  Oracle,  MongoDB,  KDB/OneTick Strong academic record and a degree with high mathematical and computing content e. g.  Computer Science,  Mathematics,  Engineering or Physics from a leading university   This is a rapidly growing research focussed organisation – we are looking for candidate who are truly motivated by pushing the bar and attacking problems that have never been solved before.    We are eager to hear from you today – please apply now!  ", 
+  "following": false, 
+  "companyDescription": "Optimus Search is a recruitment company that supplies high class talent to companies in Europe.  With 10 years of expertise working with some of the biggest names in the industry we know what makes a recruitment company successful – “understanding of our clients’ needs”.    We have broken our business down in to three separate divisions in order to make sure it is clear to you,  as a client or as a candidate,  as to exactly what markets and therefore what skills it is we recruit for.  The Three Divisions are as follows:   Optimus Data &amp; Technology Optimus Engineering Optimus Life Sciences   Our range of services includes contingency search,  executive search and contract recruitment.    With various awards to our name,  including the Virgin Fast track 100,  the Optimus Search brand is recognised as a recruitment company that will deliver on its promises. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Optimus Search", 
+  "canFollow": false, 
+  "companyId": "1592017", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Optimus Search", 
+    "title": "Data Scientist (Machine Learning,  Financial Markets)"
+  }, 
+  "description": "Data Scientist (Machine Learning,  Financial Markets)   Optimus Search is currently recruiting for a highly technical Data Scientist with a focus on Machine Learning and a passion for Financial Markets for our client,  a world-leading Quantitative Investment Manager with 30 years of experience in financial market modelling.    This is a permanent position based in the City of London paying up to £90, 000 per year for a suitable qualified candidate.    About the Position   Help to build the trading systems of the future by discovering and modelling predictable structure in vast collections of financial market and related data!   We mix mathematics,  computer science,  statistics and engineering with terabytes of data to understand and predict financial markets.  We are led by research and technology,  building models and writing programs that invest billions of dollars every day.    The demands of this role are varied and include implementing advanced trading models,  pricing functions,  high performance data acquisition,  storage and retrieval systems,  cluster- computing APIs,  numerical algorithms,  portfolio construction and risk modelling libraries,  visualisation and reporting tools and operational user interfaces.  "
+}

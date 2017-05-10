@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89006860", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Requirements: Three or more years of industry experience in data science / data analytics / algorithms,  working with very large data sets MS or PhD in computer science,  data mining,  machine learning,  statistics,  math,  engineering,  operations research,  or other quantitative discipline (PhD preferred) Fluent in one or more object oriented languages like Java,  Scala,  C#,  C++ Experience with scripting languages like Python or Ruby etc.  Experience with statistical programming environments like R or Matlab Experience in mapping business needs to engineering systems Experience with map-reduce architectures like Hadoop and open source data mining and machine learning projects is a strong plus", 
+  "following": false, 
+  "companyDescription": "Our mission: To give everyone the power to create and share ideas and information instantly,  without barriers. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Twitter", 
+  "canFollow": false, 
+  "companyId": "96622", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Twitter", 
+    "title": "Sr.  Data Scientist - Marketplace Team"
+  }, 
+  "description": "The marketplace team oversees the twitter ad auction,  which serves billions of ad impressions and generates millions of dollars in revenue per day.  Our goal is to generate the maximum value possible from our online auction by matching users with the most valuable and relevant ads.  We design and implement new algorithms for ad selection and ranking (e. g.  budget-aware allocation,  conversion optimization,  ranking and relevance improvements).  We perform extensive experimentation,  simulation,  and large-scale log analysis to improve revenue,  user experience,  and advertiser ROI.  As a Data Scientist on the marketplace team,  you will be designing and implementing new algorithms that directly impact the quality and effectiveness of Twitter ads.  We are looking for folks that are passionate about understanding data and building algorithms and systems that work at scale.  Our team members have background in scalable data mining,  relevance and ranking,  machine learning,  statistics,  and auction theory.  A passion for experimentation and measurement are a big plus.    Responsibilities Apply data mining,  machine learning and/or graph analysis techniques for a variety of allocation,  modeling,  and relevance problems.  Perform deep dive analyses to understand the behavior of our ad marketplace and online optimization algorithms.  Use Map-Reduce frameworks such as Pig and Scalding,  statistical software such as R,  and scripting languages like Python and Ruby Write and interpret complex SQL queries for standard as well as ad hoc data mining purposes.  Define metrics,  understand A/B testing and statistical measurement of algorithm performance. "
+}

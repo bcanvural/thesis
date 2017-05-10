@@ -1,0 +1,381 @@
+{
+  "jobPosting": {
+    "companyJobCode": "tweetmyjobs_xml-16393743", 
+    "expirationDate": 1451661044000, 
+    "title": "Business Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3258, 
+          "type": "BR", 
+          "endIdx": 3258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3258, 
+          "type": "BR", 
+          "endIdx": 3258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3211, 
+          "type": "LI", 
+          "endIdx": 3258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3129, 
+          "type": "LI", 
+          "endIdx": 3211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3129, 
+          "type": "BG", 
+          "endIdx": 3258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3129, 
+          "type": "BR", 
+          "endIdx": 3129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3113, 
+          "type": "B", 
+          "endIdx": 3129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3113, 
+          "type": "BR", 
+          "endIdx": 3113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3113, 
+          "type": "BR", 
+          "endIdx": 3113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3013, 
+          "type": "LI", 
+          "endIdx": 3113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2949, 
+          "type": "LI", 
+          "endIdx": 3013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2828, 
+          "type": "LI", 
+          "endIdx": 2949, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2714, 
+          "type": "LI", 
+          "endIdx": 2828, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2623, 
+          "type": "LI", 
+          "endIdx": 2714, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2572, 
+          "type": "LI", 
+          "endIdx": 2623, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2473, 
+          "type": "LI", 
+          "endIdx": 2572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2420, 
+          "type": "LI", 
+          "endIdx": 2473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2374, 
+          "type": "LI", 
+          "endIdx": 2420, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2304, 
+          "type": "LI", 
+          "endIdx": 2374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2203, 
+          "type": "LI", 
+          "endIdx": 2304, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2127, 
+          "type": "LI", 
+          "endIdx": 2203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2061, 
+          "type": "LI", 
+          "endIdx": 2127, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "LI", 
+          "endIdx": 2061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "BG", 
+          "endIdx": 3113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "BR", 
+          "endIdx": 2001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "B", 
+          "endIdx": 2001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "BR", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "BR", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1974, 
+          "type": "LI", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "LI", 
+          "endIdx": 1974, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1842, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1756, 
+          "type": "LI", 
+          "endIdx": 1842, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1679, 
+          "type": "LI", 
+          "endIdx": 1756, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1575, 
+          "type": "LI", 
+          "endIdx": 1679, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1414, 
+          "type": "LI", 
+          "endIdx": 1575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1333, 
+          "type": "LI", 
+          "endIdx": 1414, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1266, 
+          "type": "LI", 
+          "endIdx": 1333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1199, 
+          "type": "LI", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "LI", 
+          "endIdx": 1199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BG", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1080, 
+          "type": "BR", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1064, 
+          "type": "B", 
+          "endIdx": 1080, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1064, 
+          "type": "BR", 
+          "endIdx": 1064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1064, 
+          "type": "BR", 
+          "endIdx": 1064, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 774, 
+          "type": "BR", 
+          "endIdx": 774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 774, 
+          "type": "BR", 
+          "endIdx": 774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " DraftKings is a technology company that creates the most exciting digital sports competitions on the planet.  Focused on the rapidly growing Daily Fantasy Sports (DFS) space,  DraftKings offers players the opportunity to compete through web and mobile channels in 1-day or 1-week fantasy sports contests for cash prizes and money-can’t-buy experiences.  Founded in 2012,  we are headquartered in Boston,  with additional offices in New York City and London.  This is a unique opportunity to work at a company experiencing explosive growth while inventing an industry.  We bring the most incredible experiences and the industry's biggest contests to our players.  We are looking for exceptional talent to play for our team! Apply today and be a part of our success story. As a Business Data Analyst,  you will focus on transforming huge volumes of data into actionable business insights to fuel the growth of DraftKings.  Data is at the heart of every decision made within DraftKings,  and our Analytics team works to solve problems across a wide variety of topics. ResponsibilitiesCreate salary algorithms for players and set up contest sizing that defines the user experience and business efficiencyOptimize acquisition spend and marketing strategies to drive growthIdentify ways to improve customer game-play through on site changesMeasure how new features or site changes are driving changes in customer behaviorDevelop and systematize standard reporting for key business results (contest performance,  player activity,  segment performance,  key player performance reporting)Diving through enormous amounts of information to identify why different customers behave so differentlyIdentify turning points in customers behavior,  and figure out what drove themUnderstand the efficiency of our marketing activities,  and how we can improve or scaleUse surveys and other research techniques to enhance our product suiteSupport ad hoc analytic requests to drive day to day decisionsMany more. . . . QualificationsBS in Engineering,  Mathematics,  Business,  or a related field0-3 years of analytics experience,  ideally in an Ecommerce companyExperience with SQL,  SAS,  Matlab,  R,  or other programming language is a plusKnowledge of statistics and hypothesis testing required,  with model building experience a strong plusDemonstrated history of autonomously developing new insights from dataStrong communication and organizational skillsComfortable in fast paced,  results driven environmentHighly proficient with data analytics,  and experience in data manipulation using a variety of toolsStrong communication and business consulting skillsExtremely strong ability to problem solve,  especially in areas where you have no experienceProven history of taking initiative,  and having a self-driven approach to determining what’s important to focus onNatural curiosity,  and a demonstrated ability to turn observed data into a story about what behavior is driving that dataAbility to take complicated problems and build simple frameworksAble to understand the challenges faced by various teams and identify reporting needs to assist themPreferred SkillsExperience working in the sports or games industry is preferred,  but not required. Experienced fantasy sports player is preferred. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "DraftKings", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "DraftKings is a leading provider of online fantasy sports.   Our core product is a 1-day Fantasy Sports Contest,  where users compete against each other to win cash prizes.  Free and entry-fee-based games are available.  Featuring daily fantasy sports contests and same-day settlement,  DraftKings makes playing fantasy sports simpler and faster for both seasoned and casual players. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1444947912000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2507852", 
+    "id": 92853914, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "Fantasy Sports", 
+        "Web Based Software Engineering", 
+        "Gaming"
+      ], 
+      "universalName": "draftkings-inc-", 
+      "companyId": 2507852, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAVoAAAAJDhjMjIzNTRhLTc5OGEtNDZkYi1iZTdmLTE5OTBkNDA5MmNjOA. png"
+      }
+    }, 
+    "localizedDescription": "DraftKings is a leading provider of online fantasy sports.   Our core product is a 1-day Fantasy Sports Contest,  where users compete against each other to win cash prizes.  \r\rFree and entry-fee-based games are available.  Featuring daily fantasy sports contests and same-day settlement,  DraftKings makes playing fantasy sports simpler and faster for both seasoned and casual players. ", 
+    "foundedYear": 2012, 
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "DraftKings,  Inc. ", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAALeAAAAJDFlYjNmNWY2LWQ0ZTctNDNlNS1iZDE1LThjZWFhYmZkNDA4Yw. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIMAAAAJGExM2ZkY2FlLTExZWQtNDYwYS04Nzg3LTExYjBlMTMwNGYyZg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAALeAAAAJDFlYjNmNWY2LWQ0ZTctNDNlNS1iZDE1LThjZWFhYmZkNDA4Yw. png"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 51 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "51d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 15,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/92853914?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. careerarc. com%2Fjob-listing%2Fdraftkings-jobs-business-data-analyst-16393743%3Fsrc%3D68%26utm_campaign%3Dli68%26utm_medium%3Dxml%26utm_source%3Dlinkedin&urlHash=HN9w&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "SG Analytics Pvt.  Ltd. ", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "shinejobs_xml-4252059", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101718214, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      123
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. sganalytics. com", 
+    "logo": "urn:li:media:/p/7/005/0b0/31b/38e2b06. png", 
+    "universalName": "sg-analytics", 
+    "companyId": 523808
+  }, 
+  "description": "     Academic background: BE/BTec/Mtec/Msc Computers or Statistics is    required Experience in TCLTK,  R,  Mahout,  Hadoop,  Database Management.     Should be familiar with data modeling techniques Programming background    is must Competence required: Java,  R/C++,  Oracle/SQL.  Job Task would    include Looping,  Parallel processing,  Algorithms,  Database    connectivity,  Big Data processing ,  Data warehousing Data Mining    Foundation Tools Base SAS,  SAS Enterprise Guide,  IBM SPSS Statistics,     R,  Python,  Microsoft Excel Data Mining Platform SAS Enterprise Miner,     IBM SPSS Modeller,  Teradata Warehouse Miner (TWM),  Oracle Data Miner    (ODM) and KXEN Data Mining Techniques Logistic & Linear Regression,     ARIMA,  Association Analysis,  Decision Tree Analysis,  Choice based    Conjoint,  Structural Equation Modeling and Clustering Data Warehouses    Teradata ,  Oracle,  Microsoft SQL Server", 
+  "companyDescription": "      SG Analytics Pvt.  Ltd.     SG Analytics (SGA) is a knowledge process outsourcing (KPO)    organization providing end-to-end customized research to clients across    Europe,  US,  APAC and the Middle East.  We operate through four strategic    business units (SBUs) – Investment Research,  Business Research,  Market    Research and Data Analytics.     Awards & Certifications    SGA has won several independent industry endorsements over the years,     which are testimony to the high quality and reputation of our services.     These include:    • Ranked among the “Top 10 market Research Companies” by siliconindia    in 2014    • Ranked as top 50 best managed outsourcing companies in the world by    Datamonitor (within the top 1 percentile among 2, 751 companies) in 2010    • Ranked 3rd among the “Leading Providers of Knowledge Process    Outsourcing Services Globally for Overall Satisfaction” in 2010 by    Black Book of Outsourcing    • Rated 2nd on “‘Quality and Cultural Fit” by clients among all KPOs in    2009 by Black Book of Outsourcing    • Certified with ISO/IEC 27001:2005 for information security in the    delivery of research & analysis", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

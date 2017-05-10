@@ -1,0 +1,546 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobware_xml-003055587", 
+    "expirationDate": 1451732839000, 
+    "title": "Big Data Analyst (m/w)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2919, 
+          "type": "BR", 
+          "endIdx": 2919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2919, 
+          "type": "BR", 
+          "endIdx": 2919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2917, 
+          "type": "LI", 
+          "endIdx": 2919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2917, 
+          "type": "BR", 
+          "endIdx": 2917, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2847, 
+          "type": "BR", 
+          "endIdx": 2847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2777, 
+          "type": "BR", 
+          "endIdx": 2777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2777, 
+          "type": "BR", 
+          "endIdx": 2777, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2750, 
+          "type": "BR", 
+          "endIdx": 2750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2750, 
+          "type": "BR", 
+          "endIdx": 2750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2701, 
+          "type": "LI", 
+          "endIdx": 2750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2673, 
+          "type": "LI", 
+          "endIdx": 2701, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2600, 
+          "type": "LI", 
+          "endIdx": 2673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2543, 
+          "type": "LI", 
+          "endIdx": 2600, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2469, 
+          "type": "LI", 
+          "endIdx": 2543, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2354, 
+          "type": "LI", 
+          "endIdx": 2469, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2216, 
+          "type": "LI", 
+          "endIdx": 2354, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2143, 
+          "type": "LI", 
+          "endIdx": 2216, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2062, 
+          "type": "LI", 
+          "endIdx": 2143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2062, 
+          "type": "BR", 
+          "endIdx": 2062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2062, 
+          "type": "BR", 
+          "endIdx": 2062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "B", 
+          "endIdx": 2062, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "BR", 
+          "endIdx": 2052, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2052, 
+          "type": "BR", 
+          "endIdx": 2052, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2003, 
+          "type": "LI", 
+          "endIdx": 2052, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1812, 
+          "type": "LI", 
+          "endIdx": 2003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1754, 
+          "type": "LI", 
+          "endIdx": 1812, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1612, 
+          "type": "LI", 
+          "endIdx": 1754, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "LI", 
+          "endIdx": 1612, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1368, 
+          "type": "LI", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "LI", 
+          "endIdx": 1368, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "BR", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1171, 
+          "type": "BR", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "B", 
+          "endIdx": 1171, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1136, 
+          "type": "BR", 
+          "endIdx": 1136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1136, 
+          "type": "BR", 
+          "endIdx": 1136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1030, 
+          "type": "BR", 
+          "endIdx": 1030, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1030, 
+          "type": "BR", 
+          "endIdx": 1030, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 506, 
+          "type": "I", 
+          "endIdx": 2919, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 506, 
+          "type": "BR", 
+          "endIdx": 506, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 506, 
+          "type": "BR", 
+          "endIdx": 506, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "B", 
+          "endIdx": 506, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "BR", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "BR", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "B", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "BR", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "BR", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "B", 
+          "endIdx": 442, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 338, 
+          "type": "BR", 
+          "endIdx": 338, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 314, 
+          "type": "BR", 
+          "endIdx": 314, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 314, 
+          "type": "BR", 
+          "endIdx": 314, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 298, 
+          "type": "B", 
+          "endIdx": 314, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 298, 
+          "type": "BR", 
+          "endIdx": 298, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 298, 
+          "type": "BR", 
+          "endIdx": 298, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 250, 
+          "type": "B", 
+          "endIdx": 259, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 250, 
+          "type": "BR", 
+          "endIdx": 250, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 250, 
+          "type": "BR", 
+          "endIdx": 250, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 200, 
+          "type": "BR", 
+          "endIdx": 200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 200, 
+          "type": "BR", 
+          "endIdx": 200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "B", 
+          "endIdx": 200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "BR", 
+          "endIdx": 187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "BR", 
+          "endIdx": 187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 108, 
+          "type": "BR", 
+          "endIdx": 108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 108, 
+          "type": "BR", 
+          "endIdx": 108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "B", 
+          "endIdx": 108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 69, 
+          "type": "BR", 
+          "endIdx": 69, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 69, 
+          "type": "BR", 
+          "endIdx": 69, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 62, 
+          "type": "BR", 
+          "endIdx": 62, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 40, 
+          "type": "B", 
+          "endIdx": 62, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 40, 
+          "type": "BR", 
+          "endIdx": 40, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Giesecke &amp; Devrient GmbHBig Data Analyst (m/w)MünchenKennziffer: BNCS32-15-181ArbeitsbereichDurchführung komplexer Datenanalysen sowie Entwicklung von Vorher­sage­modellenQualifikationStudium - Informatik,  Mathematik oder vergleichbarBranchen: Druck,  Papier,  InformationstechnologieAnstellungsartenVollzeit,  DirekteinstiegDie Vollständige Anzeige Finden Sie Beim Klick Auf Den Onlinebewerbungs-Button Oder Unter Folgendem Linkhttp://jobs. jobware. net/Job/003055587?jw_chl_seg=LinkedInDetailsInnovative Lösungen für eine sichere Zukunft zu entwickeln – das ist unsere Motivation seit 1852.  Wir sind ein international tätiges und traditionell weltoffenes Familienunternehmen mit über 10. 000 Beschäftigten in 32 Ländern.  Als weltweiter Markt- und Innovationsführer bei der Herstellung und Bearbeitung von Banknoten vertrauen uns über 80 Staaten.  Rund um den Globus wird mit unseren mobilen Sicherheitslösungen bezahlt und telefoniert.  Unsere Ausweissysteme sorgen an jedem Ort der Welt für eine sichere Identifikation. Arbeiten Sie mit an einer Zukunft,  die bewegt.  Für unsere Division Banknotenbearbeitung suchen wir Sie alsBig Data Analyst (m/w)Ihre Aufgaben Evaluierung und Aufbereitung interner und externer Daten (Big Data) des Banknoten-Lifecycle und der Banknotenbearbeitungsprozesse zur Erschließung neuer und Optimierung bestehender Geschäftsfelder Durchführung komplexer Datenanalysen sowie Entwicklung von Vorhersagemodellen und Erarbeitung neuer Lösungsansätze zur Ableitung von Handlungsempfehlungen für Geschäftsentscheidungen Aufbereitung der Analyseerkenntnisse für Entscheidungsträger Design und Implementierung von Use Cases und SW-Architekturen für die Erfassung und Nutzung strukturierter und polystrukturierter Massendaten Optimierung von Prozessabläufen und des Produktportfolios enge Zusammenarbeit mit unterschiedlichen Stakeholdern,  wie z.  B.  Produktmanagement,  Entwicklungsteams,  Service,  Management,  Kunden und strategischen Partnern in einem internationalen Umfeld Sicherstellung eines end-to-end WissenstransfersIhr Profil abgeschlossenes Studium mit Fachrichtung Informatik/Mathematik oder vergleichbar sehr gute Kenntnisse der Analytik,  Mathematik,  Statistik und Algorithmik erste praktische Erfahrungen mit verschiedenen Big-Data-Technologien,  z.  B.  Hadoop,  Hbase,  Hive,  Pig,  HP HAVEn oder ähnlichen Plattformen gute Kenntnisse von Datenbanktechnologien,  SQL,  XML,  Scriptsprachen und der C#. NET-Programmierung sind von Vorteil Kenntnisse in weiteren Themenfeldern rund um IoT,  Cloud und Data Security analytische,  strukturierte und selbständige Arbeitsweise gute Präsentationkenntnisse und ein hohes Maß an Kommunikationsfähigkeit weltweite Reisebereitschaft sehr gute Englischkenntnisse in Wort und SchriftReferenzcode: BNCS32-15-181Wir freuen uns auf Ihre Online-Bewerbung unter www. gi-de. com/karriere. Giesecke &amp; Devrient GmbH · Prinzregentenstraße 159 · 81677 München. . "
+    }, 
+    "postalCode": "80331", 
+    "jobState": "LISTED", 
+    "companyName": "Giesecke & Devrient GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Giesecke &amp; Devrient (G&amp;D) is a leading global technology provider with its headquarters in Munich,  Germany,  and 58 subsidiaries,  joint ventures,  and associated companies in 32 countries across every continent.  G&amp;D has over 10, 000 employees and generates annual sales of 1. 8 billion euros,  of which around 90 percent is earned outside Germany.  G&amp;D was founded in 1852 by Hermann Giesecke and Alphonse Devrient as the “Officin für Geld- und Werthpapiere” in Leipzig,  a city with a rich printing and publishing heritage.  It is a family-owned company with roots in Germany and operations all over the world.  Its ethos is based on trust,  security,  and professional expertise.  Innovative,  customer-centric products,  system solutions,  and services make G&amp;D a reliable partner for governments,  central banks,  security printers,  commercial cash center operators,  public authorities,  and companies.  G&amp;D is a global technology leader in banknote and security solutions for an efficient and secure cash cycle.  It supplies banks,  mobile network operators,  public transportation providers,  companies,  and original equipment manufacturers (OEMs) with end-to-end solutions comprising hardware,  software,  and services for mobile security applications,  especially in telecommunications and electronic payments.  G&amp;D also provides governments and public authorities with turnkey end-to-end solutions for highly secure travel documents,  ID systems,  and healthcare cards,  which can be used for conventional identification purposes as well as for authenticating and safeguarding online business transactions.  G&amp;D is a global market leader and cutting-edge innovator of products and solutions for the banknote and mobile security segments.  Over the course of its history,  the technology group has successfully penetrated numerous new business fields. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447825897000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:6576", 
+    "id": 99464573, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Munich,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99464573?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. jobware. net%2FJob%2F003055587%3Fjw_chl_seg%3DLinkedIn&urlHash=kmlk&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "foundedYear": 1852, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/01d/119/107fa63. png"
+    }, 
+    "localizedDescription": "Giesecke & Devrient (G&D) is a leading global technology provider with its headquarters in Munich,  Germany,  and 58 subsidiaries,  joint ventures,  and associated companies in 32 countries across every continent.  G&D has over 10, 000 employees and generates annual sales of 1. 8 billion euros,  of which around 90 percent is earned outside Germany.  G&D was founded in 1852 by Hermann Giesecke and Alphonse Devrient as the “Officin für Geld- und Werthpapiere” in Leipzig,  a city with a rich printing and publishing heritage.  It is a family-owned company with roots in Germany and operations all over the world. \r \rIts ethos is based on trust,  security,  and professional expertise.  Innovative,  customer-centric products,  system solutions,  and services make G&D a reliable partner for governments,  central banks,  security printers,  commercial cash center operators,  public authorities,  and companies.  \r\rG&D is a global technology leader in banknote and security solutions for an efficient and secure cash cycle.  It supplies banks,  mobile network operators,  public transportation providers,  companies,  and original equipment manufacturers (OEMs) with end-to-end solutions comprising hardware,  software,  and services for mobile security applications,  especially in telecommunications and electronic payments.  G&D also provides governments and public authorities with turnkey end-to-end solutions for highly secure travel documents,  ID systems,  and healthcare cards,  which can be used for conventional identification purposes as well as for authenticating and safeguarding online business transactions. \r \rG&D is a global market leader and cutting-edge innovator of products and solutions for the banknote and mobile security segments.  Over the course of its history,  the technology group has successfully penetrated numerous new business fields. ", 
+    "company": {
+      "specialities": [
+        "Mobile Security", 
+        "Banknote Paper,  Printing,  Processing"
+      ], 
+      "universalName": "giesecke-&-devrient", 
+      "companyId": 6576, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAANAAAAAJGYxYjU2YTEyLThjYzEtNGYwYi1hZTk2LWQzMDI4MTQyYTVjYw. png"
+      }
+    }, 
+    "canonicalName": "Giesecke & Devrient", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "de", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

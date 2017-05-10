@@ -1,0 +1,515 @@
+{
+  "jobPosting": {
+    "companyJobCode": "AMCCHN/QW33", 
+    "expirationDate": 1452000563000, 
+    "title": "Engineer (Linux,  Big Data,  Market Data,  Architect,  Data Storage)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3971, 
+          "type": "BR", 
+          "endIdx": 3971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3971, 
+          "type": "BR", 
+          "endIdx": 3971, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3930, 
+          "type": "BR", 
+          "endIdx": 3930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3910, 
+          "type": "BR", 
+          "endIdx": 3910, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3885, 
+          "type": "BR", 
+          "endIdx": 3885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3866, 
+          "type": "BR", 
+          "endIdx": 3866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3851, 
+          "type": "BR", 
+          "endIdx": 3851, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3836, 
+          "type": "BR", 
+          "endIdx": 3836, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3813, 
+          "type": "BR", 
+          "endIdx": 3813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3672, 
+          "type": "BR", 
+          "endIdx": 3672, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3435, 
+          "type": "BR", 
+          "endIdx": 3435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3435, 
+          "type": "BR", 
+          "endIdx": 3435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3416, 
+          "type": "BR", 
+          "endIdx": 3416, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3335, 
+          "type": "BR", 
+          "endIdx": 3335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3335, 
+          "type": "BR", 
+          "endIdx": 3335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "U", 
+          "endIdx": 3335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "B", 
+          "endIdx": 3335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "BR", 
+          "endIdx": 3327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3327, 
+          "type": "BR", 
+          "endIdx": 3327, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3265, 
+          "type": "BR", 
+          "endIdx": 3265, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3223, 
+          "type": "BR", 
+          "endIdx": 3223, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3180, 
+          "type": "BR", 
+          "endIdx": 3180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3143, 
+          "type": "BR", 
+          "endIdx": 3143, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3089, 
+          "type": "BR", 
+          "endIdx": 3089, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3043, 
+          "type": "BR", 
+          "endIdx": 3043, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2996, 
+          "type": "BR", 
+          "endIdx": 2996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2945, 
+          "type": "BR", 
+          "endIdx": 2945, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2945, 
+          "type": "BR", 
+          "endIdx": 2945, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2938, 
+          "type": "U", 
+          "endIdx": 2945, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2938, 
+          "type": "B", 
+          "endIdx": 2945, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2938, 
+          "type": "BR", 
+          "endIdx": 2938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2938, 
+          "type": "BR", 
+          "endIdx": 2938, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2830, 
+          "type": "BR", 
+          "endIdx": 2830, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2763, 
+          "type": "BR", 
+          "endIdx": 2763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2712, 
+          "type": "BR", 
+          "endIdx": 2712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2626, 
+          "type": "BR", 
+          "endIdx": 2626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2591, 
+          "type": "BR", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2591, 
+          "type": "BR", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "U", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "B", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "BR", 
+          "endIdx": 2582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2582, 
+          "type": "BR", 
+          "endIdx": 2582, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2424, 
+          "type": "BR", 
+          "endIdx": 2424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2188, 
+          "type": "BR", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2188, 
+          "type": "BR", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2124, 
+          "type": "U", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2124, 
+          "type": "B", 
+          "endIdx": 2188, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2124, 
+          "type": "BR", 
+          "endIdx": 2124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2124, 
+          "type": "BR", 
+          "endIdx": 2124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2084, 
+          "type": "BR", 
+          "endIdx": 2084, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2012, 
+          "type": "BR", 
+          "endIdx": 2012, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1969, 
+          "type": "BR", 
+          "endIdx": 1969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1914, 
+          "type": "BR", 
+          "endIdx": 1914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1778, 
+          "type": "BR", 
+          "endIdx": 1778, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1703, 
+          "type": "BR", 
+          "endIdx": 1703, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1588, 
+          "type": "BR", 
+          "endIdx": 1588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1588, 
+          "type": "BR", 
+          "endIdx": 1588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1533, 
+          "type": "U", 
+          "endIdx": 1588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1533, 
+          "type": "B", 
+          "endIdx": 1588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1533, 
+          "type": "BR", 
+          "endIdx": 1533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1533, 
+          "type": "BR", 
+          "endIdx": 1533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1173, 
+          "type": "BR", 
+          "endIdx": 1173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "BR", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 479, 
+          "type": "BR", 
+          "endIdx": 479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 415, 
+          "type": "BR", 
+          "endIdx": 415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 82, 
+          "type": "BR", 
+          "endIdx": 82, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 76, 
+          "type": "BR", 
+          "endIdx": 76, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Engineer (Linux,  Big Data,  Market Data,  Architect,  Data Storage)LondonNot just another day at the office.  Do you wake each day,  thinking about going through the motions of another day in the office? Just waiting for that right door to open? Do you want to work with a rapidly growing financial research and software house? All the time developing and progressing down that career path you always wanted?Engineer (Linux,  Big Data,  Market Data,  Architect,  Data Storage)My client is seeking an experienced Engineer (Linux,  Big Data,  Market Data,  Architect,  Data Storage) to join the Linux and Market Data Engineer team.  You will be key in the company drive to adopt several new Big Data strategies.  The project work will cover a broad scope and you will provide elegant solutions to challenging problems.  My client is seeking an Engineer with a broad range of technical skills and strong problem solving skills are important.  The ideal candidate will have delivered projects that have been used for production purposes,  ensuring that their work is complete,  tested,  documented and meets requirements. Engineer (Linux,  Big Data,  Market Data,  Architect,  Data Storage)This is a top flight Financial Services Company with the most exciting,  challenging and stimulating work in this space.  The company works to create trading platforms and predict financial probability using its latest technology.  The company takes a relaxed approach and focuses on the quality of work rather than working to outdated and rigid ways of working.  Typical Responsibilities Of Linux And Big Data ProjectsDefine and implement the architecture of scalable and distributed data storage and processing systems (‘big data’). Provide help and advice to other teams on the integration of these systems. Linux Engineering: architect server estate management tools (build,  config management,  monitoring,  etc),  automate,  and define standards. Linux low latency and time synchronization engineering. Improve the security of the infrastructure. Tuning,  in some cases for high workload and other cases for low latency. Evaluating new vendors and technologies. The Role Will Also Include Market Data Responsibilities,  Such AsMarket data feeds - the role will involve all aspects of market data,  from support of the existing infrastructure,  to design and implementation of the latest feeds and technologies,  right through to exchange relationships and reporting. Data provider applications – covering installation and management of feeds and applications from data providers such as Thomson Reuters,  Bloomberg and others. EssentialLinux/Unix,  ideally Red Hat/CentOS. Scalable distributed systems,  such as Splunk,  ElasticSearch,  Hadoop,  Hbase,  Cassandra. Scripting (e. g.  bash,  Perl,  Python) and automation. Strong understanding of OS core principles,  performance and tuning. Strong understanding of basic network protocols (e. g.  IP,  UDP,  TCP),  OS network stacks.  Multicast is a plus. DesiredTime series database,  such as OpenTSDB or InfluxDB. Other NoSQL systems: Redis,  Cassandra,  MongoDB. Monitoring applications (ideally ITRS Geneos). Configuration management application (ideally Puppet). Time synchronization (e. g.  NTP,  PTP). Database administration and querying (SQL). Middleware (e. g.  RabbitMQ,  Tibco RV,  FTL). Infrastructure security tools (access control,  auditing,  etc). OptionalThomson Reuters Enterprise Platform (TREP),  DACS and the Elektron feed knowledge. Latency monitoring. You will provide financial insight into the turbulent world of financial markets.  If you want to see your work used around the globe and around the clock and If you feel you meet the requirements for the role don’t hesitate,  apply today!For further information please contact Christopher Nellis on 02077806706 or alternatively you can email to Christopher. Nellis@ansonmccade. comReference: AMCCHN/QW33Type: PermanentStart: FlexibleDuration: PermanentSalary: £50, 000 – £90, 000Contact: 02077806706Email: Christopher. Nellis@ansonmccade. com"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Anson McCade", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An IT and Capital Markets recruitment consultancy centred in London,  UK. Anson McCade Ltd is an established and well-respected IT &amp; Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. Anson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. Anson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT &amp; Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1447993046000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:31392", 
+    "id": 99990279, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "An IT and Capital Markets recruitment consultancy centred in London,  UK. \r\rAnson McCade Ltd is an established and well-respected IT & Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. \r\rAnson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. \r\rAnson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT & Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. ", 
+    "foundedYear": 2000, 
+    "canonicalName": "Anson McCade", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR2AAAAJDBmODYwMzBkLWZmNDAtNDk2Mi1hNDFjLWIxMzA4MmY3ODk2Yg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Information Technology", 
+        "Banking", 
+        "Capital markets", 
+        "Risk", 
+        "Consulting"
+      ], 
+      "universalName": "anson-mccade", 
+      "companyId": 31392, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/071/13d/3b47d9b. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 15 days ago", 
+  "formattedPostedDaysAgoSlim": "15 days ago", 
+  "formattedPostedDaysAgoShort": "15d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 20,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99990279?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3964087&urlHash=S-LZ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

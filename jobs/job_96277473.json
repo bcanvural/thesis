@@ -1,0 +1,573 @@
+{
+  "jobPosting": {
+    "company": "urn:li:company:3126598", 
+    "showPosterInfo": false, 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2234, 
+          "type": "BR", 
+          "endIdx": 2234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2234, 
+          "type": "BR", 
+          "endIdx": 2234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2225, 
+          "type": "BR", 
+          "endIdx": 2225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2225, 
+          "type": "BR", 
+          "endIdx": 2225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2213, 
+          "type": "B", 
+          "endIdx": 2225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2213, 
+          "type": "BR", 
+          "endIdx": 2213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2213, 
+          "type": "BR", 
+          "endIdx": 2213, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2206, 
+          "type": "BR", 
+          "endIdx": 2206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2206, 
+          "type": "BR", 
+          "endIdx": 2206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2190, 
+          "type": "B", 
+          "endIdx": 2206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2190, 
+          "type": "BR", 
+          "endIdx": 2190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2190, 
+          "type": "BR", 
+          "endIdx": 2190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2179, 
+          "type": "BR", 
+          "endIdx": 2179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2179, 
+          "type": "BR", 
+          "endIdx": 2179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2176, 
+          "type": "B", 
+          "endIdx": 2179, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2176, 
+          "type": "BR", 
+          "endIdx": 2176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2176, 
+          "type": "BR", 
+          "endIdx": 2176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2176, 
+          "type": "BR", 
+          "endIdx": 2176, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1958, 
+          "type": "BR", 
+          "endIdx": 1958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1958, 
+          "type": "BR", 
+          "endIdx": 1958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1946, 
+          "type": "B", 
+          "endIdx": 1958, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1946, 
+          "type": "BR", 
+          "endIdx": 1946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1946, 
+          "type": "BR", 
+          "endIdx": 1946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1915, 
+          "type": "LI", 
+          "endIdx": 1946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1894, 
+          "type": "LI", 
+          "endIdx": 1915, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "LI", 
+          "endIdx": 1894, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "BG", 
+          "endIdx": 1946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "BR", 
+          "endIdx": 1852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "BR", 
+          "endIdx": 1852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1852, 
+          "type": "BR", 
+          "endIdx": 1852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1823, 
+          "type": "B", 
+          "endIdx": 1852, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1823, 
+          "type": "BR", 
+          "endIdx": 1823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1823, 
+          "type": "BR", 
+          "endIdx": 1823, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1822, 
+          "type": "BR", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1822, 
+          "type": "BR", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1782, 
+          "type": "LI", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1738, 
+          "type": "LI", 
+          "endIdx": 1782, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1653, 
+          "type": "LI", 
+          "endIdx": 1738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1569, 
+          "type": "LI", 
+          "endIdx": 1653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "LI", 
+          "endIdx": 1569, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "LI", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BG", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1253, 
+          "type": "BR", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "B", 
+          "endIdx": 1253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1232, 
+          "type": "BR", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1231, 
+          "type": "B", 
+          "endIdx": 1232, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1231, 
+          "type": "BR", 
+          "endIdx": 1231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1231, 
+          "type": "BR", 
+          "endIdx": 1231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1199, 
+          "type": "LI", 
+          "endIdx": 1231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "LI", 
+          "endIdx": 1199, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1135, 
+          "type": "LI", 
+          "endIdx": 1149, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1118, 
+          "type": "LI", 
+          "endIdx": 1135, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "LI", 
+          "endIdx": 1118, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 975, 
+          "type": "LI", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 902, 
+          "type": "LI", 
+          "endIdx": 975, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 811, 
+          "type": "LI", 
+          "endIdx": 902, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "LI", 
+          "endIdx": 811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "BG", 
+          "endIdx": 1231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "BR", 
+          "endIdx": 780, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "BR", 
+          "endIdx": 780, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 780, 
+          "type": "BR", 
+          "endIdx": 780, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "B", 
+          "endIdx": 780, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "BR", 
+          "endIdx": 758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 758, 
+          "type": "BR", 
+          "endIdx": 758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 448, 
+          "type": "BR", 
+          "endIdx": 448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 448, 
+          "type": "BR", 
+          "endIdx": 448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 152, 
+          "type": "BR", 
+          "endIdx": 152, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 152, 
+          "type": "BR", 
+          "endIdx": 152, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 151, 
+          "type": "BR", 
+          "endIdx": 151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 151, 
+          "type": "BR", 
+          "endIdx": 151, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 18, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " ZALORA is looking for exceptional data scientists to synthesize and leverage our data to understand our customers and improve our business.  This is a rare opportunity to join a new,  multidisciplinary team of creative and passionate individuals destined to change the face of fashion industry by focusing on high-impact projects utilizing machine learning and big data analytics.  You can choose to work either in Singapore or in Vietnam.  As a Data Scientist,  you will work with cross-functional team members to identify and prioritize actionable,  high-impact insights across a variety of core business areas.  You will research,  design,  implement and validate cutting-edge algorithms to analyze diverse sources of data to achieve targeted outcomes.  What’s in it for you?Super fun and casual atmosphereYou have the ability to make an impact – we’re a startup and your ideas and efforts matter!Significant global career growth opportunities in a fast-growing businessOpportunity to gain working exposure in 8 Southeast Asian marketsInternational mindset,  close collaboration with our friendly senior managementParking AllowanceCoffee corner Medical insurance coverage for you and your familyGood referral bonus for everyone Skills And ExperienceHaving a Ph. D.  or Master Degree in Computer Science,  Applied Statistics,  Mathematics or a related Quantitative Discipline. Getting knowledge of statistical and predictive modeling concepts,  machine learning approaches,  data mining,  clustering and classification techniques,  recommendation and optimization algorithms. Being proficient in any of the following languages: R,  Python,  PHP,  Golang,  and JavaBeing familiar with any of the following databases: MySQL,  MongoDB,  HBase,  Cassandra. Having at least one year working experience. Knowing Hadoop or Spark is an advantage.  Optional: having knowledge inObject oriented design and design patternsDeep Learning methodsLarge-scale distributed systemsHow To ApplyPlease send your CV and a short cover letter (sharing with us about yourself or your career aspiration) to careers@vn. zalora. com.  If you have open source work that demonstrates any of the above skills,  please do share. JobEngineeringPrimary LocationVietnamOrganizationZALORA VN"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "ZALORA Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The ZALORA Story ZALORA Group is Asia’s leading group of online fashion destinations.  Founded in 2012,  the company has a presence in Singapore,  Indonesia,  Malaysia &amp; Brunei,  the Philippines,  Thailand,  Vietnam,  Hong Kong and Taiwan where it operates as ZALORA and in Australia and New Zealand where it operates as THE ICONIC.  Employing more than 2, 000 people in 10 countries,  ZALORA Group’s localised sites offer an extensive collection of top international and local brands and products across apparel,  shoes,  accessories,  and beauty categories for men and women. ZALORA Group has been redefining online fashion throughout Asia by providing the very best in high-street style and trends,  innovative technology and customer service.  We innovate,  curate and communicate to bring you the best online shopping experience possible. In 2015,  ZALORA became part of The Global Fashion Group (GFG),  the world’s leading fashion group for emerging markets.  GFG operates across 5 regions covering 27 countries through ZALORA,  Dafiti,  Lamoda,  Namshi and Jabong,  catering to the fashion needs of 2. 5 billion people. "
+    }, 
+    "functions": [
+      "RSCH"
+    ], 
+    "id": 96277473, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "veteranCommitted": false, 
+    "expirationDate": 1451499637000, 
+    "listDate": 1446585858000, 
+    "companyJobCode": "zalora-27781", 
+    "listingType": "BASIC", 
+    "sponsored": false, 
+    "title": "Data Scientist", 
+    "countryCode": "vn"
+  }, 
+  "formattedLocation": "Vietnam", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96277473?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fzalora. taleo. net%2Fcareersection%2Fprof%2Fjobdetail. ftl%3Fjob%3D27781&urlHash=WS_L&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 32 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "32d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "ZALORA Group", 
+    "company": {
+      "specialities": [
+        "E-Commerce", 
+        "Fashion", 
+        "Retail"
+      ], 
+      "universalName": "zalora-sea", 
+      "companyId": 3126598, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/005/06a/353/295cf90. png"
+      }
+    }, 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAIOAAAAJDViY2QyZjE3LWE1MWMtNDZkYS1iMTBjLTNkYzAxOTQ1NTBlMA. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/05b/087/382be30. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAIOAAAAJDViY2QyZjE3LWE1MWMtNDZkYS1iMTBjLTNkYzAxOTQ1NTBlMA. png", 
+    "localizedDescription": "The ZALORA Story\r \rZALORA Group is Asia’s leading group of online fashion destinations.  Founded in 2012,  the company has a presence in Singapore,  Indonesia,  Malaysia & Brunei,  the Philippines,  Thailand,  Vietnam,  Hong Kong and Taiwan where it operates as ZALORA and in Australia and New Zealand where it operates as THE ICONIC.  Employing more than 2, 000 people in 10 countries,  ZALORA Group’s localised sites offer an extensive collection of top international and local brands and products across apparel,  shoes,  accessories,  and beauty categories for men and women. \r\rZALORA Group has been redefining online fashion throughout Asia by providing the very best in high-street style and trends,  innovative technology and customer service.  We innovate,  curate and communicate to bring you the best online shopping experience possible. \r\rIn 2015,  ZALORA became part of The Global Fashion Group (GFG),  the world’s leading fashion group for emerging markets.  GFG operates across 5 regions covering 27 countries through ZALORA,  Dafiti,  Lamoda,  Namshi and Jabong,  catering to the fashion needs of 2. 5 billion people. "
+  }, 
+  "formattedListDate": "November 3,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

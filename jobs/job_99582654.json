@@ -1,0 +1,301 @@
+{
+  "jobPosting": {
+    "companyJobCode": "MORRISONSLOCAL-7063", 
+    "expirationDate": 1451842468000, 
+    "title": "Data Scientist (Digital Insight Manager)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2963, 
+          "type": "BR", 
+          "endIdx": 2963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2963, 
+          "type": "BR", 
+          "endIdx": 2963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2864, 
+          "type": "BR", 
+          "endIdx": 2864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2864, 
+          "type": "BR", 
+          "endIdx": 2864, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2435, 
+          "type": "BR", 
+          "endIdx": 2435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2435, 
+          "type": "BR", 
+          "endIdx": 2435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2303, 
+          "type": "BR", 
+          "endIdx": 2303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2246, 
+          "type": "LI", 
+          "endIdx": 2302, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2149, 
+          "type": "LI", 
+          "endIdx": 2245, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "LI", 
+          "endIdx": 2148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1902, 
+          "type": "LI", 
+          "endIdx": 2019, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1847, 
+          "type": "LI", 
+          "endIdx": 1901, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1763, 
+          "type": "LI", 
+          "endIdx": 1846, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1763, 
+          "type": "BG", 
+          "endIdx": 2303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1763, 
+          "type": "BR", 
+          "endIdx": 1763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1688, 
+          "type": "B", 
+          "endIdx": 1763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1688, 
+          "type": "BR", 
+          "endIdx": 1688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1526, 
+          "type": "LI", 
+          "endIdx": 1687, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1362, 
+          "type": "LI", 
+          "endIdx": 1525, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1179, 
+          "type": "LI", 
+          "endIdx": 1361, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "LI", 
+          "endIdx": 1178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BG", 
+          "endIdx": 1688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1016, 
+          "type": "BR", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 961, 
+          "type": "B", 
+          "endIdx": 1016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 961, 
+          "type": "BR", 
+          "endIdx": 961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 830, 
+          "type": "LI", 
+          "endIdx": 960, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 760, 
+          "type": "LI", 
+          "endIdx": 829, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 569, 
+          "type": "LI", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 472, 
+          "type": "LI", 
+          "endIdx": 568, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 300, 
+          "type": "LI", 
+          "endIdx": 471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 214, 
+          "type": "LI", 
+          "endIdx": 299, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 214, 
+          "type": "BG", 
+          "endIdx": 961, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 214, 
+          "type": "BR", 
+          "endIdx": 214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 55, 
+          "type": "B", 
+          "endIdx": 70, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 16, 
+          "type": "BR", 
+          "endIdx": 16, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 16, 
+          "type": "BR", 
+          "endIdx": 16, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 16, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "ResponsibilitiesWe’ve got a fantastic opportunity for a Data Scientist to join the Food. com team in London.  Reporting to the Head of Online Insights and Customer Experience,  you will be responsible for ensuring we:Build the insight and analytical capability of the new ecommerce channel of Morrisons Identify customer experience improvements through statistical modelling and analysis and communicate complex solutions in a clear,  understandable way to the wider business Maximise opportunity for sales whilst optimising the efficiency of operations (teams and assets) Work across the entire Food online team to develop a holistic view of the Food online business to provide highly actionable customer insights that drive improvements to financial performance Support decision making via bespoke insights and data-driven learning Identify and prioritise improvements to enable the best customer experience across marketing,  trading,  operations and supply chain Here at Morrisons our Data Scientists do the following;Improving Customer Experience – Identify and prioritise improvements to enable the best customer experience across marketing,  trading,  operations and supply chain Driving Financial Performance – developing a holistic view of the Food online business to provide highly actionable customer insights that drive improvements to financial performance Process Improvement – Reviewing ways of working and optimising processes – this is a new function within Morrisons and the team will work to optimise its processes Analysis – Analysing demand patterns and making recommendations on how we could drive operational efficiencies by optimising demand patterns relative to capacity What skills and qualifications do I need to be a successful Data Scientist?Experienced in data interpretation,  SAS / SQL Programming,  modelling and statistics Strong analytical and numerical skills including excel Strong understanding of customer experience and customer journeys from the top to the bottom of the conversion funnel Ability to communicate and tell stories through data – making the complex simple to understand for a wide range of stakeholders  Ability to take decisions in a time pressured environment and work effectively as part of a team Deliver quality,  accurate output within agreed deadlines If you’re interested in taking on a new challenge and have the skills to strengthen our team further,  then we want to hear from you!Our aim to offer more of what matters extends to our employees too.  Join us and you can expect to enjoy great career prospects and a very competitive pay and benefits package.  In addition to an attractive salary,  we offer a discount card for you and a friend or family member giving you 10% off your shopping in Morrisons.  We also offer company share options,  a highly competitive pension scheme,  Life Assurance and more besides. We are an equal opportunities employer and welcome applications from all sections of the community. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "WM Morrisons Supermarkets", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are the UK’s fourth largest food retailer with over 400 stores.  Our business is mainly food and grocery – the weekly shop.  Uniquely we source and process most of the fresh food that we sell though our own manufacturing facilities,  giving us close control over provenance and quality; and we have more people preparing more food in store than any other retailer.  Every week nine million customers pass through our doors and 132, 000 colleagues across the business work hard each day to deliver great service to them.  With competitive prices and hundreds of special offers,  we are proud to save our customers money every day. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MRKT"
+    ], 
+    "listDate": 1447866702000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:1910336", 
+    "id": 99582654, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Retail"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "We are the UK’s fourth largest food retailer with over 400 stores.  Our business is mainly food and grocery – the weekly shop.  Uniquely we source and process most of the fresh food that we sell though our own manufacturing facilities,  giving us close control over provenance and quality; and we have more people preparing more food in store than any other retailer.  \r\rEvery week nine million customers pass through our doors and 132, 000 colleagues across the business work hard each day to deliver great service to them.  With competitive prices and hundreds of special offers,  we are proud to save our customers money every day. ", 
+    "foundedYear": 1899, 
+    "canonicalName": "Wm Morrisons Manufacturing", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/000/23c/0d6/2d49f7c. png"
+    }, 
+    "company": {
+      "universalName": "wm-morrisons-manufacturing", 
+      "companyId": 1910336
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Marketing"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Retail"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99582654?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fldd. tbe. taleo. net%2Fldd03%2Fats%2Fcareers%2Frequisition. jsp%3Forg%3DMORRISONSLOCAL%26cws%3D46%26rid%3D7063&urlHash=2SX7&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

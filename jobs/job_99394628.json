@@ -1,0 +1,544 @@
+{
+  "jobPosting": {
+    "companyJobCode": "peopleclick-362507", 
+    "expirationDate": 1451933415000, 
+    "title": "Data Analyst,  Science", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4273, 
+          "type": "BR", 
+          "endIdx": 4273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4273, 
+          "type": "BR", 
+          "endIdx": 4273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4116, 
+          "type": "LI", 
+          "endIdx": 4273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4010, 
+          "type": "LI", 
+          "endIdx": 4116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3948, 
+          "type": "LI", 
+          "endIdx": 4010, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3866, 
+          "type": "LI", 
+          "endIdx": 3948, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3800, 
+          "type": "LI", 
+          "endIdx": 3866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3728, 
+          "type": "LI", 
+          "endIdx": 3800, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3728, 
+          "type": "BG", 
+          "endIdx": 4273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3728, 
+          "type": "BR", 
+          "endIdx": 3728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "U", 
+          "endIdx": 3728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "B", 
+          "endIdx": 3728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "BR", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3697, 
+          "type": "BR", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3635, 
+          "type": "LI", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3499, 
+          "type": "LI", 
+          "endIdx": 3635, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3444, 
+          "type": "LI", 
+          "endIdx": 3499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3376, 
+          "type": "LI", 
+          "endIdx": 3444, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3325, 
+          "type": "LI", 
+          "endIdx": 3376, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3239, 
+          "type": "LI", 
+          "endIdx": 3325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3239, 
+          "type": "BG", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3239, 
+          "type": "BR", 
+          "endIdx": 3239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3204, 
+          "type": "U", 
+          "endIdx": 3239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3204, 
+          "type": "B", 
+          "endIdx": 3239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3204, 
+          "type": "BR", 
+          "endIdx": 3204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3204, 
+          "type": "BR", 
+          "endIdx": 3204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3161, 
+          "type": "LI", 
+          "endIdx": 3204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3088, 
+          "type": "LI", 
+          "endIdx": 3161, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3024, 
+          "type": "LI", 
+          "endIdx": 3088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2944, 
+          "type": "LI", 
+          "endIdx": 3024, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2869, 
+          "type": "LI", 
+          "endIdx": 2944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2721, 
+          "type": "LI", 
+          "endIdx": 2869, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2636, 
+          "type": "LI", 
+          "endIdx": 2721, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2636, 
+          "type": "BG", 
+          "endIdx": 3204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2636, 
+          "type": "BR", 
+          "endIdx": 2636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2602, 
+          "type": "U", 
+          "endIdx": 2636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2602, 
+          "type": "B", 
+          "endIdx": 2636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2602, 
+          "type": "BR", 
+          "endIdx": 2602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2602, 
+          "type": "BR", 
+          "endIdx": 2602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2577, 
+          "type": "B", 
+          "endIdx": 2602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2536, 
+          "type": "LI", 
+          "endIdx": 2576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2483, 
+          "type": "LI", 
+          "endIdx": 2536, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2436, 
+          "type": "LI", 
+          "endIdx": 2483, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2309, 
+          "type": "LI", 
+          "endIdx": 2436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2222, 
+          "type": "LI", 
+          "endIdx": 2309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2065, 
+          "type": "LI", 
+          "endIdx": 2222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1920, 
+          "type": "LI", 
+          "endIdx": 2065, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1920, 
+          "type": "BG", 
+          "endIdx": 2576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1920, 
+          "type": "BR", 
+          "endIdx": 1920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "U", 
+          "endIdx": 1920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "B", 
+          "endIdx": 1920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "BR", 
+          "endIdx": 1898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1898, 
+          "type": "BR", 
+          "endIdx": 1898, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "BR", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1611, 
+          "type": "BR", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1573, 
+          "type": "U", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1573, 
+          "type": "B", 
+          "endIdx": 1611, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1573, 
+          "type": "BR", 
+          "endIdx": 1573, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1573, 
+          "type": "BR", 
+          "endIdx": 1573, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "BR", 
+          "endIdx": 980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "BR", 
+          "endIdx": 980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 964, 
+          "type": "U", 
+          "endIdx": 980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 964, 
+          "type": "B", 
+          "endIdx": 980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 964, 
+          "type": "BR", 
+          "endIdx": 964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 964, 
+          "type": "BR", 
+          "endIdx": 964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BR", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 438, 
+          "type": "BR", 
+          "endIdx": 438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "   Position Description  AIG formed the Science team at the beginning of 2012 after recognising the power of technology,  data,  and computational science to transform the insurance industry.  The team consists of world class business minds and scientists and has been created to drive transformational change through evidence-based decision making at the company.  The team has grown extremely rapidly with headcount now over 140. The group is highly visible and fully supported by the leadership team of AIG and has a broad and global mandate ranging from solving complex business problems to partnering with leading academics on the development of next generation modelling techniques.   The group’s intent is to be a centre of innovation at the company and a catalyst for change. The Science team in London is responsible for data engineering for the entire group.  We are looking for a Data Analyst to join the team and help to solve complex data problems. Position SummaryThe position of Data Analyst will require outstanding data management and manipulation skills.  Primary responsibilities will be to help our data scientists and business community to understand AIG’s data,  and to support the development and management of technical processes for transforming and loading data into data models.  These data models will be used in Business Intelligence and reporting tools,  and for statistical and predictive modelling.  The role will require a considerable amount of collaboration and communication with many different parts of AIG,  from IT to business data users. Organisational Structure And InterfaceThe Science team is a highly matrixed organisation.  Our central data team provides support to the entire matrixed structure,  in which work is managed in project teams that form,  and reform,  dynamically as business needs evolve.  This role will report to the Science data engineering lead. Performance ObjectivesContribute to the design of data models and architecture for use by Business Intelligence,  reporting tools,  and statistical and predictive modelsSupport the design and development of data transformation and loading processes for the population and ongoing management of the data models and architectureDevelop detailed knowledge of data structures and meanings from data sources across AIGPerform QC and verification of data according to specified criteria.  Take the initiative in managing data problems / exceptionsDefine and implement rules-based derived fieldsThoroughly document the data transformation processesParticipate in cross-functional projects   Position Requirements  The Successful Candidate Must HaveExperience and in-depth understanding of relational database modelling and structuresExtensive experience working with very large data sets (preparing data and tables for presentation of analyses),  independently and as part of a teamExperience in handling data quality,  data integrity and data privacy issuesExpert in SQL and database tools (e. g. ,  Oracle,  Sybase,  DB2,  Teradata,  Netezza). Experience with software development lifecycle including testingExperience with business intelligence data modelling techniques and toolsDegree qualification in relevant disciplineThe Ideal Candidate Would Also HaveDirect experience in preparing datasets for use in statistical and predictive modelingAn interest in statistical and predictive modellingKnowledge of SAS (scripting in base SAS and knowledge of SAS macros)Skills in other coding languages such as R,  Python,  C++Experience in data warehousing,  dimensional modelling,  or NoSQL databases and distributed file systems (e. g.  Hadoop,  Cassandra,  MongoDB)Exposure to Business Intelligence and data visualisation toolsCore Management Skills RequiredAbility to solve problems creatively and,  where necessary,  pragmaticallyPassionate about developing effective and efficient data solutionsComfortable and effective in working in teams and on own initiative where requiredPrepared to take ownership and accountability for deliverablesExcellent communication skills with the ability to hear what others are saying and the ability to be heardInterest in all aspects of the insurance business and processes (e. g.  underwriting,  claims adjusting,  finance and accounting,  risk management and operations)"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "AIG", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We’re the new AIG.  We’re one of the world's largest insurance organizations,  with more than 88 million customers across the globe.   We’re leaders in property casualty insurance,  life and retirement services,  and mortgage guaranty.   But we’re more than the sum of our parts.  We’re a network of approximately 63, 000 people in 100 countries who come together every day to take on the world’s new challenges.  We’re people who believe that with the right values and hard work,  anything is possible.  We know that when we’re at our best,  it allows each and every one of our customers to be at their best,  to realize their dreams,  and find success every day.  Together,  we’re working to help see,  build,  and secure a better future for everyone.  Follow us on Twitter at: http://twitter. com/AIGinsuranceSubscribe to our YouTube Channel at:http://www. youtube. com/aig"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1447797593000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:1760", 
+    "id": 99394628, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99394628?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. peopleclick. com%2Fcareerscp%2FClient_AIG%2Fexternal%2Fgateway. do%3FjobPostId%3D362507%26functionName%3DviewFromLink%26localeCode%3Den-US%26source%3DLinked%2BIn&urlHash=q40Q&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Insurance"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "10001+", 
+    "formattedIndustries": [
+      "Insurance"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "We’re the new AIG.  \r\rWe’re one of the world's largest insurance organizations,  with more than 88 million customers across the globe.   We’re leaders in property casualty insurance,  life and retirement services,  and mortgage guaranty.   But we’re more than the sum of our parts.  We’re a network of approximately 63, 000 people in 100 countries who come together every day to take on the world’s new challenges.  We’re people who believe that with the right values and hard work,  anything is possible.  We know that when we’re at our best,  it allows each and every one of our customers to be at their best,  to realize their dreams,  and find success every day.  \r\rTogether,  we’re working to help see,  build,  and secure a better future for everyone.  \r\rFollow us on Twitter at: \rhttp://twitter. com/AIGinsurance\r\rSubscribe to our YouTube Channel at:\rhttp://www. youtube. com/aig", 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "careersImage": "urn:li:media:/p/7/005/053/352/1411914. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/029/062/0f68b16. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/7/005/053/352/1411914. png", 
+    "company": {
+      "specialities": [
+        "Property Casualty Insurance", 
+        "Life and Retirement", 
+        "Mortgage Guaranty"
+      ], 
+      "universalName": "aig", 
+      "companyId": 1760, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/029/049/153a964. png"
+      }
+    }, 
+    "canonicalName": "AIG"
+  }, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

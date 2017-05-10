@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/76690456", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "AMAZING THINGS HAPPEN HERE! At Microsoft,  we're about helping customers realize their potential.  From gamers to governments,  moms to mega-corporations,  we serve just about every kind of customer,  all over the globe.  Many people think Microsoft = software.  We do do software-but we also do hardware,  services,  research,  and more.  We work on PC operating systems and applications-like Windows and Windows Live.  Products for IT professionals and developers-like Windows Server and Visual Studio.  Online services such as Bing and MSN.  Business solutions like Office and Exchange.  And devices like Xbox,  keyboards,  webcams,  and mice.  We're passionate about what we do.  What this means if you come to work here is opportunity-to do things that make a real difference in millions,  even billions,  of lives.  To reach your potential.  So why not take a closer look at Microsoft? We think you'll find that amazing things really do happen here. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Microsoft", 
+  "canFollow": false, 
+  "companyId": "1035", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Microsoft", 
+    "title": "Data Scientist Team Leader- Aorato"
+  }, 
+  "description": "Aorato team in Israel (Acquired by Microsoft) is an innovator in User Behavioral and Threat Analytics.  Aorato will give customers a new level of protection against advanced threats.  With Aorato we will accelerate our ability to give customers powerful identity and cyber-security solutions that span on-premises and the cloud,  which is central to our overall hybrid cloud strategy. Aorato’s sophisticated technology learns entities’ behavior by building organizational security interaction graph and analyzes it using machine learning,  to detect suspicious activities of users,  devices and resources on a company’s network. Sooooo,  if you are SUPER talented and you want to be part of a SUPER talented team,  building an AMAZING product using the NEWEST technologies -&gt; ping us!Qualifications:1.  At least 6 years of proven management background2.  At least 6 years of experience in algorithm research field3.  Deep knowledge of required mathematics (e. g.  statistics,  machine learning)4.  Expert knowledge of data analytic solutions5.  Experience in using the algorithms like K means clustering,  Random forests,  Decision tree,  Linear Regression,  Correlation,  Time-series6.  Profiling and anomaly detection7.  Recommendations8.  MathLab/R/Python9.  Proven knowledge in the following domains: Cyber-security,  Networking"
+}

@@ -1,0 +1,388 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-ad043704-2fbf-4369-ae37-59e19a35576f", 
+    "expirationDate": 1451907599000, 
+    "title": "Big Data Engineer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2898, 
+          "type": "LI", 
+          "endIdx": 2977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2896, 
+          "type": "BG", 
+          "endIdx": 2977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2868, 
+          "type": "U", 
+          "endIdx": 2892, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2868, 
+          "type": "B", 
+          "endIdx": 2894, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2811, 
+          "type": "LI", 
+          "endIdx": 2866, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2669, 
+          "type": "LI", 
+          "endIdx": 2809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2604, 
+          "type": "LI", 
+          "endIdx": 2667, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2509, 
+          "type": "LI", 
+          "endIdx": 2602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2442, 
+          "type": "LI", 
+          "endIdx": 2507, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2380, 
+          "type": "LI", 
+          "endIdx": 2440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2257, 
+          "type": "LI", 
+          "endIdx": 2378, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2117, 
+          "type": "LI", 
+          "endIdx": 2255, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2030, 
+          "type": "LI", 
+          "endIdx": 2115, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1902, 
+          "type": "LI", 
+          "endIdx": 2028, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1764, 
+          "type": "LI", 
+          "endIdx": 1900, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1693, 
+          "type": "LI", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1691, 
+          "type": "BG", 
+          "endIdx": 2867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1665, 
+          "type": "U", 
+          "endIdx": 1688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1665, 
+          "type": "B", 
+          "endIdx": 1689, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1665, 
+          "type": "BR", 
+          "endIdx": 1665, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1585, 
+          "type": "LI", 
+          "endIdx": 1664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1433, 
+          "type": "LI", 
+          "endIdx": 1583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1280, 
+          "type": "LI", 
+          "endIdx": 1431, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1224, 
+          "type": "LI", 
+          "endIdx": 1278, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1157, 
+          "type": "LI", 
+          "endIdx": 1222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1076, 
+          "type": "LI", 
+          "endIdx": 1155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 931, 
+          "type": "LI", 
+          "endIdx": 1074, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 796, 
+          "type": "LI", 
+          "endIdx": 929, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 632, 
+          "type": "LI", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 529, 
+          "type": "LI", 
+          "endIdx": 630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 527, 
+          "type": "BG", 
+          "endIdx": 1665, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 508, 
+          "type": "U", 
+          "endIdx": 524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 508, 
+          "type": "B", 
+          "endIdx": 525, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 508, 
+          "type": "BR", 
+          "endIdx": 508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 508, 
+          "type": "BR", 
+          "endIdx": 508, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 78, 
+          "type": "U", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 78, 
+          "type": "B", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 78, 
+          "type": "BR", 
+          "endIdx": 78, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 78, 
+          "type": "BR", 
+          "endIdx": 78, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "B", 
+          "endIdx": 78, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "BR", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "B", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Title: Big Data EngineerLocation: Pennington,  NJDuration: 6 MonthsPosition SummaryThe Big Data Engineer role falls into the Data Management &amp; High Performance computing team.  This position will be primary responsible for supporting Big Data platforms and working on technical solutions in integrating,  analyzing large amounts of data.  You have to a self-starter,  comfortable with ambiguity,  with strong attention to detail,  and an ability to work in a fast-paced and ever-changing environmentResponsibilities:    Design,  develop,  and implement Big Data Technologies (Hadoop,  Sinequa,  MongoDB,  Redshift,  Amazon EMR)  Analyze data,  and partner with other internal teams (Architecture,  Operations,  and Virtualization Team) to identify and implement process and system improvements.   Evaluate data elements from both relational and alternative formats to understand their usage,  transformations,  lifecycle and quality  Interpret structured and unstructured data,  analyze results,  and provide information insights to clients to help them prioritize business needs  Develop queries for ad hoc requests and projects,  as well as ongoing reporting.   Work with clients to understand their business,  data,  and systems  Identify and define both process and data improvements  Communicate with all levels of stakeholders as appropriate,  including architects,  data modelers,  application developers,  business users,  and scientists  Capture,  develop,  and document data definitions,  business rules,  data quality requirements,  and logical and physical data models based on requirements  Ability to communicate with all cross functional teams (technical and business) Specific Qualifications:    Strong knowledge of SQL and other querying languages (Hive,  Pig etc. )  Strong knowledge of relational databases (Oracle,  SQL server,  Teradata etc. ) and NoSQL databases (HBase,  MongoDB,  Apache Cassandra etc. )  Knowledge of statistics and experience using statistical packages for analyzing large datasets (Excel,  R,  SAS,  etc. ) preferred  Demonstrated progression and growth as a Data Analyst through past career experiences  Demonstrated experience with data models,  database design development,  data profiling,  and analysis tools,  especially in a big data format  Experience with the full Systems Development Life Cycle (SDLC) or Agile,  specifically requirements definition and testing  Working knowledge of scripting languages (Perl,  Python etc. )  Adept at distilling technical requirements from business requests  Proven ability to produce and own applicable high quality deliverables that meet client needs  Experience with business intelligence/reporting tools preferred  Excellent written and oral communication skills including an ability to communicate with all cross functional teams (technical and business)  Prior experience with Pharmaceutical industry preferred  Education Qualifications:     Bachelor&rsquo;s degree in engineering,  mathematics,  computer science required. "
+    }, 
+    "postalCode": "08525", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1447374241000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 98664160, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Pennington,  NJ,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "canonicalName": "Spectraforce Technologies", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "23d", 
+  "formattedListDate": "November 13,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98664160?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3Dad043704-2fbf-4369-ae37-59e19a35576f%26OrgId%3D1%26UserId%3D1&urlHash=FZnR&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "22566281", 
+    "title": "Big Data Architect London Excellent Package", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102431380, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Requirements    Big Data Architect London Excellent Package About the job My client is    looking to hire a Big Data Architect to join a team of IT    professionals.  Your typical working month will be client based,  home    based and in the office.  Company My Client works in the Banking    industry Role Design and develop high performance Big Data solutions    based on NoSql and Big Data Technologies Stakeholder relationship    management Understand volume based requirements (i. e.  understand highly    concurrent querying of Billons or rows of data) Understand complex data    and aggregation requirements and translate them functionally into the    engines Interface with SMEs,  Business analysts to understand the    requirements and translate them into technical deliverables Clearly and    thoroughly document all detail designs,  functional specifications,  and    unit test results Essentials Exposureimplementing NoSql solutions    Ideally Hadoop (Cloudera/Horton works/ Map-R) but others . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

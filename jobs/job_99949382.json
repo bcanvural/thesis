@@ -1,0 +1,379 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-o8Yq0fwg", 
+    "expirationDate": 1451727206000, 
+    "title": "Big Data Architect (m/f)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2719, 
+          "type": "BR", 
+          "endIdx": 2719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2719, 
+          "type": "BR", 
+          "endIdx": 2719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2524, 
+          "type": "BR", 
+          "endIdx": 2524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2524, 
+          "type": "BR", 
+          "endIdx": 2524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2523, 
+          "type": "B", 
+          "endIdx": 2524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2523, 
+          "type": "BR", 
+          "endIdx": 2523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2448, 
+          "type": "LI", 
+          "endIdx": 2523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2402, 
+          "type": "LI", 
+          "endIdx": 2448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2358, 
+          "type": "LI", 
+          "endIdx": 2402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2298, 
+          "type": "LI", 
+          "endIdx": 2358, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2214, 
+          "type": "LI", 
+          "endIdx": 2298, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2103, 
+          "type": "LI", 
+          "endIdx": 2214, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2103, 
+          "type": "BG", 
+          "endIdx": 2523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2103, 
+          "type": "BR", 
+          "endIdx": 2103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2091, 
+          "type": "B", 
+          "endIdx": 2103, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2091, 
+          "type": "BR", 
+          "endIdx": 2091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2091, 
+          "type": "BR", 
+          "endIdx": 2091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2090, 
+          "type": "BR", 
+          "endIdx": 2090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2017, 
+          "type": "LI", 
+          "endIdx": 2090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1963, 
+          "type": "LI", 
+          "endIdx": 2017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1811, 
+          "type": "LI", 
+          "endIdx": 1963, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1694, 
+          "type": "LI", 
+          "endIdx": 1811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1589, 
+          "type": "LI", 
+          "endIdx": 1694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1409, 
+          "type": "LI", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1258, 
+          "type": "LI", 
+          "endIdx": 1409, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1258, 
+          "type": "BG", 
+          "endIdx": 2090, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1258, 
+          "type": "BR", 
+          "endIdx": 1258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1240, 
+          "type": "B", 
+          "endIdx": 1258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1240, 
+          "type": "BR", 
+          "endIdx": 1240, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1240, 
+          "type": "BR", 
+          "endIdx": 1240, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1239, 
+          "type": "BR", 
+          "endIdx": 1239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1182, 
+          "type": "LI", 
+          "endIdx": 1239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1075, 
+          "type": "LI", 
+          "endIdx": 1182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 932, 
+          "type": "LI", 
+          "endIdx": 1075, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 771, 
+          "type": "LI", 
+          "endIdx": 932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 771, 
+          "type": "BG", 
+          "endIdx": 1239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 771, 
+          "type": "BR", 
+          "endIdx": 771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "B", 
+          "endIdx": 771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 71, 
+          "type": "BR", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "B", 
+          "endIdx": 71, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "BR", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "BR", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Business Intelligence | 10117 Berlin,  GermanyAbout the jobDelivery Hero is building the next generation global online food-ordering platform.  Our awesome international team already operates in over 34+ countries worldwide to ensure hungry customers get the fastest way to their favorite takeaway food.  The company has grown from its inception in 2010 to become one of the World's largest food-ordering networks.  This is an exciting time for Delivery Hero with a huge and rapid amount of growth in countries,  market size and opportunities.  Our ideal candidate will be enthusiastic,  innovative and good at 'getting things done'.  You can play an active role in our future - an exciting job and a workplace in the heart of Berlin is waiting for you! Your MissionYou will contribute to the development of new and existing big data products using the latest technology and working at the edge of currently available knowledgeYou will have the opportunity to gather experience,  learn new skills and expand your existing expertise in big data analytics and related areasYou will investigate,  implement and apply machine learning algorithms to solve real-world business problemsYou will work in a small,  independent and motivated team  Your Heroic SkillsYou feel comfortable with some parts of our software stack (Python,  Ansible,  AWS,  SQL,  Spark,  Elastic Search) and are willing to learn new technologiesYou understand how to contribute on a tight schedule while keeping your code clean and understandable using just the right amount of version control,  documentation and unit testingIdeally you have experience in deploying and managing big data infrastructure (Hadoop,  Kinesis,  Redshift)You have previous experience with batch and/or real time analysis of large data sets (Clickstream and event analysis)You have 3+ years overall professional software development experience or an amazing track record that would put you on equal stand with that experienceYou are a team-player communicative and self-motivatedYou are passionate about creating world-class products to inspire people  We Offer YouStartup atmosphere: responsibility and autonomy,  great social environment with ‘work hard,  play hard’ mentalitySafety of a large company: pension scheme,  stability and career growth opportunitiesProductive work environment with English as working languageSpare time to spend on research and trainingFlexible and agile company with flat hierarchyFor applicants from abroad: relocation package and German language lessons  Are you up for working in a dynamic team with people from 45+ different countries? Great! Please apply with complete documents in English - including CV,  cover letter and salary expectation here. "
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "Delivery Hero", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in Berlin in 2011,  Delivery Hero is the world's largest network of online food ordering sites,  operating in 21 countries and with over 73, 000 restaurant partners. Delivery Hero operates in Germany,  UK,  Austria,  South Korea,  Sweden,  Finland,  Poland,  Australia,  Switzerland,  China,  India,  Colombia,  Mexico,  Argentina,  Chile,  Uruguay,  Brazil,  Peru,  Venezuela,  Panama and Puerto Rico.  The Group has more than 1000 employees globally,  with 400 working from its Berlin Headquarters. Delivery Hero has received $523 million in investment in 2014 alone with investors including Insight Venture Partners,  Luxor Capital Group,  Kite Ventures,  Team Europe,  ru-Net,  Tengelmann Ventures,  Point Nine Capital,  Vostok Nafta and Phenomen Ventures. Want To Work At Delivery Hero?We are headquartered in Berlin,  Germany – the start-up capital of Europe.  Delivery Hero has a strong commitment to building a corporate culture that celebrates diversity and individual and team success.  We have over 40 different nationalities working in Berlin and regularly hold team-building events to foster a productive working environment. Weekly perks and activities include fresh fruits,  Friday beers,  a knowledge exchange program,  FIFA and kicker tournaments and a corporate league football team.  Quarterly milestones and other landmarks are celebrated with special parties throughout the year. Delivery Hero provides new employees with visa assistance and the necessary work permits and accredited language courses are available for all employees to learn or to improve their German.  If you think you have what it takes to join our mission,  then check out our open positions at www. deliveryhero. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447972335000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2393200", 
+    "id": 99949382, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99949382?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3Dqpd9Vfwq%26j%3Do8Yq0fwg%26nl%3D1%26page%3DJob%25252BDescription%26s%3DLINKEDIN&urlHash=zJ2C&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/2/005/035/0db/0d4a2c6. png"
+    }, 
+    "localizedDescription": "Founded in Berlin in 2011,  Delivery Hero is the world's largest network of online food ordering sites,  operating in 21 countries and with over 73, 000 restaurant partners. \r\rDelivery Hero operates in Germany,  UK,  Austria,  South Korea,  Sweden,  Finland,  Poland,  Australia,  Switzerland,  China,  India,  Colombia,  Mexico,  Argentina,  Chile,  Uruguay,  Brazil,  Peru,  Venezuela,  Panama and Puerto Rico.  The Group has more than 1000 employees globally,  with 400 working from its Berlin Headquarters. \r\rDelivery Hero has received $523 million in investment in 2014 alone with investors including Insight Venture Partners,  Luxor Capital Group,  Kite Ventures,  Team Europe,  ru-Net,  Tengelmann Ventures,  Point Nine Capital,  Vostok Nafta and Phenomen Ventures. \r\r\rWant To Work At Delivery Hero?\r\rWe are headquartered in Berlin,  Germany – the start-up capital of Europe.  \r\rDelivery Hero has a strong commitment to building a corporate culture that celebrates diversity and individual and team success.  We have over 40 different nationalities working in Berlin and regularly hold team-building events to foster a productive working environment. \r\rWeekly perks and activities include fresh fruits,  Friday beers,  a knowledge exchange program,  FIFA and kicker tournaments and a corporate league football team.  Quarterly milestones and other landmarks are celebrated with special parties throughout the year. \r\rDelivery Hero provides new employees with visa assistance and the necessary work permits and accredited language courses are available for all employees to learn or to improve their German.  \r\rIf you think you have what it takes to join our mission,  then check out our open positions at www. deliveryhero. com", 
+    "company": {
+      "specialities": [
+        "Online food ordering", 
+        "eCommerce", 
+        "Technology"
+      ], 
+      "universalName": "delivery-hero-holding", 
+      "companyId": 2393200, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/084/009/3bfb4f3. png"
+      }
+    }, 
+    "canonicalName": "Delivery Hero", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

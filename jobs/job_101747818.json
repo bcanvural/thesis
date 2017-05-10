@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Gengo", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "gengo-ELEcB4", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101747818, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      108
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://gengo. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAPEAAAAJGZkZDY2M2ZmLTk0YWEtNGQyZC1hZjQ5LTQ4NzExZGNjZTM0ZQ. png", 
+    "universalName": "gengo", 
+    "companyId": 222172
+  }, 
+  "description": "    About us    We're Gengo,  the people-powered translation platform.  We are Tokyo and    Silicon Valley-based with over 17, 000 translators from over 140    countries,  translating across 67 language pairs.  We process millions of    words of translation each week without breaking a sweat,  and our    customers love us for it.  They include some of the biggest brands in    the world like TripAdvisor,  New York Times,  Rakuten,  and Alibaba.  Our    investors include Recruit,  Intel Capital,  Atomico,  and Japan’s NTT    DoCoMo.  You have a rare chance to be a key part of a growing global    startup that is taking the translation industry by storm by leveraging    game-changing technology to help the world communicate freely.     Data Scientist    The Translator Operations team is responsible for growing,  managing and    optimizing our translator pool of over 17, 000 translators.     As our Data Scientist,  you will be responsible for driving actionable    data insights and solutions to optimize every aspect of our translator    pool.  You will be tasked with tackling a wide variety of challenges    such as building algorithms that accurately predict future translation    capacity,  improving translation quality from a quantitative approach,     and mitigating fraudulent activity on our platform.  The perfect    candidate will have a strong quantitative background and the ability to    apply rigorous statistical analysis to strategic business and product    decisions.     Responsibilities       Own and track weekly and monthly translator performance KPIs       Work with quality,  acquisition,  and capacity managers to identify        key comprehensive metrics through which we will drive improvement        within each vertical       Help optimize the performance of our translators through natural        language processing technologies and frameworks       Work with our product and engineering teams to implement machine        learning and other AI technologies into the Gengo system for        improved quality and optimum scalability     Requirements       Graduate degree or equivalent in Statistics,  Computer Science,         Math,  or other technical field       4+ years of hands-on data science experience       Business level English or higher       Demonstrable proficiency in analysis tools such as SQL,  R,  and        Python       Ability to connect the deep domain expertise of a researcher with        the pragmatism and scrappiness of an entrepreneur       Demonstrable expertise in defining key business metrics and driving        organizational clarity through data       Located in Tokyo,  Japan     Bonus skills       Business level Japanese or higher       Experience with natural language processing research and        application       Translation experience", 
+  "companyDescription": "      Gengo    Gengo is a global provider of people-powered translation at scale.  Via    direct order or API integration,  individuals and businesses worldwide    can dynamically order translations from a network of more than 15, 000    pre-tested translators working across 36 language pairs.     Gengo is a truly international company,  incorporated in the U. S.  and    headquartered in Tokyo.  Our team embodies this global spirit with    representatives from Japan,  U. S. A. ,  U. K. ,  Canada,  Australia,     Switzerland,  Kazakhstan,  Russia,  Italy,  Singapore and more.     Our customer base is equally diverse and ranges from individuals to    large enterprise clients like YouTube,  TripAdvisor,  Rakuten and    Vestiaire Collective.  Gengo is backed by an international group of    well-known companies including Intel Capital,  Atomico,  Iris Capital,     Infocomm and Recruit Holdings.     We're hiring in Tokyo and San Mateo,  CA! Visit http://careers. gengo. com", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

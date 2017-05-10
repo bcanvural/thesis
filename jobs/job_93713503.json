@@ -1,0 +1,91 @@
+{
+  "jobPosting": {
+    "companyJobCode": "absolventa_xml-172314", 
+    "expirationDate": 1452028141000, 
+    "title": "Working Student Big Data (m/f) in Munich", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "We want to internationalize our successful German business and therefore we are looking for a Working Student Big Data (m/f) for our office in Munich.        Your tasks:    You develop decision templatesYou evaluate technologies and implement a prototypeYou predict and establish possibilities and future opportunities for FlixBusYou extract information from a data set and transform it into an understandable structure        Your profile:    Enrolled student in Industrial Engineering,  Information Systems,  Mathematics or similar university programsPrevious experience in the area is a bonusHighly interested and passionate about technologyAnalytical skills and an affiliation with numbersFluent in English; German as well as other European languages are a plus        Our offer:    The possibility to work flexibly,  goal orientated,  and independently in an experienced and professional teamA once in a lifetime chance to participate in the development of the next “big thing” in a totally new and innovative marketThe chance to develop and implement your own ideas         If you would like to help build the long distance bus market leader and assist in its internationalization into the European market,  then we are looking forward to receiving your application.  Please send your CV,  cover letter,  and certificates to:                   jobs@flixbus. com        FlixBus    Matthias Hofmuth    Sandstraße 3    D – 80335 Munich"
+    }, 
+    "postalCode": "80335", 
+    "jobState": "LISTED", 
+    "companyName": "FlixBus", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "FlixBus is an innovative supplier of mobility services with headquarters in Berlin and Munich.  With more than 10, 000 connections,  our green buses offer a modern,  comfortable,  and environmentally friendly way of traveling at the best prices.  This makes us the clear market leader in Germany.  Our goal is to grow on an international level and establish an extensive bus network throughout Europe,  connecting large cities and small towns alike. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR"
+    ], 
+    "listDate": 1445413906000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2726149", 
+    "id": 93713503, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Munich,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93713503?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. absolventa. de%2Fstellenangebote%2F172314-working-student-big-data-m-f-in-munich%3Futm_campaign%3DLinkedin%26utm_source%3DLinkedin%26utm_medium%3Dorganic&urlHash=haPw&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "foundedYear": 2011, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAaAAAAAJGY1OTQzMDBmLTJmODctNGE3Yy1iZWEzLWY5MWI5M2NhYTA3NQ. png"
+    }, 
+    "localizedDescription": "FlixBus is a young mobility provider offering a sustainable,  comfortable and favorable way to travel all across Europe.  Launched 2013 in Germany,  FlixBus offers an expanding network and 45. 000 daily connections to 400 destinations in 15 countries,  by now.  With services like free WiFi,  an innovative ticketing-system,  flexible online-booking,  its own smartphone-app and CO2-compensation,  the Flix-comfort is state of the art on the market.  The customer profits from a green and comfortable means of transport for any budget.  Thanks to the cooperation with regional bus partners,  frequently family-run companies built on generations of success,  FlixBus provides thousands of new jobs all over Europe. ", 
+    "company": {
+      "specialities": [
+        "Fernbus", 
+        "Mobility", 
+        "Intercity Buses", 
+        "Sicherheit", 
+        "Eco", 
+        "Deutschland", 
+        "Komfort", 
+        "Europa", 
+        "Italia", 
+        "France"
+      ], 
+      "universalName": "gobus-gmbh", 
+      "companyId": 2726149, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAKWAAAAJDhkOGJhYzBkLTYxM2MtNGQ2Ni04NmRkLTBiNWFkMjFjZmRjNg. png"
+      }
+    }, 
+    "canonicalName": "FlixBus", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Leisure & Travel"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Other"
+  ], 
+  "formattedExperience": "Internship", 
+  "formattedIndustries": [
+    "Leisure,  Travel & Tourism"
+  ], 
+  "formattedPostedDaysAgo": "Posted 45 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "45d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 21,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

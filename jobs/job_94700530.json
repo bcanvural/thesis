@@ -1,0 +1,648 @@
+{
+  "jobPosting": {
+    "companyJobCode": "carerix-780", 
+    "expirationDate": 1451983543000, 
+    "title": ". NET,  Social Media en Big Data in Zaandam", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4498, 
+          "type": "BR", 
+          "endIdx": 4498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4498, 
+          "type": "BR", 
+          "endIdx": 4498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4490, 
+          "type": "B", 
+          "endIdx": 4498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4490, 
+          "type": "BR", 
+          "endIdx": 4490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4480, 
+          "type": "B", 
+          "endIdx": 4490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4444, 
+          "type": "B", 
+          "endIdx": 4448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4402, 
+          "type": "B", 
+          "endIdx": 4418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4371, 
+          "type": "B", 
+          "endIdx": 4374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4352, 
+          "type": "BR", 
+          "endIdx": 4352, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4352, 
+          "type": "BR", 
+          "endIdx": 4352, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4342, 
+          "type": "B", 
+          "endIdx": 4352, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4342, 
+          "type": "BR", 
+          "endIdx": 4342, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4339, 
+          "type": "BR", 
+          "endIdx": 4339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4316, 
+          "type": "BR", 
+          "endIdx": 4316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4316, 
+          "type": "BR", 
+          "endIdx": 4316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4291, 
+          "type": "BR", 
+          "endIdx": 4291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4288, 
+          "type": "BR", 
+          "endIdx": 4288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4274, 
+          "type": "B", 
+          "endIdx": 4288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4274, 
+          "type": "BR", 
+          "endIdx": 4274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4274, 
+          "type": "BR", 
+          "endIdx": 4274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3609, 
+          "type": "B", 
+          "endIdx": 3623, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3609, 
+          "type": "BR", 
+          "endIdx": 3609, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3533, 
+          "type": "BR", 
+          "endIdx": 3533, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3511, 
+          "type": "BR", 
+          "endIdx": 3511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "B", 
+          "endIdx": 3510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3457, 
+          "type": "B", 
+          "endIdx": 3483, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3339, 
+          "type": "BR", 
+          "endIdx": 3339, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3328, 
+          "type": "BR", 
+          "endIdx": 3328, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3142, 
+          "type": "BR", 
+          "endIdx": 3142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3142, 
+          "type": "BR", 
+          "endIdx": 3142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3129, 
+          "type": "B", 
+          "endIdx": 3141, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3088, 
+          "type": "B", 
+          "endIdx": 3114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2967, 
+          "type": "BR", 
+          "endIdx": 2967, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2956, 
+          "type": "BR", 
+          "endIdx": 2956, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2956, 
+          "type": "BR", 
+          "endIdx": 2956, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2907, 
+          "type": "BR", 
+          "endIdx": 2907, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2907, 
+          "type": "BR", 
+          "endIdx": 2907, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2887, 
+          "type": "BR", 
+          "endIdx": 2887, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2887, 
+          "type": "BR", 
+          "endIdx": 2887, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2845, 
+          "type": "BR", 
+          "endIdx": 2845, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2845, 
+          "type": "BR", 
+          "endIdx": 2845, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2814, 
+          "type": "BR", 
+          "endIdx": 2814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2814, 
+          "type": "BR", 
+          "endIdx": 2814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2776, 
+          "type": "BR", 
+          "endIdx": 2776, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2776, 
+          "type": "BR", 
+          "endIdx": 2776, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2762, 
+          "type": "BR", 
+          "endIdx": 2762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2762, 
+          "type": "BR", 
+          "endIdx": 2762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2740, 
+          "type": "BR", 
+          "endIdx": 2740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2735, 
+          "type": "BR", 
+          "endIdx": 2735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2735, 
+          "type": "BR", 
+          "endIdx": 2735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2653, 
+          "type": "BR", 
+          "endIdx": 2653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2653, 
+          "type": "BR", 
+          "endIdx": 2653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2614, 
+          "type": "BR", 
+          "endIdx": 2614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2614, 
+          "type": "BR", 
+          "endIdx": 2614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2503, 
+          "type": "BR", 
+          "endIdx": 2503, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2503, 
+          "type": "BR", 
+          "endIdx": 2503, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2463, 
+          "type": "BR", 
+          "endIdx": 2463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2463, 
+          "type": "BR", 
+          "endIdx": 2463, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2401, 
+          "type": "BR", 
+          "endIdx": 2401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2401, 
+          "type": "BR", 
+          "endIdx": 2401, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2315, 
+          "type": "BR", 
+          "endIdx": 2315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2315, 
+          "type": "BR", 
+          "endIdx": 2315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2303, 
+          "type": "U", 
+          "endIdx": 2315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2303, 
+          "type": "B", 
+          "endIdx": 2315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2303, 
+          "type": "BR", 
+          "endIdx": 2303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2303, 
+          "type": "BR", 
+          "endIdx": 2303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2096, 
+          "type": "BR", 
+          "endIdx": 2096, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2096, 
+          "type": "BR", 
+          "endIdx": 2096, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1768, 
+          "type": "BR", 
+          "endIdx": 1768, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1760, 
+          "type": "BR", 
+          "endIdx": 1760, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1072, 
+          "type": "BR", 
+          "endIdx": 1072, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1060, 
+          "type": "BR", 
+          "endIdx": 1060, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1040, 
+          "type": "BR", 
+          "endIdx": 1040, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 959, 
+          "type": "BR", 
+          "endIdx": 959, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 881, 
+          "type": "BR", 
+          "endIdx": 881, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 807, 
+          "type": "BR", 
+          "endIdx": 807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 728, 
+          "type": "BR", 
+          "endIdx": 728, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 646, 
+          "type": "BR", 
+          "endIdx": 646, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 576, 
+          "type": "BR", 
+          "endIdx": 576, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "B", 
+          "endIdx": 1060, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "BR", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 499, 
+          "type": "BR", 
+          "endIdx": 499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 156, 
+          "type": "BR", 
+          "endIdx": 156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "LI", 
+          "endIdx": 156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "BR", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Please review the job details and click Apply.  NET,  Social Media en Big Data in Zaandam   (Zaandam)                                 IntroductionSocial Media in kaart brengen door middel van Big Data en . NET? Het kan bij onze klant in Zaandam! Het bedrijf is marktleider in Nederland en ontwikkelt software waarmee content op alle bekende social media kanalen in kaart worden gebracht.  Binnen een klein,  informeel team krijg je alle ruimte om je creatieve vrijheid de vrije loop te laten.  Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:\"Times New Roman\";mso-bidi-theme-font:minor-bidi;mso-ansi-language:NL;mso-fareast-language:EN-US;mso-bidi-language:AR-SA\"&gt;SocialMedia in kaart brengen door middel van Big Data en . NET? Het kan bij onze klantin Zaandam! Het bedrijf is marktleider in Nederland en ontwikkelt softwarewaarmee content op alle bekende social media kanalen in kaart worden gebracht. Binnen een klein,  informeel team krijg je alle ruimte om je creatieve vrijheid devrije loop te laten. OrganizationOnze klant is gevestigd in Zaandam,  vlakbij het CS,  en legt zich toe op het ontwikkelen van social media monitoring- en webcare oplossingen.  De applicaties leveren realtime data van o. a.  Facebook en Twitter en nieuwsbronnen om deze vervolgens te structureren en als SaaS oplossing aan de klant te presenteren.  De lijst met klanten is zeer indrukwekkend en bevat vrijwel alle grote namen die er toe doen in het Nederlandse bedrijfsleven.  Met een team van 10 worden doorlopend nieuwe concepten en toepassing ontwikkeld en uitgewerkt.  De uitspraak ‘Never a dull moment’ is hier dus zeker van toepassing.  Op vrijdag borrel je nog even gezellig en tijdens de pauze worden de beentjes gestrekt. FunctionJe komt te werken in het team van ontwikkelaars en designers.  Samen werken jullie aan het verder innoveren van de bestaande oplossingen,  maar omdat de markt constant in beweging is kan het zomaar zijn dat je de ene week aan een stukje back-end C# of zelfs Java werkt,  en de week erna een Windows Phone of Android app ontwikkelt. Je hebt veel invloed op het creatieve proces en krijgt veel vrijheid en ruimte om je eigen ei kwijt te kunnen.  Het bedrijf loopt voorop in de markt en wil dit ook blijven doen,  dus ideeën zijn altijd welkom!RequirementsAls ontwikkelaar heb je uiteraard gedegen ervaring met . NET,  liefst C# en OOP.  Verder:• Je snapt een FO en kunt hier een werkend prototype van maken• Je hebt een afgerond HBO of WO diploma• Je hebt humor en bent prettig in de omgang• Je documenteert je code en waar nodig kan je een tandje bijzetten• Ervaring met Scrum is mooi meegenomen• Als je ook nog ervaring hebt met Big-Data en distributed systems is dat een pré!Offer• Marktconform salaris• Jaarcontract• Volop ruimte voor creatieve vrijheid• Werken aan tastbare producten• Informeel en leuk team van professionals• Gezamenlijke lunch• Werken met tools die ‘the-talk-of-town’ bepalenInformationVoor meer informatie over deze,  of andere vacatures kun je contact opnemen met één van onze collega's van het . NET-Team,  info@net-professionals. nl of bellen naar 020 8201 118. Ben jij zelf niet op zoek,  maar kan jij ons wel refereren naar een vriend/collega/kennis,  dan belonen wij jou met een iPad (of andere tablet) als wij hem/haar aan een baan kunnen helpen!ApplicationOm te solliciteren op deze - of andere vacatures kun je contact opnemen met één van onze collega's van het . NET-Team,  info@net-professionals. nl of bellen naar 020 8201 118. Closing date31-12-2015Back                                                                   ApplySimilar jobs:                              Junior/Medior/Senior . NET developer bij Full Service Internetbureau met flexible werktijden en leuke sfeer (Nijmegen) |                        Werk als . NET Ontwikkelaar aan uitdagende projecten binnen de verzekeringsbranche! (Breda) |                        Ervaren in . NET en op zoek naar de mooiste werkplek van het land? (Zeist) |                        Werken aan softwaresystemen en applicaties voor de gezondheidszorg doe je in deze inhouse functie als Senior . NET Ontwikkelaar te Eindhoven! (Eindhoven) |                        . NETer gezocht voor succesvol energiebedrijf in Hengelo! (Hengelo)        . . . More jobs&lt; Previous  | Native app. . .  (Eindhoven)Java Softw. . .  (Zaandam) |  Next &gt;Function:          NET         Job type:          Vast / Tijdelijk         Job ID           #780          Date posted:          05-02-2014Show mapSubscribe to the RSS feed                                                      Email to a friend                                                                     Save this job                             Print this job"
+    }, 
+    "postalCode": "1503", 
+    "jobState": "LISTED", 
+    "companyName": "PHP Professionals", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 11 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. We onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. Kunnen wij jou helpen?Ben jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nlBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. We horen graag van je. Groet, Het PHP Professionals Team"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "MRKT"
+    ], 
+    "listDate": 1445824376000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:1559016", 
+    "id": 94700530, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Zaandam,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2010, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/244/0e0/3b99166. png"
+    }, 
+    "localizedDescription": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 11 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. \r\rWe onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. \r\rKunnen wij jou helpen?\r\rBen jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nl\r\rBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. \r\rWe horen graag van je. \r\rGroet, \rHet PHP Professionals Team", 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "PHP", 
+        "OOP", 
+        "Werving & Selectie"
+      ], 
+      "universalName": "php-professionals", 
+      "companyId": 1559016, 
+      "heroImage": {}
+    }, 
+    "canonicalName": "PHP Professionals", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Marketing"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 40 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "40d", 
+  "companyDescriptionLanguage": "nl", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 26,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/94700530?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fphpprofessionals. carerix. com%2Fcxportal%2Fjobdetails%2F754%2FZaandam%2F. NET%2C-Social-Media-en-Big-Data-in-Zaandam. html&urlHash=elAM&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "nl", 
+  "formattedEmploymentStatus": "Full-time"
+}

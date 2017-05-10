@@ -1,0 +1,356 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-arNxUqCB0r4Rz7iGakhP3Q", 
+    "expirationDate": 1451785879000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1979, 
+          "type": "BR", 
+          "endIdx": 1979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1979, 
+          "type": "BR", 
+          "endIdx": 1979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1771, 
+          "type": "BR", 
+          "endIdx": 1771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1619, 
+          "type": "LI", 
+          "endIdx": 1770, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1474, 
+          "type": "LI", 
+          "endIdx": 1618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1329, 
+          "type": "LI", 
+          "endIdx": 1473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1201, 
+          "type": "LI", 
+          "endIdx": 1328, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1059, 
+          "type": "LI", 
+          "endIdx": 1200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "LI", 
+          "endIdx": 1058, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "BG", 
+          "endIdx": 1771, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1013, 
+          "type": "BR", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "B", 
+          "endIdx": 1013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 987, 
+          "type": "BR", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 903, 
+          "type": "BR", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "B", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "BR", 
+          "endIdx": 891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 891, 
+          "type": "BR", 
+          "endIdx": 891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 881, 
+          "type": "LI", 
+          "endIdx": 890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 791, 
+          "type": "LI", 
+          "endIdx": 880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 736, 
+          "type": "LI", 
+          "endIdx": 790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 666, 
+          "type": "LI", 
+          "endIdx": 735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "LI", 
+          "endIdx": 665, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 557, 
+          "type": "LI", 
+          "endIdx": 602, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 557, 
+          "type": "BG", 
+          "endIdx": 891, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 557, 
+          "type": "BR", 
+          "endIdx": 557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 545, 
+          "type": "B", 
+          "endIdx": 557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 545, 
+          "type": "BR", 
+          "endIdx": 545, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 545, 
+          "type": "BR", 
+          "endIdx": 545, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 190, 
+          "type": "B", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 190, 
+          "type": "BR", 
+          "endIdx": 190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 190, 
+          "type": "BR", 
+          "endIdx": 190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 73, 
+          "type": "BR", 
+          "endIdx": 73, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 73, 
+          "type": "BR", 
+          "endIdx": 73, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 65, 
+          "type": "B", 
+          "endIdx": 73, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 65, 
+          "type": "BR", 
+          "endIdx": 65, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 65, 
+          "type": "BR", 
+          "endIdx": 65, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 64, 
+          "type": "BR", 
+          "endIdx": 64, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 64, 
+          "type": "BR", 
+          "endIdx": 64, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 64, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Data Scientist at Deep Forest Media in Palo Alto,  CA About UsWe are an early stage company that will disrupt and shape the booming mobile advertising space for the years to come. ResponsibilitiesWe have an outstanding opportunity for a Data Scientist who will assume the role of key contributor for highly valued,  highprofile functionality that is at the core of our product offerings.   If you are curious about all things data science and are a \"data geek\" that has data for breakfast,  lunch and dinner,  we would love to talk to you. Requirements Master's degree in a quantitative discipline  Experience in data mining,  machine learning or expert systems  Strong background in statistics preferred.  Fluency with R and Python  Outstanding verbal,  written,  and interpersonal skills  Capable of applying creative,  original,  and thoughtful solutions to traditional business  problems CompensationCompetitive package with a base salary,  excellent stock option package and benefits. Why You Should Apply Today We are a small company doing very big things  Be the first person on the data science and optimization team within a company whose core value proposition is data science and optimization  Be surrounded by smart and passionate entrepreneurs who have lots of experience in solving “real world” data science problems!  You will be creating the science that you will be using.   There is nothing out there that is off the shelf for the problems you will be solving  We value innate intelligence,  the curiosity to learn more,  and the ability to solve problems and we provide the environment in which to do this  The mobile advertising space is a large opportunity and will continue to grow.  And you have the opportunity for significant rewards by growing with it Come join us to work hard to push the boundaries of innovation and have plenty of fun along the way.   We are located in Palo Alto,  CA.   For a qualified candidate,  we will do immigration processing,  if needed. "
+    }, 
+    "postalCode": "94301", 
+    "jobState": "LISTED", 
+    "companyName": "Deep Forest Media", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Based in Palo Alto,  CA,  Deep Forest Media was founded by veterans of online and mobile advertising who have developed and delivered cutting edge advertising solutions at Yahoo!,  Turn,  Tapjoy and Apple iAd.  We are shaping and disrupting the future of mobile advertising by delivering advanced data driven solutions for advertisers. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444938483000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2837053", 
+    "id": 92833182, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Palo Alto,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92833182?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fdeepforestmedia%2Fdata-scientist%2FarNxUqCB0r4Rz7iGakhP3Q%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=O0QE&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 51 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "51d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/6/000/205/0f3/0e40978. png"
+    }, 
+    "localizedDescription": "Based in Palo Alto,  CA,  Deep Forest Media was founded by veterans of online and mobile advertising who have developed and delivered cutting edge advertising solutions at Yahoo!,  Turn,  Tapjoy and Apple iAd.  We are shaping and disrupting the future of mobile advertising by delivering advanced data driven solutions for advertisers. ", 
+    "company": {
+      "universalName": "deep-forest-media", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/5/005/0ad/321/036dec9. png"
+      }, 
+      "companyId": 2837053
+    }, 
+    "canonicalName": "Deep Forest Media", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "October 15,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

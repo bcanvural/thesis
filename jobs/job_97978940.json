@@ -1,0 +1,80 @@
+{
+  "jobPosting": {
+    "companyJobCode": "98603", 
+    "expirationDate": 1451811309000, 
+    "title": "Data Scientist Financial Services (m/f)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "As an experienced data scientist (m/f),  you develop and enhance analytical models that unveil substantial business insights into the BMW Financial Services business and connected businesses within BMW Group.  To achieve this you analyze business related information on correlations and possible cause/effect dependencies in internal and external business data and transfers these into statistical models and procedures that generate valuable insight.  You also derive prognostic indicators which are suitable to decide on next best activities as well as on general issues of future business development,  also monitoring how well prognostic models meet the actual business development.  On a use case basis,  you will closely work jointly with members of international and headquarter business units,  as well as with central and local IT experts from BMW and our external partners.  You will develop graphical user interfaces that visualize analytical insights into our business in an easily understandable manner for business experts,  and you present the insights gained to business experts at any management level.  Furthermore,  you will act as a central contact partner for business analytics related topics for a geographical region (i. e.  Americas,  Asia/Pacific,  EMEA) and consult regional and central business units in the optimal usage of analytical capabilities for their business.  Once agreed,  you will support and coordinate all involved (business experts and IT related business intelligence &amp; big data experts) in developing meaningful insights.  - Studies degree in mathematics,  statistic,  business informatics or comparable qualification.       - Mathematical background with in-depth practical expertise in statistics and analytical procedures,  e. g.  explorative analysis &amp; non linear tree-based regression.        - Practical expertise with statistical and analytical technologies and tools like Hadoop/Spark,  R/SPSS/SAS,  and Qlikview/Tableau.        - Fluent in English and German.       - Creative and innovative thinking to target difficult challenges.        - Strong intercultural and communication skills.       - Ability to quickly integrate with highly heterogeneous project teams.       - Ability to communicate precisely and in a focused way to higher management in English and German. "
+    }, 
+    "postalCode": "80331", 
+    "jobState": "LISTED", 
+    "companyName": "BMW", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The BMW Group is the leading provider of premium products and premium services for individual mobility.  Home of world famous automobile brands - BMW,  MINI and Rolls-Royce Motor Cars. Further information you can find onwww. bmwgroup. com (career opportunities: www. bmwgroup. jobs)www. bmw. comwww. mini. comwww. rolls-roycemotorcars. comAlong with its automotive concerns,  the BMW Group's activities comprise the development,  production and marketing of motorcycles,  as well as comprehensive financial services for private and business customers.  We are performance-oriented and know by experience that good performance is only achieved if our employees feel comfortable and appreciated.  Therefore,  mutual appreciation and constructive argument are integral parts of our corporate philosophy.  We know no cultural and national boundaries. Instead,  we believe in exchange of views,  as team work is more than the sum of individual achievements.  And we attach importance to a balanced relation between career and private life.  This is the only way to ensure that our employees achieve the high performance we expect of them – and appreciate in return. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "FIN"
+    ], 
+    "listDate": 1447098939000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2387", 
+    "id": 97978940, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Munich,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "localizedDescription": "The BMW Group is the leading provider of premium products and premium services for individual mobility.  Home of world famous automobile brands - BMW,  MINI and Rolls-Royce Motor Cars. \r\rFurther information you can find on\rwww. bmwgroup. com (career opportunities: www. bmwgroup. jobs)\rwww. bmw. com\rwww. mini. com\rwww. rolls-roycemotorcars. com\r\rAlong with its automotive concerns,  the BMW Group's activities comprise the development,  production and marketing of motorcycles,  as well as comprehensive financial services for private and business customers.  \r\rWe are performance-oriented and know by experience that good performance is only achieved if our employees feel comfortable and appreciated.  Therefore,  mutual appreciation and constructive argument are integral parts of our corporate philosophy.  We know no cultural and national boundaries. \r\rInstead,  we believe in exchange of views,  as team work is more than the sum of individual achievements.  And we attach importance to a balanced relation between career and private life.  This is the only way to ensure that our employees achieve the high performance we expect of them – and appreciate in return. ", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/000/1ab/310/0783fc1. png"
+    }, 
+    "canonicalName": "BMW Group", 
+    "company": {
+      "universalName": "bmw", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/5/000/1ab/30b/3bee1c2. png"
+      }, 
+      "companyId": 2387
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanyType": "Public Company", 
+    "formattedIndustries": [
+      "Automotive"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Finance"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Automotive"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97978940?trk=guest_apply_click_apply_button&url=https%3A%2F%2Frecruiting. bmwgroup. de%2Fibs%2FServlets%2Fibs%2Fcontroller%2Fsatellit%3Fevent%3D__activate_and_reset%26target%3Dsmstelleanzeigen%26stellenreferenz%3D48da6fa39b94f1d290fdc37dd0799fba3c68a32233ca3998%26anzeige%3Dveroeffentlichung&urlHash=FZc8&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

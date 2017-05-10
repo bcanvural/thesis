@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "FutureLearn Ltd", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "workable_xml-A2EAFE28B3", 
+    "title": "Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101989640, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      69
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. futurelearn. com", 
+    "logo": "urn:li:media:/p/3/005/011/0b7/27fda25. png", 
+    "universalName": "futurelearn", 
+    "companyId": 3008144
+  }, 
+  "description": "    FutureLearn is a social learning platform,  backed by the Open    University and based in the British Library.  We offer free online    courses run by many leading universities from around the globe.     Since our launch 2 years ago,  we’ve run hundreds of courses that have    attracted about 2 million learners to our platform.  They come to study    a diverse range of topics,  from the archeology of ancient Rome to    psychology and modern medicine.  We have a growing following from around    the world,  with people of all genders and age groups well-represented.     We help them learn by provoking conversation around the course    material,  so that learners and educators learn as much from each other    as from the material itself.     We are looking for a motivated,  collaborative analyst to help us in our    mission to bring our unique social learning experiences to everyone,     anywhere.  Prior experience in an analyst role would be useful,  but if    you are data literate and relish the idea of tackling interesting    problems and learning quickly,  we would love to hear from you.     You will collaborate closely with the product team,  the marketing team,     and the commercial team.  You will join the Strategy team,  reporting to    the Head of Strategy and Insight.     Requirements    Job description    You Will       Help to define performance indicators for our teams,  in particular        the Discovery team (who help our learners find courses they are        interested in) and our B2C Sales team (who make and sell our        beautiful printed certificates).        Help to prioritise requests for data,  information,  analysis and        primary research       Build dashboards and reports to enable day-by-day and        month-on-month reporting against performance indicators for these        workstreams       Recommend and help to implement improvements to the way that data        is collected and labelled (e. g.  campaign tagging,  learner        demographics,  learner motivations,  etc. )       Analyse data from multiple sources (e. g.  FutureLearn,  promotional        partners,  third party tools) to interpret the impact of e. g.         channels,  campaigns and journeys through the FutureLearn site,         types of courses,  learner demographics.        Use data and your communication skills to recommend and implement        changes to our products and activities.        Help to set up and analyse experiments.      Person specification    You Must Be       Numerate and data literate,  with an understanding and appreciation        of a scientific approach to experimentation and evaluation       Reliable and accurate       A good listener,  with the ability to understand business problems,         challenge assumptions where appropriate,  and develop a shared        understanding of a problem       A good communicator,  with the ability to summarise and visualise        complex information       Commercially driven,  with the ability to extract commercial        insights and recommendations from the data     An Ideal Candidate Will Have Experience In One Or More Of       Working with large datasets       Using SQL to extract data from relational databases.        Performing statistical analyses using tools such as R,  Python or        SPSS.        Experience of digital marketing tools,  such as Google Analytics,         Unbounce and/or Optimizely.      A task will be included as part of the selection process to test your    ability to clean up and work with data,  interpret trends,  draw    inferences and communicate your finds to others.     You must have the right to work in the UK/EU for this position.     Benefits    We have a great range of benefits that we offer staff at FutureLearn.     They currently include:       Competitive salary       28 days holiday       Flexible working environment/hours       Pension (4% employer / employee contribution)       Childcare tax vouchers / Season ticket loans / Bike to work scheme       Subsidised Peyton & Byrne restaurant for breakfast and lunch at the        British Library", 
+  "companyDescription": "      FutureLearn Ltd    FutureLearn exists to bring everyone everywhere the opportunity to    learn for life by bringing together experts from some of the world’s    best Universities with anyone who has the desire to learn.  We seek to    reinvent the way education takes place,  applying creative ideas and    technological innovation to the world of learning to create engaging    experiences that people can really enjoy,  whenever and wherever it fits    into their life. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

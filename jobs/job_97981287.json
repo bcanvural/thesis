@@ -1,0 +1,622 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-81dc3221-852b-43e6-aced-74dab3ca259b", 
+    "expirationDate": 1451907539000, 
+    "title": "Marketing Analyst/Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4450, 
+          "type": "BR", 
+          "endIdx": 4450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4450, 
+          "type": "BR", 
+          "endIdx": 4450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4323, 
+          "type": "BR", 
+          "endIdx": 4323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4323, 
+          "type": "BR", 
+          "endIdx": 4323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4125, 
+          "type": "BR", 
+          "endIdx": 4125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4125, 
+          "type": "BR", 
+          "endIdx": 4125, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4029, 
+          "type": "BR", 
+          "endIdx": 4029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4029, 
+          "type": "BR", 
+          "endIdx": 4029, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3857, 
+          "type": "BR", 
+          "endIdx": 3857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3857, 
+          "type": "BR", 
+          "endIdx": 3857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3833, 
+          "type": "U", 
+          "endIdx": 3857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3833, 
+          "type": "B", 
+          "endIdx": 3857, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3833, 
+          "type": "BR", 
+          "endIdx": 3833, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3833, 
+          "type": "BR", 
+          "endIdx": 3833, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3679, 
+          "type": "BR", 
+          "endIdx": 3679, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3679, 
+          "type": "BR", 
+          "endIdx": 3679, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3598, 
+          "type": "BR", 
+          "endIdx": 3598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3598, 
+          "type": "BR", 
+          "endIdx": 3598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "BR", 
+          "endIdx": 3498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "BR", 
+          "endIdx": 3498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3382, 
+          "type": "BR", 
+          "endIdx": 3382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3382, 
+          "type": "BR", 
+          "endIdx": 3382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3233, 
+          "type": "BR", 
+          "endIdx": 3233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3233, 
+          "type": "BR", 
+          "endIdx": 3233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3160, 
+          "type": "BR", 
+          "endIdx": 3160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3160, 
+          "type": "BR", 
+          "endIdx": 3160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3140, 
+          "type": "U", 
+          "endIdx": 3160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3140, 
+          "type": "B", 
+          "endIdx": 3160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3140, 
+          "type": "BR", 
+          "endIdx": 3140, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3140, 
+          "type": "BR", 
+          "endIdx": 3140, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2935, 
+          "type": "BR", 
+          "endIdx": 2935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2935, 
+          "type": "BR", 
+          "endIdx": 2935, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2774, 
+          "type": "BR", 
+          "endIdx": 2774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2774, 
+          "type": "BR", 
+          "endIdx": 2774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2591, 
+          "type": "BR", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2591, 
+          "type": "BR", 
+          "endIdx": 2591, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2486, 
+          "type": "BR", 
+          "endIdx": 2486, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2486, 
+          "type": "BR", 
+          "endIdx": 2486, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "BR", 
+          "endIdx": 2421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2421, 
+          "type": "BR", 
+          "endIdx": 2421, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2325, 
+          "type": "BR", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2325, 
+          "type": "BR", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2307, 
+          "type": "B", 
+          "endIdx": 2325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2307, 
+          "type": "BR", 
+          "endIdx": 2307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2307, 
+          "type": "BR", 
+          "endIdx": 2307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2272, 
+          "type": "U", 
+          "endIdx": 2307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2272, 
+          "type": "B", 
+          "endIdx": 2307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2272, 
+          "type": "BR", 
+          "endIdx": 2272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2272, 
+          "type": "BR", 
+          "endIdx": 2272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2108, 
+          "type": "BR", 
+          "endIdx": 2108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2108, 
+          "type": "BR", 
+          "endIdx": 2108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1856, 
+          "type": "BR", 
+          "endIdx": 1856, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1856, 
+          "type": "BR", 
+          "endIdx": 1856, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1805, 
+          "type": "BR", 
+          "endIdx": 1805, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1805, 
+          "type": "BR", 
+          "endIdx": 1805, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1758, 
+          "type": "BR", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1758, 
+          "type": "BR", 
+          "endIdx": 1758, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1710, 
+          "type": "BR", 
+          "endIdx": 1710, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1710, 
+          "type": "BR", 
+          "endIdx": 1710, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1565, 
+          "type": "BR", 
+          "endIdx": 1565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1565, 
+          "type": "BR", 
+          "endIdx": 1565, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1408, 
+          "type": "BR", 
+          "endIdx": 1408, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1408, 
+          "type": "BR", 
+          "endIdx": 1408, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1235, 
+          "type": "BR", 
+          "endIdx": 1235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1235, 
+          "type": "BR", 
+          "endIdx": 1235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "BR", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 875, 
+          "type": "BR", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 596, 
+          "type": "BR", 
+          "endIdx": 596, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 596, 
+          "type": "BR", 
+          "endIdx": 596, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 355, 
+          "type": "BR", 
+          "endIdx": 355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 355, 
+          "type": "BR", 
+          "endIdx": 355, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 150, 
+          "type": "BR", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 150, 
+          "type": "BR", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "U", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "B", 
+          "endIdx": 150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "BR", 
+          "endIdx": 126, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "BR", 
+          "endIdx": 126, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 98, 
+          "type": "B", 
+          "endIdx": 126, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 98, 
+          "type": "BR", 
+          "endIdx": 98, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "B", 
+          "endIdx": 98, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 63, 
+          "type": "BR", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "B", 
+          "endIdx": 63, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 33, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Please Find The Job Details BelowMarketing Analyst/Data AnalystLocation: Bellevue WA (Onsite role)Duration: 9+ Months ContractGeneral Responsibilities·         Assist with the delivery of marketing analytics projects optimizing across customer competitor and demand.  Provide data driven decision support to the leadership as well as local marketing teams. ·         Subject areas for analysis and recommendations for business action will include Return On Investment (ROI) for individual marketing channels,  maximizing ROI across channels,  optimizing marketing spend,  and other areas,  as assigned. ·         Be an expert in marketing and customer data,  analyze the full impact of marketing activities for multiple marketing channels across assigned web site/brand points of sale,  and help internal customers in understanding trade-offs associated with the analytical solutions. ·         Proactively engage with customers to assess existing and upcoming business needs and maintain regular communication to update customer on progress made on projects. ·         Make intelligent trade-offs between resources available and provide innovative solutions to customers even in situations where all the desired data may or may not be available. ·         Has overall responsibility for many significant marketing reports and analytical projects and acts independently to ensure these meet marketing team&rsquo;s needs. ·         Collaborate with other functional teams,  e. g. ,  Finance and Site Analytics to understand the impact of analysis across multiple groups and business. ·         Share expertise and best practices with analytical functions across business to develop sound strategies to deliver on future projects. ·         way with manipulating numbers and data·         enjoy transforming data into insights·         insights help in business decision-making·         team is looking for a highly motivated,  analytical and entrepreneurial individual.  This is an exciting opportunity to help build the next generation of algorithms,  models and decision support systems at  online partner marketing organization. ·         You will be responsible for the creation and execution of algorithms and models to optimize marketing spending,  pricing,  targeting,  and customer behavior. Primary Duties And ResponsibilitiesBidding Operations·         Coordinate infrastructure and data inputs for bidding with external and internal teams·         Manage bidding operations for one or more meta partners·         Conduct ad-hoc business analysis for bidding and auction/competitor intelligence Data Analytics·         Develop analytical insights through assumption testing and sensitivity analysis and perform complex data analysis and financial modeling to support business case development·         Prepare data in support of analytics,  and assist with delivery of comprehensive analytics projects on marketing optimization and iteration of algorithm·         Apply advanced analytic techniques such as machine learning,  data mining and statistical modeling to design and implement mathematical models and algorithms to solve real-world marketing problemsBasic Qualifications·         An undergraduate degree in engineering or equivalent experience·         Ability to conceptualize business problems and solving them through data analysis.  Comfortable with pulling and manipulating data using SQL·         Excellent written and oral communication skills,  including an ability to communicate across business areas·         Ability to prioritize and delivery on multiple threads of work in a fast-paced environment·         Strong personal work ethic,  including personal initiative and ownership·         Familiarity with one or more machine learning or statistics tools such as R,  Stata,  Python and various libraries for other programming languagesPreferred Qualifications·         Data sleuth - SQL experience strongly preferred (e. g. ,  data source identification,  feasibility of joins,  determines data reasonableness based on business insight)·         Experience in online marketing,  e-commerce,  or equivalent role with an analytical bend·         Knowledge of data mining and analytic methods such as Clustering / Cluster Analysis,  Factor Analysis,  Regression Models,  Logistic Regression,  Predictive Modeling,  optimization models,  etc. ·         Graduate level degree in a highly quantitative field,  such as Economics,  Statistics,  Engineering,  Applied Mathematics"
+    }, 
+    "postalCode": "98004", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "MRKT", 
+      "IT"
+    ], 
+    "listDate": 1447099242000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 97981287, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Bellevue,  WA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "canonicalName": "Spectraforce Technologies", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Marketing", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 26 days ago", 
+  "formattedPostedDaysAgoSlim": "26 days ago", 
+  "formattedPostedDaysAgoShort": "26d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 9,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97981287?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3D81dc3221-852b-43e6-aced-74dab3ca259b%26OrgId%3D1%26UserId%3D1&urlHash=TkEz&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Contract"
+}

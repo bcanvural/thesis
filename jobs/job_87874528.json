@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "PREMIUM", 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "title": "Data Scientist ", 
+    "veteranCommitted": false, 
+    "id": 87874528, 
+    "applicationRouting": "LINKEDIN", 
+    "industries": [
+      6
+    ], 
+    "functions": [
+      "IT", 
+      "CUST", 
+      "ENG"
+    ], 
+    "companyName": "Pyramid Analytics"
+  }, 
+  "company": {
+    "websiteUrl": "http://www. pyramidanalytics. com/", 
+    "logo": "urn:li:media:/p/2/005/034/0bf/0e76cb7. png", 
+    "universalName": "pyramid-analytics", 
+    "companyId": 1919217
+  }, 
+  "description": "     Pyramid Analytics is a worldwide leader in data analysis and business    intelligence,  building a unique suite of products for Business    Intelligence.      The company wants to recruit an experienced Data Scientist to lead the    ongoing development of the advanced analytic capabilities offered in    its product.      The role includes the research and development of new and better    techniques that can be embedded in the existing toolset as well as    working with the sales teams to position the technology properly for    prospective customers.  The role will also extend to helping existing    customers better use the capabilities in their unique situations.      Given the scope and depth of the role,  the position is for someone who    is extremely passionate about advanced statistics combined with forward    thinking technology & innovation.  It requires a creative,  out of the    box thinker who has the enthusiasm & energy to match a fast paced    environment.      The position comes with a lucrative salary and benefits package.      What you will do:       Help to design new data analytics aspects to our BI platform,  with        a key focus on advanced analytical capabilities       Apply your advanced machine learning and software expertise to        research and develop state-of-the-art data mining,  predictive        models and optimization algorithms for the generic BI platform,         that can be used by our customers in their unique situations       Develop scripts and (optionally) application code to enact the        different logical aspects of the deployed algorithms       Mentor,  direct and guide the R&D team on statistics and advanced        data processing.        Work with customers on solving some of their unique issues in        advanced statistics and data mining in the context of the BI        platform", 
+  "companyDescription": "      Pyramid Analytics    [1]Following companyUnfollow company[2]Follow company     Pyramid Analytics BI Office fuses business analysts,  developers and    consumer’s needs into one advanced – yet intuitive,  web-based platform.     Suite tools include; analytics,  reporting and dashboarding for SQL    Server Analysis Services cubes,  tabular models and PowerPivot.     Much like Microsoft’s Office concept,  the BI Office Suite comprises    modules for analytics,  dashboards and publish-ready reports and is    custom designed for Microsoft SQL Server Analysis Services.  All modules    are accessed through a single,  web-based interface that is both    familiar and powerful.     Pyramid Analytics has a Microsoft ISV BI Gold Competency and is    headquartered in the Netherlands with operational centres in Israel,     the EU and the USA.     Making the sophisticated simple.     [AAEAAQAAAAAAAALLAAAAJDFmZTdmNTRkLTEzNzgtNDNlNi04MDNmLWM4ZTUxMDYzOGQ3Zg    . png]  Other jobs at Pyramid Analytics        [3]Tech support engineer        Ramat-Gan       [4]BI Support Engineer        Ramat-Gan       [5]Senior Developer . Net & HTML5        Ramat-Gan     [6]View more jobs at Pyramid Analytics  References     1.  file:///jobs2/view/actions/unfollowCompany/1919217?csrfToken=ajax:2644187314825728846    2.  file:///jobs2/view/actions/followCompany/1919217?csrfToken=ajax:2644187314825728846    3.  https://www. linkedin. com/jobs2/view/87869875?trk=job_view_company_other_jobs    4.  https://www. linkedin. com/jobs2/view/89047336?trk=job_view_company_other_jobs    5.  https://www. linkedin. com/jobs2/view/86786597?trk=job_view_company_other_jobs    6.  https://www. linkedin. com/company/pyramid-analytics/careers?trk=job_view_company_see_more_jobs", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

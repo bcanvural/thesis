@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "E. ON", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "jobad14064", 
+    "title": "Data Scientist (m/f)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101941468, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      59
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. eon. com", 
+    "logo": "urn:li:media:/p/5/000/233/278/227ff0b. png", 
+    "universalName": "e-on", 
+    "companyId": 4383
+  }, 
+  "description": "     Responsibilities       Helping to realize the vision of a “Digital Utility” by proactively        developing new analysis tools and insights,  driving decisions and        strategies for the whole E. ON value chain       Process very large sets of unstructured data from internal systems        in combination with external data into actionable models and        insights       Clarify the requirements and objectives for advanced analytics to        solve large-scale,  complex business problems       Design data models and proceed to data cleaning,  pre-processing and        ETL functions       Develop significant metrics and indicators to be extracted from the        data       Select and apply appropriate statistical methods,  data mining and        machine learning algorithms to address specific problems       Research latest state-of-the-art models and modelling techniques to        be applied,  participate in international and cross-industry expert        exchange       Identify data acquisition needs from sources within and outside        E. ON     Qualifications       Ph. D.  or master degree in Computer Science,  Mathematics,  or related        technical discipline and working experience as a data scientist       Extensive knowledge in statistics,  machine learning,  data mining        and experimentation methodology       Track record of coding in R,  Python,  Java and SQL and advanced        hands-on experience in leading advanced analytics tools MATLAB,         SPSS or SAS       Experience in MapReduce,  Spark/Mllib,  Mahout,  Hadoop and the like,         unstructured big data analytics,  text- and web-mining would be        considered as a plus       Be open-minded and curious,  find pleasure in uncertainty and have        the ability to bring in new ideas       Strong passion for empirical research and for answering hard        questions with data and data models       A flexible analytical approach that allows communication and        visualization of results of various levels of detail       Enjoying collaborating internationally and across cultural borders        and willing to undertake international business travel       Fluent in English,  German is considered as a plus", 
+  "companyDescription": "      E. ON    E. ON is an international privately-owned energy supplier which faces    fundamental change: through implementing its new strategy,  E. ON will in    future be focussing entirely on renewables,  energy networks and    customer solutions,  which are the building blocks of the new energy    world.  The conventional generation,  global energy trading and    exploration and production businesses segments are being transferred to    a new company which will also be listed.     In the 2014 financial year,  our staff comprising in excess of more than    58, 000 employees based in many countries in Europe as well as in Russia    and North America generated sales of around EUR 112 billion.  In    addition,  there are businesses in Brazil and Turkey we manage jointly    with partners.  Within the renewables segment,  we are one of the world's    leading companies.  Around 33 million customers purchase gas and    electricity from E. ON.  Our broad electricity generation portfolio    comprises around 59 GW of generation capacity.  The E. ON Group is run by    Group Management in Düsseldorf. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": "M. S.  or Ph. D.  in a relevant technical field4+ years of related experience in HPC software design / architectureAbility to work both independently and as part of a distributed teamA strong passion for empirical researchProfessional and effective verbal and written communications skillsExperience with distributed,  fault-tolerant systemsKnowledge designing algorithms to support broadcast of rapidly changing,  latency-sensitive dataExperience with designing systems and algorithms for efficient use of bandwidth,  CPU,  and memory resourcesHigh-performance concurrency control in distributed and shared memory environmentsAbility to develop and/or debug software tools using systems-building languages like C++,  Java,  ScalaData mining analysis languages such as R,  Pydata,  SqlFamiliar with batch processing/real time systems like Flume,  Kafka,  Storm", 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/83961767", 
+  "descriptionLanguage": "en", 
+  "description": "HERE is a leader in navigation,  mapping and location experiences.  We combine highly accurate and fresh maps with cloud technology to enable rich,  real-time location experiences in a broad range of connected devices – from smartphones and tablets to wearables and vehicles.  To learn more about HERE,  including our work in the areas of connected and autonomous driving,  visit http://360. here. com  HERE is seeking a Senior/Lead Research Engineer to join our Research team.  The candidate will be expected to work as a software engineer and a quantitative researcher.  The ideal candidate will have a strong interest in high performance computing,  edge computing and real-time streaming of high volumes of data.   The candidate must be able to work effectively in a multidisciplinary team environment focused on innovation and be able to learn and integrate complementary technologies outside their specific area of expertise.  Candidates should be familiar with HPC architectures and have a proven record of research and publications in high performance computing and its application for solutions of complex problems.  The candidate will have exceptional communication skills for communicating their scientific approach to product managers and engineers and serve as a technical resource to others.   ResponsibilitiesDesigning systems and fault tolerance algorithms for real-time redistribution of sensor dataDeveloping low latency algorithms for processing data analyticsDevelopment,  analysis,  and optimization of compute and data intensive applications and workflows", 
+  "jobPosting": {
+    "title": "Big Data Platform Engineer - European Research Center", 
+    "companyName": "HERE,  a Nokia company"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "3237134", 
+  "canFollow": false, 
+  "companyName": "HERE,  a Nokia company", 
+  "bottom": "true"
+}

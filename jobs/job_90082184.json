@@ -1,0 +1,238 @@
+{
+  "jobPosting": {
+    "companyJobCode": "contacthr-16817_jobs_10427801", 
+    "expirationDate": 1451828119000, 
+    "title": "Senior Data Scientist (F/M) at travel audience", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1767, 
+          "type": "BR", 
+          "endIdx": 1767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1767, 
+          "type": "BR", 
+          "endIdx": 1767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1639, 
+          "type": "BR", 
+          "endIdx": 1639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1467, 
+          "type": "BR", 
+          "endIdx": 1467, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "BR", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "BR", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1254, 
+          "type": "BR", 
+          "endIdx": 1254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1167, 
+          "type": "BR", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1167, 
+          "type": "BR", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1155, 
+          "type": "B", 
+          "endIdx": 1167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1155, 
+          "type": "BR", 
+          "endIdx": 1155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1155, 
+          "type": "BR", 
+          "endIdx": 1155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1022, 
+          "type": "BR", 
+          "endIdx": 1022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 861, 
+          "type": "BR", 
+          "endIdx": 861, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 695, 
+          "type": "BR", 
+          "endIdx": 695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 516, 
+          "type": "BR", 
+          "endIdx": 516, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 425, 
+          "type": "BR", 
+          "endIdx": 425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 331, 
+          "type": "BR", 
+          "endIdx": 331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 194, 
+          "type": "BR", 
+          "endIdx": 194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 173, 
+          "type": "BR", 
+          "endIdx": 173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 41, 
+          "type": "BR", 
+          "endIdx": 41, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 22, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Major ResponsibilitiesSummary of the roleJoin our fast-paced team of international experts in Berlin and support our ambitious expansion plans as Senior Data Scientist (F/M)Main responsibilities    • Transform business challenges into data mining problems creating scalable solutions with statistics and machine learning techniques    • Lead the adoption of new data based solutions cross functionally into business processes    • Create new insights,  design models and smart solutions for the future of the business    • Proactively research and implement advanced statistical and machine learning techniques for classification,  prediction,  clustering and optimization in an advertising context    • Explore and identify new internal / external data sources extracting actionable knowledge and insight to support business goals and improve business performance    • Collaborate with the IT team to ensure the correct implementation of algorithms,  the creation of new features and the launch of real-time model experiments    • Improve and enhance the bidding algorithm,  identifying the right ads for the right user at the optimal time with the best priceRequirements• Academic background in Mathematic,  Computer Science or Engineering or relevant degree    • Minimum three years’ experience in the field of data/analytics    • Two or more years’ experience within the online advertising industry    • Strong knowledge of Python,  familiar with SQL and NoSQL databases    • Working experience in processing large scale,  sparse datasets (e. g.  Hadoop,  Hive,  Spark)    • Experience with statistical,  machine learning and data mining techniques    • You are comfortable in manipulating mid to large scale data sets,  extracting insights via statistical or predictive models"
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "Amadeus IT Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Amadeus provides the technology that keeps the travel sector moving – from initial search to making a booking,  from pricing to ticketing,  from managing reservations to managing check-in and departure processes. Our ambition is to facilitate the entire travel journey from door to door,  whilst improving the travel ‘experience’ for hundreds of millions of people every year.  This is achieved by connecting key players in the travel industry: travel agencies,  corporations,  airlines,  airports,  hotels,  railways and more.  We provide these companies with the tools to serve travellers better and to manage their own business more effectively. Amadeus is at the heart of the global travel industry.  We are dedicated to working with our customers and partners to shape the future of travel. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1443939530000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:2780", 
+    "id": 90082184, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "IT", 
+        "Travel technology"
+      ], 
+      "universalName": "amadeus", 
+      "companyId": 2780, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAX_AAAAJGY4NDU0MjQwLTRlMjUtNGFlNS04Yzk2LTdjY2QzZTk2YTFhZA. png"
+      }
+    }, 
+    "localizedDescription": "Amadeus provides the technology that keeps the travel sector moving – from initial search to making a booking,  from pricing to ticketing,  from managing reservations to managing check-in and departure processes. \r\rOur ambition is to facilitate the entire travel journey from door to door,  whilst improving the travel ‘experience’ for hundreds of millions of people every year.  This is achieved by connecting key players in the travel industry: travel agencies,  corporations,  airlines,  airports,  hotels,  railways and more.  We provide these companies with the tools to serve travellers better and to manage their own business more effectively. \rAmadeus is at the heart of the global travel industry.  We are dedicated to working with our customers and partners to shape the future of travel. ", 
+    "foundedYear": 1987, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "canonicalName": "Amadeus IT Group", 
+    "careersImage": "urn:li:media:/p/2/005/04d/25e/3b6054c. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXqAAAAJDE0MGJiYjQyLWE4ZDUtNDU5Yi1hNjk4LTE5NDQxNGQxY2I1Zg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/2/005/04d/25e/3b6054c. png"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 62 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "62d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 4,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/90082184?trk=guest_apply_click_apply_button&url=http%3A%2F%2Famadeus. contactrh. com%2Fcareer%2F16817%2Fjobs%2F10427801&urlHash=qyq4&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

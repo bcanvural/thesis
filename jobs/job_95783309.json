@@ -1,0 +1,367 @@
+{
+  "jobPosting": {
+    "companyJobCode": "aswift-10251", 
+    "expirationDate": 1451772766000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2178, 
+          "type": "BR", 
+          "endIdx": 2178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2178, 
+          "type": "BR", 
+          "endIdx": 2178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2177, 
+          "type": "BR", 
+          "endIdx": 2177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2177, 
+          "type": "BR", 
+          "endIdx": 2177, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2157, 
+          "type": "BR", 
+          "endIdx": 2157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "B", 
+          "endIdx": 2156, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1953, 
+          "type": "LI", 
+          "endIdx": 1997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1953, 
+          "type": "BG", 
+          "endIdx": 1997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1895, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1895, 
+          "type": "BG", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1814, 
+          "type": "LI", 
+          "endIdx": 1832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1814, 
+          "type": "BG", 
+          "endIdx": 1832, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1798, 
+          "type": "B", 
+          "endIdx": 1813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1798, 
+          "type": "BR", 
+          "endIdx": 1798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1798, 
+          "type": "BR", 
+          "endIdx": 1798, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1670, 
+          "type": "LI", 
+          "endIdx": 1746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1670, 
+          "type": "BG", 
+          "endIdx": 1746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1586, 
+          "type": "LI", 
+          "endIdx": 1614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1586, 
+          "type": "BG", 
+          "endIdx": 1614, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1454, 
+          "type": "LI", 
+          "endIdx": 1513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1454, 
+          "type": "BG", 
+          "endIdx": 1513, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1398, 
+          "type": "LI", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1398, 
+          "type": "BG", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1365, 
+          "type": "B", 
+          "endIdx": 1397, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1365, 
+          "type": "BR", 
+          "endIdx": 1365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1267, 
+          "type": "LI", 
+          "endIdx": 1365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1267, 
+          "type": "BG", 
+          "endIdx": 1365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1134, 
+          "type": "LI", 
+          "endIdx": 1203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1134, 
+          "type": "BG", 
+          "endIdx": 1203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "LI", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BG", 
+          "endIdx": 1001, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 926, 
+          "type": "BR", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 905, 
+          "type": "B", 
+          "endIdx": 926, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 905, 
+          "type": "BR", 
+          "endIdx": 905, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 905, 
+          "type": "BR", 
+          "endIdx": 905, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 284, 
+          "type": "BR", 
+          "endIdx": 284, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 284, 
+          "type": "BR", 
+          "endIdx": 284, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 276, 
+          "type": "B", 
+          "endIdx": 284, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 276, 
+          "type": "BR", 
+          "endIdx": 276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 276, 
+          "type": "BR", 
+          "endIdx": 276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Established in the late 2000's,  my client is a leading Social Casino Developer / Publisher with offices in London and San Francisco.  More than 25, 000, 000 users have installed and played their applications with approximately 3, 500, 000 unique users engaging monthly. The RoleThey are bringing some of the best and most engaging slot machines online and to mobile and they want you to join their world class insights and analytics team.  My client is looking for driven and intelligent individuals to increase their data analytics capabilities,  partnering with internal teams to answer questions and provide insights from large amounts of data.   They want you to work on measuring and reporting the effectiveness of product / game developments on specific segments of users.  They want you to leverage your strong data analytics expertise and identify key insights and actions that will drive value. Role AccountabilitiesProvide data insights for product management and marketing decision making\r - Participate in “deep-dive” research projects,  such as detailed product analysis,  customer segmentation or lifetime value analysis Build new data views,  aggregations,  dashboards and predictive models\r - Partner with internal teams to define analytics requirements Improve platform performance and link between practical product outcomes and customer strategies. \rExperience &amp; Qualifications: Highly analytical and structured thinking\r - Strong SQL Experience coding in Python or other programming language. \r - Experience with any BI tool (Tableau,  QlickView,  Microstrategy,  etc. ) 4+ years working experience\r - A strong disposition for data-driven decision making A passion for analysing consumer behaviour in a fast-moving online business\r - Experience working with \"the Big Data\" is a plus. Our Tech-Stack: DWH: AWS Redshift\r - Analytics: SQL,  jupyter/ipython notebooks,  re. dash,  tableau ETL: python,  SQL\r - Dashboarding: D3. js,  re. dash,  Tableau Machine Learning: scikit-learn,  Docker,  EC2\r - Reports: google docsIf you are interested in this excellent opportunity and would like to know more contact Mitchell at mitchell@aswift. com or 01709 834777.  Back to results &gt; "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Aardvark Swift", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We match the best people with the best clients,  from small start-up studios making their first venture into games development,  through to the international leaders of the games industry. Over 25 years we have evolved to become the market leading recruitment consultancy not only for Video Games,  Online and Mobile Entertainment,  but also our specialised division dedicated to the Toys and Licensing industry. Our Recruiters hunt down the hard to find talent that studios need to get their games built.  We do have an extensive candidate database of tens of thousands of games professionals – but we’re a Search Agency.  Most of our placements now involve meticulously scouring the market for excellent passive job seekers that the job boards,  adverts and internal recruiters just can’t deliver. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446248446000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:79354", 
+    "id": 95783309, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Computer Games"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "We match the best people with the best clients,  from small start-up studios making their first venture into games development,  through to the international leaders of the games industry. \r\rOver 25 years we have evolved to become the market leading recruitment consultancy not only for Video Games,  Online and Mobile Entertainment,  but also our specialised division dedicated to the Toys and Licensing industry. \r\rOur Recruiters hunt down the hard to find talent that studios need to get their games built.  We do have an extensive candidate database of tens of thousands of games professionals – but we’re a Search Agency.  Most of our placements now involve meticulously scouring the market for excellent passive job seekers that the job boards,  adverts and internal recruiters just can’t deliver. ", 
+    "foundedYear": 1989, 
+    "canonicalName": "Aardvark Swift - Games,  Digital,  Toys & Licensing Recruitment", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAJZAAAAJDljODk0NWFiLWQ3NjAtNGJhMi1hN2ViLWY2NGJiY2FkODRkNg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "Video Games", 
+        "Mobile Games", 
+        "Toy Industry", 
+        "Online Games", 
+        "Social Games", 
+        "Search and Selection", 
+        "Retained Search", 
+        "Headhunting", 
+        "Contract Recruitment", 
+        "Permanent Recruitment", 
+        "Freelancers", 
+        "Sales & Marketing", 
+        "Talent Management", 
+        "Social Recruiting"
+      ], 
+      "universalName": "aardvark-swift", 
+      "companyId": 79354, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/7/005/062/219/218730e. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Games"
+  ], 
+  "formattedPostedDaysAgo": "Posted 36 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "36d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 30,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95783309?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. aswift. com%2Fhtml%2Fjobs%2Findex. jsp%3FvacancyId%3D10251&urlHash=FvGO&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

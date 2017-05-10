@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": "Master degree or PhD degree in computer science or engineering or related field,  or they should have a bachelor's degree and 3 years of work experience.  Experience with data analytics,  HPC and cloud computing,  or Machine Learning algorithms is essential.  Key skills -Linux operating systems and SW stacks for HPC systems or Cloud -Parallel programming -API design and implementation including RAPL or REST interfaces - Software engineering proven experience - Analytics / machine learning techniques to deal with complex and multi-dimensional data.  -Systems and scripting programming languages (C,  Perl,  Python,  . . . . . ) -Capacity to build and consolidate PoC from the theoretical concept -Fluent English Additional skills that would be an advantage -Relation and non-relational database design and development -Knowledge of Software Defined Networking or Virtualisation -Knowledge of French and or German is an advantage", 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/89025181", 
+  "descriptionLanguage": "en", 
+  "description": "Be a member of Intel's IPAG group in France; IPAG is part of Datacenter Group,  one of Intel's fastest growing businesses.  We are seeking one SW Engineer to join our team to work on how analyzing operational data from HPC installations through machine learning algorithms.  Responsibilities will include planning the design of data analytics chain for HPC centre operations.  The position focusses on targeting methodologies for extracting knowledge and insight from data originating from large-scale computing system monitoring; assessing the quality of the data to detect potential failures of system components; and automating these analyses.  ", 
+  "jobPosting": {
+    "title": "Data Scientist,  software engineer", 
+    "companyName": "Intel Corporation"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "1053", 
+  "canFollow": false, 
+  "companyName": "Intel Corporation", 
+  "bottom": "true"
+}

@@ -1,0 +1,284 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-23768", 
+    "expirationDate": 1451865240000, 
+    "title": "Data Scientist-Research Engineer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 699, 
+          "type": "BR", 
+          "endIdx": 699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 699, 
+          "type": "BR", 
+          "endIdx": 699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 660, 
+          "type": "BR", 
+          "endIdx": 660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 660, 
+          "type": "BR", 
+          "endIdx": 660, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 625, 
+          "type": "BR", 
+          "endIdx": 625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 625, 
+          "type": "BR", 
+          "endIdx": 625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 514, 
+          "type": "BR", 
+          "endIdx": 514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 514, 
+          "type": "BR", 
+          "endIdx": 514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 485, 
+          "type": "BR", 
+          "endIdx": 485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 485, 
+          "type": "BR", 
+          "endIdx": 485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "U", 
+          "endIdx": 485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "B", 
+          "endIdx": 485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 449, 
+          "type": "BR", 
+          "endIdx": 449, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 365, 
+          "type": "BR", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 365, 
+          "type": "BR", 
+          "endIdx": 365, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 286, 
+          "type": "BR", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 286, 
+          "type": "BR", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "U", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "B", 
+          "endIdx": 286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BR", 
+          "endIdx": 274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 274, 
+          "type": "BR", 
+          "endIdx": 274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 204, 
+          "type": "BR", 
+          "endIdx": 204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 204, 
+          "type": "BR", 
+          "endIdx": 204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 101, 
+          "type": "BR", 
+          "endIdx": 101, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 101, 
+          "type": "BR", 
+          "endIdx": 101, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהApplying Big Data analytics (Machine Learning,  NLP,  SNA and more) over social and web dataExploring &amp; designing algorithmic approaches,  followed by hands-on bootstrapped POCs implementationEvaluating / reviewing technologies and potential approaches/solutionsדרישות המשרהM. Sc.  in Computer Science,  with focus in NLP/ Machine Learning or close fields. Big Data analytics: tools and infrastructure (Spark ML,  GraphLab,  Graph / NoSQL DBs)Expertise And Hands On Experience InSNA (Social Network Analysis)Machine Learning,  NLP and Information Retrieval with specific emphasis on Social Media (Twitter,  Facebook etc. )Semantic analysis\\extraction\\fusionDevelopment experience in Python/Java/RAlgorithms implementation and integration"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "listDate": 1443507050000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 88779081, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 1995, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 67 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "67d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "September 29,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/88779081?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F23768%2FData-Scientist-Research-Engineer&urlHash=fn5E&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

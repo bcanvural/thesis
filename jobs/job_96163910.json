@@ -1,0 +1,530 @@
+{
+  "jobPosting": {
+    "companyJobCode": "icims_xml-340720", 
+    "expirationDate": 1451918057000, 
+    "title": "Data Engineer - Data Science Platform", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 8139, 
+          "type": "BR", 
+          "endIdx": 8139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8139, 
+          "type": "BR", 
+          "endIdx": 8139, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7781, 
+          "type": "BR", 
+          "endIdx": 7781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7781, 
+          "type": "BR", 
+          "endIdx": 7781, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7587, 
+          "type": "BR", 
+          "endIdx": 7587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7587, 
+          "type": "BR", 
+          "endIdx": 7587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7340, 
+          "type": "BR", 
+          "endIdx": 7340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7340, 
+          "type": "BR", 
+          "endIdx": 7340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7182, 
+          "type": "LI", 
+          "endIdx": 7262, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7126, 
+          "type": "LI", 
+          "endIdx": 7182, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 7067, 
+          "type": "LI", 
+          "endIdx": 7126, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6972, 
+          "type": "LI", 
+          "endIdx": 7067, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6890, 
+          "type": "LI", 
+          "endIdx": 6972, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6813, 
+          "type": "LI", 
+          "endIdx": 6890, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6754, 
+          "type": "LI", 
+          "endIdx": 6813, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6754, 
+          "type": "BG", 
+          "endIdx": 7262, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6754, 
+          "type": "BR", 
+          "endIdx": 6754, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6679, 
+          "type": "LI", 
+          "endIdx": 6735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6624, 
+          "type": "LI", 
+          "endIdx": 6679, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6610, 
+          "type": "LI", 
+          "endIdx": 6624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6534, 
+          "type": "LI", 
+          "endIdx": 6610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6453, 
+          "type": "LI", 
+          "endIdx": 6534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6309, 
+          "type": "LI", 
+          "endIdx": 6453, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6154, 
+          "type": "LI", 
+          "endIdx": 6309, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 6081, 
+          "type": "LI", 
+          "endIdx": 6154, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5988, 
+          "type": "LI", 
+          "endIdx": 6081, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5947, 
+          "type": "LI", 
+          "endIdx": 5988, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5904, 
+          "type": "LI", 
+          "endIdx": 5947, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5796, 
+          "type": "LI", 
+          "endIdx": 5904, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5604, 
+          "type": "LI", 
+          "endIdx": 5796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5471, 
+          "type": "LI", 
+          "endIdx": 5604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5471, 
+          "type": "BG", 
+          "endIdx": 6735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5471, 
+          "type": "BR", 
+          "endIdx": 5471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5394, 
+          "type": "LI", 
+          "endIdx": 5471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5274, 
+          "type": "LI", 
+          "endIdx": 5394, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5198, 
+          "type": "LI", 
+          "endIdx": 5274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5123, 
+          "type": "LI", 
+          "endIdx": 5198, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5039, 
+          "type": "LI", 
+          "endIdx": 5123, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5039, 
+          "type": "BG", 
+          "endIdx": 5471, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5039, 
+          "type": "BR", 
+          "endIdx": 5039, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4739, 
+          "type": "BR", 
+          "endIdx": 4739, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4739, 
+          "type": "BR", 
+          "endIdx": 4739, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4615, 
+          "type": "BR", 
+          "endIdx": 4615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4557, 
+          "type": "LI", 
+          "endIdx": 4615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4515, 
+          "type": "LI", 
+          "endIdx": 4557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4381, 
+          "type": "LI", 
+          "endIdx": 4515, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4255, 
+          "type": "LI", 
+          "endIdx": 4381, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4122, 
+          "type": "LI", 
+          "endIdx": 4255, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4055, 
+          "type": "LI", 
+          "endIdx": 4122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3996, 
+          "type": "LI", 
+          "endIdx": 4055, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3748, 
+          "type": "LI", 
+          "endIdx": 3996, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3748, 
+          "type": "BG", 
+          "endIdx": 4615, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3748, 
+          "type": "BR", 
+          "endIdx": 3748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3724, 
+          "type": "U", 
+          "endIdx": 3748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3724, 
+          "type": "B", 
+          "endIdx": 3748, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3724, 
+          "type": "BR", 
+          "endIdx": 3724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3724, 
+          "type": "BR", 
+          "endIdx": 3724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3200, 
+          "type": "BR", 
+          "endIdx": 3200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3200, 
+          "type": "BR", 
+          "endIdx": 3200, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2928, 
+          "type": "BR", 
+          "endIdx": 2928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2752, 
+          "type": "BR", 
+          "endIdx": 2752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2752, 
+          "type": "BR", 
+          "endIdx": 2752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2363, 
+          "type": "BR", 
+          "endIdx": 2363, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2363, 
+          "type": "BR", 
+          "endIdx": 2363, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1964, 
+          "type": "BR", 
+          "endIdx": 1964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1964, 
+          "type": "BR", 
+          "endIdx": 1964, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1432, 
+          "type": "BR", 
+          "endIdx": 1432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 432, 
+          "type": "BR", 
+          "endIdx": 432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 432, 
+          "type": "BR", 
+          "endIdx": 432, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " The HR Analytics Data Science Platform team is going to revolutionize HR at Amazon,  delivering an industry-leading data science platform; developing,  building and innovating on a global scalable technology solution that will allow Amazon to grow and manage its employees through its explosive growth trajectory.  Come be part of a team that will directly shape and influence the future growth of every employee at Amazon. Working in an Agile team at our development centre in Edinburgh,  Scotland,  you will have the opportunity to explore and analyse vast amounts of data,  working with distributed machine learning and statistical algorithms across multiple platforms (Amazon Web Services,  Hadoop,  NoSQL,  relational databases) to harness enormous volumes of data at scale to drive HR decisions.  We will create and maintain large stores of machine-understandable structured knowledge,  and combine this with natural language understanding and machine inference to help Amazon deliver a leading HR solution for its employees.  You will work with a team of engineers and scientists to gather data,  design models and implement prototypes that give insight.  Your systems will meet remarkably high standards of performance and reliability,  and will operate at massive scale,  24x7.  At Amazon you will see immediate results from your work as hundreds of employees respond to insights you help discover and use the software you build. You have strong computer science credentials,  are customer-obsessed and have a track record of building quality solutions.  You know how to build and you dive deep into data.  You intrinsically use technology to solve problems.  You understand the as yet untapped power of technology that will help Amazon’s goal to be the most customer-centric company in the world.  You live and breathe data analysis and can succinctly and accurately report your findings.  Most importantly,  you have a passion for learning and continuous improvement. Successful candidates will have solved complex and broad business problems with simple and straightforward solutions,  applying appropriate technologies and software engineering best practices,  building solutions that scaled and performed.  You will also have a focus on the customer experience,  great teamwork and communication skills,  and a motivation to achieve results in a fast-paced environment. We are interested in engineers and scientists who can apply their skills to research,  develop and implement scalable solutions that optimize systems such as natural language understanding,  inference,  semantic knowledge extraction from structured data and unstructured text.  The position offers exceptional opportunities for every candidate to grow their technical and non-technical skills. If you have a rigorous,  data-driven mind-set,  know how to deliver solutions and have a strong desire to solve challenging problems then our team is the place to make an impact. Are you seeking an environment where you can drive innovation? Are you passionate about building and running global scale services that will process and store huge amounts of data securely and efficiently? Do you want to play a key role in the future of Amazon's business?You will contribute to all aspects of our system’s design,  development,  documentation,  testing and operations.  You will improve our data pipelines and mine new sources of data to make our system better.  You will build tools so that your key analyses can be packaged up and run by anyone.  Together with a team of smart and highly-motivated engineers and scientists,  you will help deliver robust data,  feature sets,  intuitive designs,  and user interfaces that will deliver a HR Analytics Data Science Platform at Amazon scale. Responsibilities IncludeInterfacing with other technology teams to extract,  transform,  and load data from a wide variety of data sources using AWS data platform technologies such as RDS,  RedShift,  S3,  as well as data manipulation in languages such as SQL,  Python and Java. Interfacing with business customers to gather requirements. Modeling data and metadata to support ad-hoc and ongoing reporting. Owning the design,  development,  and maintenance of ongoing metrics,  reports,  analyses,  dashboards,  that drive key business decisions. Learning and understanding a broad range of Amazon’s data resources and know when,  how,  and which to use and which not to use. Continually improving ongoing reporting and analysis processes,  automating or simplifying self-service support for secondary datasets. Proposing data flow and storage solutions. Implementing big data solutions for distributed computing. Degree in Computer Science,  Mathematics,  Physics,  Statistics or a related field (e. g.  bioinformatics,  financial statistics). Industry experience as a Data Engineer or related specialty (e. g.  Software Engineer,  Business Intelligence Engineer,  Data Scientist) with extensive professional experience and a proven track record in a role focused on understanding,  manipulating,  processing and extracting value from large datasets. 6+ years experience in relational database concepts with an expert knowledge of SQL. 6+ years experience with relational and star schema data modeling concepts. Demonstrated ability in data modeling,  ETL development,  and Data warehousingProficient coder with one or more of the following languages: Python,  Ruby,  Java (or equivalent such as Perl,  C#,  etc. ). Experience with Big Data Technologies (Hadoop,  Hive,  Hbase,  Pig,  Spark,  etc. )Experience building/operating highly available,  distributed systems of data extraction,  ingestion,  and processing of large data sets. Experience leading large-scale data warehousing and analytics projects,  including implementation and tuning experience using Redshift,  Hadoop,  Hbase,  Hive,  Pig and other big data technologies. Experience building data products incrementally and integrating and managing datasets from multiple sources. Experience with OBIEE or other BI packages. Familiarity with ETL such as Informatica. Experience using machine learning and statistical tools such as R,  SPSS,  Weka,  or RapidMiner. Experience providing technical leadership,  and mentoring other engineers. A strong track record of relating to and solving business problems using innovative machine learning,  natural language processing or statistics approaches. Experience working in small teams and shipping products,  building and developing both system prototypes and operating scalable software systems. Linux/UNIX including command-line tools and scripting to process large data sets. Cloud computing,  large-scale and high-availability distributed architecture. Agile methods. Strong analytical and excellent problem solving skills. Strong written and verbal English communications skills. Personal qualities:Results oriented with a strong customer and business focus. Highly pragmatic,  we use technology to solve real-world problems expediently. Highly innovative,  flexible and self-directed,  but also a cooperative team player. Ability to communicate and discuss technical topics with both technical and business audiences. Ability to deal well with ambiguous and undefined problems. Able to thrive in a challenging and dynamic environment. Strong sense of ownership and passion for delivering world-class data solutions. Please note there will be a delay in responding to applications for this role. In return,  we offer a highly competitive salary,  and other excellent benefits including healthcare.  This is your opportunity to develop a rewarding career in a unique,  passionate and international environment,  work hard,  have fun and make history!Amazon is an equal opportunities employer.  We believe passionately that employing a diverse workforce is central to our success.  We make recruiting decisions based on your experience and skills. All offers are conditional on references,  verification of the right to work in the UK,  and a successful background screening check.  This check will include previous employment verification,  qualification verification (if relevant) and a basic criminal check.  Further details of this policy and procedure will be sent to you along with your conditional offer. "
+    }, 
+    "postalCode": "EH1", 
+    "jobState": "LISTED", 
+    "companyName": "Amazon", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Amazon strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online.  By giving customers more of what they want - low prices,  vast selection,  and convenience - Amazon continues to grow and evolve as a world-class e-commerce platform. Founded by Jeff Bezos,  the Amazon. com website started in 1995 as a place to buy books because of the unique customer experience the Web could offer book lovers.  Bezos believed that only the Internet could offer customers the convenience of browsing a selection of millions of book titles in a single sitting.  During the first 30 days of business,  Amazon fulfilled orders for customers in 50 states and 45 countries - all shipped from his Seattle-area garage. Amazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA.  The world's brightest technology minds come to Amazon. com to research and develop technology that improves the lives of shoppers and sellers around the world. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1446503795000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:1586", 
+    "id": 96163910, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Edinburgh,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96163910?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fuk-amazon. icims. com%2Fjobs%2F340720%2Fdata-engineer---data-science-platform%2Fjob&urlHash=_lW2&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 33 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "33d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Amazon", 
+    "company": {
+      "specialities": [
+        "e-Commerce", 
+        "Retail", 
+        "Operations", 
+        "Internet"
+      ], 
+      "universalName": "amazon", 
+      "companyId": 1586, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAaWAAAAJDgzNGNjYjJjLThlM2QtNDNjOS05NmExLTI1ZGVhMzI0OWY0Zg. png"
+      }
+    }, 
+    "foundedYear": 1994, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAb9AAAAJDUyODljMmI5LWUzZWYtNDhjOC1iNzM3LTE2N2Q1ZjA1MjYzZQ. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/062/16d/0dc58bb. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAb9AAAAJDUyODljMmI5LWUzZWYtNDhjOC1iNzM3LTE2N2Q1ZjA1MjYzZQ. png", 
+    "localizedDescription": "Amazon strives to be Earth's most customer-centric company where people can find and discover virtually anything they want to buy online.  By giving customers more of what they want - low prices,  vast selection,  and convenience - Amazon continues to grow and evolve as a world-class e-commerce platform. \r\rFounded by Jeff Bezos,  the Amazon. com website started in 1995 as a place to buy books because of the unique customer experience the Web could offer book lovers.  Bezos believed that only the Internet could offer customers the convenience of browsing a selection of millions of book titles in a single sitting.  During the first 30 days of business,  Amazon fulfilled orders for customers in 50 states and 45 countries - all shipped from his Seattle-area garage. \r\rAmazon's evolution from Web site to e-commerce partner to development platform is driven by the spirit of innovation that is part of the company's DNA.  The world's brightest technology minds come to Amazon. com to research and develop technology that improves the lives of shoppers and sellers around the world. "
+  }, 
+  "formattedListDate": "November 2,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

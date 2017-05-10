@@ -1,0 +1,384 @@
+{
+  "jobPosting": {
+    "companyJobCode": "academicjobsonline-6192", 
+    "expirationDate": 1451938157000, 
+    "title": "Faculty Positions in Data Science and Machine Learning", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1570, 
+          "type": "BR", 
+          "endIdx": 1570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1570, 
+          "type": "BR", 
+          "endIdx": 1570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "I", 
+          "endIdx": 1568, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "BR", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1529, 
+          "type": "BR", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1513, 
+          "type": "B", 
+          "endIdx": 1525, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "B", 
+          "endIdx": 1503, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1435, 
+          "type": "BR", 
+          "endIdx": 1435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1435, 
+          "type": "BR", 
+          "endIdx": 1435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1412, 
+          "type": "B", 
+          "endIdx": 1435, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1412, 
+          "type": "BR", 
+          "endIdx": 1412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1412, 
+          "type": "BR", 
+          "endIdx": 1412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "BR", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1396, 
+          "type": "BR", 
+          "endIdx": 1396, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1392, 
+          "type": "BR", 
+          "endIdx": 1392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1392, 
+          "type": "BR", 
+          "endIdx": 1392, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1335, 
+          "type": "BR", 
+          "endIdx": 1335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1335, 
+          "type": "BR", 
+          "endIdx": 1335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "B", 
+          "endIdx": 1335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "BR", 
+          "endIdx": 1316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1316, 
+          "type": "BR", 
+          "endIdx": 1316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "U", 
+          "endIdx": 1316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "B", 
+          "endIdx": 1316, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "BR", 
+          "endIdx": 1279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1279, 
+          "type": "BR", 
+          "endIdx": 1279, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "B", 
+          "endIdx": 1276, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "BR", 
+          "endIdx": 1236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 968, 
+          "type": "BR", 
+          "endIdx": 968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 968, 
+          "type": "BR", 
+          "endIdx": 968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 924, 
+          "type": "BR", 
+          "endIdx": 924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 924, 
+          "type": "BR", 
+          "endIdx": 924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "BR", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 872, 
+          "type": "BR", 
+          "endIdx": 872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 750, 
+          "type": "BR", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 750, 
+          "type": "BR", 
+          "endIdx": 750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 529, 
+          "type": "BR", 
+          "endIdx": 529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 529, 
+          "type": "BR", 
+          "endIdx": 529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 362, 
+          "type": "BR", 
+          "endIdx": 362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 362, 
+          "type": "BR", 
+          "endIdx": 362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BR", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BR", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 68, 
+          "type": "B", 
+          "endIdx": 124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 68, 
+          "type": "BR", 
+          "endIdx": 68, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 68, 
+          "type": "BR", 
+          "endIdx": 68, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 68, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "  Faculty Positions in Data Science and Machine Learning  at the Ecole polytechnique fédérale de Lausanne (EPFL) The School of Computer and Communication Sciences at EPFL invites applications for faculty positions in computer and communication sciences.  We are seeking candidates for tenure-track  assistant professor as well as for senior positions . Successful candidates will develop an independent and creative research program,  participate in both undergraduate and graduate teaching,  and supervise PhD students  . The school is seeking candidates in the fields of data science and machine learning,  including application of these techniques in natural language processing,  speech recognition,  information retrieval,  and similar fields. EPFL offers internationally competitive salaries,  significant start-up resources,  and outstanding research infrastructure. To apply,  please follow the application procedure athttps://academicjobsonline. org/ajo/jobs/6192The following documents are requested in PDF format: cover letter,  curriculum vitae including publication list,  brief statements of research and teaching interests,  names and addresses (including e-mail) of 3 references for junior positions and 6 for senior positions. Screening will start on December 1,  2015  . Further Questions Can Be Addressed To Prof.  James Larus Dean of the School of Computer and Communication SciencesEPFLCH-1015 Lausanne recruiting. ic@epfl. ch For additional information on EPFL,  please consult:     www. epfl. ch     or     ic. epfl. ch    .  EPFL is an equal opportunity employer  . "
+    }, 
+    "postalCode": "1000", 
+    "jobState": "LISTED", 
+    "companyName": "EPFL (École polytechnique fédérale de Lausanne)", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "EPFL (Ecole Polytechnique Fédérale de Lausanne) is one of two Swiss Federal Institutes of Technology.  Like its sister institution,  ETHZ,  it has three missions: education,  research and technology transfer at the highest international level.  Associated with several specialised research institutes,  the two EPFs form the EPF domain,  which is directly dependent on the Federal Department of Home Affairs. EPFL,  in its idyllic location on the shores of Lake Geneva,  brings together a campus of more than 10, 000 people.  By its novel structure,  the school stimulates collaboration between students,  professors,  researchers and entrepreneurs.  These daily interactions give rise to new and groundbreaking work in science,  technology and architecture. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "EDU"
+    ], 
+    "listDate": 1446111363000, 
+    "countryCode": "ch", 
+    "company": "urn:li:company:3883", 
+    "id": 95351727, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Lausanne,  CH", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1853, 
+    "formattedCompanyType": "Educational", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/005/00e/3c1/046cc26. png"
+    }, 
+    "localizedDescription": "EPFL (Ecole Polytechnique Fédérale de Lausanne) is one of two Swiss Federal Institutes of Technology.  Like its sister institution,  ETHZ,  it has three missions: education,  research and technology transfer at the highest international level.  Associated with several specialised research institutes,  the two EPFs form the EPF domain,  which is directly dependent on the Federal Department of Home Affairs. \r\rEPFL,  in its idyllic location on the shores of Lake Geneva,  brings together a campus of more than 10, 000 people.  By its novel structure,  the school stimulates collaboration between students,  professors,  researchers and entrepreneurs.  These daily interactions give rise to new and groundbreaking work in science,  technology and architecture. ", 
+    "company": {
+      "specialities": [
+        "education", 
+        "research", 
+        "innovation", 
+        "life sciences", 
+        "computer sciences", 
+        "architecture"
+      ], 
+      "universalName": "epfl", 
+      "companyId": 3883, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAKPAAAAJDcwZWYwYjA4LTY2MzAtNDdmYS04ZmVhLWY4M2MzN2FmMmZiMQ. png"
+      }
+    }, 
+    "canonicalName": "EPFL (École polytechnique fédérale de Lausanne)", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Higher Education"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Education"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Higher Education"
+  ], 
+  "formattedPostedDaysAgo": "Posted 37 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "37d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 29,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95351727?trk=guest_apply_click_apply_button&url=https%3A%2F%2Facademicjobsonline. org%2Fajo%2Fjobs%2F6192&urlHash=n6-b&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

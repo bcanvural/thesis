@@ -1,0 +1,487 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-bW1W1i_vSr5j0qiGaltGfR", 
+    "expirationDate": 1451951099000, 
+    "title": "Big Data Architect", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4458, 
+          "type": "BR", 
+          "endIdx": 4458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4458, 
+          "type": "BR", 
+          "endIdx": 4458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4457, 
+          "type": "BR", 
+          "endIdx": 4457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4457, 
+          "type": "BR", 
+          "endIdx": 4457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4456, 
+          "type": "BR", 
+          "endIdx": 4456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4456, 
+          "type": "BR", 
+          "endIdx": 4456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4358, 
+          "type": "BR", 
+          "endIdx": 4358, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4358, 
+          "type": "BR", 
+          "endIdx": 4358, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4130, 
+          "type": "BR", 
+          "endIdx": 4130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4117, 
+          "type": "B", 
+          "endIdx": 4130, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3967, 
+          "type": "LI", 
+          "endIdx": 4116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3947, 
+          "type": "LI", 
+          "endIdx": 3966, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3929, 
+          "type": "LI", 
+          "endIdx": 3946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3843, 
+          "type": "LI", 
+          "endIdx": 3928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3843, 
+          "type": "BG", 
+          "endIdx": 4117, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3807, 
+          "type": "B", 
+          "endIdx": 3842, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3741, 
+          "type": "LI", 
+          "endIdx": 3806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3734, 
+          "type": "LI", 
+          "endIdx": 3740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3698, 
+          "type": "LI", 
+          "endIdx": 3733, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3640, 
+          "type": "LI", 
+          "endIdx": 3697, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3584, 
+          "type": "LI", 
+          "endIdx": 3639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3541, 
+          "type": "LI", 
+          "endIdx": 3583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3498, 
+          "type": "LI", 
+          "endIdx": 3540, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3451, 
+          "type": "LI", 
+          "endIdx": 3497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3382, 
+          "type": "LI", 
+          "endIdx": 3450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3307, 
+          "type": "LI", 
+          "endIdx": 3381, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3212, 
+          "type": "LI", 
+          "endIdx": 3306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3212, 
+          "type": "BG", 
+          "endIdx": 3807, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3175, 
+          "type": "B", 
+          "endIdx": 3211, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3092, 
+          "type": "LI", 
+          "endIdx": 3174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3047, 
+          "type": "LI", 
+          "endIdx": 3091, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2868, 
+          "type": "LI", 
+          "endIdx": 3046, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2735, 
+          "type": "LI", 
+          "endIdx": 2867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2735, 
+          "type": "BG", 
+          "endIdx": 3175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2735, 
+          "type": "BR", 
+          "endIdx": 2735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2696, 
+          "type": "B", 
+          "endIdx": 2735, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2696, 
+          "type": "BR", 
+          "endIdx": 2696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2696, 
+          "type": "BR", 
+          "endIdx": 2696, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2680, 
+          "type": "BR", 
+          "endIdx": 2680, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2680, 
+          "type": "BR", 
+          "endIdx": 2680, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2670, 
+          "type": "BR", 
+          "endIdx": 2670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2670, 
+          "type": "BR", 
+          "endIdx": 2670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2641, 
+          "type": "U", 
+          "endIdx": 2670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2641, 
+          "type": "B", 
+          "endIdx": 2670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2641, 
+          "type": "BR", 
+          "endIdx": 2641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2641, 
+          "type": "BR", 
+          "endIdx": 2641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2464, 
+          "type": "BR", 
+          "endIdx": 2464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2464, 
+          "type": "BR", 
+          "endIdx": 2464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2324, 
+          "type": "BR", 
+          "endIdx": 2324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2324, 
+          "type": "BR", 
+          "endIdx": 2324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2020, 
+          "type": "BR", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1977, 
+          "type": "B", 
+          "endIdx": 2020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1977, 
+          "type": "BR", 
+          "endIdx": 1977, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1374, 
+          "type": "BR", 
+          "endIdx": 1374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1354, 
+          "type": "B", 
+          "endIdx": 1374, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1354, 
+          "type": "BR", 
+          "endIdx": 1354, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1166, 
+          "type": "BR", 
+          "endIdx": 1166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1166, 
+          "type": "BR", 
+          "endIdx": 1166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "BR", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "BR", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 538, 
+          "type": "BR", 
+          "endIdx": 538, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 35, 
+          "type": "BR", 
+          "endIdx": 35, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 35, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Welcome to TradeTrackerWe are TradeTracker. com.  The market leading affiliate networking company,  in many European territories,  operating globally.  Currently active in 20 countries across Europe and Asia and employing over 200 people.  Our affiliate platform has the widest European coverage and is the only western network with an office in China and the United Arab Emirates.  Our success has been built on the relationships formed between affiliates and merchants in-conjunction with our advanced,  in-house designed,  software. TradeTracker helps its clients,  in a no-win no-pay Marketplace,  to achieve their online sales objectives by providing them with the most reliable and intuitive proprietary software solution in the affiliate marketing industry.  Our tracking and linking technology is unique and provides real benefits in terms of your bottom line. Managing thousands merchants Worldwide,  with companies like and over hundreds of thousands affiliate sites worldwide,  all together responsible for over hundreds of millions impressions daily,  we are truly proud to say that our affiliate network is the biggest and fattest affiliate network globally. We are a fast growing company and even though we have started in 2004,  you will find us to be a company with a lean and mean culture.  Acting fast,  determined,  with a no-nonsense mentality. Our Development TeamAs a Big Data Architect,  you will work together with the TradeTracker development team.  This team consists of 6 passionate and highly skilled developers: 4 in our HQ in Almere and 2 developers in Dubai,  who like to challenge each other in the continuous development of our platform.  It is hosted from out of multiple data centers,  with its own BGP- network (with geoaware anycast DNS) and has a PostgreSQL cluster with TB’s of relational data.  Our platform is one of a kind and we are looking for PHP Developers  who are looking forward to join our team and work with us in this challenging environment. You as Big Data Architect with TradeTrackerWorking as a Big Data Architect you play a crucial role our highly skilled development team.   You will be responsible for building our new affiliate platform.  Together with our Big Data team you will be responsible for designing,  building and maintaining large-scale data processing / analytical systems. Furthermore,  you should also have the experience on how to architect highly scalable distributed systems,  using different open source tools. For this enormous challenging project we are looking for professionals who like and understand how to built a new platform from scratch,  which can handle over 1 billion records. This Position Is Available InAE – DubaiNL – Almere (HQ)What does TradeTracker expect from you?You’re not just a Architect,  but you know how to come up with creative and out of the box solutions to technical challenges we have.  You understand that working on such a high end,  high load and high performance platform,  means that you will be working on many different projects and you know how to priorities.  You know what data- processing is all about.  You love to stay up to date on the newest technologies and you love to share them.  Your profile as a Big Data Architect Hands-on experience with OO programming using languages such as PHP/Java/C++/Scala/Python etc.  Experience with relational and non-relational database management systems.  Experience with Bigdata solutions like Hadoop/Apache Spark/Pulsar. . .  Enjoy preparing and testing on large datasets.  Quickly pick up new programming languages.  Experience creating and integrating API’s.  Knowledge of backends,  including why and how they work.  Experience with multi-tiered web frameworks and services.  Linux,  Git,  Continuous Integration.  Scrum.  Excellent English communications skills,  both written and spoken.  What has TradeTracker to offer you? A challenging working environment,  where creativity and taking initiative are a must.  24 vacation days.  Competitive salary.  An opportunity to work for a company,  that designs and delivers software,  which is used around the globe,  on a scale you probably did not see before.  How to apply?Do you recognize yourself in this profile and are you looking for your next step in your career.  Then we are looking forward to receiving your up to date CV and a short description which shows how your skills match this profile. Any questions? Feel free contacting our Recruitment Coordinator Rico van der Kooij,  via 0641128461  "
+    }, 
+    "postalCode": "1301", 
+    "jobState": "LISTED", 
+    "companyName": "TradeTracker. com", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "TradeTracker. com brings together the online community’s best and brightest: working together towards the common goal of enhancing their performance marketing.  Enabling a network for both Advertisers and Publishers,  TradeTracker hosts a platform offering real-time,  understandable and most of all transparent data,  to strengthen their client’s ability to make the right performance marketing decisions.  Through a specialized accounts team who concentrate in overseeing their own specific industry,  TradeTracker ensure a tailored and precise approach to the fields of Services,  Travel,  Telecom,  Shopping and Finance.  Currently hosting offices in 18 countries and employing over 180 people worldwide,  it has the widest global coverage and traverses numerous markets.  Catering to a diverse set of languages and locations,  they present users a fluent experience even when connecting to vast international networks. Features Include:•\tAdmonitor- In order to protect your brand,  we’ve developed a tool which monitors the use of your brand across search channels and detects brand abuse in search ads. •\tConversion Path Tracking- Understand how customers navigate in the lead-up to a conversion,  so that you can optimize their journey to produce positive results.   •\tIntuitive Interface- It’s an understandable and clear dashboard that greets you every time you login,  making interpreting data and formulating campaign tactics an easy task.  •\tIndustry Specific Accounts Managers- We’re not satisfied with all-rounders,  we prefer our account managers as specialists in their sector,  allowing them a comprehensive knowledge to the finer points of an industry specific campaign.  To see the complete list of benefits TradeTracker can bring to your business then get in touch!"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1442854318000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:547019", 
+    "id": 86968528, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Almere Stad,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/86968528?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Ftradetracker%2Fbig-data-architect%2FbW1W1i_vSr5j0qiGaltGfR%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=SmJd&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "TradeTracker. com brings together the online community’s best and brightest: working together towards the common goal of enhancing their performance marketing.  \r\rEnabling a network for both Advertisers and Publishers,  TradeTracker hosts a platform offering real-time,  understandable and most of all transparent data,  to strengthen their client’s ability to make the right performance marketing decisions.  Through a specialized accounts team who concentrate in overseeing their own specific industry,  TradeTracker ensure a tailored and precise approach to the fields of Services,  Travel,  Telecom,  Shopping and Finance.  \r\rCurrently hosting offices in 18 countries and employing over 180 people worldwide,  it has the widest global coverage and traverses numerous markets.  Catering to a diverse set of languages and locations,  they present users a fluent experience even when connecting to vast international networks. \r\rFeatures Include:\r\r•\tAdmonitor- In order to protect your brand,  we’ve developed a tool which monitors the use of your brand across search channels and detects brand abuse in search ads. \r\r•\tConversion Path Tracking- Understand how customers navigate in the lead-up to a conversion,  so that you can optimize their journey to produce positive results.   \r\r•\tIntuitive Interface- It’s an understandable and clear dashboard that greets you every time you login,  making interpreting data and formulating campaign tactics an easy task.  \r\r•\tIndustry Specific Accounts Managers- We’re not satisfied with all-rounders,  we prefer our account managers as specialists in their sector,  allowing them a comprehensive knowledge to the finer points of an industry specific campaign.  \r\rTo see the complete list of benefits TradeTracker can bring to your business then get in touch!", 
+    "foundedYear": 2004, 
+    "canonicalName": "TradeTracker. com", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALXAAAAJGQyNTFkNTMwLTRjNzQtNDhkYy1iNDkxLWQ0NDk1OGNjMzc1Mg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Performance Marketing", 
+        "Online Advertising", 
+        "Affiiliate Network"
+      ], 
+      "universalName": "tradetrackercom", 
+      "companyId": 547019, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/072/018/1c3ba04. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees"
+  }, 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 75 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "75d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedListDate": "September 21,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

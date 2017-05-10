@@ -1,0 +1,302 @@
+{
+  "jobPosting": {
+    "companyJobCode": "randstad_uk-9837077", 
+    "expirationDate": 1451451691000, 
+    "title": "data scientist / research engineer", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2465, 
+          "type": "BR", 
+          "endIdx": 2465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2465, 
+          "type": "BR", 
+          "endIdx": 2465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2443, 
+          "type": "BR", 
+          "endIdx": 2443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1979, 
+          "type": "BR", 
+          "endIdx": 1979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1979, 
+          "type": "BR", 
+          "endIdx": 1979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1688, 
+          "type": "BR", 
+          "endIdx": 1688, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1514, 
+          "type": "BR", 
+          "endIdx": 1514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1448, 
+          "type": "BR", 
+          "endIdx": 1448, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1359, 
+          "type": "BR", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1307, 
+          "type": "BR", 
+          "endIdx": 1307, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1155, 
+          "type": "BR", 
+          "endIdx": 1155, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1034, 
+          "type": "BR", 
+          "endIdx": 1034, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 980, 
+          "type": "BR", 
+          "endIdx": 980, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 788, 
+          "type": "BR", 
+          "endIdx": 788, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 683, 
+          "type": "BR", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 683, 
+          "type": "BR", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 677, 
+          "type": "B", 
+          "endIdx": 683, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 677, 
+          "type": "BR", 
+          "endIdx": 677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 677, 
+          "type": "BR", 
+          "endIdx": 677, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 474, 
+          "type": "BR", 
+          "endIdx": 474, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 423, 
+          "type": "BR", 
+          "endIdx": 423, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 320, 
+          "type": "BR", 
+          "endIdx": 320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 229, 
+          "type": "BR", 
+          "endIdx": 229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 229, 
+          "type": "BR", 
+          "endIdx": 229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "B", 
+          "endIdx": 229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "BR", 
+          "endIdx": 167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "BR", 
+          "endIdx": 167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " job description                          Our client,  a leading Investment Bank,  currently seeks a Data Scientist / Research Engineer,  to be based in LondonThe Data Scientist / Research Engineer Will Be Responsible ForSpecify and build prototypes platform for running analytics on streaming complex datasets. Participate in developing and optimising the analytics for enhance the effectiveness of the Programme. Liaise closely with GT in developing the platform. Process ad-hoc support for requests from Front Office Supervisors,  Front Office Business Managers or the Oversight Committee for granular information and reports relating to Trading behaviour / activitySkillsAs such,  the successful Data Scientist / Research Engineer will have the following skills and experience:A PhD from a top tier university in a Quantitative Discipline (Computer Science,  Machine Learning,  Statistics,  Mathematics,  Physics,  Operations Research,  Engineering,  Economics/Econometrics). Experience within a Banking environment advantageous. Related industry experience in machine learning and statistical modeling techniques in identifying patterns and signals. Exceptionally strong mathematical/statistical/computer science fundamentals,  being able to logically construct and apply a model from first principles. Experience in algorithm simulations and evaluationsFluent in one or more model prototyping languages - Python,  R,  Matlab,  Mathematica,  etc. Able to clean,  analyse,  integrate and process complex/messy data. Fluent in one or more programming languages - Java,  Python,  Scala,  or other languages implementing and scaling out analytic event driven applications on very large datasets. Good at communicating to all levels and able to share information and transfer knowledge and expertise to colleagues. If you have similar experience to that outlined above and are looking for a permanent opportunity within a progressive and dynamic environment,  please forward your CV today. Randstad Financial &amp; Professional encourage applications from individuals of all ages &amp; backgrounds.  Appointment will be made on merit alone but candidates must be able to demonstrate their ability to work in the UK.  Randstad Financial &amp; Professional acts as an employment agency for permanent recruitment &amp; an employment business for temporary recruitment as defined by the Conduct of Employment Agencies &amp; Employment Business Regulations 2003Quantitative Analysis, "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Randstad UK", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We’re experts in helping jobseekers,  like you,  find fulfilling and prosperous careers.  Whether you’re looking for your first ever role or a more senior position,  we can help you apply,  interview and secure your dream job. Despite our size and global scope,  we pride ourselves on our ability to make every jobseeker,  client and employee feel valued.  Our core specialisms (with offices based across the UK) include:- Business Support - Sales,  Marketing,  Secretarial and Admin- Care- CPE - Construction,  Property and Engineering- Digby Morgan - HR- Education- Financial &amp; Professional- Inhouse Services- Sourceright- Student and Worker Support- TechnologiesLet us help you on your quest for career fulfilment - whichever sector you specialise in. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "listDate": 1447984381000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:612790", 
+    "id": 99968774, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99968774?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. randstad. co. uk%2Fjobs%2Fdata-scientist-research-engineer_city-of-london_9837077%2F%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=jQGX&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "1001-5000", 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "We’re experts in helping jobseekers,  like you,  find fulfilling and prosperous careers.  Whether you’re looking for your first ever role or a more senior position,  we can help you apply,  interview and secure your dream job. \r\rDespite our size and global scope,  we pride ourselves on our ability to make every jobseeker,  client and employee feel valued.  \r\rOur core specialisms (with offices based across the UK) include:\r\r- Business Support - Sales,  Marketing,  Secretarial and Admin\r- Care\r- CPE - Construction,  Property and Engineering\r- Digby Morgan - HR\r- Education\r- Financial & Professional\r- Inhouse Services\r- Sourceright\r- Student and Worker Support\r- Technologies\r\rLet us help you on your quest for career fulfilment - whichever sector you specialise in. ", 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAALpAAAAJDhjMzViOTRhLTZhNTQtNDgyZS04MjY0LTI2OTQwM2Q5YjkwYw. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/7/000/2c6/3fb/264b62c. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAALpAAAAJDhjMzViOTRhLTZhNTQtNDgyZS04MjY0LTI2OTQwM2Q5YjkwYw. png", 
+    "company": {
+      "specialities": [
+        "accountancy & finance", 
+        "construction", 
+        "business support", 
+        "design & creative", 
+        "education", 
+        "engineering", 
+        "financial services", 
+        "health", 
+        "social & home care", 
+        "hospitality", 
+        "human resources", 
+        "interim management", 
+        "IT", 
+        "legal", 
+        "marketing", 
+        "property", 
+        "retail", 
+        "sales", 
+        "student & worker support"
+      ], 
+      "universalName": "randstad-uk", 
+      "companyId": 612790, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAMVAAAAJDI4NDIxMGVmLTBlNzktNGIzMi1hZmU3LTk4NTBlZWRjOGYyYw. png"
+      }
+    }, 
+    "canonicalName": "Randstad UK"
+  }, 
+  "formattedListDate": "November 20,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

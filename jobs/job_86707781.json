@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/86707781", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "The position is intended for data scientists/algorithm developers with PhD/MSc in computer science/engineering,  applied mathematics,  statistics or equivalent and solid background in machine learning,  data mining,  information retrieval,  NLP or related.  We are looking for enthusiastic team players with high research capabilities,  solid theory/algorithm background and practical experience in using knowledge representations for solving real world problems   Industry experience in populating and extracting insights from knowledge representations/semantic networks.  Industry experience of at least 2 (PhD) or 4 years (MSc) in developing driven products based on data analysis,  data mining or NLP.   Good coding skills in Java (preferred),  Python or R (or other)  Excellent communication skills ", 
+  "following": false, 
+  "companyDescription": "Creating and extending computing technology to connect and enrich the lives of every person on Earth--that's our vision,  is it yours? We are changing the world at Intel.  Through our technical innovation,  our endless efforts in education,  environmental sustainability,  healthcare,  and much,  much more.  The range of computing products based on Intel® architecture goes beyond PCs and servers and extends to phones,  tablets,  consumer electronics devices,  and more.  We are the world's largest semiconductor chip maker,  based on revenue.  Platforms are designed and configured to work together to provide an optimized user computing solution--one that is seamless,  connected and puts the user at the center.  Step inside our world and you’ll find one brilliant mind after another working together in a spirit of collaboration that is simply contagious.  And through this shared dedication—this culture of innovation and exploration—we do more than deliver the latest technologies.  We deliver the future.  See for yourself.  Look Inside. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Intel Corporation", 
+  "canFollow": false, 
+  "companyId": "1053", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Intel Corporation", 
+    "title": "Data Scientist"
+  }, 
+  "description": "The Cognitive Computing team at Intel's Emerging Technology Group is a fast growing team that develop cutting edge Natural Language Understanding (NLU),  Knowledge Representations (KR) and semantic fusion models for cognitive computing platforms.  KR’s are the heart of cognitive systems that function in fields like robotics,  personal assistant and smart-home.  KR’s enable cognitive systems to solve real life problems based on previous user information and world knowledge.  If you are a talented data scientist with solid industry or/and academic background in machine learning and semantic fusion,  love challenges and aspire that your work will change people's life,  we would like you to join our team and help us to solve real world problems and provide solutions that empower our users.   "
+}

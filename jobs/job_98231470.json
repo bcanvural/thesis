@@ -1,0 +1,90 @@
+{
+  "jobPosting": {
+    "companyJobCode": "absolventa_xml-178132", 
+    "expirationDate": 1451460308000, 
+    "title": "Werkstudent (m/w) – Systemadministration (Big Data)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "an unserem Standort in Aachen    Wir steuern Großprojekte und reorganisieren Geschäftsprozesse in den Branchen Automobil,  Energie,   Luftfahrt und Telekommunikation.  Als Spin -off des Fraunhofer Institutes 1996 gegründet,  sind wir heute  2. 700 P3-ler an 36 Standorten im In- und Ausland.      Im Umfeld der Telekommunikationsindustrie beraten wir unsere Kunden umfassend,  damit sie sich erfolgreich im Crowdsourcing-Ökosystem positionieren können.  Mit unseren erprobten Datenqualifizierungs- und Validierungsmethoden sowie mit unserem Know-how in Advanced Analytics maximieren wir den Wert bereits vorhandener Daten.  Auf effiziente Weise verschneiden und korrelieren wir Daten,  um zielführende Erkenntnisse zu erhalten.     Ihre Aufgaben    Assistenz in     Linux Systemadministration im Big Data UmfeldCluster Systemüberwachung und –administration       Bash ProgrammierungEinarbeitung in und Umgang mit Hadoop tools      Ihre Qualifikationen    Kenntnisse verschiedener OS,  insbesondere Linux Fähigkeit,  kreative und unkonventionelle Lösungen zu findenTeamgeist sowie eine selbstständige ArbeitsweiseAusgeprägte Lernbereitschaft und Interesse an stetiger WeiterentwicklungGute EnglischkenntnisseLängerfristige Beschäftigung wünschenswert      Das erwartet Sie    Umgang mit den neuesten TechnologienWerden Sie Teil eines netten,  professionellen,  engagierten und hoch motivierten Teams mit agilen EntwicklungsmethodenBegleiten Sie uns in spannenden Projekten mit renommierten KundenUnsere offene Unternehmenskultur mit flacher Hierarchie und schnellen Entscheidungswegen bietet Ihnen Freiräume und persönliche EntwicklungschancenFlexible Arbeitszeiten und leistungsgerechte Vergütung      Wir freuen uns auf Sie    Bitte bewerben Sie sich online.   Für Rückfragen steht Ihnen Frau Thi Thanh Vi Dao unter +49 (0)241 9437 333 gerne zur Verfügung. "
+    }, 
+    "postalCode": "52062", 
+    "jobState": "LISTED", 
+    "companyName": "P3 Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "P3 - das steht für internationale Unternehmensberatung und innovative Ingenieurdienstleistungen,  flache Hierarchien und ein leistungsfähiges Kompetenznetzwerk.  Das Besondere: Unsere Verbindung aus Managementberatung und Engineering.  Oder wie Dr.  Gerald Weber,  ehemaliges Vorstandsmitglied bei Daimler und Airbus sagt: \"Beratung schafft Weitblick,  Projektmanagement gibt Überblick und die Technik bringt die Einblicke.  P3’ler haben von allem etwas und damit genau den Durchblick,  der die Kunden weiter bringt. “"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "OTHR", 
+      "IT"
+    ], 
+    "listDate": 1447173149000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:313911", 
+    "id": 98231470, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Aachen,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Other", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 25 days ago", 
+  "formattedPostedDaysAgoSlim": "25 days ago", 
+  "companyDescriptionLanguage": "de", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Management Consulting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "P3 group provides Engineering and Consultancy excellence in numerous sectors,  from Aerospace to Automotive,  Telecommunications to Technical Documentation to name but a few.  \r\rP3 enables our clients to succeed in their business by delivering tangible value\r \rFounded in 1996 as a spinoff from a globally-recognized,  leading technical university,  P3 began with the goal of implementing an innovative new process and has remained focused on serving clients from innovation to implementation.   P3 has grown rapidly to over 2, 700 employees across 36 locations globally. \r \rWho we work with\rWe work within organizations and teams to develop and implement innovative solutions to complex technology challenges.   Our clients are open-minded,  secure leaders who seek solutions.   They have the courage to bring in outside experts who can provide long-term value to their organization.  \r \rWhat we do\rOur fresh,  innovative application of technical and managerial best practices puts tailored solutions in place – not just on paper – with continuous guidance until a project or process is implemented,  and tangible value has been achieved. ", 
+    "foundedYear": 1996, 
+    "canonicalName": "P3 Group", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/005/04b/035/3c39d46. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Testing- Engineering Svcs,  Power Grids & Lithium Ion Battery", 
+        "Consulting- Quality,  Technology,  Strategy & Security", 
+        "Network Measurement & Telecommunications", 
+        "Energy & Process Optimization", 
+        "Network & Mobility Engineering", 
+        "Risk Management", 
+        "Aviation Energy Concepts"
+      ], 
+      "universalName": "p3-group", 
+      "companyId": 313911, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/3/005/04b/02f/2b6807d. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "25d", 
+  "formattedListDate": "November 10,  2015", 
+  "formattedExpireDate": "December 30,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98231470?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. absolventa. de%2Fstellenangebote%2F178132-werkstudent-m-w-systemadministration-big-data%3Futm_campaign%3DLinkedin%26utm_source%3DLinkedin%26utm_medium%3Dorganic&urlHash=Q55t&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "de", 
+  "hasDecoratedCompany": true
+}

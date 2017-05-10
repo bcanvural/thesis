@@ -1,0 +1,363 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-C9413BAA40", 
+    "expirationDate": 1451993962000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1516, 
+          "type": "BR", 
+          "endIdx": 1516, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1516, 
+          "type": "BR", 
+          "endIdx": 1516, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1478, 
+          "type": "BR", 
+          "endIdx": 1478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1457, 
+          "type": "BR", 
+          "endIdx": 1457, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1429, 
+          "type": "BR", 
+          "endIdx": 1429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1415, 
+          "type": "BR", 
+          "endIdx": 1415, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1399, 
+          "type": "BR", 
+          "endIdx": 1399, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1373, 
+          "type": "BR", 
+          "endIdx": 1373, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1320, 
+          "type": "BR", 
+          "endIdx": 1320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1270, 
+          "type": "BR", 
+          "endIdx": 1270, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1252, 
+          "type": "BR", 
+          "endIdx": 1252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "BR", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1228, 
+          "type": "BR", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "U", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "B", 
+          "endIdx": 1228, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "BR", 
+          "endIdx": 1220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1220, 
+          "type": "BR", 
+          "endIdx": 1220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1145, 
+          "type": "LI", 
+          "endIdx": 1220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1075, 
+          "type": "LI", 
+          "endIdx": 1145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 992, 
+          "type": "LI", 
+          "endIdx": 1075, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 916, 
+          "type": "LI", 
+          "endIdx": 992, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 895, 
+          "type": "LI", 
+          "endIdx": 916, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "LI", 
+          "endIdx": 895, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BR", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 814, 
+          "type": "BR", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "U", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "B", 
+          "endIdx": 814, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "BR", 
+          "endIdx": 802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "BR", 
+          "endIdx": 802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 680, 
+          "type": "LI", 
+          "endIdx": 802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 613, 
+          "type": "LI", 
+          "endIdx": 680, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 506, 
+          "type": "LI", 
+          "endIdx": 613, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 436, 
+          "type": "LI", 
+          "endIdx": 506, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 297, 
+          "type": "LI", 
+          "endIdx": 436, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 297, 
+          "type": "BR", 
+          "endIdx": 297, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 297, 
+          "type": "BR", 
+          "endIdx": 297, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 289, 
+          "type": "U", 
+          "endIdx": 297, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 289, 
+          "type": "B", 
+          "endIdx": 297, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 289, 
+          "type": "BR", 
+          "endIdx": 289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 289, 
+          "type": "BR", 
+          "endIdx": 289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " We’re looking for a passionate,  highly analytical individual who can help us make better decisions.  We’re putting together an awesome team of data analysts and optimizers in Barcelona to champion a data-driven marketing culture at Typeform and bring real value to the business. You WillImprove and monitor our KPIs dashboard across all AARRR stages of the user lifecycle-Identify friction points and bottlenecks in each stageUse your analytics and data modeling skills to understand their causesSummarize and present key insights to drive decision making and make the team scream “wowza!” in excitementDesign and interpret experiments to test different product variantsTake initiative and champion research projects aimed at understanding our customers,  how they use Typeform and their needsRequirementsA degree in Statistics,  Computer Science,  Economics,  or a related technical fieldAdvanced Excel skillsA track record of performing data analysis using SQL (Python or R is a plus)Experience using statistics and data modelling to distill complex business problemsThe ability to clearly communicate findings to non-technical audiencesA strong interest in digital marketing,  the SaaS industry and tech startupsBenefits• Flexible working hours• Half day Fridays• Amazing office space (including terrace and BBQ)• 24 days of holiday (you can take your birthday off)• Private health insurance• Nice equipment• Yoga classes• Free team lunches everyday• Fresh organic fruit• Wear your slippers within the office"
+    }, 
+    "postalCode": "08009", 
+    "jobState": "LISTED", 
+    "companyName": "Typeform", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "When’s the last time you completed an online form that was fun?Audiences love Typeform because it’s intuitive,  incredibly engaging,  and dare we say,  enjoyable to interact with. Because of this,  Typeform gets completion rates up to 4x higher than regular old forms. This makes data collection a breeze for entrepreneurs,  researchers,  educators,  event planners,  and anyone interested in getting closer to their audience. Even non-techies can easily build beautiful surveys,  registration forms,  tests &amp; quizzes,  contests,  tutorials,  shopping carts,  and contact forms.  Yep,  that’s right,  no code required!Find out more: http://www. typeform. com"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1439889978000, 
+    "countryCode": "es", 
+    "company": "urn:li:company:3226972", 
+    "id": 79065324, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Barcelona,  ES", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/79065324?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F667D841FB7&urlHash=ctY3&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Software"
+  ], 
+  "formattedPostedDaysAgo": "Posted 109 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "109d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Computer Software"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "Typeform. com", 
+    "company": {
+      "specialities": [
+        "Online forms", 
+        "Surveys", 
+        "Quizzes", 
+        "Contests", 
+        "Reports", 
+        "Presentations", 
+        "Tests", 
+        "Event registrations", 
+        "Process payments", 
+        "Data collection", 
+        "User experience", 
+        "Responsive design", 
+        "Mobile", 
+        "Cross-device", 
+        "Branding"
+      ], 
+      "universalName": "typeform-com", 
+      "companyId": 3226972, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/7/000/29e/163/00a8a96. png"
+      }
+    }, 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAcSAAAAJGQyZDAyNjM3LWRkZDktNDRlNC1iZWI0LTRiOGEwZDJhYThhOQ. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/29e/164/3b65cbb. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAcSAAAAJGQyZDAyNjM3LWRkZDktNDRlNC1iZWI0LTRiOGEwZDJhYThhOQ. png", 
+    "localizedDescription": "When’s the last time you completed an online form that was fun?\r\rAudiences love Typeform because it’s intuitive,  incredibly engaging,  and dare we say,  enjoyable to interact with. \r\rBecause of this,  Typeform gets completion rates up to 4x higher than regular old forms. \r\rThis makes data collection a breeze for entrepreneurs,  researchers,  educators,  event planners,  and anyone interested in getting closer to their audience. \r\rEven non-techies can easily build beautiful surveys,  registration forms,  tests & quizzes,  contests,  tutorials,  shopping carts,  and contact forms.  Yep,  that’s right,  no code required!\r\rFind out more: http://www. typeform. com"
+  }, 
+  "formattedListDate": "August 18,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

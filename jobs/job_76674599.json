@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/76674599", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Working towards PhD degree in Computer Science,  Electrical Engineering,  Statistics,  Applied Math,  Econometrics,  Operations Research,  or other related fields is a must.   Deep understanding of statistical modeling,  machine learning,  or data mining concepts,  and a track record of solving problems with these methods.  Familiar with one or more machine learning or statistical modeling tools such as R,  Matlab and scikit learn Proficient in one or more programming languages such as Python,  Java and C Knowledge and experience of working with relational databases and SQL Strong analytical and quantitative problem solving ability.  Excellent communication,  relationship skills and a strong team player.    Preferred Qualifications Experience with big data techniques (such as Hadoop,  MapReduce,  Hive,  Pig,  Spark) Knowledge of experimental design,  ANOVA,  statistical inference,  and multivariate testing Knowledge of numerical or combinatorial optimization", 
+  "following": false, 
+  "companyDescription": "At Adobe,  we create digital experiences that change the world.  How? We help people bring ideas to life by creating content that makes life more fun and work more impactful.  We give businesses and organizations the power to truly engage their customers.  We're the ones behind the gorgeously designed content that streams across your laptop,  TV,  phone,  and tablet every day—and we’re the ones who harness the massive power of big data to help companies find and reach the people who crave that content.    We do it with energy,  passion,  and curiosity,  and we’re backed by our rich heritage and culture of innovation.  We’re looking for exceptional talent to join us. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Adobe", 
+  "canFollow": false, 
+  "companyId": "1480", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Adobe", 
+    "title": "Data Scientist,  University Grad"
+  }, 
+  "description": "Adobe is looking for a Data Scientist who will be building the web’s next generation of products.  These products would help businesses understand and manage their customers’ full lifecycle,  from customer analytics to marketing media optimization.  By leveraging predictive models,  experimental design methods,  and optimization techniques,  the selected candidate will be working on the research and development of various products that address challenging business problems including real-time online media optimization,  marketing mix modeling and planning,  media attribution,  leads scoring,  sales operation analytics,  customer conversion scoring and optimization,  customer churn scoring and management and social network analysis.  Ideal candidates will have a strong academic background as well as technical skills including applied statistics,  machine learning,  data mining,  and software development.  Familiarity working with large-scale datasets and big data techniques would be a plus.  What you’ll do Develop predictive models on large-scale datasets to address various business problems through leveraging advanced statistical modeling,  machine learning,  or data mining techniques.  Develop and implement scalable and efficient modeling algorithms that can work with large-scale data in production systems Collaborate with product management and engineering groups to develop new products and features.  "
+}

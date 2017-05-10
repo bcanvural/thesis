@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Computer Recruitment Services", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "jobs_pl-543227", 
+    "title": "Data Scientist/Engineer,  Data Analytics,  R,  Spark,  Hadoop,  Bank,  Bruss", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101980176, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "companyId": 4735753, 
+    "universalName": "computer-recruitment-services-plc"
+  }, 
+  "description": "    Data Scientist/Engineer,  Data Analytics,  R,  Spark,  Hadoop,  Bank,  Bruss    Miejsce pracy: brussel (Belgium)    Nr ref: JSPBE594/jobs. pl    Salary: 450. 00-500. 00 Euro .  EUR (Daily)     Data Scientist/Engineer,  Data Analytics,  R,  Spark,  Hadoop,  Bank,     Brussels    Background    You will join the Data Analytics team which is responsible for all Big    Data and Analytics related matters throughout the bank and is in charge    of collecting,  analysing and reporting data in the context of Advanced    Analytics.     Tasks    As a member of the Data Analytics team,  you will be curious,     collaborative and innovative which is the mindset of the team.  The role    of the data scientist is pivotal in transforming a business question or    gap into deliverables such as analytical tools,  predictive models,  etc    that will generate actionable insight for business users.     Methods used are,  amongst others,  machine learning,  natural language    processing,  fuzzy matching,  etc    You must be flexible and manage multi-dimensional data sources and    formats as well as a large panel of Analytics techniques commonly    applied in Operational,  Risk and client Analytics.  As a Data Scientist    at the bank,  you work in close collaboration with internal business    users to provide them with extended business insight serving their    purposes.  Your core objectives are to create value out of data and to    experiment new technologies in order to develop capabilities within the    company.     Manipulate internal and external data sources and conduct Data Analysis    in order to produce quality and actionable outputs in a timely manner    (around 8 weeks per case);    Build models to process varied and massive data sets using Big Data    technologies;    Build tools for enhanced data visualization and trend reporting;    Deliver Analytics results and tools as intelligence that is actionable    by business end-users;    Actively participate in the assessment of the evolution of the bank's    Analytics platform in terms of software.     Contribute to new ideas (products) development and piloting.     Essential Skills    Degree or equivalent experience in statistics,  applied mathematics,  or    a related quantitative field;    2 years of experience in data analysis;    2 years of experience with open source statistical programming    languages (eg.  R);    Experience in data transformation;    Familiarity with data mining techniques;    Work experience using applied machine learning or statistical    modelling; knowledge of algorithms spanning clustering,  regression,     classification,  mixture models,  graphical models,  Bayesian statistics,     and probabilistic modelling;    Experience with command line tools,  relational databases (SQL),  data    visualization,  and version control (eg.  git).     Knowledge of and experience with classic and new/emerging Business    Intelligence methodologies.     Language: English;    You must be an EU national to apply for this role. ", 
+  "companyDescription": "      Computer Recruitment Services", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

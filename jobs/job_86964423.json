@@ -1,0 +1,312 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-d7ibJaNWKr4782eJe9fLhG", 
+    "expirationDate": 1451949317000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2747, 
+          "type": "BR", 
+          "endIdx": 2747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2651, 
+          "type": "BR", 
+          "endIdx": 2651, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2539, 
+          "type": "BR", 
+          "endIdx": 2539, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2521, 
+          "type": "LI", 
+          "endIdx": 2767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2483, 
+          "type": "BR", 
+          "endIdx": 2483, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2347, 
+          "type": "BR", 
+          "endIdx": 2347, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2296, 
+          "type": "BR", 
+          "endIdx": 2296, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2287, 
+          "type": "LI", 
+          "endIdx": 2520, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2244, 
+          "type": "BR", 
+          "endIdx": 2244, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2141, 
+          "type": "BR", 
+          "endIdx": 2141, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2130, 
+          "type": "LI", 
+          "endIdx": 2286, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2071, 
+          "type": "BR", 
+          "endIdx": 2071, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1936, 
+          "type": "BR", 
+          "endIdx": 1936, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1921, 
+          "type": "LI", 
+          "endIdx": 2129, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1921, 
+          "type": "BG", 
+          "endIdx": 2767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1921, 
+          "type": "BR", 
+          "endIdx": 1921, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "U", 
+          "endIdx": 1921, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "B", 
+          "endIdx": 1921, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "BR", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1909, 
+          "type": "BR", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1810, 
+          "type": "LI", 
+          "endIdx": 1908, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1728, 
+          "type": "LI", 
+          "endIdx": 1809, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1686, 
+          "type": "LI", 
+          "endIdx": 1727, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1621, 
+          "type": "LI", 
+          "endIdx": 1685, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1621, 
+          "type": "BG", 
+          "endIdx": 1909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1621, 
+          "type": "BR", 
+          "endIdx": 1621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "U", 
+          "endIdx": 1621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "B", 
+          "endIdx": 1621, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "BR", 
+          "endIdx": 1587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1587, 
+          "type": "BR", 
+          "endIdx": 1587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "BR", 
+          "endIdx": 618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 618, 
+          "type": "BR", 
+          "endIdx": 618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 236, 
+          "type": "BR", 
+          "endIdx": 236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 236, 
+          "type": "BR", 
+          "endIdx": 236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Our co-founders began as academics with an ambition to use cutting-edge ML to solve a variety of impactful business problems.  We are looking for like-minded individuals who share this passion to improve the world through ML. As a data scientist,  you understand the variety of companies and positions vying for your skills.  If you desire the challenge of building out end-to-end solutions on a broad range of data-driven problems,  then wise. io could be the place for you.  As an early-stage and quickly growing startup,  we can provide you freedom and potential for growth not easily found in larger companies. At wise. io,  you’ll have the ability to solve new projects every week,  often for business verticals that have scarcely been touched by advanced ML.  You will have the responsability to lead and support several projects,  leveraging our Sales and Engineering teams while using your data science skills to switch between software engineering,  statistics,  business/domain analysis and customer development to see each project to completion.  Each new project will require you to identify business problems,  massage dirty and unstructured datasets,  build out an optimized solution,  and convey the final product to business lay-people.  You will have ample opportunity to develop new ML algorithms and implement production-grade code while interfacing with customers,  conceiving new business opportunities and exploring an array of business domains.  You’ll have the ability to grow a career starting at the ground floor of a well funded,  high-revenue startup in a red-hot domain. We Are Seeking Data Scientists Whoare confident in their ability to solve any data-driven problem,  are unfazed by new domains and data sets,  have experience in implementing and supporting production-grade ML solutions,  and are motivated to actively engage with customers and seek out new projects and sales opportunities.  RequirementsBusiness chops: You can identify business problems,  describe complicated ML to business users and effectively communicate results to customers.  Bonus:experience in a startup working with enterprise customers.  Data chops: Cleaning,  munging,  joining and augmenting data,  often with datasets that don’t fit into memory.  Bonus:experience in customer behavior analytics.  ML chops: Proven experience with a variety of ML algorithms:regression,  classification,  unsupervised learning,  active/online learning.  Demonstrated ability to solve real-world data problems (read:not UCI data!) with machine learning.  Engineering chops: Experience writing production-grade ML/analytics code.  Demonstrated creative and effective feature engineering:e. g. ,  time-series,  image,  NLP.  Python/R experience,  ability to test and deploy solutions.  Bonus:C/C++,  Hadoop/spark. "
+    }, 
+    "postalCode": "94701", 
+    "jobState": "LISTED", 
+    "companyName": "Wise. io,  Inc. ", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Wise. io provides applications spanning the entire customer lifecycle that apply the power of machine learning to help companies optimize how they acquire,  monetize,  and retain customers.   The company was founded by leading experts in astrophysics,  statistics,  computer science,  and machine learning as well as business executives who built innovative and disruptive businesses that brought advanced analytics to the enterprise software market.   Wise. io’s solutions are running in production at companies that range from Silicon Valley startups to the largest Fortune 500 corporations. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1442853871000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:2620078", 
+    "id": 86964423, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berkeley,  CA,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/86964423?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fwiseioinc%2Fdata-scientist%2Fd7ibJaNWKr4782eJe9fLhG%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=MOS_&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "Wise. io provides applications spanning the entire customer lifecycle that apply the power of machine learning to help companies optimize how they acquire,  monetize,  and retain customers.   The company was founded by leading experts in astrophysics,  statistics,  computer science,  and machine learning as well as business executives who built innovative and disruptive businesses that brought advanced analytics to the enterprise software market.   Wise. io’s solutions are running in production at companies that range from Silicon Valley startups to the largest Fortune 500 corporations. ", 
+    "foundedYear": 2012, 
+    "canonicalName": "Wise. io", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/5/005/08f/1d3/0608ea8. png"
+    }, 
+    "company": {
+      "specialities": [
+        "machine learning", 
+        "predictive analytics", 
+        "big data", 
+        "data science", 
+        "customer experience management"
+      ], 
+      "universalName": "wise-io", 
+      "companyId": 2620078
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 75 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "75d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "September 21,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

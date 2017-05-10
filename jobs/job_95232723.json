@@ -1,0 +1,85 @@
+{
+  "jobPosting": {
+    "companyJobCode": "absolventa_xml-176997", 
+    "expirationDate": 1451865994000, 
+    "title": "Abschlussarbeit ab Februar 2016 zu Data Science / Data Mining in der Produktion", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Tätigkeitsbeschreibung:  Die Abteilung  ITP/AC bei der Daimler AG verantwortet die Informationsverarbeitung der Produktionssteuerung der Mercedes-Benz-Werke.  Zur Datenanalyse der Produktionsdaten sind verschiedene Themen im Bereich Big Data,  Data Mining und Data Science vorhanden.   Unter anderem sollen mögliche Zusammenhänge zwischen fachlichen Themen untersucht werden,  wie beispielsweise Auswirkungen von Ausstattungsmerkmalen zu Durchlaufzeiten.     Ihre Aufgaben umfassen:  - Einarbeitung in fachliche Fragestellungen aus der Produktion  - Einarbeitung in ausgewählte Algorithmen zur Datenanalyse / Data Mining  - Erstellung einer Prototyp-Implementierung eines Algorithmus zur Datenanalyse   - Durchführung,   Analyse,  Dokumentation und Bewertung der Ergebnisse vor dem Hintergrund der fachlichen Anforderungen  - Erstellung einer Abschlusspräsentation  Qualifikationen:  Studiengang: Informationstechnische Studiengänge  Sprachkenntnisse: Deutsch und Englisch in Wort und Schrift  IT-Kenntnisse: SQL-Datenbanken,  Java-Programmierung,  algorithmisches Denken  Persönliche Kompetenzen: Engagierte Arbeitsweise und ausgeprägte Teamfähigkeit,  selbständige und strukturierte Arbeitsweise   Die Tätigkeit ist in Vollzeit,  befristet auf 6 Monate Sie haben Interesse? Dann bewerben Sie sich bitte ausschließlich online über unsere Homepage mit Ihren vollständigen Unterlagen als Anhang (Lebenslauf mit Angabe der Staatsangehörigkeit,  Immatrikulationsbescheinigung,  aktueller Notenspiegel,  relevante Zeugnisse und Nachweis über die Regelstudienzeit).  Angehörige von Staaten außerhalb des europäischen Wirtschaftsraums schicken ggf.  bitte Ihre Aufenthalts-/Arbeitsgenehmigung mit.   Wir freuen uns insbesondere über Bewerbungen schwerbehinderter und ihnen gleichgestellter behinderter Menschen.  Unter sbv-sindelfingen@daimler. com können Sie sich zudem an die Schwerbehindertenvertretung des Standorts wenden,  die Sie gerne im weiteren Bewerbungsprozess unterstützt.   Fragen zur Stelle beantwortet Ihnen gerne Herr Dr.  Bell aus dem Fachbereich,  unter der Telefonnummer +49 7031/90-70734 bzw.  siegfried. bell@daimler. com.  Fragen zum Bewerbungsprozess beantwortet Ihnen gerne HR Services unter der Telefonnummer +49 711/17-99544. "
+    }, 
+    "postalCode": "71063", 
+    "jobState": "LISTED", 
+    "companyName": "Daimler AG", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We are one of the world’s most successful automotive companies.  With its divisions Mercedes-Benz Cars,  Daimler Trucks,  Mercedes-Benz Vans,  Daimler Buses and Daimler Financial Services,  the Daimler Group is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.  Daimler Financial Services provides financing,  leasing,  fleet management,  insurance and innovative mobility services.  The company’s founders,  Gottlieb Daimler and Carl Benz,  made history with the invention of the automobile in the year 1886.  As a pioneer of automotive engineering,  we continue to shape the future of mobility today: Our focus is on innovative and green technologies as well as on safe and superior automobiles that appeal to and fascinate our customers.  For many years now,  Daimler has been investing continually in the development of alternative drive systems with the goal of making emission-free driving possible in the long term.  So in addition to vehicles with hybrid drive,  we now have the broadest range of locally emission-free electric vehicles powered by batteries and fuel cells.  This is just one example of how we willingly accept the challenge of meeting our responsibility towards society and the environment.  Our current brand portfolio includes,  in addition to the world’s most valuable premium automotive brand,  Mercedes-Benz,  the brands smart,  Freightliner,  Western Star,  BharatBenz,  Fuso,  Setra and Thomas Built Buses. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "MGMT"
+    ], 
+    "listDate": 1446055297000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:163329", 
+    "id": 95232723, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Sindelfingen,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Automotive"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "localizedDescription": "We are one of the world’s most successful automotive companies.  With its divisions Mercedes-Benz Cars,  Daimler Trucks,  Mercedes-Benz Vans,  Daimler Buses and Daimler Financial Services,  the Daimler Group is one of the biggest producers of premium cars and the world’s biggest manufacturer of commercial vehicles with a global reach.  Daimler Financial Services provides financing,  leasing,  fleet management,  insurance and innovative mobility services. \r \rThe company’s founders,  Gottlieb Daimler and Carl Benz,  made history with the invention of the automobile in the year 1886.  As a pioneer of automotive engineering,  we continue to shape the future of mobility today: Our focus is on innovative and green technologies as well as on safe and superior automobiles that appeal to and fascinate our customers.  For many years now,  Daimler has been investing continually in the development of alternative drive systems with the goal of making emission-free driving possible in the long term.  So in addition to vehicles with hybrid drive,  we now have the broadest range of locally emission-free electric vehicles powered by batteries and fuel cells.  This is just one example of how we willingly accept the challenge of meeting our responsibility towards society and the environment. \r \rOur current brand portfolio includes,  in addition to the world’s most valuable premium automotive brand,  Mercedes-Benz,  the brands smart,  Freightliner,  Western Star,  BharatBenz,  Fuso,  Setra and Thomas Built Buses. ", 
+    "foundedYear": 1886, 
+    "canonicalName": "Daimler AG", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAARtAAAAJDI4MzA3OTRlLTU3MjktNDVmMC1hMGQ1LTA3MWU4MzM3MWNlMw. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Auto Manufacturer", 
+        "Financial Services"
+      ], 
+      "universalName": "daimler", 
+      "companyId": 163329, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/08e/3dd/17a566a. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "10001+", 
+    "formattedEmployeeCount": "10001+ employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Management"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Automotive"
+  ], 
+  "formattedPostedDaysAgo": "Posted 38 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "38d", 
+  "companyDescriptionLanguage": "de", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 28,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95232723?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. absolventa. de%2Fstellenangebote%2F176997-abschlussarbeit-ab-februar-2016-zu-data-science-data-mining-in-der-produktion%3Futm_campaign%3DLinkedin%26utm_source%3DLinkedin%26utm_medium%3Dorganic&urlHash=RA_X&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

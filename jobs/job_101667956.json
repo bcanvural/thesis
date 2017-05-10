@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "ADM", 
+      "IT", 
+      "CUST"
+    ], 
+    "companyJobCode": "LondonLocaljobs-78734782", 
+    "title": "Big Data Hadoop Specialist/Administrator - Banking -. . . ", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101667956, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "    Hadoop Specialist/Administrator,  Big Data - Banking    Hadoop Specialist isrequired to help create,  install,  manage and    maintain multiple Hadoop clusters within leading Bank.  Key focus of the    role is on infrastructure and Hadoop administration,  operations,     maintenance,  performance and capacity.     Multiple Big Data technologies are currently in use including IBM    BigInsights,  Teradata Aster and Tableau.  The strategic Hadoop platform    is based on Hortonworks operating on Red Hat Linux and expected to grow    exponentially and used for a multitude of business requirements.     Key Skills/Experience       Extensive experience with Hadoop as a Specialist/Administrator.        Strong skill set of Hadoop fundamentals,  especially on Linux        infrastructure       Experience of the Hortonworks Hadoop Framework including open        source tools eg.  Ambari,  Apache,  HPFS,  Pig,  Hive,  Oozie,  Zookeeper       Comprehensive experience with SQL queries       A proven track record of managing and maintaining Big Data estates     Responsibilities    Hadoop Administration - management of clusters to ensure fit for    purpose across multiple programmes    Management of Open Source Framework tools including Ambari and HDFS    Big Data Strategy - ensuring the platform strategy keeps up to date    with latest industry trends    Performance Management - system level tuning,  application redesign,     query optimisation and reporting    Space Management,  Optimisation,  Capacity Management and Maintenance    Current Business Use Cases Include       IT Security (Cyber Security & Fraud),        Common Reporting System,        Commercial Banking monitoring and       Digital/Online banking.      This is a fantastic opportunity to join a large,  green field programme    within a leading Bank. ", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

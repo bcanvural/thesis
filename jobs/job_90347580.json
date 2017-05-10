@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90347580", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Distinguished academic record,  Bachelor’s degree,  Strong mathematical background.  Knowledge of statistics.  2-5 years of actual Data Scientist experience.  SQL experience: should have exposure to one of MySQL,  Oracle,  Hive,  Shark,  Presto.  Programming: well versed in one of the following programming languages: Python,  R,  Ruby,  Java,  C++.  Data Visualization on the web.  Frontend,  Visualization,  JavaScript,  D3,  Dygraphs,  Google Charts.    Also Helpful (NOT Required):    Experience with NoSQL (such as MongoDB,  Hadoop. )", 
+  "following": false, 
+  "companyDescription": "About High 5 Games:  Join the leader of the fastest-growing segment of online entertainment – casino gaming.  Developing for the land-based,  online,  mobile,  and social markets,  High 5 Games has created hundreds of games that are played in 50 countries on six continents.   H5G offers a very dynamic,  multi-disciplinary,  and educational environment and endless opportunities for professional growth.    ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "High 5 Games", 
+  "canFollow": false, 
+  "companyId": "1072533", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "High 5 Games", 
+    "title": "Data Scientist"
+  }, 
+  "description": "The Analytics Team at H5G is far-reaching as they aggregate data feeds from around the globe,  and use the outputs to guide decisions across the company,  from Marketing and CRM to Game Design and Development.     As a Data Scientist you will be collaborating across the organization,  focusing on the data collection from land-based,  web-based,  social media,  and mobile platforms,  as well as the CRM practice.   Working on a wide variety of initiatives,  you will analyze massive amounts of data captured daily,  and will build reporting solutions and develop visualizations to enable decision-making.    The H5G Data Scientist will be responsible for a wide variety of technology-driven,  data-centric practices,  including: Implementation and maintenance of analytics algorithms in a production setting.  Development and implementation of analytics reporting and visualization dashboards.  Development and support of database applications.  "
+}

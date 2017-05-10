@@ -1,0 +1,28 @@
+{
+  "jobPosting": {
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "PREMIUM", 
+    "experienceLevel": "ASSOCIATE", 
+    "title": "Sr.  Data Analyst / Data Scientist", 
+    "veteranCommitted": false, 
+    "id": 87880071, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ], 
+    "functions": [
+      "IT"
+    ], 
+    "companyName": "RealNetworks"
+  }, 
+  "company": {
+    "websiteUrl": "http://www. realnetworks. com", 
+    "logo": "urn:li:media:/p/1/000/0ee/2e7/27e553c. png", 
+    "universalName": "realnetworks", 
+    "companyId": 3646
+  }, 
+  "description": "     RealNetworks is looking for an experienced Data Analyst/Scientist to    join our RealTimes team.  You will have the opportunity to directly    contribute to asking and answering interesting,  mission-critical    questions related to marketing,  promotion,  retention,  and more.  We are    looking for someone eager to dive into a sea of data,  explore its    depths,  and surface with valuable pearls!    What you will own,  manage,  and be accountable for:    • Work with executive leadership and technical teams to bridge business    and data,  including experimental design tied to overall business    objectives    • Collaborate with technical teams to design systems for data    collection,  cleaning,  analysis and presentation    • Use data collected to work hand in hand with the Marketing team to    drive messaging based on consumer behaviors    • Apply state-of-the-art techniques to extract actionable insights from    diverse data    • Effectively communicate findings,  including visualizations,     presentations,  and more    • Automate valuable analyses,  reporting,  and monitoring", 
+  "companyDescription": "      RealNetworks    [1]Following companyUnfollow company[2]Follow company     RealNetwoks (Nasdaq:RNWK) is a leader in personal digital media    solutions that make it easier for people to access,  share and enjoy    video,  audio and digital entertainment on virtually any device or    platform.  We are in the business of transformation,  changing how people    access media.  Whatever the trend,  we are right there with you.      Our newest product,  RealTimes,  brings your memories to life,  and makes    it easy to relive and share them on smartphones,  tablets,  PCs and    TVs.  Your photos and videos automatically become beautiful,  shareable    video Stories.  Relive your life on iPhone,  iPad,  Android,  Roku,  and web    browsers.  Find out more at realnetworks. com/products-services/realtimes  References     1.  file:///jobs2/view/actions/unfollowCompany/3646?csrfToken=ajax:2644187314825728846    2.  file:///jobs2/view/actions/followCompany/3646?csrfToken=ajax:2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

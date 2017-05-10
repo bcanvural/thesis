@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/68312562", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Windward is a maritime data and analytics company,  bringing unprecedented visibility to the maritime domain.   Windward has built the world's first maritime data platform,  the Windward Mind,  which analyzes and organizes the world's maritime data.  The Windward Mind makes the data accessible and actionable across verticals,  from flagging criminal threats at sea to identifying new market trading opportunities.  Windward’s data and insights are in wide use by Intelligence,  Security and Law Enforcement Agencies worldwide.  Windward is now bringing the same unique data and insights to the world of Finance,  giving traders,  investors and analysts access to a gold mine of untapped market opportunities. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Windward. ", 
+  "canFollow": false, 
+  "companyId": "2680190", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Windward. ", 
+    "title": "Big Data - Senior Java BackEnd Engineer"
+  }, 
+  "description": "As a Senior BackEnd Engineer at Windward you will be using cutting-edge technologies,  such as Apache Spark and Cassandra,  to build a scalable distributed architecture for handling maritime big data.  You will be part of a small,  tight-knit,  dynamic,  hands-on team that takes pride in its exceptional coding standards and development practices.  As part of our team,  you’ll be dealing with massive amounts of data from different sources and using machine learning algorithms to identify behavioral patterns in the data.  Each member of our team is a development athlete/all-around-player.  You should be able to build a product end-to-end from design to coding,  testing and deployment.    Requirements: 3-5 years’ experience in server side development (Java / Scala / C# ) Experience with NoSQL data stores like Apache Cassandra,  MongoDB,  and Redis Good understanding of web applications (JSON,  REST API) Experience with EC2,  S3,  Machine Learning - advantage Experience with big data programming,  preferably using Apache Spark - advantage Strong communications and problem-solving skills A passion for quality and bringing value to our users Intelligent and self-motivated"
+}

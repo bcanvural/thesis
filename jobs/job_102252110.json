@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Client Server", 
+    "functions": [
+      "FIN", 
+      "IT"
+    ], 
+    "companyJobCode": "clientserver-data-analyst-sql-postgresql-finance-data-1", 
+    "title": "Data Analyst SQL PostgreSQL - Finance Data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102252110, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. client-server. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAYeAAAAJDUwODcxYzM5LTFlOGMtNDEyZC05YTc5LWNkMWU5NTczOTJhYw. png", 
+    "universalName": "client-server", 
+    "companyId": 99339
+  }, 
+  "description": "    2327    London,  £50000 - £65000 per annum + bonus + benefits    Job Type: Permanent    Managed by: Application Support Team    Data Analyst / Data Engineer (SQL PostgreSQL Python).  Opportunity to    join a massively profitable global algorithmic trading firm,  working in    fantastic riverside offices with superb views of the City and gain    finance experience.     As a skilled Data Analyst you will take ownership of data analysis    activities,  working closely with end users (both internal and external    clients) to translate requirements into valuable reports and data    visualisations,  writing complex SQL scripts,  views and stored    procedures in PostgreSQL.  You'll work with logical and physical    database models,  developing innovative tools and reporting solutions.     Informal,  collaborative and flexible environment with a casual dress    code and fairly flat structure.     Requirements       Strong SQL skills,  ideally including PostgreSQL       Degree educated       Excellent analytical skills with meticulous attention to detail       Strong communication and interpersonal skills       Desirable: Python scripting,  knowledge of financial trading     As a Data Analyst / Data Engineer (SQL,  PostgreSQL) you will earn a    competitive salary (to £65k),  plus bonus and benefits package including    pension scheme,  private health care,  subsidised gym membership,  life    insurance and catered lunch daily.     Send your CV or call today for more information on this Data Analyst /    Data Engineer opportunity.     REF: BB/8037/B/KS/021215", 
+  "companyDescription": "      Client Server    Client Server Ltd is a leading IT recruitment consultancy specialising    in positions in London and the South East.     Our focus is finding exceptional candidates for exceptional    organisations including established technology leaders,  innovative    technology start-ups,  hedge funds,  banks and consultancies.  Offering a    personal and flexible approach,  coupled with a high degree of    professionalism and integrity ensures the provision of an effective    recruitment solution to both our client companies and candidates. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

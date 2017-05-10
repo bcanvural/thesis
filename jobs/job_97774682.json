@@ -1,0 +1,634 @@
+{
+  "jobPosting": {
+    "companyJobCode": "best_empregos-63395", 
+    "expirationDate": 1452037206000, 
+    "title": "Data Scientist (m/f) – Lisboa", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2896, 
+          "type": "BR", 
+          "endIdx": 2896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2896, 
+          "type": "BR", 
+          "endIdx": 2896, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2722, 
+          "type": "BR", 
+          "endIdx": 2722, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2715, 
+          "type": "BR", 
+          "endIdx": 2715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2715, 
+          "type": "BR", 
+          "endIdx": 2715, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2709, 
+          "type": "BR", 
+          "endIdx": 2709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2698, 
+          "type": "BR", 
+          "endIdx": 2698, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2698, 
+          "type": "BR", 
+          "endIdx": 2698, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2686, 
+          "type": "BR", 
+          "endIdx": 2686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2675, 
+          "type": "BR", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2675, 
+          "type": "BR", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2674, 
+          "type": "BR", 
+          "endIdx": 2674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2674, 
+          "type": "BR", 
+          "endIdx": 2674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2673, 
+          "type": "BR", 
+          "endIdx": 2673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2611, 
+          "type": "LI", 
+          "endIdx": 2673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2510, 
+          "type": "LI", 
+          "endIdx": 2610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2510, 
+          "type": "BG", 
+          "endIdx": 2673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2499, 
+          "type": "BR", 
+          "endIdx": 2499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2499, 
+          "type": "BR", 
+          "endIdx": 2499, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2360, 
+          "type": "BR", 
+          "endIdx": 2360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2360, 
+          "type": "BR", 
+          "endIdx": 2360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2359, 
+          "type": "BR", 
+          "endIdx": 2359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2359, 
+          "type": "BR", 
+          "endIdx": 2359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2335, 
+          "type": "BR", 
+          "endIdx": 2335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2335, 
+          "type": "BR", 
+          "endIdx": 2335, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2289, 
+          "type": "BR", 
+          "endIdx": 2289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2289, 
+          "type": "BR", 
+          "endIdx": 2289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2227, 
+          "type": "BR", 
+          "endIdx": 2227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2227, 
+          "type": "BR", 
+          "endIdx": 2227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2173, 
+          "type": "BR", 
+          "endIdx": 2173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2173, 
+          "type": "BR", 
+          "endIdx": 2173, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2147, 
+          "type": "BR", 
+          "endIdx": 2147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2147, 
+          "type": "BR", 
+          "endIdx": 2147, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2015, 
+          "type": "BR", 
+          "endIdx": 2015, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2015, 
+          "type": "BR", 
+          "endIdx": 2015, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1939, 
+          "type": "BR", 
+          "endIdx": 1939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1939, 
+          "type": "BR", 
+          "endIdx": 1939, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1914, 
+          "type": "BR", 
+          "endIdx": 1914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1914, 
+          "type": "BR", 
+          "endIdx": 1914, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1879, 
+          "type": "BR", 
+          "endIdx": 1879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1879, 
+          "type": "BR", 
+          "endIdx": 1879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1806, 
+          "type": "BR", 
+          "endIdx": 1806, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1690, 
+          "type": "BR", 
+          "endIdx": 1690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1690, 
+          "type": "BR", 
+          "endIdx": 1690, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1589, 
+          "type": "BR", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1589, 
+          "type": "BR", 
+          "endIdx": 1589, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1561, 
+          "type": "BR", 
+          "endIdx": 1561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1490, 
+          "type": "BR", 
+          "endIdx": 1490, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1403, 
+          "type": "BR", 
+          "endIdx": 1403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1403, 
+          "type": "BR", 
+          "endIdx": 1403, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1362, 
+          "type": "BR", 
+          "endIdx": 1362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1362, 
+          "type": "BR", 
+          "endIdx": 1362, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1319, 
+          "type": "BR", 
+          "endIdx": 1319, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1319, 
+          "type": "BR", 
+          "endIdx": 1319, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1312, 
+          "type": "U", 
+          "endIdx": 1319, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1312, 
+          "type": "B", 
+          "endIdx": 1319, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1312, 
+          "type": "BR", 
+          "endIdx": 1312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1312, 
+          "type": "BR", 
+          "endIdx": 1312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1311, 
+          "type": "BR", 
+          "endIdx": 1311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1311, 
+          "type": "BR", 
+          "endIdx": 1311, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1275, 
+          "type": "BR", 
+          "endIdx": 1275, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1275, 
+          "type": "BR", 
+          "endIdx": 1275, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "BR", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1274, 
+          "type": "BR", 
+          "endIdx": 1274, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "BR", 
+          "endIdx": 1236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1236, 
+          "type": "BR", 
+          "endIdx": 1236, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1189, 
+          "type": "BR", 
+          "endIdx": 1189, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1189, 
+          "type": "BR", 
+          "endIdx": 1189, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 989, 
+          "type": "BR", 
+          "endIdx": 989, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 989, 
+          "type": "BR", 
+          "endIdx": 989, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 940, 
+          "type": "BR", 
+          "endIdx": 940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 940, 
+          "type": "BR", 
+          "endIdx": 940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "BR", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 867, 
+          "type": "BR", 
+          "endIdx": 867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "BR", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 773, 
+          "type": "BR", 
+          "endIdx": 773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 773, 
+          "type": "BR", 
+          "endIdx": 773, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 577, 
+          "type": "BR", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 577, 
+          "type": "BR", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 95, 
+          "type": "BR", 
+          "endIdx": 95, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 86, 
+          "type": "BR", 
+          "endIdx": 86, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 75, 
+          "type": "BR", 
+          "endIdx": 75, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 55, 
+          "type": "BR", 
+          "endIdx": 55, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 52, 
+          "type": "BR", 
+          "endIdx": 52, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Data Scientist (m/f) – Lisboa Referência853Sector de ActividadeInformáticaDescriçãoReditus is an international Business Consulting,  Information Technology and Outsourcing services company,  whose mission is to provide the best services and solutions to various sectors of activity.  With a path of success with more than 45 years,  Reditus is one of the oldest and largest information technology Portuguese companies.  Currently we have more than 2, 500 professionals and we have offices in Portugal,  France,  Sweden,  Angola,  Morocco,  Equatorial Guinea,  Brazil and Macau. Regarding our partnership with a prestigious company,  we are currently looking for professionals able to work in a small R&amp;D team and be responsible to tackle complex fraud detection problems. Requisitos da Função• Work within Cars and Real Estate classifieds team on product development• Providing in-depth insights regarding product,  features and performance• Ensuring all necessary data needed for analysis• Turn data into insights,  capable of independently translating ambiguous product problems into specific analysis and capable of translating the resulting data back into a solution to the product need• Working on A/B testing,  traffic analysis etc. • Formulating conclusions and recommen Degree in IT,  Mathematics or similar Profile• Relevant experience in a similar function• Passion for solving analytical problems• Relevant experience and technical expertise working with relational databases and SQL• Knowledge of A/B testing and traffic tools like e. g.  Google Analytics• MS Excel high level skills• Degree or equivalent experience in Econometrics,  Statistics,  Computer Science/Management or similar• Expertise in data mining,  data analysis,  reporting engine building,  business intelligence tools and open platforms• Knowledge of different methods and algorithms available for data mining• UX experience would be beneficial• Excellent English level• Good level of critical and logical thinking,  creativity and business focus• Proven ability to work in a fast-paced environment and to meet changing deadlines and priorities on multiple simultaneous projects• Strong analytical skills• General interest in web browsing and online business• Good team player,  however also be able to work independently• Used to working in international environment• Entrepreneur mentality You will join this client's Global Development Team (Lisbon based),   integrate international projects and work in lean,  agile environments. Oferecemos Integration in a dynamic and innovative company where progression depends on individual performance; Continuous training and participation in interesting projects.   CandidaturaSubmeta o CVLocalizaçãoLisboa‹voltarjQuery(function() {   jQuery(\"#edit-submitted-opcoes-de-candidatura-oportunidades\"). val(1557);  }); div#webform-component-opcoes-de-candidatura--oportunidades{display: none;}"
+    }, 
+    "postalCode": "1449-013", 
+    "jobState": "LISTED", 
+    "companyName": "Reditus", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Founded in 1966,  Reditus has extensive experience in the various sectors in which it operates and employs more than 2. 500 professionals.  In 2012 developed a turnover of more than 128 million euros,  a third of which comes from its international activity. This is the result of the development of a strategy guided by a business growth policy supported by three main pillars:Growth of operational profitability and sustainability;Internationalisation;Development of integrated products and services. Its offer covers the entire value chain in a matrix approach,  combining intervention by sector of activity,  with an implementation capacity in several areas,  from consultancy to Business Process Outsourcing. Quality has been the strategic focus of Reditus.  We have had NP EN ISO 9001 standard certified companies in the Group since 2008,  and are continuing the certification process which is expected to be concluded during the forthcoming year. Reditus is currently one of the largest players in the Portuguese Information Technologies area,  involved in the main sectors of activity and with a strong national and international presence. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446975033000, 
+    "countryCode": "pt", 
+    "company": "urn:li:company:269317", 
+    "id": 97774682, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Lisbon,  PT", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1966, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/036/358/00259e2. png"
+    }, 
+    "localizedDescription": "Founded in 1966,  Reditus has extensive experience in the various sectors in which it operates and employs more than 2. 500 professionals.  In 2012 developed a turnover of more than 128 million euros,  a third of which comes from its international activity. \r\rThis is the result of the development of a strategy guided by a business growth policy supported by three main pillars:\r\rGrowth of operational profitability and sustainability;\rInternationalisation;\rDevelopment of integrated products and services. \rIts offer covers the entire value chain in a matrix approach,  combining intervention by sector of activity,  with an implementation capacity in several areas,  from consultancy to Business Process Outsourcing. \r\rQuality has been the strategic focus of Reditus.  We have had NP EN ISO 9001 standard certified companies in the Group since 2008,  and are continuing the certification process which is expected to be concluded during the forthcoming year. \r\rReditus is currently one of the largest players in the Portuguese Information Technologies area,  involved in the main sectors of activity and with a strong national and international presence. ", 
+    "company": {
+      "specialities": [
+        "Microsoft", 
+        "SAP", 
+        "Oracle", 
+        "Java", 
+        "Outsystems", 
+        "Qlikview"
+      ], 
+      "universalName": "reditus-consulting-s-a-", 
+      "companyId": 269317, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/046/3ad/2bd8b92. png"
+      }
+    }, 
+    "canonicalName": "REDITUS,  SA", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 27 days ago", 
+  "formattedPostedDaysAgoSlim": "27 days ago", 
+  "formattedPostedDaysAgoShort": "27d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 8,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/97774682?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. best-empregos. com%2Fdisplay-job%2F63395%2FData-Scientist-%28m-f%29-%25E2%2580%2593-Lisboa. html%3FsearchId%3D1449313245. 7343%26page%3D72&urlHash=B8Qe&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

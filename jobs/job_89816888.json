@@ -1,0 +1,216 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nisha-24292", 
+    "expirationDate": 1451865238000, 
+    "title": "Chief Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 984, 
+          "type": "BR", 
+          "endIdx": 984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 984, 
+          "type": "BR", 
+          "endIdx": 984, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 955, 
+          "type": "BR", 
+          "endIdx": 955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 906, 
+          "type": "BR", 
+          "endIdx": 906, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "BR", 
+          "endIdx": 841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 695, 
+          "type": "BR", 
+          "endIdx": 695, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 566, 
+          "type": "BR", 
+          "endIdx": 566, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 522, 
+          "type": "BR", 
+          "endIdx": 522, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 451, 
+          "type": "BR", 
+          "endIdx": 451, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 364, 
+          "type": "BR", 
+          "endIdx": 364, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 326, 
+          "type": "BR", 
+          "endIdx": 326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "U", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "B", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "BR", 
+          "endIdx": 223, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 223, 
+          "type": "BR", 
+          "endIdx": 223, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "תיאור המשרהלחברה המספקת פתרונות חכמים לאנרגיה.  הפתרונות מאפשרים אנרגיה כדי לנתח את הכמות המסיבית של נתונים משנה לשעה שנאספים ממיליוני מונים חכמים,  במטרה למקסם את השליטה והיעילות של פעולות אנרגיה דרוש/ה: Chief Data Scientistדרישות המשרהMSc in Computer Science from a known academic institute,  specializing in Machine Learning.  PhD in Computer Science – an advantage5+ years of both research and hands-on experience in predictive modeling and large data5+ years of experience using common ML tools  (such as Weka/R/SAS/SPSS)1+ years of programming experience in PythonSpecific knowledge in the following areas of Machine Learning methods: time series,  optimization,  ensemble methods – an advantageAbility to prototype statistical analysis and modeling algorithms and apply these algorithms for data driven solutions to problems in new domains. Strong records of successes at delivering strong business resultsStrong communication and data presentation skillsStrong problem solving abilit"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Nisha Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. With its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443838317000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:69902", 
+    "id": 89816888, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Jerusalem,  IL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "51-200 employees", 
+    "hasPaidLcp": false, 
+    "foundedYear": 1995, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAALFAAAAJGY5NTQxM2NkLTgyNmItNGE2Ny1iNTI1LWM2YzY2ZGNmNTFiYw. png"
+    }, 
+    "localizedDescription": "Nisha Group,  specialized in recruiting quality executive and professional candidates in the Hi-Tech,  Bio-Med,  Cleantech and the Finance Industries.  Since 1995,  Nisha Group has gained the experience,  expertise,  and reputation in quality recruitment serving Israeli Hi Tech and Bio-Med companies and Capital markets. \r\rWith its 105 professional recruiters,  2 branches in Israel and 60 recruiting partners all over the world,  Nisha Group is the recruiting leader in the Computer,  Hi-Tech,  Life Science and Finance areas.  Nisha Group has 7 departments; Executive,  Hi-Tech,  Bio-Tech,  Finance,  Capital Market,  Clean Tech and Global. ", 
+    "company": {
+      "specialities": [
+        "Hi-Tech", 
+        "Bio-Med", 
+        "Clean-Tech", 
+        "Executive", 
+        "Capital Market", 
+        "Global", 
+        "Relocation", 
+        "Finance"
+      ], 
+      "universalName": "nisha-group", 
+      "companyId": 69902, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAALRAAAAJDI4MDhlMDRhLTAyYzAtNGVhMy05MjRjLTYwZDczYmU3NTk3OQ. png"
+      }
+    }, 
+    "canonicalName": "Nisha Group", 
+    "formattedIndustries": [
+      "Human Resources"
+    ], 
+    "formattedCompanySize": "51-200"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Director", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedPostedDaysAgo": "Posted 63 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "63d", 
+  "companyDescriptionLanguage": "he", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 3,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/89816888?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nisha. co. il%2Fjob%2F24292%2FChief-Data-Scientist&urlHash=Yav8&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "he", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,397 @@
+{
+  "jobPosting": {
+    "companyJobCode": "peopleclick-14303", 
+    "expirationDate": 1451861548000, 
+    "title": "Principal Consultant – Data Science - Business Intelligence & Analytics Practice", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3181, 
+          "type": "BR", 
+          "endIdx": 3181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3181, 
+          "type": "BR", 
+          "endIdx": 3181, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3174, 
+          "type": "BR", 
+          "endIdx": 3174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3174, 
+          "type": "BR", 
+          "endIdx": 3174, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3020, 
+          "type": "BR", 
+          "endIdx": 3020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3020, 
+          "type": "BR", 
+          "endIdx": 3020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2862, 
+          "type": "BR", 
+          "endIdx": 2862, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2862, 
+          "type": "BR", 
+          "endIdx": 2862, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2694, 
+          "type": "BR", 
+          "endIdx": 2694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2644, 
+          "type": "BR", 
+          "endIdx": 2644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2597, 
+          "type": "BR", 
+          "endIdx": 2597, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2514, 
+          "type": "BR", 
+          "endIdx": 2514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2324, 
+          "type": "BR", 
+          "endIdx": 2324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2242, 
+          "type": "BR", 
+          "endIdx": 2242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2160, 
+          "type": "BR", 
+          "endIdx": 2160, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2018, 
+          "type": "BR", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2018, 
+          "type": "BR", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1969, 
+          "type": "U", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1969, 
+          "type": "B", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1969, 
+          "type": "BR", 
+          "endIdx": 1969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1969, 
+          "type": "BR", 
+          "endIdx": 1969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1949, 
+          "type": "B", 
+          "endIdx": 1969, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1839, 
+          "type": "BR", 
+          "endIdx": 1839, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1654, 
+          "type": "BR", 
+          "endIdx": 1654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1524, 
+          "type": "BR", 
+          "endIdx": 1524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1289, 
+          "type": "BR", 
+          "endIdx": 1289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1289, 
+          "type": "BR", 
+          "endIdx": 1289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1267, 
+          "type": "BR", 
+          "endIdx": 1267, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1242, 
+          "type": "BR", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1225, 
+          "type": "BR", 
+          "endIdx": 1225, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1206, 
+          "type": "BR", 
+          "endIdx": 1206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1187, 
+          "type": "BR", 
+          "endIdx": 1187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1153, 
+          "type": "BR", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1153, 
+          "type": "BR", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "U", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "B", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "BR", 
+          "endIdx": 1114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1114, 
+          "type": "BR", 
+          "endIdx": 1114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 847, 
+          "type": "BR", 
+          "endIdx": 847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 847, 
+          "type": "BR", 
+          "endIdx": 847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 641, 
+          "type": "BR", 
+          "endIdx": 641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 406, 
+          "type": "BR", 
+          "endIdx": 406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 406, 
+          "type": "BR", 
+          "endIdx": 406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 230, 
+          "type": "BR", 
+          "endIdx": 230, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 230, 
+          "type": "BR", 
+          "endIdx": 230, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "BR", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "   Job Description  PA’s Analytics practice has a strong record of working with C-level leaders in major organisations,  supporting them in making strategic and operational decisions about their most critical challenges. Together,  PA and BAR launched the Technical Innovation Group (TIG) to bring together the best of British industry to contribute to this unique technical and sporting challenge. Nissan came to us to develop a planning and sequencing model to optimise daily production at its Sunderland car plant using a bespoke algorithm - helping the plant retain the planning agility that makes it the most efficient in Europe. And we were appointed by the UK Government to provide robust analysis of competing bids for £2. 2 billion worth of technology contracts to deliver the infrastructure for the UK’s smart metering initiative.   We blend business insights with core data science,  such as ‘big data’ analysis and machine learning to address the most challenging problems our clients face.  This ranges from understanding the effect of world events to forecasting the impact of £billion investments. Our Analytics Service Offerings Include• Marketing and Customer analytics• Digital analytics• Pricing analytics• Audit Analytics• Counter Fraud analytics• Revenue optimisationAs part of our ambitious growth plans for our business,  we are looking for exceptional senior candidates with modelling and data analysis experience gained within a leading company or major consultancy.  Our areas of interest include:  • Prediction of future outcomes by leveraging machine learning techniques to discover data patterns and user behaviour in big data• Evaluation of scenarios through statistical data modelling,  optimisation tools and techniques like Bayesian modelling ,  regression-based methods,   random forests,  decision trees,  etc. • Use of a combination of R,  Python,  JavaScript,  C,  Java and SQL to solve problems and discover new solutions   Job Requirements  You'll Hit The Ground Running With Us If You Have• A degree,  Masters or PhD from a leading University in a quantitative discipline such as computer science,  statistics,  physics or mathematics• 5 years+ experience in a modelling/data analytics role in consulting or industry• Experience of leading data science,  data discovery and machine learning projects• Exceptional analytical skills,  highly proficient in Python and R.  and comfortable handling and analysing large data sets.  Knowledge of statistical techniques is desirable but not essential• Familiarity with a variety of machine learning techniques and statistical methods• Strong DB skills with SQL and NoSQL databases• Exposure to Hadoop,  Map/Reduce,  Pig,  Scala,  Hive• Experience in conducting analysis for evidence-based decision making,  developing models and decision support tools or building business cases for investment decisionsWe're looking for Consultants with excellent communication skills and the ability to convey complex information to both technical and non-technical audiences. Your high levels of creativity and drive and your genuine affinity for problem solving will serve you well in our innovative and fast-paced environment.   #LI-JH1"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "PA Consulting Group", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An employee-owned firm of over 2, 500 people,  we operate globally from offices across the Americas,  Europe,  the Nordics,  the Gulf and Asia Pacific. We are experts in energy and utilities,  financial services,  health,  life sciences,  consumer and manufacturing,  government,  defence and security,  transport and logistics. Our deep industry knowledge together with skills in management consulting,  technology and innovation allows us to challenge conventional thinking and deliver exceptional results that have a lasting impact on businesses,  governments and communities worldwide. So wherever the challenge is,  we have a team nearby. Our clients choose us because we don’t just believe in making a difference.  We believe in making the difference. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "CNSL"
+    ], 
+    "listDate": 1447765995000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:2547", 
+    "id": 99280193, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImageLink": "https://media. licdn. com/media/p/3/005/0b6/3bd/00b462f. png", 
+    "localizedDescription": "An employee-owned firm of over 2, 500 people,  we operate globally from offices across the Americas,  Europe,  the Nordics,  the Gulf and Asia Pacific. \r\rWe are experts in energy and utilities,  financial services,  health,  life sciences,  consumer and manufacturing,  government,  defence and security,  transport and logistics. \r\rOur deep industry knowledge together with skills in management consulting,  technology and innovation allows us to challenge conventional thinking and deliver exceptional results that have a lasting impact on businesses,  governments and communities worldwide. \r\rSo wherever the challenge is,  we have a team nearby. \r\rOur clients choose us because we don’t just believe in making a difference.  We believe in making the difference. ", 
+    "formattedIndustries": [
+      "Management Consulting"
+    ], 
+    "canonicalName": "PA Consulting Group", 
+    "careersImage": "urn:li:media:/p/3/005/0b6/3bd/00b462f. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAIGAAAAJDI5YjAzMWNjLTc2MTMtNDdiMi04MjEyLTVjNTMyMTJjNzcyZg. png"
+    }, 
+    "company": {
+      "universalName": "pa-consulting-group", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAI7AAAAJGJkOTc1MTM3LWZlMTMtNGVlZC1hNzExLTlkYWFhYjQ2YWQ3Mg. png"
+      }, 
+      "companyId": 2547
+    }, 
+    "hasPaidLcp": true
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Consulting"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Management Consulting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99280193?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. peopleclick. com%2Fcareerscp%2Fclient_paconsulting%2Fexternal%2Fgateway. do%3FjobPostId%3D14303%26functionName%3DviewFromLink%26localeCode%3Den-US%26source%3DLinked%2BIn&urlHash=V8M2&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

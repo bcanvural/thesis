@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87800938", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "A degree in Computer Science,  Engineering,  Mathematics / Statistics or related fields Team player while also being able to work independently  Self-motivated and independent learner who enjoys sharing knowledge with team members Detail-oriented and efficient time manager who is able to thrive in a dynamic and fast-paced working environment Relevant experience of abuse space with hands-on knowledge of combining strong analytical and statistical knowledge to combat fraud Prior experience on fraud prevention on tech products will be highly advantageous Proficient in RDBMS such as PostgresQL or MySQL; and statistical programming in languages like R,  Matlab,  Python,  Java,  or SAS Strong understanding of predictive modeling algorithms such as logistic regression,  neural networks,  decision trees and heuristic models,  with familiarity dealing with trade-offs between model performance and business needs", 
+  "following": false, 
+  "companyDescription": "GrabTaxi is revolutionising the Southeast Asian transport industry.  Our smartphone-based app transform lives by creating safe and reliable rides,  and improving incomes.  GrabTaxi is now the largest and fastest growing taxi booking mobile app in the region,  having expanded into 26 cities across 6 countries - Malaysia,  Singapore,  The Philippines,  Vietnam,  Thailand and Indonesia – since its launch in 2012.    We believe GrabTaxi is uniquely positioned to capture these market opportunities as we are using leading-edge technology to develop more cost-effective and functional solutions that revolutionize the transport industry and improve the lives of millions of passengers and drivers across the Southeast Asia. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "GrabTaxi", 
+  "canFollow": false, 
+  "companyId": "5382086", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "GrabTaxi", 
+    "title": "Data Scientist (Anti Fraud & Abuse)"
+  }, 
+  "description": "Develop a deep behavioral understanding and intuition of our passengers and drivers,  constantly staying ahead of them in finding ways they might violate our policies and game our systems for personal gain  Translate these intuitions into actionable,  creative insights that produce heuristic or ML models to identify and take action against fraudsters and abusers Test and validate these insights via rapid experimentation and deployment Effectively communicate analysis and insights to stakeholders,  and work effectively with tech and product teams to translate validated insights into deployable products Manage and own the entire end to end lifecycle of designing models,  working with Engineering for implementation,  to maintenance and enforcement"
+}

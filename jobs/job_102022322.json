@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Job G8", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "companyJobCode": "LondonLocaljobs-80469892", 
+    "title": "Data Science Lead", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102022322, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "companyId": 10329349, 
+    "websiteUrl": "www. jobg8. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAWgAAAAJDI2MzI1ZTMwLTQ5ZWEtNGUzYS1hODM3LWU0NGJmOTU1OTBkYw. png", 
+    "universalName": "job-g8"
+  }, 
+  "description": "    Data Science Lead    Machine Learning/R    London    To 125k + benefits    Exceptional opportunity for a Lead data scientist to join a brand new    \"Data Science Practice which is part of an established BI/Big Data    Consultancy.     The successful Data Scientist will be using cutting edge machine    learning and artificial intelligence algorithms.  The Data Scientist    will be working with this leading award winning start up to help solve    a real world problem,  at the same time as working with the latest    technologies and predictive analytics.     Responsibilities    Create complex statistical models and machine learning algorithms    Handle large datasets and identify key patterns as the lead Data    Scientist in this team    Work alongside a Python based engineering team to build highly    distributed systems    Requirements    MSc or PhD in Machine Learning,  Computer Science or Artificial    Intelligence    Expertise in data driven algorithms    Programming experience with R and Python,  in a Data Scientist role    You will be working alongside the Head of Data Science and be tasked    with developing the practice capability,  shaping \" go to market    proposition\" client engagement and client management    Ideally you will have previous client side consulting experience    London based,  client travel required. ", 
+  "companyDescription": "      Job G8    Founded in 2008,  Jobg8 has deep roots within the Job Board industry.     The founder of Jobg8,  Robbie Cowling,  started one of the first and most    successful job sites in Europe in 1995 and understands the problems    facing Job Board owners today.  Jobg8 was created to address these    challenges.  The senior management team at Jobg8 has over 40 years of    combined Job Board experience on multiple continents and believes    passionately about the value of the platform that they have created.     Jobg8 Understands Job Boards    The Jobg8 marketplace is a unique service within the Job Board industry    and addresses three key challenges facing Job Board operators today:    Job Boards operate in a fragmented market of over 50, 000 job boards    from various countries.  This makes it difficult for advertisers to know    where to post Jobs and for Job Seekers to know where to look for    relevant positions.     Driving Traffic to your Job Board can be expensive and includes no    guarantee that the added Traffic will yield the qualified applicants    that your advertisers demand.     Although many Job Boards can deliver clicks and \"job views\",  what is    truly required is delivering qualified applicants to your advertisers.     Your advertisers would rather review a smaller list of qualified CVs,     than a large number of unqualified applications. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,182 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobsacuk-AML657", 
+    "expirationDate": 1451047537000, 
+    "title": "Data Scientist in Predictive Financial Services (KTP Associate)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2026, 
+          "type": "B", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2026, 
+          "type": "BR", 
+          "endIdx": 2026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2026, 
+          "type": "BR", 
+          "endIdx": 2026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "B", 
+          "endIdx": 2022, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2007, 
+          "type": "BR", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1985, 
+          "type": "B", 
+          "endIdx": 2007, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1920, 
+          "type": "BR", 
+          "endIdx": 1920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1920, 
+          "type": "BR", 
+          "endIdx": 1920, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1470, 
+          "type": "BR", 
+          "endIdx": 1470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1470, 
+          "type": "BR", 
+          "endIdx": 1470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 923, 
+          "type": "BR", 
+          "endIdx": 923, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 923, 
+          "type": "BR", 
+          "endIdx": 923, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 42, 
+          "type": "BR", 
+          "endIdx": 42, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 42, 
+          "type": "BR", 
+          "endIdx": 42, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 33, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Permanent or length of contract: 24 MonthsThis is an exciting opportunity for an ambitious Computer Science,  Statistics or related graduate to fast-track their career development as a Knowledge Transfer Partnership (KTP) Associate.  This post is a dynamic role looking to develop a capability for applying cost-sensitive data mining methods for optimizing online car finance brokerage,  leading to the best deals for customers.  The post holder will have some prior experience of statistical and data mining methods,  together with experience of data mining toolkits such as WEKA or R.  The key challenge of this project will be to utilise technology to streamline and automate processes whilst improving critical conversion rates during customer journeys.  In addition,  working in a commercial company in close contact with other staff,  the Associate will gain experience of being a key player within the growth of the business. The successful candidate will undertake a 24 month collaborative project between CarFinace247 Ltd and the University of Salford (School of Computing,  Science &amp; Engineering).  Based in Ancoats,  Central Manchester,  you will be supported by the staff from the company and an academic team from the University of Salford whilst undertaking scientific research work.  The post holder from their involvement in this programme will also gain a deeper understanding of commercial project management,  finance,  business relations and marketing strategies. The successful candidate will receive extensive practical and formal training,  gain highly desirable specialist business skills,  broaden knowledge and expertise within an industrially relevant project,  and gain valuable experience from their commercial and academic mentors.  The KTP Associate will benefit from a Personal Development Budget of £4, 000 and will have the opportunity to register free of charge for a postgraduate research qualification. For more information and to apply for this vacancy please visit: www. jobs. salford. ac. ukInterview date: TBCAt the University of Salford we are committed to an inclusive approach to promoting equality and diversity. "
+    }, 
+    "postalCode": "M6", 
+    "jobState": "LISTED", 
+    "companyName": "University of Salford", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "The University of Salford has a rich history stretching back to 1896.  See our main LinkedIn University page on https://www. linkedin. com/edu/school?id=12674The future looks bright.  In 2011 we have joined five major BBC departments,  including Sport and Children's,  at MediaCityUK only a short distance from the University campus.  We'll have 100, 000 square feet of space filled with state-of-the-art technology right next to the BBC buildings.  All parts of the University will be involved in working with the BBC and other tenants to create job opportunities for graduates,  and benefit business and the local community83% of our research was judged of international class by the Government's latest Research Assessment Exercise.  What's more,  12% was judged to be world-leading – at the very cutting edge.  Not only does Salford's research directly benefit people's everyday lives,  but it also means that our teaching and business partnerships benefit as well"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "FIN"
+    ], 
+    "listDate": 1447951381000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:11549", 
+    "id": 99881697, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Salford,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Finance"
+  ], 
+  "formattedExperience": "Associate", 
+  "formattedIndustries": [
+    "Higher Education"
+  ], 
+  "formattedEmploymentStatus": "Contract", 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Higher Education"
+    ], 
+    "formattedCompanyType": "Educational", 
+    "localizedDescription": "The University of Salford has a rich history stretching back to 1896.  See our main LinkedIn University page on https://www. linkedin. com/edu/school?id=12674\r\rThe future looks bright.  In 2011 we have joined five major BBC departments,  including Sport and Children's,  at MediaCityUK only a short distance from the University campus.  We'll have 100, 000 square feet of space filled with state-of-the-art technology right next to the BBC buildings.  All parts of the University will be involved in working with the BBC and other tenants to create job opportunities for graduates,  and benefit business and the local community\r\r83% of our research was judged of international class by the Government's latest Research Assessment Exercise.  What's more,  12% was judged to be world-leading – at the very cutting edge.  Not only does Salford's research directly benefit people's everyday lives,  but it also means that our teaching and business partnerships benefit as well", 
+    "foundedYear": 1967, 
+    "canonicalName": "University of Salford", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/0f3/3c3/3646844. png"
+    }, 
+    "company": {
+      "specialities": [
+        "School of Arts & Media", 
+        "Salford Business School"
+      ], 
+      "universalName": "university-of-salford", 
+      "companyId": 11549, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/0a5/234/118fd7f. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "1001-5000", 
+    "formattedEmployeeCount": "1001-5000 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "16d", 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 25,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99881697?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobs. ac. uk%2Fjob%2FAML657%2Fdata-scientist-in-predictive-financial-services-ktp-associate%2F&urlHash=SSxH&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

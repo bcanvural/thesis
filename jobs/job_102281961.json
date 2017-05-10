@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Ambition Asia", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "ambition-1247141844", 
+    "title": "Senior Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102281961, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. ambition. com. sg", 
+    "logo": "urn:li:media:/p/8/005/080/2e7/00ebd99. png", 
+    "universalName": "ambition-asia", 
+    "companyId": 3842697
+  }, 
+  "description": "        Attractive salary and benefit       Great work-life balance       Interesting and Challenging project     Our client,  a well-founded,  well-know and fast expanding Singapore    local start-up working on real-time system and big data platform,  is    looking for an Senior Data Scientist to join their SG office.     Currently they are dealing with data at TB scale on the daily basis and    with 95% requests dealt within 2ms.  They are doing Java,  Clojure,  Rust,     AWS,  NoSQL,  Elastic Search for back-end; R,  Python,  Hadoop ecosystem    for data analysis.  Their culture is extremely flexible and fun loving.     You are allowed to come and leave office whenever you want as long as    you clear the work.  In addition,  they offer the most annual leaves    among all start-ups in Singapore.  Hence you could find a fantastic    work-life balance.  Their employee turn-over rate is very low,  which is    a good reflection of their great culture and environment.     To be successful in this role you need below skills and experiences.        Very solid knowledge on CS fundamentals,  like algorithms,  data        structures and distributed system.  (Interview will be mainly on CS        fundamentals. )       Very strong experience on Python,  R or SAS       Very strong experience on relational data base and Hadoop        eco-system.        Experience with authentic \"big data\" (at least 10GB per day) is a        must.        Experience with real-time/low latency system is a big plus.        PhD degree is a big plus.      This is a great opportunity to join an technical advanced and    financially strong start-up company,  they offer:       Attractive salary and benefits       Great work-life balance       Great technology challenges     Contact Wilson Jiang at or APPLY NOW by clicking the button below    quoting reference number AS000345481.     Business Registration Number: 200611680D.  Licence Number: 10C5117.  EA    Personnel Registration Number: R1543950.     LI-IT", 
+  "companyDescription": "      Ambition Asia    Ambition Group is a global boutique recruitment firm with offices in    Asia,  UK and Australia.  We are known for specialisation with in-depth    knowledge and expertise,  well-established networks and deep    relationships.  We have the scale to undertake significant projects for    our clients yet deliver personal customer experience with the soul and    personality of a smaller company.     We specialise in permanent and contract recruitment across the    following areas:    - Banking & Financial Services    - Finance & Accounting    - IT & Technology    - Sales & Marketing    - Supply Chain & Procurement    If you would like to find out more about roles that we recruit for in    Asia,  please visit us at the following websites:    Japan www. ambitiongroup. co. jp    Malaysia www. ambition. com. my    Hong Kong www. ambition. com. hk    Singapore www. ambition. com. sg    If you would like to join us,  visit us at www. buildingbetterfutures. com    or our Ambition Asia Facebook page to find out more!", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

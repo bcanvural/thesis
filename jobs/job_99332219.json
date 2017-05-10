@@ -1,0 +1,242 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-003a11ae-203f-4eca-b3d3-c9d108b85b59", 
+    "expirationDate": 1451907601000, 
+    "title": "FG-26 Big Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1950, 
+          "type": "LI", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1807, 
+          "type": "LI", 
+          "endIdx": 1948, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1555, 
+          "type": "LI", 
+          "endIdx": 1805, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1409, 
+          "type": "LI", 
+          "endIdx": 1553, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1268, 
+          "type": "LI", 
+          "endIdx": 1407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1180, 
+          "type": "LI", 
+          "endIdx": 1266, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 943, 
+          "type": "LI", 
+          "endIdx": 1178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 880, 
+          "type": "LI", 
+          "endIdx": 941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 793, 
+          "type": "LI", 
+          "endIdx": 878, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 720, 
+          "type": "LI", 
+          "endIdx": 791, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 620, 
+          "type": "LI", 
+          "endIdx": 718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 531, 
+          "type": "LI", 
+          "endIdx": 618, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "LI", 
+          "endIdx": 529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 317, 
+          "type": "LI", 
+          "endIdx": 427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 222, 
+          "type": "LI", 
+          "endIdx": 315, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "LI", 
+          "endIdx": 220, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 124, 
+          "type": "BG", 
+          "endIdx": 2018, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "U", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "B", 
+          "endIdx": 122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 109, 
+          "type": "BR", 
+          "endIdx": 109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 109, 
+          "type": "BR", 
+          "endIdx": 109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 79, 
+          "type": "B", 
+          "endIdx": 109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 78, 
+          "type": "BR", 
+          "endIdx": 78, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 23, 
+          "type": "B", 
+          "endIdx": 78, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 22, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "FG-26 Big Data Analyst Duration: 6 moths contract (will extend up to 3 years)  Location: Greenville SC 29607  Job Summary     Expert knowledge of Hadoop environments (administration,  workload management,  backup/restore).   Expert knowledge of in one or more of the following programming languages: Python,  Java,  C++.   Expert knowledge in conducting statistical analytics (statistical modeling,  clustering,  predictive analytics).   Expert knowledge in one or more business intelligence and data discovery systems: QlikView,  Tableau.   Advanced knowledge and experience in Computer Science,  Machine Learning and Algorithms.   Advanced knowledge in database technologies: SQL,  Oracle,  SQLServer,  SAP HANA and NoSQL databases.   Advanced experience in statistical languages and tools in particular R.   Advanced experience in Big Data Infrastructures: Hadoop and ecosystem (Hive,  HBase).    Analyzes business critical data and recommends improvements.    Works with large data sets from both within and external to Client (e. g.  plant data,  social media data,  warranty data) and conducts advanced analytical tasks,  such data conversions,  ETL,  filtering,  fusion,  aggregations and data mining.   Manages medium to large-scale enterprise-wide projects in the area of smart analytics.   Serves as a primary point of contact for other engineers and specialists in the team providing expert knowledge and troubleshooting skills.   Serves as internal consultant to other developers and engineers as needed,  providing assistance in all phases of product life-cycle development.   Advises developers and engineers on latest data analytics technologies and assists the team in process matters as related to development/support and provides the necessary on the job training and development of associates/contractors within the team.   Maintains accurate,  meaningful and updated technical and non-technical documentation pertaining  to all aspects of area(s) of responsibility.   Performs other duties as assigned by client MC Operations Supervisor"
+    }, 
+    "postalCode": "29607", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447777863000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 99332219, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Greenville,  SC,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "canonicalName": "Spectraforce Technologies", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedPostedDaysAgoShort": "18d", 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99332219?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3D003a11ae-203f-4eca-b3d3-c9d108b85b59%26OrgId%3D1%26UserId%3D1&urlHash=Vd4z&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

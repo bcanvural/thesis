@@ -1,0 +1,344 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobstairs-607707", 
+    "expirationDate": 1451756600000, 
+    "title": "Data Scientist (m/w)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2180, 
+          "type": "BR", 
+          "endIdx": 2180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2180, 
+          "type": "BR", 
+          "endIdx": 2180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "BR", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "BR", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "BR", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1933, 
+          "type": "LI", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1873, 
+          "type": "LI", 
+          "endIdx": 1932, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1819, 
+          "type": "LI", 
+          "endIdx": 1872, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1739, 
+          "type": "LI", 
+          "endIdx": 1818, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1738, 
+          "type": "BG", 
+          "endIdx": 1987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1738, 
+          "type": "BR", 
+          "endIdx": 1738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1724, 
+          "type": "B", 
+          "endIdx": 1738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1724, 
+          "type": "BR", 
+          "endIdx": 1724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1724, 
+          "type": "BR", 
+          "endIdx": 1724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1652, 
+          "type": "LI", 
+          "endIdx": 1724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1582, 
+          "type": "LI", 
+          "endIdx": 1651, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1515, 
+          "type": "LI", 
+          "endIdx": 1581, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1441, 
+          "type": "LI", 
+          "endIdx": 1514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1384, 
+          "type": "LI", 
+          "endIdx": 1440, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "LI", 
+          "endIdx": 1383, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1325, 
+          "type": "BG", 
+          "endIdx": 1724, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1325, 
+          "type": "BR", 
+          "endIdx": 1325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1303, 
+          "type": "B", 
+          "endIdx": 1325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1303, 
+          "type": "BR", 
+          "endIdx": 1303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1303, 
+          "type": "BR", 
+          "endIdx": 1303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1194, 
+          "type": "LI", 
+          "endIdx": 1303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1061, 
+          "type": "LI", 
+          "endIdx": 1193, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 859, 
+          "type": "LI", 
+          "endIdx": 1060, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 858, 
+          "type": "BG", 
+          "endIdx": 1303, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 858, 
+          "type": "BR", 
+          "endIdx": 858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "B", 
+          "endIdx": 858, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "BR", 
+          "endIdx": 835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 835, 
+          "type": "BR", 
+          "endIdx": 835, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 424, 
+          "type": "BR", 
+          "endIdx": 424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 424, 
+          "type": "BR", 
+          "endIdx": 424, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 404, 
+          "type": "BR", 
+          "endIdx": 404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 404, 
+          "type": "BR", 
+          "endIdx": 404, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 333, 
+          "type": "BR", 
+          "endIdx": 333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 333, 
+          "type": "BR", 
+          "endIdx": 333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 231, 
+          "type": "BR", 
+          "endIdx": 231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 231, 
+          "type": "BR", 
+          "endIdx": 231, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Kreative Freiheit,  flache Hierarchien,  innovative Themen und Projekte: In der G+J Digital Products GmbH denken wir digitale Produkte für Gruner + Jahr neu - ob Apps,  digitale Magazine oder Websites für mobile Endgeräte. Gemeinsam mit Redaktionen wie BEEF!,  Neon,  Gala,  GEO und dem STERN gestalten wir die digitale Zukunft. Am Standort Hamburg sucht die G+J Digital Products GmbH ab sofort einenData Scientist (m/w)Unser Team entwickelt eine Daten-getriebene Mobile Marketing Plattform,  die neue Maßstäbe im Markt setzen wird.  Wir sind als Startup zu 100% Teil von Gruner + Jahr,  einem der größten Verlagshäuser in Europa.  Für dich geht der Spaß erst los,  wenn Datensätze so richtig komplex werden? In deinem Kopf schwirrt es vor Algorithmen? Du hast immer eine Idee mehr,  was Daten dir sagen können? Dann bewirb dich bei uns. Das Sind Deine Aufgaben Du bist ein Data-Scientist: Du etablierst skalierbare,  effiziente und automatisierte Prozesse,  um unseren Pool an Nutzer-Daten zu analysieren,  Modelle zu entwickeln,  zu validieren und zu implementieren Du kannst denken wie eine Maschine: Du nutzt Techniken des Machine Learnings,  um wertvolle Insights über unsere Nutzer zu generieren Du siehst die Welt voraus: Konzeptioniere,  entwickle und bewerte innovative Modelle für \"Predictive Learning\"Und Das Bringst Du Mit Ein Muss: Du hast Spaß in der Analyse großer Datenmengen  Erfahrung mit Data Engines wie Spark oder Hadoop,  Mahout Tiefes analytisches Verständnis von Prediction und Clustering Algorithmen Programmier-Kenntnisse  (R,  Scala,  Python oder Java sind ein Muss) Erfahrungen mit Datenbanken MySQL,  Redis,  ElasticSearch und Hive,  Pig Ein Plus: Erfahrung mit Amazon Cloud Hosting oder Googles Cloud PlatformWas Wir Bieten Arbeite in einem der coolsten Stadtteile auf der Welt,  der \"Hamburger Schanze\"  Hochmotiviertes Team mit starkem digitalen Background Kostenlose Getränke ( Kaffee,  Cola,  .  was du gerne hättest) Flexible Arbeitszeiten &amp; wettbewerbsfähiges GehaltHaben wir dein Interesse geweckt?  Dann schicke deine Bewerbung inkl.  frühestem Eintrittstermin und Gehaltsvorstellung an:  Szelinsky. Carlo@guj. deBewerber mit Berufserfahrung           Vollzeit"
+    }, 
+    "postalCode": "22085", 
+    "jobState": "LISTED", 
+    "companyName": "G+J Media", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "G+J Media is een snelgroeiende uitgeverij van succesvolle mediamerken zoals National Geographic Magazine,  Quest,  Glamour,  JAN en Vogue.  We maken publiekstijdschriften,  digitale content en customer media. \"G+J is een jonge en dynamische uitgeverij van prachtige mediamerken.  Dat voel je zodra je bij ons de lift uitstapt en over de redacties wandelt.  Maar vooral wanneer je onze producten leest,  doorbladert of -klikt.  Creativiteit en kwaliteit staan voorop in onze missie om hoogwaardige journalistieke inhoud te maken voor alle platforms.  Zeker in dit digitale tijdperk.  Meer dan honderd gedreven professionals zijn hier hard bezig om de interesses van onze lezers,  gebruikers en klanten te verzadigen.  Voor mij is het elke dag weer een groot plezier en een enorm voorrecht om met deze geweldige groep mensen te mogen samenwerken. \" Eric Blok,  CEO. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447781743000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:816202", 
+    "id": 99351144, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Hamburg,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99351144?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. jobstairs. de%2Fstellenangebot%2Fbertelsmann%2F607707. html&urlHash=2zYc&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Publishing"
+  ], 
+  "formattedPostedDaysAgo": "Posted 18 days ago", 
+  "formattedPostedDaysAgoSlim": "18 days ago", 
+  "formattedPostedDaysAgoShort": "18d", 
+  "companyDescriptionLanguage": "de", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanySize": "51-200", 
+    "foundedYear": 2000, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/000/295/0af/098d584. png"
+    }, 
+    "localizedDescription": "G+J Media is een snelgroeiende uitgeverij van succesvolle mediamerken zoals National Geographic Magazine,  Quest,  Glamour,  JAN en Vogue.  We maken publiekstijdschriften,  digitale content en customer media. \r\r\"G+J is een jonge en dynamische uitgeverij van prachtige mediamerken.  Dat voel je zodra je bij ons de lift uitstapt en over de redacties wandelt.  Maar vooral wanneer je onze producten leest,  doorbladert of -klikt.  Creativiteit en kwaliteit staan voorop in onze missie om hoogwaardige journalistieke inhoud te maken voor alle platforms.  Zeker in dit digitale tijdperk.  Meer dan honderd gedreven professionals zijn hier hard bezig om de interesses van onze lezers,  gebruikers en klanten te verzadigen.  Voor mij is het elke dag weer een groot plezier en een enorm voorrecht om met deze geweldige groep mensen te mogen samenwerken. \" Eric Blok,  CEO. ", 
+    "company": {
+      "universalName": "g-j-uitgevers", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/1/005/060/006/3113cb5. png"
+      }, 
+      "companyId": 816202
+    }, 
+    "canonicalName": "G+J Media", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Publishing"
+    ]
+  }, 
+  "formattedListDate": "November 17,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "hasDecoratedCompany": true
+}

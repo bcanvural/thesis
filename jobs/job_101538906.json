@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "Bertelsmann", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "bertelsmannjobs-256877", 
+    "title": "Data Analyst x 2", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101538906, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      126
+    ]
+  }, 
+  "company": {
+    "companyId": 4348, 
+    "websiteUrl": "http://www. bertelsmann. com", 
+    "logo": "urn:li:media:/p/3/000/0d7/3fe/2434123. png", 
+    "universalName": "bertelsmann"
+  }, 
+  "description": "     Your challenge:At Penguin Random House,  we think that what we do really    matters.  It’s an exciting time for publishing; our business is evolving    and we are getting closer to our consumers than we have ever been able    to before.  We aspire to deliver the best quality content to them that    we can – ensuring they receive it how and when they want – and to make    it as engaging as possible for them.  With the explosion of data and the    fast-changing dynamics within the publishing industry,  pricing and    quantitative analysis are more vital to our business than ever,  and we    have two fantastic opportunities to be part of this; • Pricing Analyst    (permanent role) - this is a high profile role within the Commercial    team,  where you'll be working on insights from complex pricing data and    providing recommendations for the company strategy.  You’ll also    undertake analysis of pricing experiments to understand pricing    elasticity,  customers and channels pricing behaviour,  and promotions    results.  With your help,  we’re looking to understand the global    dimensions of digital pricing,  being able to lead and influence pricing    reviews based on data/analysis from other markets and share best    practices with our overseas companies.  You’ll also work with Consumer    Insight to gain a better understanding of other variable that could    affect pricing.  • Data & Insight Analyst (fixed term contract to end of    June 2016) – an integral role leading on key areas of our strategy for    analytics and insight.  You will lead the development of sophisticated    analytical capability,  establishing new techniques at the forefront of    how we are using data to make analytics more efficient.  In developing    your understanding of the business,  you will advise on how we can best    exploit data to benefit teams right across Penguin Random House.  Using    techniques such as clustering,  classification and attribution modelling    you will drive forward our use of data to support our relationship with    consumers and how we become even better at understanding our audiences.     The success of these will be underpinned by your deep understanding of    data & analytical approaches and your ability to innovate and    experiment.  Your profile:We’re looking for someone who’s passionate    about reaching quantitative conclusions,  working with big sets of data    and confident presenting their findings.  Ideally you will have a    related degree,  proven previous professional experience in business    analysis (or comparable analytics position) and able to manipulate and    find insights/trends from big sets of data.  Experience using business    systems as Business Objects and Tableau would be preferable,  as would    experience with SQL and R and working with dissimilar data sources and    turning them into a unified solution.  We love what we do so a passion    for books and reading would be an advantage!", 
+  "companyDescription": "      Bertelsmann    Bertelsmann is a media,  services and education company that operates in    about 50 countries around the world.  It includes the broadcaster RTL    Group,  the trade book publisher Penguin Random House,  the magazine    publisher Gruner + Jahr,  the service providers Arvato and Be Printers,     the music company BMG and the Bertelsmann Education Group.  The company    has more than 112, 000 employees and generated revenues of €16. 7 billion    in financial year 2014.  Bertelsmann stands for creativity and    entrepreneurship.  This combination promotes the creation of first-class    media content and innovative service solutions that inspire customers    around the world. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

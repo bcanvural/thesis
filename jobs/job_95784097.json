@@ -1,0 +1,313 @@
+{
+  "jobPosting": {
+    "companyJobCode": "aswift-10125", 
+    "expirationDate": 1451772784000, 
+    "title": "Senior Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1293, 
+          "type": "BR", 
+          "endIdx": 1293, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1293, 
+          "type": "BR", 
+          "endIdx": 1293, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "BR", 
+          "endIdx": 1292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1292, 
+          "type": "BR", 
+          "endIdx": 1292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1272, 
+          "type": "BR", 
+          "endIdx": 1272, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "B", 
+          "endIdx": 1271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1158, 
+          "type": "BR", 
+          "endIdx": 1158, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1027, 
+          "type": "BR", 
+          "endIdx": 1027, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 941, 
+          "type": "BR", 
+          "endIdx": 941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 811, 
+          "type": "BR", 
+          "endIdx": 811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 811, 
+          "type": "BR", 
+          "endIdx": 811, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 692, 
+          "type": "LI", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 692, 
+          "type": "BG", 
+          "endIdx": 738, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "LI", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "BG", 
+          "endIdx": 628, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 570, 
+          "type": "B", 
+          "endIdx": 598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 570, 
+          "type": "BR", 
+          "endIdx": 570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 570, 
+          "type": "BR", 
+          "endIdx": 570, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 445, 
+          "type": "LI", 
+          "endIdx": 475, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 445, 
+          "type": "BG", 
+          "endIdx": 475, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 377, 
+          "type": "LI", 
+          "endIdx": 412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 377, 
+          "type": "BG", 
+          "endIdx": 412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 267, 
+          "type": "LI", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 267, 
+          "type": "BG", 
+          "endIdx": 322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 267, 
+          "type": "BR", 
+          "endIdx": 267, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 234, 
+          "type": "B", 
+          "endIdx": 267, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 234, 
+          "type": "BR", 
+          "endIdx": 234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 234, 
+          "type": "BR", 
+          "endIdx": 234, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "BR", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 33, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Senior Data ScientistThe successful candidate will work alongside the entire team to establish technologies and processes to help answer key questions across the business to improve decision making and product performance. Desirable Skills &amp; ExperienceMaths or related background to degree or similar level\r - Data / Analytics / Business-Intelligence Experience Programming / Scripting Experience\r - Strong Data Processing Skills Data Visualization Experience\r - Experience with relevant tools and technologies (Hadoop,  Hive,  MapReduce,  SQL,  NoSQL,  Excel)Advantageous skills include: A genuine interest in sports\r - An interest in video games,  particularly on mobile platforms Experience with F2P Games and associated KPIs\r - Familiarity with mobile user acquisition &amp; monetisation techniquesExperience is obviously hugely beneficial,  but the team are just as keen to see candidates who can demonstrate talent and passion. They’re a small team,  and this is an opportunity to be an important part of that team. This is a new role within the studio so the opportunity is there to build processes and technologies from a relatively clean slate. If you are interested in this excellent opportunity contact Mitch Simpson at mitchell@aswift. com or 01709 834777.  Back to results &gt; "
+    }, 
+    "postalCode": "OX1", 
+    "jobState": "LISTED", 
+    "companyName": "Aardvark Swift", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We match the best people with the best clients,  from small start-up studios making their first venture into games development,  through to the international leaders of the games industry. Over 25 years we have evolved to become the market leading recruitment consultancy not only for Video Games,  Online and Mobile Entertainment,  but also our specialised division dedicated to the Toys and Licensing industry. Our Recruiters hunt down the hard to find talent that studios need to get their games built.  We do have an extensive candidate database of tens of thousands of games professionals – but we’re a Search Agency.  Most of our placements now involve meticulously scouring the market for excellent passive job seekers that the job boards,  adverts and internal recruiters just can’t deliver. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446248487000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:79354", 
+    "id": 95784097, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Oxford,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Computer Games"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "We match the best people with the best clients,  from small start-up studios making their first venture into games development,  through to the international leaders of the games industry. \r\rOver 25 years we have evolved to become the market leading recruitment consultancy not only for Video Games,  Online and Mobile Entertainment,  but also our specialised division dedicated to the Toys and Licensing industry. \r\rOur Recruiters hunt down the hard to find talent that studios need to get their games built.  We do have an extensive candidate database of tens of thousands of games professionals – but we’re a Search Agency.  Most of our placements now involve meticulously scouring the market for excellent passive job seekers that the job boards,  adverts and internal recruiters just can’t deliver. ", 
+    "foundedYear": 1989, 
+    "canonicalName": "Aardvark Swift - Games,  Digital,  Toys & Licensing Recruitment", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAJZAAAAJDljODk0NWFiLWQ3NjAtNGJhMi1hN2ViLWY2NGJiY2FkODRkNg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "Video Games", 
+        "Mobile Games", 
+        "Toy Industry", 
+        "Online Games", 
+        "Social Games", 
+        "Search and Selection", 
+        "Retained Search", 
+        "Headhunting", 
+        "Contract Recruitment", 
+        "Permanent Recruitment", 
+        "Freelancers", 
+        "Sales & Marketing", 
+        "Talent Management", 
+        "Social Recruiting"
+      ], 
+      "universalName": "aardvark-swift", 
+      "companyId": 79354, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/7/005/062/219/218730e. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Computer Games"
+  ], 
+  "formattedPostedDaysAgo": "Posted 36 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "36d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 30,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95784097?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. aswift. com%2Fhtml%2Fjobs%2Findex. jsp%3FvacancyId%3D10125&urlHash=HQAf&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Bayer HealthCare", 
+    "functions": [
+      "RSCH", 
+      "ENG"
+    ], 
+    "companyJobCode": "jobstairs-611423", 
+    "title": "Data Scientist for LifeScience Big Data Advanced Analytics R&D (m/f)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101457373, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      15
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://healthcare. bayer. com/scripts/pages/en/imprint. php", 
+    "logo": "urn:li:media:/p/6/005/088/245/1f4c761. png", 
+    "universalName": "bayer-healthcare", 
+    "companyId": 1894
+  }, 
+  "description": "     Bayer is a global enterprise with core competencies in the Life Science    fields of health care and agriculture.  Its products and services are    designed to benefit people and improve their quality of life.  Bayer    HealthCare combines the global activities of the Animal Health,     Consumer Care,  Medical Care and Pharmaceuticals divisions.  Its aim is    to discover,  develop,  manufacture and market products that will improve    human and animal health worldwide.  At Bayer you have the opportunity to    be part of a culture where we value the passion of our employees to    innovate and give them the power to change.     Computational Life Science Key responsibility to drive concept    development and implementation of novel analytical capabilities to R&D    functions to further strengthen Bayer’s computational life science    capabilities       Establish IT capabilities to strengthen bioinformatics and data        science       Design concepts to support cross-functional R&D information        gathering,  analysis,  visualization and interpretation       Interact with scientists to derive and implement user-centric IT        projects       Drive further extension of next generation sequencing and genomics        capabilities       Strengthen capabilities in usage of clinical and electronic health        data Business intelligence,  modelling and analytics IT consulting       Consulting and governance with regard to the design of enterprise        IT analytics landscape for preclinical and clinical Research and        Development       Responsibility to contribute to and further refine the vision for        enterprise business intelligence IT in BHC R&D       Business capability analysis and user requirements analysis to        propose tailored concepts for IT analytics challenges in R&D       Leading the development of analytics and application architectures       Drive holistic data integration for Bayer Healthcare R&D       Consulting regarding the identification,  evaluation and        implementation of IT tools for R&D that fit to the defined        architecture framework       Identification,  evaluation,  selection and implementation of        innovative IT solutions       Leadership of project teams with internal and external staff       Driving the development and management of project plans        PhD,  advanced university degree or business equivalent,  preferably        in natural sciences,  informatics or business from a top tier        university       Outstanding analytical,  problem solving and conceptual skillset       Excellent oral and written communication and interpersonal skills       Experience in international and large project management       Long-term experience of business information systems deployment       Proven track record of professional experience in several of the        following areas of expertise - cloud computing and HPC - data        warehousing - solution architecture design and programming - data        model and business capability analysis,  strategy and definition -        insight generation from unstructured data,  e. g.  text mining and        machine learning - public health data,  electronic health records        and clinical trial analytics - predictive analytics - hypothesis        validation by statistical analysis - knowledge about drug discovery        and drug development processes in the healthcare industry - next        generation sequencing - creating IT frameworks in NGS,  genomics,         bioinformatics,  digital health and related disciplines of        data-driven R&D - data- and knowledge management,  especially in        data annotation,  as well as in use of ontologies or controlled        vocabulary       High level of IT acumen and understanding complex architectures,         landscapes and applications       Having a logical approach to the solution of problems and good        conceptual ability and skills in analysis       Being self reliant and capable of both independent work and as        member of a team       Business fluent in English,  both verbal and written     For this Computational Life Science position we offer a competitive    salary in an international environment as well as excellent    opportunities for professional and personal development.  If your    background and personal experience fits this profile,  please send us    your complete application at www. career. bayer. de,  submitting a cover    letter,  your CV and references as well as your salary expectation. ", 
+  "companyDescription": "      Bayer HealthCare    Bayer HealthCare is one of the world’s leading,  innovative companies in    the healthcare and medical products industry and is based in    Leverkusen,  Germany.  We combine the global activities of the Animal    Health,  Consumer Care,  Medical Care and Pharmaceuticals divisions.     Our aim is to discover,  develop,  manufacture and market products that    will improve human and animal health worldwide.  We have a global    workforce of 60, 700 employees and we are represented in more than 100    countries. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

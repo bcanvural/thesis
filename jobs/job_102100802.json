@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "interAct Consulting", 
+    "functions": [
+      "OTHR", 
+      "IT", 
+      "CUST"
+    ], 
+    "companyJobCode": "interactconsulting-v2195", 
+    "title": "Data Specialist / Data Analyst / Data Processing (SQL Server)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102100802, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. interactconsulting. co. uk", 
+    "logo": "urn:li:media:/p/3/000/0a9/009/2b87db4. png", 
+    "universalName": "interact-consulting", 
+    "companyId": 445565
+  }, 
+  "description": "      A SQL Server Database Specialist is urgently required by my expanding    client based in bright,  modern offices in Stevenage.  This position has    arisen within an expanding IT Department who are growing year on year.      This is a fantastic opportunity for a SQL Server Database Specialist is    advance and develop their career within a growing exciting team.  The    successful candidate will form part of a Data Analysis team,  working    and taking responsibility for the conversion,  upload,  testing and    maintenance of multi-million record databases which cover a wide    variety of business and consumer data.     The SQL Server Database Specialist will hold a thorough knowledge of    Microsoft SQL Server (2000-2008) including sound knowledge of writing    T-SQL (Transact SQL),  DTS/SSIS importing packages,  stored procedures,     Functions,  Triggers,  Indexes and ideally hold a relevant Microsoft    certification or be working towards one.  It is beneficial to have SQL    Sever 2012 experience.      Ideally you will hold at least 2 years relevant experience in a similar    position and have a track record in Data Analysis and processing as    this role would suit someone who is data focussed as opposed to a    developer.      Please apply now for more information", 
+  "companyDescription": "      interAct Consulting    We are an established Business,  IT and Commercial recruitment    consultancy with activities focussing on Contract/Temporary,  Permanent,     Search & Selection and Assignment advertising services.  We pride    ourselves on providing a high standard of service to candidates and    clients alike whilst maintaining an ethical,  no-nonsense approach.     We service business needs from local to international levels,  forging    successful client relationships throughout the UK,  Europe,  Africa and    the Far East.  We provide tailored solutions,  with projects ranging from    the provision of individuals through to fully managed teams of contract    specialists.     We have been providing a business aligned recruitment service primarily    in the Financial Services,  Medical,  Software and Communications    industries since our inception in 1995 and by a process of natural    evolution we have become specialists in the provision of contract and    permanent project management,  business analysis and IT expertise across    an even wider range of blue chip companies.  During this time we have    composed a framework of proficiency not only within the UK but also    within Europe and extensively throughout the rest of the world and we    are consequently able to draw from a comprehensive database and network    of contacts within the industry.  In a world where cost justification is    ever more key we have continued to build a successful track record at    the most competitive rates without sacrifice on quality.     Our experienced consultants are renowned for their open and honest    approach as well as for their all-round professionalism.  Their in-depth    knowledge of your business sector plus the ability to promptly identify    and present suitably qualified candidates is arguably unrivalled.     Whether your specific recruitment needs are contract,  permanent,     assignment or search,  we are confident that we offer the expertise to    resolve them. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

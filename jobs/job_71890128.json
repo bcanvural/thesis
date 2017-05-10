@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/71890128", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "McKinsey &amp; Company is a global management consulting firm.  We are the trusted advisor to the world's leading businesses,  governments,  and institutions. We work with leading organizations across the private,  public and social sectors.  Our scale,  scope,  and knowledge allow us to address problems that no one else can.  We have deep functional and industry expertise as well as breadth of geographical reach.  We are passionate about taking on immense challenges that matter to our clients and,  often,  to the world. We work with our clients as we do with our colleagues.  We build their capabilities and leadership skills at every level and every opportunity.  We do this to help build internal support,  get to real issues,  and reach practical recommendations.  We bring out the capabilities of clients to fully participate in the process and lead the ongoing work. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "McKinsey & Company", 
+  "canFollow": false, 
+  "companyId": "1371", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "McKinsey & Company", 
+    "title": "Data Scientist"
+  }, 
+  "description": "Overview We are looking for Data Scientists for the Advanced Analytics (focus on Machine Learning) Team.  Detailed DescriptionThe Data Scientist will be focused on the development of Advanced Analytics models to optimize underlying business problems.  Desired SkillsUndergratuade background: Mathematician or (Computer) Engineer a must.  Statistical knowledge will be valued Technical knowledge: Proficient in programming and data treatmentProgramming (focus on Machine Learning): R and SAS (must),  SPSS,  Python,  Ruby,  Hadoop (valued)Data treatment/Data mining: SQL (must),  AWK,  Access,  Excel (valued) Professional Experience:Between 1-4 years of professional experience in programming (private sector or Universities).  Experience in programming applied to business problems will be valued Languages:Spanish and English (Advance).  Other languages including Portuguese,  German,  French and Italian will be valued"
+}

@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": null, 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87896594", 
+  "descriptionLanguage": "en", 
+  "description": "The CompanyMergermarket Group is an independent business news and intelligence service.  Unlike any other service of its kind,  Mergermarket specialises in providing forward-looking origination and deal flow opportunities integrated with a comprehensive deals database – resulting in real revenues for clients. We’re a global company and we’re growing fast,  so we’re continually looking to hire talented people with a drive to achieve new goals and advance their careers. Our culture encourages our people to push boundaries and explore their full potential.  We seek people who thrive in a challenging and entrepreneurial environment,  and embrace diversity.  And we’re looking for people whose innovative ideas will take Mergermarket Group to even greater success.  If this sounds like you,  we’d really like to hear from you. The Position: The Group’s Analytics Team has a requirement for a Big Data Engineer as it expands to meet the growing demands of the business at what is an exciting time for the company. What you’ll doYou’ll work in an AGILE environment developing and delivering solutions to internal business teams for the enhancement and maintenance of our suite of internal and external analytical tools. Working with stakeholders and BA’s as a specialist for the analytics estate,  to ensure the teams follow correct discipline and ensure standards are kept high within the Analytics Team. Assist in trialling and learning new Analytical tools including statistical modelling,  aggregation and visualisationLooking in to ways for us to expose and migrate away from Legacy data platforms. Derive data driven analysis via statistical,  quantitative,  machine learning,  programmatic and heuristic methods.  Work closely with the Business Intelligence Developers and Development teams to keep the team informed of changes and help the team when problems and requests are urgent. Prototype and present results to development teams and the wider businessYou’ll have Experiece with one or more data platforms(HDFS,  Spark,  Redshift)Excellent scripting skills with one or more (Python,  Java,  Scala,  R)Experience working with SQL Server or Relational architectureExposure to QlikView/QlikSense and other data visualisation and aggregation tools including (QuickSight,  Tableau,  Power BI,  D3)Excellent communication,  both written and verbalDesirable Skills:      Agile methodologyVersion Control GithubNoSQL technologies (MongoDB,  Neo4J,  Elastic Search)Amazon ServicesDegree EducatedCompetencies : Adaptable and flexible team playerGood interpersonal skills,  both written and verbalAttention to detail and ability to produce results quickly,  accurately,  and independentlyAnalytical and problem solving skills The Mergermarket Group is fully committed to a policy of non-discrimination and to promoting equality of opportunity in employment on grounds of merit,  experience,  skills and aptitude in order to maximise the full potential of both existing and prospective employees. ", 
+  "jobPosting": {
+    "title": "Big Data Engineer", 
+    "companyName": "Mergermarket Group"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "11721", 
+  "canFollow": false, 
+  "companyName": "Mergermarket Group", 
+  "bottom": "true"
+}

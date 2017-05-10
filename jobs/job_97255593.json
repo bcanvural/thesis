@@ -1,0 +1,84 @@
+{
+  "jobPosting": {
+    "companyJobCode": "europa_eu-10000-1134991257-S", 
+    "expirationDate": 1451916653000, 
+    "title": "Big Data System Administrator Arbeitsort: Berlin", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "We are looking for a Big Data System Administrator (m/f) in our great office in Berlin Your opportunity. .  As System Administrator at the Data Innovation Center,  while being based in Berlin,  you will be part of our Global Big Data &amp; Analytics team where you will be providing technical support around emerging Big Data technologies,  dedicated for Business Intelligence.  The team will develop complex analytical solutions that fuse disparate data sources together to transform data into actionable information,  and the System Administrator will contribute to the maintenance and development of the AWS infrastructure for large-scale IT projects.  . . at OLX OLX is one of the largest e-commerce sites worldwide.  OLX is designed to enable people to connect through buying and selling goods and services quickly,  easily and for free.  We try to create a richer world by bringing people together for win-win exchanges.  Sellers win.  Buyers win.  Communities win.  Earth wins.  OLX wins.  And most of all,  you win.  Being part of something special.  In an open culture that encourages own initiatives,  growth and entrepreneurial spirit.  Sharing the same values.  At OLX we have a clear ambition - to create a richer world.  We empower people to make the difference and we&amp;iquest;re always looking for great people to help us do just that.  Why OLX? &amp;iquest; We believe in creating a richer world by empowering people &amp;iquest; Every day millions of people across the globe use OLX to buy and sell goods &amp;iquest; We serve over 240 million unique users every month &amp;iquest; We generate traffic of over 11 billion monthly page views in more than 40 countries What responsibilities will you get when working with us? &amp;iquest; Ensuring sustainable availability,  performance,  and scalability of the infrastructure across multiple continents and regions &amp;iquest; Managing and monitoring server infrastructure and user base &amp;iquest; Addressing security concerns &amp;iquest; Managing large scale software rollouts and configuration of the software stack &amp;iquest; Supporting development with test and staging environments,  automated testing environments,  and virtualization,  and helping to solve performance problems &amp;iquest; Helping in building infrastructure for several development teams around the world (CI servers,  code quality measurement systems,  monitoring, . . ) &amp;iquest; Supporting and maintaining databases for a variety of applications &amp;iquest; Producing and maintaining documentation on installations,  incidents,  and changes to systems What will you need to be successful in this role? &amp;iquest; Bachelor degree in Computer Science or Engineering,  or an equivalent professional education in a technical discipline &amp;iquest; Relevant work experience in the software engineering field,  in particular system administration &amp;iquest; Well versed in handling the administration of virtualized,  private cloud platforms; in-hand working experience with AWS and Redshift,  as well as Amazon features such as Puppet,  YAML,  infrastructure automation,  a big plus &amp;iquest; Experienced with setup and configuration/management of: Apache,  MySQL,  and no-SQL databases,  and big data framework (Hadoop,  Cassandra),  a plus &amp;iquest; Good knowledge of low-level networking tools to analyze and debug network connections &amp;iquest; Comfortable working with scripting languages &amp;iquest; Ability to write system documentation &amp;iquest; Cooperative,  collaborative,  open and flexible mindset with critical thinking,  happy to work in English within a very international environment.  What can you expect from us and what do we offer? &amp;iquest; Contributing to the global Naspers Classifieds success &amp;iquest; International career and travel opportunities &amp;iquest; Work with an international team of top engineers learning from one another &amp;iquest; A budget for conference and education &amp;iquest; Competitive salary and great benefits &amp;iquest; Home Office possibilities &amp;iquest; Company Mobile phone for both business and private use &amp;iquest; Any tool you m"
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "OLX", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "At OLX we have a clear ambition – to empower millions of people across the globe by helping them connect and share their goods and services. This inspiring purpose has helped us build one of the world’s leading online classifieds companies,  serving over 240 million unique users every month and generating over 11 billion monthly page views in more than 40 countries. Our 1, 000+ committed employees are making a difference from our 20+ offices across the globe. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1446846551000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:167557", 
+    "id": 97255593, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/97255593?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fec. europa. eu%2Feures%2Feures-searchengine%2Fpage%2Fmain%3Flang%3Den%23%2FfullscreenJvView%3FuuId%3D9ddecf0fba214a32895821da5fdac66f%26jvId%3D10000-1134991257-S%26pesId%3D48&urlHash=zvIV&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 29 days ago", 
+  "formattedPostedDaysAgoSlim": "29 days ago", 
+  "formattedPostedDaysAgoShort": "29d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "OLX", 
+    "company": {
+      "specialities": [
+        "Online Classifieds"
+      ], 
+      "universalName": "olx", 
+      "companyId": 167557, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAWRAAAAJGJlYjUwY2ZlLTVhNTMtNDE2Zi05ZDI5LTQ2MTA2Y2Q2NmE4OQ. png"
+      }
+    }, 
+    "foundedYear": 2006, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAUHAAAAJDNkMjBmODFkLWM3MjEtNDA4Yi1iODFkLTMyNThjYmQyYzBlMg. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAWmAAAAJGJhMWY1YTE2LTQwYWEtNDQ2Ni1hOTlkLWFkM2ZmMTkyYTNkNw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAUHAAAAJDNkMjBmODFkLWM3MjEtNDA4Yi1iODFkLTMyNThjYmQyYzBlMg. png", 
+    "localizedDescription": "At OLX we have a clear ambition – to empower millions of people across the globe by helping them connect and share their goods and services. \r\rThis inspiring purpose has helped us build one of the world’s leading online classifieds companies,  serving over 240 million unique users every month and generating over 11 billion monthly page views in more than 40 countries. \r\rOur 1, 000+ committed employees are making a difference from our 20+ offices across the globe. "
+  }, 
+  "formattedListDate": "November 6,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

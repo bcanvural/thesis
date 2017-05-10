@@ -1,0 +1,304 @@
+{
+  "jobPosting": {
+    "companyJobCode": "silkroad_xml-1103", 
+    "expirationDate": 1451680622000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2444, 
+          "type": "LI", 
+          "endIdx": 2526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2325, 
+          "type": "LI", 
+          "endIdx": 2443, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2179, 
+          "type": "LI", 
+          "endIdx": 2324, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2101, 
+          "type": "LI", 
+          "endIdx": 2178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2001, 
+          "type": "LI", 
+          "endIdx": 2100, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1860, 
+          "type": "LI", 
+          "endIdx": 2000, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1730, 
+          "type": "LI", 
+          "endIdx": 1859, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1729, 
+          "type": "BG", 
+          "endIdx": 2526, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1729, 
+          "type": "BR", 
+          "endIdx": 1729, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1719, 
+          "type": "B", 
+          "endIdx": 1729, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1719, 
+          "type": "BR", 
+          "endIdx": 1719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1719, 
+          "type": "BR", 
+          "endIdx": 1719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1645, 
+          "type": "LI", 
+          "endIdx": 1718, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1572, 
+          "type": "LI", 
+          "endIdx": 1644, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1453, 
+          "type": "LI", 
+          "endIdx": 1571, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1360, 
+          "type": "LI", 
+          "endIdx": 1452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1243, 
+          "type": "LI", 
+          "endIdx": 1359, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1149, 
+          "type": "LI", 
+          "endIdx": 1242, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1004, 
+          "type": "LI", 
+          "endIdx": 1148, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 910, 
+          "type": "LI", 
+          "endIdx": 1003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 822, 
+          "type": "LI", 
+          "endIdx": 909, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 821, 
+          "type": "BG", 
+          "endIdx": 1719, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 821, 
+          "type": "BR", 
+          "endIdx": 821, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 774, 
+          "type": "B", 
+          "endIdx": 821, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 774, 
+          "type": "BR", 
+          "endIdx": 774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 774, 
+          "type": "BR", 
+          "endIdx": 774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 766, 
+          "type": "B", 
+          "endIdx": 774, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 766, 
+          "type": "BR", 
+          "endIdx": 766, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 766, 
+          "type": "BR", 
+          "endIdx": 766, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "B", 
+          "endIdx": 766, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "BR", 
+          "endIdx": 765, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 765, 
+          "type": "BR", 
+          "endIdx": 765, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 22, 
+          "type": "BR", 
+          "endIdx": 22, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 22, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Who We Are Looking ForWe are looking for Data Scientists at all levels of experience to work across several business areas including Recommendations,  Customer Profiling,  Forecasting and Optimisation.  You will be part of a highly innovative team working on interesting and difficult problems,  leveraging cutting edge technology to build solutions and customer facing products.  Your work will have a direct impact on shaping the future of how customers shop on ASOS,  and will help shape key business decisions and activities.  The ideal candidate will have a strong quantitative or technical background with experience working with large datasets and solving tough problems.  You will be a highly intelligent self-starter,  a bias towards action and attention to detail.  The RoleResponsibilities Include But Are Not Limited To Analyse large,  complex datasets to reveal underlying patterns,  correlations and trends.  Assist with the implementation and scale-up of algorithms for bespoke recommendation engines.  Investigate performance of current recommendation products and translate insights into specific improvement suggestions / new feature proposals.  Drive development of machine learning techniques to model customer behaviour and preferences.  Create prototypes for new personalisation features and turn machine-learning outputs into operational data products.  Set up and conduct large-scale experiments to test hypotheses and drive product development.  Research and leverage new machine learning methodologies to improve current products and influence the future roadmap.  Use historic data to forecast key trends and predict events of interest.  Leverage quantitative techniques to answer non-routine business problems.  Must Haves Solid previous experience in solving large analytical problems using statistical,  machine learning or other quantitative methods.  Bachelors Degree or equivalent in Engineering,  Mathematics,  Computer Science or similar quantitative discipline.  Advanced degrees preferred.  Equally comfortable with implementing algorithms as well as performing ad-hoc analysis and deriving Solid programming skills (e. g.  R,  Python,  C++,  C#,  Java),  and fluency in SQL.  Experience working with large datasets and distributed computing (Hadoop,  Spark,  Mahout,  NoSQL,  Hive,  Pig) or the ability to learn these quickly.  Excellent team working attitude with the ability to work proactively under own initiative in a fast paced environment.  Commercial mindset and keen interest in E-commerce or the online fashion industry. "
+    }, 
+    "postalCode": "NW1", 
+    "jobState": "LISTED", 
+    "companyName": "ASOS. com", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "ASOS burst on to the scene in 2000 and hasn't looked back.  We now have 9 country-specific websites,  ship to 240 countries around the world with offices in the UK,  US,  France,  Germany,  Australia and China.  We have 75, 000+ product lines with 2, 000+ being added every week.  We have an average of 3. 2 million visits daily and over 9. 3 million active customers.  Our ambition is to be the world’s no. 1 online fashion destination for 20-somethings,  therefore it is vitally important to us that we continue to attract top talent across the globe to help us realise our goals. We’re always looking for great people to join us – people who are as passionate as we are and,  just as importantly,  embrace change and innovation.  As a place where fashion and technology make perfect partners,  we have a real sense of excitement about the future and the possibilities it can bring. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1445458879000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:61834", 
+    "id": 93931124, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/93931124?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. asos. com%2Fepostings%2Fsubmit. cfm%3Ffuseaction%3Dapp. dspjob%26jobid%3D1103%26company_id%3D30071%26version%3D1%26jobBoardId%3D10009&urlHash=WfWQ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Internet"
+    ], 
+    "hasPaidLcp": true, 
+    "canonicalName": "ASOS. com", 
+    "company": {
+      "specialities": [
+        "internet", 
+        "e-commerce", 
+        "retail", 
+        "technology", 
+        "e-retail", 
+        "online shopping", 
+        "fashion", 
+        "international", 
+        "beauty", 
+        "technology"
+      ], 
+      "universalName": "asos-com", 
+      "companyId": 61834, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/000/251/1f8/1835600. png"
+      }
+    }, 
+    "foundedYear": 1999, 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "careersImage": "urn:li:media:/p/7/000/249/1b2/0830d26. png", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/1/000/077/1c2/2f953b1. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/7/000/249/1b2/0830d26. png", 
+    "localizedDescription": "ASOS burst on to the scene in 2000 and hasn't looked back.  We now have 9 country-specific websites,  ship to 240 countries around the world with offices in the UK,  US,  France,  Germany,  Australia and China.  We have 75, 000+ product lines with 2, 000+ being added every week.  We have an average of 3. 2 million visits daily and over 9. 3 million active customers.  \r\rOur ambition is to be the world’s no. 1 online fashion destination for 20-somethings,  therefore it is vitally important to us that we continue to attract top talent across the globe to help us realise our goals. \r\rWe’re always looking for great people to join us – people who are as passionate as we are and,  just as importantly,  embrace change and innovation.  As a place where fashion and technology make perfect partners,  we have a real sense of excitement about the future and the possibilities it can bring. "
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 45 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "45d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 21,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

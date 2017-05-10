@@ -1,0 +1,287 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobscore-dvP31ikYCr4BGoeJe4bk1X", 
+    "expirationDate": 1451784360000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1190, 
+          "type": "LI", 
+          "endIdx": 1204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BG", 
+          "endIdx": 1204, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1190, 
+          "type": "BR", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1185, 
+          "type": "B", 
+          "endIdx": 1190, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1185, 
+          "type": "BR", 
+          "endIdx": 1185, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1185, 
+          "type": "BR", 
+          "endIdx": 1185, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1121, 
+          "type": "LI", 
+          "endIdx": 1184, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1121, 
+          "type": "BG", 
+          "endIdx": 1185, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1121, 
+          "type": "BR", 
+          "endIdx": 1121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "B", 
+          "endIdx": 1121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "BR", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1109, 
+          "type": "BR", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1061, 
+          "type": "LI", 
+          "endIdx": 1108, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 998, 
+          "type": "LI", 
+          "endIdx": 1060, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 879, 
+          "type": "LI", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 795, 
+          "type": "LI", 
+          "endIdx": 878, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "LI", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BG", 
+          "endIdx": 1109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BR", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "B", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 676, 
+          "type": "LI", 
+          "endIdx": 739, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 589, 
+          "type": "LI", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 511, 
+          "type": "LI", 
+          "endIdx": 588, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 446, 
+          "type": "LI", 
+          "endIdx": 510, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 446, 
+          "type": "BG", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 446, 
+          "type": "BR", 
+          "endIdx": 446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 430, 
+          "type": "B", 
+          "endIdx": 446, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 430, 
+          "type": "BR", 
+          "endIdx": 430, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 430, 
+          "type": "BR", 
+          "endIdx": 430, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 8, 
+          "type": "BR", 
+          "endIdx": 8, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 8, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "About UsMesagraph unlocks the value of social media to help organizations and individuals make faster,  better decisions.  Mesagraph is a real-time search and discovery platform for social media.  Its premier Web-based application,  Meaningly® allows individuals and organizations to gain meaningful insights from Twitter for crisis mitigation,  trend identification,  CRM,  product marketing and helps you stay on top of your interests. Responsibilities Develop,  implement,  and provide ongoing analysis of key metrics  Efficiently and effectively find important indicators in our massive dataset  Suggest and execute experiments to test the influence of changing our core algorithms  Help build and shape products that are driven by huge datasets Requirements MS/PhD in Mathematics or Computer Science  3/5 years experience working with big datasets,  using techniques such as MapReduce  Strong ability in high-level programming languages,  including Python and Javascript.  Functional programming is a plus  Knowledgeable in Machine Learning and Statistical Programming  Strong written and verbal communication skills Bonus Points machine learning,  graph databases,  hadoop,  recommander systems Perks Stock options"
+    }, 
+    "postalCode": "75004", 
+    "jobState": "LISTED", 
+    "companyName": "Mesagraph", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Mesagraph is a new service that builds bundles of information from Social Media which are relevant and useful for its users.  Users can rate,  comment and complete each fragment of the bundle to make it even more compelling and interesting for others who share the same interests. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443421856000, 
+    "countryCode": "fr", 
+    "company": "urn:li:company:1624768", 
+    "id": 88460204, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Paris,  FR", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/88460204?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fcareers. jobscore. com%2Fjobs2%2Fmesagraph%2Fdata-scientist%2FdvP31ikYCr4BGoeJe4bk1X%3Futm_source%3DLINKEDIN%26utm_medium%3Dreferrer&urlHash=hLy_&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Internet"
+  ], 
+  "formattedPostedDaysAgo": "Posted 68 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "68d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2010, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/087/133/35c9ee1. png"
+    }, 
+    "localizedDescription": "Mesagraph is a new service that builds bundles of information from Social Media which are relevant and useful for its users.  Users can rate,  comment and complete each fragment of the bundle to make it even more compelling and interesting for others who share the same interests. ", 
+    "company": {
+      "specialities": [
+        "Twitter Analytics", 
+        "Social TV", 
+        "Graph Analytics", 
+        "Semantic Web"
+      ], 
+      "universalName": "mesagraph", 
+      "companyId": 1624768
+    }, 
+    "canonicalName": "Mesagraph", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Internet"
+    ]
+  }, 
+  "formattedListDate": "September 28,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

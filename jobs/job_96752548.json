@@ -1,0 +1,239 @@
+{
+  "jobPosting": {
+    "company": "urn:li:company:5770", 
+    "showPosterInfo": false, 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2340, 
+          "type": "BR", 
+          "endIdx": 2340, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2253, 
+          "type": "BR", 
+          "endIdx": 2253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2253, 
+          "type": "BR", 
+          "endIdx": 2253, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1438, 
+          "type": "BR", 
+          "endIdx": 1438, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1137, 
+          "type": "BR", 
+          "endIdx": 1137, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1098, 
+          "type": "LI", 
+          "endIdx": 1116, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1098, 
+          "type": "BR", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 981, 
+          "type": "LI", 
+          "endIdx": 1098, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 981, 
+          "type": "BR", 
+          "endIdx": 981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "LI", 
+          "endIdx": 981, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 855, 
+          "type": "BR", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 784, 
+          "type": "LI", 
+          "endIdx": 855, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 784, 
+          "type": "BR", 
+          "endIdx": 784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 713, 
+          "type": "LI", 
+          "endIdx": 784, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 713, 
+          "type": "BR", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 551, 
+          "type": "LI", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 551, 
+          "type": "BR", 
+          "endIdx": 551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 523, 
+          "type": "LI", 
+          "endIdx": 551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 523, 
+          "type": "BR", 
+          "endIdx": 523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 402, 
+          "type": "LI", 
+          "endIdx": 523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 402, 
+          "type": "BR", 
+          "endIdx": 402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "LI", 
+          "endIdx": 402, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "BR", 
+          "endIdx": 114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "LI", 
+          "endIdx": 114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BG", 
+          "endIdx": 1116, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "RequirementsExcellent analytical skills,  with 4+ years of working experience in the data and analytics landscape.  Excellent knowledge of advanced machine learning algorithms,  predictive modeling,  clustering,  multivariate regression,  logistic regression,  time series analysis and other statistical analysis techniques.  Also has prior experience of implementing this knowledge in a business environment.  Experience working with large datasets,  data processing and querying methods in relational databases as well as Big data Experience with R or Matlab Exemplary oral and writing communication skills with a demonstrated track record of effectively presenting to technical &amp; non-technical audiences in English.  Team player who can work closely with colleagues to promote the vision. A dedicated self-starter,  organized with great time management skills.  Can work independently given abstract tasks,  understand the business relevance and provide recommendations based on the data.  BS/BA in Computer Science,  Statistics,  Mathematics or similar (MS/MA/PhD preferred).  Magna cum laude – an advantage.  Up to 10% travel.   Job ResponsibilitiesDrive your career and work with top technical talent who are always striving to stay ahead of the curve.  With opportunities to work on a mixture of technologies and projects you’ll be involved in calling the shots on the next great opportunity.  Bring your “A” game and join ViaSat's new Israel office!The Data Scientist will perform statistical analysis and inference,  data modeling,  clustering and predictive analysis.  As a key member of the technical team,  you will leverage your statistical expertise to translate business questions into sophisticated models and help derive new insights to drive the business.  You will be working with various data sets and service and product teams to create complete and holistic analyses,  with great responsibility.  You will help create an elaborate model focusing on individual subscribers’ demographics and history that will predict their risk of disconnect,  openness to new services and additional business questions.  You are the domain expert of machine learning algorithms for the data science team and will assist the rest of the team with the various projects underway. With big data (500+ terrabytes),  alongside traditional databases,  get ready to dig in! Are you up for the challenge?"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "LISTED", 
+    "companyName": "Viasat", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "ViaSat ensures consumers,  businesses,  government agencies and our military stay connected by delivering fast,  secure internet and communications technologies and services.  If you’ve ever used the in-flight Wi-Fi on JetBlue or United you can thank ViaSat for that service. ViaSat is hiring - http://www. ViaSat. com/careers"
+    }, 
+    "functions": [
+      "RSCH"
+    ], 
+    "id": 96752548, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "veteranCommitted": false, 
+    "expirationDate": 1451907327000, 
+    "listDate": 1446742870000, 
+    "companyJobCode": "brassring-11046BR", 
+    "listingType": "BASIC", 
+    "sponsored": false, 
+    "title": "Data Scientist", 
+    "countryCode": "il"
+  }, 
+  "formattedLocation": "Israel", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96752548?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fsjobs. brassring. com%2FTGWebHost%2Fjobdetails. aspx%3Fsiteid%3D5199%26partnerid%3D425%26jobid%3D1197857&urlHash=5FfW&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "hasPaidLcp": true, 
+    "careersImage": "urn:li:media:/p/4/000/157/17b/356655b. png", 
+    "canonicalName": "ViaSat Inc. ", 
+    "company": {
+      "specialities": [
+        "Terrestial Military Data Links", 
+        "Consumer,  Commercial and Military SATCOM Products", 
+        "DoD Encryption Products", 
+        "Satellite Bandwidth Services", 
+        "In-Flight Wi-Fi Service"
+      ], 
+      "universalName": "viasat", 
+      "companyId": 5770, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAXJAAAAJDdkYWY2MTg5LTI2M2MtNGE0NC04M2EzLThlYWNmYTVmNjY0MQ. png"
+      }
+    }, 
+    "formattedIndustries": [
+      "Telecommunications"
+    ], 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "1001-5000 employees", 
+    "formattedCompanySize": "1001-5000", 
+    "foundedYear": 1986, 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR8AAAAJDYyYTJhNDdhLWNjM2QtNDZmMC04NDcyLWNmNGYwNjE4MmJhNQ. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/p/4/000/157/17b/356655b. png", 
+    "localizedDescription": "ViaSat ensures consumers,  businesses,  government agencies and our military stay connected by delivering fast,  secure internet and communications technologies and services.  If you’ve ever used the in-flight Wi-Fi on JetBlue or United you can thank ViaSat for that service. \r\rViaSat is hiring - http://www. ViaSat. com/careers"
+  }, 
+  "formattedIndustries": [
+    "Telecommunications"
+  ], 
+  "formattedPostedDaysAgo": "Posted 30 days ago", 
+  "formattedPostedDaysAgoSlim": "30 days ago", 
+  "formattedPostedDaysAgoShort": "30d", 
+  "companyDescriptionLanguage": "en", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "November 5,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

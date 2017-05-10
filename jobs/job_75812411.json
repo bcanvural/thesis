@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/75812411", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "McAfee is now part of Intel Security.  With its Security Connected strategy,  innovative approach to hardware-enhanced security,  and unique Global Threat Intelligence,  Intel Security is intensely focused on developing proactive,  proven security solutions and services that protect systems,  networks,  and mobile devices for business and personal use around the world.  Intel Security combines the experience and expertise of McAfee with the innovation and proven performance of Intel to make security an essential ingredient in every architecture and on every computing platform.  Intel Security’s mission is to give everyone the confidence to live and work safely and securely in the digital world. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Intel Security", 
+  "canFollow": false, 
+  "companyId": "2336", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Intel Security", 
+    "title": "Big Data  Streaming Data Software Engineer"
+  }, 
+  "description": "Big Data / Streaming Data Software Engineer - 766903DescriptionBrowsing the web generates lots and lots of logs.  Intel Security’s Content Security team is putting together a cloud-based high-volume,  real-time log processing,  analytics and reporting engine so that our customers can pinpoint and respond to the threats that exist in the mass of data.  We are looking for a team that knows how to stream,  store,  and analyze big data feeds,  how to automate testing systems at extreme scale,  and how to roll out and maintain a service that may grow in scope significantly after launch. In our development center in Paderborn,  Germany,  we are looking for an experienced development engineer who has worked on big data or other large scale systems. This individual will:Work from a high-level architecture,  lead the implementation of an integrated data processing workflow,  linking open source technologies with internally development components. Work with cloud and on-premise product teams to understand data flow and locations and security concerns of information providers. Divide and coordinate tasks with other development engineersQualifications Experience with streaming data solutions (Spark,  Storm),  log management/messaging tools (Kafka) and no-SQL data stores (Cassandra,  HBase,  etc. ) or similar technologies. Several years Java experienceAgile development experienceCorporate software development experienceNice to have:Database,  Data Warehousing,  or enterprise reporting experienceInformation Security or Web Security experienceScala experienceGerman proficiencyM. S.  Degree or equivalentJob Category : Software EngineeringPrimary Location : Germany-Germany,  PaderbornFull/Part Time : Full TimeJob Type : ExperiencedRegular/Temporary : RegularPosting Date : Nov 2,  2015Apply Before : OngoingBusiness Group The Intel Security Group combines employees from McAfee and Intel – people with security expertise in hardware,  software,  and solutions into one business unit focused on building hardware,  software,  services and end-to-end security solutions.  Intel Security Group sets the stage for new levels of collaboration and innovation and will drive leadership in the industry by providing ubiquitous security and identity protection for people and businesses worldwide.  Browsing the web generates lots and lots of logs.  Intel Security's Content Security team is putting together a cloud-based high-volume,  real-time log processing,  analytics and reporting engine so that our customers can pinpoint and respond to the threats that exist in the mass of data.  We are looking for a team that knows how to stream,  store,  and analyze big data feeds,  how to automate testing systems at extreme scale,  and how to roll out and maintain a service that may grow in scope significantly after launch. Posting Statement : N/AApplying for a job Select \"Apply Online\" to apply for a specific job.  You can also use the \"Add to My Job Cart\" button to add it to your job cart and apply later. "
+}

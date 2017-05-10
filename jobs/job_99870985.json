@@ -1,0 +1,72 @@
+{
+  "jobPosting": {
+    "companyJobCode": "stellenmarkt-1115862__1", 
+    "expirationDate": 1451197167000, 
+    "title": "Data Analyst / Scientist (w/m)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [], 
+      "rawText": "Beschaffung und Aufbereitung von Daten aus verschiedenen Quellen mit dem Ziel einer ganzheitlichen Analyse"
+    }, 
+    "postalCode": "63179", 
+    "jobState": "LISTED", 
+    "companyName": "MAINGAU Energie GmbH", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "MAINGAU Energie GmbH is an Utilities company located in Ringstr.  4-6,  Obertshausen,  Hesse,  Germany. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "IT"
+    ], 
+    "listDate": 1447945083000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:8169860", 
+    "id": 99870985, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Obertshausen,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99870985?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fstellenmarkt. sueddeutsche. de%2Fjobs%2Fdata-analyst-scientist-w-m-423880&urlHash=WBVa&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Utilities"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "de", 
+  "decoratedCompany": {
+    "localizedDescription": "MAINGAU Energie GmbH is an Utilities company located in Ringstr.  4-6,  Obertshausen,  Hesse,  Germany. ", 
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "formattedIndustries": [
+      "Utilities"
+    ], 
+    "hasPaidLcp": false, 
+    "canonicalName": "MAINGAU Energie GmbH", 
+    "company": {
+      "universalName": "maingau-energie-gmbh", 
+      "companyId": 8169860
+    }
+  }, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "December 27,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Asda", 
+    "functions": [
+      "IT", 
+      "CUST"
+    ], 
+    "companyJobCode": "europa_eu-22245263", 
+    "title": "Customer Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101411153, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      27
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. asda. jobs", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAP5AAAAJGNjM2Y4MmIxLTA1NGEtNGZlOC04NmRlLWJmMDZlODZmMGJiNQ. png", 
+    "universalName": "asda", 
+    "companyId": 7001
+  }, 
+  "description": "     Job Ref.  585939BR Role Summary CUSTOMER DATA ANALYST Reporting to:    Customer Data Manager-------------- About the role: The Customer Data    Analyst role is responsible for running and generating campaign    selections to support key marketing activity across the Asda business.     This includes Grocery Home Shopping,  Asda Direct,  George. com and across    a variety of other data sources we have in our Single Customer View.     The Ins and Outs: You will be responsible for analysing customer data    and making recommendations to the business based on your conclusions.     Attention to detail is critical,  you must be highly organised and    liaise with the campaign teams internally and our supporting partner    agencies.  Ensuring that campaign selections are delivered on time and    on plan will be key to success in this role.  You will monitor campaigns    as they land and feedback results to the campaign teams,  sharing    successes and identifying future opportunities.  Campaigns will cover    various marketing channels including email,  direct mail,  telemarketing    and SMS.  You will also be responsible for the weekly campaign reporting    for the marketing team,  drawing together data from numerous sources    including third parties.  Key to this role is the capability to use a    variety of systems and interrogation of data to drive actionable    insight.  In addition,  you will be required to analyse customer data to    understand key drivers of customer behaviour.  You will report to the    Customer Data Manager and work closely with other Customer Data    Analysts to optimise selections.  Working closely with the CRM and    marketing team and identify opportunities for testing and optimisation    within all campaigns.  You will also liaise with planning agencies and    email broadcasting suppliers and as such need to be a confident    communicator.  You will need to be comfortable working at pace,  be well    organised and at articulating campaign selections and results across    the department.  The Asda Data Team continues to grow and this offers an    exciting opportunity to join a rapidly expanding and dynamic area of    the business.  What you’ll need: Essential skills: - A good degree in a    numerate subject - Some previous customer data analysis experience -    Some marketing background and knowledge of CRM principles - Strong    numerical and analytical background and experience working with    customer databases - Principle tools for everyday use sit on top of    Asda Single Customer View: - SAS Enterprise Guide - SAS Customer    Intelligence Studio - SAS Visual Analytics - Experience in creating /    managing campaign selections (Ideally SAS CI Studio,  alternative    experience in Alterian / Unica / Viper useful) - Managing triggered as    well as ad hoc activity - Forecasting selections required to meet    business objectives - Experience in developing and managing selections    and suppressions processes for - Email,  SMS,  DM and outbound telephone    campaigns - Experience with email campaigns and email metrics ideally.     - Comfortable in a database environment and understand SQL,  with    ability to write queries including case statements - Experience of    customer behaviour analytics and segmentation - Advanced Excel skills    including the use of pivot tables - Must be numbers focused and have a    keen eye for detail.  - Excellent communication skills - Highly    organised and able to manage several campaigns at once - The ability to    prioritise - Flexible approach to workload Desirable skills: - Some    marketing background and knowledge of CRM - A good knowledge of the    internet - retailers,  online marketing and confident in a web    environment.  - Supplier and agency management - The principles of    direct marketing and applying data techniques within this Business Unit    About our Home Office We're very proud of our Yorkshire roots and Asda    House,  our Home Office,  is still in Leeds.  The teams at Asda House    provide support to all of our stores nationally through many diverse    roles.  So in the queue for lunch at t", 
+  "companyDescription": "      Asda    At Asda,  Every Day Matters.  Every day we make it our business to save    our customers money and make life better.  Every day 200, 000 colleagues    share this one sole purpose and strive to be Britain’s most trusted    retailer.  And because we want every colleague to enjoy every minute of    their Asda career,  we make every day a development opportunity.  As part    of Walmart,  the world’s largest retailer,  you’ll have unlimited scope    and support to succeed.  Because your success is our success. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

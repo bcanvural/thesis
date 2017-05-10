@@ -1,0 +1,498 @@
+{
+  "jobPosting": {
+    "companyJobCode": "carerix-809", 
+    "expirationDate": 1451983579000, 
+    "title": "Vind hier de juiste mix van Java,  Big Data en uitdaging in Eindhoven!", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 5870, 
+          "type": "BR", 
+          "endIdx": 5870, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5870, 
+          "type": "BR", 
+          "endIdx": 5870, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5862, 
+          "type": "B", 
+          "endIdx": 5870, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5862, 
+          "type": "BR", 
+          "endIdx": 5862, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5852, 
+          "type": "B", 
+          "endIdx": 5862, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5816, 
+          "type": "B", 
+          "endIdx": 5820, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5774, 
+          "type": "B", 
+          "endIdx": 5790, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5742, 
+          "type": "B", 
+          "endIdx": 5746, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5723, 
+          "type": "BR", 
+          "endIdx": 5723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5723, 
+          "type": "BR", 
+          "endIdx": 5723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5713, 
+          "type": "B", 
+          "endIdx": 5723, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5713, 
+          "type": "BR", 
+          "endIdx": 5713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5710, 
+          "type": "BR", 
+          "endIdx": 5710, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5686, 
+          "type": "BR", 
+          "endIdx": 5686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5686, 
+          "type": "BR", 
+          "endIdx": 5686, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5667, 
+          "type": "BR", 
+          "endIdx": 5667, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5664, 
+          "type": "BR", 
+          "endIdx": 5664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5650, 
+          "type": "B", 
+          "endIdx": 5664, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5650, 
+          "type": "BR", 
+          "endIdx": 5650, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 5650, 
+          "type": "BR", 
+          "endIdx": 5650, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4290, 
+          "type": "B", 
+          "endIdx": 4317, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4290, 
+          "type": "BR", 
+          "endIdx": 4290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4290, 
+          "type": "BR", 
+          "endIdx": 4290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3670, 
+          "type": "B", 
+          "endIdx": 3684, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3670, 
+          "type": "BR", 
+          "endIdx": 3670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3594, 
+          "type": "BR", 
+          "endIdx": 3594, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3572, 
+          "type": "BR", 
+          "endIdx": 3572, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3479, 
+          "type": "BR", 
+          "endIdx": 3479, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3468, 
+          "type": "BR", 
+          "endIdx": 3468, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3429, 
+          "type": "BR", 
+          "endIdx": 3429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3331, 
+          "type": "BR", 
+          "endIdx": 3331, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3273, 
+          "type": "LI", 
+          "endIdx": 3320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3222, 
+          "type": "LI", 
+          "endIdx": 3273, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3169, 
+          "type": "LI", 
+          "endIdx": 3222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3113, 
+          "type": "LI", 
+          "endIdx": 3169, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3054, 
+          "type": "LI", 
+          "endIdx": 3113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3020, 
+          "type": "LI", 
+          "endIdx": 3054, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3003, 
+          "type": "LI", 
+          "endIdx": 3020, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2894, 
+          "type": "LI", 
+          "endIdx": 3003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2846, 
+          "type": "LI", 
+          "endIdx": 2894, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2846, 
+          "type": "BG", 
+          "endIdx": 3320, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2749, 
+          "type": "LI", 
+          "endIdx": 2841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2680, 
+          "type": "LI", 
+          "endIdx": 2749, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2638, 
+          "type": "LI", 
+          "endIdx": 2680, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2608, 
+          "type": "LI", 
+          "endIdx": 2638, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2521, 
+          "type": "LI", 
+          "endIdx": 2608, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2521, 
+          "type": "BG", 
+          "endIdx": 2841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2509, 
+          "type": "BR", 
+          "endIdx": 2509, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2257, 
+          "type": "BR", 
+          "endIdx": 2257, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2257, 
+          "type": "BR", 
+          "endIdx": 2257, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "U", 
+          "endIdx": 2257, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "B", 
+          "endIdx": 2257, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "BR", 
+          "endIdx": 1804, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1804, 
+          "type": "BR", 
+          "endIdx": 1804, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1796, 
+          "type": "BR", 
+          "endIdx": 1796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1017, 
+          "type": "BR", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 473, 
+          "type": "BR", 
+          "endIdx": 473, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 461, 
+          "type": "BR", 
+          "endIdx": 461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 187, 
+          "type": "BR", 
+          "endIdx": 187, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 59, 
+          "type": "BR", 
+          "endIdx": 59, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 58, 
+          "type": "BR", 
+          "endIdx": 58, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Please review the job details and click Apply.  Vind hier de juiste mix van Java,  Big Data en uitdaging in Eindhoven!   (Eindhoven)                                 IntroductionWil jij ervaring opdoen als Java Software Engineer en is Big Data echt jouw ding? Wil je daarnaast onderdeel uitmaken van een gedreven en jong team en werken aan data-gestuurde technologie en internationale projecten? Dan is deze functie jou wellicht op het lijf geschreven!OrganizationOnze klant levert technologie voor real-time-advertising om zowel aankoop als verkoop van advertenties effectiever te maken.  Deze technologie wordt gebouwd bovenop diverse real-time bidding platforms,  waardoor grote hoeveelheden gegevens vertaald kunnen worden in bruikbare en relevante inzichten.  Naast het verschaffen van deze inzichten,  kunnen de gewenste acties ook automatisch worden uitgevoerd.  Om de concurrentie voor te blijven,  is het bedrijf altijd bezig met innovatie en wordt er veel aandacht besteed aan de zogenoemde data science. Klanten zijn voornamelijk mediabureaus,  trading desks en advertentienetwerken uit de hele wereld en met name de USA En UK.  Het team bestaat uit ongeveer 10 enthousiastelingen en de gemiddelde leeftijd is 27.  Er hangt een innovatieve sfeer en jouw input wordt erg gewaardeerd.  Er zijn ontzettend veel mogelijkheden om door te groeien,  bijvoorbeeld door het volgen van diverse cursussen en trainingen,  soms zelfs in het buitenland! Ook Inhouse worden er regelmatig kennissessies gehouden.  Aan gezelligheid ontbreekt het zeker niet.  Iedere pauze kan je met je collega’s op de playstation gamen en ook worden er regelmatig pizza-avondjes georganiseerd en ieder jaar gaat het team samen een weekendje weg! Doordat onze klant de technologie wil laten groeien,  gaat het team uitbreiden. FunctionAls Java Software Engineer Ben Je Werkzaam In Een Klein Team Van Ontwikkelaars.  Samen Werken Jullie Aan Het Vergroten En Versterken Van De Data-gestuurde Technologie Binnen Uitdagende Projecten.  Daarbij Speelt Jouw Eigen Inbreng En Meedenken In Het Grote Plaatje Een Belangrijke Rol.  Pur Sang Coderen Is Hier Niet Aan De Orde Maar Wanneer Je Met Open Source Coding Bezig Bent Krijg Je Tem Aken Met Onder Andere De Volgende Programmeertalen En FrameworksJava,  Hadoop,  Hyve,  Amazon Web Services,  Presto,  Go,  Spark &amp; Shark,  Tableau software,  Go,  C,  PHP etc.  Het bedrijf loopt voorop in de markt en wil dit ook blijven doen,  dus ideeën zijn altijd welkom en worden samen met kennisdeling erg gestimuleerd!RequirementsJe hebt een afgeronde HBO/WO-opleiding richting informatica of Artificial Intelligence;Maximaal 5 jaar Java ervaring;Je hebt affiniteit met online advertising;Je bent een teamspeler,  innovatiegedreven en hebt een kritische blik;Denkt graag na over kansen en continue verbeteringsmogelijkheden en houdt van een uitdaging!OfferEen jaarcontract met zicht op vastdienstverband;Een salaris van € 2. 300, - à € 3. 500, - op basis van een 40-urige werkweek,  afhankelijk van kennis en ervaring;25 vakantiedagen;Internationale groeimogelijkheden;Aantrekkelijke pensioenregeling (bijna gehele premievrij!);Fitnessregeling bij een sportschool bij jou in de buurt;Flexibele werktijden en zeer uitdagend werkzaamheden;Informele werkomgeving en gezellige pizza-avondjes;Dagelijkse verse lunch en vrijdagmiddagborrels!InformationKlinkt dit als de volgende stap in jouw carrière,  of heb je vragen na het lezen van deze vacature?Laat dan van je horen door te reageren!ApplicationMail je CV naar info@java-professionals. nl of bel ons op 020 – 8203 666 voor meer informatie. Closing date31-12-2015Back                                                                   ApplySimilar jobs:                              Senior Java Developer gezocht voor de grootste onderwijsinstelling van Amsterdam! (Amsterdam) |                        Junior Java Developer voor internationale topwerkgever die inhouse en bij klanten aan de slag wil! (Randstad) |                        Werken met Java,  Scala,  Go,  DevOps,  Python en andere gave tooling aan mooi product met een topsfeer? (Rotterdam) |                        Java vacature bij duurzame financiële werkgever in Zeist! (Zeist) |                        Java developer met e-commerce affiniteit gezocht te Amsterdam! (Amsterdam)        . . . More jobsMore jobs at this company:                                                                                                                                                                                                                                                                                                                                Java Software Architect in centrum Eindhoven gezocht voor data-driven software platform! (Eindhoven) |                                                                                                                                                                                                                                                                                                                                                              Als Software Engineer in Eindhoven werken met Java,  Go,  AnglularJS,  Hadoop en data-driven advertising software! (Eindhoven) |                                                                                                                                                                                                                                                                                                                                                              Inhouse Software Engineer voor complexe Frontend vraagstukken in Eindhoven! (Eindhoven)&lt; Previous  | Senior . NE. . .  (Ede)Gezocht: I. . .  (Waalwijk) |  Next &gt;Function:          Java         Job type:          Vast / Tijdelijk         Job ID           #809          Date posted:          29-07-2014Show mapSubscribe to the RSS feed                                                      Email to a friend                                                                     Save this job                             Print this job"
+    }, 
+    "postalCode": "5649", 
+    "jobState": "LISTED", 
+    "companyName": "PHP Professionals", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 10 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. We onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. Kunnen wij jou helpen?Ben jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nlBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. We horen graag van je. Groet, Het PHP Professionals Team"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "ENG"
+    ], 
+    "listDate": 1445824381000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:1559016", 
+    "id": 94702090, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Eindhoven,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/94702090?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fphpprofessionals. carerix. com%2Fcxportal%2Fjobdetails%2F924%2FEindhoven%2FVind-hier-de-juiste-mix-van-Java%2C-Big-Data-en-uitdaging-in-Eindhoven%21. html&urlHash=NMPZ&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 40 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "40d", 
+  "companyDescriptionLanguage": "nl", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "2-10 employees", 
+    "formattedCompanySize": "2-10", 
+    "foundedYear": 2010, 
+    "formattedCompanyType": "Public Company", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/3/000/244/0e0/3b99166. png"
+    }, 
+    "localizedDescription": "PHP Professionals is een jong recruitment bureau dat zich bezig houdt met de werving en selectie van enthousiaste en ervaren PHP developers en PHP programmeurs.  Onze organisatie is in 2010 opgericht en telt inmiddels een vaste kern van 11 medewerkers die elke dag weer klaar staan om op zoek te gaan naar de beste mensen binnen ons vakgebied. \r\rWe onderscheiden ons van andere bureaus door de nadruk puur en alleen op de PHP markt te leggen.  Op die manier blijft het voor ons,  voor de kandidaat en voor u duidelijk en overzichtelijk wat er wordt verwacht.  We proberen onze focus te leggen op het werven en selecteren van PHP developers binnen het gebied van web,  internet,  mobile en applicatie ontwikkeling. \r\rKunnen wij jou helpen?\r\rBen jij op zoek naar een (nieuwe) baan als PHP Developer? Kijk dan op onze website www. php-professionals. nl of neem contact op via telefoon-nummer 020-8200675 of stuur je CV naar info@php-professionals. nl\r\rBent u werkgever en op zoek naar een ervaren PHP specialist? Kijk voor meer informatie op onze website www. php-professionals. nl of bel voor meer informatie over onze werkwijze naar 020-8200675. \r\rWe horen graag van je. \r\rGroet, \rHet PHP Professionals Team", 
+    "company": {
+      "specialities": [
+        "Recruitment", 
+        "PHP", 
+        "OOP", 
+        "Werving & Selectie"
+      ], 
+      "universalName": "php-professionals", 
+      "companyId": 1559016, 
+      "heroImage": {}
+    }, 
+    "canonicalName": "PHP Professionals", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "October 26,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "nl", 
+  "hasDecoratedCompany": true
+}

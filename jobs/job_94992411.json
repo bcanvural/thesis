@@ -1,0 +1,326 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedEmploymentStatus": "Full-time", 
+  "descriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "TalentSpa is the inbound recruitment platform where the right candidates find you. \r\rOur mission is simple: To change the way employers recruit \r\rHave you like many others become tired of recruitment agency fees? Have you found that In-House recruitment is a time consuming affair? Why not try TalentSpa? \r\rTalentSpa Provides an Inbound Recruitment Platform for Employers AND we have successfully reduced the cost of recruitment for more than 2500 UK Employers. \r\rAs the UK’s first inbound recruitment platform,  TalentSpa is helping to prise the power away from the agencies and hand it back to the in-house recruitment teams by increasing candidate engagement,  reducing time to hire and driving down recruitment costs.  Through innovative inbound recruitment techniques,  TalentSpa consistently outperforms the traditional recruitment model,  bringing the best candidates directly to the hiring manager for a fraction of the cost. \r \rTalentSpa can help you reach the ideal candidates you never thought existed. ", 
+    "foundedYear": 2013, 
+    "canonicalName": "TalentSpa", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/06b/22d/1dc722c. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Inbound Recruitment", 
+        "Fixed Price Recruitment", 
+        "Recruitment", 
+        "Applicant Tracking System", 
+        "Fixed Fee Recruitment", 
+        "Online Recruitment", 
+        "Staffing Solutions", 
+        "Targeted Recruitment", 
+        "Managed Services Recruitment", 
+        "Low Cost Recruitment"
+      ], 
+      "universalName": "talentspa", 
+      "companyId": 3125642, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/06b/22d/19cb39c. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "11-50", 
+    "formattedEmployeeCount": "11-50 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Information Technology", 
+    "Engineering"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "London,  GB", 
+  "jobPosting": {
+    "expirationDate": 1449097091000, 
+    "veteranCommitted": false, 
+    "id": 94992411, 
+    "title": "Big Data Engineer / Data Analytics Engineer (Applied Data Scientist)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2550, 
+          "type": "BR", 
+          "endIdx": 2550, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2550, 
+          "type": "BR", 
+          "endIdx": 2550, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2371, 
+          "type": "BR", 
+          "endIdx": 2371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2371, 
+          "type": "BR", 
+          "endIdx": 2371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2333, 
+          "type": "LI", 
+          "endIdx": 2371, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2180, 
+          "type": "LI", 
+          "endIdx": 2333, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2150, 
+          "type": "LI", 
+          "endIdx": 2180, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "LI", 
+          "endIdx": 2150, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1965, 
+          "type": "BR", 
+          "endIdx": 1965, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1944, 
+          "type": "BR", 
+          "endIdx": 1944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1944, 
+          "type": "BR", 
+          "endIdx": 1944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1772, 
+          "type": "LI", 
+          "endIdx": 1944, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1603, 
+          "type": "LI", 
+          "endIdx": 1772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1603, 
+          "type": "BR", 
+          "endIdx": 1603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1603, 
+          "type": "BR", 
+          "endIdx": 1603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "B", 
+          "endIdx": 1603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1551, 
+          "type": "BR", 
+          "endIdx": 1551, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1537, 
+          "type": "BR", 
+          "endIdx": 1537, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1537, 
+          "type": "BR", 
+          "endIdx": 1537, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1462, 
+          "type": "LI", 
+          "endIdx": 1537, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1412, 
+          "type": "LI", 
+          "endIdx": 1462, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1348, 
+          "type": "LI", 
+          "endIdx": 1412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1289, 
+          "type": "LI", 
+          "endIdx": 1348, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1196, 
+          "type": "LI", 
+          "endIdx": 1289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1065, 
+          "type": "LI", 
+          "endIdx": 1196, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1065, 
+          "type": "BR", 
+          "endIdx": 1065, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1049, 
+          "type": "BR", 
+          "endIdx": 1049, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 877, 
+          "type": "BR", 
+          "endIdx": 877, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 877, 
+          "type": "BR", 
+          "endIdx": 877, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BR", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 465, 
+          "type": "BR", 
+          "endIdx": 465, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 80, 
+          "type": "BR", 
+          "endIdx": 80, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Big Data Engineer / Data Analytics Engineer (Applied Data Scientist)My client,  a leading UK Creative Data Analytics,  Big Data and Data Science Consultancy,  working with global clients and with a reputation at the forefront of the world-wide data science community are seeking a Data Analytics Engineer / Applied Data Scientist to join their team of talented data specialists and programmers working from beautiful,  hi-tech offices in the City of London. You will be working in a diverse variety of industries including some of the most hi-tech companies around the world who benefit from my client's cutting edge solutions and relentless focus on innovation and continuous Data product improvement.  You will get exposure to bleeding edge Big Data projects in industries such as F1,  Automotive,  Aerospace,  Pharmaceutical,  Global Blue-chip giants and Investment Banks. A Data Analytics Engineer / Applied Data Scientist role has arisen due to continued company growth and the winning of several new enterprise scale global Big Data projects. Role Description Collaborates closely with the Data Engineers and Data Scientists to create variables,  metrics,  and models to support the analytics Refactors algorithms created by Data Scientists into production-quality and operational code Identifies and implements appropriate analytical libraries Sets patterns and practices for analytical code across the team Refactors code into re-usable libraries and tools Designs and builds Data &amp; Analytics platforms and processing pipelinesPerson ProfileTo Be Successful In This Role,  You Could Be Either a Big Data Technical Specialists (Big Data,  NoSQL,  SQL) with some Data Science skills (incl.  R,  Matlab,  Python) and Big Data Analytics tech like Hadoop/Hbase/Hive,  Spark.  An exceptional enterprise developer with C# or C++ or Scala or Python or R skills,  and strong background and interest in Maths,  Analytics,  Data Science,  and Big Data tech. Required Capabilities Broad and deep knowledge of data architectures,  database platforms,  including RDBMs (MS SQL,  Oracle,  Teradata),  NoSQL (MongoDB,  Cassandra,  CouchDB),  Big Data (Hadoop/HDFS,  Hbase,  Hive) Strong SQL programming skills Strong and low-level programming skills in a variety of languages,  such as Java,  C#,  Python,  R,  Functional languages (Erlang,  F#,  Clojure or Scala),  C++ Mathematical background or interests. If this role sounds interesting and you would like the opportunity to work for one of the UK's leading Data Science companies,  then please send me your CV for immediate interview. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "GB-27-10-BDEp", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "REFRESH THE WAY YOU RECRUITTALENTSPA - THE COST EFFECTIVE ALTERNATIVE TO A RECRUITMENT AGENCY! Our mission is simple: To change the way employers recruit Have you like many others become tired of recruitment agency fees? Have you found that In-House recruitment is a time consuming affair? Why not try TalentSpa? TalentSpa Provides Recruitment and Software Solutions for In-House Recruiters,  HR Teams and SMEs AND we have successfully reduced the cost of recruitment for more than 2500 UK Employers. What we offer?•\tJob specification optimisation to create a winning job advert. •\tMulti-Job posting to 500+ job boards and social media platforms. •\tManual CV search of all major CV databases and LinkedIn. •\tUse of our in-house resourcing team with access to 20m+ candidates•\tExpert CV screening to create an accurate shortlist of ideal candidates. •\tUse of our special resource team who headhunt for the harder roles. •\tFree access to our ATS system to track progress. Find out more info and book a free demo http://talentspa. li. instapage. com/"
+    }, 
+    "sponsored": false, 
+    "closeDate": 1447138053000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "TalentSpa", 
+    "functions": [
+      "RSCH", 
+      "IT", 
+      "ENG"
+    ], 
+    "listDate": 1445960599000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3125642"
+  }, 
+  "formattedPostedDaysAgo": "Posted 39 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "39d", 
+  "formattedListDate": "October 27,  2015", 
+  "formattedExpireDate": "December 2,  2015", 
+  "formattedCloseDate": "November 10,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/94992411?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3847499&urlHash=i65n&_mSplash=1&csrfToken=ajax%3A2644187314825728846"
+}

@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/48366069", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Facebook was founded in 2004.  Our mission is to make the world more open and connected.  People use Facebook to stay connected with friends and family,  to discover what's going on in the world,  and to share and express what matters to them. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Facebook", 
+  "canFollow": false, 
+  "companyId": "10667", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Facebook", 
+    "title": "Data Scientist,  Statistics"
+  }, 
+  "description": "Facebook was built to help people connect and share,  and over the last decade our tools have played a critical part in changing how people around the world communicate with one another.  With over a billion people using the service and more than fifty offices around the globe,  a career at Facebook offers countless ways to make an impact in a fast growing organization.  We're looking for data scientists with a passion for statistics to work on our measurement and surveying products.  You will enjoy getting unique access to several of the richest data sets in the world,  cutting edge technology and the ability to see your insights turned into real products on a regular basis.  You will research,  guide and implement our statistical methodology,  invent measures to understand the data and visualize and disseminate insights extracted from the data.  You will work with many teams across all departments in the organization.  The perfect candidate will have a background in computer science,  math or a related technical field,  will have experience working with survey statistics and research methods,  and will have some experience building software.  The ideal candidate is focused on results,  is a self-starter,  and has demonstrated success in using analytics to drive the understanding of a product and an entire market.  This position is located in our Tel Aviv office.  ResponsibilitiesApply your expertise in quantitative analysis,  data mining,  and the presentation of data to see beyond the numbers and understand how to effectively measure and understand the mobile ecosystemDefine and implement our statistical methodology,  building models and formulas for bias correction,  uncertainty estimations and outlier detection across multiple metrics and dimensionsPartner with product and analyst teams to direct our growth and spend across devices and geographiesInform,  influence,  support,  and execute data analysis projects used throughout Facebook to drive product decisionsMine massive amounts of data,  extract useful product insights and sleuth suspicious trendsManage development of data sources,  gather requirements,  organize sources,  and establish a definitive image of the market we operate inRequirements 4+ years of experience doing quantitative analysis or survey analysis,  preferably within the web or mobile app industriesMS/PhD in Math,  Statistics,  Computer Science,  Operations Research or other technical fieldExperience with data analysis using tools such as R,  numpy,  etc. Experience in survey methodology,  quantitative research methods or statistical analysisGood control of SQL or similar languages and development experience in at least one scripting language (PHP,  Python,  Perl,  etc. )Experience with large data sets and distributed computing (Hive/Hadoop) a plusAbility to initiate and drive projects to completion with minimal guidanceThe ability to communicate the results of analyses in a clear and effective manner"
+}

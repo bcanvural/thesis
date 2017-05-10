@@ -1,0 +1,425 @@
+{
+  "jobPosting": {
+    "companyJobCode": "fastrecruitmentwebsites-big-wednesday-1693", 
+    "expirationDate": 1451812584000, 
+    "title": "Data Scientist - Tel Aviv", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2955, 
+          "type": "BR", 
+          "endIdx": 2955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2955, 
+          "type": "BR", 
+          "endIdx": 2955, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2787, 
+          "type": "BR", 
+          "endIdx": 2787, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2699, 
+          "type": "BR", 
+          "endIdx": 2699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2699, 
+          "type": "BR", 
+          "endIdx": 2699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2675, 
+          "type": "LI", 
+          "endIdx": 2699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2640, 
+          "type": "LI", 
+          "endIdx": 2675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2610, 
+          "type": "LI", 
+          "endIdx": 2640, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2583, 
+          "type": "LI", 
+          "endIdx": 2610, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2530, 
+          "type": "LI", 
+          "endIdx": 2583, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2514, 
+          "type": "LI", 
+          "endIdx": 2530, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2469, 
+          "type": "LI", 
+          "endIdx": 2514, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2469, 
+          "type": "BG", 
+          "endIdx": 2699, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2469, 
+          "type": "BR", 
+          "endIdx": 2469, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2452, 
+          "type": "B", 
+          "endIdx": 2469, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2452, 
+          "type": "BR", 
+          "endIdx": 2452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2452, 
+          "type": "BR", 
+          "endIdx": 2452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2377, 
+          "type": "LI", 
+          "endIdx": 2452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2283, 
+          "type": "LI", 
+          "endIdx": 2377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2224, 
+          "type": "LI", 
+          "endIdx": 2283, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2142, 
+          "type": "LI", 
+          "endIdx": 2224, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2026, 
+          "type": "LI", 
+          "endIdx": 2142, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1999, 
+          "type": "LI", 
+          "endIdx": 2026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1912, 
+          "type": "LI", 
+          "endIdx": 1999, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1885, 
+          "type": "LI", 
+          "endIdx": 1912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "LI", 
+          "endIdx": 1885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "BG", 
+          "endIdx": 2452, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1762, 
+          "type": "BR", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1750, 
+          "type": "B", 
+          "endIdx": 1762, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1750, 
+          "type": "BR", 
+          "endIdx": 1750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1750, 
+          "type": "BR", 
+          "endIdx": 1750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1630, 
+          "type": "LI", 
+          "endIdx": 1750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1498, 
+          "type": "LI", 
+          "endIdx": 1630, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1349, 
+          "type": "LI", 
+          "endIdx": 1498, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1258, 
+          "type": "LI", 
+          "endIdx": 1349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1153, 
+          "type": "LI", 
+          "endIdx": 1258, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1047, 
+          "type": "LI", 
+          "endIdx": 1153, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "LI", 
+          "endIdx": 1047, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "BG", 
+          "endIdx": 1750, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 841, 
+          "type": "BR", 
+          "endIdx": 841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 825, 
+          "type": "B", 
+          "endIdx": 841, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 825, 
+          "type": "BR", 
+          "endIdx": 825, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 825, 
+          "type": "BR", 
+          "endIdx": 825, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 603, 
+          "type": "BR", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "B", 
+          "endIdx": 603, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "BR", 
+          "endIdx": 599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 599, 
+          "type": "BR", 
+          "endIdx": 599, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 166, 
+          "type": "BR", 
+          "endIdx": 166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 166, 
+          "type": "BR", 
+          "endIdx": 166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "B", 
+          "endIdx": 166, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "BR", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 159, 
+          "type": "BR", 
+          "endIdx": 159, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 11, 
+          "type": "BR", 
+          "endIdx": 11, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 11, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "DescriptionData Scientist - Tel AvivPlease note: This role is vased in Tel Aviv and we can only accept applications from candidates eligible to work in Israel. CompanyThis American dotcom,  a top 5 player in their industry,  operates a global network that includes more than 250, 000 partners worldwide.  With world class talent from over 65 countries,  the atmosphere of a start-up and the muscle of a $3bn business,  this company is an incredible technical creative melting pot.  Our client is building a research center of excellence in Tel Aviv,  Israel and are looking for top notch talent to join them. RoleAs a Lead Data Scientist you will be working on some of the toughest challenges within the Data Science team.  This is a very senior role,  where you will contribute to the continued growth of the business on a global scale. ResponsibilitiesApply your expertise in mathematics,  quantitative analysis,  data mining and machine learning to develop models and algorithms to improve performance of different aspects in online accommodation reservationsMake decisions on whether specific problems can be solved and how they can be solved based on raw datasetsWork with the business domains and develop predictive models and algorithms to support business decisionsDefine the roadmap and contribute to the development of solutions for a variety of projectsDevelop data automated systems that convert noisy data sets into significant signals of user behavior and suggest alternative problem solving methodsDevelop best practices for data collection and experimentation,  data requirements and communicate those to product engineering teamsExplore new technologies,  innovative instrumentation and data collection to develop unique data sources and utilize themRequirementsB. S. ,  M. S. ,  or Ph. D.  in Computer Science,  Mathematics,  Statistics,  Engineering or related field.  Advanced degrees preferredProven record of excellenceExpert technical abilities within machine learning,  statistical and probability methodsExcellent Analytical skillsExcellent understanding of machine learning techniques (classification,  regressions,  dimensionality reduction,  etc. )Experience with at least one scripting/ modelling language (Python/Matlab/R/Scala)Knowledge of relational databases and query languages (SQL)Ability to initiate and drive research projects from start to completion with minimal guidanceAbility to lead projects and mentor more intermediate members of the team.  Our Client OffersCompetitive annual salary (above market rate)Medical coverageDiscounted hotel accommodation; anywhere in the worldExposure to travel industryExcellent growth opportunitiesExciting,  multicultural environmentDress code: smart casualPlease note: We can only accept applications from candidates eligible to work in Israel. If you are an experiemced Data Scientist and the idea of becoming part of this success story appeals to you we want to hear from you straight away.  Send us your CV now. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Big Wednesday", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Big Wednesday Digital Limited is a Staffing and Recruiting company located in First Floor 2 Woodberry Grove North Finchley,  London,  United Kingdom. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447660978000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:4274322", 
+    "id": 98963022, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "canonicalName": "Big Wednesday Digital Limited", 
+    "localizedDescription": "Big Wednesday Digital Limited is a Staffing and Recruiting company located in First Floor 2 Woodberry Grove North Finchley,  London,  United Kingdom. ", 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "hasPaidLcp": false, 
+    "company": {
+      "universalName": "big-wednesday-digital-limited", 
+      "companyId": 4274322
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98963022?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. big-wednesday. com%2Fjob-search%2F1693-data-scientist-tel-aviv%2Ftechnology%2Fit%2Funited-kingdom%2Fjob&urlHash=3R2u&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

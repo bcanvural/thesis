@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "QuantumBlack", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "workable_xml-6EE8C7A7B4", 
+    "title": "Data Scientist (Principal)", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 100021585, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. quantumblack. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAXmAAAAJDJhNDdkODk2LTVhNDYtNDdlZC1iOWU5LWE0ZjgxNDBhYTc3Yw. png", 
+    "universalName": "quantumblack", 
+    "companyId": 900243
+  }, 
+  "description": "    You’ll bring an exceptional academic background in a related field,     combined with commercial project delivery experience.  What sets you    apart? Your ability to work with business leaders at the very highest    level and communicate complex analytics concepts.     What you'll do       Support our client services lead to identify business hypotheses        and metrics       Translate business problems into analytics use cases and        requirements       Define and drive the analytical scope and method for projects,         including formulating and shaping the models       Lead teams of Data Scientists,  Analytic Engineers,  and Data        Engineers on real-world challenging Data Science projects       Prioritise tasks on a project together with the Data Lead     Requirements       Exceptional academic and applied skills in data analytics and        related disciplines       Strong presentation and communication skills,  with a knack for        explaining complex analytical concepts to people from other        specialisms       Team leadership,  mentoring and project management skills", 
+  "companyDescription": "      QuantumBlack    QuantumBlack helps companies use data to drive decisions.  We combine    business experience,  expertise in large-scale data analysis and    visualization,  and advanced software engineering know-how to deliver    results.  From aerospace to finance to Formula One,  we help companies    prototype,  develop,  and deploy bespoke data science and data    visualisation solutions to make better decisions.     In today’s competitive environment,  organizations that respond faster    to change,  with better insight and greater precision,  hold a    sustainable advantage.  At the same time,  information has gone from    scarce to superabundant,  affording an unprecedented opportunity for    them to do so.  Effective decision-making is therefore increasingly    underpinned by data processing and technology capabilities. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "PremierMedia", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "premiergroup-premiermediauk-data-scientist", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101053881, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "www. premiergroupuk. com", 
+    "logo": "urn:li:media:/p/1/000/21f/026/1ce9f60. png", 
+    "universalName": "premier-group-recruitment", 
+    "companyId": 401618
+  }, 
+  "description": "    This is a very unusual opportunity for a talented data scientist that    is interested in machine learning and data modelling within agile    technology environments.     The role is to work closely with a CTO who is hoping to revolutionise    the technological approach within his company.     To Work Within This Role You Will Need       Technical Knowledge: Python or R       Interest in machine learning or commercial experience within it       An MSc     You must above all have a passion for data science and the ways in    which it influences technology.     The permanent salary on this is flexible.     You do not have to be either a senior or a junior,  what must come    through is passion and a collaborative approach to your work.     Premier are acting as an employment agency", 
+  "companyDescription": "      PremierMedia    Premier Group is one of the UK’s leading recruitment agencies,  offering    high quality recruitment services to the whole of the UK and    continental Europe.  We now operate from 4 main offices Reading,  London,     Manchester and Birmingham with a view to further regional expansion in    the UK and Europe across 2015/2016.     We focus on delivering a comprehensive recruitment solution across the    IT,  Media and Engineering sectors,  keeping the entire process of hiring    staff as smooth and efficient as possible.     In 2015 Premier Group was voted 15th Best Company to work for in the UK    by The Sunday Times and we have placed 6th and 13th in previous years. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

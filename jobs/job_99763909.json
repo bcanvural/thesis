@@ -1,0 +1,165 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "formattedEmploymentStatus": "Full-time", 
+  "descriptionLanguage": "he", 
+  "decoratedCompany": {
+    "localizedDescription": "GotFriends is the Group’s recruitment and placement agency.  It provides unique placement services based on a special website that compensates people for referring applicants through a refer-a-friend method. \r\rהקריירה שלכם - העבודה שלנו\rחברת GotFriends היא חברת השמה בהייטק היחידה בישראל המבוססת על רשת חברתית לגיוס עובדים.  \rהחברה פועלת בשיטת 'גיוס-תגמול' ומתמחה בגיוס עובדים לענפי ההיי-טק השונים - בהם תוכנה,  חומרה ותשתיות. ", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAMAAAAAJDEyNGNkMjYzLTc4NmUtNDUzNy1iOWE0LTExNWNkYzcxNDA4OA. png"
+    }, 
+    "canonicalName": "Gotfriends", 
+    "company": {
+      "universalName": "gotfriends", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAcNAAAAJGM4MzQ5YTRmLTk0MDEtNGRiZi1iMGQ1LTM4NmM3MWNjMzFiOA. png"
+      }, 
+      "companyId": 498675
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "51-200", 
+    "formattedEmployeeCount": "51-200 employees", 
+    "formattedCompanyType": "Privately Held", 
+    "formattedIndustries": [
+      "Human Resources"
+    ]
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Human Resources"
+  ], 
+  "formattedLocation": "Jerusalem,  IL", 
+  "jobPosting": {
+    "expirationDate": 1451714494000, 
+    "veteranCommitted": false, 
+    "id": 99763909, 
+    "title": "Data Scientist לחברת Start Up מובילה", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 556, 
+          "type": "BR", 
+          "endIdx": 556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 556, 
+          "type": "BR", 
+          "endIdx": 556, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 530, 
+          "type": "BR", 
+          "endIdx": 530, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 530, 
+          "type": "BR", 
+          "endIdx": 530, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 511, 
+          "type": "BR", 
+          "endIdx": 511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 511, 
+          "type": "BR", 
+          "endIdx": 511, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 458, 
+          "type": "BR", 
+          "endIdx": 458, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 382, 
+          "type": "BR", 
+          "endIdx": 382, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 350, 
+          "type": "BR", 
+          "endIdx": 350, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 288, 
+          "type": "BR", 
+          "endIdx": 288, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 203, 
+          "type": "BR", 
+          "endIdx": 203, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 144, 
+          "type": "BR", 
+          "endIdx": 144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 144, 
+          "type": "BR", 
+          "endIdx": 144, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 116, 
+          "type": "BR", 
+          "endIdx": 116, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "GotFriendsלחברת Start Up מובילה בתחום ה- ADDS ON הממוקמת באזור המרכז,  דרוש/ה Data Scientist למחקר ומימוש אלגוריתמים. תנאים מעולים ושכר יוצא דופן!דרישות התפקיד:ניסיון במחקר ומימוש אלגוריתמים של BIG DATA.   לפחות 4-5 שנות ניסיון בפיתוח ומימוש אלגוריתמים בתחום של DATA MINING/MACHINE LEARNING. תואר ראשון ושני במתמטיקה/סטטיסטיקה/מדעי מחשב ממוסד אקדמי מוכר. מימוש ב- JAVA  או Python- יתרון. ניסיון ב- Hadoop,  MapReduce concepts,  streaming algorithms and Spark- יתרון. חשיבה אנליטית,  יכולת עבודה עצמאית,  חשיבה מחוץ לקופסה. שנות נסיון:5-6 שניםאיזורים:מרכז,  השרון,  השפלהתחומים:מפתח/ת אלגוריתמים,  Big Data,  JAVA"
+    }, 
+    "postalCode": "99999", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "drushim-9744229", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "GotFriends is the Group’s recruitment and placement agency.  It provides unique placement services based on a special website that compensates people for referring applicants through a refer-a-friend method. הקריירה שלכם - העבודה שלנוחברת GotFriends היא חברת השמה בהייטק היחידה בישראל המבוססת על רשת חברתית לגיוס עובדים.  החברה פועלת בשיטת 'גיוס-תגמול' ומתמחה בגיוס עובדים לענפי ההיי-טק השונים - בהם תוכנה,  חומרה ותשתיות. "
+    }, 
+    "sponsored": false, 
+    "closeDate": 1449317028000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "Gotfriends", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447897329000, 
+    "countryCode": "il", 
+    "company": "urn:li:company:498675"
+  }, 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "companyDescriptionLanguage": "he", 
+  "hasDecoratedCompany": true, 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 2,  2016", 
+  "formattedCloseDate": "December 5,  2015", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99763909?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fwww. drushim. co. il%2Fjob%2F9744229%2F&urlHash=RZXQ&_mSplash=1&csrfToken=ajax%3A2644187314825728846"
+}

@@ -1,0 +1,437 @@
+{
+  "jobPosting": {
+    "companyJobCode": "gettinghired-J3H78F66TJC0JQJ23SN", 
+    "expirationDate": 1451977686000, 
+    "title": "Data Analytics Data Scientist - Big Data - Austin,  TX", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 4456, 
+          "type": "BR", 
+          "endIdx": 4456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4456, 
+          "type": "BR", 
+          "endIdx": 4456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4233, 
+          "type": "I", 
+          "endIdx": 4456, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4233, 
+          "type": "BR", 
+          "endIdx": 4233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4233, 
+          "type": "BR", 
+          "endIdx": 4233, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4145, 
+          "type": "BR", 
+          "endIdx": 4145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 4145, 
+          "type": "BR", 
+          "endIdx": 4145, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3759, 
+          "type": "BR", 
+          "endIdx": 3759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3759, 
+          "type": "BR", 
+          "endIdx": 3759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3504, 
+          "type": "BR", 
+          "endIdx": 3504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3504, 
+          "type": "BR", 
+          "endIdx": 3504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3485, 
+          "type": "B", 
+          "endIdx": 3504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3485, 
+          "type": "BR", 
+          "endIdx": 3485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3261, 
+          "type": "LI", 
+          "endIdx": 3485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3261, 
+          "type": "BG", 
+          "endIdx": 3485, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3261, 
+          "type": "BR", 
+          "endIdx": 3261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3252, 
+          "type": "U", 
+          "endIdx": 3261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3252, 
+          "type": "B", 
+          "endIdx": 3261, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3252, 
+          "type": "BR", 
+          "endIdx": 3252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3252, 
+          "type": "BR", 
+          "endIdx": 3252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3136, 
+          "type": "LI", 
+          "endIdx": 3252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3023, 
+          "type": "LI", 
+          "endIdx": 3136, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2940, 
+          "type": "LI", 
+          "endIdx": 3023, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2885, 
+          "type": "LI", 
+          "endIdx": 2940, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2796, 
+          "type": "LI", 
+          "endIdx": 2885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2674, 
+          "type": "LI", 
+          "endIdx": 2796, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2561, 
+          "type": "LI", 
+          "endIdx": 2674, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2561, 
+          "type": "BG", 
+          "endIdx": 3252, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2561, 
+          "type": "BR", 
+          "endIdx": 2561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "U", 
+          "endIdx": 2561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "B", 
+          "endIdx": 2561, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "BR", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2535, 
+          "type": "B", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2387, 
+          "type": "LI", 
+          "endIdx": 2534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2332, 
+          "type": "LI", 
+          "endIdx": 2387, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2239, 
+          "type": "LI", 
+          "endIdx": 2332, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2157, 
+          "type": "LI", 
+          "endIdx": 2239, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2003, 
+          "type": "LI", 
+          "endIdx": 2157, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1957, 
+          "type": "LI", 
+          "endIdx": 2003, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1885, 
+          "type": "LI", 
+          "endIdx": 1957, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1822, 
+          "type": "LI", 
+          "endIdx": 1885, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1730, 
+          "type": "LI", 
+          "endIdx": 1822, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1636, 
+          "type": "LI", 
+          "endIdx": 1730, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1504, 
+          "type": "LI", 
+          "endIdx": 1636, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "LI", 
+          "endIdx": 1504, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "BG", 
+          "endIdx": 2534, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1322, 
+          "type": "BR", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "U", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "B", 
+          "endIdx": 1322, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "BR", 
+          "endIdx": 1306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1306, 
+          "type": "BR", 
+          "endIdx": 1306, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "BR", 
+          "endIdx": 427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 427, 
+          "type": "BR", 
+          "endIdx": 427, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 15, 
+          "type": "BR", 
+          "endIdx": 15, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 15, 
+          "type": "BR", 
+          "endIdx": 15, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 15, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 15, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Job DescriptionThis is a unique opportunity to get in on the ground floor of a new multi-disciplined team of experienced individuals who will be driving the opportunity identification and solution design,  development,  and deployment of advanced analytics across the global enterprise.   The team will be responsible both for analytics strategy and project-based solutions,  focusing on the company’s most critical business areas. The Data Scientist (Big Data) role requires experience in fully understanding the requirements of working with Big Data to answer business problems.  The role will be responsible for creating statistical and data mining models which allow our business partners to make more informed decisions in the areas of safety,  customer support,  vehicle maintenance,  supply chain,  operations,  marketing and budgeting.  This is a hands-on position and requires the candidate to be highly proficient working with statistical packages such as SAS,  SPSS,  R or similar tools.  We prefer individuals with past management consulting experience working with both strategy and advanced modeling implementations.  It is essential that candidates possess proven experience on professional work engagements,  and can demonstrate proficiency in predictive analytics and data mining in a big data environment. ResponsibilitiesBuild predictive models utilizing both traditional statistical and data mining methods.  Build accurate statistical supervised &amp; unsupervised predictive models using SAS and SPSS. Model the complex relationships among diverse data sets and develop the analytics solution leveraging a big data analytics frameworkExtract,  clean,  and manipulate large datasets (structured and unstructured) for model buildingCommunicate (written and verbal) insights from analyses to technical/non-technical audiencesStay current on the latest machine learning and big data trendsWork with business sponsors and IT teams to implement analytic solutionsTrain,  mentor,  and lead junior data scientistsServe as a technical expert on one or more domains (e. g.  Machine learning,  predictive modeling,  cluster analysis,  Time Series Analysis,  Text Mining,  etc. )Work closely with the software engineering team to productionize analytic softwareCollaborate with system integration and data engineers on data extraction and data cleansing Work in a highly interactive,  team-oriented environmentExcellent written and oral communication skills.  Must be capable of fully,  yet concisely articulating technical concepts to non-technical audiences RequirementsQualifications3+ years of professional work experience as a Data Scientist on strategy or full-life cycle projects is required 3-5+ years recent hands-on experience working with statistical,  data mining tools such as SAS,  SPSS,  R,  or S+ is required 3-5+ years of experience with data mining,  predictive modeling and prescriptive modeling Strong proficiency in SAS or SPSS programming required Proficiency in one or more of the following programming languages: R,  Python,  Hive. Experience as a data science/analytics expert,  ideally with demonstrated big data and machine learning innovationExpert statistical and mathematical skill set,  with advanced techniques such as random forest,  regressions,  GLM etc. EducationAt least a Master’s Degree in a Quantitative field (Engineering,  Computer Science,  Physics,  Economics,  Mathematics,  Statistics or related field).  Extra specialization in customizing adhoc machine-learning algorithms desired. Why General Motors?At GM,  we’ve charged ourselves with one mission: to design,  build and sell the world’s best vehicles.  And to achieve our goals,  we’re currently undergoing one of the largest Information Technology transformations in the history of the automotive industry. GM IT is a leader in cutting edge technologies such as Mobility,  Telematics,  Mission-Critical Business Systems,  Supercomputing,  Vehicle Engineering,  and Real-time Computing.  We offer challenging positions for passionate professionals looking to get in on the ground-floor of a growing “Fortune 5” firm that is re-inventing IT with a laser focus on Innovation,  Speed,  and Business Value. Join our team and experience Information Technology at a scale and pace not seen before!All qualified applicants will receive consideration for employment without regard to race,  color,  religion,  age,  sex,  national origin,  disability,  sexual orientation,  gender identity/expression,  or protected veteran status. "
+    }, 
+    "postalCode": "73301", 
+    "jobState": "LISTED", 
+    "companyName": "General Motors", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "At General Motors,  we are passionate about designing,  building and selling the world’s best vehicles.  This vision unites us as a team each and every day and is the hallmark of our customer-driven culture.  We set high standards for our company so that we can give you the best cars,  trucks and SUVs.  It’s our commitment to deliver vehicles with compelling designs,  flawless quality and reliability,  and leading safety,  fuel economy and infotainment features.  The very things that create that special bond between driver and vehicle.  Whether it’s a Chevrolet,  Buick,  GMC,  Cadillac,  Opel,  Vauxhall or Holden,  making the world’s best vehicles can only happen with the world’s greatest employees.  We take great pride in our work,  and take great care to deliver exceptional cars and a positive ownership experience to our customers in 140 countries around the world. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446641826000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:1472", 
+    "id": 96428631, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Austin,  TX,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/96428631?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. gettinghired. com%2FData-Analytics-Data-Scientist-Big-Data%2FAustin-TX%2FGeneral-Motors-Company%2FJ3H78F66TJC0JQJ23SN&urlHash=C10X&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Automotive"
+  ], 
+  "formattedPostedDaysAgo": "Posted 31 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "31d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedCompanySize": "10001+", 
+    "formattedIndustries": [
+      "Automotive"
+    ], 
+    "hasPaidLcp": true, 
+    "localizedDescription": "At General Motors,  we are passionate about designing,  building and selling the world’s best vehicles.  This vision unites us as a team each and every day and is the hallmark of our customer-driven culture.  \r\rWe set high standards for our company so that we can give you the best cars,  trucks and SUVs.  It’s our commitment to deliver vehicles with compelling designs,  flawless quality and reliability,  and leading safety,  fuel economy and infotainment features.  The very things that create that special bond between driver and vehicle.  \r\rWhether it’s a Chevrolet,  Buick,  GMC,  Cadillac,  Opel,  Vauxhall or Holden,  making the world’s best vehicles can only happen with the world’s greatest employees.  We take great pride in our work,  and take great care to deliver exceptional cars and a positive ownership experience to our customers in 140 countries around the world. ", 
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAKyAAAAJDc5ZDc0ODkyLWIwN2MtNGYxMi1iNjQ4LTZmNTRjZjA3MWU5NA. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAayAAAAJDljMTRjYWMyLTk4NTEtNGYwOS04NzE1LTIzMTBiOGE5ZmQ0Yw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAKyAAAAJDc5ZDc0ODkyLWIwN2MtNGYxMi1iNjQ4LTZmNTRjZjA3MWU5NA. png", 
+    "company": {
+      "specialities": [
+        "Cars", 
+        "Trucks", 
+        "Manufacturing", 
+        "Automotive", 
+        "Vehicles", 
+        "Transportation"
+      ], 
+      "universalName": "general-motors", 
+      "companyId": 1472, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/6/005/039/34c/3b2e2a7. png"
+      }
+    }, 
+    "canonicalName": "General Motors"
+  }, 
+  "formattedListDate": "November 4,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

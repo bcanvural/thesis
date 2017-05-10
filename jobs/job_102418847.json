@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "MeVitae", 
+    "functions": [
+      "RSCH"
+    ], 
+    "companyJobCode": "workable_xml-684FE342BB", 
+    "title": "Data Scientist", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102418847, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      4
+    ]
+  }, 
+  "company": {
+    "companyId": 5296457, 
+    "websiteUrl": "", 
+    "logo": "urn:li:media:/p/3/005/07b/049/11921f1. png", 
+    "universalName": "mevitae"
+  }, 
+  "description": "    MeVitae uses cognitive computing to tackle the biggest global    recruitment challenges.  Situated at the European Space Agency    (Harwell),  MeVitae’s data-driven analytical tools play a growing role    in providing employers real-time awareness into hiring decisions.     About MeVitae: MeVitae is a non-traditional tech-driven recruitment    company,  co-founded by Oxford University graduates.  MeVitae is a small    team,  but vibrant and dynamic start-up working with the best talent in    the industry and backed by several iconic and profitable brands.     About the Position: MeVitae is looking for an exceptional go-getter to    join the strong team in a vibrant Start-up atmosphere to take the    company worldwide. This is position is crucial and it is a chance to    hone your expertise alongside fellow talented professionals,  where    you'll develop some of the most exciting Big Data software solutions on    the market.     MeVitae is seeking an experienced full-time Principal Data Scientist to    join our digital team,  whom will help drive changes through MeVitae by    creating insights from data.  The ideal candidate is a    jack-of-all-trades,  able to work with both third party tools    (investigation,  deployment,  configuration) as well as proprietary    software (coding,  testing,  deployment,  maintenance).  This position    works across all areas of Big Data – web scraping,  API data input,     internal systems,  databases,  and data feeds.     We are looking for Principal Scientists who are passionate about data    and want to apply machine learning techniques to solve real-world    problems for enterprises and consumers.  You will help develop    capabilities for predictive modelling,  text mining,  recommendations,     clustering,  anomaly detection,  forecasting methods and other advanced    statistical techniques.  You will work on all aspects of the design,     development and delivery of machine learning enabled solutions    including problem definition,  data acquisition,  data exploration and    visualisation,  evaluating and comparing metrics,  deploying the models,     iteratively improving the solution,  building the tools for this process    etc.  You will work with data from diverse structured and unstructured    data sources,  and various formats including tabular,  text and time    series.     Duties and Responsibilities       C# and/or . Net coding,  testing,  deployment of proprietary web        applications       Database coding,  maintenance – SQL Server       Evaluation of new tools and processes for our web scraping,         database and data feed groups       Identify and understand data sources within the MeVitae business,         including structured,  unstructured and Big Data       Recommend and use a variety of tools to deliver analytics based on        the data       Written documentation of projects and initiatives        Design and test algorithms that automate the hiring process       Guide stakeholders across the group to implement new algorithms and        methods based on your work by presenting findings in a clear and        confident manner       Write clean code for use by engineers and other analysts in the        organization.      Requirements       Structuring unstructured text       Background in Computer Science,  or equivalent technical field       Knowledge of machine learning and data mining techniques in one or        more areas of statistical modelling methods,  time series,  text        mining,  optimisation,  information retrieval       Ability to prototype and apply statistical analysis and modelling        algorithms and apply these algorithms for data driven solutions to        problems in new domains       Experience in computationally transforming unstructured information        into structured data       Software development skills in one or more high level languages        C#/C/C++/Java or Python/Perl/Shell and R       2+ years of leadership experience with demonstrated excellence in        big data analytics       Some SQL database experience and agile software development        Understanding and experience in leveraging big data for forecasting        analytics       Advanced conceptual,  analytical,  and problem-solving abilities       Exceptional interpersonal and communications (verbal and written)        skills        Fluency in Microsoft Office applications", 
+  "companyDescription": "      MeVitae    MeVitae is the Recruiter's Sixth Sense: the Smart Personalised    Recruitment (SPR) System.  The place to know about recruitment and    technology", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

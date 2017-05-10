@@ -1,0 +1,402 @@
+{
+  "jobPosting": {
+    "companyJobCode": "antal-18199", 
+    "expirationDate": 1451679116000, 
+    "title": "Java Big Data / Hadoop Entwickler (m/w)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2626, 
+          "type": "BR", 
+          "endIdx": 2626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2626, 
+          "type": "BR", 
+          "endIdx": 2626, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2625, 
+          "type": "BR", 
+          "endIdx": 2625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2556, 
+          "type": "LI", 
+          "endIdx": 2624, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2524, 
+          "type": "LI", 
+          "endIdx": 2554, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2524, 
+          "type": "BG", 
+          "endIdx": 2625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2472, 
+          "type": "LI", 
+          "endIdx": 2523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2367, 
+          "type": "LI", 
+          "endIdx": 2470, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2367, 
+          "type": "BG", 
+          "endIdx": 2524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2367, 
+          "type": "BR", 
+          "endIdx": 2367, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2353, 
+          "type": "B", 
+          "endIdx": 2367, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2353, 
+          "type": "BR", 
+          "endIdx": 2353, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2353, 
+          "type": "BR", 
+          "endIdx": 2353, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2264, 
+          "type": "LI", 
+          "endIdx": 2352, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2185, 
+          "type": "LI", 
+          "endIdx": 2262, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2116, 
+          "type": "LI", 
+          "endIdx": 2183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2071, 
+          "type": "LI", 
+          "endIdx": 2114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2018, 
+          "type": "LI", 
+          "endIdx": 2069, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1987, 
+          "type": "LI", 
+          "endIdx": 2016, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1926, 
+          "type": "LI", 
+          "endIdx": 1985, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1883, 
+          "type": "LI", 
+          "endIdx": 1922, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1853, 
+          "type": "LI", 
+          "endIdx": 1880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1853, 
+          "type": "BG", 
+          "endIdx": 1924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1805, 
+          "type": "LI", 
+          "endIdx": 1924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1746, 
+          "type": "LI", 
+          "endIdx": 1803, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1666, 
+          "type": "LI", 
+          "endIdx": 1744, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1666, 
+          "type": "BG", 
+          "endIdx": 2353, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1666, 
+          "type": "BR", 
+          "endIdx": 1666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1655, 
+          "type": "B", 
+          "endIdx": 1666, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1655, 
+          "type": "BR", 
+          "endIdx": 1655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1655, 
+          "type": "BR", 
+          "endIdx": 1655, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1654, 
+          "type": "BR", 
+          "endIdx": 1654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1531, 
+          "type": "LI", 
+          "endIdx": 1653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1294, 
+          "type": "LI", 
+          "endIdx": 1529, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1140, 
+          "type": "LI", 
+          "endIdx": 1292, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1019, 
+          "type": "LI", 
+          "endIdx": 1138, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 751, 
+          "type": "LI", 
+          "endIdx": 1017, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 541, 
+          "type": "LI", 
+          "endIdx": 749, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 541, 
+          "type": "BG", 
+          "endIdx": 1654, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 541, 
+          "type": "BR", 
+          "endIdx": 541, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 525, 
+          "type": "B", 
+          "endIdx": 541, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 525, 
+          "type": "BR", 
+          "endIdx": 525, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 525, 
+          "type": "BR", 
+          "endIdx": 525, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 524, 
+          "type": "BR", 
+          "endIdx": 524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 478, 
+          "type": "B", 
+          "endIdx": 524, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 478, 
+          "type": "BR", 
+          "endIdx": 478, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 27, 
+          "type": "BR", 
+          "endIdx": 27, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job DescriptionUnser Mandant ist ein erfolgreiches und renommiertes deutsches Großunternehmen mit 13, 000 Mitarbeitern weltweit.  Das Unternehmen beschäftigt sich seit mehr als 80 Jahren mit der Erfassung und Auswertung sehr großer  Datenmengen in unterschiedlichen Märkten,  mit dem Ziel aus Daten intelligente Informationen zu gewinnen.   Für den internen IT-Bereich des Unternehmens suchen wir aktuell in unbefristeter Festanstellung am Standort Nürnberg nach einem  Java Entwickler im BigData Umfeld/Hadoop (m/w) Ihre Aufgaben:  In einer hochmodernen Landschaft von Entwicklungs-,  Design- und Analysewerkzeugen sind Sie für die technische Konzeption und Entwicklung eines weltweit eingesetzten Daten-Produktionssystems mitverantwortlich.   In diesem Umfeld entwickeln Sie Systemkomponenten unter Einsatz moderner Java-Frameworks/Big Data-Technologien wie z. B.  Java EE,  Hibernate,  Hadoop und Oozie.  Dabei kommen im Software-Entwicklungsprozess Continuous Integration und Test-driven-Development zum Einsatz.   Je nach Erfahrung analysieren Sie vorab grob-granulare Business-Anforderungen hinsichtlich einer technischen Umsetzung.   Unter Berücksichtigung der Architektur-Richtlinien dokumentieren Sie anschließend technische Design-Entscheidungen auf Basis eines funktionalen Designs.   Darüber hinaus gehören die Erstellung von automatisierten Unit-Tests begleitend zur Implementierung ebenso zu Ihrer täglichen Aufgabe wie die Zusammenarbeit mit Nachbardisziplinen wie funktionales Design,  funktionaler Test und Betrieb.   Nach dem Rollout übernehmen Sie abschließend die Analyse und Klärung von Systemproblemen im Rahmen des 3rd-Level-Supports.    Ihr ProfilAusbildung/Studium im Bereich Informatik oder eine vergleichbare Qualifikation  Mehrjährige Erfahrung in der Softwareentwicklung mit Java  Je nach Fokussierung praktische Kenntnisse in:  Java EE,  Hibernate und/oder   Apache Hadoop,  HBase,  Spark,  oder Oozie    Unit Testing und Clean Code sind für Sie selbstverständlich  Erfahrung im Umgang mit Linux  Praktische Erfahrungen mit relationalen Datenbanken  Gute Englischkenntnisse in Wort und Schrift  Hilfreich sind Kenntnisse in der Web-Entwicklung (AngularJS,  HTML5)  Hilfreich sind Kenntnisse in Entwicklungstooling (Gradle,  Git,  IntelliJ IDEA)  Sie haben Interesse an moderner Technologie und möchten gerne im BigData-Umfeld arbeiten Angeboten WirdUnbefristete Festanstellung bei einem renommierten Top-Arbeitgeber mit guten Entwicklungsperspektiven    Attraktives Gehalt und sehr gute Sozialleistungen   Internationale Arbeitsumgebung  Arbeit mit neuesten Technologien und interessanten Fragestellungen    "
+    }, 
+    "postalCode": "90403", 
+    "jobState": "LISTED", 
+    "companyName": "Antal", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "THE BEST UK OVERSEAS OPERATION AT THE GLOBAL RECRUITER INDUSTRY AWARDS 2013Antal International is a global executive recruitment organisation with over 120 offices in more than 30 countries. www. antal. comWe have offices in United Kingdom,  Bulgaria,  China,  Croatia,  Czech Republic,  Egypt,  France,  Germany,  Ghana,  Greece,  Hong Kong,  Hungary,  India,  Ireland,  Italy,  Jordan,  Luxembourg,  Netherlands,  Nigeria,  Pakistan,  Panama,  Philippines,  Poland,  Romania,  Russia,  Singapore,  South Africa,  Spain,  Switzerland,  Turkey,  UAEFacebook: www. facebook. com/antal. intTwitter: @antal_intlGoogle+ www. google. com/+antal"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "ENG"
+    ], 
+    "listDate": 1446710435000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:6279", 
+    "id": 96671091, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Nürnberg,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "THE BEST UK OVERSEAS OPERATION AT THE GLOBAL RECRUITER INDUSTRY AWARDS 2013\r\rAntal International is a global executive recruitment organisation with over 120 offices in more than 30 countries. \r\rwww. antal. com\r\rWe have offices in United Kingdom,  Bulgaria,  China,  Croatia,  Czech Republic,  Egypt,  France,  Germany,  Ghana,  Greece,  Hong Kong,  Hungary,  India,  Ireland,  Italy,  Jordan,  Luxembourg,  Netherlands,  Nigeria,  Pakistan,  Panama,  Philippines,  Poland,  Romania,  Russia,  Singapore,  South Africa,  Spain,  Switzerland,  Turkey,  UAE\r\rFacebook: www. facebook. com/antal. int\rTwitter: @antal_intl\rGoogle+ www. google. com/+antal", 
+    "foundedYear": 1993, 
+    "canonicalName": "Antal International", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAPuAAAAJDBkMmU0NzI5LTY2MjUtNGVlYi1hN2I1LWFhYzRhMzIwY2YzMg. png"
+    }, 
+    "company": {
+      "specialities": [
+        "executive recruitment", 
+        "executive search", 
+        "headhunting", 
+        "staffing", 
+        "recruiter", 
+        "recruiting", 
+        "recruitment", 
+        "Human resources", 
+        "search", 
+        "sales", 
+        "accountancy", 
+        "marketing", 
+        "legal", 
+        "banking", 
+        "logistics", 
+        "engineering", 
+        "renewables", 
+        "information technology", 
+        "accounting", 
+        "energy"
+      ], 
+      "universalName": "antal-international", 
+      "companyId": 6279, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/03e/25f/3521bf0. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Engineering"
+  ], 
+  "formattedExperience": "Entry level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 30 days ago", 
+  "formattedPostedDaysAgoSlim": "30 days ago", 
+  "formattedPostedDaysAgoShort": "30d", 
+  "companyDescriptionLanguage": "de", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 5,  2015", 
+  "formattedExpireDate": "January 1,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/96671091?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. antal. com%2Fjobs%2Fnuremberg%2Fgermany%2Finformation-technology%2Fjava-big-data-hadoop-entwickler-mw%2F18199&urlHash=6SEv&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

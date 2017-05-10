@@ -1,0 +1,248 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-bd9c6cb8-d58c-4b3c-a3f6-e97c508d974a", 
+    "expirationDate": 1451907480000, 
+    "title": "Data and Text mining/ Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 992, 
+          "type": "LI", 
+          "endIdx": 1124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 959, 
+          "type": "LI", 
+          "endIdx": 987, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 908, 
+          "type": "LI", 
+          "endIdx": 954, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 798, 
+          "type": "LI", 
+          "endIdx": 903, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 718, 
+          "type": "LI", 
+          "endIdx": 793, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 680, 
+          "type": "LI", 
+          "endIdx": 713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 469, 
+          "type": "LI", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 412, 
+          "type": "LI", 
+          "endIdx": 464, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 328, 
+          "type": "LI", 
+          "endIdx": 407, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 292, 
+          "type": "LI", 
+          "endIdx": 323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 252, 
+          "type": "LI", 
+          "endIdx": 287, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 126, 
+          "type": "LI", 
+          "endIdx": 247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 121, 
+          "type": "BG", 
+          "endIdx": 1124, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 121, 
+          "type": "BR", 
+          "endIdx": 121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "U", 
+          "endIdx": 121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "B", 
+          "endIdx": 121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "BR", 
+          "endIdx": 110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 110, 
+          "type": "BR", 
+          "endIdx": 110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "B", 
+          "endIdx": 110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 91, 
+          "type": "BR", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "B", 
+          "endIdx": 91, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "BR", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Job Title:  Data and Text mining/ Data ScientistLocation: Lake County,  IL 60064Duration: 8 Months Requirement     Responsible for managing Incidents and Service Technical skills to administer and monitor Text Mining / NLP applications.      Python &amp; Pearl Scripting Skills     Data Mining and Indexing Skills     Use analytical tools to identify service improvements and drive them to closure     Expertise in predictive modeling,  Data visualization     Should be willing to learn new skills and tools that are used in the projects like Python/Django,  MongoDB,  Hadoop, Matlab, Oracle SQL,  PL/SQL,  Unix,  Java,  . Net,  SQL Server,  Pipeline Pilot,  D3,  GUI development     Develop complex NLP-based queries     Must have ability to work in a multi-system and multi-platform environment.      Responsible for project coordination with business users and stakeholders during an execution of project.      Responsible for testing business functionality     Must be able to train novice     Good communication and documentation skills,  work in team environment,  good at knowledge-sharing,  quick learner,  proactive and agile"
+    }, 
+    "postalCode": "60064", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1446742558000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 96751216, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "North Chicago,  IL,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "canonicalName": "Spectraforce Technologies", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "hasPaidLcp": false, 
+    "formattedCompanySize": "501-1000", 
+    "formattedEmployeeCount": "501-1000 employees"
+  }, 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 30 days ago", 
+  "formattedPostedDaysAgoSlim": "30 days ago", 
+  "formattedPostedDaysAgoShort": "30d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 5,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/96751216?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3Dbd9c6cb8-d58c-4b3c-a3f6-e97c508d974a%26OrgId%3D1%26UserId%3D1&urlHash=mcIg&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

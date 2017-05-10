@@ -1,0 +1,20 @@
+{
+  "companyDescription": null, 
+  "following": false, 
+  "skillsDescription": null, 
+  "protocol": "https://", 
+  "lang": "en", 
+  "locale": "en_US", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/90310626", 
+  "descriptionLanguage": "en", 
+  "description": "Job Introduction   High quality,  cost effective distribution of digital media over IP is essential for the continuing success of products from iPlayer to BBC News,  and a key goal for the BBC's technology strategy.  We're looking for experienced engineers to help us design,  build and operate the BBC's media distribution infrastructure.  Join a small group of engineers working on the technology foundations of the BBC's Digital division.  We are a motivated team with a supportive engineering culture,  passionate about non-functionals.  We focus on media,  but also work across the BBC's public cloud and on-premise platforms.  Role Responsibility   The Online Technology Group's Engineering team works across on-premises and public cloud platforms.  We're clustered around specific domains or groups of products,  such as media distribution infrastructure.  You'll work closely alongside around six other engineers,  and partner with a product manager to define direction and technical approach.  Our method is agile/ lean,  with an emphasis on the principles underlying continuous improvement and delivery.  KEY ACCOUNTABILITIES Design,  build and test software and hardware systems in line with functional and non-functional requirements Deploy,  maintain and operate services and tools as part of BBC Digital's overall architecture Collaborate with your team to improve the quality of your collective work,  and share knowledge Use your technical experience to steer decision making within your team and mentor our juniors Scout for technology or process innovations outside your team,  and represent your team's achievements inside and outside the BBC The Ideal Candidate   We would like to hear about your experience of: Taking a senior role in a software engineering team,  guiding at least one complex software project from design through to operation Implementing systems and application monitoring with Graphite/ Carbon Designing and building systems for stream and batch analytics Implementing and operating Amazon Web Services technologies,  including CloudWatch,  Kinesis,  EMR,  Lambda About the Company   We don’t focus simply on what we do – we also care how we do it.  Our values and the way we behave are very important to us.  Please make sure you’ve read about our values and behaviours in the document attached below.  You’ll be asked questions relating to them as part of your application for this role. ", 
+  "jobPosting": {
+    "title": "Senior Software Engineer - Big Data / Analytics ", 
+    "companyName": "BBC"
+  }, 
+  "hostname": "linkedin. com", 
+  "companyId": "1762", 
+  "canFollow": false, 
+  "companyName": "BBC", 
+  "bottom": "true"
+}

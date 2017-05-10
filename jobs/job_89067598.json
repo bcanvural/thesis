@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Rothamsted Research", 
+    "functions": [
+      "SCI", 
+      "RSCH", 
+      "IT"
+    ], 
+    "companyJobCode": "1467", 
+    "title": "Computer Vision Software Developer / Spatial Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "PREMIUM", 
+    "veteranCommitted": false, 
+    "id": 89067598, 
+    "experienceLevel": "ASSOCIATE", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      70
+    ]
+  }, 
+  "company": {
+    "companyId": 2313012, 
+    "websiteUrl": "http://www. rothamsted. ac. uk", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAKRAAAAJGI2YWRkMDQzLTAwYjMtNDVjZi04ZDU2LTg0NWJiN2MzYTcwYg. png", 
+    "universalName": "rothamsted-research"
+  }, 
+  "description": "     Rothamsted Research is seeking to appoint a Computer Vision Software    Developer/Spatial Data Analyst to join the field phenotyping team.  The    position offers the opportunity to engage in collaboration within an    ambitious team,  to work with state-of-the-art imaging hardware and    software for the new phenotyping platform and for extraction of    information from UAV collected data.  It is an exceptional opportunity    for growth and experience in a novel and technologically advanced area    as well as the chance to work with scientific researchers at    Rothamsted.       In this project,  we will investigate 3D imaging technologies to    identify and analyse plant growth and health.  This will provide a key    underpinning step towards the development of a fully automatic field    phenotyping system.  You will be expected to specialise in software    development for image analysis,  especially using 3D RGB-D and point    cloud data.  In addition expertise in vector data and raster images (RGB    and multispectral) would be an advantage.       This fixed term post is initially for 12 months.      Closing date is 18/12/15     Interviews to be held: 14/01/15", 
+  "companyDescription": "      Rothamsted Research    [1]Following companyUnfollow company[2]Follow company     Rothamsted Research,  Harpenden Site is located within commuting    distance of Central London.   We have access to excellent local and    leisure facilities,  on-site nursery and play scheme 25 days holiday and    an attractive benefits package.  Our commitment to learning and    development,  as well as equality and diversity,  create a welcoming    environment for all prospective employees.    Other jobs at Rothamsted Research        [3]Molecular Biologist        Harpenden       [4]R&D Bioprocessing Engineer        Plymouth       [5]Post-Doctoral Research Scientist        Harpenden     [6]View more jobs at Rothamsted Research  References     1.  file:///jobs2/view/actions/unfollowCompany/2313012?csrfToken=ajax:2644187314825728846    2.  file:///jobs2/view/actions/followCompany/2313012?csrfToken=ajax:2644187314825728846    3.  https://www. linkedin. com/jobs2/view/87862413?trk=job_view_company_other_jobs    4.  https://www. linkedin. com/jobs2/view/87806802?trk=job_view_company_other_jobs    5.  https://www. linkedin. com/jobs2/view/89052567?trk=job_view_company_other_jobs    6.  https://www. linkedin. com/company/rothamsted-research/careers?trk=job_view_company_see_more_jobs", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

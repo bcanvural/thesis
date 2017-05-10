@@ -1,0 +1,29 @@
+{
+  "jobPosting": {
+    "companyName": "RED - The Global SAP Solutions Provider", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "aafcc56feccb4a0b56ab109adb544ca5", 
+    "title": "SAP Data Analyst", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101011935, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      96
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. redsapsolutions. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAAKaAAAAJGE0YmQ0MjI4LTFiYTktNDJmOC1iYmM2LWUyMjczODlkOWVkNw. png", 
+    "universalName": "red-commerce", 
+    "companyId": 15014
+  }, 
+  "description": "     We are looking for an experienced Business facing data analyst to    assist with the data preparation ahead of the impending data go-live.     This assignment is critical,  you will be joining the project data    preparation and as such should have experience in a similar SAP    environment - ideally working with data from a number of different SAP    modules,  primarily Logistics.     Acts as subject matter expert on master data towards data owners and    data requester    Ensures that data replication from / to SAP is monitored and checked    for consistency and accuracy,  and appropriate actions are taken when    necessary    Ensures consistent use of data across systems    Maintain documentation on authorities for metadata elements    Working with the Data Load team - to resolve errors    Data Manipulation,  data load sheets,  data files,  working on Error    reports    You will have previous data management experience    You will have experience of managing master data in SAP for global    manufacturing organization.     You will have strong interpersonal skills and a methodical approach,     with the ability to communicate effectively across different levels of    the organization    Spanish Language skills would be an advantage. ", 
+  "companyDescription": "      RED - The Global SAP Solutions Provider    RED is a Global SAP Solutions and SAP Services Partner provider    dedicated to helping organisations do one thing – leverage their SAP    investment to unlock competitive advantage.     From SAP recruitment to SAP innovation,  RED can support every phase of    your SAP application lifecycle,  whether you choose to deploy SAP in the    cloud or on-premise.  No other company has this combination of service    offerings,  scale and SAP experience.     RED Staffing:    • RED Contract Solutions – Independent SAP Experts    • RED Permanent Solutions – Employed SAP professionals    RED’s suite of SAP services is united by one thing; access to the best    SAP professionals across the world.  It’s what we like to call the RED    Difference.  It’s what makes us the trusted SAP partner to 1000s of    growing businesses across the world,  including SAP.     RED operates all over the world,  for all sizes of organisations and    across every industry.  A global network of 330, 000 SAP professionals is    combined with business and consulting experience.  No one has the    breadth or depth of SAP knowledge as RED.     When it comes to SAP,  no one delivers like RED. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

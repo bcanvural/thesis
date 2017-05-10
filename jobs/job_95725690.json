@@ -1,0 +1,563 @@
+{
+  "jobPosting": {
+    "companyJobCode": "ing_nljobs-041962", 
+    "expirationDate": 1451900427000, 
+    "title": "Data Scientist - keyrole in credit risk - International", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3713, 
+          "type": "BR", 
+          "endIdx": 3713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3713, 
+          "type": "BR", 
+          "endIdx": 3713, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3712, 
+          "type": "BR", 
+          "endIdx": 3712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3712, 
+          "type": "BR", 
+          "endIdx": 3712, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3461, 
+          "type": "BR", 
+          "endIdx": 3461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3461, 
+          "type": "BR", 
+          "endIdx": 3461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3412, 
+          "type": "B", 
+          "endIdx": 3461, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3412, 
+          "type": "BR", 
+          "endIdx": 3412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3412, 
+          "type": "BR", 
+          "endIdx": 3412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3411, 
+          "type": "BR", 
+          "endIdx": 3411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3411, 
+          "type": "BR", 
+          "endIdx": 3411, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2897, 
+          "type": "BR", 
+          "endIdx": 2897, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2897, 
+          "type": "BR", 
+          "endIdx": 2897, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2888, 
+          "type": "B", 
+          "endIdx": 2897, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2888, 
+          "type": "BR", 
+          "endIdx": 2888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2873, 
+          "type": "LI", 
+          "endIdx": 2888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2818, 
+          "type": "LI", 
+          "endIdx": 2873, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2732, 
+          "type": "LI", 
+          "endIdx": 2818, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2547, 
+          "type": "LI", 
+          "endIdx": 2732, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2500, 
+          "type": "LI", 
+          "endIdx": 2547, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2377, 
+          "type": "LI", 
+          "endIdx": 2500, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2256, 
+          "type": "LI", 
+          "endIdx": 2377, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2183, 
+          "type": "LI", 
+          "endIdx": 2256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "LI", 
+          "endIdx": 2183, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "BG", 
+          "endIdx": 2888, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2133, 
+          "type": "BR", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2122, 
+          "type": "U", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2122, 
+          "type": "B", 
+          "endIdx": 2133, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2122, 
+          "type": "BR", 
+          "endIdx": 2122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2122, 
+          "type": "BR", 
+          "endIdx": 2122, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2121, 
+          "type": "BR", 
+          "endIdx": 2121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2121, 
+          "type": "BR", 
+          "endIdx": 2121, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1694, 
+          "type": "BR", 
+          "endIdx": 1694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1694, 
+          "type": "BR", 
+          "endIdx": 1694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1671, 
+          "type": "B", 
+          "endIdx": 1694, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1671, 
+          "type": "BR", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1671, 
+          "type": "BR", 
+          "endIdx": 1671, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1670, 
+          "type": "BR", 
+          "endIdx": 1670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1670, 
+          "type": "BR", 
+          "endIdx": 1670, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1357, 
+          "type": "BR", 
+          "endIdx": 1357, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1357, 
+          "type": "BR", 
+          "endIdx": 1357, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "B", 
+          "endIdx": 1357, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1326, 
+          "type": "BR", 
+          "endIdx": 1326, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1325, 
+          "type": "BR", 
+          "endIdx": 1325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1325, 
+          "type": "BR", 
+          "endIdx": 1325, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 702, 
+          "type": "BR", 
+          "endIdx": 702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 702, 
+          "type": "BR", 
+          "endIdx": 702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 649, 
+          "type": "B", 
+          "endIdx": 702, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 649, 
+          "type": "BR", 
+          "endIdx": 649, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 649, 
+          "type": "BR", 
+          "endIdx": 649, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 648, 
+          "type": "BR", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 648, 
+          "type": "BR", 
+          "endIdx": 648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 413, 
+          "type": "BR", 
+          "endIdx": 413, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 413, 
+          "type": "BR", 
+          "endIdx": 413, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 370, 
+          "type": "B", 
+          "endIdx": 412, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 370, 
+          "type": "BR", 
+          "endIdx": 370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 370, 
+          "type": "BR", 
+          "endIdx": 370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 369, 
+          "type": "BR", 
+          "endIdx": 369, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 369, 
+          "type": "BR", 
+          "endIdx": 369, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 263, 
+          "type": "BR", 
+          "endIdx": 263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 263, 
+          "type": "BR", 
+          "endIdx": 263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "B", 
+          "endIdx": 263, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "BR", 
+          "endIdx": 114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "BR", 
+          "endIdx": 114, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 113, 
+          "type": "BR", 
+          "endIdx": 113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 113, 
+          "type": "BR", 
+          "endIdx": 113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "B", 
+          "endIdx": 113, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 94, 
+          "type": "BR", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "B", 
+          "endIdx": 94, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "BR", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 31, 
+          "type": "BR", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "B", 
+          "endIdx": 31, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Data Scientist ING. Playing a lead role in Credit Risk within international bankingLocation: Amsterdam Do you want to have a lead role in data analysis developments that break new ground in banking? Do you aspire to a position in an international team?Then,  apply at the Advanced Analytics Team and become a Data Scientist who takes the lead in data analysis The financial world is making huge strides. Changes are taking place in rapid succession.  Across the world,  ING wants to play a role in these changes.  We believe that clever use of data analysis with people who excel in this dynamic domain is crucial in distinguishing ourselves.  Learning a lot and pioneering in dynamic surroundingsAs a Data Scientist you are part of the Advanced Analytics Team containing a total of 13 specialists.  You are working directly with blackbelts,  computer scientists and other data scientists; partly highly experienced,  partly less experienced.  The team works international for all ING divisions worldwide. You are working in really amicable and dynamic surroundings where we spend each dayworking on innovation and new business opportunities.  The team’s goal is to use data technologies to solve all kinds of strategic business questions,  in order to anticipate the desires,  needs and interests of our customers even better.   Interesting terms of employmentAs a Data Scientist at ING,  this fulltime position(40 hours a week) offers you an excellent salary and superb fringe benefits.  Apart from that,  you will be given sufficient development opportunities,  both locally and internationally,  and you will be entitled to support in the event of any relocation from abroad.  Who are we looking for?You are an enthusiastic and entrepreneurial Data Scientis who achieves maximum results from projects.  You have 3+ years credit risk experience.  You have the leadership and management qualities to be a frontrunner within these projects as well as within your team.  You are very socially competent and a highly skilled communicator who is able to work with parties concerned on all levels within an organization.  You are handson.  FurthermoreYou speak and write the English language fluently;You have at least 2+ years of relevant work experience in data/analytics;You have completed a master’s degree with honors inComputer Science,  Mathematics or in another relevant field of studies;You have experience in one or more of the following areasof expertise: data architecture,  data mining and/or data analysis;You have relevant Machine Learning experiences, You can preferably vouch for entrepreneurship (for instance,  because you once started your own business,  worked at a start-up,  or because you managed innovation teams within companies);You display a natural instinct for innovation and pragmatic ‘out-of-the-box’ thinking;You preferably have experience with Agile/Scrum aswell. 20% travelling. About INGING is a global financial institution of Dutch origin.  We draw on our experience and expertise,  our commitment to excellent service and our global scale to meet the needs of a broad customer base,  comprising individuals,  families,  small businesses,  large corporations, institutions and governments.  Our strengths include our relatively high customer satisfaction levels,  solid financial position,  multi-channel distribution strategy and international network.  Moreover,  ING is a sustainability leader in its sector.  In need of further information or ready to apply?Can you identify with this profile? Then apply and become a Data Scientist at the ING Advanced Analytics Team.  Do you have any questions about this position? Then contact Rob van Elburg,  Global  IT Recruiter,  via +31-6-20210769 or rob. vanelburg@ing. nl "
+    }, 
+    "postalCode": "5540", 
+    "jobState": "LISTED", 
+    "companyName": "ING Nederland", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Met ruim 8, 9 miljoen rekeninghouders is de ING één van de grootste en meest toonaangevende financiële dienstverleners van Nederland.  We zijn onderdeel van ING Groep,  een wereldwijd opererende financiële instelling met 94. 000 medewerkers,  waarvan er 26. 000 bij ING Nederland werken.  ING Groep heeft ruim 67 miljoen klanten in meer dan 40 landen in Europa,  Noord-Amerika,  Latijns-Amerika,  Azië en Australië. Het is onze ambitie om mee te bouwen aan een financieel gezonde en duurzame samenleving voor Nederland,  voor haar inwoners,  voor haar bedrijfsleven en voor haar instellingen. Sinds 2005 investeren we samen met UNICEF in onderwijsprojecten. Sinds 2010 is ING hoofdsponsor van het Nederlands Elftal. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "FIN"
+    ], 
+    "listDate": 1446228316000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:215713", 
+    "id": 95725690, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Holland,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanyType": "Public Company", 
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "careersImageLink": "https://media. licdn. com/media/p/2/005/08c/043/21c4a9f. png", 
+    "localizedDescription": "Met ruim 8, 9 miljoen rekeninghouders is de ING één van de grootste en meest toonaangevende financiële dienstverleners van Nederland.  \r\rWe zijn onderdeel van ING Groep,  een wereldwijd opererende financiële instelling met 94. 000 medewerkers,  waarvan er 26. 000 bij ING Nederland werken.  ING Groep heeft ruim 67 miljoen klanten in meer dan 40 landen in Europa,  Noord-Amerika,  Latijns-Amerika,  Azië en Australië. \r\rHet is onze ambitie om mee te bouwen aan een financieel gezonde en duurzame samenleving voor Nederland,  voor haar inwoners,  voor haar bedrijfsleven en voor haar instellingen. \r\rSinds 2005 investeren we samen met UNICEF in onderwijsprojecten. \r\rSinds 2010 is ING hoofdsponsor van het Nederlands Elftal. ", 
+    "formattedIndustries": [
+      "Banking"
+    ], 
+    "canonicalName": "ING Nederland", 
+    "careersImage": "urn:li:media:/p/2/005/08c/043/21c4a9f. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAVeAAAAJDgyYzIxM2VhLTYxMWItNDg3My1iNDg4LWNlNWM2ZDczNzhiMA. png"
+    }, 
+    "company": {
+      "universalName": "ing-nederland", 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAASWAAAAJDgxNjk0YTVkLTE2ZDItNDExMS1hZjI4LWVhZjQ3OTRjODQwZQ. png"
+      }, 
+      "companyId": 215713
+    }, 
+    "hasPaidLcp": true
+  }, 
+  "formattedJobFunctions": [
+    "Research", 
+    "Finance"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Banking"
+  ], 
+  "formattedPostedDaysAgo": "Posted 36 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "36d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "October 30,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/95725690?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. ing. jobs%2FNederland%2FVacatures%2FVacature%2FData-Scientist-keyrole-in-credit-risk-International-2. htm%3Forg%3Dsearchresult&urlHash=Kzja&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time"
+}

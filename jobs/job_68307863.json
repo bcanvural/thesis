@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/68307863", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": null, 
+  "following": false, 
+  "companyDescription": "Windward is a maritime data and analytics company,  bringing unprecedented visibility to the maritime domain.   Windward has built the world's first maritime data platform,  the Windward Mind,  which analyzes and organizes the world's maritime data.  The Windward Mind makes the data accessible and actionable across verticals,  from flagging criminal threats at sea to identifying new market trading opportunities.  Windward’s data and insights are in wide use by Intelligence,  Security and Law Enforcement Agencies worldwide.  Windward is now bringing the same unique data and insights to the world of Finance,  giving traders,  investors and analysts access to a gold mine of untapped market opportunities. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Windward. ", 
+  "canFollow": false, 
+  "companyId": "2680190", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Windward. ", 
+    "title": "Senior Data Scientist"
+  }, 
+  "description": "Job Description:   You’ll be responsible for creating and implementing various models on unique datasets,  developing the algorithm all the way from an idea to a working piece of code in production.  The algorithms may be related to predictive modeling,  classifications and ship behavioral patterns.  You’ll be working on a scalable distributed research environment based on Apache Spark; you’ll be defining research tools on top of this environment that may be needed to improve your agility,  and accurately measure algorithm performance.  We are looking for a brilliant problem solver with a passion for data to join a fast paced company who is changing the maritime world.    Requirements: M. Sc.  or Ph. D.  in Computer Science / Statistics / Mathematics Extensive experience with statistics/analytics tools such as R/Python/Matlab Extensive experience in development of machine learning algorithms in the industry Experience in developing geospatial algorithms an advantage Experience in software development in the industry Experience in knowledge extraction from data"
+}

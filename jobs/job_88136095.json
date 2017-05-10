@@ -1,0 +1,457 @@
+{
+  "jobPosting": {
+    "companyJobCode": "jobvite-otiq1fwW", 
+    "expirationDate": 1451994725000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3472, 
+          "type": "BR", 
+          "endIdx": 3472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3472, 
+          "type": "BR", 
+          "endIdx": 3472, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2946, 
+          "type": "BR", 
+          "endIdx": 2946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2924, 
+          "type": "LI", 
+          "endIdx": 2946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2880, 
+          "type": "LI", 
+          "endIdx": 2924, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2825, 
+          "type": "LI", 
+          "endIdx": 2880, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2769, 
+          "type": "LI", 
+          "endIdx": 2825, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2653, 
+          "type": "LI", 
+          "endIdx": 2769, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2617, 
+          "type": "LI", 
+          "endIdx": 2653, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2549, 
+          "type": "LI", 
+          "endIdx": 2617, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2502, 
+          "type": "LI", 
+          "endIdx": 2549, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2502, 
+          "type": "BG", 
+          "endIdx": 2946, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2502, 
+          "type": "BR", 
+          "endIdx": 2502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "U", 
+          "endIdx": 2502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "B", 
+          "endIdx": 2502, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "BR", 
+          "endIdx": 2492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2492, 
+          "type": "BR", 
+          "endIdx": 2492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2438, 
+          "type": "B", 
+          "endIdx": 2441, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2354, 
+          "type": "LI", 
+          "endIdx": 2492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2282, 
+          "type": "LI", 
+          "endIdx": 2354, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "LI", 
+          "endIdx": 2282, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "BG", 
+          "endIdx": 2492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2202, 
+          "type": "BR", 
+          "endIdx": 2202, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2194, 
+          "type": "U", 
+          "endIdx": 2202, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2194, 
+          "type": "B", 
+          "endIdx": 2202, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2194, 
+          "type": "BR", 
+          "endIdx": 2194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2194, 
+          "type": "BR", 
+          "endIdx": 2194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2088, 
+          "type": "LI", 
+          "endIdx": 2194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2013, 
+          "type": "LI", 
+          "endIdx": 2088, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1928, 
+          "type": "LI", 
+          "endIdx": 2013, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1928, 
+          "type": "BG", 
+          "endIdx": 2194, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1775, 
+          "type": "LI", 
+          "endIdx": 1928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1641, 
+          "type": "LI", 
+          "endIdx": 1775, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1641, 
+          "type": "BG", 
+          "endIdx": 1928, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1557, 
+          "type": "LI", 
+          "endIdx": 1641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "LI", 
+          "endIdx": 1557, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1482, 
+          "type": "BG", 
+          "endIdx": 1641, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1360, 
+          "type": "LI", 
+          "endIdx": 1482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "LI", 
+          "endIdx": 1360, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "BG", 
+          "endIdx": 1482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1260, 
+          "type": "BR", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1248, 
+          "type": "B", 
+          "endIdx": 1260, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1247, 
+          "type": "BR", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1247, 
+          "type": "BR", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "U", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "B", 
+          "endIdx": 1247, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "BR", 
+          "endIdx": 1226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1226, 
+          "type": "BR", 
+          "endIdx": 1226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1065, 
+          "type": "LI", 
+          "endIdx": 1226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 912, 
+          "type": "LI", 
+          "endIdx": 1065, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "LI", 
+          "endIdx": 912, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BG", 
+          "endIdx": 1226, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 752, 
+          "type": "BR", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 742, 
+          "type": "B", 
+          "endIdx": 752, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 740, 
+          "type": "BR", 
+          "endIdx": 740, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " INRIX have a genuinely brilliant opportunity for a data scientist at a pioneering and creative company,  working in the area of real time measurement and prediction of population movement.   We are a global leader in our field,  processing billions of data points every day and you will work with,  and learn from,  a world class team of data scientists.  You will thrive on analytical problem solving,  and work with scientific colleagues to deliver innovative algorithmic and programmatically pioneering solutions.  You will drive development of our theoretical work,  enabling delivery from scientific specification to real world implementation.  You will be integral in delivering the highest quality insights to consumers world-wide.   Why INRIX?INRIX is a company on a tremendous growth path,  offering a unique opportunity to work on non-standard problems the likes of which you cannot find anywhere else. INRIX brings a taste of US West Coast culture to Manchester with a stylish working environment,  unusual perks and an ethos in which everyone has a voice. INRIX offers the opportunity to work with the biggest of big data,  the chance to travel and solve problems which can make a genuine difference to people’s lives.  Key Responsibilities Data ScienceSolve complex mathematical and statistical problems involving the processing of very large datasets. Work with colleagues to evolve (from theory through to prototype and full implementation of) new algorithms and solutions. Derive value and insight from data,  through ground-breaking visualisations. Identify areas of weaknesses in our output,  pinpoint causes and implement solutions. Develop efficient implementations to transform huge amounts of data into the very best historic,  real-time and predictive information. Creatively solve customer led problems and drive development of new products and quality improvements,  ensuring that they are of measurably high quality. Communicate your findings and new solutions to technical and non-technical audiences. Demonstrate knowledge and expertise in interfacing with partners/customers. Pioneer the use of upcoming data sources and changing technologies to ensure best use within the business. RequiredDemonstrable previous programming experience (e. g.  Python,  R,  Java,  SQL,  Scala). A creative and inquiring mind with considerable problem solving ability. A degree in a subject with significant statistical,  mathematical or logical content or demonstrable technical strength through experience.  DesirableExperience of manipulating very large datasets. Understanding of traditional and modern machine learning techniques. Experience working with data in AWS. Knowledge of T-SQL,  Microsoft SQL Server,  plus understanding and experience of unstructured and non-relational data. Ability to visualise varied datasets in innovative ways. The ability to communicate in a major foreign language. Good written and verbal presentation skills. A full driving license We are looking for someone who is full of enthusiasm,  can take responsibility and work autonomously.  The problems we solve are groundbreaking and present unique and exciting challenges.  This job is not one which comes along every day - you will be working in a company where your contribution can make a real difference and will learn lots of new skills on the job.  We want a motivated self-starter,  someone eager to learn who will enjoy this challenging and varied role and the opportunity to become an expert in this field. "
+    }, 
+    "postalCode": "WA14", 
+    "jobState": "LISTED", 
+    "companyName": "INRIX", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "INRIX® is one of the fastest growing big data technology companies in the world.  The company leverages big data analytics to reduce the individual,  economic and environmental toll of traffic congestion.  Through cutting-edge data intelligence and predictive traffic technologies,  INRIX helps leading automakers,  fleets,  governments and news organizations make it easier for drivers to navigate their world.  Our vision is simple – to solve traffic,  empower drivers,  inform planning and enhance commerce. Whether through an in-car or smartphone navigation application,  a local newscast or our INRIX® XD Traffic app,  our up-to-the-minute traffic information and other driver services reach more than 150 million drivers to help them save time,  fuel and frustration.  INRIX delivers traffic and driving-related insight,  as well as sophisticated analytical tools and services across six industries covering nearly 4 million miles of road in 40 countries.   For more information visit us at www. INRIX. com or follow @INRIX. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1443256260000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:36295", 
+    "id": 88136095, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Altrincham,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/88136095?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fhire. jobvite. com%2FCompanyJobs%2FCareers. aspx%3Fc%3Dqi99Vfwf%26j%3Dotiq1fwW%26nl%3D1%26page%3DJob%2520Description%26s%3DLINKEDIN&urlHash=-PQi&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 70 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "70d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "201-500 employees", 
+    "formattedCompanySize": "201-500", 
+    "foundedYear": 2005, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAKKAAAAJDU1NGFjMzgxLTE5NjUtNDY1MC04ZGE3LTMxOGJkODJhZTFkYQ. png"
+    }, 
+    "localizedDescription": "INRIX® is one of the fastest growing big data technology companies in the world.  The company leverages big data analytics to reduce the individual,  economic and environmental toll of traffic congestion.  Through cutting-edge data intelligence and predictive traffic technologies,  INRIX helps leading automakers,  fleets,  governments and news organizations make it easier for drivers to navigate their world.  Our vision is simple – to solve traffic,  empower drivers,  inform planning and enhance commerce. \r\rWhether through an in-car or smartphone navigation application,  a local newscast or our INRIX® XD Traffic app,  our up-to-the-minute traffic information and other driver services reach more than 150 million drivers to help them save time,  fuel and frustration.  INRIX delivers traffic and driving-related insight,  as well as sophisticated analytical tools and services across six industries covering nearly 4 million miles of road in 40 countries.   For more information visit us at www. INRIX. com or follow @INRIX. ", 
+    "company": {
+      "specialities": [
+        "traffic", 
+        "navigation", 
+        "technology", 
+        "GIS", 
+        "automotive", 
+        "mobile app", 
+        "public sector", 
+        "transportation", 
+        "software development", 
+        "Big Data", 
+        "Data-as-a-Service (DaaS)", 
+        "Connected Cars", 
+        "Smart Cities", 
+        "Internet of Things", 
+        "Analytics"
+      ], 
+      "universalName": "inrix", 
+      "companyId": 36295, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/6/005/014/317/3213980. png"
+      }
+    }, 
+    "canonicalName": "INRIX", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ]
+  }, 
+  "formattedListDate": "September 26,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

@@ -1,0 +1,346 @@
+{
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98980384?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3904657&urlHash=Rbfk&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "hasMySavedJobPosting": false, 
+  "hasDecoratedCompany": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedLocation": "London,  GB", 
+  "jobPosting": {
+    "expirationDate": 1451834279000, 
+    "veteranCommitted": false, 
+    "id": 98980384, 
+    "title": "Big Data Architect", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 2629, 
+          "type": "BR", 
+          "endIdx": 2629, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2629, 
+          "type": "BR", 
+          "endIdx": 2629, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2450, 
+          "type": "BR", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2450, 
+          "type": "BR", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2405, 
+          "type": "LI", 
+          "endIdx": 2450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2370, 
+          "type": "LI", 
+          "endIdx": 2405, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2313, 
+          "type": "LI", 
+          "endIdx": 2370, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2227, 
+          "type": "LI", 
+          "endIdx": 2313, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2175, 
+          "type": "LI", 
+          "endIdx": 2227, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2110, 
+          "type": "LI", 
+          "endIdx": 2175, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2110, 
+          "type": "BR", 
+          "endIdx": 2110, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2101, 
+          "type": "BR", 
+          "endIdx": 2101, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2076, 
+          "type": "BR", 
+          "endIdx": 2076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2076, 
+          "type": "BR", 
+          "endIdx": 2076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2004, 
+          "type": "LI", 
+          "endIdx": 2076, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1850, 
+          "type": "LI", 
+          "endIdx": 2004, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1775, 
+          "type": "LI", 
+          "endIdx": 1850, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1709, 
+          "type": "LI", 
+          "endIdx": 1775, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1709, 
+          "type": "BR", 
+          "endIdx": 1709, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1700, 
+          "type": "BR", 
+          "endIdx": 1700, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1673, 
+          "type": "BR", 
+          "endIdx": 1673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1673, 
+          "type": "BR", 
+          "endIdx": 1673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1648, 
+          "type": "LI", 
+          "endIdx": 1673, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1598, 
+          "type": "LI", 
+          "endIdx": 1648, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1564, 
+          "type": "LI", 
+          "endIdx": 1598, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1509, 
+          "type": "LI", 
+          "endIdx": 1564, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1418, 
+          "type": "LI", 
+          "endIdx": 1509, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1418, 
+          "type": "BR", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1418, 
+          "type": "BR", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1406, 
+          "type": "B", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1406, 
+          "type": "BR", 
+          "endIdx": 1406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1406, 
+          "type": "BR", 
+          "endIdx": 1406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 930, 
+          "type": "BR", 
+          "endIdx": 930, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 445, 
+          "type": "BR", 
+          "endIdx": 445, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 445, 
+          "type": "BR", 
+          "endIdx": 445, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "B", 
+          "endIdx": 445, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 429, 
+          "type": "BR", 
+          "endIdx": 429, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " My client,  one of the UK's top Data Science companies are looking to recruit a Data Architect to work at their offices in the heart of London.  This is the chance to join one of the most innovative companies in the UK Data Science community and they will give you the opportunity to work on cutting edge Cloud,  NoSQL and Big Data technologies on projects for some of the world's biggest brands and blue-chip customers. ResponsibilitiesThe purpose of the role is to design and lead the development of data architectures and platforms for their data analytics and visualization projects.  You will be a Technical Lead / Architect responsible for understanding their client's data systems,  developing integration and ingestion plans,  building data architectures using a mixture of SQL/NoSQL/Cloud/Big Data platforms,  designing data warehouse models,  integrating with advanced analytics and data science processing pipelines. You will work with the Engineering team in establishing patterns and practices for their data and cloud platforms and processes.  You will work with the Data Science team to integrate data with analytics and machine learning pipelines.  You will work alongside the Client Services team in setting up and delivering consulting projects for some of the world's biggest companies.  You will lead data engineers and consultants in implementing your designs and building your systems. Deliverables Data Architecture designs and systems for SQL/NoSQL/Cloud/Big Data and Analytics platforms Data work streams of client-facing consulting projects Data Warehouse designs and models Data Security practices and expertise on projects Developing data strategyKnowledge &amp; Experience:Essential Extensive knowledge of Enterprise SQL / Relational data platforms Experience of integration with enterprise and web application architecture Experience of transacting in strict enterprise grade environments in relation to Data Security,  and the associated governance and compliance requirements Experience of leading,  motivating and training a team of data engineersKnowledge and Experience:Desirable Experience of client-facing delivery in a consulting environment Knowledge of Big Data,  NoSQL,  Hadoop data platforms Experience of integrating data platforms with analytical languages - R,  Python,  Spark Skills in software development - C#,  Java,  Ruby,  C++ etc Knowledge of DevOps and automation Knowledge of Cloud platforms - Amazon,  AzureIf this role sounds interesting and you would like the opportunity to work for one of the UK's leading Data Science companies,  then please send me your CV for immediate interview. "
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "CLOSED", 
+    "companyJobCode": "GB-5-11-BDArch", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "TalentSpa is the inbound recruitment platform where the right candidates find you. Our mission is simple: To change the way employers recruit Have you like many others become tired of recruitment agency fees? Have you found that In-House recruitment is a time consuming affair? Why not try TalentSpa? TalentSpa Provides an Inbound Recruitment Platform for Employers AND we have successfully reduced the cost of recruitment for more than 2500 UK Employers. As the UK’s first inbound recruitment platform,  TalentSpa is helping to prise the power away from the agencies and hand it back to the in-house recruitment teams by increasing candidate engagement,  reducing time to hire and driving down recruitment costs.  Through innovative inbound recruitment techniques,  TalentSpa consistently outperforms the traditional recruitment model,  bringing the best candidates directly to the hiring manager for a fraction of the cost.  TalentSpa can help you reach the ideal candidates you never thought existed. "
+    }, 
+    "sponsored": false, 
+    "closeDate": 1449273579000, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "companyName": "TalentSpa", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447662941000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:3125642"
+  }, 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2013, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/4/005/06b/22d/1dc722c. png"
+    }, 
+    "localizedDescription": "TalentSpa is the inbound recruitment platform where the right candidates find you. \r\rOur mission is simple: To change the way employers recruit \r\rHave you like many others become tired of recruitment agency fees? Have you found that In-House recruitment is a time consuming affair? Why not try TalentSpa? \r\rTalentSpa Provides an Inbound Recruitment Platform for Employers AND we have successfully reduced the cost of recruitment for more than 2500 UK Employers. \r\rAs the UK’s first inbound recruitment platform,  TalentSpa is helping to prise the power away from the agencies and hand it back to the in-house recruitment teams by increasing candidate engagement,  reducing time to hire and driving down recruitment costs.  Through innovative inbound recruitment techniques,  TalentSpa consistently outperforms the traditional recruitment model,  bringing the best candidates directly to the hiring manager for a fraction of the cost. \r \rTalentSpa can help you reach the ideal candidates you never thought existed. ", 
+    "company": {
+      "specialities": [
+        "Inbound Recruitment", 
+        "Fixed Price Recruitment", 
+        "Recruitment", 
+        "Applicant Tracking System", 
+        "Fixed Fee Recruitment", 
+        "Online Recruitment", 
+        "Staffing Solutions", 
+        "Targeted Recruitment", 
+        "Managed Services Recruitment", 
+        "Low Cost Recruitment"
+      ], 
+      "universalName": "talentspa", 
+      "companyId": 3125642, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/2/005/06b/22d/19cb39c. png"
+      }
+    }, 
+    "canonicalName": "TalentSpa", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "formattedCloseDate": "December 4,  2015", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true
+}

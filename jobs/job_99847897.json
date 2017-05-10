@@ -1,0 +1,218 @@
+{
+  "jobPosting": {
+    "companyJobCode": "leoforce-83993cc5-63d9-4020-86c8-572ce7d74680", 
+    "expirationDate": 1451907486000, 
+    "title": "Data Analyst", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 822, 
+          "type": "LI", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 768, 
+          "type": "LI", 
+          "endIdx": 817, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 681, 
+          "type": "LI", 
+          "endIdx": 763, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 636, 
+          "type": "LI", 
+          "endIdx": 676, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 582, 
+          "type": "LI", 
+          "endIdx": 631, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 497, 
+          "type": "LI", 
+          "endIdx": 577, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 442, 
+          "type": "LI", 
+          "endIdx": 492, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 342, 
+          "type": "LI", 
+          "endIdx": 437, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 253, 
+          "type": "LI", 
+          "endIdx": 337, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 119, 
+          "type": "LI", 
+          "endIdx": 248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 114, 
+          "type": "BG", 
+          "endIdx": 875, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 96, 
+          "type": "U", 
+          "endIdx": 109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 96, 
+          "type": "B", 
+          "endIdx": 109, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 92, 
+          "type": "BR", 
+          "endIdx": 92, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 92, 
+          "type": "BR", 
+          "endIdx": 92, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 74, 
+          "type": "B", 
+          "endIdx": 92, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 64, 
+          "type": "B", 
+          "endIdx": 73, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 60, 
+          "type": "BR", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 33, 
+          "type": "B", 
+          "endIdx": 60, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 29, 
+          "type": "BR", 
+          "endIdx": 29, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 17, 
+          "type": "B", 
+          "endIdx": 29, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 16, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Job Description: Data Analyst    Duration: 3 Months Contract    Location: Mannford,  OK 74044    Requirements:          Data Management is responsible for managing the full technical lifecycle from architecture to support of Client data environment.      This position will be creating a database for the team,  most likely in Access or SQL     Demonstrates working knowledge of database design principles and data administration standards.      Demonstrates basic knowledge of database platforms     Demonstrates basic knowledge of database design tools and database support tools     Interprets basic logical and physical data models     Assists in administering basic databases     Has basic knowledge of theories,  practices and procedures in a job family or skill     Applies knowledge and skills to complete own work     Works with moderate guidance in own area of knowledge"
+    }, 
+    "postalCode": "74044", 
+    "jobState": "LISTED", 
+    "companyName": "Spectraforce Technologies", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "IT"
+    ], 
+    "listDate": 1447935951000, 
+    "countryCode": "us", 
+    "company": "urn:li:company:71350", 
+    "id": 99847897, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Mannford,  OK,  US", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedCompanySize": "501-1000", 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "formattedEmployeeCount": "501-1000 employees", 
+    "localizedDescription": "SPECTRAFORCE TECHNOLOGIES INC (www. spectraforce. com) offers a powerful suite of IT and Consulting services allowing companies to embrace the challenges of meeting and exceeding the company's IT needs with an aggressive Total Cost of Ownership.  We enable companies to focus on their core competencies,  while we handle the integral details of building IT solution guaranteeing quality delivery with significant cost savings.  We offer a competitive edge through our Staff Augmentation Services (PrimuSourcing) and Projects Outsourcing  Services,  which are pwered by our Global Delivery Model with teams based onsite in the US and offshore in India. ", 
+    "foundedYear": 2004, 
+    "company": {
+      "specialities": [
+        "Staffing", 
+        "Projects Outsourcing", 
+        "Offshore Delivery Centers", 
+        "Product Development"
+      ], 
+      "universalName": "spectraforce-technologies", 
+      "companyId": 71350, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/8/000/1b7/13a/3a18c64. png"
+      }
+    }, 
+    "canonicalName": "Spectraforce Technologies", 
+    "hasPaidLcp": false, 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/p/8/005/015/2ad/1db9612. png"
+    }
+  }, 
+  "formattedJobFunctions": [
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 16 days ago", 
+  "formattedPostedDaysAgoSlim": "16 days ago", 
+  "formattedPostedDaysAgoShort": "16d", 
+  "companyDescriptionLanguage": "en", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 19,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/99847897?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fleoforce. us%2FCareers%2FSpectraforce%2FJobDetails. html%3Fjobid%3D83993cc5-63d9-4020-86c8-572ce7d74680%26OrgId%3D1%26UserId%3D1&urlHash=_yQj&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "en", 
+  "formattedEmploymentStatus": "Contract"
+}

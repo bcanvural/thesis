@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/87814201", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "What you will need: ●   A BS/MS in a quantitative discipline: Statistics,  Applied Mathematics,  Operations Research,  Computer Science,  Engineering,  Economics,  etc.  ●    A love for data.  We are looking for people who are excited about different and unique data sets,  and all the ways that they could be used in order to improve user experience.  ●   Expertise with data sources and tools including SQL,  NoSQL,  Amazon Redshift,  and BI solutions like RJMetrics or Looker.  ●    Expert knowledge of web analytics and testing tools,  including Google Analytics ●    The ability to tell a story from the data you’ve analyzed.  You will be expected to pull meaning from the numbers and articulate your ideas to executive staff.  ●    The ability to learn quickly.  Our environment is fast-paced with new challenges arising every day,  so you need to be quick on your feet.  ●    A love for music.  It is at the core of what we do at Universal Audio.  You don’t need to record music or even play an instrument,  but music needs to be an integral part of your life.  And playing an instrument doesn’t hurt,  especially drums. ", 
+  "following": false, 
+  "companyDescription": "Universal Audio is one of the most respected names in professional audio and music recording products,  with a 50-year legacy of traditional hand-built analog studio equipment,  and the industry-standard DSP hardware/software plug-in platform.  We count many of the world’s most influential recording artists among our passionate customers. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Universal Audio", 
+  "canFollow": false, 
+  "companyId": "45656", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Universal Audio", 
+    "title": "Data Scientist"
+  }, 
+  "description": "As the Data Scientist for the online store,  you will play a pivotal role,  working with the Director of Marketing,  product managers,  software engineers,  and a cross-functional team to grow Universal Audio’s business online.  You will develop best in class infrastructure that is able to ingest and transform data coming from many different sources,  and in many different varieties.  And you will greatly influence and improve the customer experience of the world’s leading audio products website,  www. uaudio. com.      Most importantly,  you will help drive the operation of our online store by focusing on key metrics and advising the Online Store team based on your findings.    What you will be doing: ●    Extracting and analyzing customer data from various sources to derive actionable insights ●    Working with internal and external resources to deliver data-driven insights about customer behavior,  web traffic,  revenue,  conversion,  navigation,  and engagement ●    Formulating success metrics and creating dashboards/reports to monitor them ●    Designing and analyzing A/B and multivariate experiments to test new marketing / merchandising ideas online ●    Setting up scalable data infrastructure ●    Working closely with the Online Store team to improve the user experience on the UA website ●    Developing best practices for instrumentation and experimentation,  and communicating those to our cloud services team"
+}

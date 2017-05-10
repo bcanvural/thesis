@@ -1,0 +1,347 @@
+{
+  "jobPosting": {
+    "companyJobCode": "AMCSW/SPL0681", 
+    "expirationDate": 1452000230000, 
+    "title": "Senior Security Data Scientist (Splunk,  Big Data,  Scripting)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1575, 
+          "type": "BR", 
+          "endIdx": 1575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1575, 
+          "type": "BR", 
+          "endIdx": 1575, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1539, 
+          "type": "BR", 
+          "endIdx": 1539, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1521, 
+          "type": "BR", 
+          "endIdx": 1521, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1497, 
+          "type": "BR", 
+          "endIdx": 1497, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1475, 
+          "type": "BR", 
+          "endIdx": 1475, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1455, 
+          "type": "BR", 
+          "endIdx": 1455, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1425, 
+          "type": "BR", 
+          "endIdx": 1425, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1406, 
+          "type": "BR", 
+          "endIdx": 1406, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1391, 
+          "type": "BR", 
+          "endIdx": 1391, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "BR", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1375, 
+          "type": "BR", 
+          "endIdx": 1375, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1302, 
+          "type": "BR", 
+          "endIdx": 1302, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1222, 
+          "type": "BR", 
+          "endIdx": 1222, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1178, 
+          "type": "BR", 
+          "endIdx": 1178, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1132, 
+          "type": "BR", 
+          "endIdx": 1132, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1061, 
+          "type": "BR", 
+          "endIdx": 1061, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1026, 
+          "type": "BR", 
+          "endIdx": 1026, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 979, 
+          "type": "BR", 
+          "endIdx": 979, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 941, 
+          "type": "BR", 
+          "endIdx": 941, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 901, 
+          "type": "BR", 
+          "endIdx": 901, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 882, 
+          "type": "BR", 
+          "endIdx": 882, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 847, 
+          "type": "BR", 
+          "endIdx": 847, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 802, 
+          "type": "BR", 
+          "endIdx": 802, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 708, 
+          "type": "BR", 
+          "endIdx": 708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 708, 
+          "type": "BR", 
+          "endIdx": 708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "U", 
+          "endIdx": 708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "B", 
+          "endIdx": 708, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BR", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 652, 
+          "type": "BR", 
+          "endIdx": 652, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 494, 
+          "type": "BR", 
+          "endIdx": 494, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 291, 
+          "type": "BR", 
+          "endIdx": 291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 291, 
+          "type": "BR", 
+          "endIdx": 291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "U", 
+          "endIdx": 291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "B", 
+          "endIdx": 291, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 254, 
+          "type": "BR", 
+          "endIdx": 254, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 72, 
+          "type": "BR", 
+          "endIdx": 72, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 72, 
+          "type": "BR", 
+          "endIdx": 72, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Senior Security Data Scientist (Splunk,  Big Data,  Scripting)This is a rare opportunity for a motivated,  meticulous,  and technically-minded Senior Security Data Analyst to join the Information Security team of a financial research institution. The Senior Security Data Analyst RoleWriting automated tasks in different scripting languages (PowerShell,  Perl,  Python) to collect and analyse massive data sets that contain logging data from internal systems and user behavior information. Using the existing infrastructure (mainly Splunk and MS SQL) to perform those tasks and writing alerts to meet the highest standards of security requirements. The Senior Security Data Analyst Will Have Experience InBetween 4 and 10 years of relevant industry experience as a Security Analyst / Data Scientist. Advanced searching and analytics using SplunkWindows and Linux operating systemsScripting knowledgeAbility to understand . NET and Java codeExperience with MS SQL 2008 (or above)Experience with automation of operational tasksExperience with Regular ExpressionsBroad industry knowledge of application monitoring and event managementStrong quantitative and problem solving skills(Desired) Experience with Javascript and XML(Desired) Experience with the Hadoop ecosystem and NoSQL (Cassandra,  HBase,  etc)(Desired) Experience with any of the following would be a plus: R,  OctaveLocation: LondonStart: FlexibleDuration: PermanentRate: £60k - £90k plus packageAgency: Anson McCadeContact: Stephen WhiteTelephone: 0207 7806 700Fax: 0207 780 6707Email: Stephen. White@AnsonMcCade. com"
+    }, 
+    "postalCode": "SE1", 
+    "jobState": "LISTED", 
+    "companyName": "Anson McCade", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "An IT and Capital Markets recruitment consultancy centred in London,  UK. Anson McCade Ltd is an established and well-respected IT &amp; Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. Anson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. Anson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT &amp; Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH", 
+      "OTHR"
+    ], 
+    "listDate": 1447831607000, 
+    "countryCode": "gb", 
+    "company": "urn:li:company:31392", 
+    "id": 99475911, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "London,  GB", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/99475911?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fjobs. umbrella. co. uk%2Fjobs%2F3955902&urlHash=2BZb&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research", 
+    "Other"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 17 days ago", 
+  "formattedPostedDaysAgoSlim": "17 days ago", 
+  "formattedPostedDaysAgoShort": "17d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2000, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAR2AAAAJDBmODYwMzBkLWZmNDAtNDk2Mi1hNDFjLWIxMzA4MmY3ODk2Yg. png"
+    }, 
+    "localizedDescription": "An IT and Capital Markets recruitment consultancy centred in London,  UK. \r\rAnson McCade Ltd is an established and well-respected IT & Capital Markets recruitment agency based in the City of London.  Our success has been achieved by a no-nonsense approach to recruitment,  where the Client can rely on a dedicated and personal service based on both rapid response and long-term delivery principles. \r\rAnson McCade is aware that the straightforward matching of skills fulfils only a fraction of our Clients' requirements.  Therefore we operate a more holistic approach to the evaluation of a candidate for each Client,  placing equal emphasis on their precise technical skills,  personal qualities and aspirations.  This has been achieved by extensive,  comprehensive and continual training within Anson McCade.  The result is the provision of a high quality service to a wide range of long-term Clients,  who can rely on high calibre candidates being presented and therefore a high cvs-to-interviews-to-placement ratio. \r\rAnson McCade's traditional marketplace is to supply experienced,  senior contract and permanent IT & Front/Middle Office staff to high profile industry sectors from Banking and Hedge Funds to Consultancies and Media organisations. ", 
+    "company": {
+      "specialities": [
+        "Information Technology", 
+        "Banking", 
+        "Capital markets", 
+        "Risk", 
+        "Consulting"
+      ], 
+      "universalName": "anson-mccade", 
+      "companyId": 31392, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/p/4/005/071/13d/3b47d9b. png"
+      }
+    }, 
+    "canonicalName": "Anson McCade", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ]
+  }, 
+  "formattedListDate": "November 18,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

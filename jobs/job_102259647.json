@@ -1,0 +1,28 @@
+{
+  "jobPosting": {
+    "companyName": "My Jobs Group", 
+    "functions": [
+      "IT"
+    ], 
+    "companyJobCode": "allthetopbananas-54171485", 
+    "title": "SQL DATA ANALYST", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102259647, 
+    "experienceLevel": "MID_SENIOR_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 13466, 
+    "websiteUrl": "http://www. xpressdocs. com", 
+    "universalName": "jobs. com"
+  }, 
+  "description": "    SQL Data Analyst – Thetford,  Norfolk - £25-35k plus package    This is an outstanding,  newly created position with a highly    successful organisation.     Using analysis and reporting of available customer and    business data to deliver insight that will inform business decisions    and    marketing campaigns.     Interrogate and collate customer,     sales,  marketing and business data from a variety of sources.     Presentation of data analysis to    highlight business opportunities to support future growth.     Measure marketing campaign results.     Liaise with external agencies on    data hygiene and profiling support and any other ad hoc requirements.     Work closely with IT,  business users,  marketing team and external    suppliers to define data needs for projects.     Analytics & reports/dashboards development    Skills Required    Strong SQL skills essential    Experience of working as a Data Analyst    Advanced MS Office skills    excellent written and spoken communication skills including report    writing and presentation skills    ability to analyse,  model and interpret data    Knowledge of SAP would be beneficial      ", 
+  "companyDescription": "      My Jobs Group", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

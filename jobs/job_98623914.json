@@ -1,0 +1,379 @@
+{
+  "jobPosting": {
+    "companyJobCode": "successfactorsenterprise_json-36574", 
+    "expirationDate": 1451895498000, 
+    "title": "Afstudeeropdracht App Web Mobile Development,  Business Intelligence,  Big Data,  Internet Of Things,  Microsoft (EG)", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 3312, 
+          "type": "BR", 
+          "endIdx": 3312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3312, 
+          "type": "BR", 
+          "endIdx": 3312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3290, 
+          "type": "B", 
+          "endIdx": 3312, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3290, 
+          "type": "BR", 
+          "endIdx": 3290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3290, 
+          "type": "BR", 
+          "endIdx": 3290, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3256, 
+          "type": "U", 
+          "endIdx": 3289, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3163, 
+          "type": "BR", 
+          "endIdx": 3163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3163, 
+          "type": "BR", 
+          "endIdx": 3163, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 3136, 
+          "type": "U", 
+          "endIdx": 3162, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2975, 
+          "type": "BR", 
+          "endIdx": 2975, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2975, 
+          "type": "BR", 
+          "endIdx": 2975, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2968, 
+          "type": "BR", 
+          "endIdx": 2968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2968, 
+          "type": "BR", 
+          "endIdx": 2968, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2838, 
+          "type": "BR", 
+          "endIdx": 2838, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2838, 
+          "type": "BR", 
+          "endIdx": 2838, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2826, 
+          "type": "BR", 
+          "endIdx": 2826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2768, 
+          "type": "LI", 
+          "endIdx": 2826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2692, 
+          "type": "LI", 
+          "endIdx": 2767, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2640, 
+          "type": "LI", 
+          "endIdx": 2691, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2639, 
+          "type": "BG", 
+          "endIdx": 2826, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2639, 
+          "type": "BR", 
+          "endIdx": 2639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2619, 
+          "type": "U", 
+          "endIdx": 2639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2619, 
+          "type": "B", 
+          "endIdx": 2639, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2619, 
+          "type": "BR", 
+          "endIdx": 2619, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 2619, 
+          "type": "BR", 
+          "endIdx": 2619, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1879, 
+          "type": "BR", 
+          "endIdx": 1879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1879, 
+          "type": "BR", 
+          "endIdx": 1879, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1867, 
+          "type": "BR", 
+          "endIdx": 1867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1867, 
+          "type": "BR", 
+          "endIdx": 1867, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1604, 
+          "type": "I", 
+          "endIdx": 1804, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1604, 
+          "type": "BR", 
+          "endIdx": 1604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1604, 
+          "type": "BR", 
+          "endIdx": 1604, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1574, 
+          "type": "BR", 
+          "endIdx": 1574, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1574, 
+          "type": "BR", 
+          "endIdx": 1574, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1206, 
+          "type": "BR", 
+          "endIdx": 1206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1206, 
+          "type": "BR", 
+          "endIdx": 1206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 794, 
+          "type": "BR", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 794, 
+          "type": "BR", 
+          "endIdx": 794, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 772, 
+          "type": "BR", 
+          "endIdx": 772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 772, 
+          "type": "BR", 
+          "endIdx": 772, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 256, 
+          "type": "BR", 
+          "endIdx": 256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 256, 
+          "type": "BR", 
+          "endIdx": 256, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " Ben jij op zoek naar een afstudeerstage met Microsoft techniek? Zie jij je stage als meer dan een verplicht onderdeel van je studie en wil je de ideale basis leggen voor een serieuze stap in je carrière? Dan ben je bij ons aan het juiste adres!Avanade heeft verschillende stageopdrachten ontwikkeld voor ambitieuze studenten met een passie en talent voor Microsoft-technologie.  Ook staan wij altijd open voor goede ideeën en initiatieven voor opdrachten.  De wereldwijde community van Avanade vormt een ideale bron van informatie voor je onderzoek.  Tijdens je stage heb je daarnaast toegang tot onze internationaal ontwikkelde processen en methodes voor Microsoft . Net.  Avanade biedt ook de mogelijkheid om tijdens de stage Microsoft certificeringen te behalen. Afstuderen bij AvanadeAls afstudeerder bij Avanade krijg je twee begeleiders,  een technische begeleider en een procesbegeleider.  Daarnaast bieden wij een stagevergoeding van € 500, - voor een bachelor student en € 600, - voor een master student.  Onze afstudeerders krijgen van ons een laptop om op te werken en hebben de mogelijkheid om deels vanuit huis te werken.  Daarnaast krijg je een Microsoft examen cadeau voor een certificering. Wij hebben uitdagende opdrachten op het gebied van onder andere: Agile,  App development,  Big data,  C# development,  Dynamics AX en CRM,  Game Development,  Experience Design,  HTML5,  Infrastructure,  Microsoft Azure,  SharePoint development,  Sitecore,  SQL Server 2012,  Unit Testing,  Windows 10 en meer! Bekijk hier onze stage- en afstudeeropdrachten: http://avana. de/1OpG5nFWaarom afstuderen bij Avanade?“Wat ik vooral fijn vind aan afstuderen bij Avanade is de vrijheid die je hebt bij het samenstellen van je opdracht.  Hierdoor kan ik een leuke opdracht doen op de vlakken waar mijn interesses liggen!” Lisette,  toen afstudeerder,  nu Solution Developer bij Avanade. Dit zijn wijAvanade is een bedrijf waar je jezelf zult herkennen in de 350 collega’s die er rond lopen.  Met een enorme passie voor het werk wat we doen,  een gezellige sfeer en ontzettend veel talent voor Microsoft technologie,  is Avanade een unieke club waar je je gewaardeerd voelt en je onderdeel bent van een grote familie.  Bij ons kan je het beste uit jezelf halen en trainen tot er geen kennis meer bij kan.  Er is veel ruimte voor het verbeteren van jouw technische en persoonlijke leerdoelen en kan je uitdagingen aangaan met nieuwe technologieën.  Daarnaast kan je flexibel werken en meedoen aan veel leuke activiteiten zoals kennissessies tijdens de lunch,  onze maandelijkse focusgroepen,  kwartaallijkse clubmeetings en jaarlijkse weekendje weg. Wij Willen Jou Omdat je op zoek bent naar een gave afstudeerorganisatie; je reeds enige ervaring hebt met de technologieën van de afstudeeropdracht; je een IT gerelateerde bachelor of master opleiding volgt. SolliciterenHerken jij jezelf in deze vacature en wil je kennismaken met ons? Solliciteer dan direct door je CV in te sturen via onze website. ContactHeb je vragen of wil je weten waarom wij zo graag bij Avanade werken? Bel dan met een van onze recruiters,  Nicole Holla of Duygu Ciftci via 036-547 5107 of mail nl. recruitment@avanade. com. Kijk voor meer informatie op onze website en voor een sfeerimpressie op onze Facebook pagina www. facebook. com/AvanadeNederland. Requisition ID - 36574"
+    }, 
+    "postalCode": "1305", 
+    "jobState": "LISTED", 
+    "companyName": "Avanade", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Avanade leads in providing innovative digital services,  business solutions and design-led experiences for its clients,  delivered through the power of people and the Microsoft ecosystem.  Our professionals combine technology,  business and industry expertise to build and deploy solutions to realize results for clients and their customers.  Avanade has 27, 000 digitally connected people across 23 countries,  bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate.  Majority owned by Accenture,  Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation.  Learn more at www. avanade. com.  Join us on our other social media channels:FACEBOOK: www. facebook. com/AvanadeGOOGLE: plus. google. com/+avanadeINSTAGRAM: www. instagram. com/AvanadeincPINTEREST: www. pinterest. com/AvanadeSLIDESHARE: www. slideshare. net/AvanadeTWITTER: www. twitter. com/AvanadeIncYOUTUBE: www. youtube. com/AvanadeInc"
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "BD", 
+      "IT"
+    ], 
+    "listDate": 1447365712000, 
+    "countryCode": "nl", 
+    "company": "urn:li:company:3033", 
+    "id": 98623914, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Almere Stad,  NL", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "hasSavedJobPosting": false, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "10001+ employees", 
+    "formattedCompanySize": "10001+", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "IT Services", 
+        "Microsoft Dynamics", 
+        "Microsoft", 
+        "Accenture", 
+        "Consulting", 
+        "Integration", 
+        "SharePoint", 
+        "CRM", 
+        "SaaS", 
+        "Cloud Computing", 
+        "Office 365", 
+        "Technology Infrastructure", 
+        "Application Development", 
+        "ERP", 
+        "Managed Services", 
+        "Enterprise Mobility", 
+        "Business Intelligence"
+      ], 
+      "universalName": "avanade", 
+      "companyId": 3033, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAbCAAAAJDFiMGQyM2ZlLThlNmMtNGRiOS1iZTk2LWU5ZmM5MDRhNTk4YQ. png"
+      }
+    }, 
+    "localizedDescription": "Avanade leads in providing innovative digital services,  business solutions and design-led experiences for its clients,  delivered through the power of people and the Microsoft ecosystem.  Our professionals combine technology,  business and industry expertise to build and deploy solutions to realize results for clients and their customers.  Avanade has 27, 000 digitally connected people across 23 countries,  bringing clients the best thinking through a collaborative culture that honors diversity and reflects the communities in which we operate.  Majority owned by Accenture,  Avanade was founded in 2000 by Accenture LLP and Microsoft Corporation.  Learn more at www. avanade. com.  \r\rJoin us on our other social media channels:\r\rFACEBOOK: www. facebook. com/Avanade\rGOOGLE: plus. google. com/+avanade\rINSTAGRAM: www. instagram. com/Avanadeinc\rPINTEREST: www. pinterest. com/Avanade\rSLIDESHARE: www. slideshare. net/Avanade\rTWITTER: www. twitter. com/AvanadeInc\rYOUTUBE: www. youtube. com/AvanadeInc", 
+    "foundedYear": 2000, 
+    "formattedIndustries": [
+      "Information Technology & Services"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "Avanade", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAcRAAAAJDZkMWMwZDU0LTFlNmMtNDE2NC04ZGU0LWFmNzA1MDYwMDYwNg. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAUdAAAAJDhlMTQzYTFkLTU2MjUtNDkwMy1hNTU3LTE0NDZhNjAzNjA0Nw. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAcRAAAAJDZkMWMwZDU0LTFlNmMtNDE2NC04ZGU0LWFmNzA1MDYwMDYwNg. png"
+  }, 
+  "formattedJobFunctions": [
+    "Business Development", 
+    "Information Technology"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Information Technology and Services"
+  ], 
+  "formattedPostedDaysAgo": "Posted 23 days ago", 
+  "formattedPostedDaysAgoSlim": "23 days ago", 
+  "formattedPostedDaysAgoShort": "23d", 
+  "companyDescriptionLanguage": "nl", 
+  "hasDecoratedCompany": true, 
+  "formattedListDate": "November 12,  2015", 
+  "formattedExpireDate": "January 4,  2016", 
+  "hasMySavedJobPosting": false, 
+  "externalApplyLink": "/jobs2/view/externalApply/98623914?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fcareers. avanade. com%2Fjobs%2F36574%2FAlmere-Flevoland-Afstudeeropdracht-App-Web-Mobile-Development-Business-Intelligence-Big-Data-Internet-Of-Things-Microsoft-EG&urlHash=e4WL&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "offsiteApply": true, 
+  "descriptionLanguage": "nl", 
+  "formattedEmploymentStatus": "Full-time"
+}

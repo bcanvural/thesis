@@ -1,0 +1,212 @@
+{
+  "jobPosting": {
+    "companyJobCode": "nigelfrankjobs-121446", 
+    "expirationDate": 1451812965000, 
+    "title": "Senior Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 706, 
+          "type": "BR", 
+          "endIdx": 706, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 706, 
+          "type": "BR", 
+          "endIdx": 706, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 450, 
+          "type": "BR", 
+          "endIdx": 450, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 388, 
+          "type": "BR", 
+          "endIdx": 388, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 349, 
+          "type": "BR", 
+          "endIdx": 349, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 323, 
+          "type": "BR", 
+          "endIdx": 323, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 271, 
+          "type": "BR", 
+          "endIdx": 271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 271, 
+          "type": "BR", 
+          "endIdx": 271, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 248, 
+          "type": "BR", 
+          "endIdx": 248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 248, 
+          "type": "BR", 
+          "endIdx": 248, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 206, 
+          "type": "BR", 
+          "endIdx": 206, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 167, 
+          "type": "BR", 
+          "endIdx": 167, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 111, 
+          "type": "BR", 
+          "endIdx": 111, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 69, 
+          "type": "BR", 
+          "endIdx": 69, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 36, 
+          "type": "BR", 
+          "endIdx": 36, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 14, 
+          "type": "BR", 
+          "endIdx": 14, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 14, 
+          "type": "BR", 
+          "endIdx": 14, 
+          "attribute": []
+        }
+      ], 
+      "rawText": "Anforderungen Kommunikationsfreude Spaß an der Arbeit mit Menschen Fundierte Kenntnisse im Big Data Bereich 3 Jahre Erfahrungen in der Umsetzung von DWH-Projekten Sehr gute Kenntnisse in MS-SQL-Server Sehr gute Kenntnisse in SSIS,  SSRS,  SSAS Was Ihnen geboten wird Abwechslungsreiche,  kommunikationsintensive Arbeit Familiäres Arbeitsumfeld Schnelle Fortschritte in der Karriere Zugriff auf die neuesten Informationen aus der Big-Data-Welt Als Marktführer im Microsoft-Recruitment bieten wir Ihnen exklusiven Zugriff auf attraktive Stellen bei unseren Klienten im Microsoft Business Intelligence-Bereich.  Wir garantieren Ihnen Diskretion,  Marktkenntnis und eine umfassende persönliche Betreuung.  Interessiert? Dann schicken Sie noch heute ihren aussagekräftigen Lebenslauf an a. romer@nigelfrank. com.  Bei weiteren Fragen steht Ihnen Andreas Römer unter +44 (0)191 338 6650 gerne telefonisch zur Verfügung. "
+    }, 
+    "postalCode": "10178", 
+    "jobState": "LISTED", 
+    "companyName": "Nigel Frank International", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "Nigel Frank International is the global leader in Microsoft Technology recruitment.  We place more skilled Microsoft Dynamics and Stack professionals with Microsoft Partners and end-users worldwide than any other recruitment business.  -------------------------------------------------------------------------------------------------------------------------------------------------------\"Every 15 minutes,  Somewhere in the World,  a Microsoft Professional is Attending an Interview Arranged through Nigel Frank International. \"-------------------------------------------------------------------------------------------------------------------------------------------------------With a network of 400+ Recruitment Consultants spread across 10 Offices in 4 continents,  Nigel Frank International is uniquely positioned to find Microsoft Dynamics and Stack Professionals their perfect job,  whatever their career aspirations. We have built excellent relationships with top tier Microsoft Partners and End Users.  As such,  we offer the largest choice of vacancies (over 6, 000) in our specialist areas,  many of which are exclusive to Nigel Frank. We recruit for the full suite of Microsoft Dynamics and Stack products covering every role from Sales and Pre-Sales,  through to Project Managers,  Consultants and Developers,  with our multi-lingual,  technically proficient recruiters providing a comprehensive and fully confidential consultancy service.  Over 80% of our business is repeat business - testament to the ability of our multilingual consultants to deliver high caliber candidates within our client’s budgets.  We are ideally placed to find you either the perfect role to advance your career or the perfect candidate to fill your vacancy. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1447661026000, 
+    "countryCode": "de", 
+    "company": "urn:li:company:205918", 
+    "id": 98963244, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Berlin,  DE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/98963244?trk=guest_apply_click_apply_button&url=http%3A%2F%2Fwww. nigelfrank. com%2Fen%2Fvacancy%2F121446%2Fsenior-data-scientist&urlHash=fv51&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedExperience": "Mid-Senior level", 
+  "hasDecoratedCompany": true, 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "501-1000 employees", 
+    "formattedCompanySize": "501-1000", 
+    "hasPaidLcp": true, 
+    "company": {
+      "specialities": [
+        "MS Dynamics Recruitment", 
+        "Staffing", 
+        "MS Stack Recruitment", 
+        "Consultancy", 
+        "Development", 
+        "Programming", 
+        "Skype for Business", 
+        "Axapta", 
+        "Navision", 
+        "Great Plains", 
+        "MS CRM", 
+        "Dynamics AX", 
+        "Dynamics CRM", 
+        "Dynamics NAV", 
+        "Dynamics GP", 
+        "Dynamics SL", 
+        "Dynamics RMS", 
+        "SharePoint", 
+        "Microsoft BI", 
+        "Lync"
+      ], 
+      "universalName": "nigel-frank-international", 
+      "companyId": 205918, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAAVfAAAAJDlhMGI2NGVjLWY3OTMtNGQyYS05ODY5LWVlODEyNzc1NmE4ZQ. png"
+      }
+    }, 
+    "localizedDescription": "Nigel Frank International is the global leader in Microsoft Technology recruitment.  We place more skilled Microsoft Dynamics and Stack professionals with Microsoft Partners and end-users worldwide than any other recruitment business.  \r\r-------------------------------------------------------------------------------------------------------------------------------------------------------\r\"Every 15 minutes,  Somewhere in the World,  a Microsoft Professional is Attending an Interview Arranged through Nigel Frank International. \"\r-------------------------------------------------------------------------------------------------------------------------------------------------------\r\rWith a network of 400+ Recruitment Consultants spread across 10 Offices in 4 continents,  Nigel Frank International is uniquely positioned to find Microsoft Dynamics and Stack Professionals their perfect job,  whatever their career aspirations. \r\rWe have built excellent relationships with top tier Microsoft Partners and End Users.  As such,  we offer the largest choice of vacancies (over 6, 000) in our specialist areas,  many of which are exclusive to Nigel Frank. \r\rWe recruit for the full suite of Microsoft Dynamics and Stack products covering every role from Sales and Pre-Sales,  through to Project Managers,  Consultants and Developers,  with our multi-lingual,  technically proficient recruiters providing a comprehensive and fully confidential consultancy service.  \r\rOver 80% of our business is repeat business - testament to the ability of our multilingual consultants to deliver high caliber candidates within our client’s budgets.  We are ideally placed to find you either the perfect role to advance your career or the perfect candidate to fill your vacancy. ", 
+    "foundedYear": 2006, 
+    "formattedIndustries": [
+      "Staffing & Recruiting"
+    ], 
+    "formattedCompanyType": "Privately Held", 
+    "canonicalName": "Nigel Frank International", 
+    "careersImage": "urn:li:media:/AAEAAQAAAAAAAAY0AAAAJDQ3NGE5OWNjLTEyY2QtNGI0My1iYTc2LWM3ZWVmMWRjY2RhYQ. png", 
+    "companyLogo": {
+      "logoType": "SQUARE_LOGO", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAXTAAAAJDE5NDc5OTk3LTU0YWMtNDc5NS1iMDU5LTE1ZDdlOTQzMjRjYg. png"
+    }, 
+    "careersImageLink": "https://media. licdn. com/media/AAEAAQAAAAAAAAY0AAAAJDQ3NGE5OWNjLTEyY2QtNGI0My1iYTc2LWM3ZWVmMWRjY2RhYQ. png"
+  }, 
+  "formattedIndustries": [
+    "Staffing and Recruiting"
+  ], 
+  "formattedPostedDaysAgo": "Posted 19 days ago", 
+  "formattedPostedDaysAgoSlim": "19 days ago", 
+  "formattedPostedDaysAgoShort": "19d", 
+  "companyDescriptionLanguage": "de", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedListDate": "November 16,  2015", 
+  "formattedExpireDate": "January 3,  2016", 
+  "offsiteApply": true, 
+  "hasSavedJobPosting": false, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "de", 
+  "formattedEmploymentStatus": "Full-time"
+}

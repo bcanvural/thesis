@@ -1,0 +1,30 @@
+{
+  "jobPosting": {
+    "companyName": "Workcircle", 
+    "functions": [
+      "IT", 
+      "ENG"
+    ], 
+    "companyJobCode": "22227782", 
+    "title": "Data Engineer / DBA: big data", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 101962660, 
+    "experienceLevel": "ENTRY_LEVEL", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      6
+    ]
+  }, 
+  "company": {
+    "companyId": 1542209, 
+    "websiteUrl": "www. workcircle. co. uk", 
+    "logo": "urn:li:media:/p/3/000/081/326/221cb49. png", 
+    "universalName": "workcircle"
+  }, 
+  "description": "     Ready to shape,  run and develop a fast-growing data mining platform?    Fresh8 Gaming needs you to build on our solid foundations in data    operations,  helping us scale up our behaviour-based content serving    platform.  This is a hands-on job,  informing our data vision,  shaping    our architecture and data operations,  and looking after our databases.     You'll be supported by our engineering team and have freedom to choose    and implement best practice methods and to employ the latest    technologies,  enabling better data accessibility for our software    engineers.  You'll also build and grow our data pipeline to support us    in insights,  analysis and data integrity.  We can support your    transition from another technology family.  You'll be joining our    friendly,  capable team,  collaborating on a mixture of client projects    and product roadmap initiatives to get the most from the possibilities    from data science and machine learning.  Our software stack is    predominantly open source - written in . . .     [Click 'apply' for more information]", 
+  "companyDescription": "      Workcircle    Workcircle is a job search engine.  We search jobs from job boards,     agencies and employers across the World to help you find the job you    want,  fast.     Workcircle was founded by recruitment veterans Simon Appleton and Tony    Jewell.  We pioneered the high-volume,  low-cost model with our previous    site,  and now we're exploiting the latest technology to build an even    better way to find employment. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}

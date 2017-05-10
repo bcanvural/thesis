@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/56407201", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Profile You have a Master degree in Computer Science,  Applied Mathematics,  Statistics,  Quantitative Social Sciences or related field; You have at least five to seven years professional experience; You are passionate about data and its added-value to sustainable business improvement and you show a keen interest in business processes,  performance and data analytics; You are used  to communicate and present to senior stakeholders; Experience of relational databases and/of database design best practices,  with SQL based experience You have application development and ETL experience (database creation,  optimization,  data feed productionization etc. ) ; You are comfortable with crunching both semi-structured and unstructured data; You have recent experience in development and deployment of analytical User Defined Functions within Big Data architectures;Experience in Financial (Insurance) and/or Utilities sector is considered as an asset; A vendor or industry certification in one of more Big Data related technologies is considered as an asset; You master data and text mining techniques and algorithms (regression,  classification,  clustering,  forecasting,  simulation,  association,  network and graph.  thesaurus,  semantic,  ontology); You demonstrate ability to develop actionable analytics solutions that address topics such as churn prevention,  multi-channel customer behavior and advertising optimization,  defect tracking and predictive maintenance,  energy supply and consumption forecast,  fraud and money-laundering detection,  supply chain optimization and stock forecast; You can identify key missing data or information that can bring valuable insights to the analytics solution; Technical knowledge SAS,  IBM (SPSS),  Microsoft Azure,  KNIME,  Rapid Miner; R,  RStudio,  MATLAB,  LATEX,  Python; Java or C languages; HDFS and MapReduce frameworks,  RDBMS and SQL ; NOSQL databases and data access; Columnar Store DBMS; Reporting and Data Discovery: BO,  Tableau,  Spotfire. ", 
+  "following": false, 
+  "companyDescription": "CSC is a global leader in providing technology enabled business solutions and services.  CSC is more than just a place to work.  It’s a world in which you have the opportunity to use your talents to deliver tangible results for major clients.  CSC is like a campus,  a state of mind,  where you get the professional freedom to develop yourself as an individual and as a team member.  With 70. 000 employees world-wide,  our single mission is to put IT to work in practical,  bottom-line ways.  In Belgium,  CSC brings together the combined strengths of 500 professionals who all share the same client-intimate approach: we listen to our clients,  respect their culture and their way of working,  and work with them as a true team. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "CSC", 
+  "canFollow": false, 
+  "companyId": "1120", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "CSC", 
+    "title": "Senior Data Scientist"
+  }, 
+  "description": "You can demonstrate both statistical modeling experience and technical,  engineering skills,  You are “hands-on” and not just theoretical; You are able to deal with very granular data,  as well as large data volumes – from a Hadoop data storage platform would be an added value; You are analytics minded and you are able to generate new business insights to our customers,  You work with your peers to develop,  refine our current Big Data &amp; Analytics offering,  as well as to define and outline complex technology deployments or independently drive technical complexity into an competitive advantage; You are willing to share your knowledge with your peers and bring them to the next level of maturity,  You are comfortable with customer facing situations where deep technical knowledge of the Big Data products ecosystem and troubleshooting capabilities are required. "
+}

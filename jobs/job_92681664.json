@@ -1,0 +1,308 @@
+{
+  "jobPosting": {
+    "companyJobCode": "workable_xml-DA64723EC3", 
+    "expirationDate": 1451992935000, 
+    "title": "Data Scientist", 
+    "listingType": "BASIC", 
+    "description": {
+      "rtData": [
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1751, 
+          "type": "BR", 
+          "endIdx": 1751, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1625, 
+          "type": "BR", 
+          "endIdx": 1625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1625, 
+          "type": "BR", 
+          "endIdx": 1625, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1523, 
+          "type": "BR", 
+          "endIdx": 1523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1523, 
+          "type": "BR", 
+          "endIdx": 1523, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1418, 
+          "type": "BR", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1418, 
+          "type": "BR", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1410, 
+          "type": "U", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1410, 
+          "type": "B", 
+          "endIdx": 1418, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1410, 
+          "type": "BR", 
+          "endIdx": 1410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1410, 
+          "type": "BR", 
+          "endIdx": 1410, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1229, 
+          "type": "BR", 
+          "endIdx": 1229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 1229, 
+          "type": "BR", 
+          "endIdx": 1229, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "BR", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 997, 
+          "type": "BR", 
+          "endIdx": 997, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 759, 
+          "type": "BR", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 747, 
+          "type": "U", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 747, 
+          "type": "B", 
+          "endIdx": 759, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 747, 
+          "type": "BR", 
+          "endIdx": 747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 747, 
+          "type": "BR", 
+          "endIdx": 747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 675, 
+          "type": "LI", 
+          "endIdx": 747, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 587, 
+          "type": "LI", 
+          "endIdx": 675, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 482, 
+          "type": "LI", 
+          "endIdx": 587, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 482, 
+          "type": "BR", 
+          "endIdx": 482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 482, 
+          "type": "BR", 
+          "endIdx": 482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "U", 
+          "endIdx": 482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "B", 
+          "endIdx": 482, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "BR", 
+          "endIdx": 422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 422, 
+          "type": "BR", 
+          "endIdx": 422, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 235, 
+          "type": "BR", 
+          "endIdx": 235, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 12, 
+          "type": "BR", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "U", 
+          "endIdx": 12, 
+          "attribute": []
+        }, 
+        {
+          "startIdx": 0, 
+          "type": "B", 
+          "endIdx": 12, 
+          "attribute": []
+        }
+      ], 
+      "rawText": " We’re building the software that enables world class sports teams to perform at the peak of their abilities.  Our clients are elite professional and international squads in sports like rugby,  soccer,  baseball and basketball. We are looking for data scientists to drive our vision of injury prevention and performance optimisation.  We value insights over prediction,  high quality concepts and clean communication. As a Member Of Our Data Science Team In Kitman Labs You Will work within our research group consisting of sports scientists,  computer vision engineers and designers.  develop bespoke tools using R and other technologies to underpin the analytics process.  work with our engineering team to make our research add value in sport. RequirementsThe go to tool in Kitman Data Science is R and RStudio but we are always keen to use the best tool for the job.  Being comfortable with relational and non relational databases is important and we recognise the benefits of a broad skillset. An understanding and desire to grasp algorithms is important.  However while we see the power of machine learning we also realise it is only one piece of an analytics process that is sympathetic towards exploration and understanding. Our team has the tenacity to stick with tricky problems and the patience to put together a puzzle that ultimately leads to clear and complete communication of data science concepts. BenefitsWe want the best and we want people who work here to be happy.  Our compensation philosophy reflects this. We offer things like a competitive salary,  meaningful equity,  health insurance,  gym benefits and more. Kitman Labs is a place where people come to build great software and do great work.  Our culture rewards innovation and growth. "
+    }, 
+    "postalCode": "D1", 
+    "jobState": "LISTED", 
+    "companyName": "Kitman Labs", 
+    "companyDescription": {
+      "rtData": [], 
+      "rawText": "We're Hiring!At Kitman Labs,  we've been busy building a new type of athlete management system.  One that puts the fitness and wellbeing of the athlete first.  A system that has been designed by practitioners who are used to working in the high pressure environment of professional sport. And so,  as the first in a series of planned releases,  it is our great pleasure to introduce you to Injury Profiler,  a system for predicting,  managing,  and reducing the risk of injury amongst professional athletes. "
+    }, 
+    "sponsored": false, 
+    "showPosterInfo": false, 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "functions": [
+      "RSCH"
+    ], 
+    "listDate": 1444876921000, 
+    "countryCode": "ie", 
+    "company": "urn:li:company:3317416", 
+    "id": 92681664, 
+    "veteranCommitted": false
+  }, 
+  "formattedLocation": "Dublin,  IE", 
+  "applicationSetting": {
+    "applyMethod": {
+      "com. linkedin. jobs. OffsiteApply": {}
+    }
+  }, 
+  "externalApplyLink": "/jobs2/view/externalApply/92681664?trk=guest_apply_click_apply_button&url=https%3A%2F%2Fworkable. com%2Fj%2F3C777D4C3D&urlHash=PfaM&_mSplash=1&csrfToken=ajax%3A2644187314825728846", 
+  "formattedEmploymentStatus": "Full-time", 
+  "formattedJobFunctions": [
+    "Research"
+  ], 
+  "formattedExperience": "Mid-Senior level", 
+  "formattedIndustries": [
+    "Sports"
+  ], 
+  "formattedPostedDaysAgo": "Posted 51 days ago", 
+  "formattedPostedDaysAgoSlim": "30+ days ago", 
+  "formattedPostedDaysAgoShort": "51d", 
+  "companyDescriptionLanguage": "en", 
+  "decoratedCompany": {
+    "formattedEmployeeCount": "11-50 employees", 
+    "formattedCompanySize": "11-50", 
+    "foundedYear": 2012, 
+    "formattedCompanyType": "Privately Held", 
+    "companyLogo": {
+      "logoType": "LOGO_LEGACY", 
+      "urn": "urn:li:media:/AAEAAQAAAAAAAAHlAAAAJDJhZjIwZjJlLTMzZTktNGE4ZS1iZTFhLWE2NDA3ZWE3Y2U4MA. png"
+    }, 
+    "localizedDescription": "We're Hiring!\r\rAt Kitman Labs,  we've been busy building a new type of athlete management system.  One that puts the fitness and wellbeing of the athlete first.  A system that has been designed by practitioners who are used to working in the high pressure environment of professional sport. \r\rAnd so,  as the first in a series of planned releases,  it is our great pleasure to introduce you to Injury Profiler,  a system for predicting,  managing,  and reducing the risk of injury amongst professional athletes. ", 
+    "company": {
+      "specialities": [
+        "Sports Science", 
+        "Predictive Analytics", 
+        "Injury Prediction", 
+        "Athlete Management"
+      ], 
+      "universalName": "kitman-labs", 
+      "companyId": 3317416, 
+      "heroImage": {
+        "croppedImage": "urn:li:media:/AAEAAQAAAAAAAANqAAAAJDZkOGNmMmQ5LWU3OTctNGM0ZS05YTBmLTRhZjMyZDkyZDc3Nw. png"
+      }
+    }, 
+    "canonicalName": "Kitman Labs", 
+    "hasPaidLcp": false, 
+    "formattedIndustries": [
+      "Sports"
+    ]
+  }, 
+  "formattedListDate": "October 15,  2015", 
+  "formattedExpireDate": "January 5,  2016", 
+  "hasSavedJobPosting": false, 
+  "offsiteApply": true, 
+  "hasMySavedJobPosting": false, 
+  "descriptionLanguage": "en", 
+  "hasDecoratedCompany": true
+}

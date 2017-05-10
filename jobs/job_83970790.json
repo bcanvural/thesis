@@ -1,0 +1,21 @@
+{
+  "descriptionLanguage": "en", 
+  "pageUrl": "https://www. linkedin. com/jobs2/view/83970790", 
+  "locale": "en_US", 
+  "lang": "en", 
+  "protocol": "https://", 
+  "skillsDescription": "Deep knowledge of business planning and logistics processes in Retail Forecasting,  Ordering,  and Replenishment Ability to understand and clearly communicate complex algorithms and analytical concepts to stakeholders Knowledge of tools to build and run prototypes and simulations to test algorithms Knowledge of tools and best-practices to measure impact of new algorithms on business KPIs in production Some knowledge of programming and development processes Familiarity with Agile and business driven development", 
+  "following": false, 
+  "companyDescription": "We are one of the UK’s leading retailers,  with over 20 million people visiting our stores each week.  We offer stylish,  high quality,  great value clothing and home products,  as well as outstanding quality foods,  responsibly sourced from around 2, 000 suppliers globally.  We employ over 82, 000 employees across the globe,  have over 770 UK stores and over 430 international stores across 53 territories in Europe,  the Middle East and Asia.  We are the number one provider of womenswear and lingerie in the UK,  and are rapidly growing our market share in menswear,  kidswear and home,  due in part to our growing online business.  Overall,  our clothing and homeware sales account for 49% of our business.  The other 51% of our business is in food,  where we sell everything from fresh produce and groceries,  to partly-prepared meals and ready meals.  Now more than ever,  we’re also known for our green credentials as a result of Plan A - our 180-point plan designed to help us become the world's most sustainable major retailer by 2015.  It’s just one example of how we’re committed to giving customers a smarter,  fresher,  better shopping experience by turning our principles into action. ", 
+  "companyDescriptionLanguage": "en", 
+  "bottom": "true", 
+  "companyName": "Marks and Spencer", 
+  "canFollow": false, 
+  "companyId": "4558", 
+  "hostname": "linkedin. com", 
+  "jobPosting": {
+    "companyName": "Marks and Spencer", 
+    "title": "Data Scientist (Foods Retail)"
+  }, 
+  "description": "Purpose of the job:   Design Algorithms for Foods Forecasting,  Ordering &amp; Replenishment   Key accountabilities &amp; measures: Design new (and improve existing) algorithms for forecasting,  ordering,  and replenishment in Foods Build and run prototypes/simulations to measure the impact of algorithms on key business KPIs Ensure algorithms are specified clearly and completely to Development Team Work within an Agile framework to ensure algorithms are correctly implemented by the Development Team Research current trends in retail science in relation to inventory optimization Propose new algorithms or improvements to existing algorithms to improve KPIs Key Measures: Improve key Foods business KPIs (Sales,  Availability,  Waste Key relationships &amp; stakeholders: Foods Forecast and Inventory Managers/Planners Q Super-users Foods Analytics Team Q Product Owner Team Q Development Team Release Team"
+}

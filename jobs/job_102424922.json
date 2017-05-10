@@ -1,0 +1,31 @@
+{
+  "jobPosting": {
+    "companyName": "Morgan McKinley", 
+    "functions": [
+      "RSCH", 
+      "FIN", 
+      "IT"
+    ], 
+    "companyJobCode": "morganmckinley-1786526481", 
+    "title": "Senior Associate - Data Scientist & Financial Modelling Expert", 
+    "employmentStatus": "FULL_TIME", 
+    "listingType": "BASIC", 
+    "veteranCommitted": false, 
+    "id": 102424922, 
+    "experienceLevel": "ASSOCIATE", 
+    "applicationRouting": "COMPANY_WEBSITE", 
+    "industries": [
+      104
+    ]
+  }, 
+  "company": {
+    "websiteUrl": "http://www. morganmckinley. com", 
+    "logo": "urn:li:media:/AAEAAQAAAAAAAALwAAAAJGZlZTE1MTg2LTQ0YmQtNDk4Mi1iMjgyLWNiMTJlMzU2ODFhMw. png", 
+    "universalName": "morgan-mckinley", 
+    "companyId": 16175
+  }, 
+  "description": "    An opportunity has arisen in a global financial services firm for a    Senior Associate to join their rapidly expanding Financial Decisions    and Analysis team.     They are looking for data Scientist and Statistical Modelling experts    who can deliver commercially \"game changing\" insight to clients and    identify relationships and opportunities in the underlying data which    can support the Deal value.     Responsibilities Will Include       Identifying new opportunities in the underlying Deal Data to        provide greater insight to our clients       Develop statistical models which help solve Deals client's business        issues in a way which complements traditional analysis.        Researching and implementing suitable techniques to solve the        specific client problem and deal with potential data availability,         quality or accuracy       Linking and integrating multiple data sets,  potentially from        multiple systems to bring deal insights       Developing Algorithms which support the businesses' forecasting        capabilities       Implementing processes for data collection and data cleansing and        data normalisation     To be considered for the role you must have a minimum of a 2:1 degree    in a technical or analytical based subject (e. g.  computer science,     mathematics,  etc. ) or a minimum of 1 year's experience the following    disciplines:       Having strong critical thinking / problem solving skills,        A solution-oriented mindset with a demonstrable ability to think        laterally and approach problems from multiple perspectives       Solid grounding in mathematics and statistics including practical        experience of applying several of the following techniques:       Statistical techniques: multivariate regression,  logistic        regression,  cluster analysis,  factor analysis,  ANOVA       Graph Analysis / Optimisation: graph theory,  networks analysis,         gravity models,  structural equation modelling,  support vector        machines and other quadratic programming techniques       Probabilistic models: Neural networks,  random forests,  Markov        chains,  Bayesian networks,  stochastic processes       Learning Algorithms: online / offline,  supervised / unsupervised        learning techniques for machine learning solutions,  genetic        algorithms       Data visualisation approaches: Kohonen / self-organising maps,         other data visualisation techniques       Comfortable manipulating and analysing high-volume,         high-dimensionality data from varying sources       Practical knowledge of a programming language like: Java,  C/C++/C#,         or Python across data structures,  algorithms and graphic user        interface design       Familiarity with statistical packages such as R,  SPSS or SAS     Morgan McKinley is acting as an Employment Agency in relation to this    vacancy. ", 
+  "companyDescription": "      Morgan McKinley    Your Career Ally™    Follow the Morgan McKinley global company page to keep updated on    latest news,  insights and articles.  Here you will find information    about our services and how we can help you achieve your career goals.     Recruitment is a complete process built on a relationship of trust    between the hiring company,  candidates and the consultant.     By nurturing the talent pool within our chosen professional communities    and disciplines,  Morgan McKinley ensures that the right candidates are    matched to the right opportunities.     If you are a talented professional,  when you register with Morgan    McKinley you can expect a five-star service based on career-long advice    and support.     Even when you are not actively seeking a new role.     Our mission is to be your Career Ally™,  helping you to realise your    ambitions and discover your true potential.     And when you are actively seeking a new role,  we are here to help you    at every stage of the journey.     Our specialist sectors and disciplines include Banking,  Insurance,     Commerce & Industry,  Finance & Accounting,  Project & Change,  IT,  Risk,     Compliance,  Marketing and Administration. ", 
+  "descriptionLanguage": "en", 
+  "companyDescriptionLanguage": "en"
+}
