@@ -1,0 +1,6 @@
+T26	Exp 263 277	the mechanisms
+T27	Exp 278 282	that
+T28	Exp 572 598	HTLV-I-positive MT-2 cells	593 598	cells
+T29	Exp 600 605	which
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28

@@ -1,0 +1,6 @@
+T16	Exp 164 173	histamine
+T17	Exp 178 181	its
+T18	Exp 1025 1034	histamine
+T19	Exp 1038 1041	its
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18

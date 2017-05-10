@@ -1,0 +1,22 @@
+T10	Exp 326 339	these females	332 339	females
+T11	Exp 350 364	the XIST locus
+T12	Exp 368 373	their
+T13	Exp 577 586	the locus	581 586	locus
+T14	Exp 597 599	it
+T15	Exp 813 844	The two tiny ring X chromosomes	833 844	chromosomes
+T16	Exp 999 1004	their
+T17	Exp 1092 1097	genes
+T18	Exp 1098 1102	that
+T19	Exp 1385 1404	the ring chromosome
+T20	Exp 1405 1409	that
+T21	Exp 1414 1422	XIST DNA
+T22	Exp 1447 1449	it
+T23	Exp 1460 1463	its
+R1	Coref Anaphora:T12 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T11	[T1]
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17
+R6	Coref Anaphora:T20 Antecedent:T19
+R7	Coref Anaphora:T22 Antecedent:T21	[T9]
+R8	Coref Anaphora:T23 Antecedent:T19

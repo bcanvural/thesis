@@ -1,0 +1,31 @@
+*	Equiv T4 T5
+*	Equiv T16 T17
+T19	Entity 33 44	heterodimer
+T20	Entity 124 149	upstream enhancer element
+T21	Entity 205 223	transcription site
+T22	Entity 299 330	LPS-responsive enhancer element
+T23	Entity 364 409	the sequences located between -3134 and -2987
+T24	Entity 609 637	serial 5'-deletion mutations
+T25	Entity 650 684	the region between -3134 and -3059
+T26	Entity 780 806	synthetic oligonucleotides
+T27	Entity 924 945	protein binding sites
+T28	Entity 1200 1209	NF-kappaB
+T29	Entity 1260 1269	NF-kappaB
+T30	Entity 1300 1304	AP-1
+T31	Entity 1393 1416	NF-kappaB-binding sites
+T32	Entity 1393 1402	NF-kappaB
+T33	Entity 1526 1549	NF-kappaB-binding sites
+T34	Entity 1526 1535	NF-kappaB
+T35	Entity 1577 1592	-3134 and -3059
+R1	Protein-Component Arg1:T3 Arg2:T20
+R2	Subunit-Complex Arg1:T1 Arg2:T19
+R3	Subunit-Complex Arg1:T2 Arg2:T19
+R4	Protein-Component Arg1:T4 Arg2:T22
+R5	Protein-Component Arg1:T4 Arg2:T21
+R6	Subunit-Complex Arg1:T12 Arg2:T29
+R7	Subunit-Complex Arg1:T9 Arg2:T28
+R8	Subunit-Complex Arg1:T10 Arg2:T28
+R9	Subunit-Complex Arg1:T14 Arg2:T30
+R10	Subunit-Complex Arg1:T11 Arg2:T29
+R11	Subunit-Complex Arg1:T15 Arg2:T30
+R12	Subunit-Complex Arg1:T13 Arg2:T29

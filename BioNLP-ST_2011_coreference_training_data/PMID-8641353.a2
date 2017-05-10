@@ -1,0 +1,12 @@
+T26	Exp 157 228	The protein products of the c-fos (p62c-fos) and c-jun (p39c-jun) genes	161 177	protein products
+T27	Exp 415 429	these proteins
+T28	Exp 566 578	the proteins
+T29	Exp 663 677	these proteins
+T30	Exp 944 969	transcription factor AP-1
+T31	Exp 971 976	which
+T32	Exp 1227 1241	these proteins
+R1	Coref Anaphora:T27 Antecedent:T26	[T7, T6, T5, T4]
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T29 Antecedent:T27
+R4	Coref Anaphora:T31 Antecedent:T30
+R5	Coref Anaphora:T32 Antecedent:T29

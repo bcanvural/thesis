@@ -1,0 +1,18 @@
+T13	Entity 310 324	cytokine genes
+T14	Entity 426 450	NFAT gene family members
+T15	Entity 585 598	cytokine gene
+T16	Entity 684 694	cDNA clone
+T17	Entity 726 736	cDNA clone
+T18	Entity 844 863	amino acid sequence
+T19	Entity 924 948	NH2-terminal 29 residues
+T20	Entity 986 998	142 residues
+T21	Entity 1006 1019	COOH terminus
+T22	Entity 1358 1383	NFAT-driven reporter gene
+T23	Entity 1479 1493	kappa3 element
+T24	Entity 1499 1516	NFAT-binding site
+T25	Entity 1554 1562	promoter
+T26	Entity 1609 1617	promoter
+T27	Entity 1701 1717	NFAT gene family
+T28	Entity 1765 1779	cytokine genes
+R1	Protein-Component Arg1:T11 Arg2:T25
+R2	Protein-Component Arg1:T12 Arg2:T26

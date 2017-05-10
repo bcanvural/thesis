@@ -1,0 +1,12 @@
+T20	Exp 636 662	pyrrolidinedithiocarbamate
+T21	Exp 664 669	which
+T22	Exp 1812 1824	ratios > 400	1812 1818	ratios
+T23	Exp 1832 1837	those
+T24	Exp 1904 1914	NF-kappa B
+T25	Exp 1926 1929	its
+T26	Exp 2212 2234	one possible mechanism	2225 2234	mechanism
+T27	Exp 2243 2248	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24
+R4	Coref Anaphora:T27 Antecedent:T26

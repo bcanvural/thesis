@@ -1,0 +1,65 @@
+T27	Entity 26 53	nuclear localization signal
+T28	Entity 57 67	NF-kappa B
+T29	Entity 89 111	transactivation domain
+T30	Entity 123 133	NF-kappa B
+T31	Entity 138 141	DNA
+T32	Entity 183 222	NF-kappa B transcription factor complex
+T33	Entity 242 245	DNA
+T34	Entity 264 274	NF-kappa B
+T35	Entity 283 293	NF-kappa B
+T36	Entity 395 405	NF-kappa B
+T37	Entity 543 553	NF-kappa B
+T38	Entity 586 596	NF-kappa B
+T39	Entity 626 633	kappa B
+T40	Entity 818 828	NF-kappa B
+T41	Entity 868 878	NF-kappa B
+T42	Entity 935 938	DNA
+T43	Entity 1110 1120	NF-kappa B
+T44	Entity 1160 1169	I kappa B
+T45	Entity 1196 1206	NF-kappa B
+T46	Entity 1269 1321	human immunodeficiency virus type 1 kappa B enhancer
+T47	Entity 1364 1373	I kappa B
+T48	Entity 1383 1393	NF-kappa B
+T49	Entity 1424 1434	NF-kappa B
+T50	Entity 1514 1541	nuclear localization signal
+T51	Entity 1557 1576	Rel homology domain
+T52	Entity 1580 1590	NF-kappa B
+T53	Entity 1661 1671	C-terminus
+T54	Entity 1675 1685	NF-kappa B
+T55	Entity 1808 1818	NF-kappa B
+T56	Entity 1823 1826	DNA
+T57	Entity 1887 1914	nuclear localization signal
+T58	Entity 1919 1941	transactivation domain
+T59	Entity 1945 1955	NF-kappa B
+T60	Entity 2155 2165	NF-kappa B
+T61	Entity 2232 2242	NF-kappa B
+T62	Entity 2302 2305	DNA
+T63	Entity 2369 2386	C-terminal domain
+T64	Entity 2425 2435	NF-kappa B
+R1	Protein-Component Arg1:T2 Arg2:T27
+R2	Subunit-Complex Arg1:T2 Arg2:T28
+R3	Subunit-Complex Arg1:T3 Arg2:T30
+R4	Subunit-Complex Arg1:T4 Arg2:T32
+R5	Subunit-Complex Arg1:T5 Arg2:T32
+R6	Subunit-Complex Arg1:T4 Arg2:T34
+R7	Subunit-Complex Arg1:T5 Arg2:T35
+R8	Subunit-Complex Arg1:T7 Arg2:T36
+R9	Subunit-Complex Arg1:T8 Arg2:T38
+R10	Subunit-Complex Arg1:T10 Arg2:T41
+R11	Protein-Component Arg1:T17 Arg2:T51
+R12	Protein-Component Arg1:T19 Arg2:T53
+R13	Protein-Component Arg1:T17 Arg2:T50
+R14	Subunit-Complex Arg1:T20 Arg2:T55
+R15	Subunit-Complex Arg1:T13 Arg2:T45
+R16	Subunit-Complex Arg1:T15 Arg2:T48
+R17	Subunit-Complex Arg1:T16 Arg2:T49
+R18	Subunit-Complex Arg1:T17 Arg2:T52
+R19	Subunit-Complex Arg1:T19 Arg2:T54
+R20	Subunit-Complex Arg1:T11 Arg2:T43
+R21	Protein-Component Arg1:T21 Arg2:T57
+R22	Protein-Component Arg1:T21 Arg2:T58
+R23	Subunit-Complex Arg1:T21 Arg2:T59
+R24	Subunit-Complex Arg1:T24 Arg2:T60
+R25	Subunit-Complex Arg1:T25 Arg2:T61
+R26	Protein-Component Arg1:T26 Arg2:T63
+R27	Subunit-Complex Arg1:T26 Arg2:T64

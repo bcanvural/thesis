@@ -1,0 +1,29 @@
+T1	Protein 0 7	sigma F
+T2	Action 8 16	activity
+T3	Action 48 70	proteolytic processing
+T4	Protein 74 81	sigma E
+W1	Word 0 7	sigma F
+W2	Word 8 16	activity
+W3	Word 17 19	in
+W4	Word 20 23	the
+W5	Word 24 33	forespore
+W6	Word 34 43	regulates
+W7	Word 44 47	the
+W8	Word 48 59	proteolytic
+W9	Word 60 70	processing
+W10	Word 71 73	of
+W11	Word 74 81	sigma E
+W12	Word 82 88	within
+W13	Word 89 92	the
+W14	Word 93 99	mother
+W15	Word 100 104	cell
+W16	Word 105 116	compartment
+R1	comp:N-N(of) W9 W11
+R2	mod_att:N-ADJ W9 W8
+R3	comp:V-N(within) W6 W16
+R4	mod_att:N-N W15 W14
+R5	subj:V-N W6 W2
+R6	mod_att:N-N W2 W1
+R7	mod_att:N-N W16 W15
+R8	obj:V-N W6 W9
+R9	comp:N-N(in) W2 W5

@@ -1,0 +1,3 @@
+T29	Exp 284 297	the mechanism
+T30	Exp 301 306	which
+R1	Coref Anaphora:T30 Antecedent:T29

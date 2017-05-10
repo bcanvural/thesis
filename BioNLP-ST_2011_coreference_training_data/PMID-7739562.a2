@@ -1,0 +1,20 @@
+T13	Exp 449 464	I kappa B alpha
+T14	Exp 466 492	This cytoplasmic inhibitor	483 492	inhibitor
+T15	Exp 829 861	novel mutants of I kappa B alpha	835 842	mutants
+T16	Exp 846 861	I kappa B alpha
+T17	Exp 862 866	that
+T18	Exp 876 879	its
+T19	Exp 1006 1021	I kappa B alpha
+T20	Exp 1040 1043	its
+T21	Exp 1423 1446	constitutive repressors	1436 1446	repressors
+T22	Exp 1447 1451	that
+T23	Exp 1490 1494	that
+T24	Exp 1906 1958	a critical signal response domain in I kappa B alpha	1933 1939	domain
+T25	Exp 1959 1963	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T2]
+R2	Coref Anaphora:T17 Antecedent:T15	[T5]
+R3	Coref Anaphora:T18 Antecedent:T16	[T5]
+R4	Coref Anaphora:T20 Antecedent:T19	[T6]
+R5	Coref Anaphora:T22 Antecedent:T21
+R6	Coref Anaphora:T23 Antecedent:T21
+R7	Coref Anaphora:T25 Antecedent:T24	[T11]

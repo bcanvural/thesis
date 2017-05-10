@@ -1,0 +1,29 @@
+T1	Transcription 34 47	transcription
+T2	Gene 51 55	degR
+T3	Protein 72 96	alternative sigma factor
+T4	Protein 98 104	sigmaD
+W1	Word 0 2	We
+W2	Word 3 7	have
+W3	Word 8 13	shown
+W4	Word 14 24	previously
+W5	Word 25 29	that
+W6	Word 30 33	the
+W7	Word 34 47	transcription
+W8	Word 48 50	of
+W9	Word 51 55	degR
+W10	Word 56 58	is
+W11	Word 59 65	driven
+W12	Word 66 68	by
+W13	Word 69 71	an
+W14	Word 72 83	alternative
+W15	Word 84 89	sigma
+W16	Word 90 96	factor
+W17	Word 98 104	sigmaD
+R1	comp:N-N(of) W7 W9
+R2	appos W16 W17
+R3	mod_att:N-N W16 W15
+R4	mod:V-ADV W3 W4
+R5	subj:V-N W3 W1
+R6	comp:V_PASS-N(by) W11 W16
+R7	subj:V_PASS-N W11 W7
+R8	mod_att:N-ADJ W16 W14

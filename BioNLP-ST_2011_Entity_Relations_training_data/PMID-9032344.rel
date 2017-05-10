@@ -1,0 +1,24 @@
+T14	Entity 31 40	homodimer
+T15	Entity 470 479	NF-kappaB
+T16	Entity 559 568	NF-kappaB
+T17	Entity 844 853	homodimer
+T18	Entity 953 965	heterodimers
+T19	Entity 1008 1015	p50/p65
+T20	Entity 1020 1028	p50/RelB
+T21	Entity 1105 1112	p50/p65
+T22	Entity 1153 1163	homodimers
+T23	Entity 1169 1206	transcriptionally active heterodimers
+T24	Entity 1367 1376	NF-kappaB
+R1	Subunit-Complex Arg1:T1 Arg2:T14
+R2	Subunit-Complex Arg1:T2 Arg2:T17
+R3	Subunit-Complex Arg1:T3 Arg2:T18
+R4	Subunit-Complex Arg1:T4 Arg2:T18
+R5	Subunit-Complex Arg1:T5 Arg2:T18
+R6	Subunit-Complex Arg1:T6 Arg2:T18
+R7	Subunit-Complex Arg1:T7 Arg2:T19
+R8	Subunit-Complex Arg1:T8 Arg2:T19
+R9	Subunit-Complex Arg1:T9 Arg2:T20
+R10	Subunit-Complex Arg1:T10 Arg2:T20
+R11	Subunit-Complex Arg1:T11 Arg2:T21
+R12	Subunit-Complex Arg1:T12 Arg2:T21
+R13	Subunit-Complex Arg1:T13 Arg2:T22

@@ -1,0 +1,11 @@
+T8	Entity 28 51	Epstein-Barr virus gene
+T9	Entity 779 793	EBNA promoters
+T10	Entity 795 797	Qp
+T11	Entity 817 819	Cp
+T12	Entity 824 826	Wp
+T13	Entity 1059 1073	BamHI-A region
+T14	Entity 1081 1093	viral genome
+T15	Entity 1155 1175	immediate-early gene
+T16	Entity 1280 1291	EBV genomes
+R1	Protein-Component Arg1:T3 Arg2:T12
+R2	Protein-Component Arg1:T3 Arg2:T11

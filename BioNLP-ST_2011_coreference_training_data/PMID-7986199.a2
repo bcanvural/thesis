@@ -1,0 +1,3 @@
+T1	Exp 191 239	the effect of pyrrolidine dithiocarbamate (PDTC)
+T2	Exp 241 246	which
+R1	Coref Anaphora:T2 Antecedent:T1

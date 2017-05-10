@@ -1,0 +1,18 @@
+T12	Exp 0 9	HIV-1 Nef
+T13	Exp 68 71	its
+T14	Exp 374 397	Two opposite phenotypes
+T15	Exp 410 415	which
+T16	Exp 656 715	only cells with mutated nef genes expressing truncated Nefs
+T17	Exp 726 731	which
+T18	Exp 760 775	These mutations
+T19	Exp 787 792	those
+T20	Exp 847 878	these positional effects of Nef
+T21	Exp 911 914	Nef
+T22	Exp 938 941	its
+T23	Exp 972 976	they
+R1	Coref Anaphora:T13 Antecedent:T12	[T1]
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16	[T6, T7]
+R4	Coref Anaphora:T19 Antecedent:T18
+R5	Coref Anaphora:T22 Antecedent:T21	[T10]
+R6	Coref Anaphora:T23 Antecedent:T20	[T9]

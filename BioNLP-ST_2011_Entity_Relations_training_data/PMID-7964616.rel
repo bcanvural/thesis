@@ -1,0 +1,36 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T9 T10
+*	Equiv T11 T12
+T33	Entity 0 3	DNA
+T34	Entity 371 376	genes
+T35	Entity 486 494	promoter
+T36	Entity 514 522	promoter
+T37	Entity 689 692	DNA
+T38	Entity 817 836	cis-acting elements
+T39	Entity 848 856	promoter
+T40	Entity 962 970	promoter
+T41	Entity 1151 1173	protein-binding region
+T42	Entity 1185 1193	promoter
+T43	Entity 1207 1221	42 bp fragment
+T44	Entity 1235 1259	nucleotides -135 to -176
+T45	Entity 1276 1306	LMP transcriptional start site
+T46	Entity 1320 1333	DNA fragments
+T47	Entity 1388 1391	DNA
+T48	Entity 1624 1632	promoter
+T49	Entity 1742 1750	promoter
+T50	Entity 1954 1972	specific complexes
+T51	Entity 1990 1998	promoter
+R1	Protein-Component Arg1:T13 Arg2:T35
+R2	Protein-Component Arg1:T14 Arg2:T36
+R3	Protein-Component Arg1:T18 Arg2:T38
+R4	Protein-Component Arg1:T18 Arg2:T39
+R5	Protein-Component Arg1:T21 Arg2:T40
+R6	Protein-Component Arg1:T23 Arg2:T41
+R7	Protein-Component Arg1:T23 Arg2:T45
+R8	Protein-Component Arg1:T23 Arg2:T43
+R9	Protein-Component Arg1:T23 Arg2:T44
+R10	Protein-Component Arg1:T23 Arg2:T42
+R11	Protein-Component Arg1:T28 Arg2:T48
+R12	Protein-Component Arg1:T29 Arg2:T49
+R13	Protein-Component Arg1:T32 Arg2:T51

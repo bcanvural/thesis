@@ -1,0 +1,6 @@
+T36	Exp 1672 1724	the induction of CD36, Tal1, EKLF, NF-E2, and GATA-1	1676 1685	induction
+T37	Exp 1725 1729	that
+T38	Exp 2143 2159	progenitor cells	2154 2159	cells
+T39	Exp 2168 2173	their
+R1	Coref Anaphora:T37 Antecedent:T36	[T25, T22, T24, T23]
+R2	Coref Anaphora:T39 Antecedent:T38

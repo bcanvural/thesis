@@ -1,0 +1,9 @@
+T8	Exp 310 359	protein tyrosine phosphorylation and Ca2+ signals
+T9	Exp 371 376	those
+T10	Exp 492 512	Normal T lymphocytes	501 512	lymphocytes
+T11	Exp 513 518	whose
+T12	Exp 1415 1437	cell surface receptors
+T13	Exp 1438 1442	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12

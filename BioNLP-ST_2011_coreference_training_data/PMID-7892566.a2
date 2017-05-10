@@ -1,0 +1,8 @@
+T6	Exp 324 340	the element TCEd
+T7	Exp 342 347	which
+T8	Exp 431 443	This element	436 443	element
+T9	Exp 491 508	The NFATd element
+T10	Exp 510 515	which
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T8 Antecedent:T6
+R3	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,8 @@
+T9	Exp 36 40	AP-1
+T10	Exp 259 283	the transcription factor
+T11	Exp 374 402	the octamer binding proteins	394 402	proteins
+T12	Exp 404 418	Oct-1 or Oct-2
+T13	Exp 827 839	okadaic acid
+T14	Exp 899 901	it
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T14 Antecedent:T13

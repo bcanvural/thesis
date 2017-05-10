@@ -1,0 +1,10 @@
+T13	Exp 942 946	IL-4
+T14	Exp 948 961	anti-CD40 mAb
+T15	Exp 966 971	their
+T16	Exp 985 988	NAC
+T17	Exp 1061 1064	its
+T18	Exp 1087 1095	cultures
+T19	Exp 1145 1150	those
+R1	Coref Anaphora:T15 Antecedent:T13 Antecedent2:T14	[T6, T7]
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18

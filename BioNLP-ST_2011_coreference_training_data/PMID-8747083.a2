@@ -1,0 +1,9 @@
+T3	Exp 300 328	Human rhabdomyosarcoma cells	323 328	cells
+T4	Exp 368 372	myf3
+T5	Exp 413 418	their
+T6	Exp 532 568	isolated nuclei of human lymphocytes	541 547	nuclei
+T7	Exp 572 577	which
+T8	Exp 608 617	this gene	613 617	gene
+R1	Coref Anaphora:T5 Antecedent:T3
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T8 Antecedent:T4	[T2]

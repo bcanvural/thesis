@@ -1,0 +1,3 @@
+T5	Exp 480 555	detectable NF-kappaB DNA binding activity and low level RAG gene expression
+T6	Exp 656 682	these two crucial elements
+R1	Coref Anaphora:T6 Antecedent:T5

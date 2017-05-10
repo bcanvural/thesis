@@ -1,0 +1,6 @@
+T5	Exp 306 324	different variants	316 324	variants
+T6	Exp 325 330	which
+T7	Exp 379 388	The forms
+T8	Exp 481 486	those
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

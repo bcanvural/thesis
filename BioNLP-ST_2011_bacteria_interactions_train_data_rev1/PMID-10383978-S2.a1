@@ -1,0 +1,52 @@
+T1	Expression 53 63	expression
+T2	Gene 71 75	sigE
+T3	Protein 95 122	earlier-acting sigma factor
+T4	Protein 124 130	sigmaE
+T5	Protein 163 188	later-acting sigma factor
+T6	Protein 190 196	sigmaK
+W1	Word 0 2	In
+W2	Word 3 6	the
+W3	Word 7 13	mother
+W4	Word 14 18	cell
+W5	Word 19 30	compartment
+W6	Word 31 33	of
+W7	Word 34 45	sporulating
+W8	Word 46 51	cells
+W9	Word 53 63	expression
+W10	Word 64 66	of
+W11	Word 67 70	the
+W12	Word 71 75	sigE
+W13	Word 76 80	gene
+W14	Word 82 90	encoding
+W15	Word 91 94	the
+W16	Word 95 109	earlier-acting
+W17	Word 110 115	sigma
+W18	Word 116 122	factor
+W19	Word 124 130	sigmaE
+W20	Word 132 134	is
+W21	Word 135 145	negatively
+W22	Word 146 155	regulated
+W23	Word 156 158	by
+W24	Word 159 162	the
+W25	Word 163 175	later-acting
+W26	Word 176 181	sigma
+W27	Word 182 188	factor
+W28	Word 190 196	sigmaK
+R1	mod_att:N-N W4 W3
+R2	mod_att:N-N W13 W12
+R3	mod_att:N-N W27 W26
+R4	mod_att:N-ADJ W27 W25
+R5	mod_att:N-N W5 W4
+R6	mod:V_PASS-ADV W22 W21
+R7	comp:N-N(of) W5 W8
+R8	subj:V_PASS-N W22 W9
+R9	appos W18 W19
+R10	mod_att:N-ADJ W18 W16
+R11	comp:V_PASS-N(in) W22 W5
+R12	subj:V-N W14 W9
+R13	appos W27 W28
+R14	comp:N-N(of) W9 W13
+R15	obj:V-N W14 W18
+R16	mod_att:N-N W18 W17
+R17	mod_att:N-N W8 W7
+R18	comp:V_PASS-N(by) W22 W27

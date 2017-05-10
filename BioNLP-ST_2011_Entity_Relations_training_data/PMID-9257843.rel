@@ -1,0 +1,27 @@
+*	Equiv T2 T3 T4
+T15	Entity 77 85	promoter
+T16	Entity 317 341	tissue-specific promoter
+T17	Entity 374 384	N terminus
+T18	Entity 570 578	promoter
+T19	Entity 591 600	initiator
+T20	Entity 623 634	5' terminus
+T21	Entity 677 683	motifs
+T22	Entity 696 707	C/EBP motif
+T23	Entity 938 948	Ets motifs
+T24	Entity 1120 1131	C/EBP motif
+T25	Entity 1269 1280	heterodimer
+T26	Entity 1435 1443	promoter
+T27	Entity 1501 1509	promoter
+T28	Entity 1593 1601	promoter
+R1	Protein-Component Arg1:T1 Arg2:T15
+R2	Protein-Component Arg1:T5 Arg2:T16
+R3	Protein-Component Arg1:T5 Arg2:T17
+R4	Protein-Component Arg1:T6 Arg2:T19
+R5	Protein-Component Arg1:T6 Arg2:T22
+R6	Protein-Component Arg1:T7 Arg2:T19
+R7	Protein-Component Arg1:T6 Arg2:T21
+R8	Protein-Component Arg1:T7 Arg2:T20
+R9	Protein-Component Arg1:T6 Arg2:T18
+R10	Subunit-Complex Arg1:T11 Arg2:T25
+R11	Subunit-Complex Arg1:T12 Arg2:T25
+R12	Protein-Component Arg1:T14 Arg2:T27

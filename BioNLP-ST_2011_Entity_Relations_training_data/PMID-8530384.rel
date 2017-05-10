@@ -1,0 +1,37 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+*	Equiv T7 T8
+*	Equiv T9 T10
+*	Equiv T13 T14
+*	Equiv T17 T18
+*	Equiv T19 T20
+*	Equiv T22 T23
+*	Equiv T24 T25
+T27	Entity 115 139	transcriptional promoter
+T28	Entity 165 178	octamer motif
+T29	Entity 428 433	cDNAs
+T30	Entity 438 452	genomic clones
+T31	Entity 614 642	NH2-terminal 126 amino acids
+T32	Entity 717 728	POU domains
+T33	Entity 847 850	DNA
+T34	Entity 896 899	DNA
+T35	Entity 1000 1003	DNA
+T36	Entity 1042 1069	octamer-dependent promoters
+T37	Entity 1042 1049	octamer
+T38	Entity 1060 1069	promoters
+T39	Entity 1117 1143	octamer-dependent enhancer
+T40	Entity 1117 1124	octamer
+T41	Entity 1135 1143	enhancer
+T42	Entity 1199 1222	GAL4 DNA binding domain
+T43	Entity 1241 1245	NH2-
+T44	Entity 1250 1271	COOH-terminal domains
+T45	Entity 1336 1356	COOH-terminal domain
+T46	Entity 1474 1509	octamer-dependent enhancer elements
+T47	Entity 1574 1600	promoter-proximal position
+R1	Protein-Component Arg1:T11 Arg2:T32
+R2	Protein-Component Arg1:T12 Arg2:T32
+R3	Protein-Component Arg1:T9 Arg2:T31
+R4	Protein-Component Arg1:T22 Arg2:T45
+R5	Protein-Component Arg1:T22 Arg2:T44
+R6	Protein-Component Arg1:T22 Arg2:T43
+R7	Protein-Component Arg1:T21 Arg2:T42

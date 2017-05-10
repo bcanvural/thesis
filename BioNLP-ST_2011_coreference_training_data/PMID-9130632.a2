@@ -1,0 +1,6 @@
+T22	Exp 378 409	tyrosine phosphorylation of Itk	387 402	phosphorylation
+T23	Exp 411 416	which
+T24	Exp 932 978	the nuclear factor of activated T cells (NFAT)
+T25	Exp 1000 1005	which
+R1	Coref Anaphora:T23 Antecedent:T22	[T6]
+R2	Coref Anaphora:T25 Antecedent:T24

@@ -1,0 +1,7 @@
+*	Equiv T1 T2
+*	Equiv T8 T9
+T16	Entity 1034 1048	cytokine genes
+T17	Entity 1123 1150	promoter/enhancer sequences
+T18	Entity 1483 1525	transcriptional factor activator protein-1
+T19	Entity 1545 1567	nuclear factor-kappa B
+R1	Protein-Component Arg1:T12 Arg2:T17

@@ -1,0 +1,21 @@
+*	Equiv T2 T3
+T6	Entity 21 53	hypersensitive site HS2 enhancer
+T7	Entity 82 94	human genome
+T8	Entity 100 151	erythroid-specific hypersensitive site HS2 enhancer
+T9	Entity 187 220	downstream beta-like globin genes
+T10	Entity 260 272	HS2 enhancer
+T11	Entity 389 401	HS2 enhancer
+T12	Entity 516 528	HS2 enhancer
+T13	Entity 544 556	HS2 sequence
+T14	Entity 654 662	enhancer
+T15	Entity 689 704	intervening DNA
+T16	Entity 776 788	HS2 enhancer
+T17	Entity 862 874	HS2 enhancer
+T18	Entity 887 903	tandem Ap1 sites
+T19	Entity 1113 1128	intervening DNA
+T20	Entity 1189 1201	HS2 enhancer
+T21	Entity 1222 1241	chromatin structure
+T22	Entity 1247 1258	gene domain
+T23	Entity 1276 1284	enhancer
+T24	Entity 1389 1397	cap site
+R1	Protein-Component Arg1:T1 Arg2:T8

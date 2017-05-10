@@ -1,0 +1,17 @@
+T17	Exp 329 358	definitive erythroid colonies	350 358	colonies
+T18	Exp 359 363	that
+T19	Exp 399 404	those
+T20	Exp 736 750	beta h1-globin
+T21	Exp 752 757	which
+T22	Exp 818 853	adult beta-globin/alpha-globin mRNA
+T23	Exp 889 893	that
+T24	Exp 922 939	the EKLF-/- cells	934 939	cells
+T25	Exp 972 976	they
+T26	Exp 1153 1164	hemoglobins
+T27	Exp 1165 1169	that
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T19 Antecedent:T17
+R3	Coref Anaphora:T21 Antecedent:T20	[T7]
+R4	Coref Anaphora:T23 Antecedent:T22	[T9, T8]
+R5	Coref Anaphora:T25 Antecedent:T24	[T10]
+R6	Coref Anaphora:T27 Antecedent:T26

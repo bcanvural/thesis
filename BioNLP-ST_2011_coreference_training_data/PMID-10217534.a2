@@ -1,0 +1,12 @@
+T1	Exp 24 41	sulphamethoxazole
+T2	Exp 46 49	its
+T3	Exp 347 350	SMX
+T4	Exp 355 358	its
+T5	Exp 1464 1467	SMX
+T6	Exp 1471 1474	its
+T7	Exp 1471 1492	its toxic metabolites	1481 1492	metabolites
+T8	Exp 1497 1502	their
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T7

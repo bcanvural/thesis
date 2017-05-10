@@ -1,0 +1,22 @@
+*	Equiv T3 T4
+T24	Entity 93 101	promoter
+T25	Entity 135 148	binding sites
+T26	Entity 493 508	enhancer region
+T27	Entity 525 550	nucleotides -170 and -139
+T28	Entity 574 582	promoter
+T29	Entity 614 624	5' portion
+T30	Entity 698 708	3' portion
+T31	Entity 726 743	Sp binding motifs
+T32	Entity 1182 1199	DNA binding motif
+T33	Entity 1248 1260	binding site
+T34	Entity 1294 1309	Sp binding site
+T35	Entity 1375 1383	promoter
+T36	Entity 1734 1742	promoter
+R1	Protein-Component Arg1:T2 Arg2:T25
+R2	Protein-Component Arg1:T2 Arg2:T24
+R3	Protein-Component Arg1:T8 Arg2:T26
+R4	Protein-Component Arg1:T8 Arg2:T27
+R5	Protein-Component Arg1:T8 Arg2:T28
+R6	Protein-Component Arg1:T13 Arg2:T32
+R7	Protein-Component Arg1:T16 Arg2:T35
+R8	Protein-Component Arg1:T23 Arg2:T36

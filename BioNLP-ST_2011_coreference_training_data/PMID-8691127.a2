@@ -1,0 +1,20 @@
+T11	Exp 73 176	Nuclear factor of activated T cells-family proteins (NFAT1/NFATp, NFATc, NFAT3, and NFAT4/NFATx/NFATc3)	116 124	proteins
+T12	Exp 336 341	NFAT1
+T13	Exp 352 379	two transactivation domains	372 379	domains
+T14	Exp 380 385	whose
+T15	Exp 453 483	a conserved DNA-binding domain	477 483	domain
+T16	Exp 484 488	that
+T17	Exp 569 571	it
+T18	Exp 620 631	the protein
+T19	Exp 705 734	an adjacent regulatory region	728 734	region
+T20	Exp 735 739	that
+T21	Exp 803 818	the NFAT family
+T22	Exp 842 861	the multiple levels	855 861	levels
+T23	Exp 865 870	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T17 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T12	[T10]
+R5	Coref Anaphora:T20 Antecedent:T19
+R6	Coref Anaphora:T21 Antecedent:T11	[T3, T2, T7, T6, T8, T5, T4]
+R7	Coref Anaphora:T23 Antecedent:T22

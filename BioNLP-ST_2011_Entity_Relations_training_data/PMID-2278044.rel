@@ -1,0 +1,23 @@
+T4	Entity 23 54	cis-linked regulatory sequences
+T5	Entity 62 78	HLA DRA promoter
+T6	Entity 139 140	X
+T7	Entity 145 152	Y boxes
+T8	Entity 285 342	major histocompatibility complex (MHC) class II promoters
+T9	Entity 357 375	class II promoters
+T10	Entity 381 408	HLA-DR alpha (DRA) promoter
+T11	Entity 452 467	"octamer" motif
+T12	Entity 471 511	immunoglobulin variable region promoters
+T13	Entity 573 580	octamer
+T14	Entity 749 766	"octamer" complex
+T15	Entity 819 838	cis-acting elements
+T16	Entity 1020 1042	5' deletion constructs
+T17	Entity 1060 1065	Y box
+T18	Entity 1084 1099	"octamer" motif
+T19	Entity 1104 1112	TATA box
+T20	Entity 1168 1173	Y box
+T21	Entity 1344 1363	X consensus element
+T22	Entity 1410 1425	X box sequences
+T23	Entity 1506 1511	Y box
+T24	Entity 1585 1597	DRA promoter
+T25	Entity 1603 1616	DRA "octamer"
+T26	Entity 1665 1689	immunoglobulin promoters

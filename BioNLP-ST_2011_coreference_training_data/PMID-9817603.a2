@@ -1,0 +1,9 @@
+T48	Exp 363 397	expression of the beta-casein gene	363 373	expression
+T49	Exp 421 423	it
+T50	Exp 656 679	a cytotoxic T cell line	670 679	cell line
+T51	Exp 726 731	which
+T52	Exp 755 759	IL-4
+T53	Exp 785 787	it
+R1	Coref Anaphora:T49 Antecedent:T48	[T8]
+R2	Coref Anaphora:T51 Antecedent:T50
+R3	Coref Anaphora:T53 Antecedent:T52	[T15]

@@ -1,0 +1,9 @@
+T5	Exp 104 116	Antioxidants
+T6	Exp 206 211	their
+T7	Exp 853 947	a decrease in steady state levels of E-selectin mRNA and cell surface expression of E-selectin
+T8	Exp 948 953	which
+T9	Exp 1408 1443	the transcription factor NF-kappa B
+T10	Exp 1624 1649	this transcription factor	1643 1649	factor
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7	[T2, T1]
+R3	Coref Anaphora:T10 Antecedent:T9

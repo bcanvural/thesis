@@ -1,0 +1,15 @@
+*	Equiv T3 T4
+T13	Entity 28 53	transcription factor AP-1
+T14	Entity 340 361	kappa B-like sequence
+T15	Entity 369 389	5'-regulatory region
+T16	Entity 402 410	promoter
+T17	Entity 423 442	-responsive element
+T18	Entity 622 653	transcription factor NF-kappa B
+T19	Entity 732 757	transcription factor AP-1
+T20	Entity 854 864	NF-kappa B
+T21	Entity 892 896	AP-1
+T22	Entity 999 1002	DNA
+R1	Protein-Component Arg1:T7 Arg2:T17
+R2	Protein-Component Arg1:T7 Arg2:T14
+R3	Protein-Component Arg1:T7 Arg2:T15
+R4	Protein-Component Arg1:T7 Arg2:T16

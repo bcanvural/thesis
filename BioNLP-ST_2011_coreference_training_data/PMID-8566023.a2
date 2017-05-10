@@ -1,0 +1,3 @@
+T6	Exp 752 774	a previous observation	763 774	observation
+T7	Exp 775 779	that
+R1	Coref Anaphora:T7 Antecedent:T6

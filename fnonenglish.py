@@ -1,4 +1,4 @@
-
+#Script that removes non english jobs
 import os
 from pathlib import Path
 import json

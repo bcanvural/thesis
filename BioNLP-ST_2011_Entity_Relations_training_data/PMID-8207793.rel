@@ -1,0 +1,12 @@
+*	Equiv T4 T5
+T23	Entity 329 337	promoter
+T24	Entity 516 524	promoter
+T25	Entity 861 876	NF-kappa B site
+T26	Entity 861 871	NF-kappa B
+T27	Entity 890 902	-206 to -195
+T28	Entity 915 923	promoter
+T29	Entity 1010 1018	promoter
+R1	Protein-Component Arg1:T6 Arg2:T23
+R2	Protein-Component Arg1:T10 Arg2:T24
+R3	Protein-Component Arg1:T16 Arg2:T28
+R4	Protein-Component Arg1:T19 Arg2:T29

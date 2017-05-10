@@ -1,0 +1,14 @@
+T27	Exp 432 449	LPS and TNF-alpha
+T28	Exp 465 470	their
+T29	Exp 514 562	the DNA-binding heterodimer NF-kappa B (p50/p65)
+T30	Exp 564 569	which
+T31	Exp 1050 1147	a two- to fourfold increase in the amount of cell-associated and released p24 Ag in cell cultures	1069 1077	increase
+T32	Exp 1148 1152	that
+T33	Exp 1171 1175	that
+T34	Exp 1512 1546	The amount of protein translocated	1516 1522	amount
+T35	Exp 1562 1566	that
+R1	Coref Anaphora:T28 Antecedent:T27	[T8]
+R2	Coref Anaphora:T30 Antecedent:T29	[T9, T10]
+R3	Coref Anaphora:T32 Antecedent:T31	[T17]
+R4	Coref Anaphora:T33 Antecedent:T31	[T17]
+R5	Coref Anaphora:T35 Antecedent:T34

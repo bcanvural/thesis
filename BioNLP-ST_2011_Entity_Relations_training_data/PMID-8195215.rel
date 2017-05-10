@@ -1,0 +1,34 @@
+*	Equiv T8 T9
+T13	Entity 28 85	binding sites for the Ets family of transcription factors
+T14	Entity 134 142	promoter
+T15	Entity 460 479	5' deletion mutants
+T16	Entity 500 508	promoter
+T17	Entity 614 662	sequence between position -42 and -76 base pairs
+T18	Entity 640 662	-42 and -76 base pairs
+T19	Entity 817 830	binding sites
+T20	Entity 914 932	sites at positions
+T21	Entity 933 936	-50
+T22	Entity 941 944	-54
+T23	Entity 945 947	bp
+T24	Entity 954 985	more 5' site at position -67 bp
+T25	Entity 959 966	5' site
+T26	Entity 979 985	-67 bp
+T27	Entity 1085 1097	3'-most site
+T28	Entity 1168 1178	/GABP beta
+T29	Entity 1274 1285	complex "a"
+T30	Entity 1365 1374	complex a
+T31	Entity 1465 1481	5'-most Ets site
+T32	Entity 1520 1530	/GABP beta
+T33	Entity 1550 1551	a
+T34	Entity 1588 1616	new Ets-1-containing complex
+T35	Entity 1618 1619	c
+T36	Entity 1631 1640	Complex c
+T37	Entity 1669 1678	complex a
+T38	Entity 1755 1772	5'-most Ets sites
+T39	Entity 1904 1912	promoter
+T40	Entity 1934 1943	Ets sites
+R1	Protein-Component Arg1:T1 Arg2:T14
+R2	Protein-Component Arg1:T4 Arg2:T16
+R3	Subunit-Complex Arg1:T8 Arg2:T28
+R4	Subunit-Complex Arg1:T10 Arg2:T32
+R5	Protein-Component Arg1:T11 Arg2:T39

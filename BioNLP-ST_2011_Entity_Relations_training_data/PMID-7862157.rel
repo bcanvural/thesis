@@ -1,0 +1,11 @@
+T13	Entity 18 56	Runt domain-encoding PEBP2 alpha genes
+T14	Entity 18 29	Runt domain
+T15	Entity 149 152	DNA
+T16	Entity 203 208	PEBP2
+T17	Entity 357 368	Runt domain
+T18	Entity 391 409	murine counterpart
+T19	Entity 468 472	8;21
+T20	Entity 477 507	3;21 chromosome translocations
+T21	Entity 1205 1210	PEBP2
+R1	Subunit-Complex Arg1:T1 Arg2:T16
+R2	Subunit-Complex Arg1:T2 Arg2:T16

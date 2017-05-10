@@ -1,0 +1,6 @@
+T9	Exp 373 386	the advantage
+T10	Exp 387 391	that
+T11	Exp 429 457	a "physiologic" cell lineage	450 457	lineage
+T12	Exp 458 462	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11

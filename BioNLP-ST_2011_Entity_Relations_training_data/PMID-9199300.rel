@@ -1,0 +1,18 @@
+*	Equiv T7 T8
+T26	Entity 18 41	transactivation domains
+T27	Entity 381 387	ligand
+T28	Entity 468 485	tyrosine residues
+T29	Entity 612 628	responsive genes
+T30	Entity 1137 1162	beta-casein gene promoter
+T31	Entity 1366 1390	carboxyl-terminal region
+T32	Entity 1440 1471	heterologous DNA binding domain
+T33	Entity 1579 1602	transactivation domains
+T34	Entity 1774 1796	transactivation domain
+R1	Protein-Component Arg1:T1 Arg2:T26
+R2	Protein-Component Arg1:T2 Arg2:T26
+R3	Protein-Component Arg1:T17 Arg2:T32
+R4	Protein-Component Arg1:T17 Arg2:T31
+R5	Protein-Component Arg1:T21 Arg2:T33
+R6	Protein-Component Arg1:T20 Arg2:T33
+R7	Protein-Component Arg1:T19 Arg2:T33
+R8	Protein-Component Arg1:T24 Arg2:T34

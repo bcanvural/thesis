@@ -1,0 +1,10 @@
+T18	Entity 688 713	CD14 5' upstream sequence
+T19	Entity 735 759	tissue-specific promoter
+T20	Entity 846 862	deletion mutants
+T21	Entity 870 895	CD14 5' upstream sequence
+T22	Entity 947 961	bp -128 to -70
+T23	Entity 1048 1061	binding sites
+T24	Entity 1129 1142	-binding site
+T25	Entity 1346 1359	-binding site
+R1	Protein-Component Arg1:T6 Arg2:T18
+R2	Protein-Component Arg1:T7 Arg2:T21

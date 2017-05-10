@@ -1,0 +1,9 @@
+T15	Exp 211 244	the NOTCH1 transmembrane receptor
+T16	Exp 478 489	the protein
+T17	Exp 1025 1067	a second, stronger RBP-Jkappa-binding site	1063 1067	site
+T18	Exp 1069 1074	which
+T19	Exp 1659 1685	Transcriptional activation	1675 1685	activation
+T20	Exp 1763 1767	that
+R1	Coref Anaphora:T16 Antecedent:T15	[T4]
+R2	Coref Anaphora:T18 Antecedent:T17	[T11]
+R3	Coref Anaphora:T20 Antecedent:T19

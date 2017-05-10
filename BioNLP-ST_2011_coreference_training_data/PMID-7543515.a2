@@ -1,0 +1,3 @@
+T35	Exp 1570 1655	distinct effects of B7 and LFA-3 costimulation on the activity of AP-1 and NF-kappa B	1579 1586	effects
+T36	Exp 1657 1662	These
+R1	Coref Anaphora:T36 Antecedent:T35	[T30, T31]

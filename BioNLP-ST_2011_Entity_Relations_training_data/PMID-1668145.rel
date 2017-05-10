@@ -1,0 +1,21 @@
+T1	Entity 6 14	enhancer
+T2	Entity 32 40	promoter
+T3	Entity 114 122	enhancer
+T4	Entity 139 148	promoters
+T5	Entity 153 162	enhancers
+T6	Entity 265 273	enhancer
+T7	Entity 304 321	its own promoter.
+T8	Entity 312 320	promoter
+T9	Entity 451 460	promoters
+T10	Entity 465 474	enhancers
+T11	Entity 569 578	enhancers
+T12	Entity 634 642	promoter
+T13	Entity 700 708	enhancer
+T14	Entity 709 717	promoter
+T15	Entity 797 826	immunoglobulin kappa enhancer
+T16	Entity 835 870	immunoglobulin heavy chain enhancer
+T17	Entity 894 913	kappa gene promoter
+T18	Entity 954 962	enhancer
+T19	Entity 963 971	promoter
+T20	Entity 1037 1045	enhancer
+T21	Entity 1057 1062	genes

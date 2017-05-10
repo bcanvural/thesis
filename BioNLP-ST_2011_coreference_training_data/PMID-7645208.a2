@@ -1,0 +1,9 @@
+T18	Exp 631 634	Tat
+T19	Exp 1161 1176	the propagation
+T20	Exp 1246 1250	that
+T21	Exp 1504 1528	some lymphoid cell lines	1518 1528	cell lines
+T22	Exp 1529 1533	that
+T23	Exp 1590 1593	its
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T23 Antecedent:T18	[T7]

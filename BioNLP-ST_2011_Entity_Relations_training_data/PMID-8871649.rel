@@ -1,0 +1,36 @@
+*	Equiv T6 T7
+T15	Entity 181 193	cis-elements
+T16	Entity 261 288	DNase I hypersensitive site
+T17	Entity 290 293	DHS
+T18	Entity 330 335	locus
+T19	Entity 350 353	DHS
+T20	Entity 375 395	5' upstream sequence
+T21	Entity 414 417	DHS
+T22	Entity 421 429	intron 2
+T23	Entity 439 450	5' upstream
+T24	Entity 459 471	intronic DHS
+T25	Entity 590 610	5' upstream promoter
+T26	Entity 711 718	-795 bp
+T27	Entity 783 789	-73 bp
+T28	Entity 858 873	proximal region
+T29	Entity 913 926	binding sites
+T30	Entity 928 934	GC box
+T31	Entity 939 945	GT box
+T32	Entity 955 971	Ets binding site
+T33	Entity 973 976	EBS
+T34	Entity 1040 1052	cis-elements
+T35	Entity 1135 1141	GC box
+T36	Entity 1143 1146	EBS
+T37	Entity 1152 1158	GT box
+T38	Entity 1275 1294	cis-acting elements
+T39	Entity 1372 1387	proximal GC box
+T40	Entity 1389 1392	EBS
+T41	Entity 1398 1404	GT box
+T42	Entity 1552 1571	cis-acting elements
+R1	Protein-Component Arg1:T3 Arg2:T15
+R2	Protein-Component Arg1:T4 Arg2:T21
+R3	Protein-Component Arg1:T4 Arg2:T22
+R4	Protein-Component Arg1:T4 Arg2:T19
+R5	Protein-Component Arg1:T4 Arg2:T20
+R6	Protein-Component Arg1:T12 Arg2:T38
+R7	Protein-Component Arg1:T14 Arg2:T42

@@ -1,0 +1,47 @@
+T1	Medical 37 47	nosocomial
+T2	Bacterium 214 236	Acinetobacter sp. ADP1
+T3	Soil 240 244	soil
+T4	Bacterium 254 266	A. baumannii
+T5	Geographical 317 368	industrialized countries of the Northern Hemisphere
+T6	Medical 380 390	nosocomial
+T7	Environment 554 572	tropical countries
+T8	Bacterium 580 592	A. baumannii
+T9	Host 605 614	community
+T10	Environment 647 666	outside of hospital
+T11	Bacterium 753 761	bacteria
+T12	HostPart 765 770	blood
+T13	Host 789 807	alcoholic patients
+T14	Bacterium 845 857	A. baumannii
+T15	Bacterium 888 891	VEB
+T16	Medical 914 924	nosocomial
+T17	Medical 958 966	hospital
+T18	Geographical 1031 1046	north of France
+T19	Bacterium 1118 1121	SDF
+T20	Host 1142 1151	community
+T21	Bacterium 1202 1214	A. baumannii
+T22	HostPart 1335 1339	body
+T23	Host 1340 1344	lice
+T24	Geographical 1384 1390	France
+T25	Medical 1571 1581	nosocomial
+T26	Host 1611 1620	community
+*	Equiv T4 T8
+*	Equiv T4 T14
+*	Equiv T16 T25
+*	Equiv T1 T6
+E1	Localization Bacterium:T2 Localization:T3
+E2	Localization Bacterium:T4 Localization:T13
+E3	PartOf Host:T13 Part:T12
+E4	Localization Bacterium:T21 Localization:T23
+E5	Localization Bacterium:T4 Localization:T1
+E6	Localization Bacterium:T4 Localization:T7
+E7	Localization Bacterium:T19 Localization:T20
+E8	Localization Bacterium:T19 Localization:T26
+E9	Localization Bacterium:T4 Localization:T5
+E10	Localization Bacterium:T21 Localization:T24
+E11	Localization Bacterium:T15 Localization:T18
+E12	Localization Bacterium:T21 Localization:T22
+E13	Localization Bacterium:T4 Localization:T10
+E14	Localization Bacterium:T4 Localization:T9
+E15	Localization Bacterium:T11 Localization:T12
+E16	Localization Bacterium:T15 Localization:T16
+E17	Localization Bacterium:T15 Localization:T17

@@ -1,0 +1,21 @@
+*	Equiv T7 T8
+T14	Entity 67 108	Tat-activated, transduced interferon gene
+T15	Entity 93 108	interferon gene
+T16	Entity 390 428	HIV-1 long terminal repeat (LTR)-IFNA2
+T17	Entity 464 473	IFN genes
+T18	Entity 507 518	hybrid gene
+T19	Entity 548 557	HIV-1 LTR
+T20	Entity 588 607	NF-kappa B elements
+T21	Entity 588 598	NF-kappa B
+T22	Entity 615 624	HIV-1 LTR
+T23	Entity 751 770	NF-kappa B elements
+T24	Entity 751 761	NF-kappa B
+T25	Entity 778 787	HIV-1 LTR
+T26	Entity 823 841	5'-flanking region
+T27	Entity 845 867	IFN-stimulated gene 15
+T28	Entity 869 874	ISG15
+T29	Entity 892 923	IFN-stimulated response element
+T30	Entity 971 974	LTR
+T31	Entity 1029 1046	chimeric promoter
+T32	Entity 1048 1057	ISG15 LTR
+T33	Entity 1246 1271	ISG15-LTR-IFN hybrid gene

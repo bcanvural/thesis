@@ -1,0 +1,9 @@
+T2	Exp 209 260	the viral control elements and the cellular factors
+T3	Exp 261 265	that
+T4	Exp 340 388	The adenovirus early region 3 (ES) gene products
+T5	Exp 503 508	their
+T6	Exp 1689 1701	these motifs
+T7	Exp 1714 1719	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

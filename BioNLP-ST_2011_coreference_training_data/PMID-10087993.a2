@@ -1,0 +1,14 @@
+T32	Exp 18 46	upstream regulatory elements	38 46	elements
+T33	Exp 47 51	that
+T34	Exp 188 333	cis-elements responsible for the down regulation of the adult beta-like globin genes (delta and beta) in immature, or primitive erythroid tissues	188 200	cis-elements
+T35	Exp 346 351	their
+T36	Exp 685 716	chimeric promoter constructions	703 716	constructions
+T37	Exp 718 723	which
+T38	Exp 2148 2174	the adult beta globin gene	2170 2174	gene
+T39	Exp 2189 2192	its
+T40	Exp 2264 2267	its
+R1	Coref Anaphora:T33 Antecedent:T32
+R2	Coref Anaphora:T35 Antecedent:T34	[T2, T1]
+R3	Coref Anaphora:T37 Antecedent:T36
+R4	Coref Anaphora:T39 Antecedent:T38	[T31]
+R5	Coref Anaphora:T40 Antecedent:T38	[T31]

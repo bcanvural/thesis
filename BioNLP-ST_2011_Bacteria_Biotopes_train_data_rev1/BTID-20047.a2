@@ -1,0 +1,9 @@
+T1	Bacterium 42 50	Chlorobi
+T2	Bacterium 191 199	Chlorobi
+T3	Water 875 891	stratified lakes
+T4	Environment 893 907	microbial mats
+T5	Water 913 937	sulfide-rich hot springs
+*	Equiv T1 T2
+E1	Localization Bacterium:T1 Localization:T4
+E2	Localization Bacterium:T1 Localization:T3
+E3	Localization Bacterium:T1 Localization:T5

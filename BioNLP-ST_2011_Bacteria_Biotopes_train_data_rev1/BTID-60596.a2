@@ -1,0 +1,9 @@
+T1	Bacterium 2113 2124	S. volutans
+T2	Water 2147 2196	water of a cooling tower of a sugar-beet refinery
+T3	Geographical 2200 2207	England
+T4	Water 2217 2241	water of a polluted pond
+T5	Water 2307 2321	stagnant water
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T5
+E3	Localization Bacterium:T1 Localization:T4
+E4	Localization Bacterium:T1 Localization:T2

@@ -1,0 +1,6 @@
+*	Equiv T3 T4
+T22	Entity 778 815	high-affinity serum-inducible element
+T23	Entity 817 821	hSIE
+T24	Entity 1005 1030	carboxyl-terminal portion
+T25	Entity 1252 1265	binding sites
+R1	Protein-Component Arg1:T17 Arg2:T24

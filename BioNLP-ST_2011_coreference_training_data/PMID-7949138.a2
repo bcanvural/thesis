@@ -1,0 +1,9 @@
+T16	Exp 329 353	the molecular mechanisms	343 353	mechanisms
+T17	Exp 354 358	that
+T18	Exp 590 603	a T-cell line	599 603	line
+T19	Exp 604 608	that
+T20	Exp 1373 1386	a T-cell line	1382 1386	line
+T21	Exp 1387 1391	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20

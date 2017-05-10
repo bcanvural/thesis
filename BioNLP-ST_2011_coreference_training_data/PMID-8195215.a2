@@ -1,0 +1,35 @@
+T13	Exp 46 60	the Ets family	54 60	family
+T14	Exp 171 223	cell-cell and cell-extracellular matrix interactions	211 223	interactions
+T15	Exp 224 228	that
+T16	Exp 550 560	cell lines
+T17	Exp 561 565	that
+T18	Exp 586 596	cell lines
+T19	Exp 597 601	that
+T20	Exp 610 667	The sequence between position -42 and -76 base pairs (bp)	614 622	sequence
+T21	Exp 712 717	cells
+T22	Exp 718 722	that
+T23	Exp 744 746	it
+T24	Exp 769 779	HeLa cells	774 779	cells
+T25	Exp 781 786	which
+T26	Exp 835 849	the Ets family	843 849	family
+T27	Exp 1265 1285	a second complex "a"	1274 1281	complex
+T28	Exp 1300 1305	which
+T29	Exp 1336 1350	the Ets family	1344 1350	family
+T30	Exp 1747 1772	the two 5'-most Ets sites	1767 1771	site
+T31	Exp 1802 1806	they
+T32	Exp 1824 1834	modulators
+T33	Exp 1835 1840	which
+T34	Exp 1864 1876	Ets proteins	1868 1876	proteins
+T35	Exp 1877 1881	that
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18
+R4	Coref Anaphora:T22 Antecedent:T21
+R5	Coref Anaphora:T23 Antecedent:T20
+R6	Coref Anaphora:T25 Antecedent:T24
+R7	Coref Anaphora:T26 Antecedent:T13
+R8	Coref Anaphora:T28 Antecedent:T27
+R9	Coref Anaphora:T29 Antecedent:T26
+R10	Coref Anaphora:T31 Antecedent:T30
+R11	Coref Anaphora:T33 Antecedent:T32
+R12	Coref Anaphora:T35 Antecedent:T34

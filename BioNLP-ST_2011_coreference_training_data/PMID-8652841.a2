@@ -1,0 +1,6 @@
+T17	Exp 168 191	the BCL-6 coding region	185 191	region
+T18	Exp 207 210	its
+T19	Exp 1514 1550	unique activation signals to B cells	1532 1539	signals
+T20	Exp 1551 1555	that
+R1	Coref Anaphora:T18 Antecedent:T17	[T3]
+R2	Coref Anaphora:T20 Antecedent:T19

@@ -1,0 +1,20 @@
+T10	Exp 51 56	GATA3
+T11	Exp 58 85	a member of the GATA family	60 66	member
+T12	Exp 86 90	that
+T13	Exp 249 259	GATA3 gene
+T14	Exp 282 296	the human gene	292 296	gene
+T15	Exp 435 440	GATA3
+T16	Exp 469 487	two separate exons	482 487	exons
+T17	Exp 510 515	those
+T18	Exp 519 524	GATA1
+T19	Exp 569 584	these two genes	579 584	genes
+T20	Exp 603 624	human and mouse GATA3
+T21	Exp 713 728	these two genes	723 728	genes
+T22	Exp 743 747	they
+R1	Coref Anaphora:T11 Antecedent:T10	[T2]
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13	[T3]
+R4	Coref Anaphora:T17 Antecedent:T16
+R5	Coref Anaphora:T19 Antecedent:T15 Antecedent2:T18	[T6, T7]
+R6	Coref Anaphora:T21 Antecedent:T20	[T8]
+R7	Coref Anaphora:T22 Antecedent:T21

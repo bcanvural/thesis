@@ -1,0 +1,9 @@
+T11	Exp 237 258	the human GM-CSF gene	254 258	gene
+T12	Exp 260 265	which
+T13	Exp 380 411	the 5637 non-lymphoid cell line	402 411	cell line
+T14	Exp 413 418	which
+T15	Exp 667 736	a heterodimeric binding complex of NF-kappaB subunits (c-Rel and p65)	691 698	complex
+T16	Exp 737 742	which
+R1	Coref Anaphora:T12 Antecedent:T11	[T4]
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15	[T7, T8]

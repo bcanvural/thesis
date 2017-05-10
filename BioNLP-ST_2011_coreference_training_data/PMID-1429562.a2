@@ -1,0 +1,3 @@
+T5	Exp 114 188	The 1311-base pair human tumor necrosis factor (TNF) alpha promoter region	182 188	region
+T6	Exp 402 437	This full length promoter construct	428 437	construct
+R1	Coref Anaphora:T6 Antecedent:T5	[T2]

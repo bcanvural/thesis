@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+T10	Entity 51 59	promoter
+T11	Entity 439 462	polymorphic nucleotides
+T12	Entity 493 507	gene promoters
+T13	Entity 753 768	promoter region
+T14	Entity 803 826	TGF-beta gene promoters
+T15	Entity 898 899	C
+T16	Entity 903 904	A
+T17	Entity 914 937	571 base pairs upstream
+T18	Entity 947 969	translation start site
+T19	Entity 994 1021	consensus binding sequences
+T20	Entity 1270 1287	TGF-beta promoter
+T21	Entity 1366 1367	C
+T22	Entity 1371 1372	T
+T23	Entity 1403 1425	YY1 consensus sequence
+T24	Entity 1460 1468	promoter
+R1	Protein-Component Arg1:T1 Arg2:T10
+R2	Protein-Component Arg1:T4 Arg2:T12

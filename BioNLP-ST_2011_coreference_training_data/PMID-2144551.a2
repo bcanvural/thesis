@@ -1,0 +1,16 @@
+T16	Exp 222 252	immediate early response genes
+T17	Exp 258 263	their
+T18	Exp 423 438	human monocytes	429 438	monocytes
+T19	Exp 439 443	that
+T20	Exp 870 913	c-jun, fibronectin receptor, and actin mRNA
+T21	Exp 1011 1022	these genes
+T22	Exp 1155 1190	actin and fibronectin receptor mRNA
+T23	Exp 1233 1244	these genes	1239 1244	genes
+T24	Exp 1406 1446	the other immediate early response genes	1441 1446	genes
+T25	Exp 1721 1751	immediate early response genes	1746 1751	genes
+T26	Exp 1789 1800	These genes	1795 1800	genes
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20	[T5]
+R4	Coref Anaphora:T23 Antecedent:T22
+R5	Coref Anaphora:T26 Antecedent:T25

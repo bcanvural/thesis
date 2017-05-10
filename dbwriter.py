@@ -1,3 +1,4 @@
+#Script that writes things to a running mongodb
 from pymongo import MongoClient
 import os
 from pathlib import Path

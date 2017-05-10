@@ -1,0 +1,3 @@
+T9	Exp 1329 1339	antibodies
+T10	Exp 1340 1344	that
+R1	Coref Anaphora:T10 Antecedent:T9

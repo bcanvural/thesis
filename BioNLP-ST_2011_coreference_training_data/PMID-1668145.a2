@@ -1,0 +1,6 @@
+T1	Exp 257 273	a given enhancer	265 273	enhancer
+T2	Exp 304 307	its
+T3	Exp 328 344	this expectation	333 344	expectation
+T4	Exp 407 409	it
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

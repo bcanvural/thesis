@@ -1,0 +1,8 @@
+T2	Exp 416 434	human 8e51 T-cells	429 434	cells
+T3	Exp 436 440	that
+T4	Exp 1018 1028	8e51 cells	1023 1028	cells
+T5	Exp 1029 1033	that
+T6	Exp 1050 1055	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T6 Antecedent:T4

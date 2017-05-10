@@ -1,0 +1,29 @@
+*	Equiv T5 T6
+T35	Entity 101 109	promoter
+T36	Entity 149 164	eosinophil gene
+T37	Entity 481 496	promoter region
+T38	Entity 510 571	C/EBP (CCAAT/enhancer-binding protein) consensus binding site
+T39	Entity 604 621	GATA-binding site
+T40	Entity 1070 1088	C/EBP-binding site
+T41	Entity 1090 1103	bp -90 to -82
+T42	Entity 1116 1124	promoter
+T43	Entity 1238 1251	binding sites
+T44	Entity 1263 1271	promoter
+T45	Entity 1333 1346	binding sites
+T46	Entity 1411 1419	promoter
+T47	Entity 1926 1934	promoter
+T48	Entity 2067 2122	promoter of an eosinophil-specific granule protein gene
+T49	Entity 2067 2075	promoter
+T50	Entity 2082 2122	eosinophil-specific granule protein gene
+R1	Protein-Component Arg1:T3 Arg2:T35
+R2	Protein-Component Arg1:T11 Arg2:T39
+R3	Protein-Component Arg1:T11 Arg2:T38
+R4	Protein-Component Arg1:T10 Arg2:T38
+R5	Protein-Component Arg1:T10 Arg2:T37
+R6	Protein-Component Arg1:T15 Arg2:T40
+R7	Protein-Component Arg1:T15 Arg2:T41
+R8	Protein-Component Arg1:T15 Arg2:T42
+R9	Protein-Component Arg1:T18 Arg2:T43
+R10	Protein-Component Arg1:T18 Arg2:T44
+R11	Protein-Component Arg1:T21 Arg2:T46
+R12	Protein-Component Arg1:T32 Arg2:T47

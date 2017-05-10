@@ -1,0 +1,6 @@
+T3	Exp 1016 1059	a 70-base-pair fragment of the IgH enhancer
+T4	Exp 1060 1064	that
+T5	Exp 1451 1495	lymphoid-specific expression of the IgH gene	1469 1479	expression
+T6	Exp 1564 1567	its
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5

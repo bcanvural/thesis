@@ -1,0 +1,11 @@
+*	Equiv T10 T11 T12 T13
+T15	Entity 86 94	promoter
+T16	Entity 630 643	reporter gene
+T17	Entity 684 692	promoter
+T18	Entity 757 765	promoter
+T19	Entity 812 820	promoter
+T20	Entity 1330 1346	N-acetylcysteine
+R1	Protein-Component Arg1:T1 Arg2:T15
+R2	Protein-Component Arg1:T5 Arg2:T17
+R3	Protein-Component Arg1:T6 Arg2:T18
+R4	Protein-Component Arg1:T7 Arg2:T19

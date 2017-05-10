@@ -1,0 +1,8 @@
+*	Equiv T4 T5
+T10	Entity 54 58	AP-1
+T11	Entity 356 418	very early activator protein (AP)-1 transcription factor genes
+T12	Entity 488 508	Jun-Fos heterodimers
+T13	Entity 627 688	immunoglobulin-like transcript-2/leukocyte Ig-like receptor 1
+T14	Entity 988 1013	AP-1 transcription factor
+T15	Entity 1195 1199	AP-1
+R1	Subunit-Complex Arg1:T4 Arg2:T13

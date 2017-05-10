@@ -1,0 +1,6 @@
+T18	Exp 1156 1180	erythroid-specific genes	1175 1180	genes
+T19	Exp 1281 1294	the mechanism
+T20	Exp 1298 1303	which
+T21	Exp 1334 1345	these genes	1340 1345	genes
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T21 Antecedent:T18

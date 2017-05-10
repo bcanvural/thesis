@@ -1,0 +1,15 @@
+T18	Exp 200 220	the signaling events	214 220	events
+T19	Exp 221 225	that
+T20	Exp 268 276	the fact	272 276	fact
+T21	Exp 277 281	that
+T22	Exp 357 382	the relative contribution	370 382	contribution
+T23	Exp 416 421	those
+T24	Exp 478 493	the observation	482 493	observation
+T25	Exp 494 498	that
+T26	Exp 804 839	a proliferative response in T cells	820 828	response
+T27	Exp 840 844	that
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T25 Antecedent:T24
+R5	Coref Anaphora:T27 Antecedent:T26

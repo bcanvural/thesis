@@ -1,0 +1,3 @@
+T18	Exp 235 249	the hypothesis
+T19	Exp 250 254	that
+R1	Coref Anaphora:T19 Antecedent:T18

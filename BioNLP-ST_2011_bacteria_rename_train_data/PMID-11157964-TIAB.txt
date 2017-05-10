@@ -1,0 +1,2 @@
+Putative sigma factor SigI (YkoZ) of Bacillus subtilis is induced by heat shock.
+A Bacillus subtilis disruption mutant with a mutation in sigI (formerly ykoZ) shows a temperature-sensitive growth on agar plates. The transcription of the sigI gene is heat shock induced in rich medium but not in minimal medium. Proteome studies revealed a reduced amount of GsiB protein in the sigI mutant under heat shock conditions.

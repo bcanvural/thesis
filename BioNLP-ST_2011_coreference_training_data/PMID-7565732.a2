@@ -1,0 +1,14 @@
+T25	Exp 434 465	1,25(OH)2D3-mediated repression	455 465	repression
+T26	Exp 526 528	it
+T27	Exp 597 626	the vitamin D3 receptor (VDR)
+T28	Exp 888 900	the receptor
+T29	Exp 991 1031	an important positive regulatory element	1024 1031	element
+T30	Exp 1033 1040	NF-AT-1
+T31	Exp 1042 1047	which
+T32	Exp 1181 1193	this element	1186 1193	element
+T33	Exp 1272 1283	the element
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T7, T6]
+R3	Coref Anaphora:T31 Antecedent:T29
+R4	Coref Anaphora:T32 Antecedent:T29
+R5	Coref Anaphora:T33 Antecedent:T32

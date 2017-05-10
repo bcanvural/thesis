@@ -1,0 +1,13 @@
+*	Equiv T2 T3
+T10	Entity 20 36	epsilon germline
+T11	Entity 131 140	promoters
+T12	Entity 157 185	immunoglobulin switch region
+T13	Entity 231 244	switch region
+T14	Entity 340 357	germline promoter
+T15	Entity 367 380	binding sites
+T16	Entity 480 519	immunoglobulin heavy chain gene cluster
+T17	Entity 565 573	germline
+T18	Entity 694 719	epsilon germline promoter
+T19	Entity 702 719	germline promoter
+T20	Entity 853 869	epsilon germline
+T21	Entity 946 962	epsilon germline

@@ -1,0 +1,9 @@
+T13	Exp 191 229	several cellular transcription factors	208 229	transcription factors
+T14	Exp 230 235	which
+T15	Exp 615 642	Nef-expressing T-cell lines	630 642	T-cell lines
+T16	Exp 643 647	that
+T17	Exp 888 897	a plasmid
+T18	Exp 901 906	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T5]
+R3	Coref Anaphora:T18 Antecedent:T17

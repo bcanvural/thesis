@@ -1,0 +1,6 @@
+T25	Exp 744 768	The molecular mechanisms	758 768	mechanisms
+T26	Exp 772 777	which
+T27	Exp 1584 1589	Stat6
+T28	Exp 1639 1650	this factor	1644 1650	factor
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T23]

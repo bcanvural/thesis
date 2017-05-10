@@ -1,0 +1,6 @@
+T21	Exp 380 401	NF-kappa B activation
+T22	Exp 435 438	its
+T23	Exp 973 980	Aspirin
+T24	Exp 1029 1031	it
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23

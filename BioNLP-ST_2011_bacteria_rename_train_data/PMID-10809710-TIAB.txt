@@ -1,0 +1,2 @@
+Dual control of sbo-alb operon expression by the Spo0 and ResDE systems of signal transduction under anaerobic conditions in Bacillus subtilis.
+The Bacillus subtilis sbo-alb operon contains sboA, the structural gene for the bacteriocin subtilosin, and the alb genes required for subtilosin production. Transcription from the sbo-alb promoter is highly induced by oxygen limitation. The transcriptional regulation of the sbo-alb operon is under dual control involving the transition state regulator AbrB and the two-component regulatory proteins ResD and ResE.

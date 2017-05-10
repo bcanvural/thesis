@@ -1,0 +1,15 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T7 T8
+T26	Entity 54 76	nuclear factor-kappa B
+T27	Entity 460 482	nuclear factor-kappa B
+T28	Entity 484 494	NF-kappa B
+T29	Entity 503 517	kappa B motifs
+T30	Entity 587 596	promoters
+T31	Entity 782 798	N-acetylcysteine
+T32	Entity 1109 1119	NF-kappa B
+T33	Entity 1197 1207	NF-kappa B
+R1	Protein-Component Arg1:T6 Arg2:T29
+R2	Protein-Component Arg1:T7 Arg2:T29
+R3	Protein-Component Arg1:T6 Arg2:T30
+R4	Protein-Component Arg1:T7 Arg2:T30

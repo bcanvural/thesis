@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T8	Entity 81 91	P sequence
+T9	Entity 93 110	5'-CGAAAATTTCC-3'
+T10	Entity 188 198	P sequence
+T11	Entity 262 280	responsive element
+T12	Entity 428 441	binding sites
+T13	Entity 504 514	P sequence
+T14	Entity 579 590	heterodimer
+T15	Entity 605 615	P sequence
+T16	Entity 704 714	P sequence
+T17	Entity 720 739	expression plasmids
+T18	Entity 764 799	P sequence-driven reporter plasmids
+T19	Entity 764 774	P sequence
+T20	Entity 864 892	unlabeled NF-AT binding site
+T21	Entity 908 934	unlabeled AP1 binding site
+T22	Entity 994 1004	P sequence
+R1	Protein-Component Arg1:T1 Arg2:T9
+R2	Protein-Component Arg1:T1 Arg2:T8
+R3	Protein-Component Arg1:T2 Arg2:T11
+R4	Protein-Component Arg1:T2 Arg2:T10
+R5	Protein-Component Arg1:T2 Arg2:T12
+R6	Subunit-Complex Arg1:T5 Arg2:T14
+R7	Subunit-Complex Arg1:T6 Arg2:T14

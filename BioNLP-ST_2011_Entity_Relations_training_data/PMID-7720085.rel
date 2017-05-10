@@ -1,0 +1,13 @@
+T5	Entity 485 488	CD3
+T6	Entity 512 520	tyrosine
+T7	Entity 556 564	tyrosine
+T8	Entity 653 661	tyrosine
+T9	Entity 734 742	tyrosine
+T10	Entity 905 925	regulatory sequences
+T11	Entity 938 953	promoter region
+T12	Entity 961 971	NF kappa B
+T13	Entity 977 981	AP-1
+T14	Entity 1067 1071	AP-1
+T15	Entity 1282 1285	CD3
+R1	Protein-Component Arg1:T4 Arg2:T10
+R2	Protein-Component Arg1:T4 Arg2:T11

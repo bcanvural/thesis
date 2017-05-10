@@ -1,0 +1,9 @@
+T16	Exp 291 318	C5a-induced IL-8 production	308 318	production
+T17	Exp 320 325	which
+T18	Exp 543 584	AP-1 but not NF-IL-6 DNA binding activity	576 584	activity
+T19	Exp 636 639	its
+T20	Exp 1184 1199	Pertussis toxin	1194 1199	toxin
+T21	Exp 1201 1206	which
+R1	Coref Anaphora:T17 Antecedent:T16	[T4]
+R2	Coref Anaphora:T19 Antecedent:T18	[T7]
+R3	Coref Anaphora:T21 Antecedent:T20

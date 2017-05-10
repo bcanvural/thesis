@@ -1,0 +1,3 @@
+T9	Exp 404 420	the mechanism(s)
+T10	Exp 424 429	which
+R1	Coref Anaphora:T10 Antecedent:T9

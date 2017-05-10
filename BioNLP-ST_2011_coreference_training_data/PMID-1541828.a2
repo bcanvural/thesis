@@ -1,0 +1,3 @@
+T9	Exp 766 773	the PRE
+T10	Exp 928 968	the enhancer positive regulatory element	941 968	positive regulatory element
+R1	Coref Anaphora:T10 Antecedent:T9

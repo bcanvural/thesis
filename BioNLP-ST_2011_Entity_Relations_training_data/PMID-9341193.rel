@@ -1,0 +1,29 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+*	Equiv T7 T8 T9
+*	Equiv T11 T12
+*	Equiv T17 T18
+*	Equiv T21 T22
+*	Equiv T24 T25
+*	Equiv T28 T29
+*	Equiv T31 T32
+*	Equiv T35 T36
+*	Equiv T38 T39
+*	Equiv T41 T42
+T43	Entity 129 137	promoter
+T44	Entity 310 324	proto-oncogene
+T45	Entity 564 572	promoter
+T46	Entity 577 598	-responsive element 1
+T47	Entity 600 604	TRE1
+T48	Entity 747 751	TRE1
+T49	Entity 889 903	proto-oncogene
+T50	Entity 1044 1062	-257 to +74 region
+T51	Entity 1083 1091	promoter
+T52	Entity 1227 1231	TRE1
+T53	Entity 1370 1378	promoter
+R1	Protein-Component Arg1:T2 Arg2:T43
+R2	Protein-Component Arg1:T11 Arg2:T47
+R3	Protein-Component Arg1:T11 Arg2:T45
+R4	Protein-Component Arg1:T24 Arg2:T50
+R5	Protein-Component Arg1:T24 Arg2:T51
+R6	Protein-Component Arg1:T31 Arg2:T53

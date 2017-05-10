@@ -1,0 +1,6 @@
+*	Equiv T1 T2
+T12	Entity 105 126	immediate early genes
+T13	Entity 379 401	function-related genes
+T14	Entity 452 472	immediate early gene
+T15	Entity 554 562	promoter
+R1	Protein-Component Arg1:T4 Arg2:T15

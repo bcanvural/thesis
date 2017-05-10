@@ -1,0 +1,6 @@
+T11	Exp 358 366	rCTLA4Ig
+T12	Exp 368 373	which
+T13	Exp 381 385	CD28
+T14	Exp 397 400	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13	[T6]

@@ -1,0 +1,12 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T11	Entity 14 35	nuclear factor kappaB
+T12	Entity 240 261	nuclear factor kappaB
+T13	Entity 263 271	NFkappaB
+T14	Entity 453 461	NFkappaB
+T15	Entity 519 527	NFkappaB
+T16	Entity 624 632	NFkappaB
+T17	Entity 706 714	NFkappaB
+T18	Entity 750 760	proteasome
+T19	Entity 1137 1145	NFkappaB
+T20	Entity 1235 1243	NFkappaB

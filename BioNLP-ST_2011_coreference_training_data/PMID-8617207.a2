@@ -1,0 +1,5 @@
+T14	Exp 241 284	Specific bright foci of GATA-1 fluorescence	257 261	foci
+T15	Exp 429 439	These foci	435 439	foci
+T16	Exp 441 446	which
+R1	Coref Anaphora:T15 Antecedent:T14	[T1]
+R2	Coref Anaphora:T16 Antecedent:T15

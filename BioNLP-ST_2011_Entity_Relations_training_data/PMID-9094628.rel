@@ -1,0 +1,23 @@
+T5	Entity 124 161	human immunodeficiency virus enhancer
+T6	Entity 179 214	transcriptional regulatory elements
+T7	Entity 223 245	inducible T-cell genes
+T8	Entity 266 291	overlapping binding sites
+T9	Entity 422 435	binding sites
+T10	Entity 455 480	transcriptional enhancers
+T11	Entity 580 609	nuclear protein binding sites
+T12	Entity 1132 1142	Ets domain
+T13	Entity 1192 1212	Rel homology domains
+T14	Entity 1262 1276	NF-kappaB/NFAT
+T15	Entity 1262 1271	NF-kappaB
+T16	Entity 1314 1331	DNA binding sites
+T17	Entity 1472 1527	synthetic oligonucleotides containing binding sites for
+T18	Entity 1472 1498	synthetic oligonucleotides
+T19	Entity 1510 1523	binding sites
+T20	Entity 1714 1723	enhancers
+T21	Entity 1727 1736	NF-kappaB
+T22	Entity 1813 1822	NF-kappaB
+T23	Entity 1900 1909	enhancers
+T24	Entity 2098 2110	T-cell genes
+T25	Entity 2115 2122	viruses
+R1	Subunit-Complex Arg1:T2 Arg2:T21
+R2	Subunit-Complex Arg1:T3 Arg2:T21

@@ -1,0 +1,97 @@
+T1	Bacterium 85 96	Mycoplasmas
+T2	Bacterium 97 115	Mycoplasma hominis
+T3	HostPart 140 155	urogenital area
+T4	Host 180 186	humans
+T5	Bacterium 2015 2025	Mycoplasma
+T6	HostPart 2425 2438	intracellular
+T7	Host 2473 2480	animals
+T8	Host 2492 2498	humans
+T9	Host 2503 2510	insects
+T10	Host 2516 2522	plants
+T11	Bacterium 2524 2536	Spiroplasmas
+T12	Bacterium 2541 2553	Phytoplasmas
+T13	HostPart 2646 2650	cell
+T14	HostPart 3131 3144	intracellular
+T15	Host 3259 3265	humans
+T16	Host 3270 3277	animals
+T17	Host 3279 3284	Human
+T18	Host 3398 3410	farm animals
+T19	Bacterium 4254 4272	Mycoplasma hominis
+T20	Bacterium 4273 4291	Mycoplasma hominis
+T21	Bacterium 4343 4356	M. pneumoniae
+T22	Bacterium 4358 4371	M. genitalium
+T23	Bacterium 4376 4398	Ureaplasma urealyticum
+T24	Host 4439 4445	humans
+T25	Bacterium 4557 4567	M. hominis
+T26	Bacterium 4611 4633	Ureaplasma urealyticum
+T27	HostPart 4666 4676	urogenital
+T28	Host 4690 4695	adult
+T29	HostPart 4785 4792	genital
+T30	Host 4807 4812	women
+T31	Bacterium 4814 4824	M. hominis
+T32	Host 4858 4865	newborn
+T33	HostPart 4870 4882	extragenital
+T34	Host 4909 4933	immunodepressed subjects
+T35	Host 5588 5593	human
+T36	Bacterium 5605 5618	M. pneumoniae
+T37	Bacterium 5620 5633	M. genitalium
+T38	Bacterium 5635 5647	M. penetrans
+T39	Bacterium 5652 5666	U. urealyticum
+T40	Bacterium 6252 6262	M. hominis
+T41	Host 6484 6489	human
+T42	HostPart 6490 6495	cells
+T43	Bacterium 6526 6536	M. hominis
+T44	Host 6638 6643	human
+T45	HostPart 6644 6648	body
+*	Equiv T6 T13
+*	Equiv T6 T14
+*	Equiv T22 T37
+*	Equiv T8 T15
+*	Equiv T8 T17
+*	Equiv T21 T36
+*	Equiv T23 T26
+*	Equiv T23 T39
+*	Equiv T2 T19
+*	Equiv T2 T20
+*	Equiv T2 T25
+*	Equiv T2 T31
+*	Equiv T2 T40
+*	Equiv T2 T43
+*	Equiv T1 T5
+*	Equiv T41 T44
+E1	Localization Bacterium:T2 Localization:T30
+E2	Localization Bacterium:T2 Localization:T41
+E3	Localization Bacterium:T22 Localization:T35
+E4	Localization Bacterium:T21 Localization:T24
+E5	Localization Bacterium:T11 Localization:T10
+E6	Localization Bacterium:T1 Localization:T18
+E7	PartOf Host:T4 Part:T3
+E8	Localization Bacterium:T21 Localization:T35
+E9	Localization Bacterium:T1 Localization:T9
+E10	Localization Bacterium:T2 Localization:T34
+E11	Localization Bacterium:T1 Localization:T7
+E12	Localization Bacterium:T2 Localization:T3
+E13	Localization Bacterium:T22 Localization:T24
+E14	Localization Bacterium:T2 Localization:T42
+E15	Localization Bacterium:T23 Localization:T24
+E16	Localization Bacterium:T1 Localization:T16
+E17	Localization Bacterium:T2 Localization:T27
+E18	Localization Bacterium:T2 Localization:T32
+E19	PartOf Host:T30 Part:T29
+E20	PartOf Host:T28 Part:T27
+E21	Localization Bacterium:T23 Localization:T27
+E22	Localization Bacterium:T2 Localization:T4
+E23	Localization Bacterium:T38 Localization:T35
+E24	Localization Bacterium:T12 Localization:T10
+E25	Localization Bacterium:T2 Localization:T28
+E26	Localization Bacterium:T2 Localization:T45
+E27	Localization Bacterium:T2 Localization:T29
+E28	Localization Bacterium:T23 Localization:T35
+E29	Localization Bacterium:T2 Localization:T24
+E30	Localization Bacterium:T1 Localization:T8
+E31	PartOf Host:T41 Part:T45
+E32	Localization Bacterium:T23 Localization:T28
+E33	PartOf Host:T34 Part:T33
+E34	PartOf Host:T41 Part:T42
+E35	Localization Bacterium:T1 Localization:T6
+E36	Localization Bacterium:T2 Localization:T33

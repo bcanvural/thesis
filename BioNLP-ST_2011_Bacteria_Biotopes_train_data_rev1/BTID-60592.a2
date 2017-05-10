@@ -1,0 +1,120 @@
+T1	Bacterium 0 20	Sodalis glossinidius
+T2	Bacterium 50 70	Sodalis glossinidius
+T3	Host 282 292	tsetse fly
+T4	Host 294 302	Glossina
+T5	Bacterium 384 410	Wigglesworthia glossinidia
+T6	Bacterium 427 436	Wolbachia
+T7	Host 509 519	tsetse fly
+T8	HostPart 532 558	inter- and intracellularly
+T9	HostPart 566 572	midgut
+T10	HostPart 574 582	fat body
+T11	HostPart 587 597	haemolymph
+T12	Bacterium 616 631	S. glossinidius
+T13	Host 651 657	insect
+T14	Bacterium 966 981	S. glossinidius
+T15	Bacterium 1335 1355	Sodalis glossinidius
+T16	Bacterium 1739 1754	S. glossinidius
+T17	HostPart 1774 1787	intracellular
+T18	Host 2033 2044	tsetse host
+T19	HostPart 2045 2049	cell
+T20	Bacterium 2640 2655	S. glossinidius
+T21	HostPart 2759 2772	intracellular
+T22	Bacterium 2782 2795	R. prowazekii
+T23	HostPart 2862 2875	intracellular
+T24	Bacterium 2994 3009	S. glossinidius
+T25	Bacterium 3055 3070	S. glossinidius
+T26	Host 3139 3146	insects
+T27	Host 3245 3253	Glossina
+T28	Host 3299 3305	tsetse
+T29	HostPart 3312 3319	enteric
+T30	HostPart 5297 5301	cell
+T31	Bacterium 5545 5568	Yersinia enterocolitica
+T32	HostPart 5611 5615	cell
+T33	Bacterium 6045 6060	S. glossinidius
+T34	HostPart 6075 6080	cells
+T35	Host 6142 6163	intra-uterine progeny
+T36	Bacterium 6169 6184	S. glossinidius
+T37	Host 6585 6596	tsetse host
+T38	Host 6845 6851	tsetse
+T39	HostPart 6852 6858	midgut
+T40	HostPart 6863 6873	haemolymph
+T41	Host 7399 7409	tsetse fly
+T42	Bacterium 7414 7429	S. glossinidius
+T43	Bacterium 7511 7526	S. glossinidius
+T44	Host 7553 7563	tsetse fly
+T45	Bacterium 7895 7910	S. glossinidius
+T46	Host 7963 7969	tsetse
+T47	Bacterium 8391 8411	Sodalis glossinidius
+T48	Host 8445 8451	tsetse
+T49	Bacterium 8676 8691	S. glossinidius
+T50	Host 8754 8765	tsetse host
+T51	Host 8783 8789	tsetse
+T52	Host 9314 9328	tsetse puparia
+T53	Bacterium 9386 9401	S. glossinigius
+T54	Host 9459 9465	tsetse
+T55	Bacterium 9502 9517	S. glossinidius
+T56	Host 9682 9692	tsetse fly
+T57	Bacterium 10428 10443	S. glossinidius
+T58	Host 10472 10478	tsetse
+*	Equiv T11 T40
+*	Equiv T9 T39
+*	Equiv T7 T18
+*	Equiv T7 T27
+*	Equiv T7 T28
+*	Equiv T7 T37
+*	Equiv T7 T38
+*	Equiv T7 T41
+*	Equiv T7 T44
+*	Equiv T7 T46
+*	Equiv T7 T48
+*	Equiv T7 T50
+*	Equiv T7 T51
+*	Equiv T7 T54
+*	Equiv T7 T56
+*	Equiv T7 T58
+*	Equiv T13 T26
+*	Equiv T3 T4
+*	Equiv T1 T2
+*	Equiv T1 T12
+*	Equiv T1 T14
+*	Equiv T1 T15
+*	Equiv T1 T16
+*	Equiv T1 T20
+*	Equiv T1 T24
+*	Equiv T1 T25
+*	Equiv T1 T33
+*	Equiv T1 T36
+*	Equiv T1 T42
+*	Equiv T1 T43
+*	Equiv T1 T45
+*	Equiv T1 T47
+*	Equiv T1 T49
+*	Equiv T1 T53
+*	Equiv T1 T55
+*	Equiv T1 T57
+E1	PartOf Host:T7 Part:T29
+E2	Localization Bacterium:T6 Localization:T3
+E3	Localization Bacterium:T1 Localization:T9
+E4	Localization Bacterium:T22 Localization:T21
+E5	PartOf Host:T7 Part:T8
+E6	Localization Bacterium:T1 Localization:T13
+E7	Localization Bacterium:T31 Localization:T32
+E8	Localization Bacterium:T1 Localization:T52
+E9	Localization Bacterium:T1 Localization:T8
+E10	PartOf Host:T7 Part:T11
+E11	Localization Bacterium:T1 Localization:T23
+E12	Localization Bacterium:T1 Localization:T30
+E13	Localization Bacterium:T5 Localization:T3
+E14	Localization Bacterium:T1 Localization:T7
+E15	Localization Bacterium:T1 Localization:T17
+E16	PartOf Host:T35 Part:T34
+E17	Localization Bacterium:T1 Localization:T34
+E18	Localization Bacterium:T1 Localization:T19
+E19	PartOf Host:T7 Part:T19
+E20	PartOf Host:T7 Part:T9
+E21	PartOf Host:T7 Part:T10
+E22	Localization Bacterium:T1 Localization:T29
+E23	Localization Bacterium:T1 Localization:T10
+E24	Localization Bacterium:T1 Localization:T11
+E25	Localization Bacterium:T1 Localization:T3
+E26	Localization Bacterium:T1 Localization:T35

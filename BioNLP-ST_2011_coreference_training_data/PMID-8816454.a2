@@ -1,0 +1,14 @@
+T20	Exp 32 112	the beta subunit of human proximal sequence element-binding transcription factor	41 48	subunit
+T21	Exp 117 120	its
+T22	Exp 153 206	small nuclear RNA genes by RNA polymerases II and III	171 176	genes
+T23	Exp 209 245	The proximal sequence element (PSE)-
+T24	Exp 281 286	which
+T25	Exp 304 350	both RNA polymerase II- and RNA polymerase III	309 350	RNA polymerase II- and RNA polymerase III
+T26	Exp 423 428	their
+T27	Exp 1495 1505	the notion
+T28	Exp 1506 1510	that
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T25 Antecedent:T22	[T1]
+R4	Coref Anaphora:T26 Antecedent:T25
+R5	Coref Anaphora:T28 Antecedent:T27

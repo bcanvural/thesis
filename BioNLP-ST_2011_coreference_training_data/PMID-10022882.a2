@@ -1,0 +1,9 @@
+T24	Exp 608 647	ROI production and NF-kappaB activation
+T25	Exp 649 654	which
+T26	Exp 1126 1146	a production of ROIs	1128 1138	production
+T27	Exp 1147 1152	which
+T28	Exp 1279 1290	two enzymes	1283 1290	enzymes
+T29	Exp 1291 1296	which
+R1	Coref Anaphora:T25 Antecedent:T24
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28

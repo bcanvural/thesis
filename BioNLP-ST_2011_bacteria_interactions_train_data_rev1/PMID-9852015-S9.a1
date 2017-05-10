@@ -1,0 +1,78 @@
+T1	Protein 30 34	CtsR
+T2	GeneComplex 77 81	clpC
+T3	GeneFamily 107 133	class III heat shock genes
+T4	Transcription 149 173	unstressed transcription
+T5	Protein 190 196	sigmaB
+T6	Protein 201 207	sigmaA
+T7	Promoter 218 226	promoter
+W1	Word 0 3	Our
+W2	Word 4 8	data
+W3	Word 9 20	demonstrate
+W4	Word 21 25	that
+W5	Word 26 29	the
+W6	Word 30 34	CtsR
+W7	Word 35 42	protein
+W8	Word 43 47	acts
+W9	Word 48 50	as
+W10	Word 51 52	a
+W11	Word 53 59	global
+W12	Word 60 69	repressor
+W13	Word 70 72	of
+W14	Word 73 76	the
+W15	Word 77 81	clpC
+W16	Word 82 88	operon
+W17	Word 90 92	as
+W18	Word 93 97	well
+W19	Word 98 100	as
+W20	Word 101 106	other
+W21	Word 107 112	class
+W22	Word 113 116	III
+W23	Word 117 121	heat
+W24	Word 122 127	shock
+W25	Word 128 133	genes
+W26	Word 135 137	by
+W27	Word 138 148	preventing
+W28	Word 149 159	unstressed
+W29	Word 160 173	transcription
+W30	Word 174 178	from
+W31	Word 179 185	either
+W32	Word 186 189	the
+W33	Word 190 196	sigmaB
+W34	Word 198 200	or
+W35	Word 201 207	sigmaA
+W36	Word 208 217	dependent
+W37	Word 218 226	promoter
+W38	Word 227 230	and
+W39	Word 231 236	might
+W40	Word 237 239	be
+W41	Word 240 251	inactivated
+W42	Word 252 254	or
+W43	Word 255 265	dissociate
+W44	Word 266 271	under
+W45	Word 272 280	inducing
+W46	Word 281 287	stress
+W47	Word 288 298	conditions
+R1	comp:N-N(from) W29 W37
+R2	mod_att:N-ADJ W37 W36
+R3	mod:ADJ-N W45 W46
+R4	comp:V-N(as) W8 W12
+R5	mod_att:N-ADJ W29 W28
+R6	mod_att:N-N W7 W6
+R7	mod_att:N-N W25 W24
+R8	mod_att:N-ADJ W47 W45
+R9	mod:ADJ-N W36 W35
+R10	mod:ADJ-N W36 W33
+R11	comp:N-N(of) W12 W16
+R12	subj:V-N W8 W7
+R13	mod_att:N-N W16 W15
+R14	comp:V-N(under) W43 W47
+R15	comp:N-N(of) W12 W25
+R16	mod_att:N-ADJ W12 W11
+R17	comp:V-V(by) W8 W27
+R18	mod_att:N-N W24 W23
+R19	subj:V_PASS-N W41 W7
+R20	mod_post:N-ADJ W21 W22
+R21	obj:V-N W27 W29
+R22	subj:V-N W3 W2
+R23	mod_att:N-N W25 W21
+R24	subj:V-N W43 W7

@@ -1,0 +1,14 @@
+T24	Entity 138 147	NF-kappaB
+T25	Entity 201 210	NF-kappaB
+T26	Entity 460 474	26S proteasome
+T27	Entity 518 527	NF-kappaB
+T28	Entity 614 623	NF-kappaB
+T29	Entity 827 837	proteasome
+T30	Entity 941 950	NF-kappaB
+T31	Entity 1241 1251	proteasome
+T32	Entity 1300 1315	serine residues
+T33	Entity 1335 1352	N-terminal region
+T34	Entity 1479 1488	NF-kappaB
+T35	Entity 1743 1752	NF-kappaB
+R1	Protein-Component Arg1:T15 Arg2:T33
+R2	Protein-Component Arg1:T15 Arg2:T32

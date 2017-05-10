@@ -1,0 +1,19 @@
+T16	Entity 27 45	TATA-less promoter
+T17	Entity 66 75	NF-kappaB
+T18	Entity 331 344	core promoter
+T19	Entity 450 476	functional promoter region
+T20	Entity 502 526	transcription start site
+T21	Entity 531 546	NF-kappaB motif
+T22	Entity 531 540	NF-kappaB
+T23	Entity 560 586	noncanonical octamer motif
+T24	Entity 721 730	NF-kappaB
+T25	Entity 854 863	NF-kappaB
+T26	Entity 986 995	NF-kappaB
+R1	Protein-Component Arg1:T5 Arg2:T23
+R2	Protein-Component Arg1:T5 Arg2:T20
+R3	Protein-Component Arg1:T5 Arg2:T21
+R4	Protein-Component Arg1:T5 Arg2:T19
+R5	Protein-Component Arg1:T5 Arg2:T18
+R6	Subunit-Complex Arg1:T9 Arg2:T24
+R7	Subunit-Complex Arg1:T8 Arg2:T24
+R8	Subunit-Complex Arg1:T11 Arg2:T25

@@ -1,0 +1,6 @@
+T20	Exp 0 23	Octamer binding factors	16 23	factors
+T21	Exp 28 33	their
+T22	Exp 605 609	PU.1
+T23	Exp 620 623	its
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22	[T6]

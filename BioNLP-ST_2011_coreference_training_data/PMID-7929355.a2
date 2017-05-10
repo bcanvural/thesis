@@ -1,0 +1,7 @@
+T23	Exp 840 853	TPCK and TLCK
+T24	Exp 976 992	these inhibitors
+T25	Exp 1028 1046	Both TPCK and TLCK
+T26	Exp 1147 1163	These inhibitors
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T25 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25

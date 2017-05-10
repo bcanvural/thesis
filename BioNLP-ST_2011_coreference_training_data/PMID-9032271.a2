@@ -1,0 +1,32 @@
+T13	Exp 20 38	a mutant cell line	29 38	cell line
+T14	Exp 39 43	that
+T15	Exp 222 255	nuclear factor kappaB (NF-kappaB)
+T16	Exp 273 276	its
+T17	Exp 418 427	NF-kappaB
+T18	Exp 463 465	it
+T19	Exp 476 479	its
+T20	Exp 494 519	The transduction pathways	511 519	pathways
+T21	Exp 520 524	that
+T22	Exp 618 635	a cellular mutant	629 635	mutant
+T23	Exp 685 689	that
+T24	Exp 1251 1266	all the stimuli	1259 1266	stimuli
+T25	Exp 1267 1271	that
+T26	Exp 1390 1450	stimuli such as hyperosmotic shock or phosphatase inhibitors	1390 1397	stimuli
+T27	Exp 1452 1457	which
+T28	Exp 1644 1719	the human T-cell leukemia virus type 1 (HTLV-1)-derived Tax trans-activator	1700 1719	Tax trans-activator
+T29	Exp 1773 1791	this viral protein	1784 1791	protein
+T30	Exp 2103 2109	a step
+T31	Exp 2110 2114	that
+T32	Exp 2232 2254	the signaling pathways	2246 2254	pathways
+T33	Exp 2255 2259	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T19 Antecedent:T17
+R5	Coref Anaphora:T21 Antecedent:T20
+R6	Coref Anaphora:T23 Antecedent:T22
+R7	Coref Anaphora:T25 Antecedent:T24
+R8	Coref Anaphora:T27 Antecedent:T26
+R9	Coref Anaphora:T29 Antecedent:T28	[T7]
+R10	Coref Anaphora:T31 Antecedent:T30
+R11	Coref Anaphora:T33 Antecedent:T32

@@ -1,0 +1,22 @@
+T24	Entity 0 7	V3 loop
+T25	Entity 222 230	peptides
+T26	Entity 248 257	V3 region
+T27	Entity 379 386	V3-BH10
+T28	Entity 406 420	42 amino acids
+T29	Entity 431 445	loop structure
+T30	Entity 935 942	V3 loop
+T31	Entity 1025 1032	V3-BH10
+T32	Entity 1047 1054	V3-BH10
+T33	Entity 1180 1189	chromatin
+T34	Entity 1268 1275	V3-BH10
+T35	Entity 1286 1293	V3-BH10
+T36	Entity 1339 1353	IL-2 receptors
+T37	Entity 1367 1374	tyrosyl
+T38	Entity 1511 1518	V3-BH10
+T39	Entity 1610 1617	V3 loop
+R1	Protein-Component Arg1:T11 Arg2:T37
+R2	Protein-Component Arg1:T12 Arg2:T37
+R3	Protein-Component Arg1:T13 Arg2:T37
+R4	Protein-Component Arg1:T14 Arg2:T37
+R5	Protein-Component Arg1:T15 Arg2:T37
+R6	Protein-Component Arg1:T21 Arg2:T39

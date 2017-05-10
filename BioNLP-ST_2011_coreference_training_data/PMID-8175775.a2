@@ -1,0 +1,6 @@
+T13	Exp 1054 1072	1 alpha,25-(OH)2D3
+T14	Exp 1228 1231	its
+T15	Exp 1300 1319	human B lymphocytes	1308 1319	lymphocytes
+T16	Exp 1354 1358	they
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15

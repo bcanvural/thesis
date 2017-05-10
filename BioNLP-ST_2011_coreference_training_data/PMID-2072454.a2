@@ -1,0 +1,6 @@
+T5	Exp 1110 1136	second-site LTR revertants
+T6	Exp 1137 1142	which
+T7	Exp 1264 1285	functional redundancy
+T8	Exp 1286 1291	which
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

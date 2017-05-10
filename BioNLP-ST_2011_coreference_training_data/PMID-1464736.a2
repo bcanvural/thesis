@@ -1,0 +1,6 @@
+T2	Exp 416 516	a 32P-labeled oligonucleotide derived from human immunodeficiency virus (HIV-1) long terminal repeat	418 445	32P-labeled oligonucleotide
+T3	Exp 518 523	which
+T4	Exp 556 566	NF kappa B
+T5	Exp 632 657	this transcription factor	637 657	transcription factor
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4

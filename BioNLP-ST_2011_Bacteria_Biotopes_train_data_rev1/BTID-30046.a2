@@ -1,0 +1,16 @@
+T1	Host 740 750	Drosophila
+T2	Bacterium 770 785	Pseudomonas L48
+T3	Bacterium 953 964	Pseudomonas
+T4	Host 1293 1299	humans
+T5	Bacterium 1301 1314	P. aeruginosa
+T6	Host 1319 1325	plants
+T7	Bacterium 1327 1341	P. fluorescens
+T8	Bacterium 1381 1392	Pseudomonas
+T9	Host 2119 2129	Drosophila
+*	Equiv T3 T8
+E1	Localization Bacterium:T3 Localization:T6
+E2	Localization Bacterium:T5 Localization:T4
+E3	Localization Bacterium:T3 Localization:T9
+E4	Localization Bacterium:T3 Localization:T4
+E5	Localization Bacterium:T7 Localization:T6
+E6	Localization Bacterium:T2 Localization:T1

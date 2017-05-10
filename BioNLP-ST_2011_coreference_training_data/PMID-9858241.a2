@@ -1,0 +1,5 @@
+T8	Exp 14 50	the human delta-globin gene promoter	42 50	promoter
+T9	Exp 187 205	the delta promoter	197 205	promoter
+T10	Exp 216 219	its
+R1	Coref Anaphora:T9 Antecedent:T8	[T1]
+R2	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,3 @@
+T13	Exp 213 223	mechanisms
+T14	Exp 227 232	which
+R1	Coref Anaphora:T14 Antecedent:T13

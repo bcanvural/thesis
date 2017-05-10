@@ -1,0 +1,25 @@
+T1	Gene 28 33	spo0H
+T2	Transcription 37 48	transcribed
+T3	PolymeraseComplex 56 87	major vegetative RNA polymerase
+T4	PolymeraseComplex 89 98	E sigma A
+W1	Word 0 5	These
+W2	Word 6 13	studies
+W3	Word 14 22	indicate
+W4	Word 23 27	that
+W5	Word 28 33	spo0H
+W6	Word 34 36	is
+W7	Word 37 48	transcribed
+W8	Word 49 51	by
+W9	Word 52 55	the
+W10	Word 56 61	major
+W11	Word 62 72	vegetative
+W12	Word 73 76	RNA
+W13	Word 77 87	polymerase
+W14	Word 89 98	E sigma A
+R1	appos W13 W14
+R2	mod_att:N-N W13 W12
+R3	mod_att:N-ADJ W13 W10
+R4	subj:V_PASS-N W7 W5
+R5	subj:V-N W3 W2
+R6	mod_att:N-ADJ W13 W11
+R7	comp:V_PASS-N(by) W7 W13

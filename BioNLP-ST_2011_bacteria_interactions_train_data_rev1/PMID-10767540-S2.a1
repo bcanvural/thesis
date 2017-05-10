@@ -1,0 +1,56 @@
+T1	Expression 16 26	expression
+T2	GeneComplex 32 62	translational ywhE-lacZ fusion
+T3	Gene 75 79	ywhE
+T4	Expression 80 90	expression
+T5	Protein 187 195	sigma(F)
+T6	Protein 223 231	sigma(G)
+W1	Word 0 8	Analysis
+W2	Word 9 11	of
+W3	Word 12 15	the
+W4	Word 16 26	expression
+W5	Word 27 29	of
+W6	Word 30 31	a
+W7	Word 32 45	translational
+W8	Word 46 50	ywhE
+W9	Word 51 55	lacZ
+W10	Word 56 62	fusion
+W11	Word 63 69	showed
+W12	Word 70 74	that
+W13	Word 75 79	ywhE
+W14	Word 80 90	expression
+W15	Word 91 93	is
+W16	Word 94 114	sporulation-specific
+W17	Word 116 119	and
+W18	Word 120 122	is
+W19	Word 123 133	controlled
+W20	Word 134 147	predominantly
+W21	Word 148 150	by
+W22	Word 151 154	the
+W23	Word 155 173	forespore-specific
+W24	Word 174 179	sigma
+W25	Word 180 186	factor
+W26	Word 187 195	sigma(F)
+W27	Word 197 200	and
+W28	Word 201 203	to
+W29	Word 204 205	a
+W30	Word 206 212	lesser
+W31	Word 213 219	extent
+W32	Word 220 222	by
+W33	Word 223 231	sigma(G)
+R1	subj:V-N W11 W1
+R2	comp:N-N(of) W4 W10
+R3	comp:N-N(of) W1 W4
+R4	mod_att:N-N W10 W8
+R5	mod_att:N-ADJ W10 W7
+R6	mod_pred:N-ADJ W14 W16
+R7	mod_att:N-N W26 W25
+R8	comp:V_PASS-N(to) W19 W31
+R9	mod_att:N-ADJ W25 W23
+R10	subj:V_PASS-N W19 W14
+R11	mod_att:N-ADJ W31 W30
+R12	comp:V_PASS-N(by) W19 W26
+R13	mod_att:N-N W25 W24
+R14	mod_att:N-N W10 W9
+R15	mod:V_PASS-ADV W19 W20
+R16	comp:V_PASS-N(by) W19 W33
+R17	mod_att:N-N W14 W13

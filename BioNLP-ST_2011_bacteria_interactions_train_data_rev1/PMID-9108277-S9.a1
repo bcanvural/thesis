@@ -1,0 +1,47 @@
+T1	Protein 36 40	ComK
+T2	Gene 62 66	degR
+T3	Expression 67 77	expression
+T4	Protein 92 98	sigmaD
+T5	Transcription 106 119	transcription
+T6	Gene 123 127	degR
+T7	Site 167 181	control region
+W1	Word 0 4	From
+W2	Word 5 10	these
+W3	Word 11 18	results
+W4	Word 19 21	we
+W5	Word 22 30	conclude
+W6	Word 31 35	that
+W7	Word 36 40	ComK
+W8	Word 41 51	negatively
+W9	Word 52 61	regulates
+W10	Word 62 66	degR
+W11	Word 67 77	expression
+W12	Word 78 80	by
+W13	Word 81 91	preventing
+W14	Word 92 98	sigmaD
+W15	Word 99 105	driven
+W16	Word 106 119	transcription
+W17	Word 120 122	of
+W18	Word 123 127	degR
+W19	Word 129 137	possibly
+W20	Word 138 145	through
+W21	Word 146 157	interaction
+W22	Word 158 162	with
+W23	Word 163 166	the
+W24	Word 167 174	control
+W25	Word 175 181	region
+R1	mod_att:N-N W11 W10
+R2	mod_att:N-N W25 W24
+R3	mod:V-ADV W13 W19
+R4	subj:V-N W9 W7
+R5	obj:V-N W13 W16
+R6	comp:V-V(by) W9 W13
+R7	mod:ADJ-N W15 W14
+R8	comp:N-N(with) W21 W25
+R9	obj:V-N W9 W11
+R10	comp:N-N(of) W16 W18
+R11	comp:V-N(through) W13 W21
+R12	mod:V-ADV W9 W8
+R13	subj:V-N W5 W4
+R14	mod_att:N-ADJ W16 W15
+R15	comp:V-N(from) W5 W3

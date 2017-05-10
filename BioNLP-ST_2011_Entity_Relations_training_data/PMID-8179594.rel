@@ -1,0 +1,8 @@
+T9	Entity 117 121	AP-1
+T10	Entity 280 292	AP-1 complex
+T11	Entity 314 334	protein heterodimers
+T12	Entity 431 441	cyclic AMP
+R1	Subunit-Complex Arg1:T3 Arg2:T11
+R2	Subunit-Complex Arg1:T2 Arg2:T11
+R3	Subunit-Complex Arg1:T2 Arg2:T10
+R4	Subunit-Complex Arg1:T3 Arg2:T10

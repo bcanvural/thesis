@@ -1,0 +1,5 @@
+T15	Entity 749 779	transcription factor NF-kappaB
+T16	Entity 860 868	tyrosine
+T17	Entity 1191 1200	NF-kappaB
+T18	Entity 2016 2025	NF-kappaB
+R1	Protein-Component Arg1:T3 Arg2:T16

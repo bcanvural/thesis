@@ -1,0 +1,9 @@
+T6	Exp 343 414	a 17 kDa variant of the 14 kDa Id-3 protein termed Id-3L (long version)	352 359	variant
+T7	Exp 415 420	which
+T8	Exp 720 745	The variant Id-3L protein	738 745	protein
+T9	Exp 846 848	it
+T10	Exp 873 876	its
+R1	Coref Anaphora:T7 Antecedent:T6	[T2]
+R2	Coref Anaphora:T8 Antecedent:T6	[T2]
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T10 Antecedent:T8

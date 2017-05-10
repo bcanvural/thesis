@@ -1,0 +1,11 @@
+T14	Exp 495 508	the mechanism
+T15	Exp 512 517	which
+T16	Exp 518 522	CD14
+T17	Exp 524 529	which
+T18	Exp 570 573	its
+T19	Exp 1352 1400	Protein synthesis inhibitors and corticosteroids
+T20	Exp 1402 1407	which
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16	[T3]
+R3	Coref Anaphora:T18 Antecedent:T16	[T3]
+R4	Coref Anaphora:T20 Antecedent:T19

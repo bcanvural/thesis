@@ -1,0 +1,14 @@
+T5	Exp 214 247	85-kDa cytosolic phospholipase A2	231 247	phospholipase A2
+T6	Exp 249 260	This enzyme	254 260	enzyme
+T7	Exp 270 309	arachidonic acid and lyso-phospholipids
+T8	Exp 325 330	which
+T9	Exp 394 415	These lipid mediators	406 415	mediators
+T10	Exp 840 866	the subcellular mechanisms	856 866	mechanisms
+T11	Exp 884 889	which
+T12	Exp 890 912	trifluoromethylketones
+T13	Exp 959 963	they
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T9 Antecedent:T7
+R4	Coref Anaphora:T11 Antecedent:T10
+R5	Coref Anaphora:T13 Antecedent:T12

@@ -1,0 +1,14 @@
+T28	Exp 208 244	a number of erythroid-specific genes	239 244	genes
+T29	Exp 254 259	which
+T30	Exp 686 776	the parental granulocyte-macrophage colony-stimulating factor (GM-CSF)-dependent cell line	767 776	cell line
+T31	Exp 778 782	UT-7
+T32	Exp 784 789	which
+T33	Exp 1728 1754	The frequency of the cells	1732 1741	frequency
+T34	Exp 1755 1760	which
+T35	Exp 1920 1940	gamma-positive cells	1935 1940	cells
+T36	Exp 1945 1950	their
+R1	Coref Anaphora:T29 Antecedent:T28
+R2	Coref Anaphora:T31 Antecedent:T30	[T11, T10]
+R3	Coref Anaphora:T32 Antecedent:T31
+R4	Coref Anaphora:T34 Antecedent:T33
+R5	Coref Anaphora:T36 Antecedent:T35

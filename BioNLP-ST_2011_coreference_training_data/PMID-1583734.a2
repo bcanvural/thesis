@@ -1,0 +1,6 @@
+T15	Exp 132 149	a protein complex
+T16	Exp 150 155	which
+T17	Exp 684 722	50-kDa forms of p105 NF-kappa B or rel	684 696	50-kDa forms
+T18	Exp 770 775	which
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17	[T8, T9]

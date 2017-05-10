@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+T5	Entity 34 56	nuclear factor kappa B
+T6	Entity 126 136	NF kappa B
+T7	Entity 138 160	nuclear factor kappa B
+T8	Entity 275 278	CD3
+T9	Entity 467 477	NF kappa B
+T10	Entity 551 561	NF kappa B
+T11	Entity 697 707	NF kappa B
+T12	Entity 788 798	NF kappa B
+T13	Entity 900 909	precursor
+T14	Entity 917 919	of
+T15	Entity 920 930	NF kappa B
+T16	Entity 1035 1045	NF kappa B
+R1	Subunit-Complex Arg1:T4 Arg2:T11
+R2	Subunit-Complex Arg1:T3 Arg2:T11

@@ -1,0 +1,32 @@
+*	Equiv T3 T4
+T24	Entity 105 126	cytokine gene cluster
+T25	Entity 412 430	5'-flanking region
+T26	Entity 445 480	transcriptional activation elements
+T27	Entity 589 605	12.5-kb upstream
+T28	Entity 627 642	2-kb downstream
+T29	Entity 648 658	CpG island
+T30	Entity 670 690	gene 5' flank region
+T31	Entity 736 746	P elements
+T32	Entity 759 767	promoter
+T33	Entity 841 855	P element site
+T34	Entity 884 892	promoter
+T35	Entity 936 952	Oligonucleotides
+T36	Entity 982 997	P element sites
+T37	Entity 1515 1525	P elements
+T38	Entity 1548 1557	promoters
+T39	Entity 1597 1621	NF-AT-binding P elements
+T40	Entity 1611 1621	P elements
+T41	Entity 1698 1712	cytokine genes
+R1	Protein-Component Arg1:T7 Arg2:T26
+R2	Protein-Component Arg1:T7 Arg2:T25
+R3	Protein-Component Arg1:T11 Arg2:T31
+R4	Protein-Component Arg1:T10 Arg2:T30
+R5	Protein-Component Arg1:T11 Arg2:T32
+R6	Protein-Component Arg1:T12 Arg2:T33
+R7	Protein-Component Arg1:T13 Arg2:T34
+R8	Protein-Component Arg1:T14 Arg2:T36
+R9	Protein-Component Arg1:T15 Arg2:T36
+R10	Protein-Component Arg1:T22 Arg2:T37
+R11	Protein-Component Arg1:T23 Arg2:T37
+R12	Protein-Component Arg1:T22 Arg2:T38
+R13	Protein-Component Arg1:T23 Arg2:T38

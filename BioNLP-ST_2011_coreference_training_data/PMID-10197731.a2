@@ -1,0 +1,5 @@
+T7	Exp 1119 1122	PAO
+T8	Exp 1133 1136	its
+T9	Exp 1207 1210	its
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T9 Antecedent:T7

@@ -1,0 +1,17 @@
+T21	Exp 28 50	phosphatase inhibitors	40 50	inhibitors
+T22	Exp 149 159	NF-kappa B
+T23	Exp 247 250	its
+T24	Exp 770 781	This action	775 781	action
+T25	Exp 785 811	the phosphatase inhibitors	801 811	inhibitors
+T26	Exp 813 818	which
+T27	Exp 912 918	agents
+T28	Exp 919 923	that
+T29	Exp 1036 1070	the phosphorylated I kappa B alpha	1055 1070	I kappa B alpha
+T30	Exp 1111 1115	that
+T31	Exp 1401 1427	the phosphatase inhibitors	1417 1427	inhibitors
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T21
+R3	Coref Anaphora:T26 Antecedent:T24
+R4	Coref Anaphora:T28 Antecedent:T27
+R5	Coref Anaphora:T30 Antecedent:T29	[T10]
+R6	Coref Anaphora:T31 Antecedent:T25

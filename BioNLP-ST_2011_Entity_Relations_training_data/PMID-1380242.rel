@@ -1,0 +1,12 @@
+*	Equiv T1 T2
+T11	Entity 0 27	SRC-related proto-oncogenes
+T12	Entity 173 178	genes
+T13	Entity 361 369	enhancer
+T14	Entity 501 516	src gene family
+T15	Entity 756 759	DNA
+T16	Entity 820 825	sites
+T17	Entity 838 846	enhancer
+T18	Entity 881 885	AP-1
+R1	Protein-Component Arg1:T3 Arg2:T13
+R2	Protein-Component Arg1:T9 Arg2:T16
+R3	Protein-Component Arg1:T9 Arg2:T17

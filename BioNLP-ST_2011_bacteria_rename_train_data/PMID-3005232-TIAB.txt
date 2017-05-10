@@ -1,0 +1,2 @@
+Gene sequence encoding early enzymes of arginine synthesis within a cluster in Bacillus subtilis, as revealed by cloning in Escherichia coli.
+From a partial Sau3A gene library of Bacillus subtilis chromosomal DNA in the expression plasmid pRK9, four hybrid plasmids were isolated carrying overlapping segments of the argA-argF-cpa cluster. The complementation patterns within Escherichia coli arginine auxotrophs of these hybrids and deletion derivatives provided the gene order argC-argA-argE-argB-argD-cpa-argF.

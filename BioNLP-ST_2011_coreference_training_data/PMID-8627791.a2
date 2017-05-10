@@ -1,0 +1,6 @@
+T8	Exp 2087 2144	an enhancer region just upstream of the NF-kappaB element	2099 2105	region
+T9	Exp 2145 2150	which
+T10	Exp 2312 2328	the SIV TATA box
+T11	Exp 2359 2363	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

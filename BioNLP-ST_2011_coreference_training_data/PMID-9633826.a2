@@ -1,0 +1,6 @@
+T4	Exp 298 320	conformational changes	313 320	changes
+T5	Exp 321 325	that
+T6	Exp 833 843	kDa values	837 843	values
+T7	Exp 941 946	those
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

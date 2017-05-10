@@ -1,0 +1,17 @@
+T1	Bacterium 0 30	Bordetella parapertussis 12822
+T2	Bacterium 43 53	Bordetella
+T3	HostPart 106 123	respiratory tract
+T4	Host 127 134	animals
+T5	Bacterium 406 443	Bordetella parapertussis strain 12822
+T6	Host 471 477	humans
+T7	Host 482 487	sheep
+T8	Host 578 584	infant
+T9	Geographical 588 595	Germany
+*	Equiv T1 T5
+E1	Localization Bacterium:T1 Localization:T9
+E2	Localization Bacterium:T2 Localization:T4
+E3	Localization Bacterium:T2 Localization:T3
+E4	Localization Bacterium:T1 Localization:T7
+E5	PartOf Host:T4 Part:T3
+E6	Localization Bacterium:T1 Localization:T6
+E7	Localization Bacterium:T1 Localization:T8

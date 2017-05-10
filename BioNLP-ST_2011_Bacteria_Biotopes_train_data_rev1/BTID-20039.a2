@@ -1,0 +1,5 @@
+T1	Bacterium 46 82	Caldicellulosiruptor saccharolyticus
+T2	Water 184 198	thermal spring
+T3	Geographical 202 213	New Zealand
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T2

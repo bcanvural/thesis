@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T11	Entity 65 73	proximal
+T12	Entity 78 84	distal
+T13	Entity 92 116	transcription start site
+T14	Entity 186 199	DNA sequences
+T15	Entity 391 407	enhancer element
+T16	Entity 424 451	-3757 and -2729 bp upstream
+T17	Entity 461 485	transcription start site
+T18	Entity 487 495	cap site
+T19	Entity 519 542	six discrete subregions
+T20	Entity 892 917	protein binding sequences
+T21	Entity 1246 1270	cap site-proximal region
+T22	Entity 1348 1365	enhancer elements
+T23	Entity 1519 1527	promoter
+T24	Entity 1555 1563	enhancer
+T25	Entity 1673 1681	promoter
+R1	Protein-Component Arg1:T1 Arg2:T11
+R2	Protein-Component Arg1:T1 Arg2:T12
+R3	Protein-Component Arg1:T6 Arg2:T22
+R4	Protein-Component Arg1:T6 Arg2:T21
+R5	Protein-Component Arg1:T8 Arg2:T23
+R6	Protein-Component Arg1:T9 Arg2:T24
+R7	Protein-Component Arg1:T10 Arg2:T25

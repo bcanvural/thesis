@@ -1,0 +1,5 @@
+E1	ActionTarget Action:T2 Target:T4
+E2	PromoterOf Agent:T1 Target:T3
+E3	ActionTarget Action:T2 Target:T3
+E5	PromoterOf Agent:T1 Target:T4
+E6	TranscriptionFrom Process:T2 Promoter:T1

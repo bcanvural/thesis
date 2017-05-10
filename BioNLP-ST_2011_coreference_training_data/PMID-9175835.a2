@@ -1,0 +1,6 @@
+T6	Exp 5 29	a novel cellular protein	22 29	protein
+T7	Exp 30 34	that
+T8	Exp 652 684	NF-kappaB transcriptional factor	678 684	factor
+T9	Exp 752 756	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

@@ -1,0 +1,8 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T13	Entity 216 224	tyrosine
+T14	Entity 245 253	tyrosine
+T15	Entity 512 535	T cell antigen receptor
+T16	Entity 595 606	5' promoter
+T17	Entity 1116 1126	N terminus
+R1	Protein-Component Arg1:T5 Arg2:T16

@@ -1,0 +1,24 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T5	Entity 36 46	NF-kappa B
+T6	Entity 59 67	cysteine
+T7	Entity 127 140	binding sites
+T8	Entity 170 180	NF-kappa B
+T9	Entity 320 328	cysteine
+T10	Entity 378 386	cysteine
+T11	Entity 431 441	NF-kappa B
+T12	Entity 495 503	cysteine
+T13	Entity 507 523	N-acetylcysteine
+T14	Entity 525 528	NAC
+T15	Entity 554 565	glutathione
+T16	Entity 567 570	GSH
+T17	Entity 740 743	GSH
+T18	Entity 752 760	Cysteine
+T19	Entity 765 768	NAC
+T20	Entity 782 792	NF-kappa B
+T21	Entity 935 959	NF-kappa B binding sites
+T22	Entity 935 945	NF-kappa B
+T23	Entity 1004 1012	cysteine
+T24	Entity 1086 1112	NF-kappa B-dependent genes
+T25	Entity 1086 1096	NF-kappa B
+T26	Entity 1144 1147	NAC

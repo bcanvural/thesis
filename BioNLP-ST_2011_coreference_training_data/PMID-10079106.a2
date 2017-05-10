@@ -1,0 +1,12 @@
+T18	Exp 572 593	the MAPk kinase (MKK)
+T19	Exp 594 598	that
+T20	Exp 638 659	the p38 MAPk isoforms	651 659	isoforms
+T21	Exp 660 664	that
+T22	Exp 1390 1399	a pathway
+T23	Exp 1403 1408	which
+T24	Exp 1465 1469	MKK3
+T25	Exp 1471 1476	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T25 Antecedent:T24	[T14]

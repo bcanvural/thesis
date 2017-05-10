@@ -1,0 +1,18 @@
+T9	Entity 134 143	CDR2-loop
+T10	Entity 147 169	extracellular domain 1
+T11	Entity 365 398	gp120-anti-gp120 immune complexes
+T12	Entity 548 557	NF-kappaB
+T13	Entity 974 983	NF-kappaB
+T14	Entity 1160 1169	CDR2-loop
+T15	Entity 1173 1181	domain 1
+T16	Entity 1183 1185	D1
+T17	Entity 1368 1370	D1
+T18	Entity 1386 1398	D1/CDR3-loop
+T19	Entity 1581 1593	D1/CDR2-loop
+T20	Entity 1584 1593	CDR2-loop
+R1	Protein-Component Arg1:T1 Arg2:T10
+R2	Protein-Component Arg1:T4 Arg2:T16
+R3	Protein-Component Arg1:T4 Arg2:T15
+R4	Protein-Component Arg1:T4 Arg2:T14
+R5	Protein-Component Arg1:T8 Arg2:T19
+R6	Protein-Component Arg1:T8 Arg2:T20

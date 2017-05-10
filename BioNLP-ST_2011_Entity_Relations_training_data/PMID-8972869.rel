@@ -1,0 +1,29 @@
+T7	Entity 0 7	Octamer
+T8	Entity 57 95	kappa immunoglobulin germline promoter
+T9	Entity 119 152	immunoglobulin V region promoters
+T10	Entity 190 203	octamer motif
+T11	Entity 319 339	immunoglobulin genes
+T12	Entity 345 363	germline promoters
+T13	Entity 365 367	Ko
+T14	Entity 393 415	J region gene segments
+T15	Entity 423 434	kappa locus
+T16	Entity 451 464	octamer motif
+T17	Entity 486 504	base pair mutation
+T18	Entity 671 692	variant octamer motif
+T19	Entity 714 722	germline
+T20	Entity 759 770	kappa locus
+T21	Entity 849 870	variant octamer motif
+T22	Entity 914 927	octamer motif
+T23	Entity 986 1007	variant octamer motif
+T24	Entity 1075 1098	consensus octamer motif
+T25	Entity 1116 1137	variant octamer motif
+T26	Entity 1150 1167	consensus octamer
+T27	Entity 1171 1188	non-octamer motif
+T28	Entity 1242 1259	germline promoter
+T29	Entity 1337 1346	promoters
+T30	Entity 1350 1365	kappa enhancers
+T31	Entity 1396 1414	germline promoters
+T32	Entity 1419 1437	V region promoters
+T33	Entity 1468 1475	octamer
+T34	Entity 1599 1607	germline
+T35	Entity 1688 1711	kappa light chain locus

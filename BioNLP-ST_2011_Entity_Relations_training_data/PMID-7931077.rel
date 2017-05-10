@@ -1,0 +1,8 @@
+T14	Entity 531 558	nuclear factor (NF)-kappa B
+T15	Entity 676 683	complex
+T16	Entity 759 783	faster-migrating complex
+T17	Entity 863 887	faster-migrating complex
+R1	Subunit-Complex Arg1:T2 Arg2:T15
+R2	Subunit-Complex Arg1:T3 Arg2:T15
+R3	Subunit-Complex Arg1:T5 Arg2:T17
+R4	Subunit-Complex Arg1:T4 Arg2:T17

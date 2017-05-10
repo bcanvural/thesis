@@ -1,0 +1,18 @@
+T32	Exp 219 254	Germline C gamma gene transcription	241 254	transcription
+T33	Exp 258 288	a crucial event in the process	268 273	event
+T34	Exp 289 293	that
+T35	Exp 340 343	its
+T36	Exp 620 644	the human C gamma 3 gene	640 644	gene
+T37	Exp 930 941	CL-01 cells	936 941	cells
+T38	Exp 943 948	which
+T39	Exp 1680 1714	CD40L and IL-4 responsive elements	1706 1714	elements
+T40	Exp 1772 1776	them
+T41	Exp 1877 1889	cis elements	1881 1889	elements
+T42	Exp 1890 1894	that
+T43	Exp 1969 1993	the human C gamma 3 gene	1989 1993	gene
+R1	Coref Anaphora:T34 Antecedent:T33
+R2	Coref Anaphora:T35 Antecedent:T32
+R3	Coref Anaphora:T38 Antecedent:T37
+R4	Coref Anaphora:T40 Antecedent:T39	[T28, T29]
+R5	Coref Anaphora:T42 Antecedent:T41
+R6	Coref Anaphora:T43 Antecedent:T36	[T5]

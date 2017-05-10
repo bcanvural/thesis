@@ -1,0 +1,48 @@
+T1	Host 88 92	fish
+T2	Bacterium 446 460	Flavobacterium
+T3	Water 526 533	aquatic
+T4	Host 609 613	fish
+T5	Bacterium 615 631	F. psychrophilum
+T6	Bacterium 633 645	F. columnare
+T7	Bacterium 650 667	F. branchiophilum
+T8	Bacterium 687 696	JIP 02/86
+T9	Bacterium 721 737	F. psychrophilum
+T10	Host 766 776	salmonides
+T11	Bacterium 838 850	F. columnare
+T12	Bacterium 855 871	F. psychrophilum
+T13	Host 945 949	fish
+T14	Bacterium 968 985	F. branchiophilum
+T15	Host 1106 1116	salmonides
+T16	Geographical 1167 1172	Japan
+T17	Bacterium 1174 1191	F. branchiophilum
+T18	Geographical 1268 1271	USA
+T19	Geographical 1273 1280	Hungary
+T20	Geographical 1282 1288	Canada
+T21	Geographical 1290 1295	Korea
+T22	Bacterium 1348 1365	F. branchiophilum
+T23	HostPart 1416 1425	branchial
+*	Equiv T6 T11
+*	Equiv T5 T9
+*	Equiv T5 T12
+*	Equiv T7 T14
+*	Equiv T7 T17
+*	Equiv T7 T22
+*	Equiv T1 T4
+E1	Localization Bacterium:T7 Localization:T3
+E2	Localization Bacterium:T5 Localization:T3
+E3	Localization Bacterium:T6 Localization:T13
+E4	Localization Bacterium:T8 Localization:T10
+E5	Localization Bacterium:T6 Localization:T3
+E6	Localization Bacterium:T5 Localization:T13
+E7	Localization Bacterium:T7 Localization:T21
+E8	Localization Bacterium:T7 Localization:T1
+E9	Localization Bacterium:T5 Localization:T10
+E10	Localization Bacterium:T6 Localization:T1
+E11	Localization Bacterium:T7 Localization:T18
+E12	Localization Bacterium:T5 Localization:T1
+E13	Localization Bacterium:T7 Localization:T19
+E14	Localization Bacterium:T7 Localization:T16
+E15	Localization Bacterium:T7 Localization:T23
+E16	Localization Bacterium:T2 Localization:T3
+E17	Localization Bacterium:T7 Localization:T15
+E18	Localization Bacterium:T7 Localization:T20

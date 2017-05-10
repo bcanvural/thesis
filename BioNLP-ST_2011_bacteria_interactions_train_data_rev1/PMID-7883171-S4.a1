@@ -1,0 +1,42 @@
+T1	Protein 39 46	sigma F
+T2	Gene 57 61	gene
+T3	Gene 63 67	csfX
+T4	Protein 80 87	protein
+T5	Action 128 138	processing
+T6	Protein 142 153	pro-sigma E
+W1	Word 0 2	We
+W2	Word 3 7	have
+W3	Word 8 18	identified
+W4	Word 19 22	and
+W5	Word 23 36	characterized
+W6	Word 37 38	a
+W7	Word 39 46	sigma F
+W8	Word 47 56	dependent
+W9	Word 57 61	gene
+W10	Word 63 67	csfX
+W11	Word 69 77	encoding
+W12	Word 78 79	a
+W13	Word 80 87	protein
+W14	Word 88 97	necessary
+W15	Word 98 101	and
+W16	Word 102 112	sufficient
+W17	Word 113 116	for
+W18	Word 117 127	triggering
+W19	Word 128 138	processing
+W20	Word 139 141	of
+W21	Word 142 153	pro-sigma E
+R1	subj:V-N W3 W1
+R2	subj:V-N W11 W9
+R3	obj:V-N W18 W19
+R4	mod_att:N-ADJ W9 W8
+R5	obj:V-N W5 W9
+R6	obj:V-N W11 W13
+R7	comp:ADJ-V(for) W14 W18
+R8	subj:V-N W5 W1
+R9	comp:ADJ-V(for) W16 W18
+R10	appos W9 W10
+R11	obj:V-N W3 W9
+R12	mod:ADJ-N W8 W7
+R13	mod_att:N-ADJ W13 W14
+R14	mod_att:N-ADJ W13 W16
+R15	comp:N-N(of) W19 W21

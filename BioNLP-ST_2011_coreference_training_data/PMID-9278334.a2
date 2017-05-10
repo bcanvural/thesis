@@ -1,0 +1,12 @@
+T13	Exp 383 401	signaling pathways	393 401	pathways
+T14	Exp 402 406	that
+T15	Exp 634 676	a well-defined signal transduction pathway	669 676	pathway
+T16	Exp 678 683	which
+T17	Exp 1227 1267	the STAT1-containing DNA-binding complex	1260 1267	complex
+T18	Exp 1268 1272	that
+T19	Exp 1506 1523	a novel mechanism	1514 1523	mechanism
+T20	Exp 1527 1532	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17	[T9]
+R4	Coref Anaphora:T20 Antecedent:T19

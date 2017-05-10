@@ -1,0 +1,24 @@
+*	Equiv T4 T5
+T24	Entity 117 121	/JUN
+T25	Entity 599 623	promoter element kappa 3
+T26	Entity 700 738	cyclic AMP response element (CRE) site
+T27	Entity 945 960	kappa 3 element
+T28	Entity 1006 1032	composite kappa 3/CRE site
+T29	Entity 1078 1087	NFAT site
+T30	Entity 1100 1115	-76 nucleotides
+T31	Entity 1142 1166	transcription start site
+T32	Entity 1392 1400	promoter
+T33	Entity 1469 1477	-76 site
+T34	Entity 1525 1537	kappa 3 site
+T35	Entity 1578 1592	-binding sites
+T36	Entity 1619 1627	promoter
+T37	Entity 1714 1730	promoter element
+T38	Entity 1736 1762	composite kappa 3/CRE site
+R1	Subunit-Complex Arg1:T3 Arg2:T24
+R2	Protein-Component Arg1:T9 Arg2:T25
+R3	Protein-Component Arg1:T16 Arg2:T29
+R4	Protein-Component Arg1:T16 Arg2:T31
+R5	Protein-Component Arg1:T18 Arg2:T33
+R6	Protein-Component Arg1:T18 Arg2:T32
+R7	Protein-Component Arg1:T22 Arg2:T35
+R8	Protein-Component Arg1:T22 Arg2:T36

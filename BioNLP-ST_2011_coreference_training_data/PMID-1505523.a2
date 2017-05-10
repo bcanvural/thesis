@@ -1,0 +1,14 @@
+T9	Exp 400 414	This induction	405 414	induction
+T10	Exp 416 421	which
+T11	Exp 713 774	a specific RNA target termed TAR (transactivation responsive)	724 734	RNA target
+T12	Exp 775 780	which
+T13	Exp 1114 1132	the viral promoter	1124 1132	promoter
+T14	Exp 1133 1137	that
+T15	Exp 1490 1517	NF-kappa B binding activity	1509 1517	activity
+T16	Exp 1533 1537	that
+T17	Exp 1551 1555	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T17 Antecedent:T15

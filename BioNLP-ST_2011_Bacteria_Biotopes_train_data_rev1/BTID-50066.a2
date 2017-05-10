@@ -1,0 +1,17 @@
+T1	Bacterium 0 22	Desulfovibrio vulgaris
+T2	Bacterium 23 45	Desulfovibrio vulgaris
+T3	Bacterium 175 197	Desulfovibrio vulgaris
+T4	Soil 316 320	soil
+T5	Host 322 328	animal
+T6	HostPart 329 339	intestines
+T7	HostPart 344 349	feces
+T8	Water 355 375	fresh and salt water
+*	Equiv T1 T2
+*	Equiv T1 T3
+E1	Localization Bacterium:T1 Localization:T5
+E2	Localization Bacterium:T1 Localization:T6
+E3	Localization Bacterium:T1 Localization:T4
+E4	Localization Bacterium:T1 Localization:T7
+E5	PartOf Host:T5 Part:T6
+E6	PartOf Host:T5 Part:T7
+E7	Localization Bacterium:T1 Localization:T8

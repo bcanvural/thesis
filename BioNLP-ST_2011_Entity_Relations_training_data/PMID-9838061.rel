@@ -1,0 +1,12 @@
+T19	Entity 34 55	nuclear factor kappaB
+T20	Entity 245 265	transcription factor
+T21	Entity 432 447	kappaB sequence
+T22	Entity 506 527	nuclear factor kappaB
+T23	Entity 566 587	DNA-protein complexes
+T24	Entity 788 803	kappaB sequence
+T25	Entity 976 991	Pertussis toxin
+T26	Entity 1021 1027	kappaB
+R1	Subunit-Complex Arg1:T9 Arg2:T22
+R2	Subunit-Complex Arg1:T9 Arg2:T23
+R3	Subunit-Complex Arg1:T10 Arg2:T22
+R4	Subunit-Complex Arg1:T10 Arg2:T23

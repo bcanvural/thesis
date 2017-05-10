@@ -1,0 +1,17 @@
+T8	Exp 18 32	a novel factor	26 32	factor
+T9	Exp 33 37	that
+T10	Exp 216 260	the MOPC 141 immunoglobulin heavy-chain gene	256 260	gene
+T11	Exp 339 348	this gene	344 348	gene
+T12	Exp 1429 1451	a transcription factor
+T13	Exp 1458 1462	that
+T14	Exp 1530 1570	any of the previously described proteins
+T15	Exp 1571 1575	that
+T16	Exp 1643 1668	NTF and OTF2 interactions
+T17	Exp 1670 1674	both
+T18	Exp 1680 1685	their
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12
+R4	Coref Anaphora:T15 Antecedent:T14
+R5	Coref Anaphora:T17 Antecedent:T16	[T7]
+R6	Coref Anaphora:T18 Antecedent:T16	[T7]

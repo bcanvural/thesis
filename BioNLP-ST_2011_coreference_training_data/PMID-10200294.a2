@@ -1,0 +1,15 @@
+T17	Exp 514 535	the nuclear factor(s)
+T18	Exp 536 540	that
+T19	Exp 717 743	a novel DNA-binding domain	737 743	domain
+T20	Exp 802 806	that
+T21	Exp 968 981	this fragment	973 981	fragment
+T22	Exp 995 1022	its amino-terminal sequence	1014 1022	sequence
+T23	Exp 995 998	its
+T24	Exp 1024 1029	which
+T25	Exp 1192 1207	this cDNA clone	1202 1207	clone
+T26	Exp 1222 1225	its
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19
+R3	Coref Anaphora:T23 Antecedent:T21
+R4	Coref Anaphora:T24 Antecedent:T22
+R5	Coref Anaphora:T26 Antecedent:T25

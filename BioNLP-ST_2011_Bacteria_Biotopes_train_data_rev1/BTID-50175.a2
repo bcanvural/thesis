@@ -1,0 +1,32 @@
+T1	Bacterium 0 23	Vibrio parahaemolyticus
+T2	Bacterium 24 47	Vibrio parahaemolyticus
+T3	Food 55 59	food
+T4	Bacterium 82 89	Vibrios
+T5	Water 208 214	oceans
+T6	Water 216 230	coastal waters
+T7	Water 236 245	estuaries
+T8	Bacterium 247 270	Vibrio parahaemolyticus
+T9	Water 367 381	coastal waters
+T10	Bacterium 485 508	Vibrio parahaemolyticus
+T11	Food 516 520	food
+T12	Host 597 603	people
+T13	Geographical 717 730	North America
+T14	Food 761 768	seafood
+T15	HostPart 840 844	skin
+T16	HostPart 853 863	open wound
+T17	Water 878 891	warm seawater
+*	Equiv T1 T2
+*	Equiv T1 T8
+*	Equiv T1 T10
+*	Equiv T3 T11
+E1	Localization Bacterium:T1 Localization:T12
+E2	Localization Bacterium:T1 Localization:T9
+E3	Localization Bacterium:T1 Localization:T15
+E4	Localization Bacterium:T1 Localization:T13
+E5	Localization Bacterium:T1 Localization:T17
+E6	Localization Bacterium:T4 Localization:T6
+E7	Localization Bacterium:T1 Localization:T3
+E8	Localization Bacterium:T1 Localization:T16
+E9	Localization Bacterium:T4 Localization:T5
+E10	Localization Bacterium:T4 Localization:T7
+E11	Localization Bacterium:T1 Localization:T14

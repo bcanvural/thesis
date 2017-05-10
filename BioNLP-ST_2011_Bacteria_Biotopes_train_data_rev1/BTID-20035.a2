@@ -1,0 +1,29 @@
+T1	Bacterium 0 30	Burkholderia phytofirmans PsJN
+T2	Bacterium 31 70	Burkholderia phytofirmans strain PsJN T
+T3	Bacterium 86 105	beta-Proteobacteria
+T4	Host 167 203	Glomus vesiculiferum -infected onion
+T5	HostPart 204 209	roots
+T6	Soil 296 301	soils
+T7	HostPart 306 318	rhizospheres
+T8	Bacterium 656 660	PsJN
+T9	Host 678 684	plants
+T10	HostPart 711 723	rhizospheres
+T11	Host 798 804	potato
+T12	Host 806 812	tomato
+T13	Host 814 823	grapevine
+*	Equiv T1 T2
+*	Equiv T1 T8
+E1	Localization Bacterium:T1 Localization:T4
+E2	PartOf Host:T9 Part:T10
+E3	PartOf Host:T4 Part:T5
+E4	Localization Bacterium:T1 Localization:T11
+E5	Localization Bacterium:T1 Localization:T5
+E6	Localization Bacterium:T1 Localization:T13
+E7	Localization Bacterium:T3 Localization:T6
+E8	Localization Bacterium:T1 Localization:T10
+E9	Localization Bacterium:T1 Localization:T9
+E10	PartOf Host:T13 Part:T10
+E11	Localization Bacterium:T3 Localization:T7
+E12	PartOf Host:T11 Part:T10
+E13	PartOf Host:T12 Part:T10
+E14	Localization Bacterium:T1 Localization:T12

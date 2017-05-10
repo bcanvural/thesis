@@ -1,0 +1,4 @@
+E1	RegulonDependence Agent:T3 Target:T2
+E2	ActionTarget Action:T5 Target:T4
+E3	RegulonMember Regulon:T3 Member:T1
+E4	RegulonMember Regulon:T3 Member:T4

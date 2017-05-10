@@ -1,0 +1,100 @@
+T1	Bacterium 0 8	Bacillus
+T2	Bacterium 189 206	Bacillus subtilis
+T3	Bacterium 371 388	Bacillus subtilis
+T4	Bacterium 510 521	B. subtilis
+T5	Bacterium 537 548	B. subtilis
+T6	Host 1702 1708	insect
+T7	Bacterium 1718 1734	B. thuringiensis
+T8	Bacterium 1818 1826	Bacillus
+T9	Soil 1892 1896	soil
+T10	Host 1901 1908	insects
+T11	Host 1912 1918	humans
+T12	Bacterium 1920 1942	Bacillus thuringiensis
+T13	Host 1955 1962	insects
+T14	Bacterium 2084 2092	Bacillus
+T15	Environment 2097 2108	saprophytes
+T16	Soil 2139 2154	decaying matter
+T17	Bacterium 2177 2194	Bacillus subtilis
+T18	HostPart 2208 2219	rhizosphere
+T19	Host 2294 2300	plants
+T20	HostPart 3025 3028	ear
+T21	HostPart 3059 3072	urinary tract
+T22	Host 3144 3165	immunodeficient hosts
+T23	Host 3179 3196	compromised hosts
+T24	Bacterium 3387 3405	Bacillus anthracis
+T25	Host 3701 3705	cows
+T26	Host 3974 3984	herbivores
+T27	Environment 4033 4037	dust
+T28	Host 4068 4074	Humans
+T29	Host 4153 4158	human
+T30	Environment 4199 4213	dust particles
+T31	Host 4232 4238	animal
+T32	Environment 4242 4249	carcass
+T33	HostPart 4260 4263	cut
+T34	HostPart 4267 4275	abrasion
+T35	Geographical 4329 4338	worldwide
+T36	Food 4675 4679	meat
+T37	HostPart 4698 4715	intestinal mucosa
+T38	HostPart 4746 4752	mucosa
+T39	HostPart 4775 4782	lesions
+T40	HostPart 5000 5011	lymph nodes
+T41	HostPart 5076 5088	blood stream
+T42	HostPart 5093 5103	lymphatics
+T43	Bacterium 5416 5434	Bacillus anthracis
+T44	Bacterium 5574 5586	B. anthracis
+T45	Host 5748 5752	mice
+T46	Bacterium 6617 6628	B. subtilis
+*	Equiv T28 T29
+*	Equiv T7 T12
+*	Equiv T24 T43
+*	Equiv T24 T44
+*	Equiv T2 T3
+*	Equiv T2 T4
+*	Equiv T2 T5
+*	Equiv T2 T17
+*	Equiv T2 T46
+*	Equiv T15 T16
+*	Equiv T1 T8
+*	Equiv T1 T14
+*	Equiv T27 T30
+*	Equiv T37 T38
+E1	Localization Bacterium:T1 Localization:T15
+E2	Localization Bacterium:T1 Localization:T23
+E3	Localization Bacterium:T24 Localization:T27
+E4	Localization Bacterium:T24 Localization:T31
+E5	Localization Bacterium:T1 Localization:T20
+E6	Localization Bacterium:T24 Localization:T26
+E7	Localization Bacterium:T24 Localization:T36
+E8	PartOf Host:T19 Part:T18
+E9	Localization Bacterium:T1 Localization:T11
+E10	PartOf Host:T23 Part:T20
+E11	Localization Bacterium:T1 Localization:T10
+E12	Localization Bacterium:T2 Localization:T19
+E13	Localization Bacterium:T24 Localization:T42
+E14	PartOf Host:T28 Part:T39
+E15	PartOf Host:T28 Part:T42
+E16	Localization Bacterium:T24 Localization:T45
+E17	Localization Bacterium:T24 Localization:T34
+E18	Localization Bacterium:T24 Localization:T40
+E19	Localization Bacterium:T24 Localization:T37
+E20	Localization Bacterium:T24 Localization:T33
+E21	Localization Bacterium:T24 Localization:T32
+E22	Localization Bacterium:T24 Localization:T25
+E23	Localization Bacterium:T24 Localization:T35
+E24	Localization Bacterium:T24 Localization:T41
+E25	PartOf Host:T28 Part:T37
+E26	Localization Bacterium:T24 Localization:T39
+E27	PartOf Host:T28 Part:T40
+E28	Localization Bacterium:T7 Localization:T13
+E29	PartOf Host:T28 Part:T34
+E30	PartOf Host:T28 Part:T41
+E31	Localization Bacterium:T7 Localization:T6
+E32	Localization Bacterium:T24 Localization:T28
+E33	PartOf Host:T22 Part:T20
+E34	Localization Bacterium:T1 Localization:T9
+E35	Localization Bacterium:T1 Localization:T21
+E36	PartOf Host:T23 Part:T21
+E37	Localization Bacterium:T2 Localization:T18
+E38	PartOf Host:T22 Part:T21
+E39	PartOf Host:T28 Part:T33
+E40	Localization Bacterium:T1 Localization:T22

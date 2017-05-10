@@ -1,0 +1,42 @@
+T1	Transcription 27 40	transcription
+T2	Gene 44 48	phrC
+T3	Protein 50 56	sigmaH
+T4	Expression 76 86	expression
+T5	Gene 109 113	gene
+T6	Action 127 137	production
+T7	Protein 141 144	CSF
+W1	Word 0 2	In
+W2	Word 3 11	addition
+W3	Word 12 14	to
+W4	Word 15 26	controlling
+W5	Word 27 40	transcription
+W6	Word 41 43	of
+W7	Word 44 48	phrC
+W8	Word 50 56	sigmaH
+W9	Word 57 64	appears
+W10	Word 65 67	to
+W11	Word 68 75	control
+W12	Word 76 86	expression
+W13	Word 87 89	of
+W14	Word 90 92	at
+W15	Word 93 98	least
+W16	Word 99 102	one
+W17	Word 103 108	other
+W18	Word 109 113	gene
+W19	Word 114 122	required
+W20	Word 123 126	for
+W21	Word 127 137	production
+W22	Word 138 140	of
+W23	Word 141 144	CSF
+R1	comp:N-N(of) W12 W18
+R2	obj:V-N W4 W5
+R3	obj:V-N W11 W12
+R4	mod_att:N-ADJ W18 W16
+R5	comp:N-N(of) W5 W7
+R6	subj:V_PASS-N W19 W18
+R7	comp:N-N(of) W21 W23
+R8	comp:V-N(in) W9 W2
+R9	comp:N-V(to) W2 W4
+R10	subj:V-N W11 W8
+R11	subj:V-N W4 W8
+R12	comp:V_PASS-N(for) W19 W21

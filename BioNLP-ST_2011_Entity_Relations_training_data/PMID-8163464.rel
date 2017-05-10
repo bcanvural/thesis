@@ -1,0 +1,26 @@
+T1	Entity 65 107	Peroxisome proliferator-activated receptor
+T2	Entity 187 199	heterodimers
+T3	Entity 275 317	peroxisome proliferator-activated receptor
+T4	Entity 319 323	PPAR
+T5	Entity 414 417	THR
+T6	Entity 446 458	heterodimers
+T7	Entity 488 520	thyroid hormone response element
+T8	Entity 522 525	TRE
+T9	Entity 544 557	direct repeat
+T10	Entity 571 587	four nucleotides
+T11	Entity 589 593	DR+4
+T12	Entity 596 600	PPAR
+T13	Entity 645 660	thyroid hormone
+T14	Entity 662 664	TH
+T15	Entity 685 687	TH
+T16	Entity 758 771	THR beta-PPAR
+T17	Entity 784 810	THR alpha-PPAR heterodimer
+T18	Entity 824 827	TRE
+T19	Entity 829 833	DR+2
+T20	Entity 884 895	amino acids
+T21	Entity 903 913	distal box
+T22	Entity 921 939	DNA binding domain
+T23	Entity 948 952	PPAR
+T24	Entity 992 994	TH
+T25	Entity 1015 1018	TRE
+T26	Entity 1033 1036	THR

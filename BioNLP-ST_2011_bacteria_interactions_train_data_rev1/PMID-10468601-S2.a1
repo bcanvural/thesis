@@ -1,0 +1,65 @@
+T1	Protein 26 35	sigma(54)
+T2	GeneFamily 46 51	genes
+T3	Gene 53 57	rocG
+T4	Site 65 68	UAS
+T5	Gene 79 82	its
+T6	Expression 83 93	expression
+T7	Site 107 115	sequence
+T8	Gene 156 160	rocG
+T9	Promoter 161 169	promoter
+T10	Gene 193 211	rocG coding region
+W1	Word 0 6	Unlike
+W2	Word 7 10	the
+W3	Word 11 15	case
+W4	Word 16 19	for
+W5	Word 20 25	other
+W6	Word 26 35	sigma(54)
+W7	Word 36 45	dependent
+W8	Word 46 51	genes
+W9	Word 53 57	rocG
+W10	Word 58 61	has
+W11	Word 62 64	no
+W12	Word 65 68	UAS
+W13	Word 70 77	instead
+W14	Word 79 82	its
+W15	Word 83 93	expression
+W16	Word 94 101	depends
+W17	Word 102 104	on
+W18	Word 105 106	a
+W19	Word 107 115	sequence
+W20	Word 116 123	located
+W21	Word 124 127	1.5
+W22	Word 128 137	kilobases
+W23	Word 138 148	downstream
+W24	Word 149 151	of
+W25	Word 152 155	the
+W26	Word 156 160	rocG
+W27	Word 161 169	promoter
+W28	Word 171 177	beyond
+W29	Word 178 181	the
+W30	Word 182 185	end
+W31	Word 186 188	of
+W32	Word 189 192	the
+W33	Word 193 197	rocG
+W34	Word 198 204	coding
+W35	Word 205 211	region
+R1	mod_att:N-ADJ W8 W7
+R2	comp:V_PASS-N(beyond) W20 W30
+R3	mod:V-ADV W16 W13
+R4	mod_att:N-ADJ W22 W21
+R5	comp:N-N(of) W30 W35
+R6	neg W12 W11
+R7	obj:V-N W10 W12
+R8	mod:V_PASS-ADV W20 W23
+R9	comp:N-N(for) W3 W8
+R10	subj:V_PASS-N W20 W19
+R11	mod_att:N-N W35 W33
+R12	mod:ADJ-N W7 W6
+R13	obj:V_PASS-N W20 W22
+R14	subj:V-N W16 W15
+R15	mod_att:N-N W27 W26
+R16	comp:ADV-N(of) W23 W27
+R17	subj:V-N W10 W9
+R18	mod_att:N-ADJ W35 W34
+R19	comp:V-N(unlike) W10 W3
+R20	comp:V-N(on) W16 W19

@@ -1,0 +1,29 @@
+T1	Gene 6 11	genes
+T2	Gene 19 23	rocD
+T3	Gene 25 29	rocE
+T4	Gene 34 38	rocF
+T5	Gene 59 63	rocR
+W1	Word 0 5	Three
+W2	Word 6 11	genes
+W3	Word 12 18	called
+W4	Word 19 23	rocD
+W5	Word 25 29	rocE
+W6	Word 30 33	and
+W7	Word 34 38	rocF
+W8	Word 39 43	were
+W9	Word 44 49	found
+W10	Word 50 54	near
+W11	Word 55 58	the
+W12	Word 59 63	rocR
+W13	Word 64 68	gene
+W14	Word 69 71	in
+W15	Word 72 83	B. subtilis
+R1	obj:V-N W3 W7
+R2	obj:V-N W3 W4
+R3	comp:V_PASS-N(near) W9 W13
+R4	mod_att:N-ADJ W2 W1
+R5	subj:V_PASS-N W9 W2
+R6	subj:V-N W3 W2
+R7	mod_att:N-N W13 W12
+R8	comp:V_PASS-N(in) W9 W15
+R9	obj:V-N W3 W5

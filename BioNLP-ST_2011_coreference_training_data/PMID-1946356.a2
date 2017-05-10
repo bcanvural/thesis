@@ -1,0 +1,12 @@
+T7	Exp 143 158	monocytic cells	153 158	cells
+T8	Exp 213 218	their
+T9	Exp 691 736	the 65-kDa plus 50-kDa NF-kappa B heterodimer	725 736	heterodimer
+T10	Exp 913 935	these nuclear extracts
+T11	Exp 970 975	their
+T12	Exp 992 1007	the heterodimer
+T13	Exp 1121 1132	these cells
+T14	Exp 1133 1137	that
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T12 Antecedent:T9	[T3, T4]
+R4	Coref Anaphora:T14 Antecedent:T13

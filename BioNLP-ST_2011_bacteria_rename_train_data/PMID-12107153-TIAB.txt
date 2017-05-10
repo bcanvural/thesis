@@ -1,0 +1,2 @@
+Characterization of a Bacillus subtilis thermosensitive teichoic acid-deficient mutant: gene mnaA (yvyH) encodes the UDP-N-acetylglucosamine 2-epimerase.
+The Bacillus subtilis thermosensitive mutant ts-21 bears two C-G-->T-A transitions in the mnaA gene. At the nonpermissive temperature it is characterized by coccoid cell morphology and reduced cell wall phosphate content. MnaA converts UDP-N-acetylglucosamine into UDP-N-acetylmannosamine, a precursor of the teichoic acid linkage unit.

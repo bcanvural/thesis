@@ -1,0 +1,14 @@
+T24	Exp 16 58	the interleukin-13 and interleukin-4 genes	53 58	genes
+T25	Exp 75 80	their
+T26	Exp 193 222	cytokines produced by T cells	193 202	cytokines
+T27	Exp 223 227	that
+T28	Exp 377 397	the human IL-13 gene
+T29	Exp 408 411	its
+T30	Exp 495 498	its
+T31	Exp 1265 1270	cells
+T32	Exp 1271 1275	that
+R1	Coref Anaphora:T25 Antecedent:T24	[T1, T2]
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28	[T7]
+R4	Coref Anaphora:T30 Antecedent:T28	[T7]
+R5	Coref Anaphora:T32 Antecedent:T31

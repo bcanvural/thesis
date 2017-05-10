@@ -1,0 +1,41 @@
+T1	GeneComplex 45 49	cwlB
+T2	Transcription 60 71	transcribed
+T3	PolymeraseComplex 75 84	E sigma D
+T4	PolymeraseComplex 89 98	E sigma A
+T5	GeneProduct 104 122	former transcripts
+W1	Word 0 6	Primer
+W2	Word 7 16	extension
+W3	Word 17 25	analysis
+W4	Word 26 35	suggested
+W5	Word 36 40	that
+W6	Word 41 44	the
+W7	Word 45 49	cwlB
+W8	Word 50 56	operon
+W9	Word 57 59	is
+W10	Word 60 71	transcribed
+W11	Word 72 74	by
+W12	Word 75 84	E sigma D
+W13	Word 85 88	and
+W14	Word 89 98	E sigma A
+W15	Word 100 103	the
+W16	Word 104 110	former
+W17	Word 111 122	transcripts
+W18	Word 123 128	being
+W19	Word 129 141	predominants
+W20	Word 142 144	at
+W21	Word 145 148	the
+W22	Word 149 160	exponential
+W23	Word 161 167	growth
+W24	Word 168 173	phase
+R1	comp:V_PASS-N(by) W10 W14
+R2	mod_att:N-N W2 W1
+R3	comp:V_PASS-N(by) W10 W12
+R4	mod_att:N-N W24 W23
+R5	mod_att:N-N W3 W2
+R6	subj:V_PASS-N W10 W8
+R7	comp:N-N(at) W19 W24
+R8	mod_pred:N-N W17 W19
+R9	mod_att:N-ADJ W23 W22
+R10	mod_att:N-N W8 W7
+R11	subj:V-N W4 W3
+R12	mod_att:N-ADJ W17 W16

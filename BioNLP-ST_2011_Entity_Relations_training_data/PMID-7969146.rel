@@ -1,0 +1,23 @@
+T12	Entity 20 26	region
+T13	Entity 147 155	promoter
+T14	Entity 498 522	tissue-specific promoter
+T15	Entity 752 760	promoter
+T16	Entity 796 805	region II
+T17	Entity 835 849	10 bp upstream
+T18	Entity 863 876	-binding site
+T19	Entity 915 924	region II
+T20	Entity 1027 1036	region II
+T21	Entity 1108 1127	gel shift complexes
+T22	Entity 1129 1135	Mono A
+T23	Entity 1140 1146	Mono B
+T24	Entity 1174 1191	sequence elements
+T25	Entity 1265 1271	Mono B
+T26	Entity 1421 1427	Mono A
+T27	Entity 1622 1662	multimerized region II sequence elements
+T28	Entity 1635 1644	region II
+T29	Entity 1690 1728	heterologous thymidine kinase promoter
+T30	Entity 1872 1878	Mono A
+T31	Entity 1883 1907	Mono B protein complexes
+R1	Protein-Component Arg1:T1 Arg2:T13
+R2	Protein-Component Arg1:T6 Arg2:T14
+R3	Subunit-Complex Arg1:T9 Arg2:T25

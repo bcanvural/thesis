@@ -1,0 +1,17 @@
+T2	Entity 18 27	NF-kappaB
+T3	Entity 124 145	double NF-kappaB site
+T4	Entity 131 140	NF-kappaB
+T5	Entity 164 167	LTR
+T6	Entity 367 376	complexes
+T7	Entity 392 412	HIV-1 NF-kappaB site
+T8	Entity 398 407	NF-kappaB
+T9	Entity 501 520	NF-kappaB complexes
+T10	Entity 810 828	multiple complexes
+T11	Entity 848 867	NF-kappaB complexes
+T12	Entity 931 962	NF-kappaB DNA-binding complexes
+T13	Entity 931 940	NF-kappaB
+T14	Entity 941 944	DNA
+T15	Entity 1134 1163	NF-kappaB DNA-binding complex
+T16	Entity 1134 1143	NF-kappaB
+T17	Entity 1144 1147	DNA
+R1	Subunit-Complex Arg1:T1 Arg2:T10

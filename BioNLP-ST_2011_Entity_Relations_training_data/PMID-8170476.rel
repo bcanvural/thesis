@@ -1,0 +1,9 @@
+*	Equiv T4 T2
+*	Equiv T5 T3
+T24	Entity 1173 1178	IEF-1
+T25	Entity 1182 1224	pancreatic beta-cell type-specific complex
+T26	Entity 1495 1504	complexes
+T27	Entity 1600 1628	cell type-specific complexes
+R1	Subunit-Complex Arg1:T23 Arg2:T27
+R2	Subunit-Complex Arg1:T21 Arg2:T26
+R3	Subunit-Complex Arg1:T22 Arg2:T26

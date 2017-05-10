@@ -1,0 +1,20 @@
+T2	Entity 18 60	human TR2 orphan receptor response element
+T3	Entity 68 99	transcriptional initiation site
+T4	Entity 107 142	simian virus 40 major late promoter
+T5	Entity 214 234	DNA response element
+T6	Entity 236 246	TR2RE-SV40
+T7	Entity 366 399	simian virus 40 (SV40) +55 region
+T8	Entity 401 427	nucleotide numbers 368-389
+T9	Entity 429 457	5'-GTTAAGGTTCGTAGGTCATGGA-3'
+T10	Entity 670 682	DNA sequence
+T11	Entity 826 845	SV40 early promoter
+T12	Entity 879 889	TR2RE-SV40
+T13	Entity 935 953	DNA-binding domain
+T14	Entity 935 938	DNA
+T15	Entity 996 1006	N-terminal
+T16	Entity 1011 1035	androgen-binding domains
+T17	Entity 1080 1090	TR2RE-SV40
+T18	Entity 1190 1199	promoters
+T19	Entity 1234 1244	TR2RE-SV40
+T20	Entity 1288 1308	DNA response element
+T21	Entity 1378 1387	SV40 gene

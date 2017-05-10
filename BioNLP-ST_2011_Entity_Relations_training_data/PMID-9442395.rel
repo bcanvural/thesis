@@ -1,0 +1,12 @@
+T6	Entity 69 92	3' locus control region
+T7	Entity 122 143	downstream 3' regions
+T8	Entity 156 176	Locus Control Region
+T9	Entity 178 181	LCR
+T10	Entity 254 259	locus
+T11	Entity 322 325	LCR
+T12	Entity 380 385	3'LCR
+T13	Entity 466 489	5'LCR regulatory region
+T14	Entity 515 520	locus
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T5 Arg2:T13
+R3	Protein-Component Arg1:T3 Arg2:T12

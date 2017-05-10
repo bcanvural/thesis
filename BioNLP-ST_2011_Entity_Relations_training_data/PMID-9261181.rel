@@ -1,0 +1,10 @@
+*	Equiv T3 T4
+T21	Entity 630 638	promoter
+T22	Entity 863 867	site
+T23	Entity 890 894	cAMP
+T24	Entity 912 920	promoter
+T25	Entity 1058 1066	promoter
+R1	Protein-Component Arg1:T8 Arg2:T21
+R2	Protein-Component Arg1:T12 Arg2:T22
+R3	Protein-Component Arg1:T12 Arg2:T24
+R4	Protein-Component Arg1:T15 Arg2:T25

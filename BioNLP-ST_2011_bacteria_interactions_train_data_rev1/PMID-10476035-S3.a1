@@ -1,0 +1,64 @@
+T1	Protein 0 6	sigmaF
+T2	Protein 58 75	anti-sigma factor
+T3	Protein 77 84	SpoIIAB
+T4	Protein 89 111	anti-anti-sigma factor
+T5	Protein 113 120	SpoIIAA
+T6	Protein 128 154	membrane-bound phosphatase
+T7	Protein 156 162	SpoIIE
+T8	Protein 193 223	phosphorylated form of SpoIIAA
+T9	Protein 236 247	active form
+W1	Word 0 6	sigmaF
+W2	Word 7 9	is
+W3	Word 10 20	controlled
+W4	Word 21 23	by
+W5	Word 24 25	a
+W6	Word 26 36	regulatory
+W7	Word 37 44	cascade
+W8	Word 45 54	involving
+W9	Word 55 57	an
+W10	Word 58 68	anti-sigma
+W11	Word 69 75	factor
+W12	Word 77 84	SpoIIAB
+W13	Word 86 88	an
+W14	Word 89 104	anti-anti-sigma
+W15	Word 105 111	factor
+W16	Word 113 120	SpoIIAA
+W17	Word 122 125	and
+W18	Word 126 127	a
+W19	Word 128 142	membrane-bound
+W20	Word 143 154	phosphatase
+W21	Word 156 162	SpoIIE
+W22	Word 164 169	which
+W23	Word 170 178	converts
+W24	Word 179 182	the
+W25	Word 183 191	inactive
+W26	Word 193 207	phosphorylated
+W27	Word 208 212	form
+W28	Word 213 215	of
+W29	Word 216 223	SpoIIAA
+W30	Word 224 228	back
+W31	Word 229 231	to
+W32	Word 232 235	the
+W33	Word 236 242	active
+W34	Word 243 247	form
+R1	mod_att:N-ADJ W20 W19
+R2	mod_att:N-ADJ W27 W26
+R3	comp:ADV-N(to) W30 W34
+R4	comp:N-N(of) W27 W29
+R5	mod_att:N-ADJ W34 W33
+R6	subj:V-N W23 W21
+R7	appos W15 W16
+R8	mod:V-ADV W23 W30
+R9	subj:V-N W8 W7
+R10	appos W20 W21
+R11	subj:V_PASS-N W3 W1
+R12	obj:V-N W8 W15
+R13	obj:V-N W23 W27
+R14	mod_att:N-ADJ W11 W10
+R15	mod_att:N-ADJ W15 W14
+R16	obj:V-N W8 W11
+R17	appos W11 W12
+R18	comp:V_PASS-N(by) W3 W7
+R19	mod_att:N-ADJ W7 W6
+R20	mod_att:N-ADJ W27 W25
+R21	obj:V-N W8 W20

@@ -1,0 +1,6 @@
+T19	Exp 79 83	CD14
+T20	Exp 168 171	its
+T21	Exp 1359 1380	a 105-kDa Sp1 species	1373 1380	species
+T22	Exp 1382 1387	which
+R1	Coref Anaphora:T20 Antecedent:T19	[T3]
+R2	Coref Anaphora:T22 Antecedent:T21	[T16]

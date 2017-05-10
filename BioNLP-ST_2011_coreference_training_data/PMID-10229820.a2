@@ -1,0 +1,12 @@
+T25	Exp 686 700	Jurkat T cells	695 700	cells
+T26	Exp 701 705	that
+T27	Exp 828 843	a second signal	837 843	signal
+T28	Exp 844 848	that
+T29	Exp 1405 1417	an inhibitor
+T30	Exp 1418 1422	that
+T31	Exp 1592 1612	The signaling events	1606 1612	events
+T32	Exp 1613 1617	that
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29
+R4	Coref Anaphora:T32 Antecedent:T31

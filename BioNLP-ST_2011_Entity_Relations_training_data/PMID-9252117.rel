@@ -1,0 +1,11 @@
+*	Equiv T3 T4
+T18	Entity 52 105	endogenous immunoglobulin surrogate light chain genes
+T19	Entity 347 365	covalent homodimer
+T20	Entity 529 582	endogenous immunoglobulin surrogate light chain genes
+T21	Entity 617 642	pre-B cell-specific genes
+T22	Entity 702 715	binding sites
+T23	Entity 747 771	promoter/enhancer region
+T24	Entity 957 962	genes
+R1	Subunit-Complex Arg1:T7 Arg2:T19
+R2	Protein-Component Arg1:T14 Arg2:T22
+R3	Protein-Component Arg1:T14 Arg2:T23

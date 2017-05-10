@@ -1,0 +1,3 @@
+T1	Exp 328 347	viral transcription	334 347	transcription
+T2	Exp 348 352	that
+R1	Coref Anaphora:T2 Antecedent:T1

@@ -1,0 +1,8 @@
+T17	Exp 84 115	Transcription factor NF-kappa B	98 104	factor
+T18	Exp 232 235	its
+T19	Exp 582 616	I kappa B alpha and I kappa B beta
+T20	Exp 651 664	Both proteins	656 664	proteins
+T21	Exp 791 806	both inhibitors	796 806	inhibitors
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19	[T3, T4]
+R3	Coref Anaphora:T21 Antecedent:T19	[T3, T4]

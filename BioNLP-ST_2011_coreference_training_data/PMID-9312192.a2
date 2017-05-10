@@ -1,0 +1,9 @@
+T5	Exp 0 8	Evidence
+T6	Exp 9 13	that
+T7	Exp 536 567	the downstream signaling events	561 567	events
+T8	Exp 568 572	that
+T9	Exp 1177 1191	the conclusion
+T10	Exp 1192 1196	that
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9

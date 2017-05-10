@@ -1,0 +1,12 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9 T10 T11 T12
+*	Equiv T21 T22
+T42	Entity 152 170	regulatory element
+T43	Entity 172 176	FLRE
+T44	Entity 203 211	promoter
+T45	Entity 620 624	FLRE
+T46	Entity 824 828	FLRE
+T47	Entity 1512 1538	Egr family binding element
+R1	Protein-Component Arg1:T3 Arg2:T42
+R2	Protein-Component Arg1:T4 Arg2:T44

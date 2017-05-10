@@ -1,0 +1,64 @@
+T1	Expression 16 26	expression
+T2	Gene 34 40	spoIIG
+T3	Transcription 53 66	transcription
+T4	Protein 83 91	sigma(A)
+T5	Protein 100 120	phosphorylated Spo0A
+T6	Protein 130 137	Spo0A~P
+T7	Protein 141 167	major transcription factor
+W1	Word 0 2	In
+W2	Word 3 7	this
+W3	Word 8 14	mutant
+W4	Word 16 26	expression
+W5	Word 27 29	of
+W6	Word 30 33	the
+W7	Word 34 40	spoIIG
+W8	Word 41 45	gene
+W9	Word 47 52	whose
+W10	Word 53 66	transcription
+W11	Word 67 74	depends
+W12	Word 75 77	on
+W13	Word 78 82	both
+W14	Word 83 91	sigma(A)
+W15	Word 92 95	and
+W16	Word 96 99	the
+W17	Word 100 114	phosphorylated
+W18	Word 115 120	Spo0A
+W19	Word 121 128	protein
+W20	Word 130 137	Spo0A~P
+W21	Word 139 140	a
+W22	Word 141 146	major
+W23	Word 147 160	transcription
+W24	Word 161 167	factor
+W25	Word 168 174	during
+W26	Word 175 180	early
+W27	Word 181 187	stages
+W28	Word 188 190	of
+W29	Word 191 202	sporulation
+W30	Word 204 207	was
+W31	Word 208 215	greatly
+W32	Word 216 223	reduced
+W33	Word 224 226	at
+W34	Word 227 229	43
+W35	Word 230 237	degrees
+W36	Word 238 239	C
+R1	mod_att:N-N W19 W18
+R2	mod_att:N-N W8 W7
+R3	comp:V-N(on) W11 W19
+R4	comp:V_PASS-N(in) W32 W3
+R5	mod:V_PASS-ADV W32 W31
+R6	mod_att:N-ADJ W27 W26
+R7	comp:N-N(during) W24 W27
+R8	comp:N-N(of) W27 W29
+R9	mod_att:N-ADJ W24 W22
+R10	comp:N-N(of) W10 W8
+R11	mod_att:N-N W35 W36
+R12	subj:V_PASS-N W32 W4
+R13	subj:V-N W11 W10
+R14	mod_att:N-ADJ W35 W34
+R15	comp:V_PASS-N(at) W32 W35
+R16	mod_att:N-N W24 W23
+R17	appos W19 W20
+R18	mod_att:N-ADJ W19 W17
+R19	comp:V-N(on) W11 W14
+R20	appos W20 W24
+R21	comp:N-N(of) W4 W8

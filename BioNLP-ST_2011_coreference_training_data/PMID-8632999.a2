@@ -1,0 +1,11 @@
+T3	Exp 885 898	the mechanism	889 898	mechanism
+T4	Exp 902 907	which
+T5	Exp 970 972	it
+T6	Exp 1616 1628	the TNF gene
+T7	Exp 1629 1633	that
+T8	Exp 1807 1845	Identification of the molecular target	1839 1845	target
+T9	Exp 1854 1859	which
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T5 Antecedent:T3
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T9 Antecedent:T8

@@ -1,0 +1,6 @@
+T14	Exp 1019 1023	IL-6
+T15	Exp 1053 1065	this protein
+T16	Exp 1113 1142	a supernatant from the B line	1115 1126	supernatant
+T17	Exp 1144 1149	which
+R1	Coref Anaphora:T15 Antecedent:T14	[T12]
+R2	Coref Anaphora:T17 Antecedent:T16

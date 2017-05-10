@@ -1,0 +1,9 @@
+T7	Exp 484 507	M2 leukemic blast cells	502 507	cells
+T8	Exp 535 539	they
+T9	Exp 1034 1037	VDR
+T10	Exp 1100 1102	it
+T11	Exp 1486 1509	The molecular mechanism	1500 1509	mechanism
+T12	Exp 1513 1518	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9	[T4]
+R3	Coref Anaphora:T12 Antecedent:T11

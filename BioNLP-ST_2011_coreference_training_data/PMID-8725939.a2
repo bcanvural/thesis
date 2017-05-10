@@ -1,0 +1,3 @@
+T1	Exp 282 339	interactions between transcription factors in lymphocytes	282 294	interactions
+T2	Exp 340 344	that
+R1	Coref Anaphora:T2 Antecedent:T1

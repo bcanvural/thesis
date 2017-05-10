@@ -1,0 +1,3 @@
+T15	Exp 1407 1410	LIF
+T16	Exp 1470 1473	its
+R1	Coref Anaphora:T16 Antecedent:T15	[T12]

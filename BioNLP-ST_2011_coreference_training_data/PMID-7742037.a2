@@ -1,0 +1,3 @@
+T9	Exp 330 354	the NF-kappa B precursor	345 354	precursor
+T10	Exp 358 361	its
+R1	Coref Anaphora:T10 Antecedent:T9

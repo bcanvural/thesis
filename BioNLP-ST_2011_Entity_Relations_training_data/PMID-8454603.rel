@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T19	Entity 325 333	receptor
+T20	Entity 640 647	octamer
+T21	Entity 760 776	specific regions
+T22	Entity 802 822	5'-flanking sequence
+T23	Entity 863 875	-107 and -59
+T24	Entity 887 895	promoter
+T25	Entity 929 943	binding motifs
+R1	Protein-Component Arg1:T11 Arg2:T21
+R2	Protein-Component Arg1:T10 Arg2:T21
+R3	Protein-Component Arg1:T11 Arg2:T22
+R4	Protein-Component Arg1:T12 Arg2:T23
+R5	Protein-Component Arg1:T12 Arg2:T25
+R6	Protein-Component Arg1:T12 Arg2:T24

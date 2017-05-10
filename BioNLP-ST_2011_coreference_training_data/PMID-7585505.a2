@@ -1,0 +1,6 @@
+T7	Exp 627 642	four cell genes	637 642	genes
+T8	Exp 644 680	cdc-2, cyclin E, CD23, and cyclin D2
+T9	Exp 775 786	these genes	781 786	genes
+T10	Exp 1071 1090	the same four genes	1085 1090	genes
+R1	Coref Anaphora:T9 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9

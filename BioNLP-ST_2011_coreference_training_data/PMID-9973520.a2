@@ -1,0 +1,9 @@
+T20	Exp 73 77	CD44
+T21	Exp 189 192	its
+T22	Exp 625 629	CD44
+T23	Exp 687 690	its
+T24	Exp 1122 1179	VCAM-1 expression and VCAM-1-mediated adhesion to T cells
+T25	Exp 1181 1186	which
+R1	Coref Anaphora:T21 Antecedent:T20	[T3]
+R2	Coref Anaphora:T23 Antecedent:T22	[T9]
+R3	Coref Anaphora:T25 Antecedent:T24	[T19, T18]

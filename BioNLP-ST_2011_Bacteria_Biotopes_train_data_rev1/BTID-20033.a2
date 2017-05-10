@@ -1,0 +1,50 @@
+T1	Bacterium 36 48	Burkholderia
+T2	Water 129 134	water
+T3	Soil 139 143	soil
+T4	Bacterium 275 287	Burkholderia
+T5	Soil 322 326	soil
+T6	HostPart 330 341	rhizosphere
+T7	HostPart 343 352	root zone
+T8	Water 357 362	water
+T9	Host 393 399	plants
+T10	Host 404 411	animals
+T11	HostPart 425 440	intracellularly
+T12	Host 444 451	amoebas
+T13	Bacterium 992 1004	Burkholderia
+T14	HostPart 1097 1108	rhizosphere
+T15	Host 1112 1118	plants
+T16	Bacterium 1397 1409	Burkholderia
+T17	Geographical 1511 1529	western hemisphere
+T18	Geographical 1535 1552	Amazon rainforest
+T19	Environment 1561 1568	Cerrado
+T20	Environment 1570 1588	Brazilian savannah
+T21	Geographical 1778 1796	Amazon rain forest
+T22	Environment 1817 1824	Cerrado
+T23	Host 1856 1861	grass
+T24	HostPart 1862 1866	root
+*	Equiv T3 T5
+*	Equiv T6 T7
+*	Equiv T6 T14
+*	Equiv T1 T4
+*	Equiv T1 T13
+*	Equiv T1 T16
+*	Equiv T2 T8
+*	Equiv T18 T21
+*	Equiv T19 T20
+*	Equiv T19 T22
+*	Equiv T9 T15
+E1	Localization Bacterium:T1 Localization:T17
+E2	Localization Bacterium:T1 Localization:T19
+E3	PartOf Host:T23 Part:T24
+E4	Localization Bacterium:T1 Localization:T9
+E5	Localization Bacterium:T1 Localization:T23
+E6	PartOf Host:T9 Part:T6
+E7	Localization Bacterium:T1 Localization:T18
+E8	PartOf Host:T12 Part:T11
+E9	Localization Bacterium:T1 Localization:T10
+E10	Localization Bacterium:T1 Localization:T12
+E11	Localization Bacterium:T1 Localization:T3
+E12	Localization Bacterium:T1 Localization:T6
+E13	Localization Bacterium:T1 Localization:T24
+E14	Localization Bacterium:T1 Localization:T11
+E15	Localization Bacterium:T1 Localization:T2

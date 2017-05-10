@@ -1,0 +1,35 @@
+*	Equiv T3 T4
+T15	Entity 76 84	promoter
+T16	Entity 113 128	binding element
+T17	Entity 259 278	Ig gene superfamily
+T18	Entity 451 469	5'-flanking region
+T19	Entity 559 568	cDNA ends
+T20	Entity 570 577	5'-RACE
+T21	Entity 699 714	204 bp upstream
+T22	Entity 724 746	translation start site
+T23	Entity 803 832	transcription initiation site
+T24	Entity 834 837	TIS
+T25	Entity 859 863	TATA
+T26	Entity 867 880	CAAT elements
+T27	Entity 929 948	TATA-less promoters
+T28	Entity 965 968	TIS
+T29	Entity 1000 1017	promoter segments
+T30	Entity 1039 1058	luciferase reporter
+T31	Entity 1140 1167	cis-acting control elements
+T32	Entity 1185 1205	300-bp core promoter
+T33	Entity 1223 1228	sites
+T34	Entity 1237 1241	site
+T35	Entity 1250 1263	E-box domains
+T36	Entity 1269 1290	GATA-associated sites
+T37	Entity 1292 1297	CACCC
+T38	Entity 1308 1320	binding site
+T39	Entity 1328 1340	GATA element
+T40	Entity 1344 1347	-24
+T41	Entity 1427 1440	GATA sequence
+T42	Entity 1453 1456	-24
+T43	Entity 1584 1592	promoter
+T44	Entity 1758 1780	vascular-specific gene
+R1	Protein-Component Arg1:T1 Arg2:T15
+R2	Protein-Component Arg1:T6 Arg2:T18
+R3	Protein-Component Arg1:T7 Arg2:T29
+R4	Protein-Component Arg1:T13 Arg2:T43

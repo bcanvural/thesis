@@ -1,0 +1,12 @@
+T18	Exp 108 141	Early B cell factor (EBF) and E47
+T19	Exp 272 299	these transcription factors	278 299	transcription factors
+T20	Exp 323 372	cDNAs encoding EBF or a covalent homodimer of E47
+T21	Exp 405 439	immature hematopoietic Ba/F3 cells	434 439	cells
+T22	Exp 441 446	which
+T23	Exp 452 464	both factors	457 464	factors
+T24	Exp 957 962	genes
+T25	Exp 963 967	that
+R1	Coref Anaphora:T19 Antecedent:T18	[T5, T3, T4]
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T23 Antecedent:T20	[T6, T7]
+R4	Coref Anaphora:T25 Antecedent:T24

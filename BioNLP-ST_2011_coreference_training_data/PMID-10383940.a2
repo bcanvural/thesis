@@ -1,0 +1,9 @@
+T18	Exp 88 152	Human monocytes isolated from peripheral blood of healthy donors	94 103	monocytes
+T19	Exp 253 258	their
+T20	Exp 740 745	genes
+T21	Exp 746 751	which
+T22	Exp 1442 1473	transforming growth factor-beta	1462 1473	factor-beta
+T23	Exp 1475 1480	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22

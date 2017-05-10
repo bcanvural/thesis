@@ -1,0 +1,15 @@
+T10	Exp 272 292	a new analogue of UP	278 286	analogue
+T11	Exp 305 310	which
+T12	Exp 851 877	several molecular pathways	869 877	pathways
+T13	Exp 878 882	that
+T14	Exp 1245 1261	PNU156804 action	1255 1261	action
+T15	Exp 1304 1306	it
+T16	Exp 1323 1344	NF-kappa B activation	1334 1344	activation
+T17	Exp 1374 1378	that
+T18	Exp 1508 1517	molecules
+T19	Exp 1518 1522	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T15 Antecedent:T14
+R4	Coref Anaphora:T17 Antecedent:T16
+R5	Coref Anaphora:T19 Antecedent:T18

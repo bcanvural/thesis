@@ -1,0 +1,9 @@
+T24	Exp 142 191	Bruton's agammaglobulinemia tyrosine kinase (Btk)
+T25	Exp 290 298	The gene
+T26	Exp 973 995	the T-cell line Jurkat
+T27	Exp 997 1002	where
+T28	Exp 1145 1157	PU.1-/- mice	1153 1157	mice
+T29	Exp 1159 1164	which
+R1	Coref Anaphora:T25 Antecedent:T24	[T7, T6]
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28	[T19]

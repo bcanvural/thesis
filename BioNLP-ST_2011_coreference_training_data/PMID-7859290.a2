@@ -1,0 +1,9 @@
+T16	Exp 7 42	a novel B cell-specific coactivator
+T17	Exp 43 47	that
+T18	Exp 491 506	a novel protein
+T19	Exp 507 511	that
+T20	Exp 654 669	the POU domains
+T21	Exp 698 703	those
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20

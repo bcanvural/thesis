@@ -1,0 +1,9 @@
+T13	Exp 869 889	the enhancer element
+T14	Exp 890 894	that
+T15	Exp 1033 1110	human macrophages (e.g., an LPS-inducible nuclear factor-kappa B/Rel complex)
+T16	Exp 1112 1116	that
+T17	Exp 1304 1326	alternative mechanisms	1316 1326	mechanisms
+T18	Exp 1327 1331	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17

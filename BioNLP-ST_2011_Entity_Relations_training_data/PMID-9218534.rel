@@ -1,0 +1,20 @@
+T4	Entity 12 18	X2 box
+T5	Entity 55 67	DRA promoter
+T6	Entity 140 146	X2 box
+T7	Entity 154 162	promoter
+T8	Entity 170 182	HLA-DRA gene
+T9	Entity 271 276	NF-X2
+T10	Entity 376 382	X2 box
+T11	Entity 384 397	5'-TGCGTCA-3'
+T12	Entity 432 444	DRA promoter
+T13	Entity 497 503	X2 box
+T14	Entity 655 661	X2 box
+T15	Entity 666 671	NF-X2
+T16	Entity 848 870	wild-type DRA promoter
+T17	Entity 886 898	DRA promoter
+T18	Entity 940 946	X2 box
+T19	Entity 1088 1096	DRA gene
+T20	Entity 1133 1139	X2 box
+T21	Entity 1144 1149	NF-X2
+R1	Subunit-Complex Arg1:T1 Arg2:T15
+R2	Subunit-Complex Arg1:T3 Arg2:T21

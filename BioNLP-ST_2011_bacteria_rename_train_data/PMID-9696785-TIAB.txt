@@ -1,0 +1,2 @@
+Identification and expression of the Bacillus subtilis fructose-1, 6-bisphosphatase gene (fbp).
+The Bacillus subtilis fbp gene encoding fructose-1,6-bisphosphatase (FBPase) was originally identified as yydE. The fbp gene was expressed at a fairly constant level in cells undergoing glycolysis or gluconeogenesis. fbp transcription was initiated 94 bp upstream of the translation initiation codon, resulting in a 2.4-kb monocistronic transcript. Interestingly, B. subtilis FBPase exhibited no significant similarity to other FBPases in protein sequence databases.

@@ -1,0 +1,5 @@
+T10	Entity 19 35	minimal promoter
+T11	Entity 180 185	genes
+T12	Entity 569 599	104-bp minimal promoter region
+R1	Protein-Component Arg1:T1 Arg2:T10
+R2	Protein-Component Arg1:T7 Arg2:T12

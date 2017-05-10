@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+T25	Entity 89 98	NF-kappaB
+T26	Entity 858 861	TCR
+T27	Entity 1222 1225	CD3
+T28	Entity 1242 1267	NF-kappaB binding complex
+T29	Entity 1322 1334	heterodimers
+T30	Entity 1537 1546	NF-kappaB
+T31	Entity 1653 1662	NF-kappaB
+T32	Entity 1870 1886	response complex
+R1	Subunit-Complex Arg1:T16 Arg2:T28
+R2	Subunit-Complex Arg1:T15 Arg2:T28
+R3	Subunit-Complex Arg1:T17 Arg2:T28
+R4	Subunit-Complex Arg1:T15 Arg2:T29
+R5	Subunit-Complex Arg1:T16 Arg2:T29
+R6	Subunit-Complex Arg1:T17 Arg2:T29

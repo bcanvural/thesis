@@ -1,0 +1,36 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T30	Entity 65 73	promoter
+T31	Entity 83 100	NF-kappaB p50-p65
+T32	Entity 622 630	promoter
+T33	Entity 925 952	sequential deletion mutants
+T34	Entity 970 978	promoter
+T35	Entity 1029 1043	47-bp sequence
+T36	Entity 1045 1067	positions -306 to -260
+T37	Entity 1084 1087	ATG
+T38	Entity 1194 1229	unrecognized composite binding site
+T39	Entity 1251 1260	NF-kappaB
+T40	Entity 1497 1519	NF-kappaB heterodimers
+T41	Entity 1550 1559	NF-kappaB
+T42	Entity 1750 1764	composite site
+T43	Entity 1786 1794	promoter
+T44	Entity 1839 1850	concatamers
+T45	Entity 1927 1953	native promoter constructs
+T46	Entity 2042 2061	guanine nucleotides
+T47	Entity 2080 2087	element
+T48	Entity 2159 2167	promoter
+R1	Protein-Component Arg1:T1 Arg2:T30
+R2	Subunit-Complex Arg1:T2 Arg2:T31
+R3	Subunit-Complex Arg1:T3 Arg2:T31
+R4	Protein-Component Arg1:T12 Arg2:T32
+R5	Protein-Component Arg1:T15 Arg2:T36
+R6	Protein-Component Arg1:T16 Arg2:T37
+R7	Protein-Component Arg1:T16 Arg2:T35
+R8	Protein-Component Arg1:T16 Arg2:T36
+R9	Protein-Component Arg1:T15 Arg2:T34
+R10	Subunit-Complex Arg1:T19 Arg2:T40
+R11	Subunit-Complex Arg1:T20 Arg2:T40
+R12	Protein-Component Arg1:T24 Arg2:T42
+R13	Protein-Component Arg1:T25 Arg2:T43
+R14	Protein-Component Arg1:T28 Arg2:T47
+R15	Protein-Component Arg1:T29 Arg2:T48

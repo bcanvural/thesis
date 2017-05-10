@@ -1,0 +1,5 @@
+E2	Interaction Agent:T6 Target:T1
+E3	TranscriptionBy Transcription:T5 Polymerase:T6
+E4	RegulonMember Regulon:T3 Member:T1
+E5	ActionTarget Action:T5 Target:T1
+E6	RegulonDependence Agent:T3 Target:T2

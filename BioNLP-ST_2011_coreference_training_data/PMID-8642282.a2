@@ -1,0 +1,17 @@
+T7	Exp 78 109	The costimulatory molecule B7.1
+T8	Exp 187 217	this integral membrane protein	210 217	protein
+T9	Exp 235 250	certain tissues	243 250	tissues
+T10	Exp 251 256	where
+T11	Exp 257 260	its
+T12	Exp 932 975	multiple functionally critical cis elements	967 975	elements
+T13	Exp 1003 1008	which
+T14	Exp 1013 1060	a nuclear factor (NF)-kappaB consensus sequence	1052 1060	sequence
+T15	Exp 1088 1100	this element
+T16	Exp 1302 1321	regulatory elements	1313 1321	elements
+T17	Exp 1322 1326	that
+R1	Coref Anaphora:T8 Antecedent:T7	[T2]
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T11 Antecedent:T8
+R4	Coref Anaphora:T13 Antecedent:T12
+R5	Coref Anaphora:T15 Antecedent:T14
+R6	Coref Anaphora:T17 Antecedent:T16

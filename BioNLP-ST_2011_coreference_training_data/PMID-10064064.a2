@@ -1,0 +1,9 @@
+T2	Exp 168 190	unrearranged IgH genes	185 190	genes
+T3	Exp 191 195	that
+T4	Exp 307 330	intervening (I) regions	323 330	regions
+T5	Exp 343 348	their
+T6	Exp 836 859	the molecular mechanism	850 859	mechanism
+T7	Exp 863 868	which
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

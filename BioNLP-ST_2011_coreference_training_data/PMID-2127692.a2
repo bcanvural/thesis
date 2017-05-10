@@ -1,0 +1,9 @@
+T6	Exp 276 372	exposure to dimethyl sulfoxide, to phorbol myristate acetate, or to the calcium ionophore A23187	276 284	exposure
+T7	Exp 374 379	which
+T8	Exp 911 914	one
+T9	Exp 915 920	which
+T10	Exp 940 943	one
+T11	Exp 944 949	which
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T11 Antecedent:T10

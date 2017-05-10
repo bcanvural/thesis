@@ -1,0 +1,16 @@
+T3	Exp 197 228	host-cell transcription factors	207 228	transcription factors
+T4	Exp 603 637	important transcriptional elements	629 637	elements
+T5	Exp 639 664	These regulatory elements	656 664	elements
+T6	Exp 1179 1200	a specific nucleosome	1190 1200	nucleosome
+T7	Exp 1201 1205	that
+T8	Exp 1373 1401	a downstream enhancer domain	1395 1401	domain
+T9	Exp 1402 1406	that
+T10	Exp 1591 1626	the host-cell transcription factors	1605 1626	transcription factors
+T11	Exp 1627 1631	that
+T12	Exp 1669 1674	their
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T10 Antecedent:T3
+R5	Coref Anaphora:T11 Antecedent:T10
+R6	Coref Anaphora:T12 Antecedent:T10

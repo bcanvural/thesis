@@ -1,0 +1,6 @@
+T10	Exp 918 984	a stretch of 23 amino acids, rich in serine and threonine residues	920 927	stretch
+T11	Exp 986 991	which
+T12	Exp 1183 1198	The possibility
+T13	Exp 1199 1203	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12

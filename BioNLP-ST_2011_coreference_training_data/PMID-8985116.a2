@@ -1,0 +1,9 @@
+T17	Exp 337 357	the murine FOSB gene	353 357	gene
+T18	Exp 359 364	which
+T19	Exp 562 605	high levels of FOSB/G0S3 and FOS/G0S7 mRNAs	567 573	levels
+T20	Exp 607 612	which
+T21	Exp 1363 1367	FOSB
+T22	Exp 1481 1489	the gene
+R1	Coref Anaphora:T18 Antecedent:T17	[T4]
+R2	Coref Anaphora:T20 Antecedent:T19	[T7, T6, T8, T5]
+R3	Coref Anaphora:T22 Antecedent:T21	[T15]

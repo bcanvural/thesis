@@ -1,0 +1,18 @@
+T6	Entity 58 70	subunit gene
+T7	Entity 203 229	human vacuolar H(+)-ATPase
+T8	Entity 231 239	V-ATPase
+T9	Entity 277 285	V-ATPase
+T10	Entity 471 479	V-ATPase
+T11	Entity 692 715	subunit promoter region
+T12	Entity 749 759	first exon
+T13	Entity 764 782	5'-flanking region
+T14	Entity 805 823	TATA-less promoter
+T15	Entity 836 837	G
+T16	Entity 840 841	C
+T17	Entity 923 955	major transcriptional start site
+T18	Entity 1037 1046	sequences
+T19	Entity 1131 1187	sequences downstream from the transcriptional start site
+T20	Entity 1355 1368	binding sites
+T21	Entity 1376 1391	5'-untranslated
+T22	Entity 1396 1419	proximal coding regions
+R1	Protein-Component Arg1:T3 Arg2:T11

@@ -1,0 +1,3 @@
+T16	Exp 559 589	multiple DNA-protein complexes	580 589	complexes
+T17	Exp 639 654	these complexes	645 654	complexes
+R1	Coref Anaphora:T17 Antecedent:T16

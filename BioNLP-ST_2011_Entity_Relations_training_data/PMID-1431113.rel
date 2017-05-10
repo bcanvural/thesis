@@ -1,0 +1,19 @@
+T2	Entity 57 67	NF-kappa B
+T3	Entity 86 110	HIV long terminal repeat
+T4	Entity 324 334	NF-kappa B
+T5	Entity 675 685	NF-kappa B
+T6	Entity 777 789	HIV-enhancer
+T7	Entity 831 841	NF-kappa B
+T8	Entity 949 952	KBF
+T9	Entity 958 967	homodimer
+T10	Entity 1042 1067	NF-kappa B-dependent gene
+T11	Entity 1042 1052	NF-kappa B
+T12	Entity 1063 1067	gene
+T13	Entity 1202 1213	glutathione
+T14	Entity 1458 1468	NF-kappa B
+T15	Entity 1540 1550	NF-kappa B
+T16	Entity 1956 1982	NF-kappa B-dependent genes
+T17	Entity 1956 1966	NF-kappa B
+T18	Entity 1977 1982	genes
+R1	Subunit-Complex Arg1:T1 Arg2:T8
+R2	Subunit-Complex Arg1:T1 Arg2:T9

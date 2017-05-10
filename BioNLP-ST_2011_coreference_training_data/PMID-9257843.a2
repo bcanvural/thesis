@@ -1,0 +1,9 @@
+T15	Exp 315 414	a tissue-specific promoter preceding the exon encoding the N terminus of the pp52 leukocyte protein	333 341	promoter
+T16	Exp 519 532	B and T cells	527 532	cells
+T17	Exp 533 537	that
+T18	Exp 547 550	its
+T19	Exp 1320 1323	its
+T20	Exp 1380 1388	Ig/EBP-1
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T18 Antecedent:T15	[T5]
+R3	Coref Anaphora:T19 Antecedent:T20	[T13]

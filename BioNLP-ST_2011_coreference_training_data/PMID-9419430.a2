@@ -1,0 +1,3 @@
+T11	Exp 316 337	a potent CD40 agonist	330 337	agonist
+T12	Exp 338 342	that
+R1	Coref Anaphora:T12 Antecedent:T11	[T4]

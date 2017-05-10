@@ -1,0 +1,18 @@
+T11	Exp 105 108	its
+T12	Exp 205 210	drugs
+T13	Exp 211 215	that
+T14	Exp 239 255	cyclooxygenase-2
+T15	Exp 1121 1150	a rat air pouch model in vivo	1137 1142	model
+T16	Exp 1155 1160	which
+T17	Exp 1637 1646	triflusal
+T18	Exp 1672 1675	its
+T19	Exp 1815 1824	processes
+T20	Exp 1828 1833	which
+T21	Exp 1899 1922	pathological situations	1912 1922	situations
+T22	Exp 1926 1931	which
+R1	Coref Anaphora:T11 Antecedent:T14	[T2]
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17
+R5	Coref Anaphora:T20 Antecedent:T19
+R6	Coref Anaphora:T22 Antecedent:T21

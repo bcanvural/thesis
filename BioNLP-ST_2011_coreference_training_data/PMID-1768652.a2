@@ -1,0 +1,14 @@
+T28	Exp 220 256	two distinct nucleoprotein complexes	233 256	nucleoprotein complexes
+T29	Exp 355 386	These two DNA-protein complexes	377 386	complexes
+T30	Exp 412 451	four host proteins (p50, p55, p75, p85)	422 430	proteins
+T31	Exp 551 565	these proteins
+T32	Exp 839 849	B1 complex	842 849	complex
+T33	Exp 918 975	the wild-type IL-2R alpha kappa B enhancer (GGGGAATCTCCC)	952 960	enhancer
+T34	Exp 1146 1160	the B1 complex	1153 1160	complex
+T35	Exp 1250 1271	this enhancer element
+T36	Exp 1481 1500	the kappa B element	1493 1500	element
+R1	Coref Anaphora:T29 Antecedent:T28
+R2	Coref Anaphora:T31 Antecedent:T30	[T3, T6, T5, T4]
+R3	Coref Anaphora:T34 Antecedent:T32
+R4	Coref Anaphora:T35 Antecedent:T33	[T18]
+R5	Coref Anaphora:T36 Antecedent:T35

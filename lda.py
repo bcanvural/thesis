@@ -1,3 +1,4 @@
+#LDA algorithm executed on jobs to extract topics from them
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import HashingTF, IDF, Tokenizer, StopWordsRemover, CountVectorizer
 from nltk.stem import WordNetLemmatizer

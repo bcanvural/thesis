@@ -1,0 +1,9 @@
+T26	Exp 97 133	a critical immunoregulatory cytokine	125 133	cytokine
+T27	Exp 134 138	that
+T28	Exp 608 648	a transcription factor regulated by IFNs	610 630	transcription factor
+T29	Exp 649 653	that
+T30	Exp 1452 1457	IRF-1
+T31	Exp 1634 1659	this transcription factor	1639 1659	transcription factor
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28
+R3	Coref Anaphora:T31 Antecedent:T30	[T24]

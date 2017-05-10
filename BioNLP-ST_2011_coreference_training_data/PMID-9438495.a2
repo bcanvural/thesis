@@ -1,0 +1,6 @@
+T15	Exp 195 228	Tumor necrosis factor (TNF)-alpha	223 228	alpha
+T16	Exp 394 397	its
+T17	Exp 1433 1462	autocrine TNF-alpha secretion	1453 1462	secretion
+T18	Exp 1524 1527	its
+R1	Coref Anaphora:T16 Antecedent:T15	[T1]
+R2	Coref Anaphora:T18 Antecedent:T17	[T14]

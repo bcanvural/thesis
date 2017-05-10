@@ -1,0 +1,11 @@
+T1	Entity 11 31	ARE-containing genes
+T2	Entity 171 191	regulatory sequences
+T3	Entity 213 229	AU-rich elements
+T4	Entity 231 235	AREs
+T5	Entity 252 275	3' untranslated regions
+T6	Entity 304 319	proto-oncogenes
+T7	Entity 360 368	AU-motif
+T8	Entity 434 454	ARE-containing genes
+T9	Entity 583 600	59 cDNA fragments
+T10	Entity 797 810	unknown genes
+T11	Entity 965 970	genes

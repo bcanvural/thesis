@@ -1,0 +1,12 @@
+T19	Exp 269 280	seven genes	275 280	genes
+T20	Exp 313 318	these
+T21	Exp 349 357	proteins
+T22	Exp 358 362	that
+T23	Exp 1034 1104	similar transcription activity from the adenovirus major late promoter	1056 1064	activity
+T24	Exp 1122 1126	that
+T25	Exp 1412 1437	a 'conditional phenotype'	1427 1436	phenotype
+T26	Exp 1438 1442	that
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T26 Antecedent:T25

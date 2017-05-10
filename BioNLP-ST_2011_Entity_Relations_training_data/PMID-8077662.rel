@@ -1,0 +1,15 @@
+T17	Entity 383 409	conserved sequence element
+T18	Entity 423 431	promoter
+T19	Entity 443 459	lymphokine genes
+T20	Entity 662 689	single nucleotide mutations
+T21	Entity 749 773	NF-kappa B-like sequence
+T22	Entity 749 759	NF-kappa B
+T23	Entity 781 806	promoter of the IL-8 gene
+T24	Entity 781 789	promoter
+T25	Entity 828 844	response element
+T26	Entity 965 968	CD3
+T27	Entity 1024 1040	response element
+R1	Protein-Component Arg1:T10 Arg2:T25
+R2	Protein-Component Arg1:T10 Arg2:T24
+R3	Protein-Component Arg1:T10 Arg2:T21
+R4	Protein-Component Arg1:T10 Arg2:T23

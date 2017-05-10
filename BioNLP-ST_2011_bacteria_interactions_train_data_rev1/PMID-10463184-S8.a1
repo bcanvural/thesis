@@ -1,0 +1,35 @@
+T1	Protein 27 31	YfhP
+T2	Transcription 72 85	transcription
+T3	Gene 89 93	yfhQ
+T4	Gene 95 99	yfhR
+T5	Gene 101 105	sspE
+T6	Gene 110 114	yfhP
+W1	Word 0 5	These
+W2	Word 6 13	results
+W3	Word 14 21	suggest
+W4	Word 22 26	that
+W5	Word 27 31	YfhP
+W6	Word 32 35	may
+W7	Word 36 39	act
+W8	Word 40 42	as
+W9	Word 43 44	a
+W10	Word 45 53	negative
+W11	Word 54 63	regulator
+W12	Word 64 67	for
+W13	Word 68 71	the
+W14	Word 72 85	transcription
+W15	Word 86 88	of
+W16	Word 89 93	yfhQ
+W17	Word 95 99	yfhR
+W18	Word 101 105	sspE
+W19	Word 106 109	and
+W20	Word 110 114	yfhP
+R1	subj:V-N W7 W5
+R2	mod_att:N-ADJ W11 W10
+R3	comp:N-N(of) W14 W16
+R4	comp:N-N(of) W14 W18
+R5	comp:N-N(for) W11 W14
+R6	subj:V-N W3 W2
+R7	comp:N-N(of) W14 W20
+R8	comp:V-N(as) W7 W11
+R9	comp:N-N(of) W14 W17

@@ -1,0 +1,3 @@
+T9	Exp 384 442	transient expression of a constitutively active ras mutant
+T10	Exp 444 449	which
+R1	Coref Anaphora:T10 Antecedent:T9

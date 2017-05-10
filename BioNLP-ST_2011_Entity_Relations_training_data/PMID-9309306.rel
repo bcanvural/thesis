@@ -1,0 +1,24 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+T12	Entity 30 66	nuclear regulatory factor-kappa beta
+T13	Entity 346 399	nuclear regulatory factor-kappa beta (NF-kappa B)/Rel
+T14	Entity 438 488	promoter region of the inflammatory cytokine genes
+T15	Entity 438 453	promoter region
+T16	Entity 461 488	inflammatory cytokine genes
+T17	Entity 550 560	NF-kappa B
+T18	Entity 641 644	DNA
+T19	Entity 665 675	NF-kappa B
+T20	Entity 758 768	NF-kappa B
+T21	Entity 855 881	, NF-kappa B/Rel homodimer
+T22	Entity 927 938	heterodimer
+T23	Entity 1014 1025	heterodimer
+T24	Entity 1131 1140	homodimer
+T25	Entity 1219 1229	NF-kappa B
+T26	Entity 1240 1267	inflammatory cytokine genes
+T27	Entity 1499 1509	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T21
+R2	Subunit-Complex Arg1:T3 Arg2:T22
+R3	Subunit-Complex Arg1:T4 Arg2:T22
+R4	Subunit-Complex Arg1:T5 Arg2:T23
+R5	Subunit-Complex Arg1:T6 Arg2:T23
+R6	Subunit-Complex Arg1:T7 Arg2:T24

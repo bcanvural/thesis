@@ -1,0 +1,8 @@
+T11	Exp 156 177	overwhelming evidence	169 177	evidence
+T12	Exp 178 182	that
+T13	Exp 206 255	the p75 tumor necrosis factor receptor (p75TNF-R)
+T14	Exp 464 477	this receptor	469 477	receptor
+T15	Exp 1171 1184	this receptor	1176 1184	receptor
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13	[T6, T5]
+R3	Coref Anaphora:T15 Antecedent:T14

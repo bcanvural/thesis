@@ -1,0 +1,7 @@
+T21	Exp 349 354	IL-10
+T22	Exp 633 647	both cytokines
+T23	Exp 770 787	the two cytokines
+T24	Exp 937 942	their
+R1	Coref Anaphora:T22 Antecedent:T21	[T5]
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T24 Antecedent:T23

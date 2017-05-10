@@ -1,0 +1,6 @@
+T16	Exp 254 262	cytokine
+T17	Exp 263 267	that
+T18	Exp 951 973	a mitochondrial enzyme
+T19	Exp 974 978	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18

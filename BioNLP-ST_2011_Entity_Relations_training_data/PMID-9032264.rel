@@ -1,0 +1,23 @@
+*	Equiv T3 T4 T5
+*	Equiv T7 T8
+T19	Entity 209 236	myeloid-cell-specific genes
+T20	Entity 852 859	primers
+T21	Entity 877 896	DNA-binding domains
+T22	Entity 994 1010	novel human gene
+T23	Entity 1036 1053	C/EBP gene family
+T24	Entity 1184 1240	promyelocyte-late myeloblast-derived lambda gt11 library
+T25	Entity 1322 1327	exons
+T26	Entity 1478 1502	transcription start site
+T27	Entity 1540 1551	start codon
+T28	Entity 1668 1678	TATAAA box
+T29	Entity 1699 1720	purine-rich stretches
+T30	Entity 2084 2102	N-terminal portion
+T31	Entity 2121 2141	amino acids 1 to 115
+T32	Entity 2278 2330	double-stranded DNA containing consensus C/EBP sites
+T33	Entity 2540 2549	promoters
+T34	Entity 2639 2666	myeloid-cell-specific genes
+T35	Entity 2806 2829	antisense C/EBP-epsilon
+R1	Protein-Component Arg1:T10 Arg2:T26
+R2	Protein-Component Arg1:T10 Arg2:T27
+R3	Protein-Component Arg1:T12 Arg2:T31
+R4	Protein-Component Arg1:T12 Arg2:T30

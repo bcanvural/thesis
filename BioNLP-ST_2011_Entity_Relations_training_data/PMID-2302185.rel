@@ -1,0 +1,12 @@
+T7	Entity 24 68	human immunodeficiency virus type 1 enhancer
+T8	Entity 250 276	viral long terminal repeat
+T9	Entity 278 281	LTR
+T10	Entity 294 317	protein-binding regions
+T11	Entity 325 334	HIV-1 LTR
+T12	Entity 342 371	transcription-enhancer region
+T13	Entity 464 476	HIV enhancer
+T14	Entity 680 734	oligonucleotides which contain the HIV-enhancer domain
+T15	Entity 680 696	oligonucleotides
+T16	Entity 715 734	HIV-enhancer domain
+T17	Entity 842 850	enhancer
+R1	Protein-Component Arg1:T5 Arg2:T17

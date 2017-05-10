@@ -1,0 +1,4 @@
+T9	Entity 421 434	neuropeptides
+T10	Entity 885 893	promoter
+T11	Entity 977 981	AP-1
+R1	Protein-Component Arg1:T5 Arg2:T10

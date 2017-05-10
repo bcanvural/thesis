@@ -1,0 +1,54 @@
+T1	Transcription 0 13	Transcription
+T2	Gene 23 28	genes
+T3	PolymeraseComplex 44 77	RNA polymerase containing sigma G
+T4	Gene 70 77	sigma G
+T5	PolymeraseComplex 79 88	E sigma G
+T6	Protein 95 119	product of the sigG gene
+T7	Gene 110 114	sigG
+T8	Gene 130 136	itself
+T9	Expression 137 146	expressed
+W1	Word 0 13	Transcription
+W2	Word 14 16	of
+W3	Word 17 22	these
+W4	Word 23 28	genes
+W5	Word 29 31	is
+W6	Word 32 40	mediated
+W7	Word 41 43	by
+W8	Word 44 47	RNA
+W9	Word 48 58	polymerase
+W10	Word 59 69	containing
+W11	Word 70 77	sigma G
+W12	Word 79 88	E sigma G
+W13	Word 91 94	the
+W14	Word 95 102	product
+W15	Word 103 105	of
+W16	Word 106 109	the
+W17	Word 110 114	sigG
+W18	Word 115 119	gene
+W19	Word 121 126	which
+W20	Word 127 129	is
+W21	Word 130 136	itself
+W22	Word 137 146	expressed
+W23	Word 147 149	at
+W24	Word 150 155	stage
+W25	Word 156 159	III
+W26	Word 160 162	in
+W27	Word 163 166	the
+W28	Word 167 177	developing
+W29	Word 178 187	forespore
+R1	mod_att:N-N W18 W17
+R2	subj:V-N W10 W9
+R3	comp:N-N(of) W1 W4
+R4	obj:V-N W10 W11
+R5	appos W11 W14
+R6	comp:V_PASS-N(at) W22 W24
+R7	mod_att:N-ADJ W29 W28
+R8	comp:V_PASS-N(in) W22 W29
+R9	mod_att:N-N W9 W8
+R10	mod:V_PASS-ADV W22 W21
+R11	subj:V_PASS-N W22 W18
+R12	mod_post:N-ADJ W24 W25
+R13	comp:N-N(of) W14 W18
+R14	appos W11 W12
+R15	subj:V_PASS-N W6 W1
+R16	comp:V_PASS-N(by) W6 W9

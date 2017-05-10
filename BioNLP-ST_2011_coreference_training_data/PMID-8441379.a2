@@ -1,0 +1,12 @@
+T11	Exp 519 542	six discrete subregions	532 542	subregions
+T12	Exp 543 548	which
+T13	Exp 875 917	three functional protein binding sequences	908 917	sequences
+T14	Exp 926 931	which
+T15	Exp 984 1006	the essential proteins	998 1006	proteins
+T16	Exp 1007 1012	which
+T17	Exp 1415 1425	HeLa cells
+T18	Exp 1427 1432	which
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17

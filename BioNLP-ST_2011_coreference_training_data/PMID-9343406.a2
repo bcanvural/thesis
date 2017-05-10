@@ -1,0 +1,15 @@
+T11	Exp 500 571	both interleukin 2 (IL-2) synthesis and membrane expression of antigens
+T12	Exp 572 577	which
+T13	Exp 616 631	This inhibition	621 631	inhibition
+T14	Exp 633 638	which
+T15	Exp 818 832	the inhibition
+T16	Exp 882 886	that
+T17	Exp 1547 1562	NFATp and NFATc
+T18	Exp 1575 1580	their
+T19	Exp 1787 1845	the sustained transactivation of this transcription factor	1801 1816	transactivation
+T20	Exp 1846 1850	that
+R1	Coref Anaphora:T12 Antecedent:T11	[T1, T2]
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17	[T7]
+R5	Coref Anaphora:T20 Antecedent:T19

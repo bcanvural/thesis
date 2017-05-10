@@ -1,0 +1,5 @@
+T6	Entity 361 372	calcineurin
+T7	Entity 473 498	JNK phosphorylation sites
+T8	Entity 581 592	calcineurin
+T9	Entity 716 727	calcineurin
+R1	Protein-Component Arg1:T3 Arg2:T7

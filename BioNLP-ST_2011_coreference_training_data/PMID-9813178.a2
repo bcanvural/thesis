@@ -1,0 +1,6 @@
+T4	Exp 47 50	HSF
+T5	Exp 500 527	the HS transcription factor	507 527	transcription factor
+T6	Exp 867 870	HSF
+T7	Exp 872 877	which
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

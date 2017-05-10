@@ -1,0 +1,37 @@
+T1	Expression 46 56	expression
+T2	Gene 66 70	araE
+T3	Promoter 71 79	promoter
+T4	Protein 157 161	AraR
+W1	Word 0 15	Transcriptional
+W2	Word 16 23	studies
+W3	Word 24 36	demonstrated
+W4	Word 37 41	that
+W5	Word 42 45	the
+W6	Word 46 56	expression
+W7	Word 57 61	from
+W8	Word 62 65	the
+W9	Word 66 70	araE
+W10	Word 71 79	promoter
+W11	Word 80 82	is
+W12	Word 83 90	induced
+W13	Word 91 93	by
+W14	Word 94 105	L-arabinose
+W15	Word 107 116	repressed
+W16	Word 117 119	by
+W17	Word 120 127	glucose
+W18	Word 129 132	and
+W19	Word 133 143	negatively
+W20	Word 144 153	regulated
+W21	Word 154 156	by
+W22	Word 157 161	AraR
+R1	comp:V_PASS-N(by) W15 W17
+R2	subj:V_PASS-N W12 W6
+R3	mod_att:N-ADJ W2 W1
+R4	comp:N-N(from) W6 W10
+R5	comp:V_PASS-N(by) W20 W22
+R6	mod:V_PASS-ADV W20 W19
+R7	comp:V_PASS-N(by) W12 W14
+R8	subj:V_PASS-N W15 W6
+R9	subj:V_PASS-N W20 W6
+R10	mod_att:N-N W10 W9
+R11	subj:V-N W3 W2

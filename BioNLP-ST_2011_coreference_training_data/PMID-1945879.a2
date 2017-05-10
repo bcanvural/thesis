@@ -1,0 +1,5 @@
+T10	Exp 1196 1217	the GGGATTTCACC motif	1212 1217	motif
+T11	Exp 1228 1231	its
+T12	Exp 1272 1275	its
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T10

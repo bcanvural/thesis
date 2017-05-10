@@ -1,0 +1,8 @@
+T28	Exp 588 594	SLP-76
+T29	Exp 612 615	its
+T30	Exp 723 737	SLP-76 and Vav
+T31	Exp 758 763	their
+T32	Exp 817 834	the two molecules	825 834	molecules
+R1	Coref Anaphora:T29 Antecedent:T28	[T13]
+R2	Coref Anaphora:T31 Antecedent:T30	[T16, T15]
+R3	Coref Anaphora:T32 Antecedent:T30	[T16, T15]

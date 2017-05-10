@@ -1,0 +1,15 @@
+T21	Exp 27 42	a novel element	35 42	element
+T22	Exp 43 47	that
+T23	Exp 336 340	IL-5
+T24	Exp 386 389	its
+T25	Exp 1277 1366	a novel negative regulatory element located at positions -90 to -79 of the hIL-5 promoter	1305 1312	element
+T26	Exp 1368 1373	which
+T27	Exp 1380 1423	Oct1, octamer-like, and YY1 nuclear factors	1408 1423	nuclear factors
+T28	Exp 1425 1447	Substitution mutations	1438 1447	mutations
+T29	Exp 1449 1454	which
+T30	Exp 1476 1490	these proteins	1482 1490	proteins
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23	[T6]
+R3	Coref Anaphora:T26 Antecedent:T25	[T13]
+R4	Coref Anaphora:T29 Antecedent:T28
+R5	Coref Anaphora:T30 Antecedent:T27	[T14, T15]

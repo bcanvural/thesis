@@ -1,0 +1,3 @@
+T4	Exp 1284 1307	our previous hypothesis	1297 1307	hypothesis
+T5	Exp 1308 1312	that
+R1	Coref Anaphora:T5 Antecedent:T4

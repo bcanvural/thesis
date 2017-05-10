@@ -1,0 +1,7 @@
+*	Equiv T2 T3
+T12	Entity 1033 1054	nuclear factor-kappaB
+T13	Entity 1066 1087	-specific kappaB site
+T14	Entity 1254 1258	cAMP
+T15	Entity 1281 1297	adenylyl cyclase
+T16	Entity 1319 1354	2'-deoxy-3'-adenosine monophosphate
+R1	Protein-Component Arg1:T8 Arg2:T13

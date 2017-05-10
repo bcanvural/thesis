@@ -1,0 +1,3 @@
+T10	Exp 854 875	the signaling cascade	868 875	cascade
+T11	Exp 876 880	that
+R1	Coref Anaphora:T11 Antecedent:T10

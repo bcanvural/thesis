@@ -1,0 +1,16 @@
+T35	Entity 81 85	AP-1
+T36	Entity 90 122	NF-kappa B transcription factors
+T37	Entity 756 766	NF-kappa B
+T38	Entity 806 810	AP-1
+T39	Entity 885 889	AP-1
+T40	Entity 927 937	NF-kappa B
+T41	Entity 1027 1043	binding proteins
+T42	Entity 1135 1151	binding proteins
+T43	Entity 1205 1210	Oct-1
+T44	Entity 1300 1318	NF-kappa B complex
+T45	Entity 1451 1455	AP-1
+T46	Entity 1636 1640	AP-1
+T47	Entity 1645 1655	NF-kappa B
+R1	Subunit-Complex Arg1:T24 Arg2:T44
+R2	Subunit-Complex Arg1:T22 Arg2:T44
+R3	Subunit-Complex Arg1:T23 Arg2:T44

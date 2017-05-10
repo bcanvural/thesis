@@ -34,12 +34,10 @@ def main():
     idfModel = idf.fit(featurizedData)
     rescaledData = idfModel.transform(featurizedData)
     vocab = cv_model.vocabulary
-    # model = Word2VecModel.load("word2vec-model")
 
     indexed = rescaledData.select('features').rdd.map(lambda row: sorted(add_indices(row.features), key=lambda x: x[0], reverse=True))
-    # indexed.saveAsTextFile('hehe')
     ordered_words = indexed.map(lambda row: tuples2words(row, vocab)).toDF(["words"])
-    ordered_words.rdd.saveAsTextFile('hehe')
+    ordered_words.rdd.saveAsTextFile('entity-tfidf-words')
     
 
 

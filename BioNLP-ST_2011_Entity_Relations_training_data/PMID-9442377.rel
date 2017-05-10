@@ -1,0 +1,34 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+T29	Entity 0 10	NF-kappa B
+T30	Entity 52 60	promoter
+T31	Entity 90 102	kappa B-site
+T32	Entity 125 133	promoter
+T33	Entity 384 401	enhancer sequence
+T34	Entity 417 436	ICAM-1 kappa B site
+T35	Entity 469 479	homodimers
+T36	Entity 491 520	heterodimers with NF-kappa B1
+T37	Entity 545 555	homodimers
+T38	Entity 725 742	nuclear complexes
+T39	Entity 771 790	ICAM-1 kappa B site
+T40	Entity 964 986	consensus kappa B site
+T41	Entity 994 1018	HIV long terminal repeat
+T42	Entity 1104 1111	kappa B
+T43	Entity 1124 1140	HIV kappa B site
+T44	Entity 1217 1226	homodimer
+T45	Entity 1252 1263	heterodimer
+T46	Entity 1292 1302	homodimers
+R1	Protein-Component Arg1:T1 Arg2:T30
+R2	Protein-Component Arg1:T2 Arg2:T31
+R3	Protein-Component Arg1:T2 Arg2:T32
+R4	Protein-Component Arg1:T7 Arg2:T34
+R5	Subunit-Complex Arg1:T10 Arg2:T36
+R6	Subunit-Complex Arg1:T11 Arg2:T37
+R7	Subunit-Complex Arg1:T8 Arg2:T35
+R8	Subunit-Complex Arg1:T9 Arg2:T35
+R9	Protein-Component Arg1:T17 Arg2:T39
+R10	Protein-Component Arg1:T21 Arg2:T42
+R11	Subunit-Complex Arg1:T23 Arg2:T44
+R12	Subunit-Complex Arg1:T24 Arg2:T45
+R13	Subunit-Complex Arg1:T25 Arg2:T45
+R14	Subunit-Complex Arg1:T26 Arg2:T46

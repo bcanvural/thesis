@@ -1,0 +1,49 @@
+T1	Transcription 0 13	Transcription
+T2	Gene 17 21	cheV
+T3	Protein 39 46	sigma D
+T4	Promoter 57 73	promoter element
+T5	Expression 105 115	expression
+T6	GeneComplex 121 137	cheV-lacZ fusion
+T7	Gene 165 169	sigD
+W1	Word 0 13	Transcription
+W2	Word 14 16	of
+W3	Word 17 21	cheV
+W4	Word 22 31	initiates
+W5	Word 32 36	from
+W6	Word 37 38	a
+W7	Word 39 46	sigma D
+W8	Word 47 56	dependent
+W9	Word 57 65	promoter
+W10	Word 66 73	element
+W11	Word 74 78	both
+W12	Word 79 81	in
+W13	Word 82 86	vivo
+W14	Word 87 90	and
+W15	Word 91 93	in
+W16	Word 94 99	vitro
+W17	Word 101 104	and
+W18	Word 105 115	expression
+W19	Word 116 118	of
+W20	Word 119 120	a
+W21	Word 121 125	cheV
+W22	Word 126 130	lacZ
+W23	Word 131 137	fusion
+W24	Word 138 140	is
+W25	Word 141 151	completely
+W26	Word 152 161	dependent
+W27	Word 162 164	on
+W28	Word 165 169	sigD
+R1	mod:ADJ-ADV W26 W25
+R2	mod:ADJ-N W8 W7
+R3	mod_att:N-N W23 W21
+R4	comp:N-N(of) W1 W3
+R5	mod_att:N-N W23 W22
+R6	comp:V-N(in) W4 W13
+R7	mod_att:N-ADJ W9 W8
+R8	comp:ADJ-N(on) W26 W28
+R9	comp:N-N(of) W18 W23
+R10	subj:V-N W4 W1
+R11	comp:V-N(from) W4 W10
+R12	mod_att:N-N W10 W9
+R13	mod_pred:N-ADJ W18 W26
+R14	comp:V-N(in) W4 W16

@@ -1,0 +1,6 @@
+T18	Exp 125 158	nuclear factor-kappaB (NF-kappaB)
+T19	Exp 267 278	this factor	272 278	factor
+T20	Exp 1336 1339	NAC
+T21	Exp 1480 1482	It
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20

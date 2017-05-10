@@ -1,0 +1,25 @@
+T10	Entity 15 48	transcriptional repression domain
+T11	Entity 220 233	octamer motif
+T12	Entity 281 297	effector regions
+T13	Entity 320 343	GAL4 DNA-binding domain
+T14	Entity 401 419	activation domains
+T15	Entity 439 446	termini
+T16	Entity 608 625	repression domain
+T17	Entity 645 655	N terminus
+T18	Entity 667 683	amino acids 2-99
+T19	Entity 832 849	N-terminal region
+T20	Entity 877 902	minimal repression domain
+T21	Entity 931 945	23 amino acids
+T22	Entity 955 961	serine
+T23	Entity 966 984	threonine residues
+T24	Entity 1106 1114	enhancer
+R1	Protein-Component Arg1:T1 Arg2:T10
+R2	Protein-Component Arg1:T5 Arg2:T14
+R3	Protein-Component Arg1:T5 Arg2:T15
+R4	Protein-Component Arg1:T3 Arg2:T12
+R5	Protein-Component Arg1:T4 Arg2:T13
+R6	Protein-Component Arg1:T6 Arg2:T17
+R7	Protein-Component Arg1:T6 Arg2:T16
+R8	Protein-Component Arg1:T6 Arg2:T18
+R9	Protein-Component Arg1:T7 Arg2:T20
+R10	Protein-Component Arg1:T7 Arg2:T19

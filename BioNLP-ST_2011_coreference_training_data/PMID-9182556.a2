@@ -1,0 +1,6 @@
+T21	Exp 397 421	HSF2-alpha and HSF2-beta
+T22	Exp 423 428	whose
+T23	Exp 1006 1012	levels
+T24	Exp 1023 1028	those
+R1	Coref Anaphora:T22 Antecedent:T21	[T6, T5]
+R2	Coref Anaphora:T24 Antecedent:T23

@@ -1,0 +1,13 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+T17	Entity 614 623	NF-kappaB
+T18	Entity 725 743	DNA-binding domain
+T19	Entity 793 801	promoter
+T20	Entity 862 885	NF-kappaB-binding sites
+T21	Entity 862 871	NF-kappaB
+T22	Entity 999 1022	amino-terminal sequence
+T23	Entity 1079 1091	cDNA library
+T24	Entity 1698 1722	chromosome 16p12-16p13.3
+R1	Protein-Component Arg1:T7 Arg2:T20
+R2	Protein-Component Arg1:T7 Arg2:T18
+R3	Protein-Component Arg1:T7 Arg2:T19

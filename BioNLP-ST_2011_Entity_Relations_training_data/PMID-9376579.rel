@@ -1,0 +1,4 @@
+T20	Entity 2381 2398	promoter/enhancer
+T21	Entity 2410 2440	retinoic acid-response element
+R1	Protein-Component Arg1:T19 Arg2:T21
+R2	Protein-Component Arg1:T19 Arg2:T20

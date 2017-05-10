@@ -1,0 +1,6 @@
+T16	Exp 208 279	stable transfectant variants of a vitamin D-responsive cell line (U937)	228 236	variants
+T17	Exp 280 285	which
+T18	Exp 1025 1028	VDR
+T19	Exp 1487 1490	its
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18	[T11]

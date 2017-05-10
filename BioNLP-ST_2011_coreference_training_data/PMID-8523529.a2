@@ -1,0 +1,9 @@
+T10	Exp 734 757	atypical PKC isoenzymes	747 757	isoenzymes
+T11	Exp 779 790	this family	784 790	family
+T12	Exp 936 944	PKC-zeta
+T13	Exp 976 979	its
+T14	Exp 1826 1858	the signal transduction pathways	1850 1858	pathways
+T15	Exp 1862 1867	which
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12	[T3]
+R3	Coref Anaphora:T15 Antecedent:T14

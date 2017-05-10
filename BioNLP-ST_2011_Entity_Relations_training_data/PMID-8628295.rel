@@ -1,0 +1,9 @@
+T24	Entity 287 299	target genes
+T25	Entity 788 801	binding motif
+T26	Entity 847 855	promoter
+T27	Entity 882 890	promoter
+T28	Entity 1094 1107	binding motif
+R1	Protein-Component Arg1:T14 Arg2:T25
+R2	Protein-Component Arg1:T14 Arg2:T26
+R3	Protein-Component Arg1:T15 Arg2:T27
+R4	Protein-Component Arg1:T19 Arg2:T28

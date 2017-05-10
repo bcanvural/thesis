@@ -1,0 +1,6 @@
+T16	Exp 1653 1657	CD15
+T17	Exp 1718 1721	its
+T18	Exp 1854 1863	monocytes
+T19	Exp 1864 1868	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18

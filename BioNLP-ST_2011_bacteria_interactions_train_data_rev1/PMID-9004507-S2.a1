@@ -1,0 +1,48 @@
+T1	Gene 25 29	gene
+T2	Transcription 37 48	transcribed
+T3	PolymeraseComplex 52 108	RNA polymerase associated with either sigma F or sigma G
+T4	Protein 90 97	sigma F
+T5	Protein 101 108	sigma G
+T6	Action 161 168	control
+T7	Protein 172 179	sigma G
+W1	Word 0 2	In
+W2	Word 3 7	some
+W3	Word 8 18	conditions
+W4	Word 20 24	this
+W5	Word 25 29	gene
+W6	Word 30 33	can
+W7	Word 34 36	be
+W8	Word 37 48	transcribed
+W9	Word 49 51	by
+W10	Word 52 55	RNA
+W11	Word 56 66	polymerase
+W12	Word 67 77	associated
+W13	Word 78 82	with
+W14	Word 83 89	either
+W15	Word 90 97	sigma F
+W16	Word 98 100	or
+W17	Word 101 108	sigma G
+W18	Word 110 112	in
+W19	Word 113 121	contrast
+W20	Word 122 124	to
+W21	Word 125 133	previous
+W22	Word 134 141	studies
+W23	Word 142 150	implying
+W24	Word 151 160	exclusive
+W25	Word 161 168	control
+W26	Word 169 171	by
+W27	Word 172 179	sigma G
+R1	subj:V_PASS-N W12 W11
+R2	comp:V_PASS-N(with) W12 W15
+R3	obj:V-N W23 W25
+R4	mod_att:N-ADJ W25 W24
+R5	comp:N-N(by) W25 W27
+R6	subj:V-N W23 W22
+R7	comp:V_PASS-N(in) W8 W19
+R8	comp:V_PASS-N(in) W8 W3
+R9	comp:N-N(to) W19 W22
+R10	comp:V_PASS-N(by) W8 W11
+R11	mod_att:N-N W11 W10
+R12	comp:V_PASS-N(with) W12 W17
+R13	subj:V_PASS-N W8 W5
+R14	mod_att:N-ADJ W22 W21

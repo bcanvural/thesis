@@ -1,0 +1,3 @@
+T15	Exp 1834 1842	evidence
+T16	Exp 1843 1847	that
+R1	Coref Anaphora:T16 Antecedent:T15

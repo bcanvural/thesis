@@ -1,0 +1,9 @@
+T20	Exp 268 295	T helper type 1 (TH1) cells	290 295	cells
+T21	Exp 297 302	which
+T22	Exp 382 391	TH2 cells	386 391	cells
+T23	Exp 393 398	which
+T24	Exp 1313 1331	a mouse P sequence	1323 1331	sequence
+T25	Exp 1333 1338	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24

@@ -1,0 +1,3 @@
+T14	Exp 876 892	c-myc mRNA level	887 892	level
+T15	Exp 930 933	its
+R1	Coref Anaphora:T15 Antecedent:T14	[T13]

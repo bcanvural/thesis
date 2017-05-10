@@ -1,0 +1,42 @@
+T1	Gene 36 40	nadE
+T2	Protein 143 150	sigma B
+W1	Word 0 15	Transcriptional
+W2	Word 16 23	studies
+W3	Word 24 30	showed
+W4	Word 31 35	that
+W5	Word 36 40	nadE
+W6	Word 41 43	is
+W7	Word 44 52	strongly
+W8	Word 53 60	induced
+W9	Word 61 63	in
+W10	Word 64 72	response
+W11	Word 73 75	to
+W12	Word 76 80	heat
+W13	Word 82 89	ethanol
+W14	Word 90 93	and
+W15	Word 94 98	salt
+W16	Word 99 105	stress
+W17	Word 106 108	or
+W18	Word 109 114	after
+W19	Word 115 125	starvation
+W20	Word 126 129	for
+W21	Word 130 137	glucose
+W22	Word 138 140	in
+W23	Word 141 142	a
+W24	Word 143 150	sigma B
+W25	Word 151 160	dependent
+W26	Word 161 167	manner
+R1	mod_att:N-N W16 W12
+R2	mod:V_PASS-ADV W8 W7
+R3	subj:V_PASS-N W8 W5
+R4	mod:ADJ-N W25 W24
+R5	comp:V_PASS-N(in) W8 W10
+R6	mod_att:N-ADJ W26 W25
+R7	subj:V-N W3 W2
+R8	mod_att:N-ADJ W2 W1
+R9	comp:N-N(for) W19 W21
+R10	comp:V_PASS-N(in) W8 W26
+R11	mod_att:N-N W16 W13
+R12	comp:N-N(to) W10 W16
+R13	comp:V_PASS-N(after) W8 W19
+R14	mod_att:N-N W16 W15

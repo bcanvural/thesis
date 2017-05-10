@@ -1,0 +1,3 @@
+T10	Exp 454 493	the nucleus of Namalwa B lymphoid cells
+T11	Exp 495 500	which
+R1	Coref Anaphora:T11 Antecedent:T10

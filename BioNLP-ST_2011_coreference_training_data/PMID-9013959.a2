@@ -1,0 +1,8 @@
+T17	Exp 49 102	the PRE-I enhancer element of the human IL-4 promoter	68 75	element
+T18	Exp 418 437	an enhancer element	430 437	element
+T19	Exp 446 450	that
+T20	Exp 612 653	nuclear factors binding to the PRE-I site	620 627	factors
+T21	Exp 693 706	these factors	699 706	factors
+R1	Coref Anaphora:T18 Antecedent:T17	[T1]
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20

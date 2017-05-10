@@ -1,0 +1,18 @@
+T8	Exp 253 256	NAC
+T9	Exp 313 316	its
+T10	Exp 327 430	human dendritic cells (DC) derived from adherent PBMC cultured with IL-4 and granulocyte-macrophage CSF	350 352	DC
+T11	Exp 633 635	DC
+T12	Exp 647 652	their
+T13	Exp 919 921	DC
+T14	Exp 926 931	their
+T15	Exp 1094 1141	a profound inhibition of alloreactive responses	1105 1115	inhibition
+T16	Exp 1143 1148	which
+T17	Exp 1287 1290	NAC
+T18	Exp 1365 1368	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10	[T1, T2]
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T13 Antecedent:T11
+R5	Coref Anaphora:T14 Antecedent:T13
+R6	Coref Anaphora:T16 Antecedent:T15
+R7	Coref Anaphora:T18 Antecedent:T17

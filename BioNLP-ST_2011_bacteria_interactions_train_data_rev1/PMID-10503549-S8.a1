@@ -1,0 +1,35 @@
+T1	Protein 44 50	sigmaB
+T2	Regulon 51 58	regulon
+T3	Protein 67 73	sigmaF
+T4	Regulon 74 81	regulon
+W1	Word 0 3	The
+W2	Word 4 11	results
+W3	Word 12 20	indicate
+W4	Word 21 23	an
+W5	Word 24 31	overlap
+W6	Word 32 39	between
+W7	Word 40 43	the
+W8	Word 44 50	sigmaB
+W9	Word 51 58	regulon
+W10	Word 59 62	and
+W11	Word 63 66	the
+W12	Word 67 73	sigmaF
+W13	Word 74 81	regulon
+W14	Word 83 86	and
+W15	Word 87 90	the
+W16	Word 91 104	physiological
+W17	Word 105 117	implications
+W18	Word 118 120	of
+W19	Word 121 125	this
+W20	Word 126 133	overlap
+W21	Word 134 137	are
+W22	Word 138 147	discussed
+R1	subj:V_PASS-N W22 W17
+R2	mod_att:N-N W13 W12
+R3	obj:V-N W3 W5
+R4	mod_att:N-ADJ W17 W16
+R5	comp:N-N(between) W5 W9
+R6	comp:N-N(between) W5 W13
+R7	mod_att:N-N W9 W8
+R8	subj:V-N W3 W2
+R9	comp:N-N(of) W17 W20

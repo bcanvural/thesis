@@ -1,0 +1,17 @@
+T1	Bacterium 0 18	Xanthomonas oryzae
+T2	Bacterium 19 37	Xanthomonas oryzae
+T3	Host 70 74	rice
+T4	Bacterium 75 93	Xanthomonas oryzae
+T5	Host 210 214	rice
+T6	Host 217 232	Oryza sativa L.
+T7	Host 271 275	rice
+T8	Geographical 287 311	tropical Asian countries
+T9	Host 318 346	high-yielding rice cultivars
+*	Equiv T1 T2
+*	Equiv T1 T4
+*	Equiv T3 T5
+*	Equiv T3 T6
+*	Equiv T3 T7
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T8
+E3	Localization Bacterium:T1 Localization:T9

@@ -1,0 +1,24 @@
+T10	Entity 56 91	immunoglobulin heavy-chain promoter
+T11	Entity 220 260	MOPC 141 immunoglobulin heavy-chain gene
+T12	Entity 370 385	octamer element
+T13	Entity 386 400	5'-ATGCAAAG-3'
+T14	Entity 417 432	upstream region
+T15	Entity 441 449	promoter
+T16	Entity 461 470	promoters
+T17	Entity 516 527	chain genes
+T18	Entity 620 637	MOPC 141 promoter
+T19	Entity 793 812	identical sequences
+T20	Entity 824 844	heavy-chain promoter
+T21	Entity 897 913	heptamer element
+T22	Entity 914 927	5'-CTCAGGA-3'
+T23	Entity 1040 1045	sites
+T24	Entity 1054 1062	promoter
+T25	Entity 1118 1136	regulatory element
+T26	Entity 1142 1151	N element
+T27	Entity 1170 1188	5'-GGAACCTCCCCC-3'
+T28	Entity 1194 1203	N element
+T29	Entity 1328 1343	octamer element
+T30	Entity 1413 1422	N element
+T31	Entity 1584 1601	similar sequences
+T32	Entity 1686 1706	cognate DNA elements
+R1	Protein-Component Arg1:T9 Arg2:T32

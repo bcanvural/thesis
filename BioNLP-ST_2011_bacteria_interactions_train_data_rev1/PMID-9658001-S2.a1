@@ -1,0 +1,77 @@
+T1	Protein 13 18	Spo0A
+T2	Promoter 29 37	promoter
+T3	Promoter 54 61	spoIIEp
+T4	PolymeraseComplex 80 94	RNA polymerase
+T5	Protein 115 135	primary sigma factor
+T6	Protein 137 144	sigma A
+T7	Protein 146 152	sigmaA
+T8	Promoter 182 189	spoIIAp
+T9	PolymeraseComplex 208 222	RNA polymerase
+T10	Protein 242 272	early-sporulation sigma factor
+T11	Protein 274 281	sigma H
+T12	Protein 283 289	sigmaH
+W1	Word 0 3	One
+W2	Word 4 9	class
+W3	Word 10 12	of
+W4	Word 13 18	Spo0A
+W5	Word 19 28	activated
+W6	Word 29 37	promoter
+W7	Word 39 44	which
+W8	Word 45 53	includes
+W9	Word 54 61	spoIIEp
+W10	Word 63 65	is
+W11	Word 66 76	recognized
+W12	Word 77 79	by
+W13	Word 80 83	RNA
+W14	Word 84 94	polymerase
+W15	Word 95 105	associated
+W16	Word 106 110	with
+W17	Word 111 114	the
+W18	Word 115 122	primary
+W19	Word 123 128	sigma
+W20	Word 129 135	factor
+W21	Word 137 144	sigma A
+W22	Word 146 152	sigmaA
+W23	Word 155 158	the
+W24	Word 159 165	second
+W25	Word 167 172	which
+W26	Word 173 181	includes
+W27	Word 182 189	spoIIAp
+W28	Word 191 193	is
+W29	Word 194 204	recognized
+W30	Word 205 207	by
+W31	Word 208 211	RNA
+W32	Word 212 222	polymerase
+W33	Word 223 233	associated
+W34	Word 234 238	with
+W35	Word 239 241	an
+W36	Word 242 259	early-sporulation
+W37	Word 260 265	sigma
+W38	Word 266 272	factor
+W39	Word 274 281	sigma H
+W40	Word 283 289	sigmaH
+R1	subj:V_PASS-N W15 W14
+R2	obj:V-N W26 W27
+R3	mod_att:N-N W38 W36
+R4	comp:V_PASS-N(by) W29 W32
+R5	mod_att:N-N W32 W31
+R6	comp:N-N(of) W2 W6
+R7	subj:V_PASS-N W33 W32
+R8	appos W39 W40
+R9	subj:V-N W26 W24
+R10	mod_att:N-N W20 W19
+R11	mod_att:N-N W14 W13
+R12	comp:V_PASS-N(with) W33 W38
+R13	mod_att:N-N W38 W37
+R14	subj:V-N W8 W2
+R15	subj:V_PASS-N W29 W24
+R16	appos W20 W21
+R17	obj:V-N W8 W9
+R18	mod_att:N-ADJ W6 W5
+R19	comp:V_PASS-N(by) W11 W14
+R20	comp:V_PASS-N(with) W15 W20
+R21	mod_att:N-N W20 W18
+R22	appos W21 W22
+R23	appos W38 W39
+R24	subj:V_PASS-N W11 W2
+R25	mod:ADJ-N W5 W4

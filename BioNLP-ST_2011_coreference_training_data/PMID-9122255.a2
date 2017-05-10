@@ -1,0 +1,6 @@
+T18	Exp 882 902	NF kappaB activation	892 902	activation
+T19	Exp 903 907	that
+T20	Exp 1072 1076	PDTC
+T21	Exp 1077 1083	itself
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20

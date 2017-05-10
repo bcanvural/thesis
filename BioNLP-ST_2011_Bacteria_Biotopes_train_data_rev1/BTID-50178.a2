@@ -1,0 +1,56 @@
+T1	Bacterium 0 9	Wolbachia
+T2	Bacterium 10 19	Wolbachia
+T3	Host 37 60	Drosophila melanogaster
+T4	Bacterium 221 230	Wolbachia
+T5	Host 264 284	invertebrate species
+T6	Bacterium 445 454	Wolbachia
+T7	HostPart 459 472	intracellular
+T8	Host 544 564	invertebrate species
+T9	Host 576 583	insects
+T10	Host 585 590	mites
+T11	Host 592 599	spiders
+T12	Host 601 624	terrestrial crustaceans
+T13	Host 630 639	nematodes
+T14	Bacterium 641 650	Wolbachia
+T15	Host 782 802	invertebrate species
+T16	Bacterium 804 813	Wolbachia
+T17	Host 851 861	arthropods
+T18	Host 950 959	fruit fly
+T19	Bacterium 1073 1082	Wolbachia
+T20	HostPart 1758 1771	intracellular
+T21	Bacterium 1772 1780	bacteria
+T22	Bacterium 1843 1852	Wolbachia
+T23	HostPart 1913 1926	intracellular
+T24	Bacterium 2619 2628	Wolbachia
+T25	HostPart 2643 2651	germline
+*	Equiv T5 T8
+*	Equiv T5 T15
+*	Equiv T1 T2
+*	Equiv T1 T4
+*	Equiv T1 T6
+*	Equiv T1 T14
+*	Equiv T1 T16
+*	Equiv T1 T19
+*	Equiv T1 T22
+*	Equiv T1 T24
+E1	Localization Bacterium:T1 Localization:T9
+E2	Localization Bacterium:T1 Localization:T10
+E3	PartOf Host:T5 Part:T7
+E4	Localization Bacterium:T1 Localization:T7
+E5	Localization Bacterium:T1 Localization:T20
+E6	Localization Bacterium:T1 Localization:T12
+E7	Localization Bacterium:T1 Localization:T23
+E8	Localization Bacterium:T21 Localization:T20
+E9	Localization Bacterium:T1 Localization:T5
+E10	Localization Bacterium:T21 Localization:T23
+E11	PartOf Host:T12 Part:T7
+E12	Localization Bacterium:T1 Localization:T17
+E13	PartOf Host:T13 Part:T7
+E14	Localization Bacterium:T1 Localization:T3
+E15	Localization Bacterium:T1 Localization:T25
+E16	Localization Bacterium:T1 Localization:T18
+E17	PartOf Host:T11 Part:T7
+E18	Localization Bacterium:T1 Localization:T11
+E19	PartOf Host:T9 Part:T7
+E20	PartOf Host:T10 Part:T7
+E21	Localization Bacterium:T1 Localization:T13

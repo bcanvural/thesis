@@ -1,0 +1,22 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T12 T13 T14
+*	Equiv T15 T16 T17
+T20	Entity 83 91	promoter
+T21	Entity 242 247	genes
+T22	Entity 512 520	promoter
+T23	Entity 529 561	cell type-specific reporter gene
+T24	Entity 686 706	murine PU.1 promoter
+T25	Entity 698 706	promoter
+T26	Entity 818 839	site at base pair -55
+T27	Entity 1002 1014	binding site
+T28	Entity 1031 1043	octamer site
+T29	Entity 1058 1077	autoregulatory site
+T30	Entity 1249 1257	promoter
+T31	Entity 1398 1410	octamer site
+R1	Protein-Component Arg1:T1 Arg2:T20
+R2	Protein-Component Arg1:T5 Arg2:T22
+R3	Protein-Component Arg1:T7 Arg2:T24
+R4	Protein-Component Arg1:T7 Arg2:T25
+R5	Protein-Component Arg1:T11 Arg2:T29
+R6	Protein-Component Arg1:T18 Arg2:T30

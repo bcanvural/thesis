@@ -1,0 +1,9 @@
+T21	Exp 326 357	IFN regulatory factor 1 (IRF-1)
+T22	Exp 528 537	this gene	533 537	gene
+T23	Exp 658 671	other stimuli	664 671	stimuli
+T24	Exp 672 676	that
+T25	Exp 1165 1175	the notion
+T26	Exp 1176 1180	that
+R1	Coref Anaphora:T22 Antecedent:T21	[T3, T4]
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25

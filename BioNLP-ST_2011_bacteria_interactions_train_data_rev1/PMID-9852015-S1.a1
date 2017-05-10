@@ -1,0 +1,49 @@
+T1	GeneComplex 22 26	clpC
+T2	Protein 98 104	sigmaB
+T3	Protein 159 165	sigmaA
+T4	Promoter 171 179	promoter
+W1	Word 0 3	The
+W2	Word 4 21	Bacillus subtilis
+W3	Word 22 26	clpC
+W4	Word 27 33	operon
+W5	Word 34 36	is
+W6	Word 37 46	regulated
+W7	Word 47 49	by
+W8	Word 50 53	two
+W9	Word 54 60	stress
+W10	Word 61 70	induction
+W11	Word 71 79	pathways
+W12	Word 80 87	relying
+W13	Word 88 90	on
+W14	Word 91 97	either
+W15	Word 98 104	sigmaB
+W16	Word 105 107	or
+W17	Word 108 109	a
+W18	Word 110 115	class
+W19	Word 116 119	III
+W20	Word 120 126	stress
+W21	Word 127 136	induction
+W22	Word 137 146	mechanism
+W23	Word 147 153	acting
+W24	Word 154 156	at
+W25	Word 157 158	a
+W26	Word 159 165	sigmaA
+W27	Word 166 170	like
+W28	Word 171 179	promoter
+R1	comp:V_PASS-N(by) W6 W11
+R2	comp:V-N(on) W12 W15
+R3	mod_att:N-ADJ W28 W27
+R4	mod_post:N-ADJ W18 W19
+R5	mod_att:N-N W22 W21
+R6	mod_att:N-N W11 W10
+R7	subj:V_PASS-N W6 W4
+R8	mod_att:N-N W21 W20
+R9	mod:ADJ-N W27 W26
+R10	subj:V-N W12 W11
+R11	subj:V-N W23 W22
+R12	mod_att:N-N W22 W18
+R13	mod_att:N-N W10 W9
+R14	mod_att:N-N W4 W3
+R15	mod_att:N-N W4 W2
+R16	comp:V-N(on) W12 W22
+R17	comp:V-N(at) W23 W28

@@ -1,0 +1,11 @@
+T9	Entity 57 78	immunoregulatory gene
+T10	Entity 346 368	immunoregulatory genes
+T11	Entity 385 403	NF-kappaB-p105/p50
+T12	Entity 975 990	NF-kappaB sites
+T13	Entity 975 984	NF-kappaB
+T14	Entity 1000 1016	promoter regions
+T15	Entity 1081 1090	NF-kappaB
+T16	Entity 1139 1148	NF-kappaB
+T17	Entity 1301 1310	NF-kappaB
+R1	Subunit-Complex Arg1:T3 Arg2:T11
+R2	Subunit-Complex Arg1:T4 Arg2:T11

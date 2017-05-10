@@ -1,0 +1,9 @@
+T12	Exp 157 187	Fetal and neonatal lymphocytes	176 187	lymphocytes
+T13	Exp 278 283	their
+T14	Exp 728 787	three transcription factors implicated in T-cell activation	734 755	transcription factors
+T15	Exp 789 831	c-jun, c-fos, and NF kappa B (p50 subunit)
+T16	Exp 1483 1496	these factors	1489 1496	factors
+T17	Exp 1592 1605	these factors	1598 1605	factors
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T16 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T14

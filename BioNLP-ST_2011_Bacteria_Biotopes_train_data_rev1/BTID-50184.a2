@@ -1,0 +1,42 @@
+T1	Bacterium 0 18	Xylella fastidiosa
+T2	Bacterium 19 37	Xylella fastidiosa
+T3	Host 68 73	plant
+T4	Host 93 99	citrus
+T5	Bacterium 129 147	Xylella fastidiosa
+T6	HostPart 181 186	xylem
+T7	Host 251 256	plant
+T8	Host 276 282	citrus
+T9	Host 321 328	oranges
+T10	Host 339 352	citrus fruits
+T11	Bacterium 354 367	X. fastidiosa
+T12	Host 427 437	grapevines
+T13	Host 483 494	leafhoppers
+T14	Host 504 517	sharpshooters
+T15	Host 584 589	plant
+T16	Host 593 598	plant
+T17	Bacterium 613 626	X. fastidiosa
+T18	Host 645 650	plant
+T19	HostPart 653 658	xylem
+T20	HostPart 664 680	vascular tissues
+*	Equiv T15 T16
+*	Equiv T1 T2
+*	Equiv T1 T5
+*	Equiv T1 T11
+*	Equiv T1 T17
+*	Equiv T4 T8
+*	Equiv T3 T7
+E1	Localization Bacterium:T1 Localization:T4
+E2	Localization Bacterium:T1 Localization:T6
+E3	Localization Bacterium:T1 Localization:T20
+E4	PartOf Host:T18 Part:T19
+E5	Localization Bacterium:T1 Localization:T10
+E6	Localization Bacterium:T1 Localization:T15
+E7	Localization Bacterium:T1 Localization:T14
+E8	Localization Bacterium:T1 Localization:T3
+E9	PartOf Host:T3 Part:T6
+E10	Localization Bacterium:T1 Localization:T19
+E11	Localization Bacterium:T1 Localization:T18
+E12	Localization Bacterium:T1 Localization:T9
+E13	PartOf Host:T18 Part:T20
+E14	Localization Bacterium:T1 Localization:T12
+E15	Localization Bacterium:T1 Localization:T13

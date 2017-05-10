@@ -1,0 +1,12 @@
+T19	Exp 102 106	CD28
+T20	Exp 154 168	the mechanisms
+T21	Exp 172 177	which
+T22	Exp 178 180	it
+T23	Exp 188 191	its
+T24	Exp 396 464	a model of CD28 costimulation using PMA plus the natural ligand CD80	398 403	model
+T25	Exp 465 469	that
+T26	Exp 1275 1280	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T22 Antecedent:T19	[T3]
+R3	Coref Anaphora:T23 Antecedent:T19	[T3]
+R4	Coref Anaphora:T25 Antecedent:T24	[T7, T6]

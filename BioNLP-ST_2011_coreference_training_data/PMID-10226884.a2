@@ -1,0 +1,3 @@
+T9	Exp 305 332	Two types of effector cells	309 314	types
+T10	Exp 350 355	their
+R1	Coref Anaphora:T10 Antecedent:T9

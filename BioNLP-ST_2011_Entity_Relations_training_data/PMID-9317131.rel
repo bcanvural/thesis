@@ -1,0 +1,43 @@
+*	Equiv T5 T6
+T25	Entity 15 28	binding sites
+T26	Entity 43 53	NF kappa B
+T27	Entity 109 126	germline promoter
+T28	Entity 226 234	CH genes
+T29	Entity 329 336	isotype
+T30	Entity 393 414	IgE germline promoter
+T31	Entity 495 517	responsive DNA element
+T32	Entity 525 540	proximal region
+T33	Entity 548 556	promoter
+T34	Entity 618 637	cis-acting elements
+T35	Entity 672 682	NF kappa B
+T36	Entity 799 820	nucleoprotein complex
+T37	Entity 835 848	upstream site
+T38	Entity 894 905	heterodimer
+T39	Entity 926 939	proximal site
+T40	Entity 994 1040	IgE germline promoter reporter gene constructs
+T41	Entity 994 1015	IgE germline promoter
+T42	Entity 1085 1089	site
+T43	Entity 1181 1236	plasmids with similar mutations in the NF kappa B1 site
+T44	Entity 1232 1236	site
+T45	Entity 1287 1305	wild-type promoter
+T46	Entity 1373 1385	binding site
+T47	Entity 1422 1427	motif
+T48	Entity 1532 1559	NF kappa B/rel binding site
+T49	Entity 1532 1542	NF kappa B
+T50	Entity 1574 1590	response element
+T51	Entity 1624 1653	heterologous minimal promoter
+T52	Entity 1745 1766	nucleoprotein complex
+T53	Entity 1786 1789	DNA
+T54	Entity 1846 1869	human IgE germline gene
+R1	Protein-Component Arg1:T3 Arg2:T25
+R2	Protein-Component Arg1:T3 Arg2:T27
+R3	Protein-Component Arg1:T8 Arg2:T37
+R4	Subunit-Complex Arg1:T9 Arg2:T36
+R5	Subunit-Complex Arg1:T10 Arg2:T36
+R6	Subunit-Complex Arg1:T9 Arg2:T38
+R7	Subunit-Complex Arg1:T10 Arg2:T38
+R8	Protein-Component Arg1:T11 Arg2:T39
+R9	Protein-Component Arg1:T21 Arg2:T50
+R10	Protein-Component Arg1:T21 Arg2:T48
+R11	Protein-Component Arg1:T21 Arg2:T51
+R12	Subunit-Complex Arg1:T22 Arg2:T52

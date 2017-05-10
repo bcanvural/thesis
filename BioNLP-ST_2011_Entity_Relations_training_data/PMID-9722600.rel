@@ -1,0 +1,13 @@
+T22	Entity 388 406	40-kDa polypeptide
+T23	Entity 922 940	reporter construct
+T24	Entity 953 990	promoter containing E2F binding sites
+T25	Entity 1049 1066	E2F-binding sites
+T26	Entity 1210 1229	dependent promoters
+T27	Entity 1244 1265	5' truncation mutants
+T28	Entity 1279 1287	promoter
+T29	Entity 1393 1409	ATF binding site
+T30	Entity 1431 1439	promoter
+R1	Protein-Component Arg1:T21 Arg2:T29
+R2	Protein-Component Arg1:T18 Arg2:T26
+R3	Protein-Component Arg1:T18 Arg2:T28
+R4	Protein-Component Arg1:T21 Arg2:T30

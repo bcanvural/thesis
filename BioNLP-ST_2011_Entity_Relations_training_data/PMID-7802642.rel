@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+*	Equiv T10 T11
+T13	Entity 134 144	NF-kappa B
+T14	Entity 236 245	promoters
+T15	Entity 247 257	promoter 1
+T16	Entity 262 272	promoter 2
+T17	Entity 546 558	transcript 2
+T18	Entity 819 829	promoter 1
+T19	Entity 972 982	promoter 1
+T20	Entity 995 1068	deleted promoter lacking the three consensus binding sites for NF-kappa B
+T21	Entity 995 1011	deleted promoter
+T22	Entity 1030 1053	consensus binding sites
+T23	Entity 1058 1068	NF-kappa B
+T24	Entity 1209 1219	NF-kappa B
+R1	Protein-Component Arg1:T2 Arg2:T15
+R2	Protein-Component Arg1:T5 Arg2:T16
+R3	Protein-Component Arg1:T5 Arg2:T14
+R4	Protein-Component Arg1:T4 Arg2:T14
+R5	Protein-Component Arg1:T2 Arg2:T14
+R6	Protein-Component Arg1:T2 Arg2:T16

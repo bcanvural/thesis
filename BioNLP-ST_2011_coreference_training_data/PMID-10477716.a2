@@ -1,0 +1,9 @@
+T20	Exp 953 1006	the 65 kD transcriptional activator NF-kappaB subunit
+T21	Exp 1008 1013	Rel A
+T22	Exp 1015 1020	whose
+T23	Exp 1514 1556	a delayed ROS-dependent signalling pathway	1549 1556	pathway
+T24	Exp 1557 1561	that
+T25	Exp 1637 1641	that
+R1	Coref Anaphora:T22 Antecedent:T20
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T25 Antecedent:T23

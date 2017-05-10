@@ -1,0 +1,9 @@
+T27	Exp 158 170	Sialoadhesin
+T28	Exp 174 226	a macrophage-restricted member of the Ig superfamily	198 204	member
+T29	Exp 227 231	that
+T30	Exp 283 285	It
+T31	Exp 623 671	The cytokines IFN-beta, IFN-gamma, IL-4, and LPS
+T32	Exp 726 736	themselves
+R1	Coref Anaphora:T29 Antecedent:T28
+R2	Coref Anaphora:T30 Antecedent:T27	[T5]
+R3	Coref Anaphora:T32 Antecedent:T31	[T8, T9, T10]

@@ -1,0 +1,26 @@
+T19	Exp 199 211	beta-catenin
+T20	Exp 227 238	the nucleus
+T21	Exp 240 245	where
+T22	Exp 246 248	it
+T23	Exp 373 387	The mechanisms
+T24	Exp 391 396	which
+T25	Exp 534 546	beta-catenin
+T26	Exp 618 620	it
+T27	Exp 674 720	a small deletion within beta-catenin (Delta19)	682 690	deletion
+T28	Exp 721 725	that
+T29	Exp 787 819	This Delta19 beta-catenin mutant	813 819	mutant
+T30	Exp 853 855	it
+T31	Exp 976 990	the mechanisms
+T32	Exp 994 999	which
+T33	Exp 1085 1117	beta-Catenin and LEF-1 complexes	1108 1117	complexes
+T34	Exp 1250 1262	both factors	1255 1262	factors
+T35	Exp 1298 1310	both factors	1303 1310	factors
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T22 Antecedent:T19	[T3]
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T26 Antecedent:T25	[T5]
+R5	Coref Anaphora:T28 Antecedent:T27	[T6]
+R6	Coref Anaphora:T30 Antecedent:T29	[T11]
+R7	Coref Anaphora:T32 Antecedent:T31
+R8	Coref Anaphora:T34 Antecedent:T33	[T14, T13]
+R9	Coref Anaphora:T35 Antecedent:T34

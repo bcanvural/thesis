@@ -1,0 +1,39 @@
+T1	Bacterium 38 49	Enterococci
+T2	Bacterium 50 61	Enterococci
+T3	Bacterium 63 83	Group D Streptococci
+T4	HostPart 250 266	intestinal tract
+T5	Host 270 276	humans
+T6	Host 281 288	animals
+T7	Food 334 340	cheese
+T8	Food 345 352	sausage
+T9	Food 403 411	foodborn
+T10	Medical 433 443	nosocomial
+T11	Bacterium 517 549	Vancomycin Resistant Enterococci
+T12	Bacterium 551 554	VRE
+T13	Medical 581 591	nosocomial
+T14	Bacterium 874 884	E. faecium
+T15	Host 913 919	humans
+T16	Host 924 931	animals
+T17	Medical 1032 1042	nosocomial
+T18	Medical 1058 1077	intensive care unit
+T19	Host 1078 1086	patients
+T20	Geographical 1094 1107	United States
+*	Equiv T11 T12
+*	Equiv T1 T2
+*	Equiv T1 T3
+E1	Localization Bacterium:T1 Localization:T5
+E2	Localization Bacterium:T14 Localization:T17
+E3	Localization Bacterium:T11 Localization:T13
+E4	PartOf Host:T5 Part:T4
+E5	PartOf Host:T6 Part:T4
+E6	Localization Bacterium:T1 Localization:T8
+E7	Localization Bacterium:T1 Localization:T10
+E8	Localization Bacterium:T14 Localization:T16
+E9	Localization Bacterium:T14 Localization:T20
+E10	Localization Bacterium:T14 Localization:T15
+E11	Localization Bacterium:T1 Localization:T4
+E12	Localization Bacterium:T14 Localization:T19
+E13	Localization Bacterium:T1 Localization:T7
+E14	Localization Bacterium:T1 Localization:T6
+E15	Localization Bacterium:T14 Localization:T18
+E16	Localization Bacterium:T1 Localization:T9

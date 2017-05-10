@@ -1,0 +1,19 @@
+T9	Entity 38 60	U2 snRNA-encoding gene
+T10	Entity 113 160	human U2 small nuclear RNA(snRNA)-encoding gene
+T11	Entity 186 209	distal enhancer element
+T12	Entity 236 249	octamer motif
+T13	Entity 251 254	Oct
+T14	Entity 270 284	-binding sites
+T15	Entity 526 534	enhancer
+T16	Entity 555 558	Oct
+T17	Entity 576 593	Sp 1-binding site
+T18	Entity 619 633	-binding sites
+T19	Entity 643 651	enhancer
+T20	Entity 747 767	octamer-binding site
+T21	Entity 836 845	Enhancers
+T22	Entity 866 869	Oct
+T23	Entity 1395 1398	Oct
+T24	Entity 1420 1433	-binding site
+T25	Entity 1542 1546	OTFs
+T26	Entity 1619 1639	octamer-binding site
+T27	Entity 1663 1676	-binding site

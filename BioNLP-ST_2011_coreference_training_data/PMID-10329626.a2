@@ -1,0 +1,9 @@
+T20	Exp 124 131	Jagged1
+T21	Exp 143 188	the DSL family of ligands for Notch receptors	151 157	family
+T22	Exp 189 193	that
+T23	Exp 297 322	the transcription factors
+T24	Exp 323 327	that
+T25	Exp 337 340	its
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T25 Antecedent:T20	[T2]

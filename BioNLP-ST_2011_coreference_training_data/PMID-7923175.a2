@@ -1,0 +1,15 @@
+T5	Exp 440 527	the constitutive expression of substantial kappa B-binding activity in nuclear extracts
+T6	Exp 529 534	which
+T7	Exp 593 658	The magnitude of kappa B activity in unstimulated patient T cells
+T8	Exp 674 678	that
+T9	Exp 691 722	T cells from normal individuals
+T10	Exp 723 727	that
+T11	Exp 1083 1118	a member of the Rel homology family
+T12	Exp 1119 1124	which
+T13	Exp 1377 1402	T cells from RCC patients	1379 1384	cells
+T14	Exp 1414 1419	their
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9
+R4	Coref Anaphora:T12 Antecedent:T11
+R5	Coref Anaphora:T14 Antecedent:T13

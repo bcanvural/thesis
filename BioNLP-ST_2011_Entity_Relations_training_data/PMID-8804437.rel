@@ -1,0 +1,10 @@
+T6	Entity 45 61	helix-loop-helix
+T7	Entity 143 159	helix-loop-helix
+T8	Entity 204 207	DNA
+T9	Entity 217 239	basic helix-loop-helix
+T10	Entity 440 470	60 amino acid carboxy-terminus
+T11	Entity 503 516	coding intron
+T12	Entity 912 934	basic helix-loop-helix
+T13	Entity 955 981	E box recognition sequence
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T5 Arg2:T12

@@ -1,0 +1,12 @@
+T10	Exp 315 377	oxidant stress in the signalling pathway of various cell types
+T11	Exp 391 394	its
+T12	Exp 1156 1214	the characteristic plasmalemmal localization of TF antigen
+T13	Exp 1215 1219	that
+T14	Exp 1598 1610	antioxidants
+T15	Exp 1617 1622	their
+T16	Exp 1987 2004	a novel mechanism
+T17	Exp 2005 2012	whereby
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12	[T7]
+R3	Coref Anaphora:T15 Antecedent:T14
+R4	Coref Anaphora:T17 Antecedent:T16

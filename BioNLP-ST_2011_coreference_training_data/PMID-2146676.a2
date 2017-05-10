@@ -1,0 +1,9 @@
+T2	Exp 298 336	the human immunodeficiency virus (HIV)
+T3	Exp 340 343	its
+T4	Exp 448 471	two human T-cell clones
+T5	Exp 491 496	their
+T6	Exp 1034 1067	a pattern in the band-shift assay
+T7	Exp 1091 1095	that
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

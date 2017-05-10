@@ -1,0 +1,9 @@
+T21	Exp 592 595	PMA
+T22	Exp 597 602	which
+T23	Exp 1352 1369	mitogenic lectins
+T24	Exp 1498 1502	they
+T25	Exp 1511 1521	mechanisms
+T26	Exp 1522 1526	that
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25

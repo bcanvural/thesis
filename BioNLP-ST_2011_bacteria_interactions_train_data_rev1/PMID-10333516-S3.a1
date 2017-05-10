@@ -1,0 +1,62 @@
+T1	Gene 4 8	sspH
+T2	Gene 13 17	sspL
+T3	Protein 56 106	forespore-specific sigma factor for RNA polymerase
+T4	Protein 108 114	sigmaG
+T5	GeneComplex 120 128	sspN-tlp
+T6	Protein 166 172	sigmaG
+T7	Protein 187 218	forespore-specific sigma factor
+T8	Protein 220 226	sigmaF
+W1	Word 0 3	The
+W2	Word 4 8	sspH
+W3	Word 9 12	and
+W4	Word 13 17	sspL
+W5	Word 18 23	genes
+W6	Word 24 27	are
+W7	Word 28 38	recognized
+W8	Word 39 48	primarily
+W9	Word 49 51	by
+W10	Word 52 55	the
+W11	Word 56 74	forespore-specific
+W12	Word 75 80	sigma
+W13	Word 81 87	factor
+W14	Word 88 91	for
+W15	Word 92 95	RNA
+W16	Word 96 106	polymerase
+W17	Word 108 114	sigmaG
+W18	Word 116 119	the
+W19	Word 120 124	sspN
+W20	Word 125 128	tlp
+W21	Word 129 135	operon
+W22	Word 136 138	is
+W23	Word 139 149	recognized
+W24	Word 150 157	equally
+W25	Word 158 162	well
+W26	Word 163 165	by
+W27	Word 166 172	sigmaG
+W28	Word 173 176	and
+W29	Word 177 180	the
+W30	Word 181 186	other
+W31	Word 187 205	forespore-specific
+W32	Word 206 211	sigma
+W33	Word 212 218	factor
+W34	Word 220 226	sigmaF
+R1	mod_att:N-N W13 W12
+R2	mod_att:N-N W5 W2
+R3	appos W33 W34
+R4	subj:V_PASS-N W23 W21
+R5	comp:V_PASS-N(by) W7 W13
+R6	mod_att:N-N W21 W20
+R7	mod_att:N-N W21 W19
+R8	comp:V_PASS-N(by) W23 W27
+R9	mod:V_PASS-ADV W23 W25
+R10	appos W13 W17
+R11	comp:N-N(for) W13 W16
+R12	mod_att:N-N W16 W15
+R13	comp:V_PASS-N(by) W23 W33
+R14	mod:ADV-ADV W25 W24
+R15	mod_att:N-ADJ W33 W31
+R16	mod_att:N-N W5 W4
+R17	mod_att:N-N W33 W32
+R18	subj:V_PASS-N W7 W5
+R19	mod_att:N-ADJ W13 W11
+R20	mod:V_PASS-ADV W7 W8

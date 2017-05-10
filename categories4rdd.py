@@ -1,3 +1,5 @@
+#Script that processes txt files placed under Categores/ to make them processable by Spark
+#Format for placing new files: Categories/<Category_name>/<skillname>.txt
 # -*- coding: utf-8 -*-
 import os
 import json

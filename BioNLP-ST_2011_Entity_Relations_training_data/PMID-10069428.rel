@@ -1,0 +1,22 @@
+T19	Entity 74 101	proximal binding element P0
+T20	Entity 114 122	promoter
+T21	Entity 851 854	DNA
+T22	Entity 885 906	NFAT-binding elements
+T23	Entity 907 909	P0
+T24	Entity 914 916	P1
+T25	Entity 952 960	promoter
+T26	Entity 983 990	P0 site
+T27	Entity 992 1017	NFAT-containing complexes
+T28	Entity 1153 1178	NFAT-containing complexes
+T29	Entity 1210 1217	P1 site
+T30	Entity 1367 1369	P0
+T31	Entity 1748 1758	P0 element
+R1	Protein-Component Arg1:T2 Arg2:T19
+R2	Protein-Component Arg1:T2 Arg2:T20
+R3	Protein-Component Arg1:T12 Arg2:T22
+R4	Protein-Component Arg1:T12 Arg2:T24
+R5	Protein-Component Arg1:T12 Arg2:T23
+R6	Protein-Component Arg1:T12 Arg2:T25
+R7	Subunit-Complex Arg1:T13 Arg2:T27
+R8	Subunit-Complex Arg1:T14 Arg2:T28
+R9	Protein-Component Arg1:T18 Arg2:T31

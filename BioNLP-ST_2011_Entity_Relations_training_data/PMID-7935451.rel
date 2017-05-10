@@ -1,0 +1,18 @@
+*	Equiv T3 T4
+*	Equiv T16 T17
+T20	Entity 53 63	NF-kappa B
+T21	Entity 169 179	c-rel gene
+T22	Entity 309 319	viral gene
+T23	Entity 357 371	cellular genes
+T24	Entity 519 529	NF-kappa B
+T25	Entity 605 615	NF-kappa B
+T26	Entity 672 704	ankyrin-rich inhibitory proteins
+T27	Entity 844 853	complexes
+T28	Entity 1017 1027	NF-kappa B
+T29	Entity 1323 1341	NF-kappa B complex
+T30	Entity 1445 1463	NF-kappa B complex
+T31	Entity 1577 1587	NF-kappa B
+T32	Entity 1658 1682	kappa B enhancer element
+R1	Subunit-Complex Arg1:T9 Arg2:T27
+R2	Protein-Component Arg1:T18 Arg2:T32
+R3	Subunit-Complex Arg1:T16 Arg2:T31

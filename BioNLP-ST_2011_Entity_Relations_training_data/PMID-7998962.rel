@@ -1,0 +1,22 @@
+T6	Entity 21 31	NF-kappa B
+T7	Entity 85 110	nuclear factor NF-kappa B
+T8	Entity 186 200	cytokine genes
+T9	Entity 322 332	NF-kappa B
+T10	Entity 568 578	NF-kappa B
+T11	Entity 657 667	NF-kappa B
+T12	Entity 791 814	constitutive NF-kappa B
+T13	Entity 804 814	NF-kappa B
+T14	Entity 846 868	LPS-induced NF-kappa B
+T15	Entity 858 868	NF-kappa B
+T16	Entity 939 949	NF-kappa B
+T17	Entity 1039 1061	LPS-induced NF-kappa B
+T18	Entity 1051 1061	NF-kappa B
+T19	Entity 1160 1170	NF-kappa B
+T20	Entity 1404 1414	NF-kappa B
+T21	Entity 1580 1590	NF-kappa B
+T22	Entity 1668 1678	NF-kappa B
+T23	Entity 1779 1789	NF-kappa B
+T24	Entity 2028 2038	NF-kappa B
+T25	Entity 2147 2157	NF-kappa B
+T26	Entity 2511 2521	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T16

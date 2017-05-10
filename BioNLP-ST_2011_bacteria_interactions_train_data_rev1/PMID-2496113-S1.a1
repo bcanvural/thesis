@@ -1,0 +1,50 @@
+T1	Gene 57 67	subtilisin
+T2	Gene 74 78	aprE
+T3	Transcription 89 100	transcribed
+T4	PolymeraseComplex 104 129	RNA polymerase holoenzyme
+T5	PolymeraseComplex 149 153	core
+T6	Protein 158 165	sigma A
+W1	Word 0 2	In
+W2	Word 3 8	vitro
+W3	Word 9 16	studies
+W4	Word 17 29	demonstrated
+W5	Word 30 34	that
+W6	Word 35 38	the
+W7	Word 39 56	Bacillus subtilis
+W8	Word 57 67	subtilisin
+W9	Word 68 72	gene
+W10	Word 74 78	aprE
+W11	Word 80 85	could
+W12	Word 86 88	be
+W13	Word 89 100	transcribed
+W14	Word 101 103	by
+W15	Word 104 107	RNA
+W16	Word 108 118	polymerase
+W17	Word 119 129	holoenzyme
+W18	Word 130 143	reconstituted
+W19	Word 144 148	from
+W20	Word 149 153	core
+W21	Word 154 157	and
+W22	Word 158 165	sigma A
+W23	Word 166 172	factor
+W24	Word 173 181	obtained
+W25	Word 182 186	from
+W26	Word 187 197	vegetative
+W27	Word 198 203	cells
+R1	mod_att:N-N W17 W16
+R2	subj:V-N W4 W3
+R3	subj:V_PASS-N W24 W20
+R4	comp:V_PASS-N(from) W24 W27
+R5	mod_att:N-N W8 W7
+R6	comp:V_PASS-N(from) W18 W20
+R7	subj:V_PASS-N W13 W9
+R8	comp:V_PASS-N(from) W18 W23
+R9	subj:V_PASS-N W24 W23
+R10	appos W9 W10
+R11	mod_att:N-N W23 W22
+R12	subj:V_PASS-N W18 W17
+R13	mod_att:N-N W9 W8
+R14	mod_att:N-N W16 W15
+R15	comp:V_PASS-N(by) W13 W17
+R16	mod_att:N-ADJ W27 W26
+R17	comp:N-N(in) W3 W2

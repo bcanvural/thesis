@@ -1,0 +1,19 @@
+*	Equiv T6 T7
+T11	Entity 94 115	nuclear factor kappaB
+T12	Entity 191 204	cytokine gene
+T13	Entity 395 416	nuclear factor kappaB
+T14	Entity 418 427	NF-kappaB
+T15	Entity 490 504	cytokine genes
+T16	Entity 619 628	NF-kappaB
+T17	Entity 761 775	NF-kappaB site
+T18	Entity 761 770	NF-kappaB
+T19	Entity 788 796	promoter
+T20	Entity 877 885	promoter
+T21	Entity 965 983	inducible promoter
+T22	Entity 1032 1036	AP-1
+T23	Entity 1081 1089	promoter
+T24	Entity 1132 1141	NF-kappaB
+R1	Protein-Component Arg1:T5 Arg2:T17
+R2	Protein-Component Arg1:T5 Arg2:T19
+R3	Protein-Component Arg1:T8 Arg2:T20
+R4	Protein-Component Arg1:T9 Arg2:T23

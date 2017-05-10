@@ -1,0 +1,4 @@
+E1	Interaction Agent:T2 Target:T4
+E2	TranscriptionBy Transcription:T5 Polymerase:T3
+E3	Interaction Agent:T2 Target:T3
+E4	TranscriptionBy Transcription:T5 Polymerase:T4

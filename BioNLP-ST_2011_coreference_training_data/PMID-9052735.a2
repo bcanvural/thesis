@@ -1,0 +1,6 @@
+T13	Exp 447 518	negative regulation of IL-1beta expression at the transcriptional level	456 466	regulation
+T14	Exp 520 525	which
+T15	Exp 1359 1384	A protein of about 150 kD	1361 1368	protein
+T16	Exp 1385 1389	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T5]
+R2	Coref Anaphora:T16 Antecedent:T15

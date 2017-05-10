@@ -1,0 +1,98 @@
+T1	Protein 4 11	sigma W
+T2	Regulon 12 19	regulon
+T3	Protein 31 57	penicillin binding protein
+T4	Protein 59 64	PBP4*
+T5	Action 72 86	co-transcribed
+T6	Protein 87 106	amino acid racemase
+T7	Protein 108 112	RacX
+T8	ProteinFamily 115 153	homologues of signal peptide peptidase
+T9	Protein 155 159	YteI
+T10	Protein 162 171	flotillin
+T11	Protein 173 177	YuaG
+T12	PolymeraseComplex 180 196	ABC transporters
+T13	PolymeraseComplex 198 204	YknXYZ
+T14	Protein 207 231	non-haem bromoperoxidase
+T15	Protein 233 237	YdjP
+T16	Protein 240 257	epoxide hydrolase
+T17	Protein 259 263	YfhM
+T18	Protein 275 289	small peptides
+T19	ProteinFamily 322 356	bacteriocin precursor polypeptides
+W1	Word 0 3	The
+W2	Word 4 11	sigma W
+W3	Word 12 19	regulon
+W4	Word 20 28	includes
+W5	Word 29 30	a
+W6	Word 31 41	penicillin
+W7	Word 42 49	binding
+W8	Word 50 57	protein
+W9	Word 59 64	PBP4*
+W10	Word 66 69	and
+W11	Word 70 71	a
+W12	Word 72 86	co-transcribed
+W13	Word 87 92	amino
+W14	Word 93 97	acid
+W15	Word 98 106	racemase
+W16	Word 108 112	RacX
+W17	Word 115 125	homologues
+W18	Word 126 128	of
+W19	Word 129 135	signal
+W20	Word 136 143	peptide
+W21	Word 144 153	peptidase
+W22	Word 155 159	YteI
+W23	Word 162 171	flotillin
+W24	Word 173 177	YuaG
+W25	Word 180 183	ABC
+W26	Word 184 196	transporters
+W27	Word 198 204	YknXYZ
+W28	Word 207 215	non-haem
+W29	Word 216 231	bromoperoxidase
+W30	Word 233 237	YdjP
+W31	Word 240 247	epoxide
+W32	Word 248 257	hydrolase
+W33	Word 259 263	YfhM
+W34	Word 265 268	and
+W35	Word 269 274	three
+W36	Word 275 280	small
+W37	Word 281 289	peptides
+W38	Word 290 294	with
+W39	Word 295 305	structural
+W40	Word 306 318	similarities
+W41	Word 319 321	to
+W42	Word 322 333	bacteriocin
+W43	Word 334 343	precursor
+W44	Word 344 356	polypeptides
+R1	appos W32 W33
+R2	mod_att:N-N W44 W43
+R3	obj:V-N W4 W23
+R4	appos W29 W30
+R5	obj:V-N W4 W26
+R6	appos W21 W22
+R7	obj:V-N W4 W37
+R8	mod_att:N-N W26 W25
+R9	obj:V-N W4 W15
+R10	mod_att:N-N W21 W20
+R11	mod_att:N-ADJ W8 W7
+R12	mod_att:N-ADJ W15 W12
+R13	mod_att:N-ADJ W40 W39
+R14	obj:V-N W4 W32
+R15	appos W15 W16
+R16	mod_att:N-N W29 W28
+R17	mod_att:N-N W44 W42
+R18	mod_att:N-ADJ W32 W31
+R19	mod:ADJ-N W7 W6
+R20	appos W23 W24
+R21	appos W8 W9
+R22	appos W8 W17
+R23	mod_att:N-ADJ W37 W36
+R24	mod_att:N-N W21 W19
+R25	appos W26 W27
+R26	obj:V-N W4 W29
+R27	subj:V-N W4 W3
+R28	mod_att:N-N W14 W13
+R29	obj:V-N W4 W8
+R30	appos W15 W17
+R31	mod_att:N-N W15 W14
+R32	comp:N-N(with) W37 W40
+R33	mod_att:N-N W3 W2
+R34	comp:N-N(to) W40 W44
+R35	comp:N-N(of) W17 W21

@@ -1,0 +1,12 @@
+T9	Exp 222 238	a complex system	232 238	system
+T10	Exp 242 247	which
+T11	Exp 248 252	IL-1
+T12	Exp 260 263	its
+T13	Exp 647 683	the IL-1RI-associated protein kinase	677 683	kinase
+T14	Exp 758 768	the kinase
+T15	Exp 1389 1413	The described conditions	1403 1413	conditions
+T16	Exp 1414 1419	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13	[T4]
+R4	Coref Anaphora:T16 Antecedent:T15

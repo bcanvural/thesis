@@ -1,0 +1,17 @@
+T8	Entity 84 94	NF-kappa B
+T9	Entity 161 170	DNA probe
+T10	Entity 303 313	NF-kappa B
+T11	Entity 333 364	Jurkat T cell complementary DNA
+T12	Entity 410 437	degenerate oligonucleotides
+T13	Entity 783 786	DNA
+T14	Entity 822 843	kappa B binding motif
+T15	Entity 850 869	protein-DNA complex
+T16	Entity 935 945	NF-kappa B
+T17	Entity 1085 1095	NF-kappa B
+T18	Entity 1182 1204	NF-kappa B-DNA complex
+T19	Entity 1193 1196	DNA
+T20	Entity 1283 1329	active NF-kappa B transcription factor complex
+R1	Subunit-Complex Arg1:T2 Arg2:T10
+R2	Subunit-Complex Arg1:T3 Arg2:T16
+R3	Subunit-Complex Arg1:T6 Arg2:T17
+R4	Subunit-Complex Arg1:T7 Arg2:T20

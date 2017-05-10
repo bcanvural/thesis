@@ -1,0 +1,9 @@
+T25	Exp 745 753	evidence
+T26	Exp 754 758	that
+T27	Exp 973 989	the CN A subunit
+T28	Exp 991 996	which
+T29	Exp 1887 1930	the NF-AT-binding site in the IL-2 promoter
+T30	Exp 1932 1937	which
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T14]
+R3	Coref Anaphora:T30 Antecedent:T29	[T24]

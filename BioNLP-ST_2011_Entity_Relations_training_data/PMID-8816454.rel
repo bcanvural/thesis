@@ -1,0 +1,24 @@
+*	Equiv T2 T3
+*	Equiv T12 T13
+T22	Entity 52 112	human proximal sequence element-binding transcription factor
+T23	Entity 52 83	human proximal sequence element
+T24	Entity 180 198	RNA polymerases II
+T25	Entity 203 206	III
+T26	Entity 213 273	proximal sequence element (PSE)-binding transcription factor
+T27	Entity 275 278	PTF
+T28	Entity 297 300	PSE
+T29	Entity 487 496	human PTF
+T30	Entity 657 661	cDNA
+T31	Entity 793 814	PTF-Oct-1-DNA complex
+T32	Entity 1176 1179	PTF
+T33	Entity 1354 1373	PTF gamma/PTF delta
+T34	Entity 1516 1535	-containing complex
+T35	Entity 1547 1553	TFIIIB
+T36	Entity 1657 1673	four-subunit PTF
+R1	Protein-Component Arg1:T2 Arg2:T28
+R2	Subunit-Complex Arg1:T4 Arg2:T29
+R3	Subunit-Complex Arg1:T5 Arg2:T29
+R4	Subunit-Complex Arg1:T8 Arg2:T31
+R5	Subunit-Complex Arg1:T15 Arg2:T33
+R6	Subunit-Complex Arg1:T16 Arg2:T33
+R7	Subunit-Complex Arg1:T20 Arg2:T34

@@ -1,0 +1,6 @@
+T6	Exp 391 408	some T cell lines	396 408	T cell lines
+T7	Exp 409 413	that
+T8	Exp 1066 1092	drugs or therapy available	1066 1082	drugs or therapy
+T9	Exp 1093 1097	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

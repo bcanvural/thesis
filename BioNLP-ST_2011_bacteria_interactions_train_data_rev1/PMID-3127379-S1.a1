@@ -1,0 +1,21 @@
+T1	Promoter 6 15	promoters
+T2	Transcription 23 36	transcription
+T3	GeneComplex 44 48	sigA
+T4	GeneComplex 50 54	rpoD
+W1	Word 0 5	Three
+W2	Word 6 15	promoters
+W3	Word 16 22	direct
+W4	Word 23 36	transcription
+W5	Word 37 39	of
+W6	Word 40 43	the
+W7	Word 44 48	sigA
+W8	Word 50 54	rpoD
+W9	Word 56 62	operon
+W10	Word 63 65	in
+W11	Word 66 83	Bacillus subtilis
+R1	obj:V-N W3 W4
+R2	appos W7 W8
+R3	mod_att:N-N W9 W7
+R4	comp:N-N(in) W9 W11
+R5	comp:N-N(of) W4 W9
+R6	subj:V-N W3 W2

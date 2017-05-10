@@ -1,0 +1,29 @@
+T1	Protein 19 23	GerE
+T2	Gene 39 43	sigK
+T3	Site 44 70	transcriptional start site
+W1	Word 0 4	Here
+W2	Word 6 8	we
+W3	Word 9 13	show
+W4	Word 14 18	that
+W5	Word 19 23	GerE
+W6	Word 24 29	binds
+W7	Word 30 34	near
+W8	Word 35 38	the
+W9	Word 39 43	sigK
+W10	Word 44 59	transcriptional
+W11	Word 60 65	start
+W12	Word 66 70	site
+W13	Word 72 74	to
+W14	Word 75 78	act
+W15	Word 79 81	as
+W16	Word 82 83	a
+W17	Word 84 93	repressor
+R1	comp:V-N(as) W14 W17
+R2	subj:V-N W6 W5
+R3	mod:V-ADV W3 W1
+R4	subj:V-N W3 W2
+R5	mod_att:N-N W12 W9
+R6	subj:V-N W14 W5
+R7	mod_att:N-ADJ W12 W10
+R8	mod_att:N-N W12 W11
+R9	comp:V-N(near) W6 W12

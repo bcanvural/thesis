@@ -1,0 +1,25 @@
+*	Equiv T2 T3
+T16	Entity 0 9	NF-kappaB
+T17	Entity 37 40	C5a
+T18	Entity 102 105	C5a
+T19	Entity 291 294	C5a
+T20	Entity 496 502	kappaB
+T21	Entity 543 547	AP-1
+T22	Entity 564 567	DNA
+T23	Entity 606 609	C5a
+T24	Entity 769 772	C5a
+T25	Entity 781 787	kappaB
+T26	Entity 913 928	kappaB sequence
+T27	Entity 956 972	promoter regions
+T28	Entity 974 977	C5a
+T29	Entity 986 999	reporter gene
+T30	Entity 1059 1071	kappaB sites
+T31	Entity 1207 1210	ADP
+T32	Entity 1307 1310	C5a
+T33	Entity 1360 1363	C5a
+T34	Entity 1439 1448	NF-kappaB
+T35	Entity 1476 1479	C5a
+R1	Protein-Component Arg1:T10 Arg2:T26
+R2	Protein-Component Arg1:T11 Arg2:T26
+R3	Protein-Component Arg1:T10 Arg2:T27
+R4	Protein-Component Arg1:T11 Arg2:T27

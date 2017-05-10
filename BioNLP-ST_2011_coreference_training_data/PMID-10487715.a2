@@ -1,0 +1,3 @@
+T2	Exp 456 470	the hypothesis
+T3	Exp 471 475	that
+R1	Coref Anaphora:T3 Antecedent:T2

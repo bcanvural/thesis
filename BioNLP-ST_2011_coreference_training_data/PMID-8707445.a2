@@ -1,0 +1,12 @@
+T9	Exp 75 84	Tepoxalin
+T10	Exp 196 198	It
+T11	Exp 551 560	tepoxalin
+T12	Exp 636 638	it
+T13	Exp 1199 1221	a transcription factor	1215 1221	factor
+T14	Exp 1222 1227	which
+T15	Exp 1379 1388	tepoxalin
+T16	Exp 1453 1456	its
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

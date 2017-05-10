@@ -1,0 +1,6 @@
+T18	Exp 1041 1102	Tcf transcription and stimuli (lithium or phytohemagglutinin)
+T19	Exp 1103 1107	that
+T20	Exp 1400 1423	the first demonstration	1410 1423	demonstration
+T21	Exp 1424 1428	that
+R1	Coref Anaphora:T19 Antecedent:T18	[T13]
+R2	Coref Anaphora:T21 Antecedent:T20

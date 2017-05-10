@@ -1,0 +1,7 @@
+T10	Exp 539 570	a minimal promoter (-62 to +54)	549 557	promoter
+T11	Exp 571 575	that
+T12	Exp 687 707	the CCACC/Sp1 family	701 707	family
+T13	Exp 783 817	the -20 GATA binding site (AGATAA)	804 808	site
+T14	Exp 858 860	it
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T14 Antecedent:T13

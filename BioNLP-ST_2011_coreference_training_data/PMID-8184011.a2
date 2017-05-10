@@ -1,0 +1,6 @@
+T3	Exp 139 173	a pleiotropic transcription factor	167 173	factor
+T4	Exp 174 179	which
+T5	Exp 730 742	a dose range	737 742	range
+T6	Exp 743 748	where
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5

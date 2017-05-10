@@ -1,0 +1,17 @@
+T8	Exp 0 29	Nuclear transcription factors	8 29	transcription factors
+T9	Exp 30 34	that
+T10	Exp 154 170	several elements	162 170	elements
+T11	Exp 171 175	that
+T12	Exp 263 272	The sites
+T13	Exp 277 282	their
+T14	Exp 330 370	NF-kappa B, AP-1, AP-3, OCT-1, and NF-AT
+T15	Exp 553 580	these transcription factors
+T16	Exp 627 632	their
+T17	Exp 683 694	the signals
+T18	Exp 695 699	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12
+R4	Coref Anaphora:T15 Antecedent:T14	[T3]
+R5	Coref Anaphora:T16 Antecedent:T15
+R6	Coref Anaphora:T18 Antecedent:T17

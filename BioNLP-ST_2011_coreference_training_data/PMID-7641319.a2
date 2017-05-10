@@ -1,0 +1,6 @@
+T19	Exp 602 625	the nucleotide sequence	617 625	sequence
+T20	Exp 664 668	that
+T21	Exp 672 719	a novel human uterine thromboxane receptor cDNA	715 719	cDNA
+T22	Exp 720 724	that
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21	[T6]

@@ -1,0 +1,18 @@
+T21	Exp 241 278	an obligatory intracellular bacterium	269 278	bacterium
+T22	Exp 279 283	that
+T23	Exp 864 878	E. chaffeensis
+T24	Exp 879 884	which
+T25	Exp 1230 1282	The levels of secreted IL-1beta, TNF-alpha, and IL-6	1234 1240	levels
+T26	Exp 1244 1282	secreted IL-1beta, TNF-alpha, and IL-6
+T27	Exp 1329 1334	those
+T28	Exp 1503 1524	these three cytokines	1515 1524	cytokines
+T29	Exp 1966 1994	anti-E. chaffeensis antibody	1986 1994	antibody
+T30	Exp 2021 2070	the production of major proinflammatory cytokines	2025 2035	production
+T31	Exp 2072 2077	which
+T32	Exp 2168 2170	it
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T27 Antecedent:T25	[T14, T13, T12]
+R4	Coref Anaphora:T28 Antecedent:T26	[T14, T13, T12]
+R5	Coref Anaphora:T31 Antecedent:T30
+R6	Coref Anaphora:T32 Antecedent:T29

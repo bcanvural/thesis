@@ -1,0 +1,10 @@
+T21	Exp 132 141	a subunit	134 141	subunit
+T22	Exp 145 172	the von Willebrand receptor	164 172	receptor
+T23	Exp 185 190	which
+T24	Exp 328 349	a functional Ets site	345 349	site
+T25	Exp 350 354	that
+T26	Exp 408 426	the Ets protein(s)	416 426	protein(s)
+T27	Exp 427 431	that
+R1	Coref Anaphora:T23 Antecedent:T21
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26

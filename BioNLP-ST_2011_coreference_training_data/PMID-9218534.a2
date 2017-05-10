@@ -1,0 +1,7 @@
+T4	Exp 271 276	NF-X2
+T5	Exp 278 283	which
+T6	Exp 1144 1149	NF-X2
+T7	Exp 1151 1156	which
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T6 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

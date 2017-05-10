@@ -1,0 +1,22 @@
+*	Equiv T1 T2
+T12	Entity 146 150	AP-1
+T13	Entity 155 160	NF-AT
+T14	Entity 396 404	promoter
+T15	Entity 580 584	AP-1
+T16	Entity 589 594	NF-AT
+T17	Entity 607 612	NF-kB
+T18	Entity 617 626	OCT-1/OAF
+T19	Entity 631 656	their corresponding sites
+T20	Entity 674 682	promoter
+T21	Entity 826 834	promoter
+T22	Entity 962 970	promoter
+T23	Entity 1001 1007	motifs
+T24	Entity 1339 1343	AP-1
+T25	Entity 1348 1353	NF-AT
+T26	Entity 1454 1458	AP-1
+R1	Protein-Component Arg1:T5 Arg2:T14
+R2	Protein-Component Arg1:T6 Arg2:T19
+R3	Protein-Component Arg1:T6 Arg2:T20
+R4	Protein-Component Arg1:T7 Arg2:T21
+R5	Protein-Component Arg1:T8 Arg2:T23
+R6	Protein-Component Arg1:T8 Arg2:T22

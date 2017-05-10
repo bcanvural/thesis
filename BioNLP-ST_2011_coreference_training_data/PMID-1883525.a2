@@ -1,0 +1,3 @@
+T21	Exp 564 569	M-CSF
+T22	Exp 599 602	its
+R1	Coref Anaphora:T22 Antecedent:T21	[T10]

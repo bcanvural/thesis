@@ -1,0 +1,11 @@
+T39	Exp 139 211	a Fas ligand regulatory element (FLRE) in the Fas ligand (fasL) promoter	163 170	element
+T40	Exp 212 216	that
+T41	Exp 362 425	The aberrant CD4(-)CD8(-) T cells from lpr/lpr and gld/gld mice	390 395	cells
+T42	Exp 427 432	which
+T43	Exp 793 805	two proteins	797 805	proteins
+T44	Exp 806 810	that
+T45	Exp 859 873	these proteins	865 873	proteins
+R1	Coref Anaphora:T40 Antecedent:T39	[T4, T5, T3]
+R2	Coref Anaphora:T42 Antecedent:T41	[T14]
+R3	Coref Anaphora:T44 Antecedent:T43
+R4	Coref Anaphora:T45 Antecedent:T43

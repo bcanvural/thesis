@@ -1,0 +1,12 @@
+T22	Exp 372 422	Epstein-Barr virus (EBV)-transformed B cell clones	416 422	clones
+T23	Exp 423 428	which
+T24	Exp 1000 1025	a defective NF-chi B site	1021 1025	site
+T25	Exp 1084 1086	it
+T26	Exp 1128 1160	seven EBV-B cell clones or lines
+T27	Exp 1174 1179	their
+T28	Exp 1302 1341	a human immunodeficiency virus promoter	1333 1341	promoter
+T29	Exp 1343 1348	whose
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26
+R4	Coref Anaphora:T29 Antecedent:T28

@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+*	Equiv T16 T17
+T30	Entity 86 106	transcription factor
+T31	Entity 107 116	NF-kappaB
+T32	Entity 153 162	NF-kappaB
+T33	Entity 395 415	transcription factor
+T34	Entity 416 425	NF-kappaB
+T35	Entity 451 480	C-terminal cytoplasmic domain
+T36	Entity 482 490	One site
+T37	Entity 591 602	second site
+T38	Entity 653 665	death domain
+T39	Entity 735 744	NF-kappaB
+T40	Entity 979 985	Ser-32
+T41	Entity 990 996	Ser-36
+T42	Entity 1032 1041	NF-kappaB
+T43	Entity 1083 1092	NF-kappaB
+T44	Entity 1130 1144	effector sites
+T45	Entity 1291 1300	NF-kappaB
+T46	Entity 1338 1352	effector sites
+R1	Protein-Component Arg1:T10 Arg2:T38
+R2	Protein-Component Arg1:T21 Arg2:T41
+R3	Protein-Component Arg1:T21 Arg2:T40

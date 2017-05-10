@@ -1,0 +1,8 @@
+T9	Entity 195 250	DNA target sequences within a variety of cytokine genes
+T10	Entity 359 377	amino acids 86-265
+T11	Entity 481 514	transcriptional activation domain
+T12	Entity 558 584	internal repression domain
+T13	Entity 637 656	E74 target sequence
+T14	Entity 703 711	E74 site
+R1	Protein-Component Arg1:T3 Arg2:T10
+R2	Protein-Component Arg1:T6 Arg2:T11

@@ -1,0 +1,54 @@
+T1	Protein 9 15	factor
+T2	Protein 17 24	sigma D
+T3	Protein 26 34	sigma 28
+T4	Expression 40 49	expressed
+T5	Transcription 106 119	transcription
+T6	Regulon 125 132	regulon
+T7	Gene 136 141	genes
+T8	Expression 142 151	expressed
+W1	Word 0 3	One
+W2	Word 4 8	such
+W3	Word 9 15	factor
+W4	Word 17 24	sigma D
+W5	Word 26 34	sigma 28
+W6	Word 37 39	is
+W7	Word 40 49	expressed
+W8	Word 50 56	during
+W9	Word 57 67	vegetative
+W10	Word 68 74	growth
+W11	Word 75 78	and
+W12	Word 79 82	has
+W13	Word 83 87	been
+W14	Word 88 98	implicated
+W15	Word 99 101	in
+W16	Word 102 105	the
+W17	Word 106 119	transcription
+W18	Word 120 122	of
+W19	Word 123 124	a
+W20	Word 125 132	regulon
+W21	Word 133 135	of
+W22	Word 136 141	genes
+W23	Word 142 151	expressed
+W24	Word 152 158	during
+W25	Word 159 170	exponential
+W26	Word 171 177	growth
+W27	Word 178 181	and
+W28	Word 182 185	the
+W29	Word 186 191	early
+W30	Word 192 202	stationary
+W31	Word 203 208	phase
+R1	appos W4 W5
+R2	comp:V_PASS-N(during) W23 W26
+R3	comp:V_PASS-N(during) W7 W10
+R4	comp:N-N(of) W17 W20
+R5	appos W3 W4
+R6	mod_att:N-ADJ W31 W29
+R7	mod_att:N-ADJ W10 W9
+R8	mod_att:N-ADJ W31 W30
+R9	comp:V_PASS-N(during) W23 W31
+R10	subj:V_PASS-N W23 W22
+R11	subj:V_PASS-N W14 W3
+R12	comp:V_PASS-N(in) W14 W17
+R13	subj:V_PASS-N W7 W3
+R14	comp:N-N(of) W20 W22
+R15	mod_att:N-ADJ W26 W25

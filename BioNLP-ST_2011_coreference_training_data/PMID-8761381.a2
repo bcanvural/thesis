@@ -1,0 +1,3 @@
+T8	Exp 1113 1122	all cases	1117 1122	cases
+T9	Exp 1225 1229	them
+R1	Coref Anaphora:T9 Antecedent:T8

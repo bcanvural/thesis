@@ -1,0 +1,58 @@
+T1	Gene 4 19	structural gene
+T2	Gene 21 25	sigK
+T3	Protein 75 82	sigma K
+T4	Gene 126 141	truncated genes
+T5	Gene 149 156	spoIVCB
+T6	Gene 161 168	spoIIIC
+W1	Word 0 3	The
+W2	Word 4 14	structural
+W3	Word 15 19	gene
+W4	Word 21 25	sigK
+W5	Word 27 30	for
+W6	Word 31 34	the
+W7	Word 35 46	mother-cell
+W8	Word 47 50	RNA
+W9	Word 51 61	polymerase
+W10	Word 62 74	sigma-factor
+W11	Word 75 82	sigma K
+W12	Word 83 85	in
+W13	Word 86 103	Bacillus subtilis
+W14	Word 104 106	is
+W15	Word 107 108	a
+W16	Word 109 118	composite
+W17	Word 119 121	of
+W18	Word 122 125	two
+W19	Word 126 135	truncated
+W20	Word 136 141	genes
+W21	Word 143 148	named
+W22	Word 149 156	spoIVCB
+W23	Word 157 160	and
+W24	Word 161 168	spoIIIC
+W25	Word 170 175	which
+W26	Word 176 179	are
+W27	Word 180 187	brought
+W28	Word 188 196	together
+W29	Word 197 199	by
+W30	Word 200 213	site-specific
+W31	Word 214 227	recombination
+W32	Word 228 234	during
+W33	Word 235 246	sporulation
+R1	obj:V_PASS-N W21 W22
+R2	subj:V_PASS-N W27 W20
+R3	obj:V_PASS-N W21 W24
+R4	comp:N-N(for) W3 W11
+R5	comp:N-N(of) W16 W20
+R6	appos W3 W4
+R7	comp:N-N(in) W11 W13
+R8	mod_att:N-N W10 W7
+R9	mod_att:N-ADJ W31 W30
+R10	mod:V_PASS-ADV W27 W28
+R11	comp:V_PASS-N(by) W27 W31
+R12	mod_att:N-ADJ W3 W2
+R13	mod_att:N-ADJ W20 W19
+R14	comp:V_PASS-N(during) W27 W33
+R15	mod_att:N-N W10 W9
+R16	subj:V_PASS-N W21 W20
+R17	mod_att:N-N W9 W8
+R18	mod_pred:N-N W3 W16
+R19	mod_att:N-N W11 W10

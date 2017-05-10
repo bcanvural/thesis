@@ -1,0 +1,9 @@
+T17	Exp 94 122	the B-cell-specific B29 gene
+T18	Exp 312 329	this pivotal gene	325 329	gene
+T19	Exp 1309 1316	the BCS
+T20	Exp 1359 1395	5' negative regulatory DNA sequences	1386 1395	sequences
+T21	Exp 1396 1400	that
+T22	Exp 1451 1454	its
+R1	Coref Anaphora:T18 Antecedent:T17	[T2]
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T22 Antecedent:T19

@@ -1,0 +1,23 @@
+*	Equiv T14 T15
+T26	Entity 20 42	nuclear factor-kappa B
+T27	Entity 61 84	T cell receptor complex
+T28	Entity 142 169	nuclear factor (NF)-kappa B
+T29	Entity 188 221	T cell receptor (TcR)/CD3 complex
+T30	Entity 337 407	kappa B element of interleukin-2 receptor (IL-2R) alpha chain promoter
+T31	Entity 337 352	kappa B element
+T32	Entity 399 407	promoter
+T33	Entity 455 458	TcR
+T34	Entity 459 462	CD3
+T35	Entity 533 545	heterodimers
+T36	Entity 570 582	heterodimers
+T37	Entity 1480 1490	NF-kappa B
+T38	Entity 1530 1537	TcR/CD3
+T39	Entity 1559 1566	TcR/CD3
+T40	Entity 1735 1745	NF-kappa B
+R1	Protein-Component Arg1:T3 Arg2:T31
+R2	Protein-Component Arg1:T3 Arg2:T30
+R3	Protein-Component Arg1:T3 Arg2:T32
+R4	Subunit-Complex Arg1:T4 Arg2:T35
+R5	Subunit-Complex Arg1:T5 Arg2:T35
+R6	Subunit-Complex Arg1:T6 Arg2:T36
+R7	Subunit-Complex Arg1:T7 Arg2:T36

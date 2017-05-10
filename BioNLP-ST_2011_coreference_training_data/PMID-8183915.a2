@@ -1,0 +1,16 @@
+T27	Exp 279 302	a p70 I kappa B protein	295 302	protein
+T28	Exp 321 326	which
+T29	Exp 506 524	One 63-kDa isoform	517 524	isoform
+T30	Exp 526 550	termed I kappa B gamma-1
+T31	Exp 552 557	which
+T32	Exp 818 836	p70I kappa B gamma
+T33	Exp 838 843	which
+T34	Exp 1368 1391	a protein kinase A site	1387 1391	site
+T35	Exp 1392 1397	whose
+T36	Exp 1526 1550	I kappa B gamma isoforms	1542 1550	isoforms
+T37	Exp 1551 1555	that
+R1	Coref Anaphora:T28 Antecedent:T27	[T5]
+R2	Coref Anaphora:T31 Antecedent:T29
+R3	Coref Anaphora:T33 Antecedent:T32	[T12]
+R4	Coref Anaphora:T35 Antecedent:T34
+R5	Coref Anaphora:T37 Antecedent:T36	[T26]

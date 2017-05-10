@@ -1,0 +1,9 @@
+T20	Exp 104 114	a receptor
+T21	Exp 115 119	that
+T22	Exp 224 228	CD40
+T23	Exp 271 274	its
+T24	Exp 292 324	protein tyrosine phosphorylation	309 324	phosphorylation
+T25	Exp 326 331	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22	[T5]
+R3	Coref Anaphora:T25 Antecedent:T24

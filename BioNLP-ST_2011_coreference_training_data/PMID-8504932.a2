@@ -1,0 +1,8 @@
+T18	Exp 168 217	transcriptional regulatory proteins in eukaryotes
+T19	Exp 218 222	that
+T20	Exp 251 256	their
+T21	Exp 333 354	several GATA proteins
+T22	Exp 356 361	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T20 Antecedent:T18
+R3	Coref Anaphora:T22 Antecedent:T21

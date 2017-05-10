@@ -1,3 +1,4 @@
+#Word2vec with normalization
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *

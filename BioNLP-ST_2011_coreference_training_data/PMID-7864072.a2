@@ -1,0 +1,6 @@
+T7	Exp 129 186	an inhibitory effect on inflammatory and immune responses	143 149	effect
+T8	Exp 192 196	this
+T9	Exp 876 914	AP-1, NF kappa B, and CREB DNA binding	907 914	binding
+T10	Exp 915 919	that
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,28 @@
+T27	Entity 112 129	promoter elements
+T28	Entity 225 229	AP-1
+T29	Entity 492 496	AP-1
+T30	Entity 879 882	CD3
+T31	Entity 1154 1178	AP-1 consensus TRE motif
+T32	Entity 1154 1158	AP-1
+T33	Entity 1199 1224	TRE-like promoter element
+T34	Entity 1240 1262	serum response element
+T35	Entity 1264 1267	SRE
+T36	Entity 1413 1438	nuclear protein complexes
+T37	Entity 1486 1505	DNA sequence motifs
+T38	Entity 1551 1555	AP-1
+T39	Entity 1620 1637	binding complexes
+T40	Entity 1656 1681	nuclear protein complexes
+T41	Entity 1694 1703	SRE motif
+T42	Entity 1917 1922	/AP-1
+T43	Entity 2100 2104	AP-1
+R1	Protein-Component Arg1:T3 Arg2:T27
+R2	Protein-Component Arg1:T4 Arg2:T27
+R3	Subunit-Complex Arg1:T5 Arg2:T28
+R4	Subunit-Complex Arg1:T6 Arg2:T28
+R5	Protein-Component Arg1:T16 Arg2:T33
+R6	Protein-Component Arg1:T17 Arg2:T34
+R7	Protein-Component Arg1:T18 Arg2:T37
+R8	Protein-Component Arg1:T19 Arg2:T37
+R9	Subunit-Complex Arg1:T23 Arg2:T40
+R10	Subunit-Complex Arg1:T22 Arg2:T40
+R11	Subunit-Complex Arg1:T24 Arg2:T42

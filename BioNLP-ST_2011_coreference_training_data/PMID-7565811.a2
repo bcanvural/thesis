@@ -1,0 +1,3 @@
+T28	Exp 740 765	primer extension analysis	757 765	analysis
+T29	Exp 767 772	which
+R1	Coref Anaphora:T29 Antecedent:T28

@@ -1,0 +1,9 @@
+T21	Exp 149 169	Interleukin-5 (IL-5)
+T22	Exp 171 176	which
+T23	Exp 327 335	evidence
+T24	Exp 336 340	that
+T25	Exp 653 663	EL-4 cells	658 663	cells
+T26	Exp 665 670	which
+R1	Coref Anaphora:T22 Antecedent:T21	[T3, T4]
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25

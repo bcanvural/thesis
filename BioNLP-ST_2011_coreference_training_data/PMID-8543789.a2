@@ -1,0 +1,22 @@
+T8	Exp 0 23	Polymorphic nucleotides
+T9	Exp 31 54	the human IL-4 promoter
+T10	Exp 55 59	that
+T11	Exp 86 94	the gene
+T12	Exp 97 102	Atopy
+T13	Exp 104 109	which
+T14	Exp 534 537	its
+T15	Exp 571 574	its
+T16	Exp 641 654	the IL-4 gene
+T17	Exp 804 812	the gene
+T18	Exp 953 975	multiple allelic forms	970 975	forms
+T19	Exp 976 980	that
+T20	Exp 1517 1536	allelic nucleotides
+T21	Exp 1538 1543	which
+R1	Coref Anaphora:T10 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T9	[T1]
+R3	Coref Anaphora:T13 Antecedent:T12
+R4	Coref Anaphora:T14 Antecedent:T16	[T2]
+R5	Coref Anaphora:T15 Antecedent:T16	[T2]
+R6	Coref Anaphora:T17 Antecedent:T16	[T2]
+R7	Coref Anaphora:T19 Antecedent:T18
+R8	Coref Anaphora:T21 Antecedent:T20

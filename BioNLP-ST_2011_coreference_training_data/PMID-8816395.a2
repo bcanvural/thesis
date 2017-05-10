@@ -1,0 +1,6 @@
+T11	Exp 1022 1055	these cellular activation signals	1048 1055	signals
+T12	Exp 1057 1062	which
+T13	Exp 1579 1596	1 alpha,25(OH)2D3
+T14	Exp 1667 1670	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

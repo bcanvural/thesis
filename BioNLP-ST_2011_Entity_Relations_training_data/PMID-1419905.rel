@@ -1,0 +1,17 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T14	Entity 14 24	NF-kappa B
+T15	Entity 198 208	NF-kappa B
+T16	Entity 242 271	5' regulatory enhancer region
+T17	Entity 338 348	NF-kappa B
+T18	Entity 510 520	NF-kappa B
+T19	Entity 653 663	NF-kappa B
+T20	Entity 720 749	NF-kappa B consensus sequence
+T21	Entity 720 730	NF-kappa B
+T22	Entity 751 763	-291 to -245
+T23	Entity 928 938	NF-kappa B
+T24	Entity 992 1007	NF-kappa B gene
+R1	Protein-Component Arg1:T4 Arg2:T16
+R2	Protein-Component Arg1:T9 Arg2:T20
+R3	Protein-Component Arg1:T9 Arg2:T22
+R4	Subunit-Complex Arg1:T12 Arg2:T23

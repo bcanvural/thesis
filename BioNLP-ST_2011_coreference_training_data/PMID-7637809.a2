@@ -1,0 +1,6 @@
+T13	Exp 96 107	Lymphocytes
+T14	Exp 170 180	a response
+T15	Exp 181 186	which
+T16	Exp 242 247	their
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T13

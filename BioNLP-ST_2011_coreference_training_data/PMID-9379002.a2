@@ -1,0 +1,12 @@
+T13	Exp 14 36	nuclear factor-kappa B
+T14	Exp 41 44	its
+T15	Exp 494 520	Mycobacterium tuberculosis	508 520	tuberculosis
+T16	Exp 525 528	its
+T17	Exp 1189 1227	The expression of I kappa B-alpha gene	1193 1203	expression
+T18	Exp 1229 1234	which
+T19	Exp 1589 1604	M. tuberculosis	1592 1604	tuberculosis
+T20	Exp 1609 1612	its
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17	[T7]
+R4	Coref Anaphora:T20 Antecedent:T19

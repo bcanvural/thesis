@@ -1,0 +1,19 @@
+T12	Entity 242 262	early-response genes
+T13	Entity 284 292	encoding
+T14	Entity 562 571	NF-kappaB
+T15	Entity 991 1000	NF-kappaB
+T16	Entity 1162 1171	NF-kappaB
+T17	Entity 1172 1175	DNA
+T18	Entity 1232 1238	dimers
+T19	Entity 1288 1298	homodimers
+T20	Entity 1306 1356	IFNgamma response region of the FcgammaRI promoter
+T21	Entity 1315 1330	response region
+T22	Entity 1348 1356	promoter
+T23	Entity 1465 1468	DNA
+R1	Protein-Component Arg1:T10 Arg2:T21
+R2	Subunit-Complex Arg1:T5 Arg2:T16
+R3	Subunit-Complex Arg1:T6 Arg2:T16
+R4	Subunit-Complex Arg1:T5 Arg2:T18
+R5	Subunit-Complex Arg1:T6 Arg2:T18
+R6	Subunit-Complex Arg1:T8 Arg2:T19
+R7	Protein-Component Arg1:T10 Arg2:T22

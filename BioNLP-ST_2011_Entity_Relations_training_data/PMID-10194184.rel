@@ -1,0 +1,17 @@
+*	Equiv T1 T2
+*	Equiv T8 T9
+T16	Entity 14 23	NF-kappaB
+T17	Entity 1032 1040	promoter
+T18	Entity 1056 1095	nuclear factor kappa B (NF-kappaB) site
+T19	Entity 1056 1078	nuclear factor kappa B
+T20	Entity 1080 1089	NF-kappaB
+T21	Entity 1154 1168	NF-kappaB site
+T22	Entity 1154 1163	NF-kappaB
+T23	Entity 1200 1250	heterologous herpes thymidine kinase (TK) promoter
+T24	Entity 1369 1383	NF-kappaB site
+T25	Entity 1369 1378	NF-kappaB
+T26	Entity 1474 1483	NF-kappaB
+R1	Protein-Component Arg1:T10 Arg2:T18
+R2	Protein-Component Arg1:T10 Arg2:T17
+R3	Subunit-Complex Arg1:T12 Arg2:T26
+R4	Subunit-Complex Arg1:T11 Arg2:T26

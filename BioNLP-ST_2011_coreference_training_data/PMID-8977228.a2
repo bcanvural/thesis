@@ -1,0 +1,6 @@
+T26	Exp 194 209	human monocytes	200 209	monocytes
+T27	Exp 213 217	they
+T28	Exp 1486 1524	complex and slightly divergent effects	1517 1524	effects
+T29	Exp 1525 1529	that
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28

@@ -1,0 +1,3 @@
+T14	Exp 798 853	high levels of transcriptionally inactive p50 homodimer	803 809	levels
+T15	Exp 854 859	which
+R1	Coref Anaphora:T15 Antecedent:T14	[T2]

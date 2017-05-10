@@ -1,0 +1,16 @@
+*	Equiv T3 T4
+*	Equiv T13 T14
+T24	Entity 64 86	nuclear factor.kappa B
+T25	Entity 485 495	NF.kappa B
+T26	Entity 640 656	kappa B sequence
+T27	Entity 676 684	promoter
+T28	Entity 719 731	heterodimers
+T29	Entity 1069 1079	NF.kappa B
+T30	Entity 1239 1249	NF.kappa B
+T31	Entity 1492 1502	NF.kappa B
+R1	Protein-Component Arg1:T8 Arg2:T26
+R2	Protein-Component Arg1:T8 Arg2:T27
+R3	Subunit-Complex Arg1:T9 Arg2:T28
+R4	Subunit-Complex Arg1:T10 Arg2:T28
+R5	Subunit-Complex Arg1:T11 Arg2:T28
+R6	Subunit-Complex Arg1:T12 Arg2:T28

@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+T33	Entity 664 683	activator protein-1
+T34	Entity 685 689	AP-1
+T35	Entity 809 813	AP-1
+T36	Entity 954 997	transcription factor nuclear factor-kappa B
+T37	Entity 999 1009	NF-kappa B
+T38	Entity 1510 1520	NF-kappa B
+T39	Entity 1699 1709	NF-kappa B
+T40	Entity 2117 2127	NF-kappa B
+T41	Entity 2218 2222	AP-1
+T42	Entity 2227 2237	NF-kappa B
+R1	Subunit-Complex Arg1:T10 Arg2:T37
+R2	Subunit-Complex Arg1:T10 Arg2:T36
+R3	Subunit-Complex Arg1:T18 Arg2:T38

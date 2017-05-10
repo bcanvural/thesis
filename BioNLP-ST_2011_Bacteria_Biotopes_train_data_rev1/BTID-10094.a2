@@ -1,0 +1,41 @@
+T1	Bacterium 0 25	Borrelia turicatae 91E135
+T2	Bacterium 38 56	Borrelia turicatae
+T3	Bacterium 58 76	Borrelia turicatae
+T4	Host 103 107	tick
+T5	Geographical 137 163	southwestern United States
+T6	Host 165 170	Ticks
+T7	Host 230 236	mammal
+T8	Host 248 254	rodent
+T9	Host 258 266	squirrel
+T10	Host 349 353	tick
+T11	Host 374 378	tick
+T12	Host 408 417	mammalian
+T13	HostPart 446 452	saliva
+T14	Host 454 460	Humans
+T15	Host 492 497	ticks
+T16	Host 519 526	rodents
+T17	Environment 530 542	rodent nests
+T18	Bacterium 1361 1386	Borrelia turicatae 91E135
+T19	Geographical 1420 1433	United States
+T20	Host 1443 1452	soft tick
+T21	Host 1453 1475	Ornithodoros turicatae
+*	Equiv T1 T18
+*	Equiv T2 T3
+*	Equiv T7 T12
+*	Equiv T20 T21
+*	Equiv T4 T6
+*	Equiv T4 T10
+*	Equiv T4 T11
+*	Equiv T4 T15
+*	Equiv T8 T16
+E1	Localization Bacterium:T2 Localization:T9
+E2	Localization Bacterium:T2 Localization:T13
+E3	Localization Bacterium:T2 Localization:T17
+E4	Localization Bacterium:T1 Localization:T19
+E5	Localization Bacterium:T2 Localization:T4
+E6	Localization Bacterium:T2 Localization:T14
+E7	Localization Bacterium:T1 Localization:T20
+E8	PartOf Host:T4 Part:T13
+E9	Localization Bacterium:T2 Localization:T8
+E10	Localization Bacterium:T2 Localization:T7
+E11	Localization Bacterium:T2 Localization:T5

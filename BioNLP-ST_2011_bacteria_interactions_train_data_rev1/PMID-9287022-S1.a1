@@ -1,0 +1,23 @@
+T1	Protein 18 23	Spo0A
+T2	Transcription 34 47	transcription
+T3	Protein 58 64	sigmaA
+T4	Protein 70 76	sigmaH
+T5	Promoter 87 96	promoters
+W1	Word 0 17	Bacillus subtilis
+W2	Word 18 23	Spo0A
+W3	Word 24 33	activates
+W4	Word 34 47	transcription
+W5	Word 48 52	from
+W6	Word 53 57	both
+W7	Word 58 64	sigmaA
+W8	Word 66 69	and
+W9	Word 70 76	sigmaH
+W10	Word 77 86	dependent
+W11	Word 87 96	promoters
+R1	mod:ADJ-N W10 W9
+R2	obj:V-N W3 W4
+R3	subj:V-N W3 W2
+R4	mod:ADJ-N W10 W7
+R5	comp:N-N(from) W4 W11
+R6	mod_att:N-ADJ W11 W10
+R7	mod_att:N-N W2 W1

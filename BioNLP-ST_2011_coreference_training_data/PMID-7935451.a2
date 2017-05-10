@@ -1,0 +1,9 @@
+T20	Exp 253 287	a potent transcriptional activator
+T21	Exp 288 292	that
+T22	Exp 1551 1587	the RelA (p65) subunit of NF-kappa B
+T23	Exp 1589 1594	which
+T24	Exp 1732 1745	nuclear c-Rel
+T25	Exp 1762 1765	its
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22	[T16, T17]
+R3	Coref Anaphora:T25 Antecedent:T24	[T19]

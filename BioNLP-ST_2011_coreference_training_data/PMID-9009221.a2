@@ -1,0 +1,6 @@
+T4	Exp 705 713	evidence
+T5	Exp 714 718	that
+T6	Exp 1020 1034	the hypothesis
+T7	Exp 1035 1039	that
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

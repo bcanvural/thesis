@@ -1,0 +1,9 @@
+T6	Exp 858 887	Human vaginal fluid specimens	878 887	specimens
+T7	Exp 892 913	comparable properties	903 913	properties
+T8	Exp 915 920	which
+T9	Exp 937 942	their
+T10	Exp 1040 1059	indigenous bacteria	1051 1059	bacteria
+T11	Exp 1060 1064	that
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T9 Antecedent:T6
+R3	Coref Anaphora:T11 Antecedent:T10

@@ -1,0 +1,6 @@
+T1	Exp 561 618	T and B lymphocytes (e.g. NF-kB, NF-AT and STAT families)	569 580	lymphocytes
+T2	Exp 623 628	their
+T3	Exp 798 806	The data
+T4	Exp 836 841	their
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

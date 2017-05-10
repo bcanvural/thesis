@@ -1,3 +1,4 @@
+# Script that processes cv files placed under CVs/ to make them processable by Spark
 # -*- coding: utf-8 -*-
 import os
 import json

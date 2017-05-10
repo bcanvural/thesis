@@ -1,0 +1,11 @@
+T3	Entity 14 24	NF-kappa B
+T4	Entity 99 121	nuclear factor-kappa B
+T5	Entity 123 133	NF-kappa B
+T6	Entity 207 212	genes
+T7	Entity 400 410	NF-kappa B
+T8	Entity 524 534	NF-kappa B
+T9	Entity 571 581	NF-kappa B
+T10	Entity 709 717	enhancer
+T11	Entity 726 781	human immunodeficiency virus (HIV) long terminal repeat
+T12	Entity 783 786	LTR
+R1	Protein-Component Arg1:T2 Arg2:T10

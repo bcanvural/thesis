@@ -1,0 +1,15 @@
+T6	Exp 482 502	erythroid K562 cells
+T7	Exp 506 511	which
+T8	Exp 582 607	long enhancer transcripts
+T9	Exp 608 612	that
+T10	Exp 738 762	nonerythroid HL-60 cells
+T11	Exp 766 771	which
+T12	Exp 1276 1301	enhancer binding proteins	1293 1301	proteins
+T13	Exp 1305 1326	the promoter sequence
+T14	Exp 1327 1332	where
+T15	Exp 1333 1337	they
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T11 Antecedent:T10
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T15 Antecedent:T12

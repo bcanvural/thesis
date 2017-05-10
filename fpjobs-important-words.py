@@ -1,5 +1,6 @@
+#Running FP growth algorithm on "important" words per job. Important = higher value in TFIDF measure
 from pyspark.sql import SparkSession, Row
-from pyspark.ml.feature import  Tokenizer, StopWordsRemover, Word2VecModel, CountVectorizer, IDF
+from pyspark.ml.feature import  Tokenizer, StopWordsRemover, CountVectorizer, IDF
 from  pyspark.mllib.linalg import SparseVector, Vectors
 import numpy
 from string import punctuation
@@ -52,7 +53,6 @@ def main():
     idfModel = idf.fit(featurizedData)
     rescaledData = idfModel.transform(featurizedData)
     vocab = cv_model.vocabulary
-    # model = Word2VecModel.load("word2vec-model")
 
     indexed = rescaledData.select('jobid', 'features')\
     .rdd.map(lambda row: (row.jobid, sorted(add_indices(row.features), key=lambda x: x[0], reverse=True)))

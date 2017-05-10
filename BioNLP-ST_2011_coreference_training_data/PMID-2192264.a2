@@ -1,0 +1,6 @@
+T7	Exp 121 156	a highly specific protein inhibitor
+T8	Exp 247 278	IL-1-induced gene transcription
+T9	Exp 279 283	that
+T10	Exp 390 404	This inhibitor	395 404	inhibitor
+R1	Coref Anaphora:T9 Antecedent:T8	[T4]
+R2	Coref Anaphora:T10 Antecedent:T7

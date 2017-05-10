@@ -1,0 +1,18 @@
+T25	Exp 310 315	genes
+T26	Exp 316 320	that
+T27	Exp 690 701	these cells	696 701	cells
+T28	Exp 755 759	them
+T29	Exp 820 831	The ability
+T30	Exp 925 929	that
+T31	Exp 961 984	the mechanism of action	965 974	mechanism
+T32	Exp 961 993	the mechanism of action of BHRF1	965 974	mechanism
+T33	Exp 1004 1008	that
+T34	Exp 1032 1034	it
+T35	Exp 1653 1672	the protective role	1668 1672	role
+T36	Exp 1710 1714	that
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29
+R4	Coref Anaphora:T33 Antecedent:T31
+R5	Coref Anaphora:T34 Antecedent:T32	[T11]
+R6	Coref Anaphora:T36 Antecedent:T35

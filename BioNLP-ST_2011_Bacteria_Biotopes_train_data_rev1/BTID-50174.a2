@@ -1,0 +1,51 @@
+T1	Bacterium 0 15	Vibrio fischeri
+T2	Bacterium 16 31	Vibrio fischeri
+T3	Host 63 77	marine species
+T4	Bacterium 78 93	Vibrio fischeri
+T5	Bacterium 109 121	Vibrionaceae
+T6	Water 141 147	marine
+T7	Host 282 288	animal
+T8	Bacterium 336 342	Vibrio
+T9	Host 362 367	human
+T10	Bacterium 427 442	Vibrio cholerae
+T11	Bacterium 444 467	Vibrio parahaemolyticus
+T12	Bacterium 473 490	Vibrio vulnificus
+T13	Bacterium 684 699	Vibrio fischeri
+T14	Host 855 859	fish
+T15	Host 863 868	squid
+T16	HostPart 927 948	light-emitting organs
+T17	Host 971 977	squids
+T18	Host 982 988	fishes
+T19	Host 1007 1020	bobtail squid
+T20	Host 1022 1039	Euprymna scolopes
+T21	HostPart 1075 1087	light organs
+T22	Host 1095 1099	fish
+T23	Host 1103 1108	squid
+T24	HostPart 1644 1656	light organs
+*	Equiv T21 T24
+*	Equiv T1 T2
+*	Equiv T1 T4
+*	Equiv T1 T13
+*	Equiv T15 T17
+*	Equiv T15 T23
+*	Equiv T14 T18
+*	Equiv T14 T22
+*	Equiv T19 T20
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T16
+E3	PartOf Host:T15 Part:T16
+E4	PartOf Host:T14 Part:T16
+E5	Localization Bacterium:T5 Localization:T7
+E6	PartOf Host:T14 Part:T21
+E7	PartOf Host:T19 Part:T16
+E8	PartOf Host:T15 Part:T21
+E9	Localization Bacterium:T1 Localization:T21
+E10	Localization Bacterium:T1 Localization:T15
+E11	Localization Bacterium:T12 Localization:T9
+E12	Localization Bacterium:T11 Localization:T9
+E13	Localization Bacterium:T10 Localization:T9
+E14	Localization Bacterium:T1 Localization:T19
+E15	Localization Bacterium:T5 Localization:T6
+E16	Localization Bacterium:T1 Localization:T6
+E17	Localization Bacterium:T8 Localization:T9
+E18	Localization Bacterium:T1 Localization:T14

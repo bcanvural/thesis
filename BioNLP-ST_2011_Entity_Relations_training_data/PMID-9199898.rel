@@ -1,0 +1,20 @@
+*	Equiv T1 T2
+T6	Entity 0 16	S-allyl cysteine
+T7	Entity 40 62	nuclear factor kappa B
+T8	Entity 162 184	nuclear factor kappa B
+T9	Entity 186 196	NF-kappa B
+T10	Entity 321 337	S-allyl cysteine
+T11	Entity 339 342	SAC
+T12	Entity 496 499	SAC
+T13	Entity 503 513	NF-kappa B
+T14	Entity 635 645	NF-kappa B
+T15	Entity 747 750	SAC
+T16	Entity 805 815	NF-kappa B
+T17	Entity 999 1010	heterodimer
+T18	Entity 1018 1028	NF-kappa B
+T19	Entity 1064 1067	SAC
+T20	Entity 1112 1122	NF-kappa B
+R1	Subunit-Complex Arg1:T4 Arg2:T18
+R2	Subunit-Complex Arg1:T5 Arg2:T18
+R3	Subunit-Complex Arg1:T4 Arg2:T17
+R4	Subunit-Complex Arg1:T5 Arg2:T17

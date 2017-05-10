@@ -1,0 +1,9 @@
+T8	Exp 94 134	The first product of ascorbate oxidation	104 111	product
+T9	Exp 231 234	its
+T10	Exp 685 694	ascorbate
+T11	Exp 785 788	its
+T12	Exp 1281 1290	ascorbate
+T13	Exp 1294 1297	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12

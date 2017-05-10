@@ -1,0 +1,27 @@
+*	Equiv T4 T5
+*	Equiv T9 T10
+T23	Entity 84 92	promoter
+T24	Entity 373 379	region
+T25	Entity 408 416	promoter
+T26	Entity 463 482	cis-acting sequence
+T27	Entity 496 514	core binding motif
+T28	Entity 516 530	(A/T)GATA(A/G)
+T29	Entity 743 756	-70 GATA site
+T30	Entity 773 797	proximal promoter region
+T31	Entity 875 902	positive regulatory element
+T32	Entity 1012 1020	promoter
+T33	Entity 1060 1078	regulatory element
+T34	Entity 1086 1090	CLE0
+T35	Entity 1121 1134	-70 GATA site
+T36	Entity 1296 1327	consensus (A/T)GATA(G/ A) motif
+T37	Entity 1306 1321	(A/T)GATA(G/ A)
+T38	Entity 1450 1469	DNA-protein complex
+T39	Entity 1479 1492	-70 GATA site
+T40	Entity 1654 1667	-70 GATA site
+R1	Protein-Component Arg1:T2 Arg2:T23
+R2	Protein-Component Arg1:T7 Arg2:T24
+R3	Protein-Component Arg1:T7 Arg2:T25
+R4	Protein-Component Arg1:T12 Arg2:T29
+R5	Protein-Component Arg1:T12 Arg2:T30
+R6	Protein-Component Arg1:T14 Arg2:T32
+R7	Subunit-Complex Arg1:T18 Arg2:T38

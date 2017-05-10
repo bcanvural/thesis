@@ -1,0 +1,17 @@
+*	Equiv T6 T7
+T29	Entity 83 92	NF-kappaB
+T30	Entity 747 755	promoter
+T31	Entity 879 888	NF-kappaB
+T32	Entity 929 951	NF-kappaB binding site
+T33	Entity 929 938	NF-kappaB
+T34	Entity 976 984	promoter
+T35	Entity 1043 1065	NF-kappaB-like element
+T36	Entity 1043 1052	NF-kappaB
+T37	Entity 1098 1107	NF-kappaB
+T38	Entity 1188 1196	promoter
+T39	Entity 1273 1282	NF-kappaB
+T40	Entity 1382 1391	NF-kappaB
+R1	Protein-Component Arg1:T18 Arg2:T30
+R2	Protein-Component Arg1:T21 Arg2:T32
+R3	Protein-Component Arg1:T21 Arg2:T34
+R4	Protein-Component Arg1:T24 Arg2:T38

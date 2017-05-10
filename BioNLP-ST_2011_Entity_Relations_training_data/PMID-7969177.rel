@@ -1,0 +1,34 @@
+T4	Entity 28 78	class II major histocompatibility complex gene DPA
+T5	Entity 197 217	DNA sequence element
+T6	Entity 229 238	J element
+T7	Entity 279 326	class II major histocompatibility complex genes
+T8	Entity 389 402	class II gene
+T9	Entity 425 437	cDNA library
+T10	Entity 456 478	oligonucleotide probes
+T11	Entity 499 508	S element
+T12	Entity 524 533	J element
+T13	Entity 711 734	688 amino acid residues
+T14	Entity 749 767	zinc finger motifs
+T15	Entity 775 784	C2H2 type
+T16	Entity 792 809	C-terminal region
+T17	Entity 860 877	H/C link sequence
+T18	Entity 899 925	160 N-terminal amino acids
+T19	Entity 933 949	nonfinger region
+T20	Entity 1051 1060	sequences
+T21	Entity 1181 1201	Drosophila sequences
+T22	Entity 1203 1206	ttk
+T23	Entity 1213 1239	developmental control gene
+T24	Entity 1275 1293	zinc finger region
+T25	Entity 1354 1378	acidic activation domain
+T26	Entity 1402 1429	N-terminal conserved region
+T27	Entity 1450 1462	zinc fingers
+T28	Entity 1505 1506	S
+T29	Entity 1511 1521	J elements
+T30	Entity 1546 1551	10 bp
+T31	Entity 1573 1599	Antisense cDNA to clone 18
+T32	Entity 1573 1587	Antisense cDNA
+T33	Entity 1668 1676	promoter
+T34	Entity 1741 1754	class II gene
+R1	Protein-Component Arg1:T2 Arg2:T12
+R2	Protein-Component Arg1:T2 Arg2:T11
+R3	Protein-Component Arg1:T3 Arg2:T33

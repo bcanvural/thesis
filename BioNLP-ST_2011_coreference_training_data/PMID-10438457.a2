@@ -1,0 +1,6 @@
+T8	Exp 147 180	a ubiquitous transcription factor	160 180	transcription factor
+T9	Exp 181 185	that
+T10	Exp 312 335	activation of NF-kappaB	312 322	activation
+T11	Exp 337 342	which
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

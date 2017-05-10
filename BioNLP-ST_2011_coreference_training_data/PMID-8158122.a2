@@ -1,0 +1,12 @@
+T7	Exp 73 112	The nuclear factor kappa B (NF-kappa B)
+T8	Exp 178 180	it
+T9	Exp 778 786	reagents
+T10	Exp 882 887	which
+T11	Exp 1330 1371	protein kinase C (PKC) enzymatic activity
+T12	Exp 1401 1405	that
+T13	Exp 1540 1553	retinoic acid
+T14	Exp 1555 1560	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T14 Antecedent:T13

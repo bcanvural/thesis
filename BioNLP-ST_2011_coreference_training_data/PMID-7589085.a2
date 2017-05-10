@@ -1,0 +1,3 @@
+T11	Exp 505 556	The effect of the mAb towards NF-kappa B activation	509 515	effect
+T12	Exp 571 573	it
+R1	Coref Anaphora:T12 Antecedent:T11

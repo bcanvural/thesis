@@ -1,0 +1,14 @@
+T26	Exp 78 104	a B-cell-specific response
+T27	Exp 105 109	that
+T28	Exp 667 705	an artifact of the selection procedure
+T29	Exp 706 713	whereby
+T30	Exp 839 843	LMP1
+T31	Exp 889 926	two different experimental approaches
+T32	Exp 927 931	that
+T33	Exp 1014 1031	the viral protein
+T34	Exp 2345 2362	the viral protein	2355 2362	protein
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28
+R3	Coref Anaphora:T32 Antecedent:T31
+R4	Coref Anaphora:T33 Antecedent:T30	[T9]
+R5	Coref Anaphora:T34 Antecedent:T33

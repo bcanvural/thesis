@@ -1,0 +1,6 @@
+T5	Entity 247 273	transcription factor genes
+T6	Entity 308 330	chromosome breakpoints
+T7	Entity 601 614	AML1/CBF beta
+T8	Entity 785 807	myeloid-specific genes
+R1	Subunit-Complex Arg1:T1 Arg2:T7
+R2	Subunit-Complex Arg1:T2 Arg2:T7

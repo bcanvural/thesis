@@ -1,0 +1,15 @@
+T35	Exp 642 661	the cell line HT93A	646 655	cell line
+T36	Exp 663 668	which
+T37	Exp 1780 1795	FOG (riend ATA)
+T38	Exp 1797 1802	which
+T39	Exp 1983 2001	the first evidence	1993 2001	evidence
+T40	Exp 2002 2006	that
+T41	Exp 2127 2131	that
+T42	Exp 2132 2135	FOG
+T43	Exp 2202 2205	its
+R1	Coref Anaphora:T36 Antecedent:T35
+R2	Coref Anaphora:T38 Antecedent:T37
+R3	Coref Anaphora:T40 Antecedent:T39
+R4	Coref Anaphora:T41 Antecedent:T39
+R5	Coref Anaphora:T42 Antecedent:T37
+R6	Coref Anaphora:T43 Antecedent:T42

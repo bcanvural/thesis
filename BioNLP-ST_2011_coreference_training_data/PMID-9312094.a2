@@ -1,0 +1,12 @@
+T10	Exp 26 56	the A-MYB transcription factor
+T11	Exp 76 79	its
+T12	Exp 236 266	the A-MYB transcription factor
+T13	Exp 385 387	it
+T14	Exp 524 561	the transcriptional activity of A-MYB	544 552	activity
+T15	Exp 566 569	its
+T16	Exp 1329 1346	a 110-kDa protein	1339 1346	protein
+T17	Exp 1417 1421	that
+R1	Coref Anaphora:T11 Antecedent:T10	[T1]
+R2	Coref Anaphora:T13 Antecedent:T12	[T2]
+R3	Coref Anaphora:T15 Antecedent:T14	[T3]
+R4	Coref Anaphora:T17 Antecedent:T16

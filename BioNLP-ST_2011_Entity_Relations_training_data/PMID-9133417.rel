@@ -1,0 +1,8 @@
+T20	Entity 300 308	tyrosine
+T21	Entity 419 427	tyrosine
+T22	Entity 565 586	proline-rich sequence
+T23	Entity 594 618	membrane-proximal region
+R1	Protein-Component Arg1:T9 Arg2:T21
+R2	Protein-Component Arg1:T8 Arg2:T21
+R3	Protein-Component Arg1:T12 Arg2:T23
+R4	Protein-Component Arg1:T12 Arg2:T22

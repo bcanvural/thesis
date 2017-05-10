@@ -1,0 +1,87 @@
+T1	Bacterium 0 11	Spirochaeta
+T2	Bacterium 51 62	Spirochaeta
+T3	Water 241 252	freshwaters
+T4	Water 257 270	marine waters
+T5	Water 350 361	hot springs
+T6	Geographical 365 376	New Zealand
+T7	Bacterium 406 426	Spirochaeta caldaria
+T8	Environment 432 466	cyanobacterial mats of hot springs
+T9	Geographical 470 474	Utah
+T10	Geographical 479 485	Oregon
+T11	Bacterium 517 540	Spirochaeta thermophila
+T12	Water 546 558	marine areas
+T13	Geographical 562 579	Shiaskotan Island
+T14	Geographical 583 589	Russia
+T15	Bacterium 639 650	S. alkalica
+T16	Bacterium 652 663	S. africana
+T17	Bacterium 665 676	S. asiatica
+T18	Geographical 704 715	Lake Magadi
+T19	Geographical 719 724	Kenya
+T20	Environment 734 765	sulfide-saturated mud sediments
+T21	Geographical 769 780	Lake Khatyn
+T22	Geographical 784 791	Siberia
+T23	Bacterium 880 891	Spirochaeta
+T24	Environment 930 951	anaerobic bioreactors
+T25	HostPart 961 976	digestive tract
+T26	Host 980 988	termites
+T27	Bacterium 3920 3936	Spirochaeta spp.
+T28	Host 3966 3973	termite
+T29	HostPart 3974 3977	gut
+T30	Bacterium 4058 4069	Spirochaeta
+T31	Water 4181 4201	aquatic environments
+T32	Bacterium 4597 4608	Spirochaeta
+T33	Water 4654 4674	aquatic environments
+T34	Water 4688 4693	water
+T35	Environment 4695 4722	sediments and muds of ponds
+T36	Environment 4724 4731	marshes
+T37	Water 4733 4738	lakes
+T38	Water 4740 4746	rivers
+T39	Water 4751 4757	oceans
+T40	Bacterium 7150 7170	Spirochaeta caldaria
+T41	Water 7213 7234	freshwater hot spring
+*	Equiv T1 T2
+*	Equiv T1 T23
+*	Equiv T1 T30
+*	Equiv T1 T32
+*	Equiv T7 T40
+E1	Localization Bacterium:T17 Localization:T20
+E2	Localization Bacterium:T15 Localization:T19
+E3	Localization Bacterium:T11 Localization:T13
+E4	Localization Bacterium:T1 Localization:T39
+E5	Localization Bacterium:T11 Localization:T12
+E6	Localization Bacterium:T16 Localization:T18
+E7	Localization Bacterium:T7 Localization:T41
+E8	Localization Bacterium:T11 Localization:T14
+E9	Localization Bacterium:T15 Localization:T20
+E10	Localization Bacterium:T1 Localization:T35
+E11	Localization Bacterium:T1 Localization:T26
+E12	Localization Bacterium:T1 Localization:T31
+E13	Localization Bacterium:T16 Localization:T22
+E14	Localization Bacterium:T15 Localization:T18
+E15	Localization Bacterium:T1 Localization:T36
+E16	Localization Bacterium:T7 Localization:T8
+E17	Localization Bacterium:T16 Localization:T21
+E18	Localization Bacterium:T1 Localization:T25
+E19	Localization Bacterium:T1 Localization:T24
+E20	Localization Bacterium:T1 Localization:T33
+E21	Localization Bacterium:T1 Localization:T3
+E22	Localization Bacterium:T7 Localization:T10
+E23	Localization Bacterium:T17 Localization:T19
+E24	Localization Bacterium:T7 Localization:T9
+E25	Localization Bacterium:T27 Localization:T29
+E26	Localization Bacterium:T1 Localization:T37
+E27	PartOf Host:T26 Part:T25
+E28	Localization Bacterium:T1 Localization:T5
+E29	Localization Bacterium:T1 Localization:T4
+E30	Localization Bacterium:T16 Localization:T20
+E31	Localization Bacterium:T17 Localization:T18
+E32	Localization Bacterium:T27 Localization:T28
+E33	PartOf Host:T28 Part:T29
+E34	Localization Bacterium:T17 Localization:T22
+E35	Localization Bacterium:T17 Localization:T21
+E36	Localization Bacterium:T15 Localization:T22
+E37	Localization Bacterium:T16 Localization:T19
+E38	Localization Bacterium:T1 Localization:T34
+E39	Localization Bacterium:T15 Localization:T21
+E40	Localization Bacterium:T1 Localization:T6
+E41	Localization Bacterium:T1 Localization:T38

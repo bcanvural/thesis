@@ -1,0 +1,2 @@
+Novel conserved assembly factor of the bacterial flagellum.
+TP0658 (FliW) and its orthologs, conserved proteins of unknown function in Treponema pallidum and other species, interact with a C-terminal region of flagellin (FlaB1-3 in T. pallidum; FliC in most other species). Mutants of orthologs in Bacillus subtilis and Campylobacter jejuni (yviF, CJ1075) showed strongly reduced motility. TP0658 stabilizes flagellin in a way similar to FliS, suggesting that TP0658 is a conserved assembly factor for the bacterial flagellum.

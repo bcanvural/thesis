@@ -1,0 +1,20 @@
+*	Equiv T5 T6
+*	Equiv T7 T8
+T25	Entity 138 141	CD8
+T26	Entity 145 148	CD3
+T27	Entity 602 605	CD8
+T28	Entity 609 612	CD3
+T29	Entity 743 767	HIV long terminal repeat
+T30	Entity 792 801	NF-kappaB
+T31	Entity 852 861	NF-kappaB
+T32	Entity 894 901	complex
+T33	Entity 1099 1102	CD8
+T34	Entity 1106 1109	CD3
+T35	Entity 1270 1279	NF-kappaB
+T36	Entity 1400 1409	NF-kappaB
+T37	Entity 1591 1594	CD8
+T38	Entity 1598 1601	CD3
+T39	Entity 1943 1946	CD8
+T40	Entity 1950 1953	CD3
+R1	Subunit-Complex Arg1:T10 Arg2:T32
+R2	Subunit-Complex Arg1:T11 Arg2:T32

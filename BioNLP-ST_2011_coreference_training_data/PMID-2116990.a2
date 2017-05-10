@@ -1,0 +1,6 @@
+T5	Exp 500 525	tandem AP-1-binding sites	520 525	sites
+T6	Exp 547 552	which
+T7	Exp 871 912	the increase in globin gene transcription
+T8	Exp 913 917	that
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

@@ -1,0 +1,8 @@
+T18	Entity 47 60	cytokine gene
+T19	Entity 909 919	NF-kappa B
+T20	Entity 961 977	response element
+T21	Entity 990 998	promoter
+T22	Entity 1225 1233	promoter
+R1	Protein-Component Arg1:T8 Arg2:T20
+R2	Protein-Component Arg1:T8 Arg2:T21
+R3	Protein-Component Arg1:T11 Arg2:T22

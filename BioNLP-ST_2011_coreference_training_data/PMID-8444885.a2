@@ -1,0 +1,11 @@
+T1	Exp 507 614	a regulatory element found within the transcriptional regulatory sequences of many erythroid-specific genes	520 527	element
+T2	Exp 682 694	this element	687 694	element
+T3	Exp 784 820	this transcriptional control element	813 820	element
+T4	Exp 887 892	NF-E2
+T5	Exp 896 899	its
+T6	Exp 1208 1221	hemin and TPA
+T7	Exp 1281 1286	their
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T3 Antecedent:T2
+R3	Coref Anaphora:T5 Antecedent:T4
+R4	Coref Anaphora:T7 Antecedent:T6

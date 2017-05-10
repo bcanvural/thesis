@@ -1,0 +1,12 @@
+T11	Exp 557 571	a human T cell
+T12	Exp 590 593	its
+T13	Exp 590 607	its subclone JCT6
+T14	Exp 609 614	which
+T15	Exp 985 994	TNF alpha
+T16	Exp 1032 1035	its
+T17	Exp 1465 1476	a mechanism
+T18	Exp 1477 1481	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15	[T8]
+R4	Coref Anaphora:T18 Antecedent:T17

@@ -1,0 +1,6 @@
+T6	Exp 563 591	the B2 isoform (Mr = 56,000)	570 577	isoform
+T7	Exp 786 795	this gene	791 795	gene
+T8	Exp 1037 1046	sequences
+T9	Exp 1047 1051	that
+R1	Coref Anaphora:T7 Antecedent:T6	[T2]
+R2	Coref Anaphora:T9 Antecedent:T8

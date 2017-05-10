@@ -1,0 +1,8 @@
+T10	Exp 107 154	Three subtypes of retinoic acid receptors (RAR)	113 121	subtypes
+T11	Exp 220 224	They
+T12	Exp 1615 1670	distinctly different requirements for efficient binding	1636 1648	requirements
+T13	Exp 1672 1677	which
+T14	Exp 1696 1701	their
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T14 Antecedent:T12

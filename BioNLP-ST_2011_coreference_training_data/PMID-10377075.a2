@@ -1,0 +1,9 @@
+T20	Exp 397 457	Peroxisome proliferator-activated receptor-alpha (PPARalpha)
+T21	Exp 659 664	their
+T22	Exp 1475 1484	PPARalpha
+T23	Exp 1545 1548	its
+T24	Exp 1667 1707	lipid-lowering agents, like fibric acids	1682 1688	agents
+T25	Exp 1709 1714	which
+R1	Coref Anaphora:T21 Antecedent:T20	[T3, T2]
+R2	Coref Anaphora:T23 Antecedent:T22	[T17]
+R3	Coref Anaphora:T25 Antecedent:T24

@@ -1,0 +1,26 @@
+*	Equiv T17 T18
+T24	Entity 251 267	lymphokine genes
+T25	Entity 487 503	lymphokine genes
+T26	Entity 589 606	response elements
+T27	Entity 622 639	regulatory region
+T28	Entity 648 668	Nuclear factor NF-kB
+T29	Entity 670 690	activation protein 1
+T30	Entity 692 696	AP-1
+T31	Entity 832 848	response element
+T32	Entity 860 868	enhancer
+T33	Entity 879 906	NF-AT-like response element
+T34	Entity 926 934	enhancer
+T35	Entity 1223 1240	regulatory region
+T36	Entity 1271 1289	enhancer sequences
+T37	Entity 1326 1343	regulatory region
+T38	Entity 1368 1386	NF-AT-binding site
+T39	Entity 1512 1542	proximal (OCT-1p)-binding site
+R1	Protein-Component Arg1:T13 Arg2:T27
+R2	Protein-Component Arg1:T13 Arg2:T26
+R3	Protein-Component Arg1:T15 Arg2:T31
+R4	Protein-Component Arg1:T16 Arg2:T33
+R5	Protein-Component Arg1:T15 Arg2:T32
+R6	Protein-Component Arg1:T16 Arg2:T34
+R7	Protein-Component Arg1:T19 Arg2:T35
+R8	Protein-Component Arg1:T21 Arg2:T37
+R9	Protein-Component Arg1:T23 Arg2:T39

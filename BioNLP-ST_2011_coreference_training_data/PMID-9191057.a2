@@ -1,0 +1,9 @@
+T20	Exp 865 901	at least three protein binding sites	896 901	sites
+T21	Exp 903 906	two
+T22	Exp 910 915	which
+T23	Exp 946 950	They
+T24	Exp 1105 1154	The mitogenic combination of anti CD2 + anti CD28	1119 1130	combination
+T25	Exp 1330 1342	this element	1335 1342	element
+R1	Coref Anaphora:T22 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T21
+R3	Coref Anaphora:T25 Antecedent:T24	[T16, T17]

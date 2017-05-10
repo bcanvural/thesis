@@ -1,0 +1,166 @@
+T1	Bacterium 0 18	Campylobacter coli
+T2	Bacterium 48 66	Campylobacter coli
+T3	Bacterium 68 75	C. coli
+T4	HostPart 310 326	intestinal tract
+T5	Host 330 337	animals
+T6	HostPart 368 389	intestinal epithelium
+T7	HostPart 429 445	epithelial layer
+T8	HostPart 467 478	bloodstream
+T9	Bacterium 483 490	C. coli
+T10	Bacterium 533 553	Campylobacter jejuni
+T11	Bacterium 555 564	C. jejuni
+T12	Host 639 646	animals
+T13	Host 651 657	humans
+T14	Host 664 669	human
+T15	Bacterium 708 717	C. jejuni
+T16	Bacterium 725 732	C. coli
+T17	Host 925 933	patients
+T18	Bacterium 1056 1063	C. coli
+T19	Host 1089 1093	pigs
+T20	Host 1095 1100	birds
+T21	Water 1106 1119	surface water
+T22	Bacterium 2026 2033	C. coli
+T23	Bacterium 2200 2207	C. coli
+T24	HostPart 2448 2457	intestine
+T25	HostPart 2517 2533	intestinal tract
+T26	Bacterium 2544 2551	C. coli
+T27	Bacterium 3067 3074	C. coli
+T28	Bacterium 3133 3142	C. jejuni
+T29	Bacterium 3288 3294	C.coli
+T30	Host 3320 3324	pigs
+T31	Host 3326 3331	birds
+T32	Water 3336 3363	environmental surface water
+T33	Host 3385 3390	birds
+T34	Bacterium 3416 3425	C. jejuni
+T35	Bacterium 3445 3452	C. coli
+T36	Bacterium 3472 3479	C. coli
+T37	Host 3532 3537	birds
+T38	Host 3539 3578	Birds that are feeding on invertebrates
+T39	Host 3580 3601	opportunistic feeders
+T40	Host 3607 3636	birds that have a larger mass
+T41	Geographical 3696 3702	Europe
+T42	Geographical 3711 3717	Africa
+T43	Geographical 3723 3734	Middle East
+T44	Geographical 3739 3743	Asia
+T45	Bacterium 3759 3766	C. coli
+T46	Host 3784 3791	animals
+T47	Host 3796 3802	humans
+T48	Host 3804 3810	People
+T49	Food 3842 3849	poultry
+T50	Food 3886 3894	raw food
+T51	Food 3905 3913	raw milk
+T52	Food 3928 3940	bottle water
+T53	HostPart 4213 4229	intestinal tract
+T54	Host 4233 4240	animals
+T55	Host 4245 4251	humans
+T56	HostPart 4315 4336	intestinal epithelium
+T57	HostPart 4376 4392	epithelial layer
+T58	HostPart 4413 4424	bloodstream
+T59	Host 4429 4437	Patients
+T60	Bacterium 4443 4450	C. coli
+T61	Bacterium 4987 4994	C. coli
+T62	Host 5179 5183	pigs
+T63	Bacterium 5327 5358	antimicrobial-resistant C. coli
+T64	Host 5479 5487	ABF pigs
+T65	Geographical 5495 5498	USA
+T66	Bacterium 5791 5800	C. jejuni
+T67	Bacterium 5805 5811	C.coli
+T68	Food 5896 5908	chicken meat
+T69	Bacterium 6008 6021	Campylobacter
+T70	Geographical 6025 6027	US
+T71	Host 6028 6040	dairy cattle
+T72	HostPart 6042 6047	Feces
+T73	Host 6066 6070	cows
+T74	Bacterium 6088 6097	C. jejuni
+T75	Bacterium 6102 6109	C. coli
+*	Equiv T20 T31
+*	Equiv T19 T30
+*	Equiv T10 T11
+*	Equiv T10 T15
+*	Equiv T10 T28
+*	Equiv T10 T34
+*	Equiv T10 T66
+*	Equiv T10 T74
+*	Equiv T1 T2
+*	Equiv T1 T3
+*	Equiv T1 T9
+*	Equiv T1 T16
+*	Equiv T1 T18
+*	Equiv T1 T22
+*	Equiv T1 T23
+*	Equiv T1 T26
+*	Equiv T1 T27
+*	Equiv T1 T29
+*	Equiv T1 T35
+*	Equiv T1 T36
+*	Equiv T1 T45
+*	Equiv T1 T60
+*	Equiv T1 T61
+*	Equiv T1 T67
+*	Equiv T1 T75
+E1	Localization Bacterium:T63 Localization:T65
+E2	Localization Bacterium:T1 Localization:T68
+E3	Localization Bacterium:T63 Localization:T64
+E4	Localization Bacterium:T1 Localization:T73
+E5	Localization Bacterium:T1 Localization:T52
+E6	Localization Bacterium:T1 Localization:T24
+E7	Localization Bacterium:T1 Localization:T13
+E8	Localization Bacterium:T10 Localization:T12
+E9	Localization Bacterium:T1 Localization:T50
+E10	Localization Bacterium:T1 Localization:T72
+E11	Localization Bacterium:T10 Localization:T14
+E12	PartOf Host:T54 Part:T57
+E13	PartOf Host:T55 Part:T53
+E14	Localization Bacterium:T10 Localization:T17
+E15	Localization Bacterium:T69 Localization:T71
+E16	Localization Bacterium:T1 Localization:T40
+E17	Localization Bacterium:T1 Localization:T12
+E18	Localization Bacterium:T1 Localization:T21
+E19	PartOf Host:T54 Part:T58
+E20	Localization Bacterium:T1 Localization:T46
+E21	Localization Bacterium:T1 Localization:T51
+E22	Localization Bacterium:T10 Localization:T73
+E23	PartOf Host:T5 Part:T7
+E24	Localization Bacterium:T1 Localization:T47
+E25	PartOf Host:T73 Part:T72
+E26	PartOf Host:T5 Part:T8
+E27	PartOf Host:T55 Part:T56
+E28	PartOf Host:T54 Part:T56
+E29	Localization Bacterium:T1 Localization:T48
+E30	Localization Bacterium:T1 Localization:T59
+E31	Localization Bacterium:T1 Localization:T49
+E32	PartOf Host:T54 Part:T53
+E33	Localization Bacterium:T69 Localization:T70
+E34	Localization Bacterium:T1 Localization:T37
+E35	PartOf Host:T55 Part:T57
+E36	Localization Bacterium:T1 Localization:T58
+E37	Localization Bacterium:T1 Localization:T41
+E38	Localization Bacterium:T1 Localization:T6
+E39	PartOf Host:T5 Part:T4
+E40	Localization Bacterium:T1 Localization:T42
+E41	PartOf Host:T55 Part:T58
+E42	Localization Bacterium:T1 Localization:T55
+E43	Localization Bacterium:T1 Localization:T4
+E44	Localization Bacterium:T1 Localization:T33
+E45	Localization Bacterium:T1 Localization:T7
+E46	Localization Bacterium:T1 Localization:T54
+E47	Localization Bacterium:T10 Localization:T72
+E48	PartOf Host:T5 Part:T6
+E49	Localization Bacterium:T1 Localization:T5
+E50	Localization Bacterium:T1 Localization:T39
+E51	Localization Bacterium:T1 Localization:T53
+E52	Localization Bacterium:T1 Localization:T44
+E53	Localization Bacterium:T1 Localization:T32
+E54	Localization Bacterium:T10 Localization:T68
+E55	Localization Bacterium:T1 Localization:T38
+E56	Localization Bacterium:T1 Localization:T43
+E57	Localization Bacterium:T1 Localization:T25
+E58	Localization Bacterium:T10 Localization:T13
+E59	Localization Bacterium:T10 Localization:T33
+E60	Localization Bacterium:T1 Localization:T8
+E61	Localization Bacterium:T1 Localization:T19
+E62	Localization Bacterium:T1 Localization:T57
+E63	Localization Bacterium:T1 Localization:T20
+E64	Localization Bacterium:T1 Localization:T56
+E65	Localization Bacterium:T1 Localization:T62
+E66	Localization Bacterium:T1 Localization:T14

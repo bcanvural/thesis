@@ -1,0 +1,2 @@
+Localization of a new promoter, P5, in the sigA operon of Bacillus subtilis and its regulation in some spo mutant strains.
+The sigA operon of Bacillus subtilis is transcribed from at least two SigA and two SigH promoters. Primer extension and promoter probe analyses have localized a fifth promoter, P5, that is active only at later sporulation stages (T3 to T5). Mutations in the genes for the sigma factors SigG, SigK, SigH, and SigE do not block transcription from P5. The expression from P5 is blocked or severely reduced in spo0A, spo0B, spo0E, and spo0K mutants.

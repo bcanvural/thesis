@@ -1,0 +1,27 @@
+T1	Action 3 6	its
+T2	Action 17 30	concentration
+T3	Protein 34 40	sigmaF
+T4	Action 70 74	that
+T5	Protein 78 84	sigmaA
+W1	Word 0 2	At
+W2	Word 3 6	its
+W3	Word 7 11	peak
+W4	Word 13 16	the
+W5	Word 17 30	concentration
+W6	Word 31 33	of
+W7	Word 34 40	sigmaF
+W8	Word 41 44	was
+W9	Word 45 49	some
+W10	Word 50 57	twofold
+W11	Word 58 64	higher
+W12	Word 65 69	than
+W13	Word 70 74	that
+W14	Word 75 77	of
+W15	Word 78 84	sigmaA
+R1	comp:N-N(of) W5 W7
+R2	mod:ADJ-ADV W11 W10
+R3	mod:ADV-ADV W10 W9
+R4	comp:N-N(of) W13 W15
+R5	mod_pred:N-ADJ W5 W11
+R6	comp:V-N(at) W8 W3
+R7	comp:ADJ-N(than) W11 W13

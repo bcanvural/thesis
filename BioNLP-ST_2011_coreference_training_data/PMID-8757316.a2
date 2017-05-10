@@ -1,0 +1,6 @@
+T16	Exp 1432 1454	alpha 4 beta 1 ligands	1447 1454	ligands
+T17	Exp 1521 1524	its
+T18	Exp 1614 1631	a distinct signal	1625 1631	signal
+T19	Exp 1632 1636	that
+R1	Coref Anaphora:T17 Antecedent:T16	[T14]
+R2	Coref Anaphora:T19 Antecedent:T18

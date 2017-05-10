@@ -1,0 +1,9 @@
+T7	Exp 169 179	a cytokine
+T8	Exp 180 184	that
+T9	Exp 249 318	an inducible T cell-specific enhancer 14 kb upstream of the IL-3 gene	278 286	enhancer
+T10	Exp 319 323	that
+T11	Exp 698 740	overlapping Oct- and NFATp/c-binding sites	735 740	sites
+T12	Exp 742 747	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9	[T4]
+R3	Coref Anaphora:T12 Antecedent:T11

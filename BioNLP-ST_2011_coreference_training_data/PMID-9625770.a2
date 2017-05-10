@@ -1,0 +1,3 @@
+T9	Exp 490 611	Tumor necrosis factor receptor-activated factor 6 (TRAF6) and the nuclear factor kappaB (NF-kappaB)-inducing kinase (NIK)
+T10	Exp 616 620	both
+R1	Coref Anaphora:T10 Antecedent:T9	[T4, T7, T6, T5]

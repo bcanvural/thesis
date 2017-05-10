@@ -1,0 +1,43 @@
+*	Equiv T24 T25
+T27	Entity 116 124	enhancer
+T28	Entity 557 560	TCR
+T29	Entity 644 658	HIV-1 promoter
+T30	Entity 695 703	enhancer
+T31	Entity 711 720	promoters
+T32	Entity 894 907	binding motif
+T33	Entity 909 927	5'-GGCACCCTTTGA-3'
+T34	Entity 991 1000	enhancers
+T35	Entity 1343 1357	95-bp fragment
+T36	Entity 1375 1389	control region
+T37	Entity 1420 1432	binding site
+T38	Entity 1454 1475	cAMP-response element
+T39	Entity 1498 1503	motif
+T40	Entity 1513 1525	binding site
+T41	Entity 1601 1625	T-cell-specific enhancer
+T42	Entity 1635 1648	Tandem copies
+T43	Entity 1820 1832	binding site
+T44	Entity 1915 1938	tandem enhancer repeats
+T45	Entity 1956 1968	binding site
+T46	Entity 2001 2009	enhancer
+T47	Entity 2186 2201	binding element
+T48	Entity 2241 2265	its neighboring elements
+T49	Entity 2283 2291	enhancer
+T50	Entity 2343 2364	heterologous promoter
+T51	Entity 2553 2561	enhancer
+R1	Protein-Component Arg1:T2 Arg2:T27
+R2	Protein-Component Arg1:T5 Arg2:T30
+R3	Protein-Component Arg1:T10 Arg2:T32
+R4	Protein-Component Arg1:T11 Arg2:T32
+R5	Protein-Component Arg1:T10 Arg2:T34
+R6	Protein-Component Arg1:T11 Arg2:T34
+R7	Protein-Component Arg1:T13 Arg2:T35
+R8	Protein-Component Arg1:T13 Arg2:T38
+R9	Protein-Component Arg1:T13 Arg2:T41
+R10	Protein-Component Arg1:T13 Arg2:T40
+R11	Protein-Component Arg1:T13 Arg2:T39
+R12	Protein-Component Arg1:T13 Arg2:T36
+R13	Protein-Component Arg1:T18 Arg2:T46
+R14	Protein-Component Arg1:T21 Arg2:T48
+R15	Protein-Component Arg1:T21 Arg2:T47
+R16	Protein-Component Arg1:T21 Arg2:T49
+R17	Protein-Component Arg1:T26 Arg2:T51

@@ -1,0 +1,21 @@
+T4	Entity 26 60	endogenous Ig heavy chain enhancer
+T5	Entity 133 157	transcriptional enhancer
+T6	Entity 193 235	immunoglobulin heavy chain constant region
+T7	Entity 292 312	immunoglobulin genes
+T8	Entity 325 334	enhancers
+T9	Entity 340 363	Ig heavy chain enhancer
+T10	Entity 387 402	sequence motifs
+T11	Entity 450 462	binding site
+T12	Entity 506 514	enhancer
+T13	Entity 527 541	single element
+T14	Entity 616 650	Ig heavy chain enhancer components
+T15	Entity 691 708	sequence elements
+T16	Entity 752 769	E3 enhancer motif
+T17	Entity 771 779	CATGTGGC
+T18	Entity 1014 1039	transfected reporter gene
+T19	Entity 1099 1122	Ig heavy chain enhancer
+T20	Entity 1600 1610	NF-kappa B
+T21	Entity 1780 1797	E3 sequence motif
+T22	Entity 1918 1941	Ig heavy chain enhancer
+T23	Entity 1990 1999	chromatin
+T24	Entity 2017 2037	Ig heavy chain locus

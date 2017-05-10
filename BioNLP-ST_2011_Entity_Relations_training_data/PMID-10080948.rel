@@ -1,0 +1,7 @@
+T15	Entity 54 72	cytoplasmic domain
+T16	Entity 146 164	cytoplasmic domain
+T17	Entity 224 239	serine residues
+T18	Entity 685 703	cytoplasmic domain
+R1	Protein-Component Arg1:T2 Arg2:T15
+R2	Protein-Component Arg1:T4 Arg2:T16
+R3	Protein-Component Arg1:T8 Arg2:T18

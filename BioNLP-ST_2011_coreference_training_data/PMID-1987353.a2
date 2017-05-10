@@ -1,0 +1,3 @@
+T7	Exp 358 392	transcription initiation sequences	383 392	sequences
+T8	Exp 393 397	that
+R1	Coref Anaphora:T8 Antecedent:T7

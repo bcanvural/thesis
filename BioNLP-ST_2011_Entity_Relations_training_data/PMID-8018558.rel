@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+T10	Entity 400 406	serine
+T11	Entity 407 416	threonine
+T12	Entity 531 539	promoter
+T13	Entity 553 577	CC(A/T)6GG (CArG) motifs
+T14	Entity 587 616	5'-most distal CArG sequences
+T15	Entity 983 1003	5'-most CArG element
+T16	Entity 1055 1061	serine
+T17	Entity 1062 1071	threonine
+T18	Entity 1189 1195	serine
+T19	Entity 1196 1205	threonine
+T20	Entity 1577 1608	peptide derived from S6 protein
+T21	Entity 1577 1584	peptide
+R1	Protein-Component Arg1:T5 Arg2:T13
+R2	Protein-Component Arg1:T5 Arg2:T12
+R3	Protein-Component Arg1:T7 Arg2:T15
+R4	Protein-Component Arg1:T8 Arg2:T16
+R5	Protein-Component Arg1:T8 Arg2:T17

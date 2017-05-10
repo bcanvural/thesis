@@ -1,0 +1,21 @@
+*	Equiv T3 T4
+*	Equiv T12 T13
+T25	Entity 35 43	promoter
+T26	Entity 496 547	regulatory elements in the proximal promoter region
+T27	Entity 689 721	sequences (termed P0 through P4)
+T28	Entity 734 742	promoter
+T29	Entity 1050 1058	promoter
+T30	Entity 1125 1127	P1
+T31	Entity 1129 1131	P2
+T32	Entity 1137 1153	P4 NFAT elements
+T33	Entity 1358 1387	multimerized response element
+T34	Entity 1397 1418	germline IgE promoter
+T35	Entity 1502 1510	promoter
+T36	Entity 1613 1629	promoter context
+R1	Protein-Component Arg1:T2 Arg2:T25
+R2	Protein-Component Arg1:T6 Arg2:T26
+R3	Protein-Component Arg1:T8 Arg2:T27
+R4	Protein-Component Arg1:T8 Arg2:T28
+R5	Protein-Component Arg1:T15 Arg2:T29
+R6	Protein-Component Arg1:T22 Arg2:T35
+R7	Protein-Component Arg1:T23 Arg2:T36

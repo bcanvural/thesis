@@ -1,0 +1,19 @@
+T5	Entity 31 53	serum response element
+T6	Entity 97 112	phosphotyrosine
+T7	Entity 165 185	immediate-early gene
+T8	Entity 432 454	serum response element
+T9	Entity 456 459	SRE
+T10	Entity 474 491	regulatory region
+T11	Entity 653 668	protein complex
+T12	Entity 670 676	Band A
+T13	Entity 687 694	SRE DNA
+T14	Entity 790 796	Band A
+T15	Entity 897 913	tyrosine residue
+T16	Entity 968 974	Band A
+T17	Entity 982 991	SRE motif
+T18	Entity 1074 1080	Band A
+T19	Entity 1155 1171	tyrosine residue
+R1	Protein-Component Arg1:T1 Arg2:T5
+R2	Protein-Component Arg1:T4 Arg2:T8
+R3	Protein-Component Arg1:T4 Arg2:T9
+R4	Protein-Component Arg1:T4 Arg2:T10

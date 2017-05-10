@@ -1,0 +1,12 @@
+T1	Exp 335 378	A high-affinity calcineurin-binding peptide	371 378	peptide
+T2	Exp 477 489	This peptide
+T3	Exp 632 647	other cytokines
+T4	Exp 648 652	that
+T5	Exp 826 835	Compounds
+T6	Exp 836 840	that
+T7	Exp 969 987	therapeutic agents	981 987	agents
+T8	Exp 988 992	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T7

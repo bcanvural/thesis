@@ -1,0 +1,58 @@
+T1	Bacterium 0 26	Mycobacterium tuberculosis
+T2	Bacterium 27 53	Mycobacterium tuberculosis
+T3	Bacterium 345 360	M. tuberculosis
+T4	Host 418 425	animals
+T5	Host 427 433	Humans
+T6	Bacterium 1138 1164	Mycobacterium tuberculosis
+T7	Geographical 1235 1241	Europe
+T8	Bacterium 1250 1276	Mycobacterium tuberculosis
+T9	Host 1314 1320	humans
+T10	Bacterium 1355 1360	M.TB.
+T11	Host 1381 1387	people
+T12	Host 1473 1484	individuals
+T13	Geographical 1485 1494	worldwide
+T14	Bacterium 1503 1529	Mycobacterium tuberculosis
+T15	Bacterium 1531 1533	TB
+T16	Environment 1580 1606	tissues of ancient mummies
+T17	Bacterium 1616 1633	drug-resistant TB
+T18	Host 1674 1679	human
+T19	Host 1734 1738	cows
+T20	Host 1740 1745	birds
+T21	Host 1757 1764	animals
+T22	Bacterium 1888 1903	M. tuberculosis
+T23	HostPart 2255 2260	lungs
+T24	Bacterium 2360 2362	TB
+T25	HostPart 2458 2463	lungs
+T26	Host 2722 2726	mice
+T27	Host 3033 3037	mice
+T28	Environment 3253 3256	air
+T29	Host 3264 3298	person with untreated pulmonary TB
+T30	Host 3342 3366	person with untreated TB
+*	Equiv T26 T27
+*	Equiv T1 T2
+*	Equiv T1 T3
+*	Equiv T1 T6
+*	Equiv T1 T8
+*	Equiv T1 T10
+*	Equiv T1 T14
+*	Equiv T1 T15
+*	Equiv T1 T22
+*	Equiv T1 T24
+*	Equiv T29 T30
+*	Equiv T5 T9
+*	Equiv T23 T25
+E1	Localization Bacterium:T1 Localization:T4
+E2	Localization Bacterium:T17 Localization:T18
+E3	Localization Bacterium:T1 Localization:T7
+E4	Localization Bacterium:T1 Localization:T26
+E5	Localization Bacterium:T1 Localization:T11
+E6	Localization Bacterium:T1 Localization:T29
+E7	Localization Bacterium:T1 Localization:T16
+E8	Localization Bacterium:T1 Localization:T19
+E9	Localization Bacterium:T1 Localization:T28
+E10	Localization Bacterium:T1 Localization:T13
+E11	Localization Bacterium:T1 Localization:T20
+E12	Localization Bacterium:T1 Localization:T12
+E13	Localization Bacterium:T1 Localization:T5
+E14	Localization Bacterium:T1 Localization:T23
+E15	Localization Bacterium:T1 Localization:T21

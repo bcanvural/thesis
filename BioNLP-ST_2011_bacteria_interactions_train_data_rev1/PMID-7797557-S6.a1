@@ -1,0 +1,42 @@
+T1	Gene 31 35	dltB
+T2	Gene 40 44	dltD
+T3	GeneProduct 100 106	former
+T4	GeneProduct 152 158	latter
+W1	Word 0 3	The
+W2	Word 4 14	hydropathy
+W3	Word 15 23	profiles
+W4	Word 24 26	of
+W5	Word 27 30	the
+W6	Word 31 35	dltB
+W7	Word 36 39	and
+W8	Word 40 44	dltD
+W9	Word 45 49	gene
+W10	Word 50 58	products
+W11	Word 59 66	suggest
+W12	Word 67 68	a
+W13	Word 69 82	transmembrane
+W14	Word 83 91	location
+W15	Word 92 95	for
+W16	Word 96 99	the
+W17	Word 100 106	former
+W18	Word 107 110	and
+W19	Word 111 113	an
+W20	Word 114 128	amino-terminal
+W21	Word 129 135	signal
+W22	Word 136 143	peptide
+W23	Word 144 147	for
+W24	Word 148 151	the
+W25	Word 152 158	latter
+R1	mod_att:N-ADJ W22 W20
+R2	comp:N-N(for) W22 W25
+R3	subj:V-N W11 W3
+R4	obj:V-N W11 W22
+R5	mod_att:N-N W9 W6
+R6	mod_att:N-N W9 W8
+R7	obj:V-N W11 W14
+R8	mod_att:N-N W22 W21
+R9	mod_att:N-ADJ W14 W13
+R10	comp:N-N(of) W3 W10
+R11	comp:N-N(for) W14 W17
+R12	mod_att:N-N W10 W9
+R13	mod_att:N-N W3 W2

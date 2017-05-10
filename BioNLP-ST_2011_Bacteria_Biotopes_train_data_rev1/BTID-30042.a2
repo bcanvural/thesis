@@ -1,0 +1,59 @@
+T1	Host 18 23	sheep
+T2	Host 28 33	goats
+T3	Bacterium 60 71	Mycoplasmas
+T4	Bacterium 86 107	Mycoplasma agalactiae
+T5	Host 131 146	small ruminants
+T6	Bacterium 1958 1968	Mycoplasma
+T7	HostPart 2367 2380	intracellular
+T8	Host 2415 2422	animals
+T9	Host 2434 2440	humans
+T10	Host 2445 2452	insects
+T11	Host 2458 2464	plants
+T12	Bacterium 2466 2478	Spiroplasmas
+T13	Bacterium 2483 2495	Phytoplasmas
+T14	HostPart 2588 2592	cell
+T15	HostPart 3075 3088	intracellular
+T16	Host 3203 3209	humans
+T17	Host 3214 3221	animals
+T18	Host 3223 3228	Human
+T19	Host 3342 3354	farm animals
+T20	Bacterium 4198 4219	Mycoplasma agalactiae
+T21	Bacterium 4220 4241	Mycoplasma agalactiae
+T22	Host 4405 4410	sheep
+T23	Host 4415 4420	goats
+T24	Geographical 4424 4430	Europe
+T25	Bacterium 4528 4536	M. bovis
+T26	Host 4552 4558	cattle
+T27	Host 4643 4647	calf
+T28	Host 6092 6101	ruminants
+T29	Bacterium 6103 6116	M. capricolum
+T30	Bacterium 6118 6148	M. mycoides subsp. mycoides SC
+T31	Host 8528 8543	small ruminants
+T32	Bacterium 8545 8575	M. mycoides subsp. mycoides SC
+*	Equiv T7 T14
+*	Equiv T7 T15
+*	Equiv T9 T16
+*	Equiv T9 T18
+*	Equiv T1 T22
+*	Equiv T2 T23
+*	Equiv T30 T32
+*	Equiv T4 T20
+*	Equiv T4 T21
+*	Equiv T3 T6
+E1	Localization Bacterium:T4 Localization:T24
+E2	Localization Bacterium:T30 Localization:T31
+E3	Localization Bacterium:T4 Localization:T1
+E4	Localization Bacterium:T4 Localization:T5
+E5	Localization Bacterium:T4 Localization:T2
+E6	Localization Bacterium:T3 Localization:T17
+E7	Localization Bacterium:T13 Localization:T11
+E8	Localization Bacterium:T12 Localization:T11
+E9	Localization Bacterium:T3 Localization:T7
+E10	Localization Bacterium:T3 Localization:T8
+E11	Localization Bacterium:T25 Localization:T27
+E12	Localization Bacterium:T3 Localization:T9
+E13	Localization Bacterium:T3 Localization:T19
+E14	Localization Bacterium:T25 Localization:T26
+E15	Localization Bacterium:T29 Localization:T28
+E16	Localization Bacterium:T3 Localization:T10
+E17	Localization Bacterium:T30 Localization:T28

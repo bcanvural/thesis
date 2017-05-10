@@ -1,0 +1,9 @@
+T31	Exp 1232 1251	C3a and C3a(desArg)
+T32	Exp 1284 1303	these two molecules	1294 1303	molecules
+T33	Exp 1393 1412	C3a and C3a(desArg)
+T34	Exp 1473 1487	Both molecules	1478 1487	molecules
+T35	Exp 1604 1614	intact C3a
+T36	Exp 1619 1622	its
+R1	Coref Anaphora:T32 Antecedent:T31	[T27, T26]
+R2	Coref Anaphora:T34 Antecedent:T33	[T28, T29]
+R3	Coref Anaphora:T36 Antecedent:T35	[T30]

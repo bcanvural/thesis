@@ -1,0 +1,21 @@
+T24	Entity 170 173	DNA
+T25	Entity 324 327	DNA
+T26	Entity 363 373	homodimers
+T27	Entity 443 489	complex composed of p50/RelA(p65) heterodimers
+T28	Entity 477 489	heterodimers
+T29	Entity 1137 1149	heterodimers
+T30	Entity 1180 1191	target gene
+T31	Entity 1338 1347	complexes
+R1	Subunit-Complex Arg1:T4 Arg2:T26
+R2	Subunit-Complex Arg1:T5 Arg2:T27
+R3	Subunit-Complex Arg1:T6 Arg2:T27
+R4	Subunit-Complex Arg1:T7 Arg2:T27
+R5	Subunit-Complex Arg1:T5 Arg2:T28
+R6	Subunit-Complex Arg1:T6 Arg2:T28
+R7	Subunit-Complex Arg1:T7 Arg2:T28
+R8	Subunit-Complex Arg1:T17 Arg2:T29
+R9	Subunit-Complex Arg1:T18 Arg2:T29
+R10	Subunit-Complex Arg1:T19 Arg2:T29
+R11	Subunit-Complex Arg1:T21 Arg2:T31
+R12	Subunit-Complex Arg1:T22 Arg2:T31
+R13	Subunit-Complex Arg1:T23 Arg2:T31

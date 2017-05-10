@@ -1,0 +1,8 @@
+T1	Bacterium 33 49	Borrelia afzelii
+T2	HostPart 84 95	skin lesion
+T3	Host 116 123	patient
+T4	Geographical 127 133	Europe
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T2
+E3	Localization Bacterium:T1 Localization:T4
+E4	PartOf Host:T3 Part:T2

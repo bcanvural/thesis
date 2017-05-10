@@ -1,0 +1,26 @@
+T1	Action 0 10	Activation
+T2	Protein 14 21	sigma E
+T3	Protein 33 40	sigma F
+T4	Protein 46 52	factor
+T5	Transcription 66 79	transcription
+W1	Word 0 10	Activation
+W2	Word 11 13	of
+W3	Word 14 21	sigma E
+W4	Word 22 29	depends
+W5	Word 30 32	on
+W6	Word 33 40	sigma F
+W7	Word 42 45	the
+W8	Word 46 52	factor
+W9	Word 53 57	that
+W10	Word 58 65	governs
+W11	Word 66 79	transcription
+W12	Word 80 82	in
+W13	Word 83 86	the
+W14	Word 87 96	forespore
+R1	obj:V-N W10 W11
+R2	comp:V-N(on) W4 W6
+R3	comp:N-N(in) W11 W14
+R4	subj:V-N W10 W8
+R5	comp:N-N(of) W1 W3
+R6	subj:V-N W4 W1
+R7	appos W6 W8

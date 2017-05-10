@@ -1,0 +1,9 @@
+T14	Exp 629 641	memory cells
+T15	Exp 809 814	Their
+T16	Exp 926 992	a positive transcription factor binding to these promoter elements	937 957	transcription factor
+T17	Exp 1004 1007	its
+T18	Exp 1067 1080	the activator
+T19	Exp 1154 1156	it
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18

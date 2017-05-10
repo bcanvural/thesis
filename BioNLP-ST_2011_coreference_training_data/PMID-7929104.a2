@@ -1,0 +1,9 @@
+T24	Exp 545 602	p65 and c-Rel NF.kappa B proteins from cytoplasmic stores
+T25	Exp 625 629	they
+T26	Exp 806 867	endogenously secreted tumor necrosis factor alpha (TNF alpha)
+T27	Exp 872 876	they
+T28	Exp 968 981	cyclosporin A
+T29	Exp 983 988	which
+R1	Coref Anaphora:T25 Antecedent:T24	[T7, T6]
+R2	Coref Anaphora:T27 Antecedent:T26	[T14, T13]
+R3	Coref Anaphora:T29 Antecedent:T28

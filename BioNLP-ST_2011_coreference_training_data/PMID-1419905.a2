@@ -1,0 +1,6 @@
+T14	Exp 173 208	the transcription factor NF-kappa B
+T15	Exp 212 215	its
+T16	Exp 720 730	NF-kappa B
+T17	Exp 924 959	the NF-kappa B transcription factor
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16

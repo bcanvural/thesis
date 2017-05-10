@@ -1,0 +1,14 @@
+T10	Exp 100 169	Interleukin-10 (IL-10) and transforming growth factor beta (TGF-beta)
+T11	Exp 253 257	they
+T12	Exp 291 306	These cytokines	297 306	cytokines
+T13	Exp 321 336	candidate genes	331 336	genes
+T14	Exp 337 342	which
+T15	Exp 419 433	the hypothesis
+T16	Exp 434 438	that
+T17	Exp 1364 1386	a C-to-T base exchange	1378 1386	exchange
+T18	Exp 1387 1392	which
+R1	Coref Anaphora:T11 Antecedent:T10	[T2, T3]
+R2	Coref Anaphora:T12 Antecedent:T10	[T2, T3]
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17

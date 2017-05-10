@@ -1,0 +1,9 @@
+T19	Exp 197 219	the HLA class II genes	214 219	genes
+T20	Exp 393 411	the class II genes	406 411	genes
+T21	Exp 507 514	HLA-DRA
+T22	Exp 516 543	the prototype class II gene	539 543	gene
+T23	Exp 673 686	Rb expression	676 686	expression
+T24	Exp 735 738	its
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T24 Antecedent:T23	[T12]

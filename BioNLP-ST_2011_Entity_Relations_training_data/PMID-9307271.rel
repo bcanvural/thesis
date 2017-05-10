@@ -1,0 +1,20 @@
+*	Equiv T3 T4
+T18	Entity 16 26	novel gene
+T19	Entity 30 34	3q21
+T20	Entity 92 124	ecotropic viral insertion site I
+T21	Entity 160 170	novel gene
+T22	Entity 226 230	3q21
+T23	Entity 413 428	t(3;3)(q21;q26)
+T24	Entity 547 551	3q26
+T25	Entity 630 634	3q21
+T26	Entity 659 684	5' ends of the 3q21 genes
+T27	Entity 659 666	5' ends
+T28	Entity 674 684	3q21 genes
+T29	Entity 674 678	3q21
+T30	Entity 690 713	exon 2 of the EVI1 gene
+T31	Entity 690 696	exon 2
+T32	Entity 840 847	t(3;21)
+T33	Entity 852 859	t(3;12)
+T34	Entity 1029 1035	t(3;3)
+R1	Protein-Component Arg1:T9 Arg2:T31
+R2	Protein-Component Arg1:T9 Arg2:T30

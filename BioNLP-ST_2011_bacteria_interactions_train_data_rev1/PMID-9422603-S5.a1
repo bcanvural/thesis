@@ -1,0 +1,45 @@
+T1	Site 0 13	DNA sequences
+T2	Promoter 26 28	P1
+T3	Protein 55 59	SigK
+T4	Promoter 70 79	promoters
+T5	Promoter 87 89	P2
+T6	Promoter 94 96	P3
+T7	Protein 123 127	SigE
+T8	Promoter 138 147	promoters
+W1	Word 0 3	DNA
+W2	Word 4 13	sequences
+W3	Word 14 22	upstream
+W4	Word 23 25	of
+W5	Word 26 28	P1
+W6	Word 29 33	were
+W7	Word 34 41	similar
+W8	Word 42 44	to
+W9	Word 45 54	consensus
+W10	Word 55 59	SigK
+W11	Word 60 69	dependent
+W12	Word 70 79	promoters
+W13	Word 81 86	while
+W14	Word 87 89	P2
+W15	Word 90 93	and
+W16	Word 94 96	P3
+W17	Word 97 101	were
+W18	Word 102 109	similar
+W19	Word 110 112	to
+W20	Word 113 122	consensus
+W21	Word 123 127	SigE
+W22	Word 128 137	dependent
+W23	Word 138 147	promoters
+R1	mod_att:N-ADJ W23 W22
+R2	mod_att:N-N W2 W1
+R3	mod:ADJ-N W22 W21
+R4	mod_pred:N-ADJ W14 W18
+R5	comp:ADJ-N(of) W3 W5
+R6	comp:ADJ-N(to) W7 W12
+R7	mod_post:N-ADJ W2 W3
+R8	comp:ADJ-N(to) W18 W23
+R9	mod_pred:N-ADJ W2 W7
+R10	mod_pred:N-ADJ W16 W18
+R11	mod_att:N-ADJ W12 W11
+R12	mod:ADJ-N W11 W10
+R13	mod_att:N-N W23 W20
+R14	mod_att:N-N W12 W9

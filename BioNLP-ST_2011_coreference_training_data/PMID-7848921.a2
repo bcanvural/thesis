@@ -1,0 +1,3 @@
+T11	Exp 924 960	a type of phenotypic differentiation
+T12	Exp 961 965	that
+R1	Coref Anaphora:T12 Antecedent:T11

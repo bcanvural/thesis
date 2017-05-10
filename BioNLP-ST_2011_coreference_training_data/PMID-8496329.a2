@@ -1,0 +1,8 @@
+T16	Exp 270 323	TSH-R transcript levels in 13 human thyroid fragments	287 293	levels
+T17	Exp 751 765	those thyroids
+T18	Exp 769 774	which
+T19	Exp 1021 1034	thyroid cells	1029 1034	cells
+T20	Exp 1035 1045	themselves
+R1	Coref Anaphora:T17 Antecedent:T16	[T4]
+R2	Coref Anaphora:T18 Antecedent:T17
+R3	Coref Anaphora:T20 Antecedent:T19

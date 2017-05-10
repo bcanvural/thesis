@@ -1,0 +1,9 @@
+T6	Exp 265 284	other model systems	277 284	systems
+T7	Exp 285 290	whose
+T8	Exp 372 385	the IgH 3'LCR	380 385	3'LCR
+T9	Exp 390 393	its
+T10	Exp 390 441	its putative functional role in IgH gene expression	414 418	role
+T11	Exp 454 456	it
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8	[T3]
+R3	Coref Anaphora:T11 Antecedent:T10	[T4]

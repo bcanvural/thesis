@@ -1,0 +1,12 @@
+T4	Exp 973 981	the fact
+T5	Exp 982 986	that
+T6	Exp 1223 1234	experiments
+T7	Exp 1235 1240	which
+T8	Exp 1369 1372	one
+T9	Exp 1373 1377	that
+T10	Exp 1430 1433	one
+T11	Exp 1434 1438	that
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T11 Antecedent:T10

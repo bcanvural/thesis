@@ -1,0 +1,3 @@
+T12	Exp 673 751	a 101bp, erythroid-specific DNase 1 hypersensitive site-forming element (HSFE)	737 744	element
+T13	Exp 811 823	This element	816 823	element
+R1	Coref Anaphora:T13 Antecedent:T12

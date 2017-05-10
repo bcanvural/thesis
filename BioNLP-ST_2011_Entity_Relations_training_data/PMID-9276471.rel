@@ -1,0 +1,14 @@
+T5	Entity 35 45	NF-kappa B
+T6	Entity 182 195	several genes
+T7	Entity 241 244	DNA
+T8	Entity 300 322	NF-kappa B heterodimer
+T9	Entity 324 332	p50/RelA
+T10	Entity 399 409	NF-kappa B
+T11	Entity 625 635	NF-kappa B
+T12	Entity 845 855	NF-kappa B
+T13	Entity 932 956	kappa B-responsive genes
+T14	Entity 1092 1102	NF-kappa B
+R1	Subunit-Complex Arg1:T2 Arg2:T8
+R2	Subunit-Complex Arg1:T1 Arg2:T8
+R3	Subunit-Complex Arg1:T1 Arg2:T9
+R4	Subunit-Complex Arg1:T2 Arg2:T9

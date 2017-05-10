@@ -1,0 +1,8 @@
+T12	Exp 12 48	early growth response gene 1 (egr-1)
+T13	Exp 105 126	immediate early genes	121 126	genes
+T14	Exp 255 266	these genes
+T15	Exp 287 292	their
+T16	Exp 448 472	the immediate early gene
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T12	[T1, T2]

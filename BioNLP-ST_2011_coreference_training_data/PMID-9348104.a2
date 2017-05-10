@@ -1,0 +1,22 @@
+T4	Exp 430 483	helenalin, 11alpha,13-dihydrohelenalin, chamissonolid
+T5	Exp 430 511	helenalin, 11alpha,13-dihydrohelenalin, chamissonolid and their ester derivatives
+T6	Exp 488 493	their
+T7	Exp 519 534	these compounds	525 534	compounds
+T8	Exp 608 630	sesquiterpene lactones	622 630	lactones
+T9	Exp 637 642	their
+T10	Exp 829 856	This difference in efficacy	834 844	difference
+T11	Exp 858 863	which
+T12	Exp 993 1002	NF-kappaB
+T13	Exp 1004 1009	which
+T14	Exp 1128 1131	its
+T15	Exp 1662 1716	a molecular mechanism for the anti-inflammatory effect	1674 1683	mechanism
+T16	Exp 1744 1749	which
+T17	Exp 1763 1767	that
+R1	Coref Anaphora:T6 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T5
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T11 Antecedent:T10
+R5	Coref Anaphora:T13 Antecedent:T12
+R6	Coref Anaphora:T14 Antecedent:T12
+R7	Coref Anaphora:T16 Antecedent:T15
+R8	Coref Anaphora:T17 Antecedent:T15

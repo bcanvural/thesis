@@ -1,0 +1,44 @@
+*	Equiv T8 T9
+T31	Entity 4 28	myeloid zinc finger gene
+T32	Entity 56 64	promoter
+T33	Entity 87 108	C2H2 zinc finger gene
+T34	Entity 213 230	C2H2 zinc fingers
+T35	Entity 253 272	DNA binding domains
+T36	Entity 253 256	DNA
+T37	Entity 284 296	zinc fingers
+T38	Entity 319 335	carboxy-terminus
+T39	Entity 380 406	DNA consensus binding site
+T40	Entity 429 448	DNA binding domains
+T41	Entity 429 432	DNA
+T42	Entity 561 579	DNA binding domain
+T43	Entity 561 564	DNA
+T44	Entity 704 717	reporter gene
+T45	Entity 752 760	promoter
+T46	Entity 777 794	DNA binding sites
+T47	Entity 863 876	reporter gene
+T48	Entity 897 910	binding sites
+T49	Entity 996 1009	reporter gene
+T50	Entity 1080 1093	binding sites
+T51	Entity 1113 1122	promoters
+T52	Entity 1134 1139	genes
+T53	Entity 1201 1209	promoter
+T54	Entity 1252 1285	physiologically relevant promoter
+T55	Entity 1406 1429	consensus binding sites
+T56	Entity 1442 1450	promoter
+T57	Entity 1483 1501	expression vectors
+T58	Entity 1581 1589	promoter
+T59	Entity 1672 1690	DNA binding domain
+T60	Entity 1672 1675	DNA
+T61	Entity 1708 1721	reporter gene
+T62	Entity 1921 1934	binding sites
+T63	Entity 1982 1990	promoter
+R1	Protein-Component Arg1:T2 Arg2:T32
+R2	Protein-Component Arg1:T10 Arg2:T45
+R3	Protein-Component Arg1:T11 Arg2:T46
+R4	Protein-Component Arg1:T12 Arg2:T48
+R5	Protein-Component Arg1:T18 Arg2:T50
+R6	Protein-Component Arg1:T18 Arg2:T53
+R7	Protein-Component Arg1:T21 Arg2:T56
+R8	Protein-Component Arg1:T23 Arg2:T58
+R9	Protein-Component Arg1:T25 Arg2:T62
+R10	Protein-Component Arg1:T27 Arg2:T63

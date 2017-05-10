@@ -1,0 +1,3 @@
+T11	Exp 858 887	pathophysiological conditions	877 887	conditions
+T12	Exp 888 892	that
+R1	Coref Anaphora:T12 Antecedent:T11

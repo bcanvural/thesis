@@ -1,0 +1,11 @@
+T19	Entity 456 493	4.2 kilobases of 5'-upstream sequence
+T20	Entity 519 543	transcription start site
+T21	Entity 621 650	protein translation start ATG
+T22	Entity 1033 1041	promoter
+T23	Entity 1069 1081	binding site
+T24	Entity 1083 1090	-110 bp
+T25	Entity 1102 1126	tissue-specific promoter
+T26	Entity 1313 1334	site oligonucleotides
+T27	Entity 1564 1591	monocytic specific promoter
+R1	Protein-Component Arg1:T10 Arg2:T22
+R2	Protein-Component Arg1:T13 Arg2:T23

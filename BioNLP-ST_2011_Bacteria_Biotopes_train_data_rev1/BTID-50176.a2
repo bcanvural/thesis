@@ -1,0 +1,33 @@
+T1	Bacterium 0 17	Vibrio vulnificus
+T2	Bacterium 18 33	Vibrio vulnicus
+T3	Food 59 63	food
+T4	Bacterium 74 91	Vibrio vulnificus
+T5	Water 253 266	warm seawater
+T6	HostPart 394 399	wound
+T7	Water 481 500	warm coastal waters
+T8	Food 646 680	raw or improperly cooked shellfish
+T9	Food 695 702	oysters
+T10	Bacterium 721 734	V. vulnificus
+T11	Host 738 757	healthy individuals
+T12	HostPart 846 851	Wound
+T13	HostPart 899 909	open wound
+T14	Water 915 924	sea water
+T15	HostPart 978 982	body
+T16	Host 1051 1130	Perso ns who are immunocompromised, especially those with chronic liver disease
+T17	Bacterium 1154 1171	Vibrio vulnificus
+*	Equiv T6 T12
+*	Equiv T6 T13
+*	Equiv T1 T2
+*	Equiv T1 T4
+*	Equiv T1 T10
+*	Equiv T1 T17
+E1	Localization Bacterium:T1 Localization:T11
+E2	Localization Bacterium:T1 Localization:T6
+E3	Localization Bacterium:T1 Localization:T15
+E4	Localization Bacterium:T1 Localization:T3
+E5	Localization Bacterium:T1 Localization:T7
+E6	Localization Bacterium:T1 Localization:T16
+E7	Localization Bacterium:T1 Localization:T8
+E8	Localization Bacterium:T1 Localization:T5
+E9	Localization Bacterium:T1 Localization:T14
+E10	Localization Bacterium:T1 Localization:T9

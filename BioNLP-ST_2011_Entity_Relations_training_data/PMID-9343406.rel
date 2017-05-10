@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+*	Equiv T8 T9
+T11	Entity 209 218	NF-kappaB
+T12	Entity 368 377	NF-kappaB
+T13	Entity 780 788	promoter
+T14	Entity 836 845	NF-kappaB
+T15	Entity 853 861	reporter
+T16	Entity 1041 1050	NF-kappaB
+T17	Entity 1061 1064	DNA
+T18	Entity 1183 1210	CD3-T-cell receptor complex
+T19	Entity 1255 1259	AP-1
+T20	Entity 2034 2039	NF-KB
+R1	Protein-Component Arg1:T4 Arg2:T13

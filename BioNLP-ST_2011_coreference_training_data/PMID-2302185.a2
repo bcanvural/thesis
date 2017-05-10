@@ -1,0 +1,15 @@
+T7	Exp 215 232	cellular proteins	224 232	proteins
+T8	Exp 233 237	that
+T9	Exp 386 447	at least one inducible, C1, and one constitutive, C2, protein	440 447	protein
+T10	Exp 494 510	The two proteins	502 510	proteins
+T11	Exp 521 526	their
+T12	Exp 549 553	they
+T13	Exp 663 668	their
+T14	Exp 680 696	oligonucleotides
+T15	Exp 697 702	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9	[T2, T1]
+R3	Coref Anaphora:T11 Antecedent:T10
+R4	Coref Anaphora:T12 Antecedent:T10
+R5	Coref Anaphora:T13 Antecedent:T10
+R6	Coref Anaphora:T15 Antecedent:T14

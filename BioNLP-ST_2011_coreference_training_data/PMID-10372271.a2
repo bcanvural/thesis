@@ -1,0 +1,9 @@
+T4	Exp 212 221	a therapy
+T5	Exp 269 271	it
+T6	Exp 855 884	design of the clinical trials	855 861	design
+T7	Exp 888 893	which
+T8	Exp 1052 1058	humans
+T9	Exp 1067 1072	their
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8

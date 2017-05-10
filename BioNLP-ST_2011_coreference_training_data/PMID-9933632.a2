@@ -1,0 +1,13 @@
+T8	Exp 408 439	the fungal metabolite gliotoxin	430 439	gliotoxin
+T9	Exp 452 455	its
+T10	Exp 791 815	the proteasome inhibitor	806 815	inhibitor
+T11	Exp 1134 1144	a response
+T12	Exp 1145 1149	that
+T13	Exp 1197 1206	apoptosis
+T14	Exp 1242 1245	its
+T15	Exp 1505 1515	protein(s)
+T16	Exp 1516 1521	which
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

@@ -1,0 +1,37 @@
+T1	Bacterium 0 20	Borrelia hermsii DAH
+T2	Bacterium 33 60	Borrelia hermsii strain DAH
+T3	Geographical 121 139	western Washington
+T4	Bacterium 141 157	Borrelia hermsii
+T5	Host 184 188	tick
+T6	Geographical 218 239	western United States
+T7	Geographical 244 250	Canada
+T8	Host 252 257	Ticks
+T9	Host 322 328	mammal
+T10	Host 340 346	rodent
+T11	Host 350 358	squirrel
+T12	Host 441 445	tick
+T13	Host 466 470	tick
+T14	Host 498 512	mammalian host
+T15	HostPart 536 542	saliva
+T16	Host 544 550	Humans
+T17	Host 582 587	ticks
+T18	Host 609 616	rodents
+T19	Environment 620 632	rodent nests
+*	Equiv T1 T2
+*	Equiv T10 T18
+*	Equiv T9 T14
+*	Equiv T5 T8
+*	Equiv T5 T12
+*	Equiv T5 T13
+*	Equiv T5 T17
+E1	Localization Bacterium:T4 Localization:T5
+E2	Localization Bacterium:T1 Localization:T3
+E3	Localization Bacterium:T4 Localization:T6
+E4	Localization Bacterium:T4 Localization:T19
+E5	Localization Bacterium:T4 Localization:T15
+E6	Localization Bacterium:T4 Localization:T7
+E7	Localization Bacterium:T4 Localization:T9
+E8	Localization Bacterium:T4 Localization:T11
+E9	PartOf Host:T5 Part:T15
+E10	Localization Bacterium:T4 Localization:T16
+E11	Localization Bacterium:T4 Localization:T10

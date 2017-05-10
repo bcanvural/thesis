@@ -1,0 +1,3 @@
+T6	Exp 656 666	NF-kappa B
+T7	Exp 668 673	which
+R1	Coref Anaphora:T7 Antecedent:T6

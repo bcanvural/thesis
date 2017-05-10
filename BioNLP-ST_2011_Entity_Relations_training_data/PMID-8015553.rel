@@ -1,0 +1,29 @@
+*	Equiv T3 T4
+*	Equiv T9 T10
+T29	Entity 334 354	alternative promoter
+T30	Entity 386 411	6 kilobases (kb) upstream
+T31	Entity 419 448	pituitary-specific start site
+T32	Entity 591 611	3 kb 5'-flanking DNA
+T33	Entity 651 661	) promoter
+T34	Entity 708 722	binding motifs
+T35	Entity 743 753	half-sites
+T36	Entity 1341 1361	3 kb 5'-flanking DNA
+T37	Entity 1466 1474	promoter
+T38	Entity 1530 1538	promoter
+T39	Entity 1607 1630	3 kb 5'-flanking region
+T40	Entity 1638 1651	dPRL promoter
+T41	Entity 1668 1676	elements
+T42	Entity 1900 1920	3 kb 5'-flanking DNA
+T43	Entity 1977 1985	promoter
+T44	Entity 2267 2271	cAMP
+T45	Entity 2353 2357	cAMP
+R1	Protein-Component Arg1:T3 Arg2:T31
+R2	Protein-Component Arg1:T3 Arg2:T30
+R3	Protein-Component Arg1:T3 Arg2:T29
+R4	Protein-Component Arg1:T6 Arg2:T32
+R5	Protein-Component Arg1:T6 Arg2:T33
+R6	Protein-Component Arg1:T17 Arg2:T36
+R7	Protein-Component Arg1:T19 Arg2:T37
+R8	Protein-Component Arg1:T20 Arg2:T38
+R9	Protein-Component Arg1:T24 Arg2:T42
+R10	Protein-Component Arg1:T24 Arg2:T43

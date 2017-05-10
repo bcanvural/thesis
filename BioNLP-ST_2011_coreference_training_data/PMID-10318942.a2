@@ -1,0 +1,11 @@
+T4	Exp 398 433	the inhibitory subunit IkappaBalpha
+T5	Exp 435 440	which
+T6	Exp 445 458	the advantage
+T7	Exp 459 463	that
+T8	Exp 464 466	it
+T9	Exp 933 966	matrix metalloproteinases 1 and 3
+T10	Exp 987 992	their
+R1	Coref Anaphora:T5 Antecedent:T4	[T1]
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T8 Antecedent:T4	[T1]
+R4	Coref Anaphora:T10 Antecedent:T9

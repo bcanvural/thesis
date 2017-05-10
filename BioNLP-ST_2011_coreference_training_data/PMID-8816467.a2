@@ -1,0 +1,21 @@
+T13	Exp 806 818	the CRE site	814 818	site
+T14	Exp 819 823	that
+T15	Exp 1248 1264	bcl-2 expression
+T16	Exp 1265 1269	that
+T17	Exp 1632 1636	CREB
+T18	Exp 1637 1641	that
+T19	Exp 1829 1860	the upstream regulatory element	1853 1860	element
+T20	Exp 1897 1901	CREB
+T21	Exp 1909 1912	its
+T22	Exp 1930 1961	the upstream regulatory element	1954 1961	element
+T23	Exp 2247 2263	other cell types	2258 2263	types
+T24	Exp 2278 2283	those
+T25	Exp 2287 2292	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T7]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T17
+R5	Coref Anaphora:T21 Antecedent:T20
+R6	Coref Anaphora:T22 Antecedent:T19
+R7	Coref Anaphora:T24 Antecedent:T23
+R8	Coref Anaphora:T25 Antecedent:T24

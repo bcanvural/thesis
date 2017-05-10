@@ -1,0 +1,9 @@
+T1	Exp 0 46	X-rays-induced secretion of cellular factor(s)	15 24	secretion
+T2	Exp 47 51	that
+T3	Exp 684 695	A factor(s)
+T4	Exp 697 702	which
+T5	Exp 1118 1130	another drug	1126 1130	drug
+T6	Exp 1142 1145	its
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5

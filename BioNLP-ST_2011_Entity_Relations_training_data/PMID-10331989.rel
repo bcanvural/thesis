@@ -1,0 +1,32 @@
+*	Equiv T7 T8
+T14	Entity 94 112	regulatory element
+T15	Entity 299 328	cis-acting regulatory element
+T16	Entity 330 334	HS I
+T17	Entity 354 404	hematopoietic-specific DNase I hypersensitive site
+T18	Entity 492 503	IE promoter
+T19	Entity 505 509	HS I
+T20	Entity 564 569	genes
+T21	Entity 686 690	HS I
+T22	Entity 783 797	169 base pairs
+T23	Entity 835 844	GATA site
+T24	Entity 880 891	E-box motif
+T25	Entity 897 912	composite motif
+T26	Entity 921 986	multi-protein hematopoietic-specific transcription factor complex
+T27	Entity 1065 1074	GATA site
+T28	Entity 1085 1089	HS I
+T29	Entity 1124 1135	E-box motif
+T30	Entity 1149 1162	reporter gene
+T31	Entity 1213 1217	HS I
+T32	Entity 1232 1241	GATA site
+T33	Entity 1421 1441	317 base pair region
+T34	Entity 1473 1487	317 base pairs
+T35	Entity 1544 1560	5' 62 base pairs
+T36	Entity 1595 1603	reporter
+T37	Entity 1703 1715	HS I element
+R1	Protein-Component Arg1:T1 Arg2:T14
+R2	Protein-Component Arg1:T3 Arg2:T18
+R3	Subunit-Complex Arg1:T10 Arg2:T26
+R4	Subunit-Complex Arg1:T9 Arg2:T26
+R5	Subunit-Complex Arg1:T11 Arg2:T26
+R6	Subunit-Complex Arg1:T7 Arg2:T26
+R7	Subunit-Complex Arg1:T6 Arg2:T26

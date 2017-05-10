@@ -1,0 +1,17 @@
+*	Equiv T2 T3
+*	Equiv T6 T7
+T26	Entity 946 954	promoter
+T27	Entity 1256 1260	AP-1
+T28	Entity 1272 1299	-containing NF-AT complexes
+T29	Entity 1414 1432	NF-kappa B complex
+T30	Entity 1480 1492	heterodimers
+T31	Entity 1592 1601	homodimer
+R1	Protein-Component Arg1:T12 Arg2:T26
+R2	Subunit-Complex Arg1:T18 Arg2:T28
+R3	Subunit-Complex Arg1:T19 Arg2:T28
+R4	Subunit-Complex Arg1:T21 Arg2:T29
+R5	Subunit-Complex Arg1:T24 Arg2:T29
+R6	Subunit-Complex Arg1:T22 Arg2:T29
+R7	Subunit-Complex Arg1:T21 Arg2:T30
+R8	Subunit-Complex Arg1:T22 Arg2:T30
+R9	Subunit-Complex Arg1:T24 Arg2:T31

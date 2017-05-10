@@ -1,0 +1,15 @@
+T9	Entity 145 154	NF-kappaB
+T10	Entity 451 454	CD3
+T11	Entity 662 773	purine-box/antigen receptor response element (ARRE)/nuclear factor of activated T-cells (NF-AT) target sequence
+T12	Entity 789 803	NF-kappaB site
+T13	Entity 789 798	NF-kappaB
+T14	Entity 904 924	target DNA sequences
+T15	Entity 1099 1136	C-terminal TA1 transactivation domain
+T16	Entity 1170 1188	DNA binding domain
+T17	Entity 1287 1296	NF-kappaB
+T18	Entity 1410 1423	cytokine gene
+T19	Entity 1527 1536	NF-kappaB
+T20	Entity 1545 1565	purine-box regulator
+T21	Entity 1583 1598	ARRE/NF-AT site
+R1	Protein-Component Arg1:T6 Arg2:T16
+R2	Protein-Component Arg1:T5 Arg2:T15

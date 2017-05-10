@@ -1,0 +1,16 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T6 T7
+T18	Entity 94 119	transcription factor AP-1
+T19	Entity 143 168	AP-1 transcription factor
+T20	Entity 291 295	AP-1
+T21	Entity 717 721	AP-1
+T22	Entity 751 781	phorbol ester response element
+T23	Entity 862 872	NF-kappa B
+T24	Entity 967 971	AP-1
+T25	Entity 1100 1121	DNA-binding complexes
+T26	Entity 1195 1209	AP-1 complexes
+T27	Entity 1247 1251	AP-1
+T28	Entity 1443 1447	AP-1
+T29	Entity 1608 1612	AP-1
+R1	Subunit-Complex Arg1:T14 Arg2:T26

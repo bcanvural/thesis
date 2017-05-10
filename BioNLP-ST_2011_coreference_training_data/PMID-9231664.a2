@@ -1,0 +1,6 @@
+T4	Exp 380 483	two forms of early-onset type 2 diabetes (maturity-onset diabetes of the young [MODY]), MODY3 and MODY1
+T5	Exp 485 490	which
+T6	Exp 997 1060	the genes encoding HNF-3alpha, -3beta, -3gamma, -4gamma, and -6	1001 1006	genes
+T7	Exp 1229 1240	these genes	1235 1240	genes
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

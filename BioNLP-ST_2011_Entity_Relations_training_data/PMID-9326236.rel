@@ -1,0 +1,24 @@
+*	Equiv T3 T4
+T20	Entity 139 142	DNA
+T21	Entity 210 229	activator protein-1
+T22	Entity 489 504	T-cell receptor
+T23	Entity 506 509	TCR
+T24	Entity 511 514	CD3
+T25	Entity 599 618	activator protein-1
+T26	Entity 620 624	AP-1
+T27	Entity 631 652	nuclear factor kappaB
+T28	Entity 654 662	NFkappaB
+T29	Entity 677 700	CD28 responsive complex
+T30	Entity 702 708	CD28RC
+T31	Entity 1154 1157	DNA
+T32	Entity 1193 1197	AP-1
+T33	Entity 1242 1250	NFkappaB
+T34	Entity 1255 1261	CD28RC
+T35	Entity 1361 1365	AP-1
+T36	Entity 1366 1369	DNA
+T37	Entity 1394 1407	cyclosporin A
+T38	Entity 1425 1429	AP-1
+T39	Entity 1445 1457	NFAT complex
+T40	Entity 1570 1574	AP-1
+R1	Subunit-Complex Arg1:T19 Arg2:T40
+R2	Subunit-Complex Arg1:T18 Arg2:T40

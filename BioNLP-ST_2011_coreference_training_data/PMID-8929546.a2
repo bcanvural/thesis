@@ -1,0 +1,34 @@
+T2	Exp 311 353	transforming growth factor-beta expression	343 353	expression
+T3	Exp 355 360	which
+T4	Exp 405 410	their
+T5	Exp 438 441	GCS
+T6	Exp 455 467	target cells	462 467	cells
+T7	Exp 468 473	where
+T8	Exp 474 478	they
+T9	Exp 484 489	their
+T10	Exp 484 510	their cytoplasmic receptor	502 510	receptor
+T11	Exp 512 517	which
+T12	Exp 542 553	the nucleus
+T13	Exp 554 559	where
+T14	Exp 560 562	it
+T15	Exp 630 672	the glucocorticoid response elements (GRE)
+T16	Exp 674 679	which
+T17	Exp 874 879	their
+T18	Exp 923 926	GCS
+T19	Exp 939 967	cytokine receptor expression	957 967	expression
+T20	Exp 968 972	that
+T21	Exp 1137 1178	the phenomenon of steroid-induced rebound	1141 1151	phenomenon
+T22	Exp 1180 1185	which
+R1	Coref Anaphora:T3 Antecedent:T2	[T1]
+R2	Coref Anaphora:T4 Antecedent:T5
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T8 Antecedent:T5
+R5	Coref Anaphora:T9 Antecedent:T5
+R6	Coref Anaphora:T11 Antecedent:T10
+R7	Coref Anaphora:T13 Antecedent:T12
+R8	Coref Anaphora:T14 Antecedent:T10
+R9	Coref Anaphora:T16 Antecedent:T15
+R10	Coref Anaphora:T17 Antecedent:T18
+R11	Coref Anaphora:T18 Antecedent:T5
+R12	Coref Anaphora:T20 Antecedent:T19
+R13	Coref Anaphora:T22 Antecedent:T21

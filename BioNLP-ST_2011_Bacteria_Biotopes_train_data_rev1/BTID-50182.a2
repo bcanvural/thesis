@@ -1,0 +1,39 @@
+T1	Bacterium 0 22	Xanthomonas campestris
+T2	Bacterium 23 45	Xanthomonas campestris
+T3	Host 51 56	plant
+T4	Host 99 105	plants
+T5	Host 110 115	weeds
+T6	Bacterium 126 137	Xanthomonas
+T7	Host 197 211	phytopathogens
+T8	Bacterium 271 308	Xanthomonas campestris pv. campestris
+T9	Bacterium 310 313	Xcc
+T10	Host 393 402	crucifers
+T11	Host 411 419	Brassica
+T12	Host 424 435	Arabidopsis
+T13	Bacterium 637 640	Xcc
+T14	Host 664 669	weeds
+T15	Host 681 701	Arabidopsis thaliana
+T16	Host 912 917	plant
+T17	Bacterium 929 932	Xcc
+T18	Host 957 968	Arabidopsis
+T19	Host 1188 1193	plant
+T20	Bacterium 1217 1228	Xanthomonas
+T21	Host 1280 1286	plants
+*	Equiv T6 T20
+*	Equiv T1 T2
+*	Equiv T8 T9
+*	Equiv T8 T13
+*	Equiv T8 T17
+*	Equiv T19 T21
+*	Equiv T3 T4
+*	Equiv T12 T18
+E1	Localization Bacterium:T8 Localization:T12
+E2	Localization Bacterium:T1 Localization:T5
+E3	Localization Bacterium:T8 Localization:T10
+E4	Localization Bacterium:T1 Localization:T3
+E5	Localization Bacterium:T8 Localization:T16
+E6	Localization Bacterium:T6 Localization:T7
+E7	Localization Bacterium:T8 Localization:T11
+E8	Localization Bacterium:T8 Localization:T14
+E9	Localization Bacterium:T6 Localization:T19
+E10	Localization Bacterium:T8 Localization:T15

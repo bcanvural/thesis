@@ -1,0 +1,8 @@
+T19	Entity 38 55	RNA polymerase II
+T20	Entity 411 416	TFIIH
+T21	Entity 508 525	RNA polymerase II
+T22	Entity 959 964	TFIIH
+T23	Entity 1074 1104	adenovirus major late promoter
+T24	Entity 1342 1347	TFIIH
+R1	Subunit-Complex Arg1:T4 Arg2:T20
+R2	Subunit-Complex Arg1:T3 Arg2:T20

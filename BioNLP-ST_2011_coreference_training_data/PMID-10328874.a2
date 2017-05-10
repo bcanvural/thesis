@@ -1,0 +1,12 @@
+T22	Exp 774 788	concentrations
+T23	Exp 789 793	that
+T24	Exp 1070 1084	another factor	1078 1084	factor
+T25	Exp 1085 1090	whose
+T26	Exp 1495 1517	the properties of HSF1	1499 1509	properties
+T27	Exp 1518 1523	which
+T28	Exp 1544 1574	at least two DNA binding forms	1569 1574	forms
+T29	Exp 1587 1592	which
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26	[T20]
+R4	Coref Anaphora:T29 Antecedent:T28

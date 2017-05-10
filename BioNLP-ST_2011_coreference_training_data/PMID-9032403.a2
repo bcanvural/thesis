@@ -1,0 +1,6 @@
+T1	Exp 18 38	nucleotide sequences	29 38	sequences
+T2	Exp 39 43	that
+T3	Exp 339 342	DEN
+T4	Exp 346 349	its
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

@@ -1,3 +1,4 @@
+#Extract entities from jobs
 from pyspark.sql import SparkSession
 import json
 from pyspark.mllib.fpm import FPGrowthModel, FPGrowth
@@ -37,8 +38,8 @@ def main():
         .master("local[*]") \
         .getOrCreate()
 
-    # df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL").cache()
-    df_jobs = spark.read.json("newjobs4rdd/newjobs.jsonl").filter("description is not NULL").cache()
+    # df_jobs = spark.read.json("alljobs4rdd/alljobs.jsonl").filter("description is not NULL").cache() #jobs from 2016 summer
+    df_jobs = spark.read.json("newjobs4rdd/newjobs.jsonl").filter("description is not NULL").cache() #jobs from 2016 December
     entities = df_jobs.rdd.map(lambda row: blacklist(get_entities(row.description, row.jobid))).cache()
     entities.saveAsTextFile('Entities-newjobs')
     model = FPGrowth.train(entities, minSupport=0.1, numPartitions=1)

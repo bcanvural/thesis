@@ -1,0 +1,18 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T24 T25
+T26	Entity 91 96	genes
+T27	Entity 112 120	tyrosine
+T28	Entity 911 928	IFN-induced genes
+T29	Entity 923 928	genes
+T30	Entity 1162 1186	specific promoter motifs
+T31	Entity 1223 1228	genes
+T32	Entity 1282 1290	tyrosine
+T33	Entity 1368 1389	DNA binding complexes
+T34	Entity 1429 1463	STAT-dependent early response gene
+T35	Entity 1444 1463	early response gene
+T36	Entity 1545 1553	tyrosine
+R1	Protein-Component Arg1:T3 Arg2:T27
+R2	Protein-Component Arg1:T18 Arg2:T32
+R3	Subunit-Complex Arg1:T18 Arg2:T33
+R4	Protein-Component Arg1:T22 Arg2:T36

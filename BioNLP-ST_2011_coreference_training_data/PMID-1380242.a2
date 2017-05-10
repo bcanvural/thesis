@@ -1,0 +1,15 @@
+T11	Exp 305 338	specific trans-activating factors	331 338	factors
+T12	Exp 339 343	that
+T13	Exp 485 516	A member of the src gene family	487 493	member
+T14	Exp 518 565	the lymphocyte-specific protein tyrosine kinase	550 565	tyrosine kinase
+T15	Exp 780 787	factors
+T16	Exp 788 792	that
+T17	Exp 900 916	the same stimuli	909 916	stimuli
+T18	Exp 917 921	that
+T19	Exp 1050 1080	these trans-activating factors	1073 1080	factors
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T15 Antecedent:T11
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17
+R6	Coref Anaphora:T19 Antecedent:T15

@@ -1,0 +1,3 @@
+T21	Exp 999 1006	T cells
+T22	Exp 1007 1011	that
+R1	Coref Anaphora:T22 Antecedent:T21

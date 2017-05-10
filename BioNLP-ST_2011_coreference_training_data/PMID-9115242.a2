@@ -1,0 +1,3 @@
+T13	Exp 1706 1717	a mechanism
+T14	Exp 1732 1736	that
+R1	Coref Anaphora:T14 Antecedent:T13

@@ -1,0 +1,39 @@
+T1	Protein 0 4	RsbW
+T2	Protein 25 32	sigma B
+T3	Transcription 43 56	transcription
+T4	Protein 91 98	sigma B
+T5	PolymeraseComplex 128 139	core enzyme
+W1	Word 0 4	RsbW
+W2	Word 5 16	efficiently
+W3	Word 17 24	blocked
+W4	Word 25 32	sigma B
+W5	Word 33 42	dependent
+W6	Word 43 56	transcription
+W7	Word 57 60	but
+W8	Word 61 65	only
+W9	Word 66 68	if
+W10	Word 69 71	it
+W11	Word 72 75	was
+W12	Word 76 85	incubated
+W13	Word 86 90	with
+W14	Word 91 98	sigma B
+W15	Word 99 104	prior
+W16	Word 105 107	to
+W17	Word 108 111	the
+W18	Word 112 120	addition
+W19	Word 121 123	of
+W20	Word 124 127	the
+W21	Word 128 132	core
+W22	Word 133 139	enzyme
+R1	mod_att:N-ADJ W6 W5
+R2	comp:V_PASS-N(with) W12 W14
+R3	obj:V-N W3 W6
+R4	comp:N-N(of) W18 W22
+R5	mod:V-ADV W3 W2
+R6	comp:ADV-N(to) W15 W18
+R7	mod:V_PASS-ADV W12 W15
+R8	mod:ADJ-N W5 W4
+R9	mod:V-ADV W3 W8
+R10	mod_att:N-N W22 W21
+R11	subj:V-N W3 W1
+R12	subj:V_PASS-N W12 W10

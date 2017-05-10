@@ -1,0 +1,15 @@
+T7	Exp 437 460	the molecular mechanism	451 460	mechanism
+T8	Exp 461 465	that
+T9	Exp 1067 1101	neutrophil adhesion in both phases	1078 1086	adhesion
+T10	Exp 1103 1108	which
+T11	Exp 1662 1691	competing ds-oligonucleotides	1672 1691	ds-oligonucleotides
+T12	Exp 1692 1696	that
+T13	Exp 1799 1819	the phase 2 response	1811 1819	response
+T14	Exp 1821 1826	which
+T15	Exp 2107 2228	transcription-independent and transcription-dependent surface expression of different endothelial cell adhesion molecules	2169 2179	expression
+T16	Exp 2230 2235	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T16 Antecedent:T15

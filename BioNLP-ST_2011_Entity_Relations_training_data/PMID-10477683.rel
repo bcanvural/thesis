@@ -1,0 +1,10 @@
+*	Equiv T11 T12
+T13	Entity 410 430	inhibitory complexes
+T14	Entity 468 480	target genes
+T15	Entity 507 526	Myb consensus sites
+T16	Entity 890 897	Myb:Maf
+T17	Entity 1150 1167	Myb:Maf complexes
+T18	Entity 1461 1478	regulated targets
+T19	Entity 1556 1587	differentiation-promoting genes
+R1	Subunit-Complex Arg1:T3 Arg2:T13
+R2	Subunit-Complex Arg1:T2 Arg2:T13

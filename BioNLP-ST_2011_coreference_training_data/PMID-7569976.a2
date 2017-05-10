@@ -1,0 +1,9 @@
+T2	Exp 129 144	Glucocorticoids
+T3	Exp 219 223	They
+T4	Exp 583 621	the I kappa B alpha inhibitory protein	614 621	protein
+T5	Exp 623 628	which
+T6	Exp 699 709	NF-kappa B
+T7	Exp 807 810	its
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4	[T1]
+R3	Coref Anaphora:T7 Antecedent:T6

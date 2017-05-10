@@ -1,0 +1,17 @@
+T6	Entity 24 50	HIV-1 long terminal repeat
+T7	Entity 64 73	promoters
+T8	Entity 90 111	DNA regulatory motifs
+T9	Entity 140 173	long terminal repeat (LTR) region
+T10	Entity 398 416	LTR size variation
+T11	Entity 480 499	NF-kappa B enhancer
+T12	Entity 553 571	short DNA sequence
+T13	Entity 573 582	CTG-motif
+T14	Entity 662 667	sites
+T15	Entity 744 764	isogenic control LTR
+T16	Entity 780 785	sites
+T17	Entity 824 833	CTG-motif
+T18	Entity 968 985	wild-type plasmid
+T19	Entity 1043 1048	sites
+T20	Entity 1107 1118	CTG-monomer
+T21	Entity 1141 1150	CTG-dimer
+T22	Entity 1250 1262	LTR variants

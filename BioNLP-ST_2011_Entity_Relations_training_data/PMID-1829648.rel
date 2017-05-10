@@ -1,0 +1,18 @@
+*	Equiv T2 T3
+*	Equiv T8 T9
+T11	Entity 23 43	immediate-early gene
+T12	Entity 139 144	cDNAs
+T13	Entity 289 304	317 amino acids
+T14	Entity 332 351	five tandem repeats
+T15	Entity 359 378	cdc10/ankyrin motif
+T16	Entity 424 445	ankyrin repeat region
+T17	Entity 491 501	C-terminus
+T18	Entity 517 554	protein kinase C phosphorylation site
+T19	Entity 664 682	NF-kappa B complex
+T20	Entity 716 722	factor
+T21	Entity 882 892	NF-kappa B
+R1	Protein-Component Arg1:T2 Arg2:T16
+R2	Subunit-Complex Arg1:T5 Arg2:T19
+R3	Subunit-Complex Arg1:T6 Arg2:T19
+R4	Subunit-Complex Arg1:T7 Arg2:T20
+R5	Subunit-Complex Arg1:T8 Arg2:T20

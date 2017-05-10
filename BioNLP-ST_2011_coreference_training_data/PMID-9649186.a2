@@ -1,0 +1,10 @@
+T2	Exp 880 910	hydrogen peroxide at 20 microM	889 897	peroxide
+T3	Exp 912 917	which
+T4	Exp 1078 1094	oxidative stress	1088 1094	stress
+T5	Exp 1099 1102	its
+T6	Exp 1214 1235	weak oxidative stress	1229 1235	stress
+T7	Exp 1236 1241	which
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T6 Antecedent:T4
+R4	Coref Anaphora:T7 Antecedent:T6

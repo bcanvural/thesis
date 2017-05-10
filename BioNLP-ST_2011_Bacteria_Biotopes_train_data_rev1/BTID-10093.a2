@@ -1,0 +1,35 @@
+T1	Bacterium 0 23	Borrelia recurrentis A1
+T2	Bacterium 36 56	Borrelia recurrentis
+T3	Bacterium 58 78	Borrelia recurrentis
+T4	Host 105 110	louse
+T5	Geographical 260 265	world
+T6	Geographical 313 319	Africa
+T7	Geographical 321 326	China
+T8	Geographical 332 336	Peru
+T9	Bacterium 338 352	B. recurrentis
+T10	Host 382 397	human body lice
+T11	Host 399 416	Pediculus humanus
+T12	HostPart 440 446	fluids
+T13	HostPart 459 475	mucous membranes
+T14	HostPart 479 497	breaks in the skin
+T15	Bacterium 1113 1136	Borrelia recurrentis A1
+T16	Host 1173 1186	adult patient
+T17	Host 1192 1197	louse
+T18	Geographical 1223 1231	Ethiopia
+*	Equiv T2 T3
+*	Equiv T2 T9
+*	Equiv T1 T15
+*	Equiv T4 T10
+*	Equiv T4 T11
+E1	Localization Bacterium:T2 Localization:T5
+E2	Localization Bacterium:T2 Localization:T4
+E3	Localization Bacterium:T2 Localization:T12
+E4	Localization Bacterium:T2 Localization:T7
+E5	PartOf Host:T4 Part:T12
+E6	Localization Bacterium:T1 Localization:T16
+E7	Localization Bacterium:T2 Localization:T13
+E8	Localization Bacterium:T2 Localization:T8
+E9	Localization Bacterium:T1 Localization:T17
+E10	Localization Bacterium:T2 Localization:T14
+E11	Localization Bacterium:T1 Localization:T18
+E12	Localization Bacterium:T2 Localization:T6

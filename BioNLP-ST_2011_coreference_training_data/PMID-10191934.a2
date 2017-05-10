@@ -1,0 +1,3 @@
+T1	Exp 682 702	glucocorticosteroids
+T2	Exp 796 800	They
+R1	Coref Anaphora:T2 Antecedent:T1

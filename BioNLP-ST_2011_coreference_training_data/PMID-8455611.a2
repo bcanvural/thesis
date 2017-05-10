@@ -1,0 +1,22 @@
+T15	Exp 255 298	the alpha globin regulatory element (HS-40)	283 290	element
+T16	Exp 365 391	transient expression assay
+T17	Exp 392 396	that
+T18	Exp 397 402	HS-40
+T19	Exp 564 628	sequences located between -559 and -88 of the zeta 2 globin gene
+T20	Exp 650 653	its
+T21	Exp 691 695	they
+T22	Exp 999 1004	HS-40
+T23	Exp 1163 1168	HS-40
+T24	Exp 1349 1354	HS-40
+T25	Exp 1375 1378	its
+T26	Exp 2193 2278	erythroid cell-specific and developmental stage-specific nuclear factor-DNA complexes
+T27	Exp 2279 2284	which
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T18 Antecedent:T15	[T4]
+R3	Coref Anaphora:T20 Antecedent:T19	[T7]
+R4	Coref Anaphora:T21 Antecedent:T19	[T7]
+R5	Coref Anaphora:T22 Antecedent:T18
+R6	Coref Anaphora:T23 Antecedent:T22
+R7	Coref Anaphora:T24 Antecedent:T23
+R8	Coref Anaphora:T25 Antecedent:T24
+R9	Coref Anaphora:T27 Antecedent:T26

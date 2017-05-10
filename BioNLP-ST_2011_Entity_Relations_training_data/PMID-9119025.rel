@@ -1,0 +1,16 @@
+T4	Entity 35 55	long terminal repeat
+T5	Entity 102 114	kappaB motif
+T6	Entity 261 282	long terminal repeats
+T7	Entity 284 287	LTR
+T8	Entity 322 331	HIV-1 LTR
+T9	Entity 457 475	lacZ reporter gene
+T10	Entity 534 543	HIV-1 LTR
+T11	Entity 575 601	kappaB regulatory elements
+T12	Entity 617 626	U3 region
+T13	Entity 670 679	HIV-1 LTR
+T14	Entity 778 789	heterodimer
+T15	Entity 796 824	HIV-1 kappaB oligonucleotide
+T16	Entity 861 870	NF-kappaB
+T17	Entity 1029 1038	NF-kappaB
+R1	Subunit-Complex Arg1:T1 Arg2:T14
+R2	Subunit-Complex Arg1:T2 Arg2:T14

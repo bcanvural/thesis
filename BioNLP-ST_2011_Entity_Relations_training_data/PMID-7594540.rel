@@ -1,0 +1,22 @@
+*	Equiv T4 T5
+T16	Entity 44 52	promoter
+T17	Entity 66 95	Positive regulatory element I
+T18	Entity 97 102	PRE-I
+T19	Entity 116 132	enhancer element
+T20	Entity 227 232	PRE-I
+T21	Entity 248 271	cDNA expression library
+T22	Entity 307 311	cDNA
+T23	Entity 540 545	PRE-I
+T24	Entity 547 552	PRE-I
+T25	Entity 559 589	multiple DNA-protein complexes
+T26	Entity 808 821	reporter gene
+T27	Entity 836 858	PRE-I-thymidine kinase
+T28	Entity 877 885	promoter
+T29	Entity 978 991	binding sites
+T30	Entity 1025 1039	C/EBP proximal
+T31	Entity 1057 1069	C/EBP medial
+T32	Entity 1182 1190	promoter
+R1	Protein-Component Arg1:T2 Arg2:T16
+R2	Protein-Component Arg1:T3 Arg2:T19
+R3	Protein-Component Arg1:T12 Arg2:T28
+R4	Protein-Component Arg1:T15 Arg2:T32

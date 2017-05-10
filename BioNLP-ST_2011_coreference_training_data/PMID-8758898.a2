@@ -1,0 +1,6 @@
+T2	Exp 263 271	the role
+T3	Exp 272 276	that
+T4	Exp 749 797	HIV-1 harboring mutations within two C/EBP sites	765 774	mutations
+T5	Exp 815 820	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4

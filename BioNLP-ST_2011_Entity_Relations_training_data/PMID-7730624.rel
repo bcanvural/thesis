@@ -1,0 +1,26 @@
+*	Equiv T1 T2
+*	Equiv T11 T12
+T13	Entity 157 164	element
+T14	Entity 192 219	start site of transcription
+T15	Entity 233 237	exon
+T16	Entity 291 299	promoter
+T17	Entity 375 391	DNA-binding site
+T18	Entity 505 513	promoter
+T19	Entity 570 577	element
+T20	Entity 615 623	DP alpha
+T21	Entity 629 633	beta
+T22	Entity 688 714	transcriptional start site
+T23	Entity 770 777	element
+T24	Entity 793 800	element
+T25	Entity 915 935	Ig kappa 3' enhancer
+T26	Entity 944 969	Ig heavy chain mu E1 site
+T27	Entity 944 958	Ig heavy chain
+T28	Entity 1032 1049	MHC class II gene
+R1	Protein-Component Arg1:T4 Arg2:T15
+R2	Protein-Component Arg1:T4 Arg2:T13
+R3	Protein-Component Arg1:T4 Arg2:T14
+R4	Protein-Component Arg1:T5 Arg2:T18
+R5	Protein-Component Arg1:T6 Arg2:T22
+R6	Protein-Component Arg1:T7 Arg2:T22
+R7	Protein-Component Arg1:T6 Arg2:T19
+R8	Protein-Component Arg1:T10 Arg2:T24

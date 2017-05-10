@@ -1,0 +1,51 @@
+T1	Action 30 35	level
+T2	Protein 39 43	KatX
+T3	Action 44 49	level
+T4	PolymeraseComplex 89 96	EsigmaF
+T5	Gene 106 110	sigB
+T6	Protein 131 135	KatX
+T7	Action 136 144	activity
+W1	Word 0 3	Our
+W2	Word 4 11	results
+W3	Word 12 20	indicate
+W4	Word 21 25	that
+W5	Word 26 29	the
+W6	Word 30 35	level
+W7	Word 36 38	of
+W8	Word 39 43	KatX
+W9	Word 44 49	level
+W10	Word 50 52	in
+W11	Word 53 63	outgrowing
+W12	Word 64 70	spores
+W13	Word 71 78	depends
+W14	Word 79 85	mainly
+W15	Word 86 88	on
+W16	Word 89 96	EsigmaF
+W17	Word 98 105	because
+W18	Word 106 110	sigB
+W19	Word 111 118	mutants
+W20	Word 119 123	show
+W21	Word 124 130	normal
+W22	Word 131 135	KatX
+W23	Word 136 144	activity
+W24	Word 145 147	in
+W25	Word 148 155	dormant
+W26	Word 156 159	and
+W27	Word 160 170	outgrowing
+W28	Word 171 177	spores
+R1	comp:V-N(on) W13 W16
+R2	subj:V-N W20 W19
+R3	mod_att:N-N W9 W8
+R4	mod_att:N-ADJ W12 W11
+R5	mod_att:N-ADJ W23 W21
+R6	mod_att:N-N W23 W22
+R7	subj:V-N W13 W6
+R8	mod_att:N-ADJ W28 W27
+R9	comp:N-N(in) W9 W12
+R10	comp:N-N(of) W6 W9
+R11	mod_att:N-ADJ W28 W25
+R12	comp:V-N(in) W20 W28
+R13	mod_att:N-N W19 W18
+R14	mod:V-ADV W13 W14
+R15	obj:V-N W20 W23
+R16	subj:V-N W3 W2

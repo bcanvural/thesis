@@ -1,0 +1,16 @@
+T10	Entity 8 11	DNA
+T11	Entity 106 126	locus control region
+T12	Entity 141 161	locus control region
+T13	Entity 181 188	cluster
+T14	Entity 203 231	DNase I hypersensitive sites
+T15	Entity 233 240	5'HS1-5
+T16	Entity 273 278	5'HS3
+T17	Entity 292 305	G-rich motifs
+T18	Entity 395 407	zinc fingers
+T19	Entity 607 612	5'HS3
+T20	Entity 733 738	5'HS3
+T21	Entity 770 782	zinc fingers
+T22	Entity 883 888	5'HS3
+R1	Protein-Component Arg1:T5 Arg2:T12
+R2	Protein-Component Arg1:T8 Arg2:T21
+R3	Protein-Component Arg1:T7 Arg2:T21

@@ -1,0 +1,12 @@
+T6	Exp 159 170	A DNA probe	161 170	DNA probe
+T7	Exp 171 175	that
+T8	Exp 471 502	a rel-related complementary DNA	499 502	DNA
+T9	Exp 503 507	that
+T10	Exp 748 770	The translated protein	763 770	protein
+T11	Exp 845 869	This protein-DNA complex	862 869	complex
+T12	Exp 1032 1049	the 65-kD protein
+T13	Exp 1216 1245	the rel-related 65-kD protein	1232 1245	65-kD protein
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T11 Antecedent:T10
+R4	Coref Anaphora:T13 Antecedent:T12

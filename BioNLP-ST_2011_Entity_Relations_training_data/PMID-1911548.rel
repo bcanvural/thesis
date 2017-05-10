@@ -1,0 +1,54 @@
+*	Equiv T2 T3
+T17	Entity 17 23	NF-GM2
+T18	Entity 46 82	regulatory region of the GM-CSF gene
+T19	Entity 46 63	regulatory region
+T20	Entity 222 232	NF-kappa B
+T21	Entity 389 419	genes for a set of lymphokines
+T22	Entity 534 578	upstream region of the mouse GM-CSF promoter
+T23	Entity 534 549	upstream region
+T24	Entity 570 578	promoter
+T25	Entity 600 611	-95 and -73
+T26	Entity 708 726	DNA-binding motifs
+T27	Entity 728 731	GM2
+T28	Entity 736 742	GC-box
+T29	Entity 748 760	GM2 sequence
+T30	Entity 762 772	GGTAGTTCCC
+T31	Entity 811 817	NF-GM2
+T32	Entity 830 836	CCGCCC
+T33	Entity 969 975	NF-GM2
+T34	Entity 1088 1094	NF-GM2
+T35	Entity 1240 1249	enhancers
+T36	Entity 1301 1320	protein-DNA complex
+T37	Entity 1309 1312	DNA
+T38	Entity 1393 1407	NF-GM2 complex
+T39	Entity 1460 1479	protein-DNA complex
+T40	Entity 1468 1471	DNA
+T41	Entity 1518 1532	NF-GM2 complex
+T42	Entity 1594 1604	NF-kappa B
+T43	Entity 1638 1644	NF-GM2
+T44	Entity 1753 1763	NF-kappa B
+T45	Entity 1778 1784	NF-GM2
+T46	Entity 1827 1843	kappa B enhancer
+T47	Entity 1904 1912	promoter
+T48	Entity 1927 1939	GM2 sequence
+T49	Entity 2016 2035	GM2/GC-box sequence
+T50	Entity 2062 2097	genes carrying the kappa B enhancer
+T51	Entity 2081 2097	kappa B enhancer
+R1	Protein-Component Arg1:T1 Arg2:T19
+R2	Protein-Component Arg1:T1 Arg2:T18
+R3	Protein-Component Arg1:T4 Arg2:T23
+R4	Protein-Component Arg1:T4 Arg2:T25
+R5	Protein-Component Arg1:T4 Arg2:T22
+R6	Protein-Component Arg1:T4 Arg2:T24
+R7	Subunit-Complex Arg1:T7 Arg2:T34
+R8	Subunit-Complex Arg1:T6 Arg2:T34
+R9	Protein-Component Arg1:T8 Arg2:T35
+R10	Subunit-Complex Arg1:T9 Arg2:T36
+R11	Subunit-Complex Arg1:T10 Arg2:T38
+R12	Subunit-Complex Arg1:T11 Arg2:T38
+R13	Subunit-Complex Arg1:T12 Arg2:T39
+R14	Subunit-Complex Arg1:T14 Arg2:T43
+R15	Subunit-Complex Arg1:T13 Arg2:T42
+R16	Protein-Component Arg1:T15 Arg2:T48
+R17	Protein-Component Arg1:T15 Arg2:T47
+R18	Protein-Component Arg1:T16 Arg2:T49

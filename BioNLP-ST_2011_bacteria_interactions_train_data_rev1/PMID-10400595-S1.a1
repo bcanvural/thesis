@@ -1,0 +1,42 @@
+T1	Protein 73 77	GerE
+T2	Transcription 89 102	transcription
+T3	Promoter 116 125	promoters
+T4	PolymeraseComplex 143 175	RNA polymerase containing sigmaK
+W1	Word 0 6	During
+W2	Word 7 16	endospore
+W3	Word 17 26	formation
+W4	Word 27 29	in
+W5	Word 30 47	Bacillus subtilis
+W6	Word 49 52	the
+W7	Word 53 56	DNA
+W8	Word 57 64	binding
+W9	Word 65 72	protein
+W10	Word 73 77	GerE
+W11	Word 78 88	stimulates
+W12	Word 89 102	transcription
+W13	Word 103 107	from
+W14	Word 108 115	several
+W15	Word 116 125	promoters
+W16	Word 126 130	that
+W17	Word 131 134	are
+W18	Word 135 139	used
+W19	Word 140 142	by
+W20	Word 143 146	RNA
+W21	Word 147 157	polymerase
+W22	Word 158 168	containing
+W23	Word 169 175	sigmaK
+R1	comp:V_PASS-N(by) W18 W21
+R2	subj:V-N W22 W21
+R3	comp:N-N(in) W3 W5
+R4	subj:V-N W11 W10
+R5	subj:V_PASS-N W18 W15
+R6	mod:ADJ-N W8 W7
+R7	comp:V-N(during) W11 W3
+R8	obj:V-N W22 W23
+R9	mod_att:N-ADJ W9 W8
+R10	obj:V-N W11 W12
+R11	mod_att:N-ADJ W3 W2
+R12	mod_att:N-N W10 W9
+R13	mod_att:N-ADJ W15 W14
+R14	mod_att:N-N W21 W20
+R15	comp:N-N(from) W12 W15

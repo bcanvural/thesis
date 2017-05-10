@@ -1,0 +1,6 @@
+T21	Exp 288 327	erythrocytic and megakaryocytic markers	320 327	markers
+T22	Exp 328 332	that
+T23	Exp 2068 2109	a specific property of immortalized cells	2079 2087	property
+T24	Exp 2110 2114	that
+R1	Coref Anaphora:T22 Antecedent:T21
+R2	Coref Anaphora:T24 Antecedent:T23

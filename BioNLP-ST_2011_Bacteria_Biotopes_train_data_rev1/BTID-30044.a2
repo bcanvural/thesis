@@ -1,0 +1,66 @@
+T1	Bacterium 5 19	mycoides group
+T2	Host 42 48	animal
+T3	Geographical 71 76	world
+T4	Bacterium 146 173	M. mycoides ssp mycoides SC
+T5	Bacterium 175 180	MmmSC
+T6	Bacterium 183 210	M. mycoides ssp mycoides LC
+T7	Bacterium 212 217	MmmLC
+T8	Bacterium 220 241	M. mycoides ssp capri
+T9	Bacterium 243 246	Mmc
+T10	Bacterium 249 277	M. capricolum ssp capricolum
+T11	Bacterium 279 282	Mcc
+T12	Bacterium 285 317	M. capricolum ssp capripneumonia
+T13	Bacterium 319 323	Mccp
+T14	Bacterium 326 348	M. sp Group 7 of Leach
+T15	Bacterium 350 353	Mg7
+T16	Host 376 385	ruminants
+T17	Bacterium 401 406	MmmSC
+T18	Bacterium 411 415	Mccp
+T19	Host 471 476	goose
+T20	Geographical 575 580	world
+T21	Host 618 627	ruminants
+T22	Bacterium 896 910	mycoides group
+T23	Host 1043 1049	cattle
+T24	Host 1053 1057	goat
+T25	HostPart 1085 1089	lung
+T26	Bacterium 1094 1099	MmmSC
+T27	HostPart 1101 1114	mammary gland
+T28	Bacterium 1119 1124	MmmLC
+T29	Bacterium 1407 1424	Spiroplasma citri
+T30	Bacterium 1429 1440	S. kunkelii
+T31	Host 1442 1447	plant
+*	Equiv T6 T7
+*	Equiv T6 T28
+*	Equiv T4 T5
+*	Equiv T4 T17
+*	Equiv T4 T26
+*	Equiv T10 T11
+*	Equiv T8 T9
+*	Equiv T14 T15
+*	Equiv T12 T13
+*	Equiv T12 T18
+*	Equiv T1 T22
+E1	Localization Bacterium:T1 Localization:T2
+E2	Localization Bacterium:T6 Localization:T21
+E3	Localization Bacterium:T29 Localization:T31
+E4	Localization Bacterium:T8 Localization:T21
+E5	Localization Bacterium:T4 Localization:T16
+E6	Localization Bacterium:T6 Localization:T16
+E7	Localization Bacterium:T10 Localization:T21
+E8	Localization Bacterium:T14 Localization:T21
+E9	Localization Bacterium:T8 Localization:T16
+E10	Localization Bacterium:T12 Localization:T19
+E11	Localization Bacterium:T4 Localization:T19
+E12	Localization Bacterium:T10 Localization:T16
+E13	Localization Bacterium:T1 Localization:T24
+E14	Localization Bacterium:T10 Localization:T20
+E15	Localization Bacterium:T8 Localization:T20
+E16	Localization Bacterium:T6 Localization:T20
+E17	Localization Bacterium:T4 Localization:T25
+E18	Localization Bacterium:T1 Localization:T3
+E19	Localization Bacterium:T30 Localization:T31
+E20	Localization Bacterium:T6 Localization:T27
+E21	Localization Bacterium:T12 Localization:T16
+E22	Localization Bacterium:T14 Localization:T16
+E23	Localization Bacterium:T14 Localization:T20
+E24	Localization Bacterium:T1 Localization:T23

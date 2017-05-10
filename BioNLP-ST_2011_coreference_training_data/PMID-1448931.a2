@@ -1,0 +1,3 @@
+T6	Exp 1226 1242	virus production
+T7	Exp 1280 1284	that
+R1	Coref Anaphora:T7 Antecedent:T6

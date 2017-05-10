@@ -1,0 +1,12 @@
+T2	Exp 400 446	topoisomerase associated, primary DNA breakage	438 446	breakage
+T3	Exp 448 453	which
+T4	Exp 896 937	a biphasic activation of protein kinase C	907 917	activation
+T5	Exp 939 944	which
+T6	Exp 1589 1616	topoisomerase II inhibitors	1606 1616	inhibitors
+T7	Exp 1688 1693	their
+T8	Exp 1750 1763	other effects	1756 1763	effects
+T9	Exp 1815 1820	which
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T9 Antecedent:T8

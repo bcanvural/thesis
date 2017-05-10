@@ -1,0 +1,6 @@
+T13	Exp 416 440	nuclear I(kappa)B(alpha)
+T14	Exp 485 488	its
+T15	Exp 869 885	I(kappa)B(alpha)
+T16	Exp 996 1007	the protein
+R1	Coref Anaphora:T14 Antecedent:T13	[T4]
+R2	Coref Anaphora:T16 Antecedent:T15	[T7]

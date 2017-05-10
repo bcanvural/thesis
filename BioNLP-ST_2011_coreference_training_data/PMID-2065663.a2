@@ -1,0 +1,11 @@
+T2	Exp 88 123	the NF-kappa B transcription factor	103 123	transcription factor
+T3	Exp 397 432	the NF-kappa B transcription factor	412 432	transcription factor
+T4	Exp 433 438	which
+T5	Exp 479 483	H2O2
+T6	Exp 508 511	its
+T7	Exp 566 598	a well characterized antioxidant
+T8	Exp 599 604	which
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T7

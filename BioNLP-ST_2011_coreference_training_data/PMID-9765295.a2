@@ -1,0 +1,17 @@
+T2	Exp 232 250	cellular responses	241 250	responses
+T3	Exp 251 255	that
+T4	Exp 443 446	FcR
+T5	Exp 525 545	The molecular events	539 545	events
+T6	Exp 546 550	that
+T7	Exp 562 566	that
+T8	Exp 590 605	these receptors	596 605	receptors
+T9	Exp 668 717	the signal transduction pathway from Fc receptors	692 699	pathway
+T10	Exp 718 722	that
+T11	Exp 807 810	FcR
+T12	Exp 1281 1296	these receptors	1287 1296	receptors
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T7 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T4
+R5	Coref Anaphora:T10 Antecedent:T9
+R6	Coref Anaphora:T12 Antecedent:T11

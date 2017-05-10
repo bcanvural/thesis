@@ -1,0 +1,15 @@
+T15	Exp 119 138	Cyclosporin A (CsA)
+T16	Exp 151 154	its
+T17	Exp 195 256	the calcium- and calmodulin-dependent phosphatase calcineurin	245 256	calcineurin
+T18	Exp 257 262	which
+T19	Exp 1009 1018	G0S2 mRNA	1014 1018	mRNA
+T20	Exp 1019 1024	which
+T21	Exp 1183 1188	cells
+T22	Exp 1189 1193	that
+T23	Exp 1727 1731	G0S2
+T24	Exp 1816 1819	its
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17
+R3	Coref Anaphora:T20 Antecedent:T19	[T9]
+R4	Coref Anaphora:T22 Antecedent:T21
+R5	Coref Anaphora:T24 Antecedent:T23	[T14]

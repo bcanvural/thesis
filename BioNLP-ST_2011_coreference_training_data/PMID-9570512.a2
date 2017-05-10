@@ -1,0 +1,12 @@
+T3	Exp 934 944	activities
+T4	Exp 945 950	which
+T5	Exp 1106 1110	LTRs
+T6	Exp 1111 1116	which
+T7	Exp 1598 1686	an activating transcription factor/cAMP response element binding (ATF/CREB) binding site	1682 1686	site
+T8	Exp 1771 1775	that
+T9	Exp 1902 1957	basal LTR function and transcription factor recruitment	1946 1957	recruitment
+T10	Exp 1959 1964	which
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T8 Antecedent:T7
+R4	Coref Anaphora:T10 Antecedent:T9

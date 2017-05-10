@@ -1,0 +1,6 @@
+T9	Exp 120 138	human TAF subunits
+T10	Exp 139 143	that
+T11	Exp 792 829	a cell type-specific subunit of TFIID	813 820	subunit
+T12	Exp 830 834	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11

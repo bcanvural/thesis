@@ -1,0 +1,6 @@
+T19	Exp 36 66	the transcription factor NFAT1	40 60	transcription factor
+T20	Exp 70 73	its
+T21	Exp 455 533	the nuclear factor of activated T cells (NFAT) family of transcription factors	502 508	family
+T22	Exp 538 543	which
+R1	Coref Anaphora:T20 Antecedent:T19	[T1]
+R2	Coref Anaphora:T22 Antecedent:T21

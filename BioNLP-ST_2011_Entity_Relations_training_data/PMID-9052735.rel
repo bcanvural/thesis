@@ -1,0 +1,22 @@
+*	Equiv T2 T3
+*	Equiv T11 T12
+T13	Entity 80 84	nGRE
+T14	Entity 351 370	regulatory elements
+T15	Entity 399 414	promoter region
+T16	Entity 626 653	negative regulatory element
+T17	Entity 684 697	-685 and -395
+T18	Entity 721 754	19-bp nuclear factor binding site
+T19	Entity 756 768	-570 to -552
+T20	Entity 847 865	consensus sequence
+T21	Entity 872 912	negative glucocorticoid response element
+T22	Entity 914 918	nGRE
+T23	Entity 960 972	binding site
+T24	Entity 1084 1102	19-bp binding site
+T25	Entity 1122 1141	reporter constructs
+T26	Entity 1168 1181	SV40 promoter
+T27	Entity 1287 1305	wild-type fragment
+T28	Entity 1319 1334	deletion mutant
+T29	Entity 1347 1357	19-bp site
+T30	Entity 1404 1432	negative regulatory sequence
+T31	Entity 1504 1530	negative regulatory region
+T32	Entity 1566 1579	cytokine gene

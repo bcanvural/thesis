@@ -1,0 +1,14 @@
+T9	Exp 0 95	A novel genetic system to isolate a dominant negative effector on DNA-binding activity of Oct-2	16 22	system
+T10	Exp 263 274	cDNA clones	268 274	clones
+T11	Exp 275 279	that
+T12	Exp 387 411	a novel screening system	405 411	system
+T13	Exp 413 417	This
+T14	Exp 851 867	three Lac+clones	861 867	clones
+T15	Exp 907 911	them
+T16	Exp 1340 1368	protein-protein interactions	1356 1368	interactions
+T17	Exp 1369 1373	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T9	[T1]
+R3	Coref Anaphora:T13 Antecedent:T12
+R4	Coref Anaphora:T15 Antecedent:T14
+R5	Coref Anaphora:T17 Antecedent:T16

@@ -1,0 +1,22 @@
+T23	Entity 402 406	cAMP
+T24	Entity 521 525	cAMP
+T25	Entity 575 583	promoter
+T26	Entity 598 602	cAMP
+T27	Entity 721 729	promoter
+T28	Entity 800 804	cAMP
+T29	Entity 926 934	promoter
+T30	Entity 938 942	cAMP
+T31	Entity 1006 1016	P sequence
+T32	Entity 1048 1066	responsive element
+T33	Entity 1182 1195	binding sites
+T34	Entity 1272 1282	P sequence
+T35	Entity 1422 1433	heterodimer
+T36	Entity 1458 1468	P sequence
+R1	Protein-Component Arg1:T10 Arg2:T25
+R2	Protein-Component Arg1:T12 Arg2:T27
+R3	Protein-Component Arg1:T15 Arg2:T29
+R4	Protein-Component Arg1:T16 Arg2:T32
+R5	Protein-Component Arg1:T16 Arg2:T31
+R6	Protein-Component Arg1:T16 Arg2:T33
+R7	Subunit-Complex Arg1:T18 Arg2:T35
+R8	Subunit-Complex Arg1:T19 Arg2:T35

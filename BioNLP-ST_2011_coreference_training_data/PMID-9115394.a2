@@ -1,0 +1,6 @@
+T19	Exp 329 338	receptors
+T20	Exp 339 343	that
+T21	Exp 543 571	the haematopoietic cytokines	562 571	cytokines
+T22	Exp 572 576	that
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21

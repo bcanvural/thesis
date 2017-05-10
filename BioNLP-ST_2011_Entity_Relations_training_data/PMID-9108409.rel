@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+T13	Entity 715 728	IL-2 receptor
+T14	Entity 730 735	IL-2R
+T15	Entity 1067 1079	gene segment
+T16	Entity 1088 1099	5' upstream
+T17	Entity 1130 1168	activation-inducible enhancer elements
+T18	Entity 1151 1168	enhancer elements
+T19	Entity 1268 1272	AP-1
+T20	Entity 1277 1286	NF-kappaB
+T21	Entity 1369 1378	NF-kappaB
+R1	Protein-Component Arg1:T8 Arg2:T17
+R2	Protein-Component Arg1:T8 Arg2:T18
+R3	Protein-Component Arg1:T8 Arg2:T16
+R4	Protein-Component Arg1:T8 Arg2:T15

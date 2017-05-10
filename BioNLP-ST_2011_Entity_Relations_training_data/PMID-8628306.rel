@@ -1,0 +1,15 @@
+T9	Entity 312 332	5' flanking sequence
+T10	Entity 576 596	5' flanking sequence
+T11	Entity 748 763	oligonucleotide
+T12	Entity 804 823	protein-DNA complex
+T13	Entity 840 844	CMAT
+T14	Entity 942 954	binding site
+T15	Entity 996 1051	nuclear factor of activated T cells (NFAT) binding site
+T16	Entity 1219 1244	NFAT EMSA binding complex
+T17	Entity 1271 1283	CMAT complex
+T18	Entity 1379 1391	CMAT protein
+T19	Entity 1464 1476	CMAT protein
+T20	Entity 1500 1520	CMAT binding complex
+T21	Entity 1576 1580	CMAT
+R1	Protein-Component Arg1:T4 Arg2:T9
+R2	Protein-Component Arg1:T6 Arg2:T10

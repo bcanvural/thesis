@@ -1,0 +1,20 @@
+*	Equiv T3 T4
+T13	Entity 13 17	site
+T14	Entity 50 58	promoter
+T15	Entity 389 397	promoter
+T16	Entity 464 480	promoter segment
+T17	Entity 597 619	43-mer oligonucleotide
+T18	Entity 661 679	cis-acting element
+T19	Entity 738 794	transcription factor consensus sequence oligonucleotides
+T20	Entity 901 919	regulatory element
+T21	Entity 957 975	consensus sequence
+T22	Entity 1010 1027	TCCCCTCCCCT motif
+T23	Entity 1118 1140	low-mobility complexes
+T24	Entity 1356 1360	site
+T25	Entity 1421 1425	site
+T26	Entity 1448 1456	promoter
+R1	Protein-Component Arg1:T2 Arg2:T13
+R2	Protein-Component Arg1:T2 Arg2:T14
+R3	Protein-Component Arg1:T5 Arg2:T15
+R4	Protein-Component Arg1:T12 Arg2:T25
+R5	Protein-Component Arg1:T12 Arg2:T26

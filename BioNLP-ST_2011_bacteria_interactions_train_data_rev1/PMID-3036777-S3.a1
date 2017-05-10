@@ -1,0 +1,62 @@
+T1	Protein 0 2	S1
+T2	GeneComplex 48 51	sdh
+T3	Transcription 62 73	transcribed
+T4	Protein 81 89	sigma-43
+T5	Promoter 90 98	promoter
+T6	GeneProduct 104 114	transcript
+T7	Site 127 144	guanosine residue
+T8	Gene 183 187	gene
+T9	GeneComplex 195 201	operon
+T10	Gene 203 207	sdhC
+W1	Word 0 2	S1
+W2	Word 3 11	nuclease
+W3	Word 12 19	mapping
+W4	Word 20 31	experiments
+W5	Word 32 38	showed
+W6	Word 39 43	that
+W7	Word 44 47	the
+W8	Word 48 51	sdh
+W9	Word 52 58	operon
+W10	Word 59 61	is
+W11	Word 62 73	transcribed
+W12	Word 74 78	from
+W13	Word 79 80	a
+W14	Word 81 89	sigma-43
+W15	Word 90 98	promoter
+W16	Word 100 103	the
+W17	Word 104 114	transcript
+W18	Word 115 121	starts
+W19	Word 122 124	at
+W20	Word 125 126	a
+W21	Word 127 136	guanosine
+W22	Word 137 144	residue
+W23	Word 145 147	90
+W24	Word 148 152	base
+W25	Word 153 158	pairs
+W26	Word 159 167	upstream
+W27	Word 168 172	from
+W28	Word 173 176	the
+W29	Word 177 182	first
+W30	Word 183 187	gene
+W31	Word 188 190	of
+W32	Word 191 194	the
+W33	Word 195 201	operon
+W34	Word 203 207	sdhC
+R1	mod_att:N-N W4 W3
+R2	comp:N-N(of) W30 W33
+R3	appos W30 W34
+R4	mod_att:N-N W9 W8
+R5	mod_att:N-N W22 W21
+R6	mod:ADJ-N W26 W25
+R7	comp:V_PASS-N(from) W11 W15
+R8	mod_post:N-ADJ W22 W26
+R9	mod_att:N-N W2 W1
+R10	comp:ADJ-N(from) W26 W30
+R11	mod_att:N-N W3 W2
+R12	subj:V_PASS-N W11 W9
+R13	mod_att:N-N W15 W14
+R14	mod_att:N-N W25 W24
+R15	comp:V-N(at) W18 W22
+R16	mod_att:N-ADJ W25 W23
+R17	subj:V-N W5 W4
+R18	subj:V-N W18 W17

@@ -1,0 +1,17 @@
+T1	Protein 0 7	SpoIIAB
+T2	Protein 18 31	serine kinase
+T3	Protein 49 56	SpoIIAA
+W1	Word 0 7	SpoIIAB
+W2	Word 8 10	is
+W3	Word 11 15	also
+W4	Word 16 17	a
+W5	Word 18 24	serine
+W6	Word 25 31	kinase
+W7	Word 32 36	that
+W8	Word 37 48	inactivates
+W9	Word 49 56	SpoIIAA
+R1	mod:V-ADV W2 W3
+R2	mod_att:N-N W6 W5
+R3	subj:V-N W8 W6
+R4	obj:V-N W8 W9
+R5	mod_pred:N-N W1 W6

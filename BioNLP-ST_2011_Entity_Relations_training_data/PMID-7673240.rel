@@ -1,0 +1,28 @@
+*	Equiv T4 T5
+T17	Entity 2 20	regulatory element
+T18	Entity 53 61	promoter
+T19	Entity 67 79	binding site
+T20	Entity 367 375	promoter
+T21	Entity 430 448	regulatory element
+T22	Entity 465 473	promoter
+T23	Entity 510 558	nuclear factor of activated T cell (NFAT) domain
+T24	Entity 584 618	zinc finger protein binding region
+T25	Entity 620 623	ZIP
+T26	Entity 1007 1015	ZIP site
+T27	Entity 1086 1089	ZIP
+T28	Entity 1094 1112	NFAT binding sites
+T29	Entity 1142 1150	promoter
+T30	Entity 1206 1214	ZIP site
+T31	Entity 1224 1232	promoter
+R1	Protein-Component Arg1:T1 Arg2:T19
+R2	Protein-Component Arg1:T1 Arg2:T17
+R3	Protein-Component Arg1:T1 Arg2:T18
+R4	Protein-Component Arg1:T6 Arg2:T20
+R5	Protein-Component Arg1:T7 Arg2:T21
+R6	Protein-Component Arg1:T7 Arg2:T22
+R7	Protein-Component Arg1:T15 Arg2:T28
+R8	Protein-Component Arg1:T15 Arg2:T27
+R9	Protein-Component Arg1:T14 Arg2:T26
+R10	Protein-Component Arg1:T15 Arg2:T29
+R11	Protein-Component Arg1:T16 Arg2:T30
+R12	Protein-Component Arg1:T16 Arg2:T31

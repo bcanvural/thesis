@@ -1,0 +1,23 @@
+T18	Exp 29 69	the nuclear factors of activated T cells	33 48	nuclear factors
+T19	Exp 71 86	NFATp and NFATc
+T20	Exp 157 177	The putative factors
+T21	Exp 178 182	that
+T22	Exp 401 439	a cyclosporin A (CsA)-sensitive factor	433 439	factor
+T23	Exp 440 444	that
+T24	Exp 925 971	a CsA-sensitive and Ca(2+)-dependent mechanism	962 971	mechanism
+T25	Exp 972 976	that
+T26	Exp 1155 1177	Two distinct molecules	1168 1177	molecules
+T27	Exp 1476 1509	the same electrophoretic mobility	1501 1509	mobility
+T28	Exp 1536 1540	that
+T29	Exp 1986 2026	both CsA-sensitive transcription factors	2005 2026	transcription factors
+T30	Exp 2087 2092	their
+T31	Exp 2159 2176	a single stimulus	2168 2176	stimulus
+T32	Exp 2178 2182	that
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24
+R4	Coref Anaphora:T26 Antecedent:T18
+R5	Coref Anaphora:T28 Antecedent:T27
+R6	Coref Anaphora:T29 Antecedent:T26
+R7	Coref Anaphora:T30 Antecedent:T29
+R8	Coref Anaphora:T32 Antecedent:T31

@@ -1,0 +1,31 @@
+T28	Entity 22 31	EBNA gene
+T29	Entity 248 257	promoters
+T30	Entity 480 492	cis elements
+T31	Entity 538 557	EBNA gene promoters
+T32	Entity 863 882	-dependent enhancer
+T33	Entity 1059 1078	-dependent enhancer
+T34	Entity 1195 1206	CCAAT boxes
+T35	Entity 1210 1228	proximal CCAAT box
+T36	Entity 1240 1253	bp -61 to -65
+T37	Entity 1267 1276	CCAAT box
+T38	Entity 1291 1303	-253 to -257
+T39	Entity 1356 1368	cis elements
+T40	Entity 1460 1469	CCAAT box
+T41	Entity 1498 1514	distal CCAAT box
+T42	Entity 1505 1514	CCAAT box
+T43	Entity 1538 1556	proximal CCAAT box
+T44	Entity 1547 1556	CCAAT box
+T45	Entity 1641 1652	ca. bp -850
+T46	Entity 1931 1950	-dependent enhancer
+T47	Entity 1973 1985	cis elements
+T48	Entity 2042 2051	EBNA gene
+R1	Protein-Component Arg1:T6 Arg2:T30
+R2	Protein-Component Arg1:T11 Arg2:T32
+R3	Protein-Component Arg1:T13 Arg2:T33
+R4	Protein-Component Arg1:T16 Arg2:T37
+R5	Protein-Component Arg1:T16 Arg2:T34
+R6	Protein-Component Arg1:T16 Arg2:T36
+R7	Protein-Component Arg1:T16 Arg2:T35
+R8	Protein-Component Arg1:T16 Arg2:T38
+R9	Protein-Component Arg1:T17 Arg2:T40
+R10	Protein-Component Arg1:T18 Arg2:T45

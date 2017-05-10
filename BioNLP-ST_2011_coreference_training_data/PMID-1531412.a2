@@ -1,0 +1,6 @@
+T3	Exp 331 366	the archetypal T-cell-specific gene	362 366	gene
+T4	Exp 368 377	alpha TCR
+T5	Exp 452 491	novel families of transcription factors	470 491	transcription factors
+T6	Exp 492 496	that
+R1	Coref Anaphora:T3 Antecedent:T4	[T2]
+R2	Coref Anaphora:T6 Antecedent:T5

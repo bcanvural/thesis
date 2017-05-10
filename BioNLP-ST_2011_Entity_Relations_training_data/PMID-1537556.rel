@@ -1,0 +1,16 @@
+T5	Entity 63 71	silencer
+T6	Entity 193 218	hemoglobin-encoding genes
+T7	Entity 265 270	genes
+T8	Entity 355 386	transcriptional control element
+T9	Entity 412 420	silencer
+T10	Entity 436 451	-392 to -177 bp
+T11	Entity 468 476	cap site
+T12	Entity 602 610	silencer
+T13	Entity 714 730	deletion mutants
+T14	Entity 735 781	cis-cloned synthetic oligodeoxyribonucleotides
+T15	Entity 898 903	44 bp
+T16	Entity 917 932	-294 to -251 bp
+T17	Entity 1367 1381	-encoding gene
+R1	Protein-Component Arg1:T1 Arg2:T5
+R2	Protein-Component Arg1:T2 Arg2:T10
+R3	Protein-Component Arg1:T2 Arg2:T11

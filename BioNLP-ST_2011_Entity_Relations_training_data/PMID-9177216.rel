@@ -1,0 +1,12 @@
+*	Equiv T5 T6
+T22	Entity 192 238	class II major histocompatibility complex gene
+T23	Entity 401 418	N-terminal region
+T24	Entity 465 478	reporter gene
+T25	Entity 495 513	DNA binding domain
+T26	Entity 591 608	activation domain
+T27	Entity 814 831	activation domain
+T28	Entity 1228 1245	activation domain
+T29	Entity 1335 1360	acidic activation domains
+R1	Protein-Component Arg1:T4 Arg2:T26
+R2	Protein-Component Arg1:T7 Arg2:T27
+R3	Protein-Component Arg1:T15 Arg2:T28

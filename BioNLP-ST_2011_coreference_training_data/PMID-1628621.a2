@@ -1,0 +1,9 @@
+T3	Exp 133 153	21 base pair repeats
+T4	Exp 154 159	which
+T5	Exp 311 323	three motifs	317 323	motifs
+T6	Exp 345 350	which
+T7	Exp 944 969	bacterially produced AP-2	965 969	AP-2
+T8	Exp 1049 1051	it
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T8 Antecedent:T7

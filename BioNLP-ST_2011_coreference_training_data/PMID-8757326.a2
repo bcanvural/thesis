@@ -1,0 +1,6 @@
+T19	Exp 290 311	these anergic T cells	304 311	T cells
+T20	Exp 329 334	their
+T21	Exp 482 492	a sequence
+T22	Exp 493 497	that
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21

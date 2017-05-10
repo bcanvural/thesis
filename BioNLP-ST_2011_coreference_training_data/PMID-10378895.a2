@@ -1,0 +1,3 @@
+T11	Exp 743 757	endogenous WT1	754 757	WT1
+T12	Exp 759 764	which
+R1	Coref Anaphora:T12 Antecedent:T11	[T8]

@@ -1,0 +1,17 @@
+*	Equiv T7 T8
+T16	Entity 34 44	NF-kappa B
+T17	Entity 319 329	NF-kappa B
+T18	Entity 373 387	HIV-1 tat gene
+T19	Entity 476 486	NF-kappa B
+T20	Entity 663 673	NF-kappa B
+T21	Entity 1203 1214	glutathione
+T22	Entity 1253 1264	glutathione
+T23	Entity 1328 1354	HIV-1 long terminal repeat
+T24	Entity 1356 1359	LTR
+T25	Entity 1498 1528	C-terminal region of HIV-1 Tat
+T26	Entity 1498 1515	C-terminal region
+T27	Entity 1641 1652	glutathione
+T28	Entity 1654 1657	GSH
+T29	Entity 1680 1683	GSH
+T30	Entity 1685 1689	GSSG
+R1	Protein-Component Arg1:T14 Arg2:T25

@@ -1,0 +1,9 @@
+T12	Exp 425 440	strong evidence	432 440	evidence
+T13	Exp 441 445	that
+T14	Exp 560 575	the GATA-1 gene	571 575	gene
+T15	Exp 617 620	its
+T16	Exp 1326 1361	GATA-1- mutant embryonic stem cells	1356 1361	cells
+T17	Exp 1399 1404	their
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14	[T5]
+R3	Coref Anaphora:T17 Antecedent:T16	[T10]

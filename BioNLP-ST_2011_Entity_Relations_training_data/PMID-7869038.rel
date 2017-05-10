@@ -1,0 +1,41 @@
+T11	Entity 0 46	Calcium/calmodulin-dependent protein kinase II
+T12	Entity 66 77	calcineurin
+T13	Entity 121 134	cytokine gene
+T14	Entity 206 213	antigen
+T15	Entity 453 496	Ca2+/calmodulin-dependent protein kinase II
+T16	Entity 498 506	CaM-K II
+T17	Entity 520 531	calcineurin
+T18	Entity 595 606	calcineurin
+T19	Entity 655 663	promoter
+T20	Entity 697 705	CaM-K II
+T21	Entity 779 792	gamma B*CaM-K
+T22	Entity 797 809	delta CaM-AI
+T23	Entity 859 872	cytokine gene
+T24	Entity 948 961	gamma B*CaM-K
+T25	Entity 966 978	delta CaM-AI
+T26	Entity 1144 1152	promoter
+T27	Entity 1250 1263	gamma B*CaM-K
+T28	Entity 1278 1286	promoter
+T29	Entity 1433 1441	CaM-K II
+T30	Entity 1450 1458	promoter
+T31	Entity 1510 1514	AP-1
+T32	Entity 1578 1590	delta CaM-AI
+T33	Entity 1609 1617	promoter
+T34	Entity 1705 1718	gamma B*CaM-K
+T35	Entity 1755 1763	promoter
+T36	Entity 1767 1779	delta CaM-AI
+T37	Entity 1848 1856	promoter
+T38	Entity 1872 1885	gamma B*CaM-K
+T39	Entity 1923 1927	AP-1
+T40	Entity 1995 1998	PKC
+T41	Entity 2051 2059	CaM-K II
+T42	Entity 2093 2106	cytokine gene
+T43	Entity 2205 2216	calcineurin
+R1	Protein-Component Arg1:T2 Arg2:T19
+R2	Protein-Component Arg1:T3 Arg2:T19
+R3	Protein-Component Arg1:T4 Arg2:T26
+R4	Protein-Component Arg1:T6 Arg2:T28
+R5	Protein-Component Arg1:T7 Arg2:T30
+R6	Protein-Component Arg1:T8 Arg2:T33
+R7	Protein-Component Arg1:T9 Arg2:T35
+R8	Protein-Component Arg1:T10 Arg2:T37

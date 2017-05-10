@@ -1,0 +1,18 @@
+T19	Entity 399 441	/Vav/phosphatidylinositol-3 kinase complex
+T20	Entity 443 451	tyrosine
+T21	Entity 651 670	activator protein-1
+T22	Entity 672 676	AP-1
+T23	Entity 696 717	nuclear factor-kappaB
+T24	Entity 719 728	NF-kappaB
+T25	Entity 986 994	mu/kappa
+T26	Entity 1266 1270	AP-1
+T27	Entity 1275 1284	NF-kappaB
+T28	Entity 1295 1311	oligonucleotides
+T29	Entity 1341 1345	AP-1
+T30	Entity 1394 1403	NF-kappaB
+T31	Entity 1577 1581	AP-1
+T32	Entity 1690 1699	NF-kappaB
+T33	Entity 1731 1735	AP-1
+T34	Entity 1969 1974	genes
+R1	Protein-Component Arg1:T5 Arg2:T20
+R2	Subunit-Complex Arg1:T4 Arg2:T19

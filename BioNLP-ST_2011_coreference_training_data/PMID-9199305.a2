@@ -1,0 +1,17 @@
+T24	Exp 278 287	IL-2Rbeta
+T25	Exp 332 335	its
+T26	Exp 469 476	factors
+T27	Exp 477 481	that
+T28	Exp 490 582	an enhancer region located between nucleotides -170 and -139 of the human IL-2Rbeta promoter	502 508	region
+T29	Exp 628 639	this region	633 639	region
+T30	Exp 694 697	its
+T31	Exp 1065 1068	PIF
+T32	Exp 1087 1090	its
+T33	Exp 1540 1549	a complex
+T34	Exp 1564 1568	that
+R1	Coref Anaphora:T25 Antecedent:T24	[T7]
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28	[T8]
+R4	Coref Anaphora:T30 Antecedent:T29
+R5	Coref Anaphora:T32 Antecedent:T31
+R6	Coref Anaphora:T34 Antecedent:T33

@@ -1,0 +1,40 @@
+T1	Gene 4 8	gbsA
+T2	Gene 13 17	gbsB
+T3	Transcription 28 39	transcribed
+T4	GeneComplex 133 139	operon
+W1	Word 0 3	The
+W2	Word 4 8	gbsA
+W3	Word 9 12	and
+W4	Word 13 17	gbsB
+W5	Word 18 23	genes
+W6	Word 24 27	are
+W7	Word 28 39	transcribed
+W8	Word 40 42	in
+W9	Word 43 46	the
+W10	Word 47 51	same
+W11	Word 52 61	direction
+W12	Word 63 66	are
+W13	Word 67 76	separated
+W14	Word 77 79	by
+W15	Word 80 81	a
+W16	Word 82 87	short
+W17	Word 88 98	intergenic
+W18	Word 99 105	region
+W19	Word 107 110	and
+W20	Word 111 114	are
+W21	Word 115 121	likely
+W22	Word 122 124	to
+W23	Word 125 129	form
+W24	Word 130 132	an
+W25	Word 133 139	operon
+R1	subj:V_PASS-N W7 W5
+R2	comp:V_PASS-N(by) W13 W18
+R3	mod_att:N-N W5 W4
+R4	comp:V_PASS-N(in) W7 W11
+R5	subj:V_PASS-N W13 W5
+R6	mod_att:N-N W5 W2
+R7	obj:V-N W23 W25
+R8	comp:ADJ-V(to) W21 W23
+R9	mod_pred:N-ADJ W5 W21
+R10	mod_att:N-ADJ W18 W17
+R11	mod_att:N-ADJ W18 W16

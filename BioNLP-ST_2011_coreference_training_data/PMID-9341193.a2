@@ -1,0 +1,6 @@
+T43	Exp 694 751	the primary nuclear transcription factors binding to TRE1	714 735	transcription factors
+T44	Exp 752 757	which
+T45	Exp 828 844	the mechanism(s)
+T46	Exp 845 852	whereby
+R1	Coref Anaphora:T44 Antecedent:T43
+R2	Coref Anaphora:T46 Antecedent:T45

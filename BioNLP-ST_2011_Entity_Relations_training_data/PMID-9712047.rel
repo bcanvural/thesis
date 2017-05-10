@@ -1,0 +1,11 @@
+T6	Entity 52 60	promoter
+T7	Entity 105 111	serine
+T8	Entity 112 121	threonine
+T9	Entity 223 226	TCR
+T10	Entity 325 328	Ser
+T11	Entity 329 332	Thr
+T12	Entity 780 788	promoter
+T13	Entity 910 920	NF-kappa B
+T14	Entity 999 1012	AP-1 proteins
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T5 Arg2:T12

@@ -1,0 +1,53 @@
+T1	Promoter 9 17	promoter
+T2	Gene 22 26	cotB
+T3	Gene 32 36	cotG
+T4	Promoter 37 45	promoter
+T5	Protein 113 148	RNA polymerase sigma factor sigma K
+T6	Protein 177 181	GerE
+W1	Word 0 4	Like
+W2	Word 5 8	the
+W3	Word 9 17	promoter
+W4	Word 18 21	for
+W5	Word 22 26	cotB
+W6	Word 28 31	the
+W7	Word 32 36	cotG
+W8	Word 37 45	promoter
+W9	Word 46 48	is
+W10	Word 49 56	induced
+W11	Word 57 59	at
+W12	Word 60 61	a
+W13	Word 62 66	late
+W14	Word 67 72	stage
+W15	Word 73 75	of
+W16	Word 76 87	sporulation
+W17	Word 88 93	under
+W18	Word 94 97	the
+W19	Word 98 105	control
+W20	Word 106 108	of
+W21	Word 109 112	the
+W22	Word 113 116	RNA
+W23	Word 117 127	polymerase
+W24	Word 128 133	sigma
+W25	Word 134 140	factor
+W26	Word 141 148	sigma K
+W27	Word 149 152	and
+W28	Word 153 156	the
+W29	Word 157 168	DNA-binding
+W30	Word 169 176	protein
+W31	Word 177 181	GerE
+R1	subj:V_PASS-N W10 W8
+R2	comp:N-N(of) W14 W16
+R3	mod_att:N-N W23 W22
+R4	comp:N-N(for) W3 W5
+R5	mod_att:N-N W30 W29
+R6	mod_att:N-ADJ W14 W13
+R7	mod_att:N-N W25 W23
+R8	comp:V_PASS-N(at) W10 W14
+R9	mod_att:N-N W8 W7
+R10	comp:N-N(of) W19 W26
+R11	mod_att:N-N W26 W25
+R12	comp:V_PASS-N(under) W10 W19
+R13	comp:N-N(of) W19 W31
+R14	mod_att:N-N W25 W24
+R15	mod_att:N-N W31 W30
+R16	comp:V_PASS-N(like) W10 W3

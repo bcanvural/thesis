@@ -1,0 +1,9 @@
+T16	Exp 98 122	the homing receptor BLR1
+T17	Exp 143 165	The chemokine receptor	157 165	receptor
+T18	Exp 284 344	three essential elements of the TATA-less blr1 core promoter	300 308	elements
+T19	Exp 345 349	that
+T20	Exp 954 1006	Oct-2, Bob1, and members of the NF-kappaB/Rel family
+T21	Exp 1082 1095	these factors	1088 1095	factors
+R1	Coref Anaphora:T17 Antecedent:T16	[T3]
+R2	Coref Anaphora:T19 Antecedent:T18	[T5]
+R3	Coref Anaphora:T21 Antecedent:T20	[T14, T15]

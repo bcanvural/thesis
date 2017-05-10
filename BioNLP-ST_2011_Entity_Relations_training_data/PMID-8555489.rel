@@ -1,0 +1,46 @@
+*	Equiv T3 T4 T5
+T17	Entity 4 12	promoter
+T18	Entity 17 38	5' flanking sequences
+T19	Entity 200 231	B-cell antigen receptor complex
+T20	Entity 233 236	BCR
+T21	Entity 352 378	human genomic DNA sequence
+T22	Entity 399 414	ATG start codon
+T23	Entity 487 491	TATA
+T24	Entity 497 505	CAAT box
+T25	Entity 540 554	multiple sites
+T26	Entity 560 576	minimal promoter
+T27	Entity 621 634	193-bp region
+T28	Entity 647 667	multiple start sites
+T29	Entity 674 690	minimal promoter
+T30	Entity 770 797	transcription factor motifs
+T31	Entity 919 927	promoter
+T32	Entity 940 962	upstream gene segments
+T33	Entity 989 1005	minimal promoter
+T34	Entity 1056 1074	conserved sequence
+T35	Entity 1076 1079	BCS
+T36	Entity 1126 1135	promoters
+T37	Entity 1212 1215	BCS
+T38	Entity 1260 1268	promoter
+T39	Entity 1277 1298	heterologous promoter
+T40	Entity 1313 1316	BCS
+T41	Entity 1359 1395	5' negative regulatory DNA sequences
+T42	Entity 1431 1447	minimal promoter
+T43	Entity 1577 1596	regulatory elements
+R1	Protein-Component Arg1:T1 Arg2:T17
+R2	Protein-Component Arg1:T6 Arg2:T21
+R3	Protein-Component Arg1:T6 Arg2:T22
+R4	Protein-Component Arg1:T7 Arg2:T25
+R5	Protein-Component Arg1:T7 Arg2:T24
+R6	Protein-Component Arg1:T7 Arg2:T23
+R7	Protein-Component Arg1:T8 Arg2:T28
+R8	Protein-Component Arg1:T8 Arg2:T26
+R9	Protein-Component Arg1:T8 Arg2:T27
+R10	Protein-Component Arg1:T9 Arg2:T31
+R11	Protein-Component Arg1:T10 Arg2:T33
+R12	Protein-Component Arg1:T11 Arg2:T35
+R13	Protein-Component Arg1:T12 Arg2:T35
+R14	Protein-Component Arg1:T11 Arg2:T34
+R15	Protein-Component Arg1:T12 Arg2:T36
+R16	Protein-Component Arg1:T14 Arg2:T38
+R17	Protein-Component Arg1:T15 Arg2:T42
+R18	Protein-Component Arg1:T16 Arg2:T43

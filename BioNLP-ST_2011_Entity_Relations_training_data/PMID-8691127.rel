@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+*	Equiv T6 T7 T8
+T11	Entity 217 231	cytokine genes
+T12	Entity 242 247	genes
+T13	Entity 356 379	transactivation domains
+T14	Entity 465 483	DNA-binding domain
+T15	Entity 603 616	other regions
+T16	Entity 653 688	NH2-terminal transactivation domain
+T17	Entity 717 734	regulatory region
+T18	Entity 757 782	conserved sequence motifs
+T19	Entity 987 1010	transcription complexes
+R1	Protein-Component Arg1:T10 Arg2:T14
+R2	Protein-Component Arg1:T10 Arg2:T13
+R3	Protein-Component Arg1:T10 Arg2:T15

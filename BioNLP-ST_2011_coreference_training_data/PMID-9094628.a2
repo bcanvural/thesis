@@ -1,0 +1,18 @@
+T5	Exp 30 61	Ets and NF-kappaB/NFAT proteins	53 61	proteins
+T6	Exp 88 93	their
+T7	Exp 672 704	inducible T-cell gene expression	694 704	expression
+T8	Exp 705 709	that
+T9	Exp 774 798	the molecular mechanisms	788 798	mechanisms
+T10	Exp 802 807	which
+T11	Exp 1002 1042	multiple Ets and NF-kappaB/NFAT proteins	1034 1042	proteins
+T12	Exp 1254 1288	the Ets-NF-kappaB/NFAT interaction	1277 1288	interaction
+T13	Exp 1336 1349	both proteins	1341 1349	proteins
+T14	Exp 1354 1356	it
+T15	Exp 1556 1599	A dominant-negative mutant of NF-kappaB p50	1576 1582	mutant
+T16	Exp 1600 1604	that
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9
+R4	Coref Anaphora:T13 Antecedent:T11
+R5	Coref Anaphora:T14 Antecedent:T12
+R6	Coref Anaphora:T16 Antecedent:T15	[T1]

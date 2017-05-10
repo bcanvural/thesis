@@ -1,0 +1,3 @@
+T5	Exp 1033 1056	the first demonstration	1043 1056	demonstration
+T6	Exp 1057 1061	that
+R1	Coref Anaphora:T6 Antecedent:T5

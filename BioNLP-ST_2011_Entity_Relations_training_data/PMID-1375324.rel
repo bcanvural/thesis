@@ -1,0 +1,11 @@
+T17	Entity 4 12	promoter
+T18	Entity 569 583	-binding sites
+T19	Entity 677 690	-binding site
+T20	Entity 704 717	TATA sequence
+T21	Entity 736 764	-30 promoter region upstream
+T22	Entity 781 820	heterogeneous transcription start sites
+T23	Entity 941 959	high-affinity site
+T24	Entity 986 995	promoters
+T25	Entity 1208 1211	DNA
+T26	Entity 1285 1293	promoter
+R1	Protein-Component Arg1:T14 Arg2:T26

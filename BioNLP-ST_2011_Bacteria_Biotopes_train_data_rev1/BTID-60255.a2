@@ -1,0 +1,21 @@
+T1	Bacterium 0 24	Geobacillus kaustophilus
+T2	Bacterium 53 65	kaustophilus
+T3	Environment 130 147	deep-sea sediment
+T4	Geographical 155 169	Mariana Trench
+T5	Bacterium 546 570	Geobacillus kaustophilus
+T6	Water 579 599	aquatic environments
+T7	Bacterium 628 639	Geobacillus
+T8	Environment 661 681	petroleum reservoirs
+T9	Soil 686 708	cool soil environments
+T10	Bacterium 4553 4578	Geobacillus sp. strain T1
+T11	Bacterium 4597 4622	Geobacillus sp. Strain T1
+T12	Water 4650 4672	Palm Oil Mill Effluent
+*	Equiv T10 T11
+*	Equiv T1 T2
+*	Equiv T1 T5
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T7 Localization:T8
+E3	Localization Bacterium:T1 Localization:T4
+E4	Localization Bacterium:T7 Localization:T9
+E5	Localization Bacterium:T1 Localization:T6
+E6	Localization Bacterium:T10 Localization:T12

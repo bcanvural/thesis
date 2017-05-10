@@ -1,0 +1,27 @@
+T11	Entity 14 36	nuclear factor-kappa B
+T12	Entity 40 61	beta-amyloid peptides
+T13	Entity 150 180	amyloid-beta (A beta) peptides
+T14	Entity 322 328	A beta
+T15	Entity 379 394	A beta peptides
+T16	Entity 407 434	nuclear factor (NF)-kappa B
+T17	Entity 536 542	A beta
+T18	Entity 613 623	NF-kappa B
+T19	Entity 624 627	DNA
+T20	Entity 809 827	NF-kappa B complex
+T21	Entity 912 922	NF-kappa B
+T22	Entity 1022 1028	A beta
+T23	Entity 1077 1083	A beta
+T24	Entity 1132 1142	NF-kappa B
+T25	Entity 1339 1349	NF-kappa B
+T26	Entity 1414 1424	NF-kappa B
+T27	Entity 1425 1428	DNA
+T28	Entity 1480 1488	RelA/p50
+T29	Entity 1645 1655	NF-kappa B
+T30	Entity 1745 1768	kappa B-dependent genes
+T31	Entity 1796 1811	A beta peptides
+R1	Subunit-Complex Arg1:T3 Arg2:T20
+R2	Subunit-Complex Arg1:T4 Arg2:T20
+R3	Subunit-Complex Arg1:T9 Arg2:T26
+R4	Subunit-Complex Arg1:T8 Arg2:T26
+R5	Subunit-Complex Arg1:T8 Arg2:T28
+R6	Subunit-Complex Arg1:T9 Arg2:T28

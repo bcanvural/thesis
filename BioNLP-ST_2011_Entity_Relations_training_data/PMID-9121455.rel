@@ -1,0 +1,30 @@
+T9	Entity 45 84	calcineurin-regulated inhibitory domain
+T10	Entity 45 56	calcineurin
+T11	Entity 67 84	inhibitory domain
+T12	Entity 144 157	cytokine gene
+T13	Entity 188 207	cis-acting elements
+T14	Entity 223 232	promoters
+T15	Entity 244 258	cytokine genes
+T16	Entity 530 533	DNA
+T17	Entity 572 589	AP-1 polypeptides
+T18	Entity 612 641	central Rel similarity region
+T19	Entity 717 734	N-terminal domain
+T20	Entity 742 759	C-terminal domain
+T21	Entity 788 831	intrinsic transcriptional activation motifs
+T22	Entity 877 896	inhibitory sequence
+T23	Entity 908 925	N-terminal domain
+T24	Entity 1008 1019	calcineurin
+T25	Entity 1083 1094	calcineurin
+T26	Entity 1115 1132	N-terminal domain
+T27	Entity 1146 1168	multiple docking sites
+T28	Entity 1297 1308	60 residues
+T29	Entity 1431 1442	60 residues
+T30	Entity 1561 1578	N-terminal domain
+T31	Entity 1706 1720	protein module
+T32	Entity 1742 1753	calcineurin
+R1	Protein-Component Arg1:T4 Arg2:T20
+R2	Protein-Component Arg1:T4 Arg2:T21
+R3	Protein-Component Arg1:T4 Arg2:T19
+R4	Protein-Component Arg1:T4 Arg2:T18
+R5	Protein-Component Arg1:T5 Arg2:T26
+R6	Protein-Component Arg1:T7 Arg2:T29

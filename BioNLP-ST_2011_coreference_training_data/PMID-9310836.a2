@@ -1,0 +1,6 @@
+T6	Exp 479 500	these P-like elements	492 500	elements
+T7	Exp 505 510	their
+T8	Exp 1400 1418	Six tandem repeats	1411 1418	repeats
+T9	Exp 1516 1520	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

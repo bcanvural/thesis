@@ -1,0 +1,8 @@
+T6	Exp 283 296	the molecules
+T7	Exp 297 301	that
+T8	Exp 345 359	the mechanisms
+T9	Exp 363 368	which
+T10	Exp 369 373	they
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T10 Antecedent:T6

@@ -1,0 +1,8 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+*	Equiv T11 T12
+T21	Entity 891 899	promoter
+T22	Entity 904 919	enhancer region
+T23	Entity 974 987	reporter gene
+T24	Entity 1307 1311	AP-1
+R1	Protein-Component Arg1:T10 Arg2:T21

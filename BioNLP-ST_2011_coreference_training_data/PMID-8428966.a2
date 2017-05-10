@@ -1,0 +1,11 @@
+T6	Exp 62 135	the lymphoid-specific nuclear factor of activated T cells (NF-AT) complex	128 135	complex
+T7	Exp 138 181	The lymphoid-specific transcription complex	174 181	complex
+T8	Exp 494 518	the murine NF-AT complex	511 518	complex
+T9	Exp 1499 1503	JunB
+T10	Exp 1523 1525	it
+T11	Exp 1612 1646	the cytoplasmic component of NF-AT	1628 1637	component
+T12	Exp 1738 1740	it
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9	[T5]
+R4	Coref Anaphora:T12 Antecedent:T11

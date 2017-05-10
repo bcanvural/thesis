@@ -1,0 +1,39 @@
+T13	Entity 43 62	core-binding factor
+T14	Entity 145 167	nuclear factor-kappa B
+T15	Entity 169 173	AP-1
+T16	Entity 232 240	promoter
+T17	Entity 245 253	enhancer
+T18	Entity 287 306	core-binding factor
+T19	Entity 308 311	CBF
+T20	Entity 333 342	CBF sites
+T21	Entity 333 336	CBF
+T22	Entity 389 411	essential core regions
+T23	Entity 540 568	closely linked binding sites
+T24	Entity 573 576	CBF
+T25	Entity 578 582	AP-1
+T26	Entity 599 623	GM-CSF promoter CBF site
+T27	Entity 615 618	CBF
+T28	Entity 624 632	TGTGGTCA
+T29	Entity 644 658	51 bp upstream
+T30	Entity 666 690	transcription start site
+T31	Entity 716 728	binding site
+T32	Entity 732 745	2-bp mutation
+T33	Entity 757 765	CBF site
+T34	Entity 757 760	CBF
+T35	Entity 931 948	proximal promoter
+T36	Entity 972 980	CBF site
+T37	Entity 972 975	CBF
+T38	Entity 999 1003	site
+T39	Entity 1113 1116	CBF
+T40	Entity 1212 1227	proto-oncogenes
+T41	Entity 1345 1348	CBF
+T42	Entity 1444 1449	locus
+R1	Protein-Component Arg1:T4 Arg2:T16
+R2	Protein-Component Arg1:T4 Arg2:T17
+R3	Protein-Component Arg1:T6 Arg2:T28
+R4	Protein-Component Arg1:T6 Arg2:T31
+R5	Protein-Component Arg1:T6 Arg2:T30
+R6	Protein-Component Arg1:T6 Arg2:T29
+R7	Protein-Component Arg1:T6 Arg2:T26
+R8	Subunit-Complex Arg1:T10 Arg2:T39
+R9	Subunit-Complex Arg1:T9 Arg2:T39

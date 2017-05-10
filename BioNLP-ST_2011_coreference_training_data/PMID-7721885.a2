@@ -1,0 +1,6 @@
+T27	Exp 1078 1146	tosylphenylalanyl chloromethyl ketone and pyrrolidinedithiocarbamate
+T28	Exp 1147 1151	that
+T29	Exp 1458 1474	another cytokine
+T30	Exp 1475 1479	that
+R1	Coref Anaphora:T28 Antecedent:T27
+R2	Coref Anaphora:T30 Antecedent:T29

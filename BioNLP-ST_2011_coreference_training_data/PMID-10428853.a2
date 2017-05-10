@@ -1,0 +1,8 @@
+T18	Exp 332 351	a CAT reporter gene	347 351	gene
+T19	Exp 352 356	that
+T20	Exp 1451 1521	a tissue-specific regulatory region 5' of the ecto-5'-NT core promoter	1480 1486	region
+T21	Exp 1522 1526	that
+T22	Exp 1604 1607	its
+R1	Coref Anaphora:T19 Antecedent:T18	[T4]
+R2	Coref Anaphora:T21 Antecedent:T20	[T17]
+R3	Coref Anaphora:T22 Antecedent:T20	[T17]

@@ -1,0 +1,6 @@
+T17	Exp 193 236	I kappa B alpha and I kappa B beta proteins
+T18	Exp 309 314	their
+T19	Exp 1122 1146	the signal-induced event	1141 1146	event
+T20	Exp 1147 1152	which
+R1	Coref Anaphora:T18 Antecedent:T17	[T2, T3]
+R2	Coref Anaphora:T20 Antecedent:T19

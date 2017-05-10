@@ -1,0 +1,39 @@
+T1	Gene 4 9	genes
+T2	Gene 26 30	tap1
+T3	Gene 32 36	flgD
+T4	Gene 38 42	flgE
+T5	Gene 44 48	orf4
+T6	Gene 50 54	motA
+T7	Gene 56 60	motB
+T8	Gene 62 66	fliL
+T9	Gene 68 72	fliM
+T10	Gene 74 78	fliY
+T11	Gene 80 85	orf10
+T12	Gene 90 94	fliP
+W1	Word 0 3	The
+W2	Word 4 9	genes
+W3	Word 10 14	were
+W4	Word 15 25	designated
+W5	Word 26 30	tap1
+W6	Word 32 36	flgD
+W7	Word 38 42	flgE
+W8	Word 44 48	orf4
+W9	Word 50 54	motA
+W10	Word 56 60	motB
+W11	Word 62 66	fliL
+W12	Word 68 72	fliM
+W13	Word 74 78	fliY
+W14	Word 80 85	orf10
+W15	Word 86 89	and
+W16	Word 90 94	fliP
+R1	mod_pred:N-N W2 W5
+R2	mod_pred:N-N W2 W8
+R3	mod_pred:N-N W2 W9
+R4	mod_pred:N-N W2 W12
+R5	mod_pred:N-N W2 W11
+R6	mod_pred:N-N W2 W13
+R7	mod_pred:N-N W2 W16
+R8	mod_pred:N-N W2 W14
+R9	mod_pred:N-N W2 W10
+R10	mod_pred:N-N W2 W6
+R11	mod_pred:N-N W2 W7

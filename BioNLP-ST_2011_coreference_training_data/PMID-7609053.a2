@@ -1,0 +1,6 @@
+T1	Exp 443 471	the enhancer/promoter region	465 471	region
+T2	Exp 514 518	that
+T3	Exp 1337 1362	an HIV-2 enhancer element	1355 1362	element
+T4	Exp 1363 1368	which
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

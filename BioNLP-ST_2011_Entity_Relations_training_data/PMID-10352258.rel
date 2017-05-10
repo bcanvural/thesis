@@ -1,0 +1,6 @@
+T10	Entity 22 32	NF-kappa B
+T11	Entity 254 264	NF-kappa B
+T12	Entity 371 380	complexes
+T13	Entity 1114 1124	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T12
+R2	Subunit-Complex Arg1:T2 Arg2:T12

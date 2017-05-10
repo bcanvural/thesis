@@ -1,0 +1,6 @@
+T14	Exp 866 892	Ii kappa B-1 in cell lines
+T15	Exp 896 901	which
+T16	Exp 1130 1151	DNA-binding complexes
+T17	Exp 1152 1156	that
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16

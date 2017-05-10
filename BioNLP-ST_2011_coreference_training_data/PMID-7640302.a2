@@ -1,0 +1,6 @@
+T8	Exp 201 219	an antitumor agent	214 219	agent
+T9	Exp 220 225	which
+T10	Exp 304 306	HU
+T11	Exp 406 409	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

@@ -1,0 +1,39 @@
+T1	Action 0 10	Production
+T2	Protein 14 20	sigmaK
+T3	Protein 63 68	Spo0A
+T4	Action 81 95	phosphorylated
+T5	Gene 115 119	sigE
+T6	Transcription 120 133	transcription
+W1	Word 0 10	Production
+W2	Word 11 13	of
+W3	Word 14 20	sigmaK
+W4	Word 21 26	about
+W5	Word 27 28	1
+W6	Word 29 30	h
+W7	Word 31 38	earlier
+W8	Word 39 43	than
+W9	Word 44 50	normal
+W10	Word 51 55	does
+W11	Word 56 62	affect
+W12	Word 63 68	Spo0A
+W13	Word 70 75	which
+W14	Word 76 80	when
+W15	Word 81 95	phosphorylated
+W16	Word 96 98	is
+W17	Word 99 101	an
+W18	Word 102 111	activator
+W19	Word 112 114	of
+W20	Word 115 119	sigE
+W21	Word 120 133	transcription
+R1	mod:ADJ-N W7 W6
+R2	comp:N-N(of) W18 W21
+R3	mod_att:N-N W21 W20
+R4	mod_att:N-ADJ W6 W5
+R5	comp:N-N(of) W1 W3
+R6	mod_pred:N-N W12 W18
+R7	comp:ADJ-N(than) W7 W9
+R8	obj:V-N W11 W12
+R9	subj:V-N W11 W1
+R10	mod_post:N-ADJ W1 W7
+R11	mod:ADJ-ADV W5 W4
+R12	subj:V_PASS-N W15 W12

@@ -1,0 +1,3 @@
+T13	Exp 957 1003	nuclear factor-kappa B (NF-kappa B) activation	993 1003	activation
+T14	Exp 1012 1014	it
+R1	Coref Anaphora:T14 Antecedent:T13

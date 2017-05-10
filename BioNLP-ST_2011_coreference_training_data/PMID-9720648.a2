@@ -1,0 +1,6 @@
+T10	Exp 424 438	memory T cells	433 438	cells
+T11	Exp 472 477	their
+T12	Exp 692 722	the levels of induced NFkappaB	696 702	levels
+T13	Exp 819 824	those
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12

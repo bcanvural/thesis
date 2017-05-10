@@ -1,0 +1,6 @@
+T38	Exp 971 979	evidence
+T39	Exp 980 984	that
+T40	Exp 1066 1081	the observation
+T41	Exp 1082 1086	that
+R1	Coref Anaphora:T39 Antecedent:T38
+R2	Coref Anaphora:T41 Antecedent:T40

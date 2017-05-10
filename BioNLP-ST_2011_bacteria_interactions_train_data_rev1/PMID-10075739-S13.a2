@@ -1,0 +1,7 @@
+E1	Interaction Agent:T2 Target:T3
+E2	ActionTarget Action:T6 Target:T3
+E3	SiteOf Target:T7 Site:T3
+E4	TranscriptionFrom Process:T4 Promoter:T5
+E5	ActionTarget Action:T1 Target:T2
+E6	ActionTarget Action:T4 Target:T3
+E7	SiteOf Target:T5 Site:T3

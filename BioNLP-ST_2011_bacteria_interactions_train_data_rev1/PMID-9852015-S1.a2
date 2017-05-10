@@ -1,0 +1,4 @@
+E1	PromoterDependence Agent:T4 Target:T3
+E2	PromoterOf Agent:T4 Target:T1
+E3	Interaction Agent:T3 Target:T1
+E4	Interaction Agent:T2 Target:T1

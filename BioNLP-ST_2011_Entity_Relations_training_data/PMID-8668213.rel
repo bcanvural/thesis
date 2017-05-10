@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+T16	Entity 42 53	calcineurin
+T17	Entity 103 117	cytokine genes
+T18	Entity 201 215	cytokine genes
+T19	Entity 226 231	genes
+T20	Entity 548 559	calcineurin
+T21	Entity 846 857	calcineurin
+T22	Entity 1531 1540	promoters
+T23	Entity 1631 1636	genes
+R1	Protein-Component Arg1:T11 Arg2:T22
+R2	Protein-Component Arg1:T12 Arg2:T22
+R3	Protein-Component Arg1:T13 Arg2:T22
+R4	Protein-Component Arg1:T14 Arg2:T22

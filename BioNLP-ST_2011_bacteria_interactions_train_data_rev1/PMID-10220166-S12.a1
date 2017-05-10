@@ -1,0 +1,38 @@
+T1	Protein 10 16	sigmaB
+T2	GeneFamily 27 32	genes
+T3	Gene 34 38	ydaE
+T4	Gene 40 44	ydaG
+T5	Gene 49 53	yfkM
+T6	ProteinFamily 64 72	proteins
+W1	Word 0 5	Three
+W2	Word 6 9	new
+W3	Word 10 16	sigmaB
+W4	Word 17 26	dependent
+W5	Word 27 32	genes
+W6	Word 34 38	ydaE
+W7	Word 40 44	ydaG
+W8	Word 45 48	and
+W9	Word 49 53	yfkM
+W10	Word 55 63	encoding
+W11	Word 64 72	proteins
+W12	Word 73 77	with
+W13	Word 78 83	still
+W14	Word 84 91	unknown
+W15	Word 92 101	functions
+W16	Word 102 106	were
+W17	Word 107 111	also
+W18	Word 112 121	described
+R1	subj:V-N W10 W5
+R2	comp:N-N(with) W11 W15
+R3	mod:V_PASS-ADV W18 W17
+R4	obj:V-N W10 W11
+R5	mod_att:N-ADJ W5 W1
+R6	mod_att:N-ADJ W15 W14
+R7	appos W5 W6
+R8	mod:ADJ-ADV W14 W13
+R9	subj:V_PASS-N W18 W5
+R10	appos W5 W7
+R11	mod:ADJ-N W4 W3
+R12	mod_att:N-ADJ W5 W4
+R13	mod_att:N-ADJ W5 W2
+R14	appos W5 W9

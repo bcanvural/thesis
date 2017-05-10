@@ -1,0 +1,9 @@
+T18	Exp 1037 1041	p105
+T19	Exp 1050 1053	its
+T20	Exp 1591 1668	the induction by hydrogen peroxide of NF-kappa B translocation to the nucleus
+T21	Exp 1670 1675	which
+T22	Exp 1789 1806	the same subunits
+T23	Exp 1807 1811	that
+R1	Coref Anaphora:T19 Antecedent:T18	[T11]
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22

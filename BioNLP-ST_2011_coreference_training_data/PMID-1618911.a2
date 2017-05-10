@@ -1,0 +1,12 @@
+T3	Exp 143 189	multiple DNA binding, rel related polypeptides	177 189	polypeptides
+T4	Exp 190 194	that
+T5	Exp 350 416	multiple NF-kappa B related polypeptides ranging from 85 to 45 kDa	378 390	polypeptides
+T6	Exp 435 440	their
+T7	Exp 816 841	the purified polypeptides	829 841	polypeptides
+T8	Exp 1047 1090	a distinct level of transcriptional control	1058 1063	level
+T9	Exp 1091 1095	that
+R1	Coref Anaphora:T4 Antecedent:T3	[T1]
+R2	Coref Anaphora:T5 Antecedent:T3	[T1]
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T7 Antecedent:T5
+R5	Coref Anaphora:T9 Antecedent:T8

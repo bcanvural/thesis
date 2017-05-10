@@ -1,0 +1,7 @@
+*	Equiv T3 T4
+*	Equiv T10 T11
+T13	Entity 729 758	N omega-monomethyl-L-arginine
+T14	Entity 1231 1258	kappa B cis-acting elements
+T15	Entity 1328 1350	nuclear factor-kappa B
+T16	Entity 1397 1419	nuclear factor-kappa B
+R1	Subunit-Complex Arg1:T10 Arg2:T15

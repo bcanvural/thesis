@@ -1,0 +1,13 @@
+T24	Entity 267 300	transcriptional factor NF-kappa B
+T25	Entity 306 317	heterodimer
+T26	Entity 406 416	Rel family
+T27	Entity 467 484	C-terminal domain
+T28	Entity 571 588	N-terminal region
+T29	Entity 696 706	proteasome
+T30	Entity 1163 1173	proteasome
+T31	Entity 1359 1370	-proteasome
+R1	Subunit-Complex Arg1:T7 Arg2:T25
+R2	Subunit-Complex Arg1:T8 Arg2:T25
+R3	Subunit-Complex Arg1:T8 Arg2:T24
+R4	Subunit-Complex Arg1:T7 Arg2:T24
+R5	Protein-Component Arg1:T10 Arg2:T28

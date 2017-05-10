@@ -1,0 +1,23 @@
+T2	Entity 15 40	transcriptional enhancers
+T3	Entity 275 284	sequences
+T4	Entity 341 361	long terminal repeat
+T5	Entity 363 366	LTR
+T6	Entity 385 409	transcriptional enhancer
+T7	Entity 430 453	conserved binding sites
+T8	Entity 462 484	nuclear factor kappa B
+T9	Entity 486 496	NF kappa B
+T10	Entity 599 622	NF kappa B binding site
+T11	Entity 599 609	NF kappa B
+T12	Entity 648 657	HIV-1 LTR
+T13	Entity 683 692	HIV-2 LTR
+T14	Entity 834 843	enhancers
+T15	Entity 869 890	heterologous promoter
+T16	Entity 911 920	enhancers
+T17	Entity 959 962	LTR
+T18	Entity 1006 1016	NF kappa B
+T19	Entity 1031 1046	conserved sites
+T20	Entity 1054 1084	HIV-1 transcriptional enhancer
+T21	Entity 1108 1122	conserved site
+T22	Entity 1130 1160	HIV-2 transcriptional enhancer
+T23	Entity 1173 1183	NF kappa B
+T24	Entity 1222 1236	divergent site

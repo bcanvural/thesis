@@ -1,0 +1,6 @@
+*	Equiv T1 T2
+*	Equiv T8 T9
+T21	Entity 310 314	NFeB
+T22	Entity 356 359	CD3
+T23	Entity 1447 1451	NFKB
+R1	Subunit-Complex Arg1:T1 Arg2:T21

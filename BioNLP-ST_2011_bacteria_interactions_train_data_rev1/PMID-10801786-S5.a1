@@ -1,0 +1,38 @@
+T1	Transcription 44 57	transcription
+T2	PolymeraseComplex 67 90	sigma(A)-RNA polymerase
+T3	Protein 100 105	Spo0A
+T4	GeneComplex 116 122	spoIIG
+T5	Promoter 130 138	promoter
+W1	Word 0 7	However
+W2	Word 9 12	the
+W3	Word 13 19	mutant
+W4	Word 20 23	was
+W5	Word 24 30	unable
+W6	Word 31 33	to
+W7	Word 34 43	stimulate
+W8	Word 44 57	transcription
+W9	Word 58 60	by
+W10	Word 61 66	final
+W11	Word 67 75	sigma(A)
+W12	Word 76 79	RNA
+W13	Word 80 90	polymerase
+W14	Word 91 95	from
+W15	Word 96 99	the
+W16	Word 100 105	Spo0A
+W17	Word 106 115	dependent
+W18	Word 116 122	spoIIG
+W19	Word 123 129	operon
+W20	Word 130 138	promoter
+R1	comp:N-N(from) W8 W20
+R2	comp:N-N(by) W8 W13
+R3	mod:ADJ-N W17 W16
+R4	mod_att:N-ADJ W20 W17
+R5	mod_att:N-N W20 W19
+R6	mod_pred:N-ADJ W3 W5
+R7	obj:V-N W7 W8
+R8	comp:ADJ-V(to) W5 W7
+R9	mod_att:N-ADJ W13 W12
+R10	mod:V-ADV W4 W1
+R11	mod_att:N-ADJ W13 W10
+R12	mod_att:N-ADJ W13 W11
+R13	mod_att:N-N W19 W18

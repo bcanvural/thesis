@@ -1,0 +1,9 @@
+T12	Entity 139 142	CD3
+T13	Entity 807 817	NF kappa B
+T14	Entity 1056 1059	CD3
+T15	Entity 1203 1206	CD3
+T16	Entity 1384 1389	genes
+T17	Entity 1517 1520	CD3
+T18	Entity 1733 1741	promoter
+R1	Subunit-Complex Arg1:T7 Arg2:T13
+R2	Protein-Component Arg1:T11 Arg2:T18

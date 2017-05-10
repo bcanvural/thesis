@@ -1,0 +1,15 @@
+T12	Exp 18 26	a region	20 26	region
+T13	Exp 27 32	which
+T14	Exp 496 522	a tissue-specific promoter	514 522	promoter
+T15	Exp 523 528	whose
+T16	Exp 794 822	a region II (bp -88 to - 59)
+T17	Exp 824 829	which
+T18	Exp 1165 1210	separate sequence elements within this region
+T19	Exp 1293 1375	the polyomavirus enhancer-binding protein 2/core-binding factor (PEBP2/CBF) family
+T20	Exp 1377 1382	which
+T21	Exp 1533 1556	these sequence elements	1548 1556	elements
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T20 Antecedent:T19
+R5	Coref Anaphora:T21 Antecedent:T18

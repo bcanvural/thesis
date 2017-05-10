@@ -1,0 +1,7 @@
+T7	Exp 320 341	the factor NF-kappa B	324 330	factor
+T8	Exp 342 347	which
+T9	Exp 411 422	This factor
+T10	Exp 534 536	It
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T9 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9

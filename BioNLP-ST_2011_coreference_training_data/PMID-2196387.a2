@@ -1,0 +1,11 @@
+T4	Exp 176 195	Cyclosporin A (CsA)
+T5	Exp 216 219	its
+T6	Exp 296 312	lymphokine genes
+T7	Exp 313 318	which
+T8	Exp 361 365	them
+T9	Exp 920 936	the HIV enhancer	928 936	enhancer
+T10	Exp 958 960	it
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T8 Antecedent:T6
+R4	Coref Anaphora:T10 Antecedent:T9

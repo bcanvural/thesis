@@ -1,0 +1,9 @@
+T33	Exp 477 521	a nuclear complex from human monocytic cells	487 494	complex
+T34	Exp 500 521	human monocytic cells	516 521	cells
+T35	Exp 522 526	that
+T36	Exp 623 643	This nuclear complex	636 643	complex
+T37	Exp 661 678	LPS with kinetics
+T38	Exp 679 683	that
+R1	Coref Anaphora:T35 Antecedent:T34
+R2	Coref Anaphora:T36 Antecedent:T33
+R3	Coref Anaphora:T38 Antecedent:T37

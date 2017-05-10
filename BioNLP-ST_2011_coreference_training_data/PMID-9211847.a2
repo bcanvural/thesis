@@ -1,0 +1,12 @@
+T13	Exp 95 106	BOB.1/OBF.1
+T14	Exp 110 139	a transcriptional coactivator	128 139	coactivator
+T15	Exp 140 144	that
+T16	Exp 626 656	the activating phosphorylation	641 656	phosphorylation
+T17	Exp 657 661	that
+T18	Exp 745 774	a transcriptional coactivator	763 774	coactivator
+T19	Exp 775 779	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T3, T4]
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T18 Antecedent:T14
+R5	Coref Anaphora:T19 Antecedent:T18

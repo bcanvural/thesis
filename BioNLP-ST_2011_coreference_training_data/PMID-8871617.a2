@@ -1,0 +1,3 @@
+T19	Exp 514 544	the transcription factor egr-1
+T20	Exp 546 551	which
+R1	Coref Anaphora:T20 Antecedent:T19	[T2]

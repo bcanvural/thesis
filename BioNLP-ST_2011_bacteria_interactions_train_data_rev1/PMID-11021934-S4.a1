@@ -1,0 +1,46 @@
+T1	Gene 11 15	ftsY
+T2	Expression 26 35	expressed
+T3	Protein 62 70	sigma(K)
+T4	Protein 76 80	GerE
+T5	Promoter 92 100	promoter
+T6	Gene 141 145	ftsY
+T7	Gene 157 160	smc
+W1	Word 0 9	Therefore
+W2	Word 11 15	ftsY
+W3	Word 16 18	is
+W4	Word 19 25	solely
+W5	Word 26 35	expressed
+W6	Word 36 42	during
+W7	Word 43 54	sporulation
+W8	Word 55 59	from
+W9	Word 60 61	a
+W10	Word 62 70	sigma(K)
+W11	Word 72 75	and
+W12	Word 76 80	GerE
+W13	Word 81 91	controlled
+W14	Word 92 100	promoter
+W15	Word 101 105	that
+W16	Word 106 108	is
+W17	Word 109 116	located
+W18	Word 117 128	immediately
+W19	Word 129 137	upstream
+W20	Word 138 140	of
+W21	Word 141 145	ftsY
+W22	Word 146 152	inside
+W23	Word 153 156	the
+W24	Word 157 160	smc
+W25	Word 161 165	gene
+R1	mod_att:N-N W25 W24
+R2	mod:V_PASS-ADV W17 W19
+R3	mod:ADJ-N W13 W12
+R4	comp:ADV-N(of) W19 W21
+R5	mod:ADV-ADV W19 W18
+R6	mod:ADJ-N W13 W10
+R7	subj:V_PASS-N W5 W2
+R8	mod:V_PASS-ADV W5 W4
+R9	comp:V_PASS-N(during) W5 W7
+R10	mod_att:N-ADJ W14 W13
+R11	comp:V_PASS-N(inside) W17 W25
+R12	comp:V_PASS-N(from) W5 W14
+R13	mod:V_PASS-ADV W5 W1
+R14	subj:V_PASS-N W17 W14

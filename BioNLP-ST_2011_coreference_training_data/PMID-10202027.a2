@@ -1,0 +1,9 @@
+T4	Exp 108 128	Chlamydia pneumoniae	118 128	pneumoniae
+T5	Exp 177 180	its
+T6	Exp 1058 1064	events
+T7	Exp 1065 1069	that
+T8	Exp 1084 1136	endothelial activation, inflammation, and thrombosis
+T9	Exp 1138 1143	which
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8

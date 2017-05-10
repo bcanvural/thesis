@@ -1,0 +1,9 @@
+T14	Exp 664 688	an RA-resistant subclone	680 688	subclone
+T15	Exp 697 701	that
+T16	Exp 1185 1234	a single bipartite retinoic acid response element	1227 1234	element
+T17	Exp 1235 1240	which
+T18	Exp 1334 1363	a hematopoietic-specific gene	1359 1363	gene
+T19	Exp 1364 1368	that
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18

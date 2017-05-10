@@ -1,0 +1,6 @@
+T6	Exp 179 200	inflammatory diseases	192 200	diseases
+T7	Exp 201 205	that
+T8	Exp 928 937	cytokines
+T9	Exp 938 942	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

@@ -1,0 +1,14 @@
+T11	Entity 244 266	heterologous promoters
+T12	Entity 280 293	coding domain
+T13	Entity 349 378	C-terminal zinc-finger motifs
+T14	Entity 386 407	N-terminal POZ domain
+T15	Entity 479 491	DNA sequence
+T16	Entity 591 612	DNA-binding complexes
+T17	Entity 734 743	promoters
+T18	Entity 758 777	DNA target sequence
+T19	Entity 865 880	N-terminal half
+T20	Entity 960 992	autonomous transrepressor domain
+T21	Entity 1006 1027	noncontiguous regions
+T22	Entity 1043 1052	POZ motif
+R1	Protein-Component Arg1:T3 Arg2:T12
+R2	Subunit-Complex Arg1:T6 Arg2:T16

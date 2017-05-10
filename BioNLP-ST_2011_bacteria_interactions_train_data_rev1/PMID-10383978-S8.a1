@@ -1,0 +1,46 @@
+T1	Gene 4 7	ald
+T2	Promoter 8 16	promoter
+T3	Gene 27 31	sigE
+T4	Promoter 32 40	promoter
+T5	PolymeraseComplex 74 95	sigmaA RNA polymerase
+T6	Protein 113 119	sigmaK
+T7	Protein 132 138	sigmaA
+T8	Action 139 147	activity
+W1	Word 0 3	The
+W2	Word 4 7	ald
+W3	Word 8 16	promoter
+W4	Word 18 22	like
+W5	Word 23 26	the
+W6	Word 27 31	sigE
+W7	Word 32 40	promoter
+W8	Word 42 44	is
+W9	Word 45 53	believed
+W10	Word 54 56	to
+W11	Word 57 59	be
+W12	Word 60 70	recognized
+W13	Word 71 73	by
+W14	Word 74 80	sigmaA
+W15	Word 81 84	RNA
+W16	Word 85 95	polymerase
+W17	Word 97 107	suggesting
+W18	Word 108 112	that
+W19	Word 113 119	sigmaK
+W20	Word 120 123	may
+W21	Word 124 131	inhibit
+W22	Word 132 138	sigmaA
+W23	Word 139 147	activity
+W24	Word 148 152	late
+W25	Word 153 155	in
+W26	Word 156 167	sporulation
+R1	mod_att:N-N W23 W22
+R2	subj:V_PASS-N W12 W3
+R3	comp:V_PASS-N(like) W12 W7
+R4	mod:V-ADV W21 W24
+R5	comp:V_PASS-N(by) W12 W16
+R6	comp:ADV-N(in) W24 W26
+R7	obj:V-N W21 W23
+R8	subj:V-N W21 W19
+R9	mod_att:N-N W16 W15
+R10	mod_att:N-N W16 W14
+R11	mod_att:N-N W3 W2
+R12	mod_att:N-N W7 W6

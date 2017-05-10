@@ -1,0 +1,6 @@
+*	Equiv T2 T3
+T18	Entity 104 110	Fibrin
+T19	Entity 1531 1561	NF-kappaB transcription factor
+T20	Entity 1619 1627	promotor
+T21	Entity 2028 2037	NF-kappaB
+R1	Protein-Component Arg1:T14 Arg2:T20

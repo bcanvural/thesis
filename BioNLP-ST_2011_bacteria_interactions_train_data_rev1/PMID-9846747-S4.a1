@@ -1,0 +1,51 @@
+T1	Protein 76 82	sigmaA
+T2	Promoter 93 101	promoter
+T3	Gene 111 115	kdgR
+T4	Transcription 120 133	transcription
+T5	Site 164 188	p-independent terminator
+T6	Gene 203 207	kdgT
+W1	Word 0 6	Primer
+W2	Word 7 16	extension
+W3	Word 17 28	experiments
+W4	Word 29 32	and
+W5	Word 33 41	Northern
+W6	Word 42 46	blot
+W7	Word 47 55	analysis
+W8	Word 56 60	show
+W9	Word 61 65	that
+W10	Word 66 68	an
+W11	Word 69 75	active
+W12	Word 76 82	sigmaA
+W13	Word 83 92	dependent
+W14	Word 93 101	promoter
+W15	Word 102 110	precedes
+W16	Word 111 115	kdgR
+W17	Word 116 119	and
+W18	Word 120 133	transcription
+W19	Word 134 136	is
+W20	Word 137 147	terminated
+W21	Word 148 150	at
+W22	Word 151 154	the
+W23	Word 155 163	putative
+W24	Word 164 177	p-independent
+W25	Word 178 188	terminator
+W26	Word 189 199	downstream
+W27	Word 200 202	of
+W28	Word 203 207	kdgT
+R1	mod_att:N-ADJ W25 W24
+R2	mod_post:N-ADJ W25 W26
+R3	comp:V_PASS-N(at) W20 W25
+R4	comp:ADJ-N(of) W26 W28
+R5	mod_att:N-N W6 W5
+R6	mod_att:N-ADJ W14 W13
+R7	subj:V-N W8 W3
+R8	mod_att:N-ADJ W14 W11
+R9	subj:V_PASS-N W20 W18
+R10	mod_att:N-N W3 W2
+R11	subj:V-N W8 W7
+R12	subj:V-N W15 W14
+R13	mod_att:N-ADJ W25 W23
+R14	mod_att:N-N W7 W6
+R15	mod:ADJ-N W13 W12
+R16	obj:V-N W15 W16
+R17	mod_att:N-N W2 W1

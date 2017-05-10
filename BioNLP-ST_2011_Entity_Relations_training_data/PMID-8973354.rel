@@ -1,0 +1,31 @@
+T10	Entity 24 69	murine cyclin-dependent kinase inhibitor gene
+T11	Entity 84 117	cyclin-dependent kinase inhibitor
+T12	Entity 240 287	cyclin/cdks (cyclin-dependent kinase) complexes
+T13	Entity 322 333	cyclin/cdks
+T14	Entity 539 557	murine genomic DNA
+T15	Entity 685 698	5.6 kb of DNA
+T16	Entity 772 802	transcription initiation sites
+T17	Entity 808 823	promoter region
+T18	Entity 833 841	TATA box
+T19	Entity 944 948	NFkB
+T20	Entity 960 974	positions -153
+T21	Entity 976 980	-178
+T22	Entity 982 986	-286
+T23	Entity 988 992	-875
+T24	Entity 998 1003	-1011
+T25	Entity 1114 1132	5'-flanking region
+T26	Entity 1138 1154	nt -1609 to +178
+T27	Entity 1160 1179	-326 to -615 region
+T28	Entity 1190 1218	positive regulatory elements
+R1	Protein-Component Arg1:T7 Arg2:T21
+R2	Protein-Component Arg1:T7 Arg2:T22
+R3	Protein-Component Arg1:T7 Arg2:T23
+R4	Protein-Component Arg1:T7 Arg2:T24
+R5	Protein-Component Arg1:T7 Arg2:T20
+R6	Protein-Component Arg1:T8 Arg2:T21
+R7	Protein-Component Arg1:T8 Arg2:T22
+R8	Protein-Component Arg1:T8 Arg2:T23
+R9	Protein-Component Arg1:T8 Arg2:T24
+R10	Protein-Component Arg1:T8 Arg2:T20
+R11	Protein-Component Arg1:T9 Arg2:T26
+R12	Protein-Component Arg1:T9 Arg2:T25

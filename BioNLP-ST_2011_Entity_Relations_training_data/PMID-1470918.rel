@@ -1,0 +1,5 @@
+T15	Entity 168 183	leucine zippers
+T16	Entity 196 221	AP-1 transcription factor
+T17	Entity 259 270	heterodimer
+R1	Subunit-Complex Arg1:T5 Arg2:T16
+R2	Subunit-Complex Arg1:T4 Arg2:T16

@@ -1,0 +1,70 @@
+T1	Bacterium 0 20	Brucella abortus S19
+T2	Host 102 108	humans
+T3	Bacterium 110 129	Brucella melitensis
+T4	Bacterium 131 147	Brucella abortus
+T5	Bacterium 149 163	Brucella canis
+T6	Bacterium 168 181	Brucella suis
+T7	Food 260 275	animal products
+T8	Environment 291 294	air
+T9	HostPart 374 378	body
+T10	HostPart 394 407	intracellular
+T11	HostPart 423 428	blood
+T12	HostPart 433 442	lymphatic
+T13	HostPart 471 481	phagocytes
+T14	Bacterium 530 538	bacteria
+T15	HostPart 551 556	blood
+T16	HostPart 628 641	intracellular
+T17	Bacterium 704 720	Brucella abortus
+T18	Geographical 761 776	island of Malta
+T19	Host 821 837	British soldiers
+T20	Host 866 872	bovine
+T21	Host 1008 1011	man
+T22	Bacterium 1227 1247	Brucella abortus S19
+T23	Host 1549 1555	cattle
+*	Equiv T10 T16
+*	Equiv T4 T17
+*	Equiv T1 T22
+E1	Localization Bacterium:T3 Localization:T7
+E2	Localization Bacterium:T5 Localization:T7
+E3	Localization Bacterium:T5 Localization:T11
+E4	Localization Bacterium:T5 Localization:T8
+E5	PartOf Host:T2 Part:T13
+E6	Localization Bacterium:T3 Localization:T11
+E7	Localization Bacterium:T5 Localization:T2
+E8	PartOf Host:T2 Part:T9
+E9	Localization Bacterium:T3 Localization:T8
+E10	Localization Bacterium:T5 Localization:T13
+E11	Localization Bacterium:T3 Localization:T2
+E12	Localization Bacterium:T5 Localization:T12
+E13	Localization Bacterium:T3 Localization:T13
+E14	PartOf Host:T2 Part:T12
+E15	Localization Bacterium:T4 Localization:T19
+E16	Localization Bacterium:T3 Localization:T12
+E17	Localization Bacterium:T6 Localization:T10
+E18	Localization Bacterium:T4 Localization:T10
+E19	Localization Bacterium:T6 Localization:T9
+E20	Localization Bacterium:T4 Localization:T9
+E21	Localization Bacterium:T14 Localization:T15
+E22	Localization Bacterium:T4 Localization:T20
+E23	Localization Bacterium:T4 Localization:T7
+E24	Localization Bacterium:T1 Localization:T23
+E25	Localization Bacterium:T4 Localization:T21
+E26	Localization Bacterium:T4 Localization:T8
+E27	Localization Bacterium:T4 Localization:T11
+E28	Localization Bacterium:T6 Localization:T7
+E29	Localization Bacterium:T6 Localization:T8
+E30	Localization Bacterium:T6 Localization:T11
+E31	PartOf Host:T2 Part:T10
+E32	Localization Bacterium:T6 Localization:T12
+E33	Localization Bacterium:T6 Localization:T13
+E34	Localization Bacterium:T6 Localization:T2
+E35	Localization Bacterium:T4 Localization:T13
+E36	PartOf Host:T2 Part:T11
+E37	Localization Bacterium:T4 Localization:T2
+E38	PartOf Host:T2 Part:T15
+E39	Localization Bacterium:T4 Localization:T18
+E40	Localization Bacterium:T4 Localization:T12
+E41	Localization Bacterium:T5 Localization:T10
+E42	Localization Bacterium:T5 Localization:T9
+E43	Localization Bacterium:T3 Localization:T10
+E44	Localization Bacterium:T3 Localization:T9

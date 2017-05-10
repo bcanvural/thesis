@@ -1,0 +1,12 @@
+T18	Exp 254 310	a hematopoietic-specific Ets family transcription factor	290 310	transcription factor
+T19	Exp 311 315	that
+T20	Exp 383 387	PU.1
+T21	Exp 436 439	its
+T22	Exp 746 759	the mechanism
+T23	Exp 763 768	which
+T24	Exp 962 977	PU.1 and GATA-1
+T25	Exp 1017 1030	both proteins	1022 1030	proteins
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20	[T4]
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T25 Antecedent:T24	[T11, T10]

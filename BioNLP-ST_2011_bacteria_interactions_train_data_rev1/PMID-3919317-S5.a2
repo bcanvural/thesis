@@ -1,0 +1,5 @@
+E1	BindTo Agent:T5 Target:T2
+E2	Interaction Agent:T5 Target:T1
+E4	Interaction Agent:T4 Target:T1
+E5	BindTo Agent:T4 Target:T2
+E6	PromoterOf Agent:T2 Target:T1

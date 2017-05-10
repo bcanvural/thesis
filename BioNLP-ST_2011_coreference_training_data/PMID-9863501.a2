@@ -1,0 +1,3 @@
+T4	Exp 55 79	Phenylarsine oxide (PAO)	68 73	oxide
+T5	Exp 81 86	which
+R1	Coref Anaphora:T5 Antecedent:T4

@@ -1,0 +1,8 @@
+T12	Exp 622 668	S-nitrosylation of a critical cysteine residue
+T13	Exp 669 674	which
+T14	Exp 1056 1065	an action
+T15	Exp 1066 1071	which
+T16	Exp 1079 1083	that
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T14

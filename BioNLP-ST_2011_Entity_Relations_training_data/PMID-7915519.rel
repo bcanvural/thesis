@@ -1,0 +1,9 @@
+T13	Entity 70 80	NF-kappa B
+T14	Entity 206 216	NF-kappa B
+T15	Entity 368 386	NF-kappa B complex
+T16	Entity 463 473	NF-kappa B
+T17	Entity 545 553	tyrosine
+T18	Entity 653 663	NF-kappa B
+R1	Subunit-Complex Arg1:T8 Arg2:T15
+R2	Subunit-Complex Arg1:T9 Arg2:T15
+R3	Subunit-Complex Arg1:T7 Arg2:T15

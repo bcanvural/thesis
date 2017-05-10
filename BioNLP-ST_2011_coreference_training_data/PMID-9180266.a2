@@ -1,0 +1,15 @@
+T9	Exp 90 95	Elf-1
+T10	Exp 99 139	a lymphoid-specific transcription factor	119 139	transcription factor
+T11	Exp 140 144	that
+T12	Exp 180 182	It
+T13	Exp 272 320	Elf-1 is constitutively localized in the nucleus
+T14	Exp 321 326	which
+T15	Exp 479 514	a transcriptional activation domain	508 514	domain
+T16	Exp 532 537	which
+T17	Exp 781 799	gene transcription	786 799	transcription
+T18	Exp 800 805	which
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T9	[T2]
+R3	Coref Anaphora:T14 Antecedent:T13	[T3]
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17

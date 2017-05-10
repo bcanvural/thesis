@@ -1,0 +1,9 @@
+T2	Exp 271 284	the sequences
+T3	Exp 285 289	that
+T4	Exp 381 409	the transcriptional enhancer	401 409	enhancer
+T5	Exp 411 416	which
+T6	Exp 905 920	these enhancers	911 920	enhancers
+T7	Exp 942 947	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

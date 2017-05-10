@@ -1,0 +1,23 @@
+*	Equiv T2 T3
+T8	Entity 42 50	promoter
+T9	Entity 105 114	CCAAT box
+T10	Entity 171 183	binding site
+T11	Entity 191 205	delta promoter
+T12	Entity 433 442	CCAAT box
+T13	Entity 446 452	-70 bp
+T14	Entity 478 490	binding site
+T15	Entity 494 500	-85 bp
+T16	Entity 504 510	-95 bp
+T17	Entity 518 526	promoter
+T18	Entity 630 639	CCAAT box
+T19	Entity 641 646	CCAAC
+T20	Entity 672 684	binding site
+R1	Protein-Component Arg1:T1 Arg2:T8
+R2	Protein-Component Arg1:T5 Arg2:T12
+R3	Protein-Component Arg1:T5 Arg2:T13
+R4	Protein-Component Arg1:T5 Arg2:T16
+R5	Protein-Component Arg1:T5 Arg2:T17
+R6	Protein-Component Arg1:T5 Arg2:T15
+R7	Protein-Component Arg1:T7 Arg2:T20
+R8	Protein-Component Arg1:T7 Arg2:T19
+R9	Protein-Component Arg1:T7 Arg2:T18

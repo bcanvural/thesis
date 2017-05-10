@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+T21	Entity 87 98	cis-element
+T22	Entity 130 138	promoter
+T23	Entity 549 569	gamma-activated site
+T24	Entity 571 574	GAS
+T25	Entity 600 603	GAS
+T26	Entity 787 812	IRF-1 GAS-binding complex
+T27	Entity 793 796	GAS
+T28	Entity 1026 1044	Rel/STAT complexes
+R1	Protein-Component Arg1:T1 Arg2:T21
+R2	Protein-Component Arg1:T1 Arg2:T22
+R3	Protein-Component Arg1:T7 Arg2:T25
+R4	Subunit-Complex Arg1:T11 Arg2:T26
+R5	Protein-Component Arg1:T11 Arg2:T27

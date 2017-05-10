@@ -1,0 +1,26 @@
+T9	Exp 260 266	NFATx1
+T10	Exp 268 273	which
+T11	Exp 523 529	NFATx1
+T12	Exp 608 611	its
+T13	Exp 713 716	its
+T14	Exp 738 741	its
+T15	Exp 904 907	its
+T16	Exp 1321 1327	motifs
+T17	Exp 1328 1332	that
+T18	Exp 1410 1416	NFATx1
+T19	Exp 1452 1455	its
+T20	Exp 1619 1625	NFATx1
+T21	Exp 1665 1668	its
+T22	Exp 1704 1720	a protein module	1714 1720	module
+T23	Exp 1721 1725	that
+T24	Exp 1773 1776	its
+R1	Coref Anaphora:T10 Antecedent:T9	[T2]
+R2	Coref Anaphora:T12 Antecedent:T11	[T4]
+R3	Coref Anaphora:T13 Antecedent:T11	[T4]
+R4	Coref Anaphora:T14 Antecedent:T11	[T4]
+R5	Coref Anaphora:T15 Antecedent:T11	[T4]
+R6	Coref Anaphora:T17 Antecedent:T16
+R7	Coref Anaphora:T19 Antecedent:T18	[T7]
+R8	Coref Anaphora:T21 Antecedent:T20	[T8]
+R9	Coref Anaphora:T23 Antecedent:T22
+R10	Coref Anaphora:T24 Antecedent:T20	[T8]

@@ -1,0 +1,3 @@
+T11	Exp 595 612	all three factors	605 612	factors
+T12	Exp 684 695	the factors
+R1	Coref Anaphora:T12 Antecedent:T11

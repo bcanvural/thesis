@@ -1,0 +1,6 @@
+T1	Exp 120 142	NF-kappa B-like factor	136 142	factor
+T2	Exp 368 386	an immunomodulator
+T3	Exp 387 392	which
+T4	Exp 1276 1301	the NF-kappaB-like factor	1295 1301	factor
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T4 Antecedent:T1

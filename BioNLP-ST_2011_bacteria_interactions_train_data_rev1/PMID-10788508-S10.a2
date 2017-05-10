@@ -1,0 +1,6 @@
+E1	PromoterOf Agent:T5 Target:T4
+E2	BindTo Agent:T2 Target:T3
+E3	PromoterOf Agent:T8 Target:T7
+E4	BindTo Agent:T2 Target:T6
+E5	SiteOf Target:T3 Site:T5
+E6	SiteOf Target:T6 Site:T8

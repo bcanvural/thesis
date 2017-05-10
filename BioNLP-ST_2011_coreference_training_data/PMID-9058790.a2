@@ -1,0 +1,3 @@
+T18	Exp 99 147	Nuclear factor-kappa B (NF-kappa B)/Rel proteins	139 147	proteins
+T19	Exp 217 221	They
+R1	Coref Anaphora:T19 Antecedent:T18

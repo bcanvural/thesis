@@ -1,0 +1,34 @@
+T1	Protein 9 11	S1
+T2	Site 45 71	transcription start points
+T3	GeneComplex 79 85	spoIIA
+T4	GeneComplex 90 95	spoVA
+W1	Word 0 8	Nuclease
+W2	Word 9 11	S1
+W3	Word 12 19	mapping
+W4	Word 20 23	was
+W5	Word 24 28	used
+W6	Word 29 31	to
+W7	Word 32 40	identify
+W8	Word 41 44	the
+W9	Word 45 58	transcription
+W10	Word 59 64	start
+W11	Word 65 71	points
+W12	Word 72 74	of
+W13	Word 75 78	the
+W14	Word 79 85	spoIIA
+W15	Word 86 89	and
+W16	Word 90 95	spoVA
+W17	Word 96 103	operons
+W18	Word 104 106	of
+W19	Word 107 124	Bacillus subtilis
+R1	mod_att:N-N W11 W10
+R2	mod_att:N-N W17 W16
+R3	comp:N-N(of) W17 W19
+R4	comp:V_PASS-V(to) W5 W7
+R5	obj:V-N W7 W11
+R6	subj:V_PASS-N W5 W3
+R7	mod_att:N-N W3 W1
+R8	comp:N-N(of) W11 W17
+R9	mod_att:N-N W17 W14
+R10	mod_att:N-N W10 W9
+R11	mod_att:N-N W3 W2

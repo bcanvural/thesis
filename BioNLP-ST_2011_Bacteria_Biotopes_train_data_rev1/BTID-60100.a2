@@ -1,0 +1,43 @@
+T1	Bacterium 0 25	Burkholderia pseudomallei
+T2	Bacterium 55 80	Burkholderia pseudomallei
+T3	Soil 285 289	soil
+T4	Water 294 299	water
+T5	Geographical 318 332	Southeast Asia
+T6	Geographical 337 355	Northern Australia
+T7	Bacterium 1938 1963	Burkholderia pseudomallei
+T8	Host 1969 1974	human
+T9	Host 1979 1985	animal
+T10	Geographical 2057 2071	Southeast Asia
+T11	Geographical 2076 2094	northern Australia
+T12	HostPart 2295 2311	open skin wounds
+T13	Environment 2345 2356	aerosolized
+T14	Bacterium 2357 2382	Burkholderia pseudomallei
+T15	Bacterium 2491 2516	Burkholderia pseudomallei
+T16	HostPart 2650 2657	abscess
+T17	HostPart 2682 2686	body
+T18	HostPart 2699 2704	brain
+*	Equiv T1 T2
+*	Equiv T1 T7
+*	Equiv T1 T14
+*	Equiv T1 T15
+E1	Localization Bacterium:T1 Localization:T8
+E2	PartOf Host:T8 Part:T18
+E3	Localization Bacterium:T1 Localization:T5
+E4	PartOf Host:T9 Part:T18
+E5	Localization Bacterium:T1 Localization:T10
+E6	Localization Bacterium:T1 Localization:T17
+E7	Localization Bacterium:T1 Localization:T16
+E8	PartOf Host:T8 Part:T12
+E9	Localization Bacterium:T1 Localization:T11
+E10	PartOf Host:T9 Part:T12
+E11	Localization Bacterium:T1 Localization:T3
+E12	Localization Bacterium:T1 Localization:T13
+E13	Localization Bacterium:T1 Localization:T6
+E14	PartOf Host:T8 Part:T17
+E15	Localization Bacterium:T1 Localization:T12
+E16	Localization Bacterium:T1 Localization:T18
+E17	PartOf Host:T9 Part:T17
+E18	PartOf Host:T9 Part:T16
+E19	Localization Bacterium:T1 Localization:T9
+E20	PartOf Host:T8 Part:T16
+E21	Localization Bacterium:T1 Localization:T4

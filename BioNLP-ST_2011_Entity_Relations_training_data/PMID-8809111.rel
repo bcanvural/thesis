@@ -1,0 +1,20 @@
+*	Equiv T1 T2
+T8	Entity 24 88	human myeloid cell nuclear differentiation antigen gene promoter
+T9	Entity 355 375	5' flanking sequence
+T10	Entity 438 455	response elements
+T11	Entity 457 461	ISRE
+T12	Entity 534 538	TATA
+T13	Entity 565 569	gene
+T14	Entity 577 589	DNA elements
+T15	Entity 619 628	Myb sites
+T16	Entity 638 641	Ets
+T17	Entity 646 649	Ets
+T18	Entity 663 667	site
+T19	Entity 679 683	site
+T20	Entity 699 705	600 bp
+T21	Entity 713 738	transcription start sites
+T22	Entity 850 870	5' flanking sequence
+T23	Entity 1048 1053	genes
+T24	Entity 1058 1063	genes
+R1	Protein-Component Arg1:T3 Arg2:T10
+R2	Protein-Component Arg1:T3 Arg2:T11

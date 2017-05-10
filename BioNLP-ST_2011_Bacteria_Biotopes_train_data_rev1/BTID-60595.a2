@@ -1,0 +1,123 @@
+T1	Bacterium 0 12	Sphingomonas
+T2	Bacterium 763 775	Sphingomonas
+T3	Bacterium 788 803	S. paucimobilis
+T4	Host 830 836	humans
+T5	Bacterium 2867 2879	Sphingomonas
+T6	Water 2935 2942	aqueous
+T7	Water 2949 2968	fresh- and seawater
+T8	Environment 2974 2994	terrestrial habitats
+T9	Host 2996 3001	plant
+T10	HostPart 3002 3014	root systems
+T11	Medical 3016 3034	clinical specimens
+T12	Bacterium 3242 3254	Sphingomonas
+T13	Environment 3400 3415	toxic compounds
+T14	Environment 3424 3428	PCBs
+T15	Environment 3430 3438	creosote
+T16	Environment 3440 3457	pentachlorophenol
+T17	Environment 3459 3469	herbicides
+T18	Bacterium 3521 3536	S. paucimobilis
+T19	Soil 3593 3610	contaminated soil
+T20	Soil 3633 3679	soil aggregates less than 0.025 mm in diameter
+T21	Soil 3716 3738	unamended control soil
+T22	Bacterium 4076 4088	Sphingomonas
+T23	Bacterium 4101 4116	S. paucimobilis
+T24	Medical 4131 4153	equipment in hospitals
+T25	Medical 4175 4193	clinical specimens
+T26	Medical 4205 4230	respiratory therapy items
+T27	Medical 4232 4243	humidifiers
+T28	Medical 4245 4250	water
+T29	Medical 4252 4255	air
+T30	Medical 4257 4278	bedside water bottles
+T31	Medical 4280 4285	sinks
+T32	Medical 4291 4309	temperature probes
+T33	Bacterium 4334 4349	S. paucimobilis
+T34	Host 4466 4472	humans
+T35	HostPart 4635 4646	bloodstream
+T36	HostPart 4662 4672	leg ulcers
+T37	Host 4704 4712	patients
+T38	HostPart 4764 4777	brain abscess
+T39	HostPart 4820 4835	splenic abscess
+T40	HostPart 4847 4858	respiratory
+T41	HostPart 4880 4887	urinary
+T42	Bacterium 4975 4987	Sphingomonas
+T43	Host 5012 5017	coral
+T44	Geographical 5057 5075	Florida Reef Tract
+T45	Host 5120 5130	star coral
+T46	Geographical 5504 5516	Florida Keys
+T47	Bacterium 5683 5695	Sphingomonas
+T48	Environment 5714 5737	shower curtain biofilms
+T49	Environment 5765 5795	"soap scum" of shower curtains
+T50	Bacterium 5839 5847	bacteria
+T51	Environment 5939 5954	shower curtains
+T52	Host 5968 6002	immune-compromised or ill patients
+T53	Environment 6064 6079	shower curtains
+*	Equiv T51 T53
+*	Equiv T3 T18
+*	Equiv T3 T23
+*	Equiv T3 T33
+*	Equiv T1 T2
+*	Equiv T1 T5
+*	Equiv T1 T12
+*	Equiv T1 T22
+*	Equiv T1 T42
+*	Equiv T1 T47
+E1	Localization Bacterium:T3 Localization:T21
+E2	Localization Bacterium:T3 Localization:T37
+E3	Localization Bacterium:T1 Localization:T24
+E4	Localization Bacterium:T1 Localization:T13
+E5	Localization Bacterium:T3 Localization:T32
+E6	Localization Bacterium:T50 Localization:T52
+E7	Localization Bacterium:T1 Localization:T26
+E8	Localization Bacterium:T3 Localization:T39
+E9	Localization Bacterium:T1 Localization:T27
+E10	Localization Bacterium:T1 Localization:T6
+E11	Localization Bacterium:T3 Localization:T25
+E12	Localization Bacterium:T3 Localization:T20
+E13	PartOf Host:T9 Part:T10
+E14	Localization Bacterium:T1 Localization:T15
+E15	PartOf Host:T34 Part:T35
+E16	PartOf Host:T34 Part:T40
+E17	Localization Bacterium:T3 Localization:T24
+E18	Localization Bacterium:T1 Localization:T14
+E19	Localization Bacterium:T1 Localization:T29
+E20	Localization Bacterium:T1 Localization:T31
+E21	Localization Bacterium:T3 Localization:T36
+E22	Localization Bacterium:T1 Localization:T30
+E23	Localization Bacterium:T3 Localization:T38
+E24	Localization Bacterium:T1 Localization:T28
+E25	Localization Bacterium:T3 Localization:T27
+E26	Localization Bacterium:T3 Localization:T28
+E27	Localization Bacterium:T50 Localization:T51
+E28	Localization Bacterium:T1 Localization:T48
+E29	Localization Bacterium:T1 Localization:T32
+E30	Localization Bacterium:T1 Localization:T44
+E31	Localization Bacterium:T3 Localization:T40
+E32	PartOf Host:T34 Part:T36
+E33	Localization Bacterium:T1 Localization:T45
+E34	Localization Bacterium:T3 Localization:T35
+E35	Localization Bacterium:T1 Localization:T43
+E36	Localization Bacterium:T3 Localization:T4
+E37	Localization Bacterium:T1 Localization:T25
+E38	Localization Bacterium:T1 Localization:T51
+E39	Localization Bacterium:T3 Localization:T29
+E40	Localization Bacterium:T3 Localization:T26
+E41	Localization Bacterium:T3 Localization:T41
+E42	Localization Bacterium:T1 Localization:T10
+E43	PartOf Host:T34 Part:T41
+E44	Localization Bacterium:T1 Localization:T46
+E45	Localization Bacterium:T50 Localization:T49
+E46	Localization Bacterium:T1 Localization:T11
+E47	PartOf Host:T34 Part:T39
+E48	Localization Bacterium:T1 Localization:T8
+E49	PartOf Host:T34 Part:T38
+E50	Localization Bacterium:T1 Localization:T17
+E51	Localization Bacterium:T1 Localization:T16
+E52	Localization Bacterium:T3 Localization:T19
+E53	Localization Bacterium:T1 Localization:T7
+E54	Localization Bacterium:T3 Localization:T34
+E55	Localization Bacterium:T1 Localization:T49
+E56	Localization Bacterium:T1 Localization:T52
+E57	Localization Bacterium:T3 Localization:T31
+E58	Localization Bacterium:T3 Localization:T30
+E59	Localization Bacterium:T1 Localization:T4
+E60	Localization Bacterium:T1 Localization:T9

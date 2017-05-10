@@ -1,0 +1,15 @@
+T19	Entity 78 87	complexes
+T20	Entity 712 719	Delta19
+T21	Entity 792 799	Delta19
+T22	Entity 937 944	Delta19
+T23	Entity 1108 1117	complexes
+T24	Entity 1131 1144	reporter gene
+T25	Entity 1411 1424	reporter gene
+T26	Entity 1458 1467	complexes
+R1	Subunit-Complex Arg1:T1 Arg2:T19
+R2	Subunit-Complex Arg1:T2 Arg2:T19
+R3	Protein-Component Arg1:T6 Arg2:T20
+R4	Subunit-Complex Arg1:T13 Arg2:T23
+R5	Subunit-Complex Arg1:T14 Arg2:T23
+R6	Subunit-Complex Arg1:T16 Arg2:T26
+R7	Subunit-Complex Arg1:T17 Arg2:T26

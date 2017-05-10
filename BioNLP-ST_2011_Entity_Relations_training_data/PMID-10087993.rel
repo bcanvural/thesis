@@ -1,0 +1,72 @@
+T32	Entity 18 46	upstream regulatory elements
+T33	Entity 74 102	adult beta-like globin genes
+T34	Entity 188 200	cis-elements
+T35	Entity 244 272	adult beta-like globin genes
+T36	Entity 470 483	DNA sequences
+T37	Entity 508 527	5' flanking regions
+T38	Entity 572 588	promoter regions
+T39	Entity 616 635	5' flanking regions
+T40	Entity 685 716	chimeric promoter constructions
+T41	Entity 760 768	fragment
+T42	Entity 803 811	sequence
+T43	Entity 913 921	promoter
+T44	Entity 964 972	promoter
+T45	Entity 1004 1012	promoter
+T46	Entity 1043 1051	promoter
+T47	Entity 1091 1107	upstream portion
+T48	Entity 1121 1129	promoter
+T49	Entity 1208 1216	sequence
+T50	Entity 1259 1292	truncated delta promoter fragment
+T51	Entity 1416 1432	upstream element
+T52	Entity 1451 1467	upstream portion
+T53	Entity 1481 1489	promoter
+T54	Entity 1519 1527	promoter
+T55	Entity 1611 1619	promoter
+T56	Entity 1650 1682	positive transcriptional element
+T57	Entity 1715 1732	regulatory region
+T58	Entity 1763 1780	binding sites for
+T59	Entity 1823 1879	upstream portion of the beta globin gene flanking region
+T60	Entity 1823 1839	upstream portion
+T61	Entity 1847 1879	beta globin gene flanking region
+T62	Entity 1910 1918	promoter
+T63	Entity 1979 1985	region
+T64	Entity 1995 2014	protected sequences
+T65	Entity 2032 2059	consensus binding sites for
+T66	Entity 2032 2055	consensus binding sites
+T67	Entity 2120 2144	upstream promoter region
+T68	Entity 2170 2174	gene
+R1	Protein-Component Arg1:T2 Arg2:T34
+R2	Protein-Component Arg1:T1 Arg2:T34
+R3	Protein-Component Arg1:T3 Arg2:T38
+R4	Protein-Component Arg1:T4 Arg2:T38
+R5	Protein-Component Arg1:T4 Arg2:T36
+R6	Protein-Component Arg1:T3 Arg2:T36
+R7	Protein-Component Arg1:T3 Arg2:T37
+R8	Protein-Component Arg1:T4 Arg2:T37
+R9	Protein-Component Arg1:T5 Arg2:T39
+R10	Protein-Component Arg1:T6 Arg2:T39
+R11	Protein-Component Arg1:T7 Arg2:T41
+R12	Protein-Component Arg1:T8 Arg2:T41
+R13	Protein-Component Arg1:T13 Arg2:T43
+R14	Protein-Component Arg1:T14 Arg2:T44
+R15	Protein-Component Arg1:T15 Arg2:T46
+R16	Protein-Component Arg1:T15 Arg2:T45
+R17	Protein-Component Arg1:T16 Arg2:T47
+R18	Protein-Component Arg1:T16 Arg2:T48
+R19	Protein-Component Arg1:T17 Arg2:T49
+R20	Protein-Component Arg1:T18 Arg2:T50
+R21	Protein-Component Arg1:T19 Arg2:T51
+R22	Protein-Component Arg1:T21 Arg2:T52
+R23	Protein-Component Arg1:T20 Arg2:T52
+R24	Protein-Component Arg1:T23 Arg2:T56
+R25	Protein-Component Arg1:T20 Arg2:T53
+R26	Protein-Component Arg1:T21 Arg2:T54
+R27	Protein-Component Arg1:T22 Arg2:T55
+R28	Protein-Component Arg1:T23 Arg2:T57
+R29	Protein-Component Arg1:T26 Arg2:T62
+R30	Protein-Component Arg1:T26 Arg2:T60
+R31	Protein-Component Arg1:T26 Arg2:T58
+R32	Protein-Component Arg1:T26 Arg2:T59
+R33	Protein-Component Arg1:T26 Arg2:T61
+R34	Protein-Component Arg1:T28 Arg2:T63
+R35	Protein-Component Arg1:T31 Arg2:T67

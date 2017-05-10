@@ -1,0 +1,54 @@
+T1	Bacterium 0 13	Campylobacter
+T2	Bacterium 337 350	Campylobacter
+T3	Food 468 472	food
+T4	Bacterium 501 511	Salmonella
+T5	Bacterium 896 909	Campylobacter
+T6	HostPart 996 1000	body
+T7	Bacterium 1116 1129	Campylobacter
+T8	HostPart 1155 1159	body
+T9	Bacterium 1284 1297	Campylobacter
+T10	HostPart 1390 1406	intestinal tract
+T11	Host 1410 1417	animals
+T12	Bacterium 1419 1432	Campylobacter
+T13	HostPart 1447 1463	mucosal surfaces
+T14	Host 1467 1472	birds
+T15	Host 1477 1484	mammals
+T16	HostPart 1525 1536	mucous flow
+T17	Host 2086 2092	Humans
+T18	Bacterium 2116 2129	Campylobacter
+T19	Food 2160 2164	milk
+T20	Food 2169 2174	water
+T21	Food 2193 2209	undercooked meat
+T22	Food 2224 2231	chicken
+T23	Bacterium 2233 2242	C. jejuni
+T24	Bacterium 2281 2294	Campylobacter
+T25	HostPart 2334 2363	lining of the small intestine
+*	Equiv T6 T8
+*	Equiv T1 T2
+*	Equiv T1 T5
+*	Equiv T1 T7
+*	Equiv T1 T9
+*	Equiv T1 T12
+*	Equiv T1 T18
+*	Equiv T1 T24
+E1	Localization Bacterium:T1 Localization:T22
+E2	Localization Bacterium:T4 Localization:T3
+E3	Localization Bacterium:T1 Localization:T11
+E4	Localization Bacterium:T1 Localization:T21
+E5	PartOf Host:T14 Part:T13
+E6	Localization Bacterium:T23 Localization:T25
+E7	Localization Bacterium:T1 Localization:T10
+E8	Localization Bacterium:T1 Localization:T15
+E9	PartOf Host:T11 Part:T10
+E10	Localization Bacterium:T1 Localization:T19
+E11	Localization Bacterium:T1 Localization:T6
+E12	Localization Bacterium:T1 Localization:T13
+E13	PartOf Host:T14 Part:T16
+E14	Localization Bacterium:T1 Localization:T16
+E15	PartOf Host:T15 Part:T16
+E16	Localization Bacterium:T1 Localization:T3
+E17	Localization Bacterium:T1 Localization:T14
+E18	PartOf Host:T17 Part:T25
+E19	PartOf Host:T15 Part:T13
+E20	Localization Bacterium:T1 Localization:T20
+E21	Localization Bacterium:T1 Localization:T17

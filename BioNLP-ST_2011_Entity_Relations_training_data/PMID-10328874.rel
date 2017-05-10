@@ -1,0 +1,21 @@
+T22	Entity 287 290	DNA
+T23	Entity 351 367	heat shock genes
+T24	Entity 387 407	non-heat shock genes
+T25	Entity 648 656	promoter
+T26	Entity 847 862	monocytic genes
+T27	Entity 1025 1033	promoter
+T28	Entity 1127 1135	NFkappaB
+T29	Entity 1148 1156	promoter
+T30	Entity 1193 1201	NFkappaB
+T31	Entity 1288 1296	HSP gene
+T32	Entity 1341 1374	stress responsive HSP70B promoter
+T33	Entity 1366 1374	promoter
+T34	Entity 1557 1560	DNA
+T35	Entity 1603 1623	heat shock promoters
+T36	Entity 1852 1857	genes
+T37	Entity 1909 1921	stress genes
+R1	Protein-Component Arg1:T6 Arg2:T25
+R2	Protein-Component Arg1:T15 Arg2:T27
+R3	Protein-Component Arg1:T16 Arg2:T29
+R4	Protein-Component Arg1:T18 Arg2:T32
+R5	Protein-Component Arg1:T18 Arg2:T33

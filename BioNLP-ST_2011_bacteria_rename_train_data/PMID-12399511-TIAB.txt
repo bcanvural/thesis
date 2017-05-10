@@ -1,0 +1,2 @@
+Bex, the Bacillus subtilis homolog of the essential Escherichia coli GTPase Era, is required for normal cell division and spore formation.
+The Bacillus subtilis bex gene complemented the defect in an Escherichia coli era mutant. The Bex protein showed 39 percent identity and 67 percent similarity to the E. coli Era GTPase. In contrast to era, bex was not essential in all strains. bex mutant cells were elongated and filled with diffuse nucleoid material. They grew slowly and exhibited severely impaired spore formation.

@@ -1,0 +1,13 @@
+T8	Exp 143 164	Serum amyloid A (SAA)
+T9	Exp 211 214	its
+T10	Exp 298 301	its
+T11	Exp 335 338	its
+T12	Exp 490 521	THP-1 monocyte/macrophage cells	516 521	cells
+T13	Exp 522 527	which
+T14	Exp 990 1013	the DNA-binding protein	1006 1013	protein
+T15	Exp 1108 1110	it
+R1	Coref Anaphora:T9 Antecedent:T8	[T3, T2]
+R2	Coref Anaphora:T10 Antecedent:T8	[T3, T2]
+R3	Coref Anaphora:T11 Antecedent:T8	[T3, T2]
+R4	Coref Anaphora:T13 Antecedent:T12
+R5	Coref Anaphora:T15 Antecedent:T14

@@ -1,0 +1,4 @@
+T9	Entity 385 388	CD3
+T10	Entity 464 473	NF-kappaB
+T11	Entity 843 851	promoter
+R1	Protein-Component Arg1:T7 Arg2:T11

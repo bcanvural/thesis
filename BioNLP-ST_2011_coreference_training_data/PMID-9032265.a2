@@ -1,0 +1,15 @@
+T4	Exp 501 532	differentiating erythroid cells	527 532	cells
+T5	Exp 534 539	which
+T6	Exp 617 628	macrophages
+T7	Exp 630 635	which
+T8	Exp 746 796	the minimum region of the ferritin H-gene promoter	758 764	region
+T9	Exp 797 801	that
+T10	Exp 982 1010	HRF (heme-responsive factor)
+T11	Exp 1012 1017	which
+T12	Exp 1551 1565	three subunits
+T13	Exp 1587 1592	which
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8	[T2]
+R4	Coref Anaphora:T11 Antecedent:T10
+R5	Coref Anaphora:T13 Antecedent:T12

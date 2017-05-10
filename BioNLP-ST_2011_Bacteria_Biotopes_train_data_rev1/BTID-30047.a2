@@ -1,0 +1,19 @@
+T1	Bacterium 21 39	Rickettsia conorii
+T2	Host 121 124	man
+T3	Host 191 205	brown dog tick
+T4	Bacterium 207 225	Rickettsia conorii
+T5	HostPart 241 254	intracellular
+T6	HostPart 288 297	cytoplasm
+T7	Host 301 311	eukaryotic
+T8	HostPart 312 317	cells
+T9	Host 401 411	arthropods
+*	Equiv T5 T8
+*	Equiv T1 T4
+E1	Localization Bacterium:T1 Localization:T2
+E2	Localization Bacterium:T1 Localization:T5
+E3	PartOf Host:T7 Part:T6
+E4	Localization Bacterium:T1 Localization:T6
+E5	Localization Bacterium:T1 Localization:T7
+E6	PartOf Host:T7 Part:T5
+E7	Localization Bacterium:T1 Localization:T3
+E8	Localization Bacterium:T1 Localization:T9

@@ -1,0 +1,10 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T13	Entity 513 518	genes
+T14	Entity 567 583	promoter regions
+T15	Entity 663 688	kappa B response elements
+T16	Entity 748 756	promoter
+T17	Entity 873 889	enhancer element
+T18	Entity 1061 1109	LPS-inducible nuclear factor-kappa B/Rel complex
+R1	Protein-Component Arg1:T7 Arg2:T14
+R2	Protein-Component Arg1:T9 Arg2:T16

@@ -1,0 +1,7 @@
+T12	Entity 24 42	guanine nucleotide
+T13	Entity 328 331	GTP
+T14	Entity 566 569	GDP
+T15	Entity 569 573	/GTP
+T16	Entity 652 668	cysteine residue
+T17	Entity 813 823	NF-kappa B
+R1	Protein-Component Arg1:T1 Arg2:T12

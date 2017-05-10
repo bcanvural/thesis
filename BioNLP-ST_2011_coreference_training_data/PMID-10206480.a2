@@ -1,0 +1,3 @@
+T1	Exp 821 832	The effects
+T2	Exp 860 865	those
+R1	Coref Anaphora:T2 Antecedent:T1

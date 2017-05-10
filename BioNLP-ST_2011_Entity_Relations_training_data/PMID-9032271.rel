@@ -1,0 +1,20 @@
+T13	Entity 62 71	NF-kappaB
+T14	Entity 106 120	Numerous genes
+T15	Entity 222 243	nuclear factor kappaB
+T16	Entity 245 254	NF-kappaB
+T17	Entity 298 307	NF-kappaB
+T18	Entity 418 427	NF-kappaB
+T19	Entity 708 717	NF-kappaB
+T20	Entity 971 981	serines 32
+T21	Entity 986 988	36
+T22	Entity 1084 1093	NF-kappaB
+T23	Entity 1232 1242	serines 32
+T24	Entity 1247 1249	36
+T25	Entity 1728 1737	NF-kappaB
+T26	Entity 2168 2177	NF-kappaB
+R1	Protein-Component Arg1:T1 Arg2:T21
+R2	Protein-Component Arg1:T1 Arg2:T20
+R3	Subunit-Complex Arg1:T4 Arg2:T22
+R4	Subunit-Complex Arg1:T3 Arg2:T22
+R5	Protein-Component Arg1:T5 Arg2:T24
+R6	Protein-Component Arg1:T5 Arg2:T23

@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+*	Equiv T9 T10
+*	Equiv T13 T14
+*	Equiv T22 T23
+T33	Entity 52 61	NF-kappaB
+T34	Entity 317 326	NF-kappaB
+T35	Entity 412 422	N-terminal
+T36	Entity 510 519	NF-kappaB
+T37	Entity 719 748	N-terminal regulatory serines
+T38	Entity 905 914	NF-kappaB
+T39	Entity 1207 1216	NF-kappaB
+T40	Entity 1227 1240	reporter gene
+T41	Entity 1490 1499	NF-kappaB
+T42	Entity 1510 1543	plasma membrane-proximal elements
+T43	Entity 1827 1836	NF-kappaB
+T44	Entity 1987 1996	NF-kappaB
+T45	Entity 2062 2071	NF-kappaB
+R1	Protein-Component Arg1:T7 Arg2:T35
+R2	Protein-Component Arg1:T12 Arg2:T37

@@ -1,0 +1,12 @@
+T6	Entity 115 146	transcription factor NF-kappa B
+T7	Entity 302 312	NF-kappa B
+T8	Entity 373 420	genes important for the defense of the organism
+T9	Entity 373 378	genes
+T10	Entity 436 446	NF-kappa B
+T11	Entity 558 567	serine-32
+T12	Entity 571 580	serine-36
+T13	Entity 692 702	NF-kappa B
+T14	Entity 794 802	residues
+T15	Entity 833 843	NF-kappa B
+R1	Protein-Component Arg1:T5 Arg2:T12
+R2	Protein-Component Arg1:T5 Arg2:T11

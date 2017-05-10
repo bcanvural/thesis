@@ -1,0 +1,12 @@
+T2	Exp 173 187	the hypothesis
+T3	Exp 188 192	that
+T4	Exp 1270 1285	TNF stimulation	1274 1285	stimulation
+T5	Exp 1286 1292	itself
+T6	Exp 1335 1430	Oxidative stress obtained by the addition of H2O2 to the culture medium of J.Jhan or U937 cells	1335 1351	Oxidative stress
+T7	Exp 1444 1450	itself
+T8	Exp 1625 1636	TNF and PMA
+T9	Exp 1647 1652	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T9 Antecedent:T8

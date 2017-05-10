@@ -1,0 +1,6 @@
+T12	Exp 526 553	a model for HIV replication	528 533	model
+T13	Exp 557 562	which
+T14	Exp 904 917	bcl-2 muteins	910 917	muteins
+T15	Exp 918 922	that
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14	[T10]

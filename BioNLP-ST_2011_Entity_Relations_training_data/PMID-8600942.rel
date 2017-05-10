@@ -1,0 +1,9 @@
+T13	Entity 22 32	NF-kappa B
+T14	Entity 957 979	nuclear factor-kappa B
+T15	Entity 981 991	NF-kappa B
+T16	Entity 1064 1091	inflammatory cytokine genes
+T17	Entity 1214 1224	NF-kappa B
+T18	Entity 1259 1269	NF-kappa B
+T19	Entity 1564 1574	NF-kappa B
+R1	Subunit-Complex Arg1:T12 Arg2:T18
+R2	Subunit-Complex Arg1:T11 Arg2:T18

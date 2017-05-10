@@ -1,0 +1,26 @@
+*	Equiv T1 T2
+*	Equiv T5 T6
+T7	Entity 0 22	Nuclear factor-kappa B
+T8	Entity 120 130	NF-kappa B
+T9	Entity 195 205	many genes
+T10	Entity 355 365	NF-kappa B
+T11	Entity 436 439	DNA
+T12	Entity 751 773	two specific complexes
+T13	Entity 785 833	NF-kappa B specific 32P-labelled oligonucleotide
+T14	Entity 785 795	NF-kappa B
+T15	Entity 977 986	complexes
+T16	Entity 1008 1018	homodimers
+T17	Entity 1031 1043	heterodimers
+T18	Entity 1055 1065	NF-kappa B
+T19	Entity 1077 1080	DNA
+T20	Entity 1186 1196	NF-kappa B
+T21	Entity 1253 1263	homodimers
+T22	Entity 1311 1321	NF-kappa B
+R1	Subunit-Complex Arg1:T4 Arg2:T15
+R2	Subunit-Complex Arg1:T1 Arg2:T15
+R3	Subunit-Complex Arg1:T3 Arg2:T15
+R4	Subunit-Complex Arg1:T1 Arg2:T16
+R5	Subunit-Complex Arg1:T3 Arg2:T17
+R6	Subunit-Complex Arg1:T4 Arg2:T17
+R7	Subunit-Complex Arg1:T5 Arg2:T20
+R8	Subunit-Complex Arg1:T5 Arg2:T21

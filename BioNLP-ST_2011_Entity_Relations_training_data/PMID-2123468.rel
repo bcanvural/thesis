@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+T8	Entity 285 295	NF-kappa B
+T9	Entity 330 335	genes
+T10	Entity 721 734	tandem copies
+T11	Entity 742 760	NF-AT-binding site
+T12	Entity 1358 1381	transcription complexes
+T13	Entity 1389 1397	promoter
+T14	Entity 1407 1417	constructs
+T15	Entity 1432 1442	NF-kappa B
+T16	Entity 1471 1479	enhancer
+T17	Entity 1646 1651	genes
+R1	Protein-Component Arg1:T3 Arg2:T11
+R2	Protein-Component Arg1:T7 Arg2:T16

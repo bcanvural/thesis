@@ -1,0 +1,15 @@
+T13	Exp 289 311	a transcription factor
+T14	Exp 312 317	which
+T15	Exp 543 579	an oligomerized NFAT-1 binding motif
+T16	Exp 580 584	that
+T17	Exp 668 691	the first demonstration
+T18	Exp 692 696	that
+T19	Exp 1154 1160	agents
+T20	Exp 1161 1165	that
+T21	Exp 1761 1769	the fact
+T22	Exp 1770 1774	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T4]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T19
+R5	Coref Anaphora:T22 Antecedent:T21

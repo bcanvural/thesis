@@ -1,0 +1,9 @@
+T13	Entity 975 978	RGD
+T14	Entity 1236 1267	-containing DNA-binding complex
+T15	Entity 1282 1310	Fc gammaRI promoter elements
+T16	Entity 1329 1337	tyrosine
+T17	Entity 1432 1435	RGD
+R1	Subunit-Complex Arg1:T9 Arg2:T14
+R2	Protein-Component Arg1:T11 Arg2:T16
+R3	Protein-Component Arg1:T12 Arg2:T16
+R4	Protein-Component Arg1:T10 Arg2:T16

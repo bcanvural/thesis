@@ -1,0 +1,10 @@
+T23	Exp 574 580	a size
+T24	Exp 592 596	that
+T25	Exp 709 778	nine different 2.3-kb cDNA clones obtained from NK-derived polyA+ RNA	736 742	clones
+T26	Exp 794 798	they
+T27	Exp 847 857	These cDNA
+T28	Exp 880 885	their
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T27 Antecedent:T25
+R4	Coref Anaphora:T28 Antecedent:T27

@@ -1,0 +1,22 @@
+T10	Entity 4 44	Megakaryocyte/Platelet-specific enhancer
+T11	Entity 52 77	alpha2beta1 integrin gene
+T12	Entity 90 99	AP1 sites
+T13	Entity 90 93	AP1
+T14	Entity 165 185	alpha2beta1 integrin
+T15	Entity 399 412	core promoter
+T16	Entity 439 447	silencer
+T17	Entity 477 501	megakaryocytic enhancers
+T18	Entity 509 524	distal 5' flank
+T19	Entity 551 564	229-bp region
+T20	Entity 572 587	distal 5' flank
+T21	Entity 640 648	enhancer
+T22	Entity 708 725	AP1 binding sites
+T23	Entity 708 711	AP1
+T24	Entity 788 807	DNA-protein complex
+T25	Entity 878 881	AP1
+T26	Entity 1382 1399	AP1 binding sites
+T27	Entity 1382 1385	AP1
+T28	Entity 1423 1431	enhancer
+R1	Subunit-Complex Arg1:T4 Arg2:T24
+R2	Subunit-Complex Arg1:T3 Arg2:T24
+R3	Protein-Component Arg1:T9 Arg2:T28

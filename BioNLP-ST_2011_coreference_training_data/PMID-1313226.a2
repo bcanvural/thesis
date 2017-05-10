@@ -1,0 +1,9 @@
+T14	Exp 224 259	the proto-oncogenes c-jun and c-fos	228 243	proto-oncogenes
+T15	Exp 345 361	the AP-1 element	354 361	element
+T16	Exp 481 495	The c-jun mRNA	491 495	mRNA
+T17	Exp 497 502	which
+T18	Exp 705 718	the two genes	713 718	genes
+T19	Exp 1173 1189	the AP-1 element	1182 1189	element
+R1	Coref Anaphora:T17 Antecedent:T16	[T6]
+R2	Coref Anaphora:T18 Antecedent:T14	[T3, T4]
+R3	Coref Anaphora:T19 Antecedent:T15

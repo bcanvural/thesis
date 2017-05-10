@@ -1,0 +1,105 @@
+T1	Bacterium 83 106	Xanthomonas albilineans
+T2	Host 157 167	sugar cane
+T3	Bacterium 336 350	X. albilineans
+T4	Environment 375 393	tropical countries
+T5	Bacterium 1022 1045	Xanthomonas albilineans
+T6	Host 1186 1196	sugar cane
+T7	Bacterium 1253 1267	X. albilineans
+T8	HostPart 1305 1316	sweet stems
+T9	Bacterium 1995 2009	X. albilineans
+T10	Host 2134 2144	sugar cane
+T11	HostPart 2145 2150	stems
+T12	Bacterium 2338 2360	Xanthomonas campestris
+T13	Host 2418 2424	plants
+T14	Environment 2428 2436	tropical
+T15	Environment 2441 2450	temperate
+T16	Bacterium 2462 2480	Xylella fastidiosa
+T17	Host 2517 2523	plants
+T18	Host 2532 2538	coffee
+T19	Host 2540 2546	grapes
+T20	Host 2548 2559	fruit trees
+T21	Host 2561 2573	citrus fruit
+T22	Host 2575 2582	almonds
+T23	Host 2584 2590	olives
+T24	Host 2596 2612	decorative trees
+T25	Host 2617 2623	shrubs
+T26	Host 2625 2628	oak
+T27	Host 2630 2635	maple
+T28	Host 2637 2645	oleander
+T29	Bacterium 2669 2683	X. albilineans
+T30	Host 2793 2799	Humans
+T31	Environment 2883 2899	harvesting tools
+T32	Environment 2925 2939	plant material
+T33	Environment 2941 2960	sugar cane cuttings
+T34	Environment 3005 3008	air
+T35	Environment 3057 3065	aerosols
+T36	Host 3068 3075	insects
+T37	Host 3079 3089	Sugar cane
+T38	Bacterium 3306 3314	GPE PC73
+T39	Geographical 3347 3357	Guadeloupe
+T40	Bacterium 3489 3497	GPE PC73
+T41	Bacterium 3520 3534	X. albilineans
+T42	Geographical 3668 3672	Cuba
+T43	Geographical 3674 3684	Guadeloupe
+T44	Geographical 3686 3693	Florida
+T45	Geographical 3695 3704	Mauritius
+T46	Geographical 3706 3711	Texas
+T47	Geographical 3713 3719	Taiwan
+T48	Bacterium 3783 3797	X. albilineans
+T49	Host 3893 3903	sugar cane
+T50	HostPart 3904 3909	crops
+*	Equiv T1 T3
+*	Equiv T1 T5
+*	Equiv T1 T7
+*	Equiv T1 T9
+*	Equiv T1 T29
+*	Equiv T1 T41
+*	Equiv T1 T48
+*	Equiv T2 T6
+*	Equiv T2 T10
+*	Equiv T2 T37
+*	Equiv T2 T49
+*	Equiv T38 T40
+E1	Localization Bacterium:T38 Localization:T44
+E2	Localization Bacterium:T1 Localization:T47
+E3	Localization Bacterium:T16 Localization:T25
+E4	Localization Bacterium:T1 Localization:T2
+E5	PartOf Host:T2 Part:T8
+E6	Localization Bacterium:T1 Localization:T30
+E7	Localization Bacterium:T1 Localization:T46
+E8	Localization Bacterium:T38 Localization:T39
+E9	Localization Bacterium:T16 Localization:T26
+E10	Localization Bacterium:T1 Localization:T34
+E11	Localization Bacterium:T1 Localization:T4
+E12	Localization Bacterium:T1 Localization:T43
+E13	PartOf Host:T2 Part:T11
+E14	Localization Bacterium:T1 Localization:T36
+E15	Localization Bacterium:T38 Localization:T46
+E16	Localization Bacterium:T1 Localization:T42
+E17	PartOf Host:T2 Part:T50
+E18	Localization Bacterium:T12 Localization:T15
+E19	Localization Bacterium:T16 Localization:T23
+E20	Localization Bacterium:T16 Localization:T20
+E21	Localization Bacterium:T1 Localization:T33
+E22	Localization Bacterium:T38 Localization:T47
+E23	Localization Bacterium:T38 Localization:T42
+E24	Localization Bacterium:T1 Localization:T11
+E25	Localization Bacterium:T16 Localization:T22
+E26	Localization Bacterium:T1 Localization:T44
+E27	Localization Bacterium:T12 Localization:T13
+E28	Localization Bacterium:T38 Localization:T43
+E29	Localization Bacterium:T1 Localization:T50
+E30	Localization Bacterium:T1 Localization:T45
+E31	Localization Bacterium:T1 Localization:T31
+E32	Localization Bacterium:T16 Localization:T17
+E33	Localization Bacterium:T12 Localization:T14
+E34	Localization Bacterium:T1 Localization:T35
+E35	Localization Bacterium:T1 Localization:T8
+E36	Localization Bacterium:T16 Localization:T21
+E37	Localization Bacterium:T16 Localization:T28
+E38	Localization Bacterium:T1 Localization:T32
+E39	Localization Bacterium:T16 Localization:T27
+E40	Localization Bacterium:T16 Localization:T18
+E41	Localization Bacterium:T38 Localization:T45
+E42	Localization Bacterium:T16 Localization:T19
+E43	Localization Bacterium:T16 Localization:T24

@@ -1,0 +1,6 @@
+T4	Exp 611 630	a single viral gene	626 630	gene
+T5	Exp 632 638	ORF 50
+T6	Exp 640 645	which
+T7	Exp 843 852	this gene	848 852	gene
+R1	Coref Anaphora:T6 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T4

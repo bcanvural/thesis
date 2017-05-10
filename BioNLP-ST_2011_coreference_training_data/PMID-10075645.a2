@@ -1,0 +1,3 @@
+T9	Exp 1135 1170	a dominant negative mutant of TRAF2	1155 1161	mutant
+T10	Exp 1171 1175	that
+R1	Coref Anaphora:T10 Antecedent:T9	[T6]

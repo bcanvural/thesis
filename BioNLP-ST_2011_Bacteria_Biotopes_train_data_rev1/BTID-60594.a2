@@ -1,0 +1,20 @@
+T1	Bacterium 42 61	Sphaerotilus natans
+T2	Water 145 158	flowing water
+T3	Water 166 172	sewage
+T4	Environment 177 204	wastewater treatment plants
+T5	Bacterium 1071 1090	Sphaerotilus natans
+T6	Water 1114 1127	flowing water
+T7	Water 1129 1135	sewage
+T8	Environment 1141 1157	activated sludge
+T9	Soil 1721 1725	soil
+T10	Water 1730 1741	river water
+T11	Bacterium 2056 2069	Paenibacillus
+*	Equiv T1 T5
+*	Equiv T2 T6
+*	Equiv T3 T7
+E1	Localization Bacterium:T11 Localization:T9
+E2	Localization Bacterium:T11 Localization:T10
+E3	Localization Bacterium:T1 Localization:T4
+E4	Localization Bacterium:T1 Localization:T8
+E5	Localization Bacterium:T1 Localization:T3
+E6	Localization Bacterium:T1 Localization:T2

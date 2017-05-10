@@ -1,0 +1,12 @@
+T1	Bacterium 0 27	Bordetella petrii DSM 12804
+T2	Bacterium 40 73	Bordetella petrii strain DSM12804
+T3	Bacterium 75 108	Bordetella petrii strain DSM12804
+T4	Environment 137 151	river sediment
+T5	Host 237 243	humans
+T6	Host 253 273	warm-blooded animals
+T7	Bacterium 317 327	Bordetella
+*	Equiv T1 T2
+*	Equiv T1 T3
+E1	Localization Bacterium:T7 Localization:T5
+E2	Localization Bacterium:T7 Localization:T6
+E3	Localization Bacterium:T1 Localization:T4

@@ -1,0 +1,14 @@
+T8	Entity 190 200	NF-kappa B
+T9	Entity 226 234	tyrosine
+T10	Entity 318 326	tyrosine
+T11	Entity 541 544	CD3
+T12	Entity 585 593	tyrosine
+T13	Entity 672 675	CD3
+T14	Entity 785 793	tyrosine
+T15	Entity 840 848	tyrosine
+T16	Entity 979 982	CD3
+T17	Entity 1006 1009	CD3
+T18	Entity 1074 1084	NF-kappa B
+T19	Entity 1100 1103	CD3
+T20	Entity 1282 1290	tyrosine
+R1	Protein-Component Arg1:T7 Arg2:T20

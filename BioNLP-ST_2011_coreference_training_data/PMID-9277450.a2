@@ -1,0 +1,16 @@
+T3	Exp 0 20	Surfactant protein A
+T4	Exp 95 105	many genes	100 105	genes
+T5	Exp 110 115	which
+T6	Exp 238 263	surfactant protein (SP) A
+T7	Exp 475 479	SP-A
+T8	Exp 487 490	its
+T9	Exp 1099 1110	a mechanism
+T10	Exp 1114 1119	which
+T11	Exp 1195 1225	potential therapeutic measures	1217 1225	measures
+T12	Exp 1226 1230	that
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T6 Antecedent:T3	[T1]
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T8 Antecedent:T7
+R5	Coref Anaphora:T10 Antecedent:T9
+R6	Coref Anaphora:T12 Antecedent:T11

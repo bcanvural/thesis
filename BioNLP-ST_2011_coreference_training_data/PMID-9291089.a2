@@ -1,0 +1,8 @@
+T5	Exp 450 462	myelopoiesis
+T6	Exp 464 469	which
+T7	Exp 601 649	AML1/CBF beta, C/EBP, Ets, c-Myb, HOX, and MZF-1
+T8	Exp 658 671	these factors	664 671	factors
+T9	Exp 740 744	they
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7	[T1, T3, T2, T4]
+R3	Coref Anaphora:T9 Antecedent:T7	[T1, T3, T2, T4]

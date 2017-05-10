@@ -1,0 +1,49 @@
+T1	PolymeraseComplex 98 107	E sigma H
+T2	Gene 145 149	kinA
+T3	Gene 151 156	spo0F
+T4	Gene 162 167	spo0A
+T5	Promoter 168 184	promoter regions
+W1	Word 0 2	We
+W2	Word 3 11	directly
+W3	Word 12 18	tested
+W4	Word 19 23	this
+W5	Word 24 34	hypothesis
+W6	Word 35 37	by
+W7	Word 38 48	performing
+W8	Word 49 51	in
+W9	Word 52 57	vitro
+W10	Word 58 71	transcription
+W11	Word 72 78	assays
+W12	Word 79 83	with
+W13	Word 84 97	reconstituted
+W14	Word 98 107	E sigma H
+W15	Word 108 111	and
+W16	Word 112 113	a
+W17	Word 114 117	set
+W18	Word 118 120	of
+W19	Word 121 129	plasmids
+W20	Word 130 140	containing
+W21	Word 141 144	the
+W22	Word 145 149	kinA
+W23	Word 151 156	spo0F
+W24	Word 158 161	and
+W25	Word 162 167	spo0A
+W26	Word 168 176	promoter
+W27	Word 177 184	regions
+R1	obj:V-N W20 W27
+R2	comp:N-N(in) W10 W9
+R3	mod_att:N-N W26 W23
+R4	obj:V-N W3 W5
+R5	obj:V-N W7 W11
+R6	comp:N-N(with) W11 W14
+R7	comp:N-N(of) W17 W19
+R8	mod_att:N-N W11 W10
+R9	mod_att:N-N W26 W25
+R10	comp:N-N(with) W11 W17
+R11	comp:V-V(by) W3 W7
+R12	mod:V-ADV W3 W2
+R13	mod_att:N-ADJ W14 W13
+R14	mod_att:N-N W26 W22
+R15	subj:V-N W3 W1
+R16	subj:V-N W20 W19
+R17	mod_att:N-N W27 W26

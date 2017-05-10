@@ -1,0 +1,27 @@
+T11	Entity 57 79	nuclear factor kappa B
+T12	Entity 105 115	homodimers
+T13	Entity 452 460	TNF gene
+T14	Entity 879 901	nuclear factor kappa B
+T15	Entity 903 913	NF-kappa B
+T16	Entity 934 952	NF-kappa B complex
+T17	Entity 1071 1083	heterodimers
+T18	Entity 1118 1127	homodimer
+T19	Entity 1165 1175	homodimers
+T20	Entity 1311 1329	NF-kappa B complex
+T21	Entity 1391 1401	NF-kappa B
+T22	Entity 1449 1498	human immunodeficiency virus long terminal repeat
+T23	Entity 1506 1519	TNF 5'-region
+T24	Entity 1809 1819	NF-kappa B
+T25	Entity 1847 1857	homodimers
+T26	Entity 2008 2026	NF-kappa B complex
+R1	Subunit-Complex Arg1:T1 Arg2:T11
+R2	Subunit-Complex Arg1:T1 Arg2:T12
+R3	Subunit-Complex Arg1:T4 Arg2:T16
+R4	Subunit-Complex Arg1:T3 Arg2:T16
+R5	Subunit-Complex Arg1:T5 Arg2:T16
+R6	Subunit-Complex Arg1:T3 Arg2:T17
+R7	Subunit-Complex Arg1:T4 Arg2:T17
+R8	Subunit-Complex Arg1:T5 Arg2:T18
+R9	Subunit-Complex Arg1:T6 Arg2:T19
+R10	Subunit-Complex Arg1:T10 Arg2:T24
+R11	Subunit-Complex Arg1:T10 Arg2:T25

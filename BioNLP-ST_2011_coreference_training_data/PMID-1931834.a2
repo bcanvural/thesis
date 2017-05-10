@@ -1,0 +1,34 @@
+T11	Exp 231 271	the human T-cell lines Jurkat and MOLT 4	241 253	T-cell lines
+T12	Exp 273 278	which
+T13	Exp 308 323	MT-2 and TL-Mor
+T14	Exp 325 330	which
+T15	Exp 454 488	the 21-base-pair (bp) core element	476 488	core element
+T16	Exp 489 493	that
+T17	Exp 571 575	that
+T18	Exp 712 730	the 21-bp elements	722 730	elements
+T19	Exp 808 826	the 21-bp elements	818 826	elements
+T20	Exp 986 1005	the C26 subfragment	994 1005	subfragment
+T21	Exp 1041 1056	The C26 element	1049 1056	element
+T22	Exp 1127 1144	the 21-bp element	1137 1144	element
+T23	Exp 1145 1149	that
+T24	Exp 1154 1160	itself
+T25	Exp 1219 1234	the C26 element	1227 1234	element
+T26	Exp 1351 1366	the C26 element	1359 1366	element
+T27	Exp 1367 1373	itself
+T28	Exp 1566 1626	binding sites for at least CREB- and NF-kappa B-like factors	1566 1579	binding sites
+T29	Exp 1628 1633	which
+T30	Exp 1826 1841	the C26 element	1834 1841	element
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T17 Antecedent:T15
+R5	Coref Anaphora:T19 Antecedent:T18
+R6	Coref Anaphora:T21 Antecedent:T20
+R7	Coref Anaphora:T22 Antecedent:T19
+R8	Coref Anaphora:T23 Antecedent:T22
+R9	Coref Anaphora:T24 Antecedent:T22
+R10	Coref Anaphora:T25 Antecedent:T21
+R11	Coref Anaphora:T26 Antecedent:T25
+R12	Coref Anaphora:T27 Antecedent:T26
+R13	Coref Anaphora:T29 Antecedent:T28	[T9]
+R14	Coref Anaphora:T30 Antecedent:T26

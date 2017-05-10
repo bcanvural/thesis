@@ -1,0 +1,23 @@
+T4	Entity 34 59	ferritin heavy-chain gene
+T5	Entity 81 106	CCAAT binding factor NF-Y
+T6	Entity 236 244	promoter
+T7	Entity 588 598	hemoglobin
+T8	Entity 788 796	promoter
+T9	Entity 868 881	reporter gene
+T10	Entity 885 925	77 nucleotides upstream of the TATA box.
+T11	Entity 885 908	77 nucleotides upstream
+T12	Entity 916 924	TATA box
+T13	Entity 931 942	cis element
+T14	Entity 982 985	HRF
+T15	Entity 987 1009	heme-responsive factor
+T16	Entity 1119 1132	CCAAT element
+T17	Entity 1329 1332	HRF
+T18	Entity 1464 1467	HRF
+T19	Entity 1533 1537	NF-Y
+T20	Entity 1763 1767	NF-Y
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T2 Arg2:T10
+R3	Protein-Component Arg1:T2 Arg2:T11
+R4	Protein-Component Arg1:T2 Arg2:T12
+R5	Protein-Component Arg1:T2 Arg2:T8
+R6	Protein-Component Arg1:T3 Arg2:T16

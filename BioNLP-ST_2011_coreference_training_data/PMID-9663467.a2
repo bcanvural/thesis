@@ -1,0 +1,3 @@
+T18	Exp 0 14	Thrombopoietin
+T19	Exp 63 66	its
+R1	Coref Anaphora:T19 Antecedent:T18	[T1]

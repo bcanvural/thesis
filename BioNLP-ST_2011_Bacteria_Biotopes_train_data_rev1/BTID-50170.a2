@@ -1,0 +1,12 @@
+T1	Bacterium 0 18	Treponema pallidum
+T2	Bacterium 19 37	Treponema pallidum
+T3	Bacterium 54 72	Treponema pallidum
+T4	HostPart 325 329	body
+T5	Bacterium 772 783	T. pallidum
+T6	Host 799 804	human
+*	Equiv T1 T2
+*	Equiv T1 T3
+*	Equiv T1 T5
+E1	Localization Bacterium:T1 Localization:T6
+E2	Localization Bacterium:T1 Localization:T4
+E3	PartOf Host:T6 Part:T4

@@ -1,0 +1,28 @@
+T1	Gene 0 5	spoVD
+T2	Transcription 6 19	transcription
+T3	Promoter 44 52	promoter
+T4	PolymeraseComplex 71 101	sigma E form of RNA polymerase
+W1	Word 0 5	spoVD
+W2	Word 6 19	transcription
+W3	Word 20 27	appears
+W4	Word 28 30	to
+W5	Word 31 36	occur
+W6	Word 37 41	from
+W7	Word 42 43	a
+W8	Word 44 52	promoter
+W9	Word 53 63	recognized
+W10	Word 64 66	by
+W11	Word 67 70	the
+W12	Word 71 78	sigma E
+W13	Word 79 83	form
+W14	Word 84 86	of
+W15	Word 87 90	RNA
+W16	Word 91 101	polymerase
+R1	mod_att:N-N W16 W15
+R2	comp:N-N(of) W13 W16
+R3	comp:V_PASS-N(by) W9 W13
+R4	mod_att:N-N W2 W1
+R5	subj:V-N W5 W2
+R6	subj:V_PASS-N W9 W8
+R7	mod_att:N-N W13 W12
+R8	comp:V-N(from) W5 W8

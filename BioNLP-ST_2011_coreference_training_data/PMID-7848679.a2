@@ -1,0 +1,6 @@
+T5	Exp 518 544	the monocytic cell line U1	537 541	line
+T6	Exp 549 554	which
+T7	Exp 954 991	the p50-p56 heterodimer of NF-kappa B	966 977	heterodimer
+T8	Exp 992 996	that
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7	[T3, T4]

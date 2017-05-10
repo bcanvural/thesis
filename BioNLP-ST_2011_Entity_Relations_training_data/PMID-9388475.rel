@@ -1,0 +1,10 @@
+T10	Entity 464 491	conserved structural motifs
+T11	Entity 530 549	rel homology domain
+T12	Entity 555 575	NFAT homology domain
+T13	Entity 584 613	nuclear translocation signals
+T14	Entity 680 705	NFAT recognition sequence
+T15	Entity 763 771	promoter
+R1	Protein-Component Arg1:T2 Arg2:T11
+R2	Protein-Component Arg1:T2 Arg2:T10
+R3	Protein-Component Arg1:T5 Arg2:T14
+R4	Protein-Component Arg1:T6 Arg2:T15

@@ -1,0 +1,46 @@
+T1	Action 24 33	synthesis
+T2	Protein 37 44	sigma G
+T3	Transcription 69 82	transcription
+T4	Gene 92 98	spoIIG
+T5	Promoter 99 107	promoter
+T6	Protein 115 122	sigma G
+T7	Protein 123 129	itself
+T8	Protein 156 176	transcription factor
+W1	Word 0 5	These
+W2	Word 6 10	data
+W3	Word 11 18	suggest
+W4	Word 19 23	that
+W5	Word 24 33	synthesis
+W6	Word 34 36	of
+W7	Word 37 44	sigma G
+W8	Word 45 47	is
+W9	Word 48 57	dependent
+W10	Word 58 65	neither
+W11	Word 66 68	on
+W12	Word 69 82	transcription
+W13	Word 83 87	from
+W14	Word 88 91	the
+W15	Word 92 98	spoIIG
+W16	Word 99 107	promoter
+W17	Word 108 111	nor
+W18	Word 112 114	on
+W19	Word 115 122	sigma G
+W20	Word 123 129	itself
+W21	Word 130 133	but
+W22	Word 134 137	can
+W23	Word 138 140	be
+W24	Word 141 144	due
+W25	Word 145 147	to
+W26	Word 148 155	another
+W27	Word 156 169	transcription
+W28	Word 170 176	factor
+R1	mod_pred:N-ADJ W5 W24
+R2	comp:ADJ-N(to) W24 W28
+R3	comp:N-N(from) W12 W16
+R4	comp:ADJ-N(on) W9 W12
+R5	comp:N-N(of) W5 W7
+R6	mod_pred:N-ADJ W5 W9
+R7	mod_att:N-N W28 W27
+R8	mod_att:N-N W16 W15
+R9	comp:ADJ-N(on) W9 W19
+R10	subj:V-N W3 W2

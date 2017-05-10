@@ -1,0 +1,4 @@
+T10	Exp 48 77	the alpha2beta1 integrin gene	73 77	gene
+T11	Exp 1223 1264	a model of megakaryocytic differentiation	1225 1230	model
+T12	Exp 1268 1273	which
+R1	Coref Anaphora:T12 Antecedent:T11

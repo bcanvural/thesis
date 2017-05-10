@@ -1,0 +1,39 @@
+T1	Transcription 0 13	Transcription
+T2	Gene 17 21	ydhD
+T3	Protein 39 43	SigE
+T4	GeneProduct 53 57	mRNA
+W1	Word 0 13	Transcription
+W2	Word 14 16	of
+W3	Word 17 21	ydhD
+W4	Word 22 25	was
+W5	Word 26 35	dependent
+W6	Word 36 38	on
+W7	Word 39 43	SigE
+W8	Word 45 48	and
+W9	Word 49 52	the
+W10	Word 53 57	mRNA
+W11	Word 58 61	was
+W12	Word 62 72	detectable
+W13	Word 73 77	from
+W14	Word 78 79	2
+W15	Word 80 81	h
+W16	Word 82 87	after
+W17	Word 88 91	the
+W18	Word 92 101	cessation
+W19	Word 102 104	of
+W20	Word 105 116	logarithmic
+W21	Word 117 123	growth
+W22	Word 125 127	T2
+W23	Word 128 130	of
+W24	Word 131 142	sporulation
+R1	comp:ADJ-N(on) W5 W7
+R2	comp:N-N(of) W18 W21
+R3	comp:N-N(of) W1 W3
+R4	comp:N-N(of) W22 W24
+R5	comp:ADJ-N(from) W12 W15
+R6	appos W21 W22
+R7	mod_pred:N-ADJ W1 W5
+R8	comp:N-N(after) W15 W18
+R9	mod_pred:N-ADJ W10 W12
+R10	mod_att:N-ADJ W21 W20
+R11	mod_att:N-ADJ W15 W14

@@ -1,0 +1,9 @@
+T13	Exp 111 150	glucocorticoid receptor (GR) expression
+T14	Exp 154 157	its
+T15	Exp 961 998	glucocorticoid-resistant CEM-C1 cells	993 998	cells
+T16	Exp 1000 1005	which
+T17	Exp 1422 1442	a half-life of 2.5 h	1424 1433	half-life
+T18	Exp 1444 1449	which
+R1	Coref Anaphora:T14 Antecedent:T13	[T3, T2]
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17

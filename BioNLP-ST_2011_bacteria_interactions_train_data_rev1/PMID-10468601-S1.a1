@@ -1,0 +1,78 @@
+T1	Gene 4 8	rocG
+T2	ProteinFamily 47 80	catabolic glutamate dehydrogenase
+T3	Transcription 85 96	transcribed
+T4	PolymeraseComplex 100 130	SigL-containing RNA polymerase
+T5	Gene 148 151	its
+T6	Expression 152 162	expression
+T7	Protein 163 167	RocR
+T8	ProteinFamily 185 194	NtrC/NifA
+T9	Site 227 249	enhancer-like elements
+T10	Site 258 287	upstream activating sequences
+T11	Site 289 292	UAS
+W1	Word 0 3	The
+W2	Word 4 8	rocG
+W3	Word 9 13	gene
+W4	Word 14 16	of
+W5	Word 17 34	Bacillus subtilis
+W6	Word 36 44	encoding
+W7	Word 45 46	a
+W8	Word 47 56	catabolic
+W9	Word 57 66	glutamate
+W10	Word 67 80	dehydrogenase
+W11	Word 82 84	is
+W12	Word 85 96	transcribed
+W13	Word 97 99	by
+W14	Word 100 104	SigL
+W15	Word 105 115	containing
+W16	Word 116 119	RNA
+W17	Word 120 130	polymerase
+W18	Word 131 134	and
+W19	Word 135 143	requires
+W20	Word 144 147	for
+W21	Word 148 151	its
+W22	Word 152 162	expression
+W23	Word 163 167	RocR
+W24	Word 169 170	a
+W25	Word 171 177	member
+W26	Word 178 180	of
+W27	Word 181 184	the
+W28	Word 185 194	NtrC/NifA
+W29	Word 195 201	family
+W30	Word 202 204	of
+W31	Word 205 213	proteins
+W32	Word 214 218	that
+W33	Word 219 223	bind
+W34	Word 224 226	to
+W35	Word 227 240	enhancer-like
+W36	Word 241 249	elements
+W37	Word 251 257	called
+W38	Word 258 266	upstream
+W39	Word 267 277	activating
+W40	Word 278 287	sequences
+W41	Word 289 292	UAS
+R1	mod_att:N-ADJ W40 W38
+R2	subj:V-N W33 W31
+R3	mod_att:N-ADJ W17 W15
+R4	comp:V_PASS-N(by) W12 W17
+R5	mod_att:N-ADJ W36 W35
+R6	mod_att:N-N W3 W2
+R7	obj:V-N W6 W10
+R8	comp:N-N(of) W29 W31
+R9	comp:V-N(to) W33 W36
+R10	appos W40 W41
+R11	mod:ADJ-N W15 W14
+R12	comp:V-N(for) W19 W22
+R13	mod_att:N-N W17 W16
+R14	comp:N-N(of) W25 W29
+R15	mod_att:N-ADJ W9 W8
+R16	subj:V-N W6 W3
+R17	subj:V_PASS-N W12 W3
+R18	comp:N-N(of) W3 W5
+R19	obj:V-N W19 W23
+R20	appos W23 W25
+R21	mod_att:N-N W29 W28
+R22	obj:V_PASS-N W37 W40
+R23	subj:V-N W19 W3
+R24	mod_att:N-N W10 W9
+R25	subj:V_PASS-N W37 W36
+R26	mod_att:N-ADJ W40 W39

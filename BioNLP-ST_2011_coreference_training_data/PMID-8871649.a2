@@ -1,0 +1,3 @@
+T15	Exp 1265 1326	the three cis-acting elements in the perforin gene expression	1286 1294	elements
+T16	Exp 1533 1571	the three proximal cis-acting elements	1563 1571	elements
+R1	Coref Anaphora:T16 Antecedent:T15	[T12]

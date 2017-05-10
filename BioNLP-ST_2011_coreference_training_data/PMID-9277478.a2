@@ -1,0 +1,3 @@
+T19	Exp 323 345	alpha-tocopherol (TCP)
+T20	Exp 350 353	its
+R1	Coref Anaphora:T20 Antecedent:T19

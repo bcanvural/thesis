@@ -1,0 +1,37 @@
+T1	Protein 0 4	YhdN
+T2	ProteinFamily 32 62	potassium ion channel proteins
+T3	Protein 67 71	YocK
+T4	Protein 97 101	DnaK
+T5	Protein 121 125	DksA
+W1	Word 0 4	YhdN
+W2	Word 5 10	shows
+W3	Word 11 15	weak
+W4	Word 16 28	similarities
+W5	Word 29 31	to
+W6	Word 32 41	potassium
+W7	Word 42 45	ion
+W8	Word 46 53	channel
+W9	Word 54 62	proteins
+W10	Word 63 66	and
+W11	Word 67 71	YocK
+W12	Word 72 77	shows
+W13	Word 78 89	resemblance
+W14	Word 90 92	to
+W15	Word 93 96	the
+W16	Word 97 101	DnaK
+W17	Word 102 112	suppressor
+W18	Word 113 120	protein
+W19	Word 121 125	DksA
+R1	mod_att:N-ADJ W4 W3
+R2	subj:V-N W12 W11
+R3	comp:N-N(to) W13 W19
+R4	mod_att:N-N W17 W16
+R5	mod_att:N-N W8 W7
+R6	mod_att:N-N W9 W8
+R7	comp:N-N(to) W4 W9
+R8	obj:V-N W12 W13
+R9	subj:V-N W2 W1
+R10	mod_att:N-N W19 W18
+R11	mod_att:N-N W18 W17
+R12	obj:V-N W2 W4
+R13	mod_att:N-N W7 W6

@@ -1,0 +1,9 @@
+T18	Exp 182 196	the hypothesis
+T19	Exp 197 201	that
+T20	Exp 326 343	several NO donors	337 343	donors
+T21	Exp 357 362	their
+T22	Exp 1532 1536	NO's
+T23	Exp 1633 1636	its
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22

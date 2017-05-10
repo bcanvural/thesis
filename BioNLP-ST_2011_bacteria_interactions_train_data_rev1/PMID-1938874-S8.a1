@@ -1,0 +1,59 @@
+T1	Gene 32 39	spoIIAB
+T2	GeneProduct 113 131	product of spoIIAB
+T3	Protein 204 211	sigma F
+T4	Protein 217 224	sigma G
+T5	Transcription 234 247	transcription
+W1	Word 0 5	These
+W2	Word 6 18	observations
+W3	Word 19 26	confirm
+W4	Word 27 31	that
+W5	Word 32 39	spoIIAB
+W6	Word 40 42	is
+W7	Word 43 52	essential
+W8	Word 53 56	for
+W9	Word 57 68	sporulation
+W10	Word 69 72	and
+W11	Word 73 76	are
+W12	Word 77 87	consistent
+W13	Word 88 92	with
+W14	Word 93 99	models
+W15	Word 100 102	in
+W16	Word 103 108	which
+W17	Word 109 112	the
+W18	Word 113 120	product
+W19	Word 121 123	of
+W20	Word 124 131	spoIIAB
+W21	Word 132 137	plays
+W22	Word 138 139	a
+W23	Word 140 144	role
+W24	Word 145 147	in
+W25	Word 148 158	regulating
+W26	Word 159 162	the
+W27	Word 163 169	timing
+W28	Word 170 176	and/or
+W29	Word 177 188	compartment
+W30	Word 189 200	specificity
+W31	Word 201 203	of
+W32	Word 204 211	sigma F
+W33	Word 213 216	and
+W34	Word 217 224	sigma G
+W35	Word 225 233	directed
+W36	Word 234 247	transcription
+R1	comp:N-N(of) W30 W36
+R2	comp:ADJ-N(with) W12 W14
+R3	mod:ADJ-N W35 W34
+R4	comp:N-N(of) W18 W20
+R5	obj:V-N W25 W30
+R6	comp:N-V(in) W23 W25
+R7	obj:V-N W21 W23
+R8	mod_att:N-N W30 W29
+R9	comp:ADJ-N(for) W7 W9
+R10	mod_pred:N-ADJ W2 W12
+R11	comp:V-N(in) W21 W14
+R12	subj:V-N W3 W2
+R13	subj:V-N W21 W18
+R14	comp:N-N(of) W27 W36
+R15	mod_pred:N-ADJ W5 W7
+R16	mod:ADJ-N W35 W32
+R17	obj:V-N W25 W27
+R18	mod_att:N-ADJ W36 W35

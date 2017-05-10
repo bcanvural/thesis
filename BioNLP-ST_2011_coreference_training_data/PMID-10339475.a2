@@ -1,0 +1,9 @@
+T25	Exp 219 279	genes encoding endothelial adhesion molecules and chemokines	219 224	genes
+T26	Exp 280 284	that
+T27	Exp 1635 1655	rolling of monocytes	1635 1642	rolling
+T28	Exp 1744 1746	it
+T29	Exp 1839 1853	novel evidence	1845 1853	evidence
+T30	Exp 1854 1858	that
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29

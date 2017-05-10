@@ -1,0 +1,6 @@
+T8	Exp 91 142	MNDA (myeloid cell nuclear differentiation antigen)
+T9	Exp 379 387	the gene
+T10	Exp 875 892	promoter activity	884 892	activity
+T11	Exp 893 898	which
+R1	Coref Anaphora:T9 Antecedent:T8	[T1, T2]
+R2	Coref Anaphora:T11 Antecedent:T10

@@ -1,0 +1,24 @@
+T12	Exp 230 262	a number of early-response genes	232 238	number
+T13	Exp 278 283	those
+T14	Exp 547 589	members of the NF-kappaB and STAT families	547 554	members
+T15	Exp 630 657	these transcription factors	636 657	transcription factors
+T16	Exp 681 703	stimulatory conditions	693 703	conditions
+T17	Exp 704 709	which
+T18	Exp 876 898	proteolytic activities	888 898	activities
+T19	Exp 899 903	that
+T20	Exp 1065 1089	an alternative procedure	1080 1089	procedure
+T21	Exp 1090 1095	which
+T22	Exp 1160 1192	a NF-kappaB DNA-binding activity	1184 1192	activity
+T23	Exp 1193 1198	which
+T24	Exp 1550 1560	mechanisms
+T25	Exp 1561 1565	that
+T26	Exp 1690 1706	other cell types	1701 1706	types
+T27	Exp 1707 1711	that
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T19 Antecedent:T18
+R5	Coref Anaphora:T21 Antecedent:T20
+R6	Coref Anaphora:T23 Antecedent:T22
+R7	Coref Anaphora:T25 Antecedent:T24
+R8	Coref Anaphora:T27 Antecedent:T26

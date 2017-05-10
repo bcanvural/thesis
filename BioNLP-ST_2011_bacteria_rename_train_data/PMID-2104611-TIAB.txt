@@ -1,0 +1,2 @@
+Isolation and characterization of mutations in the gene encoding an endogenous Bacillus subtilis beta-galactosidase and its regulator.
+We have isolated mutations that appear to inactivate the gene (lacA) encoding an endogenous beta-galactosidase activity in Bacillus subtilis and in a closely linked negative regulatory element (lacR). Both genes map to the hisA-thrA region. The lacA mutations may help to avoid some of the problems arising from the use of the Escherichia coli lacZ gene as a reporter gene in B. subtilis.

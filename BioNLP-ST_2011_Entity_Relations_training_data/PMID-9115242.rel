@@ -1,0 +1,16 @@
+*	Equiv T8 T9
+T13	Entity 104 108	AP-1
+T14	Entity 136 140	site
+T15	Entity 183 192	AP-1 site
+T16	Entity 199 222	distal promoter element
+T17	Entity 411 419	promoter
+T18	Entity 689 708	mutant AP-1 element
+T19	Entity 765 773	promoter
+T20	Entity 784 788	AP-1
+T21	Entity 835 839	AP-1
+T22	Entity 1143 1168	distal promoter sequences
+T23	Entity 1349 1361	binding site
+T24	Entity 1370 1385	-2010 and -1954
+T25	Entity 1486 1505	regulatory elements
+R1	Protein-Component Arg1:T5 Arg2:T17
+R2	Protein-Component Arg1:T6 Arg2:T19

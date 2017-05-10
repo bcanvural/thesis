@@ -1,0 +1,23 @@
+T15	Exp 75 80	TRAF2
+T16	Exp 84 121	a signal transducing adaptor molecule	113 121	molecule
+T17	Exp 122 127	which
+T18	Exp 185 187	it
+T19	Exp 331 351	the signaling events	345 351	events
+T20	Exp 352 356	that
+T21	Exp 374 379	TRAF2
+T22	Exp 495 516	the wild-type protein	509 516	protein
+T23	Exp 561 566	TRAF2
+T24	Exp 609 620	the protein
+T25	Exp 654 670	our observations	658 670	observations
+T26	Exp 671 675	that
+T27	Exp 765 769	that
+T28	Exp 881 909	the phosphorylation of TRAF2	885 900	phosphorylation
+T29	Exp 983 986	its
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T18 Antecedent:T15	[T3]
+R3	Coref Anaphora:T20 Antecedent:T19
+R4	Coref Anaphora:T22 Antecedent:T21	[T5]
+R5	Coref Anaphora:T24 Antecedent:T23	[T6]
+R6	Coref Anaphora:T26 Antecedent:T25
+R7	Coref Anaphora:T27 Antecedent:T25
+R8	Coref Anaphora:T29 Antecedent:T28	[T12]

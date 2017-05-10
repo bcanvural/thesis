@@ -1,0 +1,26 @@
+T1	Gene 59 63	yfhS
+T2	Transcription 67 78	transcribed
+T3	PolymeraseComplex 82 91	E sigma E
+W1	Word 0 8	Northern
+W2	Word 9 13	blot
+W3	Word 14 17	and
+W4	Word 18 24	primer
+W5	Word 25 34	extension
+W6	Word 35 43	analyses
+W7	Word 44 53	indicated
+W8	Word 54 58	that
+W9	Word 59 63	yfhS
+W10	Word 64 66	is
+W11	Word 67 78	transcribed
+W12	Word 79 81	by
+W13	Word 82 91	E sigma E
+W14	Word 92 98	during
+W15	Word 99 110	sporulation
+R1	subj:V-N W7 W6
+R2	comp:V_PASS-N(by) W11 W13
+R3	mod_att:N-N W6 W5
+R4	mod_att:N-N W6 W2
+R5	mod_att:N-N W5 W4
+R6	mod_att:N-N W2 W1
+R7	comp:V_PASS-N(during) W11 W15
+R8	subj:V_PASS-N W11 W9

@@ -1,0 +1,12 @@
+T17	Exp 333 358	the transcription factors	337 358	transcription factors
+T18	Exp 359 364	which
+T19	Exp 499 510	the factors
+T20	Exp 511 516	which
+T21	Exp 744 773	the few transcription factors	752 773	transcription factors
+T22	Exp 774 779	which
+T23	Exp 1182 1204	Mutations in this site	1182 1191	Mutations
+T24	Exp 1205 1210	which
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19
+R3	Coref Anaphora:T22 Antecedent:T21
+R4	Coref Anaphora:T24 Antecedent:T23

@@ -1,0 +1,50 @@
+T1	Action 0 24	Cell-specific activation
+T2	Protein 49 55	sigmaF
+T3	Action 147 155	activity
+T4	Protein 161 179	serine phosphatase
+T5	Protein 181 187	SpoIIE
+W1	Word 0 13	Cell-specific
+W2	Word 14 24	activation
+W3	Word 25 27	of
+W4	Word 28 41	transcription
+W5	Word 42 48	factor
+W6	Word 49 55	sigmaF
+W7	Word 56 62	during
+W8	Word 63 74	sporulation
+W9	Word 75 77	in
+W10	Word 78 95	Bacillus subtilis
+W11	Word 96 104	requires
+W12	Word 105 108	the
+W13	Word 109 118	formation
+W14	Word 119 121	of
+W15	Word 122 125	the
+W16	Word 126 131	polar
+W17	Word 132 138	septum
+W18	Word 139 142	and
+W19	Word 143 146	the
+W20	Word 147 155	activity
+W21	Word 156 158	of
+W22	Word 159 160	a
+W23	Word 161 167	serine
+W24	Word 168 179	phosphatase
+W25	Word 181 187	SpoIIE
+W26	Word 189 196	located
+W27	Word 197 199	in
+W28	Word 200 203	the
+W29	Word 204 210	septum
+R1	comp:N-N(of) W13 W17
+R2	mod_att:N-N W5 W4
+R3	mod_att:N-N W6 W5
+R4	obj:V-N W11 W20
+R5	subj:V-N W11 W2
+R6	subj:V_PASS-N W26 W24
+R7	mod_att:N-ADJ W17 W16
+R8	appos W24 W25
+R9	mod_att:N-N W24 W23
+R10	comp:N-N(of) W20 W24
+R11	obj:V-N W11 W13
+R12	comp:N-N(of) W2 W6
+R13	comp:V_PASS-N(in) W26 W29
+R14	comp:N-N(during) W2 W8
+R15	mod_att:N-ADJ W2 W1
+R16	comp:N-N(in) W8 W10

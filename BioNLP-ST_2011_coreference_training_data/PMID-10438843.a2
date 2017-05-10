@@ -1,0 +1,9 @@
+T25	Exp 1037 1052	the observation
+T26	Exp 1053 1057	that
+T27	Exp 1075 1123	the intermediate CD4(+) CD8(-) CD3(-) thymocytes	1113 1123	thymocytes
+T28	Exp 1200 1205	their
+T29	Exp 1559 1617	the double-positive (DP) CD4(+) CD8(+) CD3(+/-) thymocytes	1607 1617	thymocytes
+T30	Exp 1715 1719	they
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T15]
+R3	Coref Anaphora:T30 Antecedent:T29	[T19]

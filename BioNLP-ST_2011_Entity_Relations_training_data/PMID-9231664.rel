@@ -1,0 +1,8 @@
+T19	Entity 155 173	The genes encoding
+T20	Entity 333 369	liver-enriched transcription factors
+T21	Entity 955 979	simple tandem repeat DNA
+T22	Entity 1089 1105	chromosome bands
+T23	Entity 1106 1118	15q21.1-21.2
+R1	Protein-Component Arg1:T14 Arg2:T21
+R2	Protein-Component Arg1:T15 Arg2:T21
+R3	Protein-Component Arg1:T13 Arg2:T21

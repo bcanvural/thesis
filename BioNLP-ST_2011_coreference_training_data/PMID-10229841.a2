@@ -1,0 +1,9 @@
+T8	Exp 18 47	the lymphotoxin-beta receptor	39 47	receptor
+T9	Exp 436 466	the TNF receptor family member	460 466	member
+T10	Exp 618 664	the distinct LT-betaR and TNF receptor systems	657 664	systems
+T11	Exp 695 700	their
+T12	Exp 794 837	membrane-bound TNF-alpha and LT-alpha1beta2
+T13	Exp 867 872	their
+R1	Coref Anaphora:T9 Antecedent:T8	[T1]
+R2	Coref Anaphora:T11 Antecedent:T10	[T6]
+R3	Coref Anaphora:T13 Antecedent:T12	[T7]

@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+T7	Entity 2 26	T cell-specific enhancer
+T8	Entity 48 53	locus
+T9	Entity 97 105	elements
+T10	Entity 115 142	DNase I-hypersensitive site
+T11	Entity 262 286	T cell-specific enhancer
+T12	Entity 396 404	enhancer
+T13	Entity 426 477	cyclosporin A-sensitive DNase I-hypersensitive site
+T14	Entity 450 477	DNase I-hypersensitive site
+T15	Entity 506 524	NFAT-like elements
+T16	Entity 572 590	NFAT-like elements
+T17	Entity 625 652	DNase I-hypersensitive site
+T18	Entity 667 685	NFAT-like elements
+T19	Entity 727 740	binding sites
+R1	Protein-Component Arg1:T1 Arg2:T7
+R2	Protein-Component Arg1:T4 Arg2:T11
+R3	Protein-Component Arg1:T5 Arg2:T14
+R4	Protein-Component Arg1:T5 Arg2:T13
+R5	Protein-Component Arg1:T5 Arg2:T12

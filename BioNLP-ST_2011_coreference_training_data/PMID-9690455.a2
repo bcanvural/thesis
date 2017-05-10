@@ -1,0 +1,12 @@
+T16	Exp 381 429	a genetically modified variant (designated D5G6)	404 411	variant
+T17	Exp 430 434	that
+T18	Exp 1239 1297	the levels of p56lck, p59fyn, and tyrosine kinase activity	1243 1249	levels
+T19	Exp 1313 1330	activated T cells	1325 1330	cells
+T20	Exp 1344 1346	LN
+T21	Exp 1347 1351	that
+T22	Exp 1370 1374	they
+T23	Exp 1383 1388	those
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T22 Antecedent:T18	[T12, T13]
+R4	Coref Anaphora:T23 Antecedent:T19

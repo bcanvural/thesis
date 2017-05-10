@@ -1,0 +1,22 @@
+T5	Exp 402 428	One of the latter elements	420 428	elements
+T6	Exp 482 484	it
+T7	Exp 614 616	it
+T8	Exp 628 656	a locus control region (LCR)	644 650	region
+T9	Exp 657 661	that
+T10	Exp 769 771	it
+T11	Exp 795 809	the mechanisms
+T12	Exp 810 814	that
+T13	Exp 989 1019	mouse MPC11 plasmacytoma cells	1014 1019	cells
+T14	Exp 1024 1029	which
+T15	Exp 1302 1398	binding of several B cell-specific transcription factors, essential for IgH 3' enhancer activity	1302 1309	binding
+T16	Exp 1412 1417	which
+T17	Exp 1750 1814	a multifactorial process affecting several transcription factors	1767 1774	process
+T18	Exp 1815 1819	that
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T7 Antecedent:T5
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T10 Antecedent:T5
+R5	Coref Anaphora:T12 Antecedent:T11
+R6	Coref Anaphora:T14 Antecedent:T13
+R7	Coref Anaphora:T16 Antecedent:T15
+R8	Coref Anaphora:T18 Antecedent:T17

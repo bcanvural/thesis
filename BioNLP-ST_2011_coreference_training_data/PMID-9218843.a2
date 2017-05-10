@@ -1,0 +1,9 @@
+T15	Exp 747 760	T cell clones	754 760	clones
+T16	Exp 903 911	the fact
+T17	Exp 912 916	that
+T18	Exp 953 958	those
+T19	Exp 1479 1493	other pathways	1485 1493	pathways
+T20	Exp 1499 1503	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T18 Antecedent:T15
+R3	Coref Anaphora:T20 Antecedent:T19

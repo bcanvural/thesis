@@ -1,0 +1,9 @@
+T20	Exp 213 257	a lymphoid-specific Ets transcription factor	237 257	transcription factor
+T21	Exp 258 262	that
+T22	Exp 380 396	a sequence motif
+T23	Exp 397 401	that
+T24	Exp 854 874	the release of Elf-1	858 865	release
+T25	Exp 876 881	which
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24	[T15]

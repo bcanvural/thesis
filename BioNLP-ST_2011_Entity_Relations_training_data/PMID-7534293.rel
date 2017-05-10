@@ -1,0 +1,14 @@
+*	Equiv T4 T5
+T15	Entity 365 393	human UDG promoter sequences
+T16	Entity 438 446	promoter
+T17	Entity 463 472	E2F sites
+T18	Entity 478 508	major putative downstream site
+T19	Entity 533 543	first exon
+T20	Entity 578 585	complex
+T21	Entity 841 889	elements specific for E2F-mediated transcription
+T22	Entity 841 849	elements
+R1	Protein-Component Arg1:T8 Arg2:T17
+R2	Protein-Component Arg1:T6 Arg2:T15
+R3	Protein-Component Arg1:T8 Arg2:T16
+R4	Subunit-Complex Arg1:T9 Arg2:T20
+R5	Subunit-Complex Arg1:T10 Arg2:T20

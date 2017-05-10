@@ -1,0 +1,9 @@
+T20	Exp 461 465	MNDA
+T21	Exp 534 559	A 1-kb region of the gene	541 547	region
+T22	Exp 551 559	the gene
+T23	Exp 560 564	that
+T24	Exp 1274 1301	a short region (-73 to -16)	1282 1288	region
+T25	Exp 1302 1306	that
+R1	Coref Anaphora:T22 Antecedent:T20	[T7]
+R2	Coref Anaphora:T23 Antecedent:T21
+R3	Coref Anaphora:T25 Antecedent:T24

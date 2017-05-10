@@ -1,0 +1,2 @@
+Soj antagonizes Spo0A activation of transcription in Bacillus subtilis.
+The ParA family protein Soj appears to negatively regulate sporulation in Bacillus subtilis by inhibiting transcription from promoters that are activated by phosphorylated Spo0A. We tested in vitro Soj inhibition of Spo0A-independent variants of a promoter that Soj inhibited (PspoIIG). Transcription from the variants was less sensitive to Soj inhibition, suggesting that inhibition of wild-type PspoIIG was linked to transcription activation by Spo0A.

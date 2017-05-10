@@ -1,0 +1,6 @@
+T1	Exp 568 593	cell-free synthesized hGR	590 593	hGR
+T2	Exp 810 840	these glucocorticoid receptors	831 840	receptors
+T3	Exp 1228 1239	DNA binding	1232 1239	binding
+T4	Exp 1269 1273	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

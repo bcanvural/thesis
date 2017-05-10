@@ -1,0 +1,31 @@
+T4	Exp 0 8	A factor	2 8	factor
+T5	Exp 9 13	that
+T6	Exp 94 129	a subfamily of zinc finger proteins	96 105	subfamily
+T7	Exp 130 134	that
+T8	Exp 225 238	the J element	231 238	element
+T9	Exp 360 372	this element	365 372	element
+T10	Exp 377 380	its
+T11	Exp 557 575	Several DNA clones	569 575	clones
+T12	Exp 616 621	which
+T13	Exp 623 631	clone 18
+T14	Exp 669 671	It
+T15	Exp 746 809	11 zinc finger motifs of the C2H2 type in the C-terminal region	761 767	motifs
+T16	Exp 811 815	that
+T17	Exp 889 893	them
+T18	Exp 1433 1441	clone 18
+T19	Exp 1446 1449	its
+T20	Exp 1496 1521	both the S and J elements	1513 1521	elements
+T21	Exp 1523 1528	which
+T22	Exp 1628 1676	a reporter construct containing the DPA promoter	1639 1648	construct
+T23	Exp 1689 1692	its
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T10 Antecedent:T9
+R5	Coref Anaphora:T12 Antecedent:T11
+R6	Coref Anaphora:T14 Antecedent:T13
+R7	Coref Anaphora:T16 Antecedent:T15
+R8	Coref Anaphora:T17 Antecedent:T15
+R9	Coref Anaphora:T19 Antecedent:T18
+R10	Coref Anaphora:T21 Antecedent:T20
+R11	Coref Anaphora:T23 Antecedent:T22	[T3]

@@ -1,0 +1,4 @@
+E1	Interaction Agent:T1 Target:T3
+E2	ActionTarget Action:T2 Target:T3
+E3	Interaction Agent:T4 Target:T6
+E4	ActionTarget Action:T5 Target:T6

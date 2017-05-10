@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+T9	Entity 573 604	platelet cytoadhesin GPIIb-IIIa
+T10	Entity 781 799	5'-flanking region
+T11	Entity 901 936	fragment extending from -643 to +33
+T12	Entity 925 936	-643 to +33
+T13	Entity 1268 1281	-binding site
+T14	Entity 1332 1343	CCAAT motif
+T15	Entity 1349 1368	domains centered at
+T16	Entity 1369 1383	positions -345
+T17	Entity 1388 1392	-540
+T18	Entity 1413 1421	proteins
+T19	Entity 1512 1531	domains, located at
+T20	Entity 1532 1546	positions -460
+T21	Entity 1551 1555	-510
+T22	Entity 1571 1579	proteins
+T23	Entity 1733 1741	promoter
+R1	Subunit-Complex Arg1:T5 Arg2:T9
+R2	Subunit-Complex Arg1:T4 Arg2:T9
+R3	Protein-Component Arg1:T6 Arg2:T10

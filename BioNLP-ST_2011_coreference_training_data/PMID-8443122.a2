@@ -1,0 +1,3 @@
+T11	Exp 730 790	three zinc fingers of the C2H2-type at the carboxyl-terminus	736 748	zinc fingers
+T12	Exp 791 796	which
+R1	Coref Anaphora:T12 Antecedent:T11

@@ -1,0 +1,20 @@
+T4	Entity 427 485	constitutive viral enhancer in the U3 region of the 3' LTR
+T5	Entity 427 454	constitutive viral enhancer
+T6	Entity 462 471	U3 region
+T7	Entity 479 485	3' LTR
+T8	Entity 504 586	autoregulatory enhancer of the erythroid-specific GATA-1 transcription factor gene
+T9	Entity 504 527	autoregulatory enhancer
+T10	Entity 561 586	transcription factor gene
+T11	Entity 592 609	replaced enhancer
+T12	Entity 631 637	5' LTR
+T13	Entity 664 682	target cell genome
+T14	Entity 888 902	reporter genes
+T15	Entity 904 920	triangle upLNGFR
+T16	Entity 1143 1166	autoregulatory enhancer
+T17	Entity 1211 1249	LTR-driven proviral transcription unit
+T18	Entity 1392 1405	target genome
+T19	Entity 1472 1475	LTR
+T20	Entity 1490 1498	Enhancer
+T21	Entity 1572 1592	retroviral transgene
+R1	Protein-Component Arg1:T1 Arg2:T8
+R2	Protein-Component Arg1:T3 Arg2:T16

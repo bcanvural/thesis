@@ -1,0 +1,9 @@
+T16	Exp 144 203	several low molecular weight transmembrane adaptor proteins	195 203	proteins
+T17	Exp 204 208	that
+T18	Exp 452 495	a disulfide-linked homodimeric glycoprotein	483 495	glycoprotein
+T19	Exp 496 500	that
+T20	Exp 913 932	signaling processes	923 932	processes
+T21	Exp 933 937	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20

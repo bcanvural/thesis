@@ -1,0 +1,5 @@
+T8	Entity 196 204	tyrosine
+T9	Entity 537 545	tyrosine
+T10	Entity 580 593	reporter gene
+T11	Entity 841 854	reporter gene
+R1	Protein-Component Arg1:T4 Arg2:T9

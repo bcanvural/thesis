@@ -1,0 +1,28 @@
+T1	Promoter 4 12	promoter
+T2	GeneComplex 21 27	operon
+T3	PolymeraseComplex 45 103	RNA polymerase containing the sigma 54-like factor sigma L
+W1	Word 0 3	The
+W2	Word 4 12	promoter
+W3	Word 13 15	of
+W4	Word 16 20	this
+W5	Word 21 27	operon
+W6	Word 28 30	is
+W7	Word 31 41	recognized
+W8	Word 42 44	by
+W9	Word 45 48	RNA
+W10	Word 49 59	polymerase
+W11	Word 60 70	containing
+W12	Word 71 74	the
+W13	Word 75 83	sigma 54
+W14	Word 84 88	like
+W15	Word 89 95	factor
+W16	Word 96 103	sigma L
+R1	comp:V_PASS-N(by) W7 W10
+R2	comp:N-N(of) W2 W5
+R3	mod_att:N-ADJ W15 W14
+R4	subj:V_PASS-N W7 W2
+R5	mod_att:N-N W10 W9
+R6	mod_att:N-N W16 W15
+R7	obj:V-N W11 W16
+R8	subj:V-N W11 W10
+R9	mod:ADJ-N W14 W13

@@ -1,0 +1,5 @@
+E1	Interaction Agent:T3 Target:T4
+E2	TranscriptionBy Transcription:T1 Polymerase:T2
+E3	PromoterOf Agent:T5 Target:T4
+E4	TranscriptionFrom Process:T1 Promoter:T5
+E5	PromoterDependence Agent:T5 Target:T3

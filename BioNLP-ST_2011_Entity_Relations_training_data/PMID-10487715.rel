@@ -1,0 +1,12 @@
+T2	Entity 44 61	nuclear NF-kappaB
+T3	Entity 52 61	NF-kappaB
+T4	Entity 319 328	NF-kappaB
+T5	Entity 375 396	proinflammatory genes
+T6	Entity 540 549	NF-kappaB
+T7	Entity 1035 1044	NF-kappaB
+T8	Entity 1217 1226	NF-kappaB
+T9	Entity 1455 1464	NF-kappaB
+T10	Entity 1681 1690	NF-kappaB
+T11	Entity 1767 1776	NF-kappaB
+T12	Entity 1828 1849	proinflammatory genes
+R1	Subunit-Complex Arg1:T1 Arg2:T8

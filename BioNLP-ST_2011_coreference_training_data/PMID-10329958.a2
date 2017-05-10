@@ -1,0 +1,5 @@
+T8	Exp 354 368	the hypothesis
+T9	Exp 369 373	that
+T10	Exp 569 573	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T10 Antecedent:T8

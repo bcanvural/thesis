@@ -1,0 +1,9 @@
+T14	Exp 386 397	a mechanism
+T15	Exp 398 402	that
+T16	Exp 1032 1045	increased RNA
+T17	Exp 1078 1081	its
+T18	Exp 1747 1761	a useful model
+T19	Exp 1767 1772	which
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18

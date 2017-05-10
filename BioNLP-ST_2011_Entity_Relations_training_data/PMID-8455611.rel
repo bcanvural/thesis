@@ -1,0 +1,54 @@
+T15	Entity 50 58	promoter
+T16	Entity 79 97	regulatory element
+T17	Entity 99 104	HS-40
+T18	Entity 135 163	nuclear factor-DNA complexes
+T19	Entity 242 250	promoter
+T20	Entity 272 290	regulatory element
+T21	Entity 292 297	HS-40
+T22	Entity 307 321	40 kb upstream
+T23	Entity 397 402	HS-40
+T24	Entity 427 435	enhancer
+T25	Entity 465 473	promoter
+T26	Entity 564 602	sequences located between -559 and -88
+T27	Entity 668 689	enhancerless plasmids
+T28	Entity 718 732	HS-40 enhancer
+T29	Entity 772 780	promoter
+T30	Entity 831 845	HS-40 enhancer
+T31	Entity 860 868	promoter
+T32	Entity 911 932	factor binding motifs
+T33	Entity 999 1004	HS-40
+T34	Entity 1067 1083	one GATA-1 motif
+T35	Entity 1078 1083	motif
+T36	Entity 1085 1097	one GT motif
+T37	Entity 1089 1097	GT motif
+T38	Entity 1103 1123	two NF-E2/AP1 motifs
+T39	Entity 1107 1123	NF-E2/AP1 motifs
+T40	Entity 1107 1112	NF-E2
+T41	Entity 1113 1116	AP1
+T42	Entity 1163 1168	HS-40
+T43	Entity 1227 1235	promoter
+T44	Entity 1293 1301	enhancer
+T45	Entity 1329 1345	NF-E2/AP1 motifs
+T46	Entity 1329 1334	NF-E2
+T47	Entity 1335 1338	AP1
+T48	Entity 1349 1354	HS-40
+T49	Entity 1390 1395	NF-E2
+T50	Entity 1404 1428	AP1 transcription factor
+T51	Entity 1474 1495	HS-40 enhancer region
+T52	Entity 1626 1631	HS-40
+T53	Entity 1812 1841	nonfunctional sequence motifs
+T54	Entity 2036 2048	HS-40 region
+T55	Entity 2147 2177	fetal/adult alpha globin genes
+T56	Entity 2250 2278	nuclear factor-DNA complexes
+T57	Entity 2265 2268	DNA
+T58	Entity 2297 2305	enhancer
+T59	Entity 2307 2312	HS-40
+T60	Entity 2322 2338	globin promoters
+R1	Protein-Component Arg1:T1 Arg2:T15
+R2	Protein-Component Arg1:T2 Arg2:T16
+R3	Protein-Component Arg1:T3 Arg2:T19
+R4	Protein-Component Arg1:T4 Arg2:T20
+R5	Protein-Component Arg1:T6 Arg2:T25
+R6	Protein-Component Arg1:T8 Arg2:T29
+R7	Protein-Component Arg1:T9 Arg2:T31
+R8	Protein-Component Arg1:T12 Arg2:T43

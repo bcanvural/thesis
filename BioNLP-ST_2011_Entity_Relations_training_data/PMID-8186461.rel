@@ -1,0 +1,38 @@
+*	Equiv T2 T3
+*	Equiv T4 T5
+T25	Entity 0 11	Calcineurin
+T26	Entity 127 157	conserved lymphokine element 0
+T27	Entity 568 579	calcineurin
+T28	Entity 581 583	CN
+T29	Entity 677 685	promoter
+T30	Entity 698 716	NF-AT-binding site
+T31	Entity 779 784	cDNAs
+T32	Entity 881 889	promoter
+T33	Entity 1007 1022	auto-inhibitory
+T34	Entity 1027 1053	calmodulin-binding domains
+T35	Entity 1122 1130	promoter
+T36	Entity 1162 1164	CN
+T37	Entity 1295 1314	regulatory elements
+T38	Entity 1329 1337	promoter
+T39	Entity 1364 1376	target sites
+T40	Entity 1385 1387	CN
+T41	Entity 1402 1432	conserved lymphokine element 0
+T42	Entity 1434 1438	CLE0
+T43	Entity 1521 1525	CLE0
+T44	Entity 1542 1558	AP1-binding site
+T45	Entity 1542 1545	AP1
+T46	Entity 1740 1742	CN
+T47	Entity 1826 1839	CLE0 sequence
+T48	Entity 1891 1909	NF-AT-binding site
+T49	Entity 1922 1930	promoter
+R1	Protein-Component Arg1:T10 Arg2:T30
+R2	Protein-Component Arg1:T10 Arg2:T29
+R3	Protein-Component Arg1:T13 Arg2:T32
+R4	Protein-Component Arg1:T15 Arg2:T35
+R5	Protein-Component Arg1:T18 Arg2:T42
+R6	Protein-Component Arg1:T18 Arg2:T41
+R7	Protein-Component Arg1:T18 Arg2:T37
+R8	Protein-Component Arg1:T18 Arg2:T38
+R9	Protein-Component Arg1:T24 Arg2:T48
+R10	Protein-Component Arg1:T23 Arg2:T47
+R11	Protein-Component Arg1:T24 Arg2:T49

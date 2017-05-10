@@ -1,0 +1,15 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T20	Entity 0 21	Nuclear factor-kappaB
+T21	Entity 847 856	NF-kappaB
+T22	Entity 866 878	binding site
+T23	Entity 891 899	promoter
+T24	Entity 989 998	NF-kappaB
+T25	Entity 1234 1243	NF-kappaB
+T26	Entity 1368 1377	NF-kappaB
+T27	Entity 1434 1450	N-acetylcysteine
+T28	Entity 1452 1455	NAC
+T29	Entity 1578 1587	NF-kappaB
+R1	Protein-Component Arg1:T13 Arg2:T22
+R2	Protein-Component Arg1:T13 Arg2:T23
+R3	Subunit-Complex Arg1:T15 Arg2:T24

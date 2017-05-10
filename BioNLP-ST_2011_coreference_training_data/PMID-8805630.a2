@@ -1,0 +1,8 @@
+T6	Exp 283 407	a reporter construct containing as an enhancer four copies of the NF-AT site and one copy of the octamer site (4X NF-AT-Oct)	294 303	construct
+T7	Exp 409 423	This construct
+T8	Exp 464 467	its
+T9	Exp 1389 1432	a complex of multiple transcription factors	1391 1398	complex
+T10	Exp 1433 1437	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9

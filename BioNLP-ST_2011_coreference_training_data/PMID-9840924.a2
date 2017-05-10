@@ -1,0 +1,21 @@
+T25	Exp 60 87	multiple signaling pathways	79 87	pathways
+T26	Exp 88 92	that
+T27	Exp 321 347	mutant signaling molecules	338 347	molecules
+T28	Exp 348 352	that
+T29	Exp 457 492	combinations of signaling molecules	457 469	combinations
+T30	Exp 493 497	that
+T31	Exp 863 880	the IL-2 promoter	872 880	promoter
+T32	Exp 881 886	whose
+T33	Exp 1056 1070	these findings	1062 1070	findings
+T34	Exp 1199 1203	they
+T35	Exp 1302 1317	a second factor	1311 1317	factor
+T36	Exp 1318 1323	whose
+T37	Exp 1490 1570	the activation of the IL-2 promoter and an NFAT-driven minimal promoter by Tpl-2	1494 1504	activation
+T38	Exp 1636 1638	it
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29
+R4	Coref Anaphora:T32 Antecedent:T31	[T11]
+R5	Coref Anaphora:T34 Antecedent:T33
+R6	Coref Anaphora:T36 Antecedent:T35
+R7	Coref Anaphora:T38 Antecedent:T37	[T20, T21]

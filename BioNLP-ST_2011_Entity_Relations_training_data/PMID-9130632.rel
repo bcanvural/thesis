@@ -1,0 +1,18 @@
+*	Equiv T8 T9
+T22	Entity 56 91	CD2-mediated interleukin-2 promoter
+T23	Entity 83 91	promoter
+T24	Entity 288 313	T cell receptor (TCR)/CD3
+T25	Entity 378 386	tyrosine
+T26	Entity 603 611	promoter
+T27	Entity 657 664	TCR/CD3
+T28	Entity 826 834	tyrosine
+T29	Entity 902 909	TCR/CD3
+T30	Entity 984 996	binding site
+T31	Entity 1035 1043	promoter
+T32	Entity 1300 1315	TCR/CD3 complex
+R1	Protein-Component Arg1:T3 Arg2:T23
+R2	Protein-Component Arg1:T6 Arg2:T25
+R3	Protein-Component Arg1:T8 Arg2:T26
+R4	Protein-Component Arg1:T13 Arg2:T28
+R5	Protein-Component Arg1:T15 Arg2:T30
+R6	Protein-Component Arg1:T15 Arg2:T31

@@ -1,0 +1,18 @@
+T33	Exp 206 275	the pathogenic retrovirus human T-cell leukemia virus type 1 (HTLV-1)
+T34	Exp 276 280	that
+T35	Exp 575 659	the recently identified cellular kinases IkappaB kinase alpha (IKKalpha) and IKKbeta	608 615	kinases
+T36	Exp 661 666	which
+T37	Exp 690 703	IkappaB alpha	698 703	alpha
+T38	Exp 715 718	its
+T39	Exp 855 881	a mutant of Tax termed M22	857 863	mutant
+T40	Exp 883 888	which
+T41	Exp 1279 1339	a kinase-deficient mutant of NIK (NF-kappaB-inducing kinase)	1298 1304	mutant
+T42	Exp 1341 1346	which
+T43	Exp 1621 1678	dominant negative mutants of the TRAF2 and TRAF6 adaptors	1639 1646	mutants
+T44	Exp 1680 1685	which
+R1	Coref Anaphora:T34 Antecedent:T33
+R2	Coref Anaphora:T36 Antecedent:T35	[T11, T10, T9]
+R3	Coref Anaphora:T38 Antecedent:T37	[T12]
+R4	Coref Anaphora:T40 Antecedent:T39	[T15]
+R5	Coref Anaphora:T42 Antecedent:T41	[T23, T22]
+R6	Coref Anaphora:T44 Antecedent:T43	[T29, T28]

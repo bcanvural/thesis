@@ -1,0 +1,46 @@
+T1	Protein 31 37	sigmaK
+T2	Transcription 48 61	transcription
+T3	Gene 65 69	gerE
+T4	Protein 114 118	GerE
+T5	Action 148 158	production
+T6	Protein 162 168	sigmaK
+W1	Word 0 5	These
+W2	Word 6 13	results
+W3	Word 14 25	demonstrate
+W4	Word 26 30	that
+W5	Word 31 37	sigmaK
+W6	Word 38 47	dependent
+W7	Word 48 61	transcription
+W8	Word 62 64	of
+W9	Word 65 69	gerE
+W10	Word 70 79	initiates
+W11	Word 80 81	a
+W12	Word 82 90	negative
+W13	Word 91 99	feedback
+W14	Word 100 104	loop
+W15	Word 105 107	in
+W16	Word 108 113	which
+W17	Word 114 118	GerE
+W18	Word 119 123	acts
+W19	Word 124 126	as
+W20	Word 127 128	a
+W21	Word 129 138	repressor
+W22	Word 139 141	to
+W23	Word 142 147	limit
+W24	Word 148 158	production
+W25	Word 159 161	of
+W26	Word 162 168	sigmaK
+R1	obj:V-N W23 W24
+R2	mod:ADJ-N W6 W5
+R3	comp:V-N(as) W18 W21
+R4	comp:V-N(in) W18 W14
+R5	obj:V-N W10 W14
+R6	subj:V-N W18 W17
+R7	comp:V-V(to) W18 W23
+R8	mod_att:N-ADJ W13 W12
+R9	subj:V-N W3 W2
+R10	mod_att:N-N W14 W13
+R11	mod_att:N-ADJ W7 W6
+R12	comp:N-N(of) W24 W26
+R13	subj:V-N W10 W7
+R14	comp:N-N(of) W7 W9

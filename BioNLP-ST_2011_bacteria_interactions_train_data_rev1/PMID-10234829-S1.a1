@@ -1,0 +1,34 @@
+T1	Action 0 17	Dephosphorylation
+T2	Protein 21 30	SpoIIAA-P
+T3	Protein 34 40	SpoIIE
+T4	Action 70 78	presence
+W1	Word 0 17	Dephosphorylation
+W2	Word 18 20	of
+W3	Word 21 30	SpoIIAA-P
+W4	Word 31 33	by
+W5	Word 34 40	SpoIIE
+W6	Word 41 43	is
+W7	Word 44 52	strictly
+W8	Word 53 62	dependent
+W9	Word 63 65	on
+W10	Word 66 69	the
+W11	Word 70 78	presence
+W12	Word 79 81	of
+W13	Word 82 85	the
+W14	Word 86 94	bivalent
+W15	Word 95 100	metal
+W16	Word 101 105	ions
+W17	Word 106 110	Mn2+
+W18	Word 111 113	or
+W19	Word 114 118	Mg2+
+R1	mod_att:N-N W16 W15
+R2	mod_att:N-N W17 W16
+R3	mod:ADJ-ADV W8 W7
+R4	comp:N-N(of) W11 W17
+R5	comp:N-N(of) W11 W19
+R6	comp:N-N(by) W1 W5
+R7	comp:N-N(of) W1 W3
+R8	mod_pred:N-ADJ W1 W8
+R9	comp:ADJ-N(on) W8 W11
+R10	mod_att:N-ADJ W16 W14
+R11	mod_att:N-N W19 W16

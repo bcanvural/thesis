@@ -1,0 +1,21 @@
+T22	Exp 234 253	the exact mechanism	244 253	mechanism
+T23	Exp 257 262	which
+T24	Exp 318 333	the Tax protein	326 333	protein
+T25	Exp 383 406	This 40-kDa polypeptide	395 406	polypeptide
+T26	Exp 496 517	the signaling pathway	510 517	pathway
+T27	Exp 518 522	that
+T28	Exp 546 549	E2F
+T29	Exp 550 554	that
+T30	Exp 756 759	Tax
+T31	Exp 814 825	CEM T-cells
+T32	Exp 827 832	which
+T33	Exp 864 866	it
+T34	Exp 1151 1162	Tax mutants	1155 1162	mutants
+T35	Exp 1163 1167	that
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24	[T4]
+R3	Coref Anaphora:T27 Antecedent:T26
+R4	Coref Anaphora:T29 Antecedent:T28
+R5	Coref Anaphora:T32 Antecedent:T31
+R6	Coref Anaphora:T33 Antecedent:T30	[T11]
+R7	Coref Anaphora:T35 Antecedent:T34	[T17]

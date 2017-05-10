@@ -1,0 +1,10 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T6 T7
+T15	Entity 293 305	target genes
+T16	Entity 408 420	target genes
+T17	Entity 620 639	NFAT-sensitive gene
+T18	Entity 706 724	NFAT-binding sites
+T19	Entity 732 740	5' flank
+R1	Protein-Component Arg1:T6 Arg2:T19
+R2	Protein-Component Arg1:T6 Arg2:T18

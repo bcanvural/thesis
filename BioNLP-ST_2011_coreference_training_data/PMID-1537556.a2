@@ -1,0 +1,6 @@
+T5	Exp 193 218	hemoglobin-encoding genes	213 218	genes
+T6	Exp 259 270	these genes
+T7	Exp 1162 1182	Two binding proteins	1174 1182	proteins
+T8	Exp 1304 1318	these proteins
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

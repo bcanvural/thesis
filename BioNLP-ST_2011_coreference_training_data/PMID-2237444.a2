@@ -1,0 +1,14 @@
+T4	Exp 137 181	specific transcriptional regulatory proteins
+T5	Exp 215 228	these factors
+T6	Exp 287 301	these proteins	293 301	proteins
+T7	Exp 444 498	double-stranded (ds) phosphorothioate oligonucleotides
+T8	Exp 499 503	that
+T9	Exp 1102 1135	phosphorothioate oligonucleotides
+T10	Exp 1136 1140	that
+T11	Exp 1244 1252	a degree
+T12	Exp 1264 1268	that
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T6 Antecedent:T4
+R3	Coref Anaphora:T8 Antecedent:T7
+R4	Coref Anaphora:T10 Antecedent:T9
+R5	Coref Anaphora:T12 Antecedent:T11

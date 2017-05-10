@@ -1,0 +1,11 @@
+T10	Entity 494 516	oligonucleotide probes
+T11	Entity 548 562	gene promoters
+T12	Entity 571 581	ISRE probe
+T13	Entity 686 701	protein complex
+T14	Entity 772 786	gene promoters
+T15	Entity 805 831	ISRE oligonucleotide probe
+T16	Entity 952 983	nonradioactive oligonucleotides
+R1	Protein-Component Arg1:T1 Arg2:T11
+R2	Protein-Component Arg1:T2 Arg2:T11
+R3	Protein-Component Arg1:T3 Arg2:T14
+R4	Protein-Component Arg1:T4 Arg2:T14

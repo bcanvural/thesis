@@ -1,0 +1,26 @@
+*	Equiv T11 T12
+T18	Entity 55 63	promoter
+T19	Entity 77 103	camp response element site
+T20	Entity 135 161	upstream regulatory region
+T21	Entity 185 194	5' region
+T22	Entity 338 351	reporter gene
+T23	Entity 444 486	768-bp upstream negative regulatory region
+T24	Entity 594 635	244-bp deoxycytidine kinase core promoter
+T25	Entity 750 763	binding sites
+T26	Entity 847 860	binding sites
+T27	Entity 868 894	upstream regulatory region
+T28	Entity 908 916	CRE site
+T29	Entity 973 999	upstream regulatory region
+T30	Entity 1052 1062	/AP-2 site
+T31	Entity 1184 1192	CRE site
+T32	Entity 1331 1356	969-bp promoter fragments
+T33	Entity 1410 1418	CRE site
+T34	Entity 1453 1486	tissue-specific regulatory region
+T35	Entity 1508 1521	core promoter
+T36	Entity 1565 1573	CRE site
+T37	Entity 1585 1599	basal promoter
+R1	Protein-Component Arg1:T1 Arg2:T18
+R2	Protein-Component Arg1:T2 Arg2:T21
+R3	Protein-Component Arg1:T3 Arg2:T21
+R4	Protein-Component Arg1:T17 Arg2:T34
+R5	Protein-Component Arg1:T17 Arg2:T35

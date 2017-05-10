@@ -1,0 +1,9 @@
+T20	Exp 173 205	a CCAAT/enhancer binding protein	198 205	protein
+T21	Exp 206 210	that
+T22	Exp 307 325	C/EBP epsilon mRNA
+T23	Exp 402 406	they
+T24	Exp 2408 2440	a retinoic acid-response element	2433 2440	element
+T25	Exp 2441 2445	that
+R1	Coref Anaphora:T21 Antecedent:T20	[T4]
+R2	Coref Anaphora:T23 Antecedent:T22	[T5]
+R3	Coref Anaphora:T25 Antecedent:T24

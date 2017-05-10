@@ -1,0 +1,10 @@
+T10	Exp 553 594	the jun and fos family of proto-oncogenes	569 575	family
+T11	Exp 802 835	the jun family of proto-oncogenes	810 816	family
+T12	Exp 891 905	the fos family	899 905	family
+T13	Exp 948 951	PMA
+T14	Exp 985 1004	the jun gene family	998 1004	family
+T15	Exp 1033 1036	its
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T10
+R3	Coref Anaphora:T14 Antecedent:T11
+R4	Coref Anaphora:T15 Antecedent:T13

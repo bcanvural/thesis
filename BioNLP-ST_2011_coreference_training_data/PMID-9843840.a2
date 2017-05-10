@@ -1,0 +1,9 @@
+T7	Exp 255 272	an in vitro model	267 272	model
+T8	Exp 276 281	which
+T9	Exp 439 476	cells cultured on a Silastic membrane	439 444	cells
+T10	Exp 504 509	their
+T11	Exp 644 785	critical inflammatory mediators such as tumor necrosis factor-alpha, the chemokines interleukin (IL)-8 and -6, and matrix metalloproteinase-9	666 675	mediators
+T12	Exp 834 849	These mediators	840 849	mediators
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11	[T1, T2]

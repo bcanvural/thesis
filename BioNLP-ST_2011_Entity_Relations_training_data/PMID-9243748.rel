@@ -1,0 +1,11 @@
+*	Equiv T1 T2
+T6	Entity 13 39	nuclear factor kappa B/Rel
+T7	Entity 205 217	determinants
+T8	Entity 311 335	NF-kappa B/Rel complexes
+T9	Entity 377 383	dimers
+T10	Entity 662 672	NF-kappa B
+T11	Entity 885 895	NF-kappa B
+T12	Entity 989 994	genes
+R1	Subunit-Complex Arg1:T1 Arg2:T9
+R2	Subunit-Complex Arg1:T3 Arg2:T9
+R3	Subunit-Complex Arg1:T4 Arg2:T9

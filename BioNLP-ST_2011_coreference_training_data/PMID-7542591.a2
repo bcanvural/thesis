@@ -1,0 +1,14 @@
+T12	Exp 361 388	monoclonal antibodies (mAb)
+T13	Exp 389 394	which
+T14	Exp 503 533	the NF-AT transcription factor	513 533	transcription factor
+T15	Exp 534 539	which
+T16	Exp 595 632	different anti-CD4 mAb or HIV-1 gp120
+T17	Exp 716 758	phosphorylation of the Shc adaptor protein	716 731	phosphorylation
+T18	Exp 760 765	which
+T19	Exp 791 795	they
+T20	Exp 822 827	their
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T19 Antecedent:T16	[T7, T8]
+R5	Coref Anaphora:T20 Antecedent:T16	[T7, T8]

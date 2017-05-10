@@ -1,0 +1,40 @@
+T1	Bacterium 0 19	Tropheryma whipplei
+T2	Bacterium 20 39	Tropheryma whipplei
+T3	Bacterium 110 129	Tropheryma whipplei
+T4	Host 159 164	human
+T5	HostPart 544 548	body
+T6	Host 669 672	Men
+T7	Host 717 722	women
+T8	Host 746 771	white males of middle age
+T9	Geographical 833 839	Europe
+T10	Geographical 848 861	United States
+T11	Geographical 888 894	Africa
+T12	Geographical 899 903	Asia
+T13	Host 914 919	Asian
+T14	Host 923 935	Japanese man
+T15	Bacterium 1077 1096	Tropheryma whipplei
+T16	HostPart 1951 1955	body
+T17	Host 2029 2034	human
+T18	Host 2123 2128	human
+*	Equiv T5 T16
+*	Equiv T1 T2
+*	Equiv T1 T3
+*	Equiv T1 T15
+*	Equiv T13 T14
+*	Equiv T4 T17
+*	Equiv T4 T18
+E1	Localization Bacterium:T1 Localization:T4
+E2	Localization Bacterium:T1 Localization:T9
+E3	Localization Bacterium:T1 Localization:T11
+E4	PartOf Host:T4 Part:T5
+E5	Localization Bacterium:T1 Localization:T7
+E6	PartOf Host:T7 Part:T5
+E7	PartOf Host:T8 Part:T5
+E8	Localization Bacterium:T1 Localization:T12
+E9	PartOf Host:T13 Part:T5
+E10	PartOf Host:T6 Part:T5
+E11	Localization Bacterium:T1 Localization:T5
+E12	Localization Bacterium:T1 Localization:T13
+E13	Localization Bacterium:T1 Localization:T10
+E14	Localization Bacterium:T1 Localization:T6
+E15	Localization Bacterium:T1 Localization:T8

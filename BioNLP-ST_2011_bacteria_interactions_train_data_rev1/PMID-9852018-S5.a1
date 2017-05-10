@@ -1,0 +1,19 @@
+T1	Gene 0 4	sspG
+T2	Transcription 5 18	transcription
+T3	Protein 57 61	GerE
+W1	Word 0 4	sspG
+W2	Word 5 18	transcription
+W3	Word 19 23	also
+W4	Word 24 32	requires
+W5	Word 33 36	the
+W6	Word 37 40	DNA
+W7	Word 41 48	binding
+W8	Word 49 56	protein
+W9	Word 57 61	GerE
+R1	mod:ADJ-N W7 W6
+R2	obj:V-N W4 W9
+R3	mod_att:N-N W2 W1
+R4	mod_att:N-N W9 W8
+R5	mod_att:N-ADJ W8 W7
+R6	subj:V-N W4 W2
+R7	mod:V-ADV W4 W3

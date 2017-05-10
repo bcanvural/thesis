@@ -1,0 +1,16 @@
+*	Equiv T7 T8
+T16	Entity 71 101	human immunodeficiency virus-1
+T17	Entity 155 203	region about 60 bp upstream from the enhancer of
+T18	Entity 240 245	HIV-1
+T19	Entity 349 373	HIV long terminal repeat
+T20	Entity 375 378	LTR
+T21	Entity 413 425	HIV promoter
+T22	Entity 447 460	-binding site
+T23	Entity 464 471	HIV LTR
+T24	Entity 491 495	site
+T25	Entity 551 581	adenovirus major late promoter
+T26	Entity 583 586	DNA
+T27	Entity 758 761	DNA
+T28	Entity 841 844	DNA
+T29	Entity 879 892	-binding site
+T30	Entity 955 967	HIV promoter

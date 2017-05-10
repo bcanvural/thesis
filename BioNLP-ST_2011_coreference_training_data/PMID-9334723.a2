@@ -1,0 +1,12 @@
+T16	Exp 305 308	Vpr
+T17	Exp 350 352	it
+T18	Exp 480 488	a manner
+T19	Exp 500 504	that
+T20	Exp 543 566	TCR-mediated activation	556 566	activation
+T21	Exp 601 604	its
+T22	Exp 846 884	IL-2, IL-10, IL-12, TNF alpha and IL-4
+T23	Exp 893 898	which
+R1	Coref Anaphora:T17 Antecedent:T16	[T3]
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20
+R4	Coref Anaphora:T23 Antecedent:T22	[T9, T12, T11, T10]

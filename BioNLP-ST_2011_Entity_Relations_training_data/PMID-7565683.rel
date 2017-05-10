@@ -1,0 +1,20 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T11	Entity 0 2	N-
+T12	Entity 7 27	C-terminal sequences
+T13	Entity 99 109	NF-kappa B
+T14	Entity 285 305	transcription factor
+T15	Entity 306 316	NF-kappa B
+T16	Entity 538 548	NF-kappa B
+T17	Entity 664 674	proteasome
+T18	Entity 1114 1124	C terminus
+T19	Entity 1148 1177	molecule up to amino acid 279
+T20	Entity 1376 1383	serines
+T21	Entity 1391 1401	N terminus
+T22	Entity 1418 1426	residues
+T23	Entity 1427 1429	32
+T24	Entity 1434 1436	36
+T25	Entity 1544 1552	residues
+R1	Protein-Component Arg1:T1 Arg2:T12
+R2	Protein-Component Arg1:T1 Arg2:T11
+R3	Protein-Component Arg1:T9 Arg2:T19

@@ -1,0 +1,21 @@
+*	Equiv T3 T4
+*	Equiv T6 T7
+T25	Entity 95 99	AP-1
+T26	Entity 819 822	DNA
+T27	Entity 849 856	element
+T28	Entity 873 876	DNA
+T29	Entity 965 977	40-bp region
+T30	Entity 1004 1031	positive regulatory element
+T31	Entity 1121 1125	AP-1
+T32	Entity 1131 1134	DNA
+T33	Entity 1227 1249	VDR DNA-binding domain
+T34	Entity 1231 1234	DNA
+T35	Entity 1356 1359	DNA
+T36	Entity 1535 1542	complex
+T37	Entity 1571 1591	-retinoid X receptor
+T38	Entity 1657 1689	-retinoid X receptor heterodimer
+T39	Entity 1703 1707	AP-1
+T40	Entity 1770 1777	element
+R1	Protein-Component Arg1:T14 Arg2:T33
+R2	Subunit-Complex Arg1:T20 Arg2:T37
+R3	Subunit-Complex Arg1:T21 Arg2:T38

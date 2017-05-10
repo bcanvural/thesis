@@ -1,6 +1,6 @@
 #
 # TF-IDF among job ads, CVs, categories (all together)
-#
+# Makes use of term counting and IDF
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import CountVectorizer, IDF, Tokenizer, StopWordsRemover
 from pyspark.sql.functions import *

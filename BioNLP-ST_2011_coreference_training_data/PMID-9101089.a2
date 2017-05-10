@@ -1,0 +1,6 @@
+T24	Exp 654 675	the RelA(p65) subunit	668 675	subunit
+T25	Exp 716 719	its
+T26	Exp 1324 1347	p50/RelA(p65) complexes	1338 1347	complexes
+T27	Exp 1348 1352	that
+R1	Coref Anaphora:T25 Antecedent:T24	[T9, T10]
+R2	Coref Anaphora:T27 Antecedent:T26	[T23, T21, T22]

@@ -1,0 +1,50 @@
+*	Equiv T3 T4
+T33	Entity 32 50	tissue factor gene
+T34	Entity 117 129	heterodimers
+T35	Entity 135 152	kappa B-like site
+T36	Entity 235 245	NF-kappa B
+T37	Entity 479 494	nuclear complex
+T38	Entity 538 555	kappa B-like site
+T39	Entity 557 573	5'-CGGAGTTTCC-3'
+T40	Entity 582 600	5'-flanking region
+T41	Entity 628 643	nuclear complex
+T42	Entity 769 773	site
+T43	Entity 805 815	homodimers
+T44	Entity 832 844	heterodimers
+T45	Entity 852 862	homodimers
+T46	Entity 898 902	site
+T47	Entity 936 958	cytosine at position 1
+T48	Entity 936 944	cytosine
+T49	Entity 948 958	position 1
+T50	Entity 980 990	NF-kappa B
+T51	Entity 1045 1052	complex
+T52	Entity 1093 1099	dimers
+T53	Entity 1138 1144	dimers
+T54	Entity 1298 1305	complex
+T55	Entity 1340 1352	heterodimers
+T56	Entity 1381 1398	kappa B-like site
+T57	Entity 1441 1445	site
+T58	Entity 1478 1499	heterologous promoter
+T59	Entity 1607 1619	heterodimers
+T60	Entity 1631 1648	kappa B-like site
+R1	Subunit-Complex Arg1:T1 Arg2:T34
+R2	Subunit-Complex Arg1:T2 Arg2:T34
+R3	Protein-Component Arg1:T6 Arg2:T39
+R4	Protein-Component Arg1:T6 Arg2:T38
+R5	Protein-Component Arg1:T6 Arg2:T40
+R6	Subunit-Complex Arg1:T11 Arg2:T44
+R7	Subunit-Complex Arg1:T12 Arg2:T44
+R8	Subunit-Complex Arg1:T13 Arg2:T45
+R9	Subunit-Complex Arg1:T9 Arg2:T43
+R10	Subunit-Complex Arg1:T10 Arg2:T43
+R11	Subunit-Complex Arg1:T15 Arg2:T51
+R12	Subunit-Complex Arg1:T16 Arg2:T52
+R13	Subunit-Complex Arg1:T17 Arg2:T52
+R14	Subunit-Complex Arg1:T18 Arg2:T53
+R15	Subunit-Complex Arg1:T19 Arg2:T53
+R16	Subunit-Complex Arg1:T23 Arg2:T54
+R17	Subunit-Complex Arg1:T24 Arg2:T55
+R18	Subunit-Complex Arg1:T25 Arg2:T55
+R19	Protein-Component Arg1:T26 Arg2:T56
+R20	Subunit-Complex Arg1:T30 Arg2:T59
+R21	Subunit-Complex Arg1:T31 Arg2:T59

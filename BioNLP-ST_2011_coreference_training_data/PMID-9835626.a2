@@ -1,0 +1,6 @@
+T18	Exp 214 253	specific extracellular matrix processes	244 253	processes
+T19	Exp 254 258	that
+T20	Exp 317 363	a series of Burkitt's lymphoma (BL) cell lines	319 325	series
+T21	Exp 381 386	their
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20

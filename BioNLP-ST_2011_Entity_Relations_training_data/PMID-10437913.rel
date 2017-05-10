@@ -1,0 +1,8 @@
+T19	Entity 201 219	HLA class II genes
+T20	Entity 318 331	class II gene
+T21	Entity 397 411	class II genes
+T22	Entity 507 514	HLA-DRA
+T23	Entity 520 543	prototype class II gene
+T24	Entity 620 636	HLA-DRA promoter
+T25	Entity 809 817	promoter
+R1	Protein-Component Arg1:T15 Arg2:T25

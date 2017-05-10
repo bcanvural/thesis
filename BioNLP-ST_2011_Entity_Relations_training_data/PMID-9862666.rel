@@ -1,0 +1,19 @@
+T11	Entity 40 44	AP-1
+T12	Entity 71 79	promoter
+T13	Entity 130 135	RE/AP
+T14	Entity 223 231	promoter
+T15	Entity 440 448	promoter
+T16	Entity 581 595	AP-1 reporters
+T17	Entity 581 585	AP-1
+T18	Entity 631 635	AP-1
+T19	Entity 661 669	promoter
+T20	Entity 698 712	RE/AP reporter
+T21	Entity 784 792	promoter
+T22	Entity 856 861	sites
+T23	Entity 930 935	RE/AP
+T24	Entity 985 998	NFAT reporter
+R1	Protein-Component Arg1:T1 Arg2:T12
+R2	Protein-Component Arg1:T4 Arg2:T14
+R3	Protein-Component Arg1:T7 Arg2:T15
+R4	Protein-Component Arg1:T8 Arg2:T19
+R5	Protein-Component Arg1:T10 Arg2:T21

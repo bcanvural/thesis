@@ -1,0 +1,2 @@
+FosB, a cysteine-dependent fosfomycin resistance protein under the control of sigma(W), an extracytoplasmic-function sigma factor in Bacillus subtilis.
+We demonstrate that the Bacillus subtilis fosB(yndN) gene encodes a fosfomycin resistance protein. Expression of fosB requires sigma(W), and both fosB and sigW mutants are fosfomycin sensitive. FosB is a metallothiol transferase related to the FosA class of Mn(2+)-dependent glutathione transferases but with a preference for Mg(2+) and L-cysteine as cofactors.

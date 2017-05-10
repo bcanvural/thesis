@@ -1,0 +1,11 @@
+T13	Exp 1073 1100	The AML1 and CBF beta genes	1095 1100	genes
+T14	Exp 1101 1105	that
+T15	Exp 1281 1322	a growing list of cytokines and receptors	1291 1295	list
+T16	Exp 1323 1327	that
+T17	Exp 1353 1358	which
+T18	Exp 1471 1491	several target genes	1486 1491	genes
+T19	Exp 1492 1496	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T9, T10]
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T17 Antecedent:T15
+R4	Coref Anaphora:T19 Antecedent:T18

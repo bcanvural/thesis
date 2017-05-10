@@ -1,0 +1,9 @@
+T1	Bacterium 0 21	Spirochaeta americana
+T2	Bacterium 51 63	S. americana
+T3	Geographical 150 159	Mono Lake
+T4	Geographical 161 171	California
+T5	Bacterium 173 185	S. Americana
+*	Equiv T1 T2
+*	Equiv T1 T5
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T4

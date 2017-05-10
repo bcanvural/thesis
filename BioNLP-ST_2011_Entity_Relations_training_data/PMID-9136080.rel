@@ -1,0 +1,27 @@
+*	Equiv T5 T6
+T20	Entity 90 98	promoter
+T21	Entity 536 547	1-kb region
+T22	Entity 574 594	5' flanking sequence
+T23	Entity 777 790	1-kb fragment
+T24	Entity 962 980	consensus elements
+T25	Entity 1048 1062	consensus site
+T26	Entity 1078 1102	transcription start site
+T27	Entity 1126 1131	sites
+T28	Entity 1208 1224	deletion mutants
+T29	Entity 1290 1300	-73 to -16
+T30	Entity 1344 1349	sites
+T31	Entity 1383 1400	consensus element
+T32	Entity 1402 1408	GC box
+T33	Entity 1457 1470	1-kb fragment
+T34	Entity 1493 1497	site
+T35	Entity 1553 1578	small region (-35 to +22)
+T36	Entity 1597 1604	element
+T37	Entity 1609 1633	transcription start site
+T38	Entity 1652 1656	site
+T39	Entity 1704 1725	Sp1 consensus element
+T40	Entity 1848 1862	consensus site
+T41	Entity 1872 1876	site
+T42	Entity 1902 1929	DNase I hypersensitive site
+T43	Entity 2025 2029	site
+T44	Entity 2085 2121	myelomonocytic lineage specific gene
+R1	Protein-Component Arg1:T1 Arg2:T20

@@ -1,0 +1,8 @@
+T1	Exp 212 221	the genes
+T2	Exp 222 226	that
+T3	Exp 297 318	transcription factors
+T4	Exp 319 323	that
+T5	Exp 350 368	these T-cell genes	363 368	genes
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T5 Antecedent:T1

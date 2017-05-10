@@ -1,0 +1,37 @@
+T1	Protein 27 33	sigmaB
+T2	Gene 87 91	yvyD
+T3	Action 134 143	depletion
+W1	Word 0 2	In
+W2	Word 3 11	addition
+W3	Word 12 14	to
+W4	Word 15 18	the
+W5	Word 19 26	typical
+W6	Word 27 33	sigmaB
+W7	Word 34 43	dependent
+W8	Word 45 52	stress-
+W9	Word 53 56	and
+W10	Word 57 77	starvation-inducible
+W11	Word 78 85	pattern
+W12	Word 87 91	yvyD
+W13	Word 92 94	is
+W14	Word 95 99	also
+W15	Word 100 107	induced
+W16	Word 108 110	in
+W17	Word 111 119	response
+W18	Word 120 122	to
+W19	Word 123 128	amino
+W20	Word 129 133	acid
+W21	Word 134 143	depletion
+R1	mod_att:N-N W11 W8
+R2	comp:N-N(to) W2 W11
+R3	mod_att:N-N W20 W19
+R4	subj:V_PASS-N W15 W12
+R5	mod_att:N-ADJ W11 W10
+R6	mod:ADJ-N W7 W6
+R7	mod_att:N-ADJ W11 W7
+R8	mod_att:N-ADJ W11 W5
+R9	mod:V_PASS-ADV W15 W14
+R10	mod_att:N-N W21 W20
+R11	comp:N-N(to) W17 W21
+R12	comp:V_PASS-N(in) W15 W17
+R13	comp:V_PASS-N(in) W15 W2

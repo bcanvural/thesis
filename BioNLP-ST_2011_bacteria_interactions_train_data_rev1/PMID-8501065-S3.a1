@@ -1,0 +1,33 @@
+T1	Gene 17 23	spoIIM
+T2	Gene 43 50	sigma E
+T3	Regulon 51 58	regulon
+T4	Gene 68 70	it
+T5	Transcription 78 89	transcribed
+T6	PolymeraseComplex 105 114	E sigma E
+W1	Word 0 2	We
+W2	Word 3 11	conclude
+W3	Word 12 16	that
+W4	Word 17 23	spoIIM
+W5	Word 24 26	is
+W6	Word 27 28	a
+W7	Word 29 35	member
+W8	Word 36 38	of
+W9	Word 39 42	the
+W10	Word 43 50	sigma E
+W11	Word 51 58	regulon
+W12	Word 59 62	and
+W13	Word 63 67	that
+W14	Word 68 70	it
+W15	Word 71 74	may
+W16	Word 75 77	be
+W17	Word 78 89	transcribed
+W18	Word 90 101	exclusively
+W19	Word 102 104	by
+W20	Word 105 114	E sigma E
+R1	mod:V_PASS-ADV W17 W18
+R2	comp:N-N(of) W7 W11
+R3	mod_att:N-N W11 W10
+R4	mod_pred:N-N W4 W7
+R5	subj:V_PASS-N W17 W14
+R6	comp:V_PASS-N(by) W17 W20
+R7	subj:V-N W2 W1

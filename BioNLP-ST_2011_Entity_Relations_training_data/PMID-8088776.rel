@@ -1,0 +1,28 @@
+T10	Entity 173 193	T-cell receptor gene
+T11	Entity 224 233	enhancers
+T12	Entity 286 296	human gene
+T13	Entity 305 311	5' end
+T14	Entity 384 389	exons
+T15	Entity 407 419	17 kb of DNA
+T16	Entity 441 453	zinc fingers
+T17	Entity 482 487	exons
+T18	Entity 619 644	GATA3 transcription units
+T19	Entity 656 677	major initiation site
+T20	Entity 770 780	CpG island
+T21	Entity 830 839	promoters
+T22	Entity 843 861	housekeeping genes
+T23	Entity 927 945	transcription unit
+T24	Entity 947 960	3 kb upstream
+T25	Entity 970 985	initiation site
+T26	Entity 990 1005	4 kb downstream
+T27	Entity 1015 1035	polyadenylation site
+R1	Protein-Component Arg1:T4 Arg2:T13
+R2	Protein-Component Arg1:T5 Arg2:T14
+R3	Protein-Component Arg1:T5 Arg2:T15
+R4	Protein-Component Arg1:T7 Arg2:T17
+R5	Protein-Component Arg1:T6 Arg2:T16
+R6	Protein-Component Arg1:T8 Arg2:T19
+R7	Protein-Component Arg1:T8 Arg2:T18
+R8	Protein-Component Arg1:T9 Arg2:T25
+R9	Protein-Component Arg1:T9 Arg2:T27
+R10	Protein-Component Arg1:T9 Arg2:T23

@@ -1,0 +1,24 @@
+T1	Protein 51 58	sigma A
+T2	Protein 83 90	sigma H
+W1	Word 0 3	Two
+W2	Word 4 8	such
+W3	Word 9 14	amino
+W4	Word 15 19	acid
+W5	Word 20 33	substitutions
+W6	Word 34 38	were
+W7	Word 39 47	isolated
+W8	Word 48 50	in
+W9	Word 51 58	sigma A
+W10	Word 59 62	and
+W11	Word 63 66	one
+W12	Word 67 70	was
+W13	Word 71 79	isolated
+W14	Word 80 82	in
+W15	Word 83 90	sigma H
+R1	mod_att:N-ADJ W5 W1
+R2	comp:ADJ-N(in) W7 W9
+R3	mod_att:N-ADJ W4 W3
+R4	mod_pred:N-ADJ W5 W7
+R5	mod_pred:N-ADJ W11 W13
+R6	comp:ADJ-N(in) W13 W15
+R7	mod_att:N-N W5 W4

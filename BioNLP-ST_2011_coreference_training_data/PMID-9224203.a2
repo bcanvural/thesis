@@ -1,0 +1,18 @@
+T1	Exp 91 111	DNA-binding proteins	103 111	proteins
+T2	Exp 112 116	that
+T3	Exp 240 254	many cytokines	245 254	cytokines
+T4	Exp 255 259	that
+T5	Exp 457 499	a group of inhibitory proteins (I kappa B)	479 487	proteins
+T6	Exp 500 504	that
+T7	Exp 685 705	Liberated NF-kappa B	695 705	NF-kappa B
+T8	Exp 718 729	the nucleus
+T9	Exp 731 736	where
+T10	Exp 737 739	it
+T11	Exp 846 900	both extracellular and intracellular regulatory events	894 900	events
+T12	Exp 901 905	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T9 Antecedent:T8
+R5	Coref Anaphora:T10 Antecedent:T7
+R6	Coref Anaphora:T12 Antecedent:T11

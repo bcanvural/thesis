@@ -1,0 +1,4 @@
+E1	PromoterOf Agent:T2 Target:T3
+E2	Interaction Agent:T1 Target:T3
+E3	SiteOf Target:T5 Site:T6
+E4	PromoterDependence Agent:T2 Target:T1

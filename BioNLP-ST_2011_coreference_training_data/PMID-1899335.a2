@@ -1,0 +1,5 @@
+T13	Exp 14 52	c-jun, jun B and jun D proto-oncogenes	37 52	proto-oncogenes
+T14	Exp 405 424	The three jun genes	415 424	jun genes
+T15	Exp 457 462	their
+R1	Coref Anaphora:T14 Antecedent:T13	[T1, T3, T2]
+R2	Coref Anaphora:T15 Antecedent:T14

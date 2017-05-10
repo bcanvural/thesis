@@ -1,0 +1,6 @@
+T19	Entity 566 574	promoter
+T20	Entity 644 653	NF-kappaB
+T21	Entity 658 662	AP-1
+T22	Entity 700 708	promoter
+R1	Protein-Component Arg1:T9 Arg2:T19
+R2	Protein-Component Arg1:T11 Arg2:T22

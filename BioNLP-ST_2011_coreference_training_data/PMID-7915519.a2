@@ -1,0 +1,3 @@
+T13	Exp 272 288	the CD4 molecule	280 288	molecule
+T14	Exp 336 339	its
+R1	Coref Anaphora:T14 Antecedent:T13	[T4]

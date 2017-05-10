@@ -1,0 +1,6 @@
+T17	Exp 405 419	the hypothesis
+T18	Exp 420 424	that
+T19	Exp 1098 1112	the hypothesis
+T20	Exp 1113 1117	that
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19

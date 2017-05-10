@@ -1,0 +1,74 @@
+T1	Bacterium 0 20	Yersinia pestis CO92
+T2	Bacterium 33 41	Yersinia
+T3	Host 93 98	human
+T4	Bacterium 246 254	Yersinia
+T5	Host 393 398	human
+T6	HostPart 561 565	cell
+T7	Bacterium 579 594	Yersinia pestis
+T8	Geographical 807 816	worldwide
+T9	Host 855 859	rats
+T10	Host 863 869	humans
+T11	Host 902 906	flea
+T12	Host 915 920	human
+T13	Host 924 929	human
+T14	Environment 942 945	air
+T15	Bacterium 975 990	Yersinia pestis
+T16	HostPart 1140 1154	enteroinvasive
+T17	HostPart 1189 1200	macrophages
+T18	Bacterium 1254 1269	Yersinia pestis
+T19	Bacterium 1335 1345	Orientalis
+T20	Geographical 1560 1565	China
+T21	Bacterium 1667 1682	Yersinia pestis
+T22	Host 1882 1885	rat
+T23	Host 1889 1894	human
+T24	Host 1953 1957	flea
+T25	HostPart 1958 1964	midgut
+T26	HostPart 1966 1977	Deep tissue
+T27	Bacterium 2067 2082	Yersinia pestis
+T28	HostPart 2182 2195	intracellular
+T29	Bacterium 2234 2261	Yersinia pestis strain CO92
+T30	Geographical 2322 2325	USA
+T31	Host 2333 2340	patient
+T32	Host 2415 2418	cat
+*	Equiv T7 T15
+*	Equiv T7 T18
+*	Equiv T7 T21
+*	Equiv T7 T27
+*	Equiv T2 T4
+*	Equiv T1 T29
+*	Equiv T3 T5
+*	Equiv T11 T24
+*	Equiv T9 T22
+*	Equiv T10 T12
+*	Equiv T10 T13
+*	Equiv T10 T23
+E1	PartOf Host:T9 Part:T17
+E2	Localization Bacterium:T2 Localization:T3
+E3	PartOf Host:T3 Part:T6
+E4	Localization Bacterium:T1 Localization:T30
+E5	Localization Bacterium:T7 Localization:T8
+E6	PartOf Host:T11 Part:T16
+E7	Localization Bacterium:T7 Localization:T11
+E8	PartOf Host:T10 Part:T17
+E9	PartOf Host:T11 Part:T25
+E10	PartOf Host:T11 Part:T26
+E11	Localization Bacterium:T7 Localization:T16
+E12	PartOf Host:T11 Part:T17
+E13	PartOf Host:T11 Part:T28
+E14	PartOf Host:T31 Part:T28
+E15	Localization Bacterium:T7 Localization:T28
+E16	Localization Bacterium:T7 Localization:T14
+E17	Localization Bacterium:T19 Localization:T20
+E18	Localization Bacterium:T7 Localization:T9
+E19	PartOf Host:T10 Part:T26
+E20	Localization Bacterium:T7 Localization:T26
+E21	PartOf Host:T10 Part:T16
+E22	Localization Bacterium:T1 Localization:T32
+E23	Localization Bacterium:T7 Localization:T25
+E24	Localization Bacterium:T2 Localization:T6
+E25	PartOf Host:T9 Part:T16
+E26	Localization Bacterium:T7 Localization:T17
+E27	PartOf Host:T9 Part:T26
+E28	PartOf Host:T9 Part:T28
+E29	Localization Bacterium:T7 Localization:T10
+E30	Localization Bacterium:T1 Localization:T31

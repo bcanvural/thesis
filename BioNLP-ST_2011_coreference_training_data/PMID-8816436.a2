@@ -1,0 +1,9 @@
+T24	Exp 124 178	The human tumor necrosis factor alpha (TNF-alpha) gene
+T25	Exp 245 253	a B cell
+T26	Exp 262 265	its
+T27	Exp 384 430	the immunosuppressants cyclosporin A and FK506
+T28	Exp 432 437	which
+T29	Exp 508 516	the gene
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T29 Antecedent:T24	[T5, T4]

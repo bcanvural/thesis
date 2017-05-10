@@ -1,0 +1,7 @@
+*	Equiv T5 T6
+T29	Entity 724 732	promoter
+T30	Entity 983 991	promoter
+T31	Entity 1234 1242	promoter
+R1	Protein-Component Arg1:T15 Arg2:T29
+R2	Protein-Component Arg1:T17 Arg2:T30
+R3	Protein-Component Arg1:T20 Arg2:T31

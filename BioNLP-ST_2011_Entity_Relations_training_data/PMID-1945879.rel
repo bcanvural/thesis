@@ -1,0 +1,39 @@
+*	Equiv T2 T3
+*	Equiv T5 T6
+T10	Entity 67 97	kB-like proto-enhancer element
+T11	Entity 121 129	promoter
+T12	Entity 147 172	T cell-specific enhancers
+T13	Entity 232 248	kB-like sequence
+T14	Entity 249 260	GGGATTTCACC
+T15	Entity 267 302	essential cis-acting enhancer motif
+T16	Entity 350 354	TCEd
+T17	Entity 356 377	distal T cell element
+T18	Entity 400 422	proto-enhancer element
+T19	Entity 561 569	TCEd DNA
+T20	Entity 694 698	TCEd
+T21	Entity 722 734	polypeptides
+T22	Entity 744 749	50 kD
+T23	Entity 754 760	105 kD
+T24	Entity 837 842	NF-kB
+T25	Entity 871 875	TCEd
+T26	Entity 907 912	NF-kB
+T27	Entity 916 924	TCEd DNA
+T28	Entity 948 952	TCEd
+T29	Entity 958 986	'perfect' NF-kB binding site
+T30	Entity 968 973	NF-kB
+T31	Entity 1017 1022	NF-kB
+T32	Entity 1026 1034	TCEd DNA
+T33	Entity 1092 1115	'converted' TCEd motifs
+T34	Entity 1104 1108	TCEd
+T35	Entity 1172 1173	A
+T36	Entity 1187 1188	C
+T37	Entity 1200 1217	GGGATTTCACC motif
+T38	Entity 1393 1397	TCEd
+R1	Protein-Component Arg1:T1 Arg2:T11
+R2	Protein-Component Arg1:T2 Arg2:T14
+R3	Protein-Component Arg1:T2 Arg2:T13
+R4	Protein-Component Arg1:T2 Arg2:T12
+R5	Protein-Component Arg1:T2 Arg2:T15
+R6	Protein-Component Arg1:T7 Arg2:T21
+R7	Protein-Component Arg1:T7 Arg2:T22
+R8	Protein-Component Arg1:T7 Arg2:T23

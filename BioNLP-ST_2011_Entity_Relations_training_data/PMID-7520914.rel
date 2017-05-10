@@ -1,0 +1,12 @@
+T14	Entity 31 53	nuclear factor-kappa B
+T15	Entity 101 109	tyrosine
+T16	Entity 537 557	transmembrane domain
+T17	Entity 717 725	tyrosine
+T18	Entity 987 997	NF-kappa B
+T19	Entity 1161 1171	NF-kappa B
+T20	Entity 1244 1254	NF-kappa B
+T21	Entity 1520 1530	NF-kappa B
+T22	Entity 1582 1592	NF-kappa B
+T23	Entity 1744 1768	phosphotyrosine residues
+T24	Entity 1919 1929	NF-kappa B
+R1	Protein-Component Arg1:T3 Arg2:T16

@@ -1,0 +1,19 @@
+T1	Exp 89 110	NF-KB-related factors	103 110	factors
+T2	Exp 221 223	B2
+T3	Exp 228 230	B3
+T4	Exp 375 388	The B2 factor	382 388	factor
+T5	Exp 456 469	The B3 factor	463 469	factor
+T6	Exp 586 589	Its
+T7	Exp 694 707	the B2 factor	701 707	factor
+T8	Exp 807 809	it
+T9	Exp 853 864	This factor
+T10	Exp 961 974	The B3 factor	968 974	factor
+T11	Exp 1107 1120	these factors
+R1	Coref Anaphora:T4 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T7 Antecedent:T4
+R5	Coref Anaphora:T8 Antecedent:T7
+R6	Coref Anaphora:T9 Antecedent:T7
+R7	Coref Anaphora:T10 Antecedent:T5
+R8	Coref Anaphora:T11 Antecedent:T1

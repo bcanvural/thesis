@@ -1,0 +1,47 @@
+T1	Gene 28 32	gerD
+T2	Protein 58 65	sigma G
+T3	Regulon 66 73	regulon
+T4	Gene 102 107	genes
+T5	Expression 108 117	expressed
+W1	Word 0 5	These
+W2	Word 6 13	results
+W3	Word 14 22	indicate
+W4	Word 23 27	that
+W5	Word 28 32	gerD
+W6	Word 33 35	is
+W7	Word 36 43	another
+W8	Word 44 50	member
+W9	Word 51 53	of
+W10	Word 54 57	the
+W11	Word 58 65	sigma G
+W12	Word 66 73	regulon
+W13	Word 75 80	which
+W14	Word 81 89	includes
+W15	Word 90 91	a
+W16	Word 92 98	number
+W17	Word 99 101	of
+W18	Word 102 107	genes
+W19	Word 108 117	expressed
+W20	Word 118 122	only
+W21	Word 123 125	in
+W22	Word 126 129	the
+W23	Word 130 139	forespore
+W24	Word 140 151	compartment
+W25	Word 152 154	of
+W26	Word 155 166	sporulating
+W27	Word 167 172	cells
+W28	Word 173 175	of
+W29	Word 176 187	B. subtilis
+R1	mod_att:N-N W12 W11
+R2	subj:V-N W14 W12
+R3	obj:V-N W14 W16
+R4	comp:N-N(of) W16 W18
+R5	subj:V-N W3 W2
+R6	comp:V_PASS-N(in) W19 W24
+R7	comp:N-N(of) W8 W12
+R8	mod_pred:N-N W5 W8
+R9	mod_att:N-N W24 W23
+R10	comp:N-N(of) W24 W27
+R11	comp:N-N(of) W27 W29
+R12	mod_att:N-ADJ W27 W26
+R13	subj:V_PASS-N W19 W18

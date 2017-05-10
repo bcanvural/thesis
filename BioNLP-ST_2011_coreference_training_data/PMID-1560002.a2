@@ -1,0 +1,11 @@
+T21	Exp 79 118	the human class II transplantation gene	98 118	transplantation gene
+T22	Exp 120 123	DRA
+T23	Exp 198 227	an octamer element (ATTTGCAT)
+T24	Exp 228 232	that
+T25	Exp 579 612	the octamer-binding protein OTF-2	607 612	OTF-2
+T26	Exp 702 734	OTF-1-enriched protein fractions	717 734	protein fractions
+T27	Exp 782 784	it
+T28	Exp 1265 1309	the lymphoid-specific octamer-binding factor	1287 1309	octamer-binding factor
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T27 Antecedent:T26	[T13]
+R3	Coref Anaphora:T28 Antecedent:T25	[T10]

@@ -1,0 +1,48 @@
+T1	Protein 0 7	SpoIIID
+T2	Action 11 28	low concentration
+T3	Gene 39 43	cotC
+T4	Transcription 44 57	transcription
+T5	Action 69 89	higher concentration
+T6	Gene 115 119	cotX
+T7	Transcription 120 133	transcription
+T8	Gene 159 163	cotB
+T9	Transcription 164 177	transcription
+W1	Word 0 7	SpoIIID
+W2	Word 8 10	at
+W3	Word 11 14	low
+W4	Word 15 28	concentration
+W5	Word 29 38	repressed
+W6	Word 39 43	cotC
+W7	Word 44 57	transcription
+W8	Word 59 66	whereas
+W9	Word 67 68	a
+W10	Word 69 75	higher
+W11	Word 76 89	concentration
+W12	Word 90 94	only
+W13	Word 95 104	partially
+W14	Word 105 114	repressed
+W15	Word 115 119	cotX
+W16	Word 120 133	transcription
+W17	Word 134 137	and
+W18	Word 138 141	had
+W19	Word 142 148	little
+W20	Word 149 155	effect
+W21	Word 156 158	on
+W22	Word 159 163	cotB
+W23	Word 164 177	transcription
+R1	obj:V-N W5 W7
+R2	mod:V-ADV W14 W13
+R3	mod_att:N-N W23 W22
+R4	mod_att:N-N W7 W6
+R5	obj:V-N W14 W16
+R6	mod:ADV-ADV W13 W12
+R7	mod_att:N-ADJ W4 W3
+R8	mod_att:N-N W16 W15
+R9	subj:V-N W5 W1
+R10	subj:V-N W14 W11
+R11	comp:N-N(on) W20 W23
+R12	mod_att:N-ADJ W20 W19
+R13	comp:N-N(at) W1 W4
+R14	subj:V-N W18 W11
+R15	mod_att:N-ADJ W11 W10
+R16	obj:V-N W18 W20

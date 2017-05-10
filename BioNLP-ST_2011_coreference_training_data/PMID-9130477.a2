@@ -1,0 +1,9 @@
+T10	Exp 885 889	BSAP
+T11	Exp 906 931	the transcription factors
+T12	Exp 932 936	that
+T13	Exp 983 985	it
+T14	Exp 1037 1060	two signalling pathways	1052 1060	pathways
+T15	Exp 1061 1065	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T13 Antecedent:T10	[T9]
+R3	Coref Anaphora:T15 Antecedent:T14

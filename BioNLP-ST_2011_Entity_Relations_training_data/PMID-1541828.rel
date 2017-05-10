@@ -1,0 +1,21 @@
+T9	Entity 264 292	upstream regulatory elements
+T10	Entity 311 319	promoter
+T11	Entity 323 372	novel T cell-specific negative regulatory element
+T12	Entity 374 377	NRE
+T13	Entity 436 454	5' flanking region
+T14	Entity 473 490	-311CTCCCTTCT-303
+T15	Entity 492 497	NRE-I
+T16	Entity 503 525	-288CTTTTTGCTT-TGC-300
+T17	Entity 527 533	NRE-II
+T18	Entity 610 615	NRE-I
+T19	Entity 620 626	NRE-II
+T20	Entity 674 701	positive regulatory element
+T21	Entity 712 728	45 bp downstream
+T22	Entity 736 739	NRE
+T23	Entity 770 773	PRE
+T24	Entity 809 812	NRE
+T25	Entity 855 863	promoter
+T26	Entity 906 909	NRE
+T27	Entity 932 968	enhancer positive regulatory element
+R1	Protein-Component Arg1:T3 Arg2:T10
+R2	Protein-Component Arg1:T7 Arg2:T25

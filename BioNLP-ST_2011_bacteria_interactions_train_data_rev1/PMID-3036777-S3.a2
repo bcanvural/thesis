@@ -1,0 +1,5 @@
+E1	TranscriptionFrom Process:T3 Promoter:T5
+E4	SiteOf Target:T7 Site:T8
+E5	PromoterDependence Agent:T5 Target:T4
+E6	PromoterOf Agent:T5 Target:T2
+E7	ActionTarget Action:T3 Target:T2

@@ -1,0 +1,3 @@
+T10	Exp 605 621	the p27Kip1 gene	617 621	gene
+T11	Exp 623 631	The gene
+R1	Coref Anaphora:T11 Antecedent:T10	[T6]

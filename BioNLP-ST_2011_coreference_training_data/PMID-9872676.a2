@@ -1,0 +1,3 @@
+T28	Exp 427 436	NF-kappaB
+T29	Exp 517 520	its
+R1	Coref Anaphora:T29 Antecedent:T28

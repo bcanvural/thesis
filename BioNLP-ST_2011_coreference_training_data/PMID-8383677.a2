@@ -1,0 +1,16 @@
+T11	Exp 191 209	cellular functions
+T12	Exp 254 259	their
+T13	Exp 292 358	the inhibitors of these phosphatases, okadaic acid and calyculin A	296 306	inhibitors
+T14	Exp 587 610	the interleukin-1 genes
+T15	Exp 696 727	transcription factor activities	717 727	activities
+T16	Exp 739 744	those
+T17	Exp 757 793	these protein phosphatase inhibitors	783 793	inhibitors
+T18	Exp 872 884	mature forms
+T19	Exp 889 894	their
+T20	Exp 1021 1036	The stimulation
+T21	Exp 1108 1112	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T17 Antecedent:T13
+R4	Coref Anaphora:T19 Antecedent:T18
+R5	Coref Anaphora:T21 Antecedent:T20

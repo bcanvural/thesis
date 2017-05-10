@@ -1,0 +1,12 @@
+T18	Exp 188 215	a hemopoietic growth factor	209 215	factor
+T19	Exp 216 220	that
+T20	Exp 395 401	GM-CSF
+T21	Exp 942 970	the GM-CSF proximal promoter	962 970	promoter
+T22	Exp 972 977	which
+T23	Exp 1076 1079	GM3
+T24	Exp 1130 1133	its
+T25	Exp 1980 1992	this protein
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T22 Antecedent:T21	[T8]
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T25 Antecedent:T20	[T5]

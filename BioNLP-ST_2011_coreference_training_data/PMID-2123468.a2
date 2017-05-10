@@ -1,0 +1,16 @@
+T8	Exp 117 144	the T-cell antigen receptor
+T9	Exp 162 175	T lymphocytes
+T10	Exp 184 189	their
+T11	Exp 234 263	several transcription factors
+T12	Exp 297 302	which
+T13	Exp 478 486	an assay
+T14	Exp 487 491	that
+T15	Exp 694 705	a construct
+T16	Exp 709 714	which
+T17	Exp 880 920	a bimodal pattern of beta-gal expression
+T18	Exp 924 929	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17	[T4]

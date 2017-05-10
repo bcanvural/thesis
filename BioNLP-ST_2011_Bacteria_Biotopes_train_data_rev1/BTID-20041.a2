@@ -1,0 +1,13 @@
+T1	Bacterium 382 395	Bacteroidetes
+T2	HostPart 432 437	cells
+T3	HostPart 489 502	intracellular
+T4	Bacterium 503 511	bacteria
+T5	HostPart 581 594	intracellular
+T6	Bacterium 627 635	bacteria
+T7	Host 649 665	eukaryotic hosts
+*	Equiv T4 T6
+E1	Localization Bacterium:T1 Localization:T2
+E2	Localization Bacterium:T4 Localization:T5
+E3	PartOf Host:T7 Part:T5
+E4	Localization Bacterium:T4 Localization:T7
+E5	Localization Bacterium:T4 Localization:T3

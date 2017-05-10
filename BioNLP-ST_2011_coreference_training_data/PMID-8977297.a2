@@ -1,0 +1,13 @@
+T13	Exp 187 215	interleukin-1beta (IL-1beta)
+T14	Exp 462 480	a promoter segment	473 480	segment
+T15	Exp 481 485	that
+T16	Exp 633 679	the functionally identified cis-acting element	672 679	element
+T17	Exp 896 919	this regulatory element	912 919	element
+T18	Exp 1213 1254	a reporter construct IL-1beta (-170/+108)	1224 1233	construct
+T19	Exp 1280 1303	this reporter construct	1294 1303	construct
+T20	Exp 1510 1519	this gene
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T19 Antecedent:T18	[T8]
+R5	Coref Anaphora:T20 Antecedent:T13	[T4, T3]

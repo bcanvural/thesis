@@ -1,0 +1,11 @@
+T2	Exp 331 375	these G-protein-coupled serpentine receptors	366 375	receptors
+T3	Exp 688 703	these receptors
+T4	Exp 862 893	a better characterized cytokine	885 893	cytokine
+T5	Exp 894 898	that
+T6	Exp 996 1041	several inflammatory cytokines and chemokines
+T7	Exp 1043 1048	which
+T8	Exp 1070 1075	their
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T8 Antecedent:T6

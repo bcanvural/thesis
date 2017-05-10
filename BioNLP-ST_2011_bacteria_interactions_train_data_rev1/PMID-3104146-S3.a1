@@ -1,0 +1,45 @@
+T1	Promoter 36 44	promoter
+T2	Gene 69 73	rrnB
+T3	PolymeraseComplex 151 161	E sigma 29
+W1	Word 0 2	In
+W2	Word 3 6	the
+W3	Word 7 14	present
+W4	Word 15 21	report
+W5	Word 22 24	we
+W6	Word 25 33	describe
+W7	Word 34 35	a
+W8	Word 36 44	promoter
+W9	Word 45 49	that
+W10	Word 50 52	is
+W11	Word 53 61	adjacent
+W12	Word 62 64	to
+W13	Word 65 68	the
+W14	Word 69 73	rrnB
+W15	Word 74 80	region
+W16	Word 81 83	of
+W17	Word 84 87	the
+W18	Word 88 99	B. subtilis
+W19	Word 100 110	chromosome
+W20	Word 111 114	and
+W21	Word 115 117	is
+W22	Word 118 126	utilized
+W23	Word 127 129	in
+W24	Word 130 135	vitro
+W25	Word 136 139	and
+W26	Word 140 142	in
+W27	Word 143 147	vivo
+W28	Word 148 150	by
+W29	Word 151 161	E sigma 29
+R1	mod_att:N-N W19 W18
+R2	mod_att:N-ADJ W4 W3
+R3	comp:V_PASS-N(in) W22 W24
+R4	comp:V_PASS-N(in) W22 W27
+R5	subj:V-N W6 W5
+R6	subj:V_PASS-N W22 W8
+R7	comp:ADJ-N(to) W11 W15
+R8	obj:V-N W6 W8
+R9	comp:V-N(in) W6 W4
+R10	comp:N-N(of) W15 W19
+R11	mod_pred:N-ADJ W8 W11
+R12	comp:V_PASS-N(by) W22 W29
+R13	mod_att:N-N W15 W14

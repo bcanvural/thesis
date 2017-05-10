@@ -1,0 +1,53 @@
+T1	Action 29 41	rising level
+T2	Protein 45 49	GerE
+T3	Gene 90 94	cotD
+T4	Transcription 95 108	transcription
+T5	Site 118 131	upstream site
+T6	Transcription 145 158	transcription
+T7	Site 166 181	downstream site
+W1	Word 0 5	These
+W2	Word 6 13	results
+W3	Word 14 21	suggest
+W4	Word 22 26	that
+W5	Word 27 28	a
+W6	Word 29 35	rising
+W7	Word 36 41	level
+W8	Word 42 44	of
+W9	Word 45 49	GerE
+W10	Word 50 52	in
+W11	Word 53 64	sporulating
+W12	Word 65 70	cells
+W13	Word 71 74	may
+W14	Word 75 80	first
+W15	Word 81 89	activate
+W16	Word 90 94	cotD
+W17	Word 95 108	transcription
+W18	Word 109 113	from
+W19	Word 114 117	the
+W20	Word 118 126	upstream
+W21	Word 127 131	site
+W22	Word 132 136	then
+W23	Word 137 144	repress
+W24	Word 145 158	transcription
+W25	Word 159 161	as
+W26	Word 162 165	the
+W27	Word 166 176	downstream
+W28	Word 177 181	site
+W29	Word 182 189	becomes
+W30	Word 190 198	occupied
+R1	mod_att:N-N W17 W16
+R2	obj:V-N W23 W24
+R3	subj:V-N W23 W7
+R4	obj:V-N W15 W17
+R5	subj:V-N W15 W7
+R6	mod_att:N-ADJ W28 W27
+R7	mod_att:N-ADJ W12 W11
+R8	mod:V-ADV W15 W14
+R9	comp:N-N(from) W17 W21
+R10	mod:V-ADV W23 W22
+R11	mod_att:N-ADJ W7 W6
+R12	comp:N-N(of) W7 W9
+R13	mod_pred:N-ADJ W28 W30
+R14	subj:V-N W3 W2
+R15	comp:N-N(in) W7 W12
+R16	mod_att:N-ADJ W21 W20

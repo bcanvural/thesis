@@ -1,0 +1,11 @@
+T18	Exp 2042 2068	Hsp70 expression in HUVECs	2048 2058	expression
+T19	Exp 2069 2073	that
+T20	Exp 2431 2441	the notion
+T21	Exp 2442 2446	that
+T22	Exp 2638 2641	CyA
+T23	Exp 2656 2659	its
+T24	Exp 2708 2711	its
+R1	Coref Anaphora:T19 Antecedent:T18	[T13]
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T24 Antecedent:T22

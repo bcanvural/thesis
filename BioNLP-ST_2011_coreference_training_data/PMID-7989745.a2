@@ -1,0 +1,3 @@
+T19	Exp 320 333	this receptor
+T20	Exp 415 428	this receptor
+R1	Coref Anaphora:T20 Antecedent:T19

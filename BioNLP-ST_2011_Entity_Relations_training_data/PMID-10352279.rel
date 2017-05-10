@@ -1,0 +1,6 @@
+T26	Entity 585 601	response element
+T27	Entity 603 609	CD28RE
+T28	Entity 1179 1185	CD28RE
+T29	Entity 1342 1359	promoter-reporter
+T30	Entity 1363 1378	RE/AP construct
+R1	Protein-Component Arg1:T8 Arg2:T27

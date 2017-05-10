@@ -1,0 +1,15 @@
+*	Equiv T18 T19
+T23	Entity 134 138	AP-1
+T24	Entity 1488 1579	deleted c-jun promoter fragments linked to the chloramphenicol acetyltransferase (CAT) gene
+T25	Entity 1502 1520	promoter fragments
+T26	Entity 1707 1726	region (-97 to -20)
+T27	Entity 1734 1742	promoter
+T28	Entity 1761 1778	AP-1 binding site
+T29	Entity 1761 1765	AP-1
+T30	Entity 2009 2018	AP-1 site
+T31	Entity 2009 2013	AP-1
+R1	Subunit-Complex Arg1:T1 Arg2:T23
+R2	Subunit-Complex Arg1:T2 Arg2:T23
+R3	Protein-Component Arg1:T17 Arg2:T24
+R4	Protein-Component Arg1:T18 Arg2:T24
+R5	Protein-Component Arg1:T17 Arg2:T25

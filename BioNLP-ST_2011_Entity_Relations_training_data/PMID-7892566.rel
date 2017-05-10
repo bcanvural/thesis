@@ -1,0 +1,7 @@
+T6	Entity 249 257	promoter
+T7	Entity 336 340	TCEd
+T8	Entity 358 384	transcription factor NF-kB
+T9	Entity 495 508	NFATd element
+T10	Entity 692 700	promoter
+R1	Protein-Component Arg1:T3 Arg2:T6
+R2	Protein-Component Arg1:T5 Arg2:T10

@@ -1,0 +1,15 @@
+*	Equiv T4 T5
+*	Equiv T8 T9
+*	Equiv T20 T21
+T30	Entity 72 106	nuclear factor of activated T cell
+T31	Entity 152 175	T cell antigen receptor
+T32	Entity 177 180	TCR
+T33	Entity 338 371	nuclear factor of activated cells
+T34	Entity 373 378	NF-AT
+T35	Entity 695 714	proline-rich region
+T36	Entity 695 702	proline
+T37	Entity 909 917	tyrosine
+T38	Entity 1169 1176	complex
+T39	Entity 1263 1268	NF-AT
+R1	Subunit-Complex Arg1:T26 Arg2:T38
+R2	Subunit-Complex Arg1:T27 Arg2:T38

@@ -1,0 +1,19 @@
+*	Equiv T3 T4
+T14	Entity 6 14	NFkappaB
+T15	Entity 19 22	AP1
+T16	Entity 70 78	promoter
+T17	Entity 411 430	Cis-acting elements
+T18	Entity 457 477	-like binding motifs
+T19	Entity 1166 1174	NFkappaB
+T20	Entity 1178 1181	AP1
+T21	Entity 1275 1283	NFkappaB
+T22	Entity 1288 1291	AP1
+T23	Entity 1374 1382	NFkappaB
+T24	Entity 1387 1390	AP1
+T25	Entity 1591 1599	NFkappaB
+T26	Entity 1604 1607	AP1
+T27	Entity 1645 1668	transcriptional complex
+R1	Protein-Component Arg1:T2 Arg2:T16
+R2	Protein-Component Arg1:T5 Arg2:T17
+R3	Protein-Component Arg1:T5 Arg2:T18
+R4	Subunit-Complex Arg1:T13 Arg2:T27

@@ -1,0 +1,44 @@
+T1	Gene 4 8	sspB
+T2	Gene 13 17	sspE
+T3	ProteinFamily 46 67	acid-soluble proteins
+T4	Transcription 104 115	transcribed
+T5	PolymeraseComplex 138 171	RNA polymerase containing sigma G
+W1	Word 0 3	The
+W2	Word 4 8	sspB
+W3	Word 9 12	and
+W4	Word 13 17	sspE
+W5	Word 18 23	genes
+W6	Word 24 28	code
+W7	Word 29 32	for
+W8	Word 33 38	major
+W9	Word 39 44	small
+W10	Word 46 58	acid-soluble
+W11	Word 59 67	proteins
+W12	Word 68 70	of
+W13	Word 71 88	Bacillus subtilis
+W14	Word 89 95	spores
+W15	Word 96 99	and
+W16	Word 100 103	are
+W17	Word 104 115	transcribed
+W18	Word 116 122	during
+W19	Word 123 134	sporulation
+W20	Word 135 137	by
+W21	Word 138 141	RNA
+W22	Word 142 152	polymerase
+W23	Word 153 163	containing
+W24	Word 164 171	sigma G
+R1	comp:N-N(of) W11 W14
+R2	mod_att:N-ADJ W11 W10
+R3	mod_att:N-ADJ W11 W9
+R4	mod_att:N-N W5 W4
+R5	mod_att:N-N W22 W21
+R6	mod_att:N-N W14 W13
+R7	comp:V_PASS-N(by) W17 W22
+R8	mod_att:N-ADJ W11 W8
+R9	subj:V-N W23 W22
+R10	obj:V-N W23 W24
+R11	subj:V-N W6 W5
+R12	comp:V-N(for) W6 W11
+R13	subj:V_PASS-N W17 W5
+R14	mod_att:N-N W5 W2
+R15	comp:V_PASS-N(during) W17 W19

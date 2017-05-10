@@ -1,0 +1,21 @@
+T4	Entity 27 71	human immunodeficiency virus type 1 enhancer
+T5	Entity 75 85	NF-kappa B
+T6	Entity 185 211	kappaB-responsive elements
+T7	Entity 219 271	human immunodeficiency virus type 1 (HIV-1) enhancer
+T8	Entity 511 520	NF-kappaB
+T9	Entity 536 554	enhancer sequences
+T10	Entity 683 692	NF-kappaB
+T11	Entity 718 749	endogenous long terminal repeat
+T12	Entity 817 826	NF-kappaB
+T13	Entity 1092 1101	NF-kappaB
+T14	Entity 1270 1296	kappaB-responsive elements
+T15	Entity 1305 1326	long terminal repeats
+T16	Entity 1555 1569	viral enhancer
+T17	Entity 1584 1591	p50/p65
+T18	Entity 1593 1605	heterodimers
+T19	Entity 1658 1670	HIV provirus
+T20	Entity 1825 1834	NF-kappaB
+R1	Subunit-Complex Arg1:T1 Arg2:T18
+R2	Subunit-Complex Arg1:T2 Arg2:T18
+R3	Subunit-Complex Arg1:T1 Arg2:T17
+R4	Subunit-Complex Arg1:T2 Arg2:T17

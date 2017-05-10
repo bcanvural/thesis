@@ -1,3 +1,6 @@
+#Http server that serves data from local mongodb
+#Example usage:
+#python3 server.py
 from flask import Flask, request, jsonify
 import subprocess
 import json
@@ -229,7 +232,7 @@ def barchart_data():
             chart_type = json_data['chart_type']
             pagenum = int(json_data['pagenum'])
             PAGESIZE = 40
-            chart_data = db['barcharts'].find({"type": chart_type}, {"_id": 0}).sort("freq", 1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
+            chart_data = db['barcharts'].find({"type": chart_type}, {"_id": 0}).sort("freq", -1).skip(PAGESIZE*(pagenum-1)).limit(PAGESIZE)
             if chart_data.count()==0:
                 return jsonify({"response": {}, "statusCode": 404, "message": "Not found"})
             return jsonify({"response": list(chart_data),"statusCode": 200})

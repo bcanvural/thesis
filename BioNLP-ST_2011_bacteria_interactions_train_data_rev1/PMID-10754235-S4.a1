@@ -1,0 +1,26 @@
+T1	Gene 36 40	abrB
+T2	Gene 55 61	spoIIA
+T3	Gene 66 72	spoIIE
+T4	Transcription 73 86	transcription
+W1	Word 0 2	In
+W2	Word 3 11	addition
+W3	Word 12 14	to
+W4	Word 15 21	others
+W5	Word 23 25	it
+W6	Word 26 35	represses
+W7	Word 36 40	abrB
+W8	Word 41 44	and
+W9	Word 45 54	activates
+W10	Word 55 61	spoIIA
+W11	Word 62 65	and
+W12	Word 66 72	spoIIE
+W13	Word 73 86	transcription
+R1	mod_att:N-N W13 W12
+R2	subj:V-N W9 W5
+R3	subj:V-N W6 W5
+R4	obj:V-N W9 W13
+R5	obj:V-N W6 W7
+R6	comp:V-N(in) W6 W2
+R7	mod_att:N-N W13 W10
+R8	comp:N-N(to) W2 W4
+R9	comp:V-N(in) W9 W2

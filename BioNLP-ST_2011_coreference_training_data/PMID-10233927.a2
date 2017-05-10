@@ -1,0 +1,12 @@
+T9	Exp 219 233	the mechanisms
+T10	Exp 237 242	which
+T11	Exp 671 680	the virus
+T12	Exp 690 693	its
+T13	Exp 741 768	genes controlling apoptosis	741 746	genes
+T14	Exp 780 785	those
+T15	Exp 1027 1061	the NF-kappaB transcription factor
+T16	Exp 1063 1068	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

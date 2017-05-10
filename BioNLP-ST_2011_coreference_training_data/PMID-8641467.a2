@@ -1,0 +1,12 @@
+T1	Exp 80 100	human Jurkat T cells
+T2	Exp 105 108	its
+T3	Exp 464 469	cells
+T4	Exp 470 474	that
+T5	Exp 512 524	Jurkat cells
+T6	Exp 525 529	that
+T7	Exp 731 765	alpha-lipoate and N-acetylcysteine
+T8	Exp 807 812	their
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T7

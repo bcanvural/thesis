@@ -1,0 +1,22 @@
+*	Equiv T1 T2
+*	Equiv T7 T8
+T26	Entity 0 5	IL-12
+T27	Entity 88 93	IL-12
+T28	Entity 261 266	IL-12
+T29	Entity 343 348	IL-12
+T30	Entity 384 389	genes
+T31	Entity 406 411	IL-12
+T32	Entity 465 470	genes
+T33	Entity 516 521	IL-12
+T34	Entity 712 717	IL-12
+T35	Entity 834 839	IL-12
+T36	Entity 959 963	IL-2
+T37	Entity 968 973	IL-12
+T38	Entity 1027 1032	IL-12
+T39	Entity 1160 1165	IL-12
+T40	Entity 1263 1271	promoter
+T41	Entity 1309 1314	IL-12
+T42	Entity 1401 1406	IL-12
+T43	Entity 1493 1498	IL-12
+T44	Entity 1546 1551	IL-12
+R1	Protein-Component Arg1:T19 Arg2:T40

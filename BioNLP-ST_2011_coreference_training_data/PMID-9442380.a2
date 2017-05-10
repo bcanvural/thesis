@@ -1,0 +1,12 @@
+T16	Exp 353 367	Tolerant cells	362 367	cells
+T17	Exp 404 408	they
+T18	Exp 709 723	a mutant motif	718 723	motif
+T19	Exp 724 728	that
+T20	Exp 779 796	the p50 homodimer	787 796	homodimer
+T21	Exp 797 801	that
+T22	Exp 1052 1079	efficient binding of p50p50	1062 1069	binding
+T23	Exp 1080 1084	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20	[T7]
+R4	Coref Anaphora:T23 Antecedent:T22	[T9, T8]

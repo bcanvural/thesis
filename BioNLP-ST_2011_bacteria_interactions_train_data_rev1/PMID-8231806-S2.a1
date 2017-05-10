@@ -1,0 +1,45 @@
+T1	Expression 8 18	expression
+T2	Gene 26 32	spoIIG
+T3	Promoter 33 41	promoter
+T4	Gene 114 118	kinA
+T5	Gene 120 125	spo0F
+T6	Gene 127 132	spo0B
+T7	Gene 137 142	spo0A
+W1	Word 0 2	In
+W2	Word 3 7	vivo
+W3	Word 8 18	expression
+W4	Word 19 21	of
+W5	Word 22 25	the
+W6	Word 26 32	spoIIG
+W7	Word 33 41	promoter
+W8	Word 42 44	is
+W9	Word 45 54	activated
+W10	Word 55 62	shortly
+W11	Word 63 68	after
+W12	Word 69 72	the
+W13	Word 73 78	onset
+W14	Word 79 81	of
+W15	Word 82 93	sporulation
+W16	Word 94 97	and
+W17	Word 98 100	is
+W18	Word 101 110	dependent
+W19	Word 111 113	on
+W20	Word 114 118	kinA
+W21	Word 120 125	spo0F
+W22	Word 127 132	spo0B
+W23	Word 133 136	and
+W24	Word 137 142	spo0A
+W25	Word 143 148	genes
+R1	mod_pred:N-ADJ W3 W18
+R2	subj:V_PASS-N W9 W3
+R3	comp:V_PASS-N(after) W9 W13
+R4	comp:N-N(of) W3 W7
+R5	mod_att:N-N W25 W21
+R6	mod_att:N-N W25 W20
+R7	comp:N-N(of) W13 W15
+R8	mod_att:N-N W7 W6
+R9	mod_att:N-N W25 W22
+R10	mod_att:N-N W25 W24
+R11	mod:V_PASS-ADV W9 W10
+R12	comp:N-N(in) W3 W2
+R13	comp:ADJ-N(on) W18 W25

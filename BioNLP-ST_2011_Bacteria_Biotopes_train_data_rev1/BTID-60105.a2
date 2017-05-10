@@ -1,0 +1,130 @@
+T1	Bacterium 0 20	Campylobacter Jejuni
+T2	Bacterium 50 70	Campylobacter jejuni
+T3	Host 159 165	animal
+T4	HostPart 166 171	feces
+T5	Host 187 193	wombat
+T6	Host 195 203	kangaroo
+T7	Host 208 212	bird
+T8	HostPart 213 218	feces
+T9	Bacterium 565 585	Campylobacter jejuni
+T10	Food 613 617	food
+T11	Geographical 639 652	United States
+T12	Food 740 744	food
+T13	Bacterium 794 814	Campylobacter jejuni
+T14	HostPart 853 859	stools
+T15	Host 872 883	individuals
+T16	Host 895 901	animal
+T17	HostPart 902 907	feces
+T18	Host 944 950	humans
+T19	Host 955 962	animals
+T20	Bacterium 3364 3384	Campylobacter jejuni
+T21	Host 3825 3841	Children under 5
+T22	Host 3846 3858	young adults
+T23	Food 3972 3976	food
+T24	Bacterium 4096 4109	Campylobacter
+T25	HostPart 4135 4145	intestines
+T26	Host 4154 4161	animals
+T27	Host 4171 4177	humans
+T28	HostPart 4202 4224	intestinal environment
+T29	Bacterium 4291 4304	Campylobacter
+T30	HostPart 4331 4372	ileum and jejunum in the small intestines
+T31	Food 4446 4450	food
+T32	Geographical 4472 4485	United States
+T33	Bacterium 4487 4500	Campylobacter
+T34	Bacterium 4560 4573	Campylobacter
+T35	Food 4590 4595	water
+T36	Food 4597 4601	milk
+T37	Food 4605 4621	undercooked meat
+T38	Food 4634 4641	chicken
+T39	Host 4823 4831	patients
+T40	Bacterium 5230 5243	Campylobacter
+T41	Host 5325 5333	patients
+T42	Bacterium 5423 5443	Campylobacter jejuni
+T43	Food 5551 5555	food
+T44	Geographical 5577 5590	United States
+T45	Bacterium 5873 5893	Campylobacter jejuni
+T46	Host 6036 6044	patients
+T47	Bacterium 6114 6134	Campylobacter jejuni
+T48	HostPart 6144 6150	stools
+T49	Bacterium 6272 6292	Campylobacter jejuni
+T50	Host 6337 6344	patient
+T51	Bacterium 6411 6431	Campylobacter jejuni
+T52	Bacterium 8268 8288	Campylobacter jejuni
+T53	Food 8311 8315	food
+T54	Geographical 8330 8339	worldwide
+T55	Food 8384 8398	drinking water
+T56	Bacterium 8556 8576	Campylobacter jejuni
+T57	Water 8580 8585	water
+T58	Environment 8590 8598	biofilms
+T59	Water 8715 8720	water
+T60	Environment 8725 8733	biofilms
+*	Equiv T58 T60
+*	Equiv T42 T45
+*	Equiv T42 T47
+*	Equiv T42 T49
+*	Equiv T42 T51
+*	Equiv T42 T52
+*	Equiv T42 T56
+*	Equiv T24 T29
+*	Equiv T24 T33
+*	Equiv T24 T34
+*	Equiv T24 T40
+*	Equiv T1 T2
+*	Equiv T1 T9
+*	Equiv T1 T13
+*	Equiv T1 T20
+*	Equiv T10 T12
+*	Equiv T4 T8
+*	Equiv T57 T59
+E1	PartOf Host:T26 Part:T25
+E2	Localization Bacterium:T24 Localization:T26
+E3	PartOf Host:T6 Part:T4
+E4	Localization Bacterium:T1 Localization:T6
+E5	Localization Bacterium:T1 Localization:T23
+E6	PartOf Host:T26 Part:T30
+E7	PartOf Host:T26 Part:T28
+E8	Localization Bacterium:T1 Localization:T5
+E9	Localization Bacterium:T24 Localization:T27
+E10	PartOf Host:T7 Part:T4
+E11	Localization Bacterium:T24 Localization:T28
+E12	Localization Bacterium:T1 Localization:T11
+E13	Localization Bacterium:T42 Localization:T54
+E14	Localization Bacterium:T1 Localization:T10
+E15	PartOf Host:T50 Part:T48
+E16	Localization Bacterium:T24 Localization:T32
+E17	Localization Bacterium:T42 Localization:T43
+E18	Localization Bacterium:T1 Localization:T14
+E19	Localization Bacterium:T1 Localization:T21
+E20	Localization Bacterium:T1 Localization:T19
+E21	PartOf Host:T3 Part:T4
+E22	Localization Bacterium:T24 Localization:T30
+E23	Localization Bacterium:T42 Localization:T48
+E24	Localization Bacterium:T42 Localization:T53
+E25	Localization Bacterium:T1 Localization:T4
+E26	Localization Bacterium:T1 Localization:T17
+E27	Localization Bacterium:T42 Localization:T57
+E28	Localization Bacterium:T24 Localization:T25
+E29	PartOf Host:T15 Part:T14
+E30	Localization Bacterium:T24 Localization:T35
+E31	Localization Bacterium:T1 Localization:T3
+E32	Localization Bacterium:T24 Localization:T31
+E33	Localization Bacterium:T42 Localization:T55
+E34	Localization Bacterium:T24 Localization:T39
+E35	Localization Bacterium:T24 Localization:T36
+E36	PartOf Host:T27 Part:T30
+E37	Localization Bacterium:T42 Localization:T46
+E38	Localization Bacterium:T42 Localization:T58
+E39	PartOf Host:T5 Part:T4
+E40	Localization Bacterium:T24 Localization:T38
+E41	PartOf Host:T27 Part:T25
+E42	Localization Bacterium:T1 Localization:T22
+E43	Localization Bacterium:T24 Localization:T41
+E44	Localization Bacterium:T1 Localization:T15
+E45	Localization Bacterium:T42 Localization:T44
+E46	Localization Bacterium:T1 Localization:T16
+E47	PartOf Host:T27 Part:T28
+E48	Localization Bacterium:T42 Localization:T50
+E49	PartOf Host:T16 Part:T17
+E50	Localization Bacterium:T24 Localization:T37
+E51	Localization Bacterium:T1 Localization:T18
+E52	Localization Bacterium:T1 Localization:T7

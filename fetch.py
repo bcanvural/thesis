@@ -1,4 +1,6 @@
-#Python file to fetch specific jobs, cvs, categories
+#Python file to fetch specific jobs, cvs, categories in command line
+# Example usage:
+# python3 -u fetch.py 0 542 "description" > output.txt
 from pathlib import Path
 import sys
 import json

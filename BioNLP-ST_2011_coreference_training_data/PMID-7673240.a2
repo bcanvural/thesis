@@ -1,0 +1,13 @@
+T17	Exp 293 322	several transcription factors	301 322	transcription factors
+T18	Exp 323 327	that
+T19	Exp 422 558	a novel regulatory element within the IL-2 promoter located immediately upstream of the nuclear factor of activated T cell (NFAT) domain	441 448	element
+T20	Exp 560 571	This region	565 571	region
+T21	Exp 813 831	unstimulated cells	826 831	cells
+T22	Exp 832 837	which
+T23	Exp 877 888	this region	882 888	region
+T24	Exp 970 982	this element	975 982	element
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19	[T7]
+R3	Coref Anaphora:T22 Antecedent:T21
+R4	Coref Anaphora:T23 Antecedent:T20
+R5	Coref Anaphora:T24 Antecedent:T23

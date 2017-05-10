@@ -1,0 +1,6 @@
+T7	Exp 1311 1321	NF-kappa B
+T8	Exp 1421 1435	The activation	1425 1435	activation
+T9	Exp 1439 1458	this nuclear factor	1444 1458	nuclear factor
+T10	Exp 1520 1524	that
+R1	Coref Anaphora:T9 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T8

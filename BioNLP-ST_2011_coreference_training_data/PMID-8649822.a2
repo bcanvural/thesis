@@ -1,0 +1,3 @@
+T13	Exp 493 521	the reciprocal translocation	508 521	translocation
+T14	Exp 522 526	that
+R1	Coref Anaphora:T14 Antecedent:T13

@@ -1,0 +1,40 @@
+T1	Protein 23 47	purified product of gerE
+T2	Protein 49 53	GerE
+T3	ProteinFamily 60 79	DNA-binding protein
+T4	Promoter 100 109	promoters
+T5	Gene 114 118	cotB
+T6	Gene 123 127	cotC
+W1	Word 0 2	We
+W2	Word 3 6	now
+W3	Word 7 13	report
+W4	Word 14 18	that
+W5	Word 19 22	the
+W6	Word 23 31	purified
+W7	Word 32 39	product
+W8	Word 40 42	of
+W9	Word 43 47	gerE
+W10	Word 49 53	GerE
+W11	Word 55 57	is
+W12	Word 58 59	a
+W13	Word 60 71	DNA-binding
+W14	Word 72 79	protein
+W15	Word 80 84	that
+W16	Word 85 92	adheres
+W17	Word 93 95	to
+W18	Word 96 99	the
+W19	Word 100 109	promoters
+W20	Word 110 113	for
+W21	Word 114 118	cotB
+W22	Word 119 122	and
+W23	Word 123 127	cotC
+R1	mod_att:N-ADJ W7 W6
+R2	mod:V-ADV W3 W2
+R3	comp:N-N(for) W19 W23
+R4	comp:V-N(to) W16 W19
+R5	subj:V-N W16 W14
+R6	mod_pred:N-N W7 W14
+R7	appos W7 W10
+R8	comp:N-N(for) W19 W21
+R9	mod_att:N-N W14 W13
+R10	subj:V-N W3 W1
+R11	comp:N-N(of) W7 W9

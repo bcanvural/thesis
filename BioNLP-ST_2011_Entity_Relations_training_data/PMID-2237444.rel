@@ -1,0 +1,20 @@
+*	Equiv T1 T2
+T4	Entity 35 84	double-stranded phosphorothioate oligonucleotides
+T5	Entity 405 408	DNA
+T6	Entity 444 498	double-stranded (ds) phosphorothioate oligonucleotides
+T7	Entity 533 552	consensus sequences
+T8	Entity 558 591	phosphorothioate oligonucleotides
+T9	Entity 650 677	nuclear factor (NF)-kappa B
+T10	Entity 683 708	modified oligonucleotides
+T11	Entity 752 780	standard ds oligonucleotides
+T12	Entity 887 897	NF-kappa B
+T13	Entity 926 969	human immunodeficiency virus (HIV) enhancer
+T14	Entity 1005 1037	phosphorothioate oligonucleotide
+T15	Entity 1102 1172	phosphorothioate oligonucleotides that contained the octamer consensus
+T16	Entity 1102 1135	phosphorothioate oligonucleotides
+T17	Entity 1155 1172	octamer consensus
+T18	Entity 1285 1305	mutated octamer site
+T19	Entity 1318 1326	enhancer
+T20	Entity 1335 1368	phosphorothioate oligonucleotides
+R1	Protein-Component Arg1:T3 Arg2:T18
+R2	Protein-Component Arg1:T3 Arg2:T19

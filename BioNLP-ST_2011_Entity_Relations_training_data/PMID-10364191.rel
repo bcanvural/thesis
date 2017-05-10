@@ -1,0 +1,9 @@
+T8	Entity 92 101	NF-kappaB
+T9	Entity 790 802	viral genome
+T10	Entity 952 982	HIV-1 genome carrying the cDNA
+T11	Entity 952 964	HIV-1 genome
+T12	Entity 978 982	cDNA
+T13	Entity 1076 1082	region
+T14	Entity 1480 1499	open-reading frames
+T15	Entity 1514 1528	HIV/SIV genome
+R1	Protein-Component Arg1:T3 Arg2:T13

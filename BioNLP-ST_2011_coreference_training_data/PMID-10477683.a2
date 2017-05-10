@@ -1,0 +1,11 @@
+T13	Exp 88 118	The transcriptional mechanisms	108 118	mechanisms
+T14	Exp 119 123	that
+T15	Exp 410 430	inhibitory complexes	421 430	complexes
+T16	Exp 431 435	that
+T17	Exp 528 543	These complexes	534 543	complexes
+T18	Exp 1275 1282	targets
+T19	Exp 1283 1287	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T17 Antecedent:T15
+R4	Coref Anaphora:T19 Antecedent:T18

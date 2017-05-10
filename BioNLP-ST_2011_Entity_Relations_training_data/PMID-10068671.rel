@@ -1,0 +1,18 @@
+*	Equiv T7 T8
+T32	Entity 434 437	CD3
+T33	Entity 617 622	IL-12
+T34	Entity 944 956	GAS elements
+T35	Entity 1171 1179	GAS site
+T36	Entity 1200 1208	tyrosine
+T37	Entity 1269 1274	IL-12
+T38	Entity 1337 1349	GAS elements
+T39	Entity 1409 1414	IL-12
+R1	Protein-Component Arg1:T15 Arg2:T34
+R2	Protein-Component Arg1:T16 Arg2:T34
+R3	Protein-Component Arg1:T17 Arg2:T34
+R4	Protein-Component Arg1:T21 Arg2:T35
+R5	Protein-Component Arg1:T22 Arg2:T36
+R6	Protein-Component Arg1:T23 Arg2:T36
+R7	Protein-Component Arg1:T24 Arg2:T36
+R8	Protein-Component Arg1:T25 Arg2:T36
+R9	Protein-Component Arg1:T26 Arg2:T36

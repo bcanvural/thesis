@@ -1,0 +1,30 @@
+Sample Data for BioNLP'11 Shared Task on Event Extraction -- Bacteria Gene Renaming
+
+
+- Contains 3 PubMed abstracts and their gene/protein names and renaming/synonymy relations
+  annotations.
+
+- For format details, please refer to the shared task homepage.
+  http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/
+
+
+File Descriptions:
+
+*.txt	files contain the target text.
+	Each of these files consists of two lines, one for the title and one for the abstract.
+*.a1	files contain standoff annotations for genes and proteins.
+	The participants will be provided with these files.
+*.a2	files contain standoff annotations for renaming relations.
+	For training, the participants will be provided with these files.
+	For test, the participants have to create this annotation.
+
+History:
+
+ 7 September 2010, Initial version
+
+
+Authors:
+
+BioNLP'09 Shared Task organizers,
+bionlpsharedtask@gmail.com
+http://www-tsujii.is.s.u-tokyo.ac.jp/GENIA/SharedTask/

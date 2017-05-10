@@ -1,0 +1,30 @@
+T1	Bacterium 0 15	Vibrio cholerae
+T2	Bacterium 16 31	Vibrio cholerae
+T3	Bacterium 47 54	Vibrios
+T4	Water 173 179	oceans
+T5	Water 181 195	coastal waters
+T6	Water 201 210	estuaries
+T7	Bacterium 238 253	Vibrio cholerae
+T8	Host 299 305	humans
+T9	Host 736 744	children
+T10	Geographical 857 864	Bengali
+T11	Geographical 913 922	Indonesia
+T12	Geographical 949 967	Western hemisphere
+T13	Geographical 1000 1004	Peru
+T14	Geographical 1035 1053	Western hemisphere
+T15	Bacterium 1682 1697	Vibrio cholerae
+T16	Host 1815 1820	human
+*	Equiv T1 T2
+*	Equiv T1 T7
+*	Equiv T1 T15
+*	Equiv T8 T16
+E1	Localization Bacterium:T1 Localization:T8
+E2	Localization Bacterium:T1 Localization:T11
+E3	Localization Bacterium:T1 Localization:T10
+E4	Localization Bacterium:T1 Localization:T12
+E5	Localization Bacterium:T3 Localization:T5
+E6	Localization Bacterium:T1 Localization:T9
+E7	Localization Bacterium:T1 Localization:T13
+E8	Localization Bacterium:T3 Localization:T4
+E9	Localization Bacterium:T1 Localization:T14
+E10	Localization Bacterium:T3 Localization:T6

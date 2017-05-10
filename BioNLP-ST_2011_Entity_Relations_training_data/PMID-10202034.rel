@@ -1,0 +1,16 @@
+*	Equiv T10 T11
+T26	Entity 85 95	NF-kappa B
+T27	Entity 430 440	NF-kappa B
+T28	Entity 626 636	NF-kappa B
+T29	Entity 912 919	kappa B
+T30	Entity 935 943	promoter
+T31	Entity 1041 1044	DNA
+T32	Entity 1056 1066	NF-kappa B
+T33	Entity 1130 1140	NF-kappa B
+T34	Entity 1175 1185	NF-kappa B
+T35	Entity 1247 1255	promoter
+T36	Entity 1301 1307	serine
+T37	Entity 1506 1516	NF-kappa B
+T38	Entity 1597 1607	NF-kappa B
+R1	Protein-Component Arg1:T18 Arg2:T30
+R2	Protein-Component Arg1:T21 Arg2:T35

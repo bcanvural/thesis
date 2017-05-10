@@ -1,0 +1,12 @@
+T14	Exp 352 404	a hematopoietic-specific DNase I hypersensitive site	400 404	site
+T15	Exp 406 411	which
+T16	Exp 686 690	HS I
+T17	Exp 919 986	a multi-protein hematopoietic-specific transcription factor complex	979 986	complex
+T18	Exp 987 992	which
+T19	Exp 1296 1309	a GATA-factor
+T20	Exp 1381 1384	its
+T21	Exp 1699 1715	the HS I element	1708 1715	element
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T18 Antecedent:T17
+R3	Coref Anaphora:T20 Antecedent:T19
+R4	Coref Anaphora:T21 Antecedent:T16

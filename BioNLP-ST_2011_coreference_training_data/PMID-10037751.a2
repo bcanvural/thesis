@@ -1,0 +1,6 @@
+T15	Exp 239 278	the DNase-I-hypersensitive (HS) regions	271 278	regions
+T16	Exp 343 348	their
+T17	Exp 1085 1109	a 707-base pair silencer	1101 1109	silencer
+T18	Exp 1110 1114	that
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17

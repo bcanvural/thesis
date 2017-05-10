@@ -1,0 +1,12 @@
+T24	Exp 290 295	Bcl-2
+T25	Exp 303 306	its
+T26	Exp 496 507	other drugs	502 507	drugs
+T27	Exp 508 512	that
+T28	Exp 1042 1073	a calcium-dependent phosphatase	1062 1073	phosphatase
+T29	Exp 1074 1078	that
+T30	Exp 1236 1247	other drugs	1242 1247	drugs
+T31	Exp 1248 1252	that
+R1	Coref Anaphora:T25 Antecedent:T24	[T4]
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28
+R4	Coref Anaphora:T31 Antecedent:T30

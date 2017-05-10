@@ -1,0 +1,8 @@
+T19	Exp 521 536	the NF-IL6 gene	532 536	gene
+T20	Exp 658 660	it
+T21	Exp 1553 1579	The putative promoter area	1575 1579	area
+T22	Exp 1594 1599	those
+T23	Exp 1653 1655	it
+R1	Coref Anaphora:T20 Antecedent:T19	[T6]
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T23 Antecedent:T21

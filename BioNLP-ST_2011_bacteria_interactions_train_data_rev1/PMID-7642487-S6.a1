@@ -1,0 +1,38 @@
+T1	Protein 34 38	SinR
+T2	Gene 88 93	genes
+T3	Gene 101 105	sp0A
+T4	Gene 107 113	spoIIA
+T5	Gene 128 134	spoIIG
+T6	Gene 139 145	spoIIE
+W1	Word 0 7	Finally
+W2	Word 9 11	we
+W3	Word 12 19	present
+W4	Word 20 28	evidence
+W5	Word 29 33	that
+W6	Word 34 38	SinR
+W7	Word 39 47	controls
+W8	Word 48 59	sporulation
+W9	Word 60 67	through
+W10	Word 68 75	several
+W11	Word 76 87	independent
+W12	Word 88 93	genes
+W13	Word 95 99	i.e.
+W14	Word 101 105	sp0A
+W15	Word 107 113	spoIIA
+W16	Word 115 118	and
+W17	Word 119 127	possibly
+W18	Word 128 134	spoIIG
+W19	Word 135 138	and
+W20	Word 139 145	spoIIE
+R1	appos W12 W15
+R2	subj:V-N W3 W2
+R3	obj:V-N W7 W8
+R4	appos W12 W14
+R5	mod_att:N-N W12 W11
+R6	appos W12 W20
+R7	comp:V-N(through) W7 W12
+R8	mod_att:N-ADJ W12 W10
+R9	appos W12 W18
+R10	subj:V-N W7 W6
+R11	obj:V-N W3 W4
+R12	mod:V-ADV W3 W1

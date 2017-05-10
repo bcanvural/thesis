@@ -1,0 +1,31 @@
+*	Equiv T8 T9
+T15	Entity 0 10	Fibrinogen
+T16	Entity 21 53	NF-kappa B transcription factors
+T17	Entity 372 382	fibrinogen
+T18	Entity 406 438	NF-kappa B transcription factors
+T19	Entity 524 534	fibrinogen
+T20	Entity 568 578	CD11b/CD18
+T21	Entity 604 614	CD11c/CD18
+T22	Entity 638 648	fibrinogen
+T23	Entity 748 758	NF-kappa B
+T24	Entity 836 846	fibrinogen
+T25	Entity 848 858	Fibrinogen
+T26	Entity 885 889	AP-1
+T27	Entity 906 910	cAMP
+T28	Entity 1007 1017	fibrinogen
+T29	Entity 1026 1036	NF-kappa B
+T30	Entity 1163 1177	HIV-1 enhancer
+T31	Entity 1191 1207	NF-kappa B sites
+T32	Entity 1191 1201	NF-kappa B
+T33	Entity 1262 1270	reporter
+T34	Entity 1367 1377	fibrinogen
+T35	Entity 1452 1462	fibrinogen
+T36	Entity 1559 1569	fibrinogen
+T37	Entity 1659 1669	CD11b/CD18
+T38	Entity 1754 1764	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T20
+R2	Subunit-Complex Arg1:T2 Arg2:T20
+R3	Subunit-Complex Arg1:T3 Arg2:T21
+R4	Subunit-Complex Arg1:T4 Arg2:T21
+R5	Subunit-Complex Arg1:T13 Arg2:T37
+R6	Subunit-Complex Arg1:T14 Arg2:T37

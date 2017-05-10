@@ -1,0 +1,16 @@
+*	Equiv T2 T3
+T10	Entity 406 429	ACT-1-activating region
+T11	Entity 442 450	promoter
+T12	Entity 516 522	5' end
+T13	Entity 600 617	upstream elements
+T14	Entity 628 634	3' end
+T15	Entity 841 860	regulatory elements
+T16	Entity 893 903	ACT-1 site
+T17	Entity 932 943	ARRE-1 site
+T18	Entity 956 964	promoter
+T19	Entity 1086 1105	regulatory elements
+R1	Protein-Component Arg1:T4 Arg2:T10
+R2	Protein-Component Arg1:T4 Arg2:T11
+R3	Protein-Component Arg1:T5 Arg2:T13
+R4	Protein-Component Arg1:T7 Arg2:T17
+R5	Protein-Component Arg1:T7 Arg2:T18

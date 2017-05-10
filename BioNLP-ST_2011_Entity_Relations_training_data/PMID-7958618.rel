@@ -1,0 +1,23 @@
+*	Equiv T1 T2
+T8	Entity 13 24	glutathione
+T9	Entity 29 50	glutathione disulfide
+T10	Entity 128 136	cysteine
+T11	Entity 171 182	glutathione
+T12	Entity 184 187	GSH
+T13	Entity 193 214	glutathione disulfide
+T14	Entity 216 220	GSSG
+T15	Entity 301 305	GSSG
+T16	Entity 399 409	NF kappa B
+T17	Entity 424 428	GSSG
+T18	Entity 472 482	NF kappa B
+T19	Entity 499 503	GSSG
+T20	Entity 690 694	GSSG
+T21	Entity 761 771	NF kappa B
+T22	Entity 814 837	T cell antigen receptor
+T23	Entity 1033 1055	intracellular GSH pool
+T24	Entity 1047 1050	GSH
+T25	Entity 1182 1185	GSH
+T26	Entity 1242 1246	GSSG
+T27	Entity 1370 1380	cyst(e)ine
+T28	Entity 1399 1402	GSH
+T29	Entity 1469 1473	GSSG

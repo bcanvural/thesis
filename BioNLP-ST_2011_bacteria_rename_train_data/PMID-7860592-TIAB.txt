@@ -1,0 +1,2 @@
+Identification and isolation of a gene required for nitrate assimilation and anaerobic growth of Bacillus subtilis.
+The Bacillus subtilis narA locus was shown to include narQ and narA. The putative product of narQ is similar to FdhD, which is required for formate dehydrogenase activity in Escherichia coli. NarA showed homology to MoaA, a protein involved in biosynthesis of the molybdenum cofactor for nitrate reductase and formate dehydrogenase. Analysis of mutants showed that narA but not narQ is required for both nitrate assimilation and respiration.

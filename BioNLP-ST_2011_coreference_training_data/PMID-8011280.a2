@@ -1,0 +1,23 @@
+T2	Exp 61 71	NF-kappa B
+T3	Exp 124 127	its
+T4	Exp 235 245	NF-kappa B
+T5	Exp 323 326	its
+T6	Exp 386 389	its
+T7	Exp 512 546	five distinct DNA binding subunits
+T8	Exp 567 572	which
+T9	Exp 849 867	I kappa B subunits
+T10	Exp 871 876	which
+T11	Exp 1054 1071	the Bcl-3 protein	1064 1071	protein
+T12	Exp 1072 1077	which
+T13	Exp 1254 1278	The intracellular events
+T14	Exp 1279 1283	that
+T15	Exp 1371 1375	They
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T4 Antecedent:T2
+R3	Coref Anaphora:T5 Antecedent:T4
+R4	Coref Anaphora:T6 Antecedent:T4
+R5	Coref Anaphora:T8 Antecedent:T7
+R6	Coref Anaphora:T10 Antecedent:T9
+R7	Coref Anaphora:T12 Antecedent:T11	[T1]
+R8	Coref Anaphora:T14 Antecedent:T13
+R9	Coref Anaphora:T15 Antecedent:T13

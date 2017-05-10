@@ -1,0 +1,9 @@
+T13	Exp 9 47	a new zinc finger transcription factor	27 47	transcription factor
+T14	Exp 48 52	that
+T15	Exp 444 505	the first "late" T lymphocyte associated transcription factor	463 473	lymphocyte
+T16	Exp 516 518	it
+T17	Exp 591 648	a novel, phosphorylated, zinc finger transcription factor	628 648	transcription factor
+T18	Exp 649 653	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17

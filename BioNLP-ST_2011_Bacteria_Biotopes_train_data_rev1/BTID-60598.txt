@@ -1,0 +1,12 @@
+Spirochaeta americana
+Description and Significance
+S. americana is an extremophile. It has been found in the highly alkaline anaerobic environment of Mono Lake, California. S. Americana can also inhabit areas with high sulfur and salt concentrations. S. americana has scientists especially excited. Some believe that the harsh environment of Mono Lake is similar to that of Mars, giving hope to the theory that life existed there. S. americana is an obligate anaerobe and has an optimal pH range of 8.0 - 10.5. Cells of the Gram-negative strain were motile and spirochaete-shaped with sizes of 0.2-0.22 x 8-18 microm.
+Genome Structure
+A sequence covering 1467 nt of the 16S rRNA gene of Spirochaeta americana ASpG1T was obtained, corresponding to positions 28-1551 of the E. coli 16S rDNA sequence. The G+C content of this sequence was 55.96 mol%. The sequence was compared with all sequences presently available in the GenBank database and appeared to be highly similar to sequences from the spirochaete group of organisms.
+Cell Structure and Metabolism
+Comparison of morphological and physiological characteristics of strain ASpG1T with those of other members of the genus Spirochaeta
+Characteristic
+Species: 1, S. americana ASpG1T (this study); 2, S. alkalica Z-7491T (Zhilina et al., 1996); 3, S. africana Z-7492T (Zhilina et al., 1996); 4, S. asiatica Z-7591T (Zhilina et al., 1996); 5, S. halophila RS1T (Greenberg & Canale-Parola, 1976). ND, Not determined; +, substrate used/positive; -, substrate not used/negative; OA, obligate anaerobe; FA, facultative anaerobe. All strains utilized D-glucose, maltose, sucrose and starch as substrates. All strains produced acetate and ethanol from glucose.
+Ecology
+Isolation and Cultivation
+Growth is dependent upon carbonate and sodium ions in the medium. No growth occurs below 2% (w/v) NaCl or above 12% (w/v) NaCl. Cells can be stored frozen in a liquid medium. Strictly anaerobic, catalase-negative chemoheterotroph with fermentative type of metabolism. Preferred substrates are D-glucose, fructose, maltose, sucrose, starch and D-mannitol. Requires vitamins and yeast extract for growth. Primary end product of glucose fermentation is H2; the minor end products in the stationary phase of growth are acetate, formate, ethanol and CO2. Resistant to kanamycin and rifampicin, but sensitive to gentamicin, tetracycline and chloramphenicol.[3]

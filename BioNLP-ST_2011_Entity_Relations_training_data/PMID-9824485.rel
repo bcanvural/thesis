@@ -1,0 +1,15 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T22	Entity 24 40	protein kinase C
+T23	Entity 308 324	Protein kinase C
+T24	Entity 326 329	PKC
+T25	Entity 422 425	PKC
+T26	Entity 552 555	PKC
+T27	Entity 1142 1150	promoter
+T28	Entity 1166 1190	luciferase reporter gene
+T29	Entity 1385 1425	transcription factor activator protein-1
+T30	Entity 1427 1431	AP-1
+T31	Entity 1607 1611	AP-1
+T32	Entity 1837 1840	PKC
+T33	Entity 1859 1862	PKC
+R1	Protein-Component Arg1:T14 Arg2:T27

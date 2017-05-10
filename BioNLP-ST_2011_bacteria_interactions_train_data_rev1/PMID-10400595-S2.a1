@@ -1,0 +1,30 @@
+T1	Protein 0 4	GerE
+T2	Site 16 20	site
+T3	Promoter 24 46	one of these promoters
+T4	Gene 48 52	cotX
+T5	Promoter 68 71	its
+T6	Site 72 82	-35 region
+W1	Word 0 4	GerE
+W2	Word 5 10	binds
+W3	Word 11 13	to
+W4	Word 14 15	a
+W5	Word 16 20	site
+W6	Word 21 23	on
+W7	Word 24 27	one
+W8	Word 28 30	of
+W9	Word 31 36	these
+W10	Word 37 46	promoters
+W11	Word 48 52	cotX
+W12	Word 54 58	that
+W13	Word 59 67	overlaps
+W14	Word 68 71	its
+W15	Word 72 75	-35
+W16	Word 76 82	region
+R1	mod_att:N-ADJ W16 W15
+R2	appos W10 W11
+R3	subj:V-N W13 W5
+R4	comp:V-N(to) W2 W5
+R5	subj:V-N W2 W1
+R6	comp:N-N(of) W7 W10
+R7	comp:N-N(on) W5 W7
+R8	obj:V-N W13 W16

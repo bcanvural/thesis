@@ -1,0 +1,14 @@
+T26	Exp 110 200	Stat (signal transducers and activators of transcription) and Jak (Janus kinases) proteins	192 200	proteins
+T27	Exp 297 301	They
+T28	Exp 898 936	the transactivation potential of Stat6	918 927	potential
+T29	Exp 952 954	it
+T30	Exp 1668 1692	a transactivation domain	1686 1692	domain
+T31	Exp 1693 1698	which
+T32	Exp 1731 1735	that
+T33	Exp 1770 1805	the transactivation domain of Stat6	1790 1796	domain
+T34	Exp 1845 1848	its
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28	[T10]
+R3	Coref Anaphora:T31 Antecedent:T30
+R4	Coref Anaphora:T32 Antecedent:T30
+R5	Coref Anaphora:T34 Antecedent:T33	[T24]

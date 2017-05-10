@@ -1,0 +1,6 @@
+T1	Exp 450 486	Rel/NF-kappa B transcription factors	465 486	transcription factors
+T2	Exp 505 521	survival signals	514 521	signals
+T3	Exp 522 526	that
+T4	Exp 606 619	these factors	612 619	factors
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T4 Antecedent:T1

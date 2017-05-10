@@ -1,0 +1,3 @@
+T1	Bacterium 37 62	Bradyrhizobium sp. BTAi 1
+T2	Host 229 248	Aeschynomene indica
+E1	Localization Bacterium:T1 Localization:T2

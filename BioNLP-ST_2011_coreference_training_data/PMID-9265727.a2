@@ -1,0 +1,9 @@
+T4	Exp 288 311	gene therapeutic agents	305 311	agents
+T5	Exp 312 316	that
+T6	Exp 325 346	NF-kappa b activation	336 346	activation
+T7	Exp 456 459	its
+T8	Exp 751 797	other elements regulating IL-4 gene expression	757 765	elements
+T9	Exp 839 844	these
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8	[T3]

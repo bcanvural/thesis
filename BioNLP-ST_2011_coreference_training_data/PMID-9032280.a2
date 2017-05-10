@@ -1,0 +1,8 @@
+T13	Exp 478 486	each one	483 486	one
+T14	Exp 498 529	a specific pattern of cytokines	509 516	pattern
+T15	Exp 530 534	that
+T16	Exp 549 553	them
+T17	Exp 559 564	their
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T13
+R3	Coref Anaphora:T17 Antecedent:T13

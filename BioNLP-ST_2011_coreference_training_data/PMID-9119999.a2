@@ -1,0 +1,6 @@
+T11	Exp 753 815	The suppression of productive LAI replication in naive T cells	757 768	suppression
+T12	Exp 883 885	it
+T13	Exp 1036 1049	naive T cells	1044 1049	cells
+T14	Exp 1092 1097	their
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

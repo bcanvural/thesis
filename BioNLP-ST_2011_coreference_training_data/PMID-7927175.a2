@@ -1,0 +1,6 @@
+T10	Exp 436 457	a molecular structure
+T11	Exp 458 462	that
+T12	Exp 1173 1183	Most cells	1178 1183	cells
+T13	Exp 1305 1310	their
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12

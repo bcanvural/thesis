@@ -1,0 +1,24 @@
+*	Equiv T1 T2
+*	Equiv T3 T4 T5
+T30	Entity 126 134	promoter
+T31	Entity 413 431	regulatory regions
+T32	Entity 435 456	B cell-specific genes
+T33	Entity 475 489	-binding sites
+T34	Entity 525 538	-binding site
+T35	Entity 730 738	promoter
+T36	Entity 782 790	promoter
+T37	Entity 858 886	AML1 runt DNA-binding domain
+T38	Entity 868 871	DNA
+T39	Entity 917 942	paired DNA-binding domain
+T40	Entity 924 927	DNA
+T41	Entity 1240 1248	promoter
+T42	Entity 1441 1461	B cell-specific gene
+R1	Protein-Component Arg1:T6 Arg2:T30
+R2	Protein-Component Arg1:T13 Arg2:T34
+R3	Protein-Component Arg1:T12 Arg2:T34
+R4	Protein-Component Arg1:T12 Arg2:T33
+R5	Protein-Component Arg1:T15 Arg2:T35
+R6	Protein-Component Arg1:T16 Arg2:T36
+R7	Protein-Component Arg1:T18 Arg2:T39
+R8	Protein-Component Arg1:T17 Arg2:T37
+R9	Protein-Component Arg1:T25 Arg2:T41

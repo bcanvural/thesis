@@ -1,0 +1,3 @@
+T1	Exp 187 199	heterodimers
+T2	Exp 440 458	these heterodimers	446 458	heterodimers
+R1	Coref Anaphora:T2 Antecedent:T1

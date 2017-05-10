@@ -1,0 +1,25 @@
+T21	Entity 49 57	promoter
+T22	Entity 149 172	von Willebrand receptor
+T23	Entity 174 183	GPIb-V-IX
+T24	Entity 308 316	promoter
+T25	Entity 341 349	Ets site
+T26	Entity 447 455	promoter
+T27	Entity 536 544	promoter
+T28	Entity 607 624	expression vector
+T29	Entity 691 699	promoter
+T30	Entity 715 728	GPIX Ets site
+T31	Entity 775 788	GPIX Ets site
+T32	Entity 1033 1041	promoter
+T33	Entity 1382 1404	lineage-specific genes
+R1	Protein-Component Arg1:T1 Arg2:T21
+R2	Subunit-Complex Arg1:T3 Arg2:T23
+R3	Subunit-Complex Arg1:T3 Arg2:T22
+R4	Protein-Component Arg1:T4 Arg2:T25
+R5	Protein-Component Arg1:T4 Arg2:T24
+R6	Protein-Component Arg1:T5 Arg2:T26
+R7	Protein-Component Arg1:T6 Arg2:T27
+R8	Protein-Component Arg1:T9 Arg2:T29
+R9	Protein-Component Arg1:T10 Arg2:T30
+R10	Protein-Component Arg1:T12 Arg2:T31
+R11	Protein-Component Arg1:T14 Arg2:T32
+R12	Protein-Component Arg1:T15 Arg2:T32

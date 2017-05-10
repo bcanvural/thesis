@@ -1,0 +1,35 @@
+T1	Transcription 0 13	Transcription
+T2	Gene 17 21	amyE
+T3	Promoter 48 56	promoter
+T4	PolymeraseComplex 75 114	major vegetative form of RNA polymerase
+T5	PolymeraseComplex 116 126	E sigma 43
+W1	Word 0 13	Transcription
+W2	Word 14 16	of
+W3	Word 17 21	amyE
+W4	Word 22 31	initiates
+W5	Word 32 34	in
+W6	Word 35 40	vitro
+W7	Word 41 45	from
+W8	Word 46 47	a
+W9	Word 48 56	promoter
+W10	Word 57 67	recognized
+W11	Word 68 70	by
+W12	Word 71 74	the
+W13	Word 75 80	major
+W14	Word 81 91	vegetative
+W15	Word 92 96	form
+W16	Word 97 99	of
+W17	Word 100 103	RNA
+W18	Word 104 114	polymerase
+W19	Word 116 126	E sigma 43
+R1	mod_att:N-ADJ W15 W14
+R2	comp:N-N(of) W1 W3
+R3	mod_att:N-N W18 W17
+R4	subj:V-N W4 W1
+R5	comp:V-N(from) W4 W9
+R6	comp:V_PASS-N(by) W10 W15
+R7	comp:N-N(of) W15 W18
+R8	subj:V_PASS-N W10 W9
+R9	appos W18 W19
+R10	comp:V-N(in) W4 W6
+R11	mod_att:N-ADJ W15 W13

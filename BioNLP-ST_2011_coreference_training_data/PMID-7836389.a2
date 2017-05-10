@@ -1,0 +1,12 @@
+T23	Exp 484 488	IL-6
+T24	Exp 503 518	the second peak
+T25	Exp 519 524	which
+T26	Exp 603 606	its
+T27	Exp 1104 1117	cycloheximide
+T28	Exp 1185 1187	it
+T29	Exp 1363 1372	genistein
+T30	Exp 1482 1484	it
+R1	Coref Anaphora:T25 Antecedent:T24
+R2	Coref Anaphora:T26 Antecedent:T23	[T9]
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29

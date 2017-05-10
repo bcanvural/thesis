@@ -1,0 +1,6 @@
+T17	Exp 722 728	levels
+T18	Exp 743 748	those
+T19	Exp 1125 1131	levels
+T20	Exp 1143 1147	that
+R1	Coref Anaphora:T18 Antecedent:T17
+R2	Coref Anaphora:T20 Antecedent:T19

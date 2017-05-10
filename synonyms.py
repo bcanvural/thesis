@@ -1,3 +1,4 @@
+#Synonyms experiment. Pass a string to see its "synonyms"
 from pyspark.sql import SparkSession, Row
 from pyspark.ml.feature import Word2Vec, Tokenizer, StopWordsRemover, Word2VecModel
 import sys;

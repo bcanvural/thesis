@@ -1,0 +1,12 @@
+T13	Exp 42 53	NF-E1 (YY1)
+T14	Exp 413 429	a nuclear factor	415 429	nuclear factor
+T15	Exp 716 734	The nuclear factor
+T16	Exp 823 825	It
+T17	Exp 844 855	NF-E1 (YY1)
+T18	Exp 857 869	This protein
+T19	Exp 896 899	its
+R1	Coref Anaphora:T14 Antecedent:T13	[T1, T2]
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17	[T12, T11]
+R5	Coref Anaphora:T19 Antecedent:T18

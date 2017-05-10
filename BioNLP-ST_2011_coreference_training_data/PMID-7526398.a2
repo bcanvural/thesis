@@ -1,0 +1,9 @@
+T3	Exp 190 236	a parallel series of stimuli-specific pathways
+T4	Exp 245 250	which
+T5	Exp 459 475	a common pathway
+T6	Exp 484 489	which
+T7	Exp 1131 1143	Jurkat cells
+T8	Exp 1148 1153	which
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T8 Antecedent:T7

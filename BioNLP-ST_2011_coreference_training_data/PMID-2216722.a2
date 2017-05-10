@@ -1,0 +1,19 @@
+T16	Exp 145 167	The 'octamer' sequence
+T17	Exp 181 184	its
+T18	Exp 904 947	at least six novel octamer binding proteins	939 947	proteins
+T19	Exp 1012 1026	These proteins	1018 1026	proteins
+T20	Exp 1108 1151	The nervous system-derived (N-Oct) proteins
+T21	Exp 1189 1197	a manner
+T22	Exp 1198 1203	which
+T23	Exp 1285 1299	N-Oct proteins	1291 1299	proteins
+T24	Exp 1381 1386	their
+T25	Exp 1615 1629	melanoma cells
+T26	Exp 1630 1634	that
+T27	Exp 1663 1705	a transfected lymphocyte-specific promoter	1697 1705	promoter
+T28	Exp 1736 1738	it
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T22 Antecedent:T21
+R4	Coref Anaphora:T24 Antecedent:T23
+R5	Coref Anaphora:T26 Antecedent:T25
+R6	Coref Anaphora:T28 Antecedent:T27

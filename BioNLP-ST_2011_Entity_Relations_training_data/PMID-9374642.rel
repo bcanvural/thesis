@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+*	Equiv T9 T10
+T12	Entity 82 93	proteasomes
+T13	Entity 906 932	antisense oligonucleotides
+T14	Entity 999 1034	inhibitors of proteasome activation
+T15	Entity 1013 1023	proteasome
+T16	Entity 1081 1091	proteasome
+T17	Entity 1145 1181	nuclear transcription factor-kappa B
+T18	Entity 1208 1218	proteasome
+T19	Entity 1389 1399	proteasome
+R1	Subunit-Complex Arg1:T9 Arg2:T17

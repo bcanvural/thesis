@@ -1,0 +1,11 @@
+T16	Exp 158 171	a DNA segment	164 171	segment
+T17	Exp 172 176	that
+T18	Exp 1152 1174	The binding protein(s)
+T19	Exp 1175 1179	that
+T20	Exp 1290 1311	a DNA binding protein	1296 1311	binding protein
+T21	Exp 1312 1316	that
+T22	Exp 1541 1552	the protein
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18
+R3	Coref Anaphora:T21 Antecedent:T20
+R4	Coref Anaphora:T22 Antecedent:T20

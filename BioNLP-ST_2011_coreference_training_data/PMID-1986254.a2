@@ -1,0 +1,8 @@
+T5	Exp 1093 1126	the mouse Ig heavy-chain enhancer	1118 1126	enhancer
+T6	Exp 1131 1136	which
+T7	Exp 1256 1277	one base substitution	1265 1277	substitution
+T8	Exp 1278 1283	which
+T9	Exp 1378 1381	its
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T9 Antecedent:T7

@@ -1,0 +1,6 @@
+T22	Exp 678 728	vascular cell adhesion molecule 1 (VCAM-1 [CD106])
+T23	Exp 865 887	This adhesion molecule	879 887	molecule
+T24	Exp 1641 1714	two NF-kappaB sites present at bp -72 and -57 in the VCAM-1 gene promoter	1655 1660	sites
+T25	Exp 1729 1733	them
+R1	Coref Anaphora:T23 Antecedent:T22	[T4, T3, T5]
+R2	Coref Anaphora:T25 Antecedent:T24	[T16]

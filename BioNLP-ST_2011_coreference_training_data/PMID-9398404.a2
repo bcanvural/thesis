@@ -1,0 +1,6 @@
+T25	Exp 528 606	complexes capable of binding to the interferon-gamma activation sequence (GAS)	528 537	complexes
+T26	Exp 612 627	these complexes	618 627	complexes
+T27	Exp 812 825	IL-2 and IL-7
+T28	Exp 845 850	their
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T27	[T16, T15]

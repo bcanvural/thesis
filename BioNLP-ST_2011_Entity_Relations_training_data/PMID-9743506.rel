@@ -1,0 +1,14 @@
+*	Equiv T3 T4
+*	Equiv T5 T6
+T17	Entity 589 592	ADP
+T18	Entity 760 763	ADP
+T19	Entity 931 973	transcription factor nuclear factor-kappaB
+T20	Entity 975 984	NF-kappaB
+T21	Entity 1041 1047	kappaB
+T22	Entity 1149 1152	ADP
+T23	Entity 1198 1206	promoter
+T24	Entity 1260 1315	double-stranded kappaB phosphorothioate oligonucleotide
+T25	Entity 1596 1605	NF-kappaB
+T26	Entity 1662 1671	NF-kappaB
+R1	Protein-Component Arg1:T11 Arg2:T23
+R2	Protein-Component Arg1:T12 Arg2:T23

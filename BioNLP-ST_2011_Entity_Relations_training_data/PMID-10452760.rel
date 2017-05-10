@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+T19	Entity 103 124	nuclear factor-kappaB
+T20	Entity 325 354	IgE/allergen immune complexes
+T21	Entity 754 774	IgE immune complexes
+T22	Entity 1050 1076	Nuclear factor (NF)-kappaB
+T23	Entity 1201 1210	NF-kappaB
+T24	Entity 1216 1239	heterodimer composed of
+T25	Entity 1258 1267	NF-kappaB
+T26	Entity 1499 1508	NF-kappaB
+T27	Entity 1619 1628	NF-kappaB
+T28	Entity 1760 1769	NF-kappaB
+R1	Subunit-Complex Arg1:T10 Arg2:T23
+R2	Subunit-Complex Arg1:T11 Arg2:T24
+R3	Subunit-Complex Arg1:T10 Arg2:T24
+R4	Subunit-Complex Arg1:T11 Arg2:T23

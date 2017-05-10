@@ -1,0 +1,3 @@
+T33	Exp 205 218	the mechanism
+T34	Exp 222 227	which
+R1	Coref Anaphora:T34 Antecedent:T33

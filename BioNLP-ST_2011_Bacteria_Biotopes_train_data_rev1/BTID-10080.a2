@@ -1,0 +1,40 @@
+T1	Bacterium 0 30	Bifidobacterium longum NCC2705
+T2	Bacterium 43 58	Bifidobacterium
+T3	Host 113 118	human
+T4	HostPart 119 141	gastrointestinal tract
+T5	HostPart 143 146	GIT
+T6	HostPart 218 228	intestinal
+T7	HostPart 453 456	GIT
+T8	Host 717 726	mammalian
+T9	HostPart 727 730	GIT
+T10	HostPart 750 757	vaginal
+T11	HostPart 762 766	oral
+T12	Bacterium 971 993	Bifidobacterium longum
+T13	Host 1021 1033	adult humans
+T14	Host 1038 1057	formula fed infants
+T15	HostPart 1083 1086	gut
+T16	Bacterium 1106 1143	Bifidobacterium longum strain NCC2705
+T17	Host 1175 1181	infant
+T18	HostPart 1182 1187	feces
+*	Equiv T4 T5
+*	Equiv T4 T6
+*	Equiv T4 T7
+*	Equiv T1 T16
+E1	PartOf Host:T17 Part:T18
+E2	PartOf Host:T8 Part:T10
+E3	Localization Bacterium:T2 Localization:T3
+E4	PartOf Host:T3 Part:T4
+E5	Localization Bacterium:T2 Localization:T8
+E6	Localization Bacterium:T12 Localization:T15
+E7	Localization Bacterium:T1 Localization:T17
+E8	Localization Bacterium:T12 Localization:T13
+E9	PartOf Host:T8 Part:T11
+E10	Localization Bacterium:T2 Localization:T4
+E11	PartOf Host:T8 Part:T9
+E12	Localization Bacterium:T2 Localization:T11
+E13	Localization Bacterium:T2 Localization:T9
+E14	Localization Bacterium:T1 Localization:T18
+E15	PartOf Host:T13 Part:T15
+E16	Localization Bacterium:T2 Localization:T10
+E17	PartOf Host:T14 Part:T15
+E18	Localization Bacterium:T12 Localization:T14

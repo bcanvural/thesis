@@ -1,0 +1,24 @@
+T15	Entity 61 90	non-lineage-specific silencer
+T16	Entity 179 196	Th2 cytokine gene
+T17	Entity 243 278	DNase-I-hypersensitive (HS) regions
+T18	Entity 377 385	HS I-III
+T19	Entity 407 438	transcriptional initiation site
+T20	Entity 505 514	HS IV-VII
+T21	Entity 536 562	transcriptional start site
+T22	Entity 614 634	hypersensitive sites
+T23	Entity 640 672	transcriptional control elements
+T24	Entity 696 708	first intron
+T25	Entity 791 822	transcriptional initiation site
+T26	Entity 828 840	first intron
+T27	Entity 859 884	transcriptional activator
+T28	Entity 955 982	upstream regulatory element
+T29	Entity 1029 1037	promoter
+T30	Entity 1087 1109	707-base pair silencer
+T31	Entity 1144 1152	promoter
+T32	Entity 1182 1196	CAGGTG E-boxes
+T33	Entity 1213 1216	5'-
+T34	Entity 1221 1228	3'-ends
+T35	Entity 1293 1308	3'-CAGGTG E-box
+R1	Protein-Component Arg1:T6 Arg2:T25
+R2	Protein-Component Arg1:T7 Arg2:T29
+R3	Protein-Component Arg1:T8 Arg2:T31

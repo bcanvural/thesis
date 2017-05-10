@@ -1,0 +1,34 @@
+T1	Promoter 5 14	promoters
+T2	Protein 25 38	sigma factors
+T3	Protein 40 47	sigma D
+T4	Protein 52 59	sigma F
+T5	Protein 111 128	whiG gene product
+W1	Word 0 4	Such
+W2	Word 5 14	promoters
+W3	Word 15 21	depend
+W4	Word 22 24	on
+W5	Word 25 30	sigma
+W6	Word 31 38	factors
+W7	Word 40 47	sigma D
+W8	Word 48 51	and
+W9	Word 52 59	sigma F
+W10	Word 61 73	respectively
+W11	Word 75 87	particularly
+W12	Word 88 95	similar
+W13	Word 96 98	to
+W14	Word 99 102	the
+W15	Word 103 110	deduced
+W16	Word 111 115	whiG
+W17	Word 116 120	gene
+W18	Word 121 128	product
+R1	appos W6 W7
+R2	mod_pred:N-ADJ W6 W12
+R3	mod_att:N-ADJ W18 W15
+R4	mod_att:N-N W18 W16
+R5	mod_att:N-N W6 W5
+R6	mod_att:N-N W18 W17
+R7	comp:ADJ-N(to) W12 W18
+R8	subj:V-N W3 W2
+R9	comp:V-N(on) W3 W6
+R10	appos W6 W9
+R11	mod:ADJ-ADV W12 W11

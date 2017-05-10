@@ -1,0 +1,21 @@
+T1	Bacterium 55 65	Legionella
+T2	Host 109 114	human
+T3	Bacterium 434 445	serogroup 1
+T4	Host 470 475	human
+T5	Bacterium 565 602	L. pneumophila isolates of serogoup 1
+T6	Geographical 654 660	France
+T7	Bacterium 684 710	L. pneumophila serogroup 1
+T8	Water 754 766	water system
+T9	Geographical 772 778	French
+T10	Medical 779 787	hospital
+T11	Bacterium 798 812	L. pneumophila
+T12	Medical 851 861	nosocomial
+*	Equiv T3 T5
+*	Equiv T3 T7
+*	Equiv T6 T9
+E1	Localization Bacterium:T3 Localization:T6
+E2	Localization Bacterium:T3 Localization:T8
+E3	Localization Bacterium:T1 Localization:T2
+E4	Localization Bacterium:T3 Localization:T4
+E5	Localization Bacterium:T11 Localization:T12
+E6	Localization Bacterium:T3 Localization:T10

@@ -1,0 +1,20 @@
+T5	Exp 25 31	a gene
+T6	Exp 32 36	that
+T7	Exp 216 229	clone pAT 133
+T8	Exp 231 236	which
+T9	Exp 338 354	The pAT 133 gene	350 354	gene
+T10	Exp 479 498	the encoded protein	491 498	protein
+T11	Exp 572 595	This zinc-finger region	589 595	region
+T12	Exp 597 602	which
+T13	Exp 866 884	the three proteins	876 884	proteins
+T14	Exp 940 956	the pAT 133 gene	952 956	gene
+T15	Exp 1053 1093	these related zinc-finger-encoding genes
+T16	Exp 1290 1305	the three genes	1300 1305	genes
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T9 Antecedent:T7
+R4	Coref Anaphora:T10 Antecedent:T9
+R5	Coref Anaphora:T12 Antecedent:T11
+R6	Coref Anaphora:T14 Antecedent:T9
+R7	Coref Anaphora:T15 Antecedent:T13
+R8	Coref Anaphora:T16 Antecedent:T15

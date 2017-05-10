@@ -1,0 +1,12 @@
+T9	Exp 155 181	Enforced expression of Id3	164 174	expression
+T10	Exp 183 188	which
+T11	Exp 278 322	human CD34(+) hematopoietic progenitor cells	317 322	cells
+T12	Exp 323 327	that
+T13	Exp 563 574	progenitors
+T14	Exp 575 579	that
+T15	Exp 843 862	possible mechanisms	852 862	mechanisms
+T16	Exp 866 871	which
+R1	Coref Anaphora:T10 Antecedent:T9	[T2]
+R2	Coref Anaphora:T12 Antecedent:T11	[T3]
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15

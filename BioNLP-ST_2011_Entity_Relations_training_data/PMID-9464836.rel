@@ -1,0 +1,33 @@
+*	Equiv T4 T5
+*	Equiv T16 T17
+T22	Entity 13 27	interleukin-12
+T23	Entity 78 99	nuclear factor-kappaB
+T24	Entity 102 116	Interleukin-12
+T25	Entity 917 932	promoter region
+T26	Entity 948 998	potential nuclear factor (NF)-kappaB binding sites
+T27	Entity 958 984	nuclear factor (NF)-kappaB
+T28	Entity 1099 1125	NF-kappaB binding sequence
+T29	Entity 1099 1108	NF-kappaB
+T30	Entity 1150 1165	120 bp upstream
+T31	Entity 1173 1202	transcription initiation site
+T32	Entity 1243 1260	NF-kappaB complex
+T33	Entity 1243 1252	NF-kappaB
+T34	Entity 1387 1413	NF-kappaB binding sequence
+T35	Entity 1387 1396	NF-kappaB
+T36	Entity 1557 1603	polymerized mutated NF-kappaB binding sequence
+T37	Entity 1577 1603	NF-kappaB binding sequence
+T38	Entity 1577 1586	NF-kappaB
+T39	Entity 1644 1666	NF-kappaB binding site
+T40	Entity 1644 1653	NF-kappaB
+T41	Entity 1705 1734	transcription initiation site
+T42	Entity 1755 1775	p40 promoter regions
+T43	Entity 1852 1861	NF-kappaB
+R1	Subunit-Complex Arg1:T1 Arg2:T22
+R2	Protein-Component Arg1:T13 Arg2:T26
+R3	Protein-Component Arg1:T13 Arg2:T25
+R4	Protein-Component Arg1:T14 Arg2:T30
+R5	Protein-Component Arg1:T14 Arg2:T28
+R6	Protein-Component Arg1:T14 Arg2:T31
+R7	Protein-Component Arg1:T19 Arg2:T41
+R8	Protein-Component Arg1:T19 Arg2:T39
+R9	Protein-Component Arg1:T19 Arg2:T42

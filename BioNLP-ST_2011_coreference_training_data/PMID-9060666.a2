@@ -1,0 +1,25 @@
+T12	Exp 53 89	the Epstein-Barr virus ZEBRA protein	82 89	protein
+T13	Exp 100 103	its
+T14	Exp 493 498	ZEBRA
+T15	Exp 554 557	its
+T16	Exp 595 600	genes
+T17	Exp 601 605	that
+T18	Exp 667 690	a point mutant of ZEBRA	675 681	mutant
+T19	Exp 685 690	ZEBRA
+T20	Exp 702 706	that
+T21	Exp 727 730	its
+T22	Exp 799 802	its
+T23	Exp 933 944	the protein
+T24	Exp 1439 1462	The additional function	1454 1462	function
+T25	Exp 1463 1467	that
+T26	Exp 1546 1596	phosphorylation of serine 186 of the ZEBRA protein	1546 1561	phosphorylation
+T27	Exp 1598 1603	which
+R1	Coref Anaphora:T13 Antecedent:T12	[T1]
+R2	Coref Anaphora:T15 Antecedent:T14	[T4]
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T20 Antecedent:T18	[T5]
+R5	Coref Anaphora:T21 Antecedent:T18	[T5]
+R6	Coref Anaphora:T22 Antecedent:T18	[T5]
+R7	Coref Anaphora:T23 Antecedent:T19	[T5]
+R8	Coref Anaphora:T25 Antecedent:T24
+R9	Coref Anaphora:T27 Antecedent:T26	[T11]

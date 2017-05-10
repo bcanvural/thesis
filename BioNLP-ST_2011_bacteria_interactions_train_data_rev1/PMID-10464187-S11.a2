@@ -1,0 +1,6 @@
+E1	Interaction Agent:T3 Target:T2
+E2	ActionTarget Action:T6 Target:T7
+E3	ActionTarget Action:T4 Target:T5
+E4	TranscriptionBy Transcription:T1 Polymerase:T3
+E5	Interaction Agent:T3 Target:T7
+E6	ActionTarget Action:T1 Target:T2

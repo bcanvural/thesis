@@ -1,0 +1,3 @@
+T6	Exp 282 400	the low molecular nuclear proteins (SP and BP- 14, 18, 19 kDs) isolated from splenic and brain cells of immunized rats	308 316	proteins
+T7	Exp 430 444	these proteins	436 444	proteins
+R1	Coref Anaphora:T7 Antecedent:T6

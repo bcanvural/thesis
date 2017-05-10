@@ -1,0 +1,11 @@
+T29	Exp 121 188	the promoter of the intercellular adhesion molecule-1 (ICAM-1) gene	125 133	promoter
+T30	Exp 190 195	which
+T31	Exp 324 349	the transcription factors	328 349	transcription factors
+T32	Exp 350 355	which
+T33	Exp 721 742	two nuclear complexes	733 742	complexes
+T34	Exp 743 748	which
+T35	Exp 865 880	these complexes	871 880	complexes
+R1	Coref Anaphora:T30 Antecedent:T29	[T2, T3]
+R2	Coref Anaphora:T32 Antecedent:T31
+R3	Coref Anaphora:T34 Antecedent:T33
+R4	Coref Anaphora:T35 Antecedent:T33

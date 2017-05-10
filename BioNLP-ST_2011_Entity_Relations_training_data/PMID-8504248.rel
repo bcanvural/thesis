@@ -1,0 +1,9 @@
+T3	Entity 30 35	locus
+T4	Entity 77 89	gene cluster
+T5	Entity 103 132	upstream regulatory sequences
+T6	Entity 168 188	locus control region
+T7	Entity 241 276	the individual genes of the cluster
+T8	Entity 362 382	locus control region
+T9	Entity 405 438	gene-proximal regulatory elements
+R1	Protein-Component Arg1:T2 Arg2:T6
+R2	Protein-Component Arg1:T2 Arg2:T5

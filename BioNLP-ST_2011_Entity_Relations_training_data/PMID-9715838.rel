@@ -1,0 +1,9 @@
+*	Equiv T2 T3
+T8	Entity 771 779	promoter
+T9	Entity 787 800	reporter gene
+T10	Entity 949 952	tar
+T11	Entity 998 1007	NF-kappaB
+T12	Entity 1022 1048	HIV-1 long terminal repeat
+T13	Entity 1050 1053	LTR
+T14	Entity 1542 1551	HIV genes
+R1	Protein-Component Arg1:T5 Arg2:T8

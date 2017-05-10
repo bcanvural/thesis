@@ -1,0 +1,6 @@
+T3	Exp 232 239	studies
+T4	Exp 240 245	which
+T5	Exp 258 271	the mechanism
+T6	Exp 275 280	which
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5

@@ -1,0 +1,15 @@
+T20	Exp 720 725	AM580
+T21	Exp 809 821	the compound
+T22	Exp 974 988	concentrations
+T23	Exp 989 993	that
+T24	Exp 1025 1030	those
+T25	Exp 1659 1664	cells
+T26	Exp 1668 1673	which
+T27	Exp 1674 1681	PML-RAR
+T28	Exp 1847 1861	both receptors
+T29	Exp 2187 2195	PML-RAR-
+R1	Coref Anaphora:T21 Antecedent:T20
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T24 Antecedent:T22
+R4	Coref Anaphora:T26 Antecedent:T25
+R5	Coref Anaphora:T28 Antecedent:T27 Antecedent2:T29	[T14, T19]

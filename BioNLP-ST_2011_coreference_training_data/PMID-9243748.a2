@@ -1,0 +1,3 @@
+T6	Exp 273 335	T lymphocytes the nuclear activity of NF-kappa B/Rel complexes	275 286	lymphocytes
+T7	Exp 337 342	These
+R1	Coref Anaphora:T7 Antecedent:T6

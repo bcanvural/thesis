@@ -1,0 +1,6 @@
+T6	Exp 336 344	Ig genes	339 344	genes
+T7	Exp 377 380	its
+T8	Exp 967 1008	a number of other octamer factor variants	1000 1008	variants
+T9	Exp 1034 1039	these
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

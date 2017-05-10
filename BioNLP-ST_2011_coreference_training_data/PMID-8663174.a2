@@ -1,0 +1,3 @@
+T12	Exp 944 975	an NF-kappaB site at -59 to -50	957 961	site
+T13	Exp 980 983	its
+R1	Coref Anaphora:T13 Antecedent:T12

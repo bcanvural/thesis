@@ -1,0 +1,8 @@
+T14	Exp 348 364	a 97-kDa protein	357 364	protein
+T15	Exp 366 378	This protein
+T16	Exp 398 431	the 105-kDa precursor polypeptide	410 431	precursor polypeptide
+T17	Exp 456 477	the 105-kDa precursor	468 477	precursor
+T18	Exp 479 481	it
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T18 Antecedent:T15

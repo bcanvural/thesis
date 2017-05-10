@@ -1,0 +1,3 @@
+T4	Exp 421 441	abnormal blast cells	436 441	cells
+T5	Exp 442 447	which
+R1	Coref Anaphora:T5 Antecedent:T4

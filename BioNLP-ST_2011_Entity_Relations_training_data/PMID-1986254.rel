@@ -1,0 +1,27 @@
+T5	Entity 36 55	immunoglobulin gene
+T6	Entity 78 110	B-cell-specific enhancer element
+T7	Entity 119 151	B-cell-specific enhancer element
+T8	Entity 178 180	E4
+T9	Entity 189 207	octamerlike motifs
+T10	Entity 215 261	human immunoglobulin heavy-chain gene enhancer
+T11	Entity 215 247	human immunoglobulin heavy-chain
+T12	Entity 263 276	Tandem copies
+T13	Entity 285 309	67-bp MnlI-AluI fragment
+T14	Entity 382 401	conalbumin promoter
+T15	Entity 539 554	CCGAAACTGAAAAGG
+T16	Entity 677 695	synthetic E6 motif
+T17	Entity 707 730	B-cell-specific complex
+T18	Entity 859 872	tandem copies
+T19	Entity 883 888	motif
+T20	Entity 996 1001	motif
+T21	Entity 1097 1126	mouse Ig heavy-chain enhancer
+T22	Entity 1141 1154	octamer motif
+T23	Entity 1165 1197	B-cell-specific enhancer element
+T24	Entity 1203 1217	human enhancer
+T25	Entity 1230 1250	octamerlike sequence
+T26	Entity 1290 1314	octamer-binding proteins
+T27	Entity 1406 1424	MnlI-AluI fragment
+T28	Entity 1472 1491	conalbumin promoter
+T29	Entity 1586 1604	MnlI-AluI fragment
+T30	Entity 1649 1671	novel enhancer element
+R1	Protein-Component Arg1:T4 Arg2:T20

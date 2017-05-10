@@ -1,0 +1,30 @@
+T14	Entity 58 69	-NF-kappa B
+T15	Entity 112 124	kappa B site
+T16	Entity 161 168	kappa B
+T17	Entity 207 238	immediate-early activation gene
+T18	Entity 278 282	cDNA
+T19	Entity 290 308	open reading frame
+T20	Entity 312 327	900 amino acids
+T21	Entity 402 431	105-kDa precursor polypeptide
+T22	Entity 494 527	amino-terminal Rel-related domain
+T23	Entity 559 582	carboxy-terminal domain
+T24	Entity 598 613	full cell cycle
+T25	Entity 617 632	ankyrin repeats
+T26	Entity 692 702	Rel domain
+T27	Entity 735 748	kappa B sites
+T28	Entity 766 773	kappa B
+T29	Entity 900 937	heteromeric kappa B-binding complexes
+T30	Entity 912 919	kappa B
+T31	Entity 928 937	complexes
+T32	Entity 998 1008	NF-kappa B
+T33	Entity 1196 1208	kappa B site
+T34	Entity 1262 1272	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T14
+R2	Subunit-Complex Arg1:T2 Arg2:T14
+R3	Subunit-Complex Arg1:T9 Arg2:T31
+R4	Subunit-Complex Arg1:T9 Arg2:T29
+R5	Subunit-Complex Arg1:T7 Arg2:T31
+R6	Subunit-Complex Arg1:T9 Arg2:T32
+R7	Subunit-Complex Arg1:T7 Arg2:T29
+R8	Subunit-Complex Arg1:T8 Arg2:T31
+R9	Subunit-Complex Arg1:T8 Arg2:T29

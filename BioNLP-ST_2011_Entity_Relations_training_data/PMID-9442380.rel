@@ -1,0 +1,44 @@
+*	Equiv T2 T3
+T16	Entity 40 57	three 3' cytosins
+T17	Entity 78 95	DNA binding motif
+T18	Entity 140 150	homodimers
+T19	Entity 444 454	NF-kappa B
+T20	Entity 534 552	human TNF promoter
+T21	Entity 554 565	GGGGCTGTCCC
+T22	Entity 670 676	p50p50
+T23	Entity 680 690	NF-kappa B
+T24	Entity 711 764	mutant motif that exchanges the terminal 3' C for a G
+T25	Entity 711 723	mutant motif
+T26	Entity 752 756	3' C
+T27	Entity 763 764	G
+T28	Entity 787 796	homodimer
+T29	Entity 967 977	-516 motif
+T30	Entity 985 1004	murine TNF promoter
+T31	Entity 1006 1018	GGGGGCTTTCCC
+T32	Entity 1030 1045	wild type motif
+T33	Entity 1073 1079	p50p50
+T34	Entity 1148 1152	3' G
+T35	Entity 1181 1187	p50p50
+T36	Entity 1230 1244	enhancer motif
+T37	Entity 1246 1258	GGGGACTTTCCG
+T38	Entity 1298 1304	p50p50
+T39	Entity 1391 1395	3' G
+T40	Entity 1413 1414	C
+T41	Entity 1470 1480	homodimers
+T42	Entity 1561 1578	DNA binding motif
+R1	Subunit-Complex Arg1:T1 Arg2:T18
+R2	Subunit-Complex Arg1:T5 Arg2:T23
+R3	Subunit-Complex Arg1:T6 Arg2:T23
+R4	Subunit-Complex Arg1:T5 Arg2:T22
+R5	Subunit-Complex Arg1:T6 Arg2:T22
+R6	Subunit-Complex Arg1:T7 Arg2:T28
+R7	Subunit-Complex Arg1:T8 Arg2:T33
+R8	Subunit-Complex Arg1:T9 Arg2:T33
+R9	Subunit-Complex Arg1:T10 Arg2:T35
+R10	Subunit-Complex Arg1:T11 Arg2:T35
+R11	Protein-Component Arg1:T12 Arg2:T37
+R12	Protein-Component Arg1:T12 Arg2:T36
+R13	Subunit-Complex Arg1:T13 Arg2:T38
+R14	Subunit-Complex Arg1:T14 Arg2:T38
+R15	Protein-Component Arg1:T15 Arg2:T42
+R16	Subunit-Complex Arg1:T15 Arg2:T41

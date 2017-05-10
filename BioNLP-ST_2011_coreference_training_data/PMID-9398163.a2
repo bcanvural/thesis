@@ -1,0 +1,12 @@
+T12	Exp 380 423	at least four principal cis-acting elements	415 423	elements
+T13	Exp 424 429	which
+T14	Exp 591 622	two ATF/CREB recognition motifs	616 622	motifs
+T15	Exp 623 628	which
+T16	Exp 901 945	the multifunctional YY1 transcription factor	925 945	transcription factor
+T17	Exp 947 952	which
+T18	Exp 1060 1077	two ATF1 isoforms	1069 1077	isoforms
+T19	Exp 1078 1083	which
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16
+R4	Coref Anaphora:T19 Antecedent:T18	[T8]

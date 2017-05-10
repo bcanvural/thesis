@@ -1,0 +1,3 @@
+T13	Exp 88 116	Inducible nitric oxide (iNO)
+T14	Exp 216 219	its
+R1	Coref Anaphora:T14 Antecedent:T13

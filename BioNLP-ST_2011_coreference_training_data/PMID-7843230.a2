@@ -1,0 +1,13 @@
+T26	Exp 525 545	p50.p65 heterodimers	533 545	heterodimers
+T27	Exp 560 582	p50.c-rel heterodimers	570 582	heterodimers
+T28	Exp 667 671	both
+T29	Exp 934 942	p65 mRNA
+T30	Exp 943 948	whose
+T31	Exp 1480 1501	NF-kappa B activation	1491 1501	activation
+T32	Exp 1576 1579	its
+T33	Exp 1576 1603	its immediate translocation	1590 1603	translocation
+T34	Exp 1605 1610	which
+R1	Coref Anaphora:T28 Antecedent:T26 Antecedent2:T27	[T4, T5, T7, T6]
+R2	Coref Anaphora:T30 Antecedent:T29	[T13]
+R3	Coref Anaphora:T32 Antecedent:T31
+R4	Coref Anaphora:T34 Antecedent:T33

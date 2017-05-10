@@ -1,0 +1,17 @@
+T6	Entity 78 87	NF-kappaB
+T7	Entity 593 602	NF-kappaB
+T8	Entity 774 786	kappaB sites
+T9	Entity 849 868	NF-kappaB complexes
+T10	Entity 1055 1074	heterodimer p50-p65
+T11	Entity 1076 1085	NF-kappaB
+T12	Entity 1156 1176	long terminal repeat
+T13	Entity 1178 1181	LTR
+T14	Entity 1246 1249	LTR
+T15	Entity 1314 1317	LTR
+T16	Entity 1369 1378	NF-kappaB
+T17	Entity 1532 1541	NF-kappaB
+T18	Entity 1569 1572	LTR
+T19	Entity 1698 1707	NF-kappaB
+T20	Entity 1779 1788	NF-kappaB
+R1	Subunit-Complex Arg1:T1 Arg2:T10
+R2	Subunit-Complex Arg1:T2 Arg2:T10

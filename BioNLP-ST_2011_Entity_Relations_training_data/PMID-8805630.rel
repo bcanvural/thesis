@@ -1,0 +1,21 @@
+T6	Entity 321 329	enhancer
+T7	Entity 349 359	NF-AT site
+T8	Entity 380 392	octamer site
+T9	Entity 394 406	4X NF-AT-Oct
+T10	Entity 546 554	enhancer
+T11	Entity 613 633	-176 to -96 sequence
+T12	Entity 641 653	4X NF-AT-Oct
+T13	Entity 737 757	-236 to -96 sequence
+T14	Entity 860 882	-150 AP-1 binding site
+T15	Entity 884 896	-152 to -147
+T16	Entity 959 979	-236 to -96 sequence
+T17	Entity 1020 1039	-130 AP-1-like site
+T18	Entity 1041 1053	-187 to -181
+T19	Entity 1063 1086	-150 proximal AP-1 site
+T20	Entity 1133 1142	-180 site
+T21	Entity 1234 1253	mouse IL-2 enhancer
+T22	Entity 1245 1253	enhancer
+T23	Entity 1391 1432	complex of multiple transcription factors
+R1	Protein-Component Arg1:T3 Arg2:T10
+R2	Protein-Component Arg1:T4 Arg2:T21
+R3	Protein-Component Arg1:T4 Arg2:T22

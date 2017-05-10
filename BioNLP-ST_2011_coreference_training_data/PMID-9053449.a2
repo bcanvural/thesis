@@ -1,0 +1,15 @@
+T23	Exp 285 301	a 105-kD protein	294 301	protein
+T24	Exp 302 306	that
+T25	Exp 492 516	the molecular mechanisms	506 516	mechanisms
+T26	Exp 520 525	which
+T27	Exp 756 764	the fact
+T28	Exp 765 769	that
+T29	Exp 860 873	an Egr-1 site	869 873	site
+T30	Exp 874 879	which
+T31	Exp 1151 1213	PMA/PHA-stimulated T cell lines expressing antisense Egr-1 RNA	1170 1182	T cell lines
+T32	Exp 1232 1237	their
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29	[T12]
+R5	Coref Anaphora:T32 Antecedent:T31	[T18, T19]

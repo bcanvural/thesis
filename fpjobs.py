@@ -1,3 +1,4 @@
+#FP growth on job ads
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import Tokenizer, StopWordsRemover
 from pyspark.mllib.fpm import FPGrowthModel, FPGrowth

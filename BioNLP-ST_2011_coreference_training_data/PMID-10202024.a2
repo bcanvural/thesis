@@ -1,0 +1,26 @@
+T9	Exp 125 144	the cellular events	138 144	events
+T10	Exp 145 149	that
+T11	Exp 334 447	a number of immunoregulatory genes (IL-1beta, A20, NF-kappaB-p105/p50, and IkappaBalpha) in unactivated monocytes	336 342	number
+T12	Exp 559 570	these genes	565 570	genes
+T13	Exp 599 618	these viral ligands	611 618	ligands
+T14	Exp 671 676	their
+T15	Exp 688 693	their
+T16	Exp 942 969	these induced gene products	961 969	products
+T17	Exp 994 999	their
+T18	Exp 1355 1374	p38 kinase activity	1366 1374	activity
+T19	Exp 1429 1431	it
+T20	Exp 1500 1514	our hypothesis	1504 1514	hypothesis
+T21	Exp 1515 1519	that
+T22	Exp 1535 1564	a signal transduction pathway	1557 1564	pathway
+T23	Exp 1565 1569	that
+T24	Exp 1613 1634	a potential mechanism	1625 1634	mechanism
+T25	Exp 1635 1642	whereby
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11	[T1, T4, T3, T2, T5]
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T15 Antecedent:T13
+R5	Coref Anaphora:T17 Antecedent:T16
+R6	Coref Anaphora:T19 Antecedent:T18
+R7	Coref Anaphora:T21 Antecedent:T20
+R8	Coref Anaphora:T23 Antecedent:T22
+R9	Coref Anaphora:T25 Antecedent:T24

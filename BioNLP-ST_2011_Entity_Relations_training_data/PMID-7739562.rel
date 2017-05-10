@@ -1,0 +1,22 @@
+T13	Entity 14 36	signal response domain
+T14	Entity 81 91	NF-kappa B
+T15	Entity 141 151	NF-kappa B
+T16	Entity 352 362	NF-kappa B
+T17	Entity 564 574	NF-kappa B
+T18	Entity 793 803	NF-kappa B
+T19	Entity 977 1002	N-terminal 36 amino acids
+T20	Entity 1082 1092	NF-kappa B
+T21	Entity 1247 1257	NF-kappa B
+T22	Entity 1323 1338	serine residues
+T23	Entity 1362 1390	N-terminal regulatory region
+T24	Entity 1545 1555	NF-kappa B
+T25	Entity 1661 1682	phosphoserine mimetic
+T26	Entity 1908 1958	critical signal response domain in I kappa B alpha
+T27	Entity 1908 1939	critical signal response domain
+T28	Entity 2033 2043	NF-kappa B
+R1	Protein-Component Arg1:T1 Arg2:T13
+R2	Protein-Component Arg1:T6 Arg2:T19
+R3	Protein-Component Arg1:T9 Arg2:T22
+R4	Protein-Component Arg1:T9 Arg2:T23
+R5	Protein-Component Arg1:T11 Arg2:T27
+R6	Protein-Component Arg1:T11 Arg2:T26

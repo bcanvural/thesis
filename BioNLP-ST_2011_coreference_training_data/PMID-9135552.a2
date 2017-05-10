@@ -1,0 +1,6 @@
+T15	Exp 147 175	a 120,000-140,000 MW antigen	168 175	antigen
+T16	Exp 176 180	that
+T17	Exp 905 957	the transcription factors OCT-1, AP-1 and NF-kappa B
+T18	Exp 958 963	which
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17	[T11]

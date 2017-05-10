@@ -1,0 +1,18 @@
+*	Equiv T1 T2 T3
+T9	Entity 85 117	immunoglobulin kappa 3' enhancer
+T10	Entity 126 163	immunoglobulin heavy-chain mu E1 site
+T11	Entity 219 251	immunoglobulin kappa 3' enhancer
+T12	Entity 253 262	kappa E3'
+T13	Entity 339 354	acting elements
+T14	Entity 391 409	kappa E3' enhancer
+T15	Entity 464 497	flanking negative-acting elements
+T16	Entity 503 528	negative-acting sequences
+T17	Entity 649 665	human cDNA clone
+T18	Entity 723 772	negative-acting segment of the kappa E3' enhancer
+T19	Entity 723 746	negative-acting segment
+T20	Entity 754 772	kappa E3' enhancer
+T21	Entity 805 851	immunoglobulin heavy-chain enhancer mu E1 site
+T22	Entity 927 961	adeno-associated virus P5 promoter
+T23	Entity 1040 1072	ribosomal protein gene promoters
+T24	Entity 1259 1263	cDNA
+T25	Entity 1293 1307	basal promoter

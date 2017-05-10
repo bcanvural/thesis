@@ -1,0 +1,6 @@
+T12	Exp 741 746	cells
+T13	Exp 747 751	that
+T14	Exp 1004 1024	PPARgamma activation	1014 1024	activation
+T15	Exp 1095 1098	its
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14	[T11]

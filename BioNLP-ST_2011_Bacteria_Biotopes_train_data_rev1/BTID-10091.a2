@@ -1,0 +1,25 @@
+T1	Bacterium 0 20	Borrelia garinii PBi
+T2	Bacterium 33 49	Borrelia garinii
+T3	Bacterium 233 243	B. garinii
+T4	Host 262 276	Ixodes ricinus
+T5	Geographical 280 286	France
+T6	Bacterium 288 298	B. garinii
+T7	Host 329 333	tick
+T8	Geographical 355 361	Europe
+T9	Bacterium 504 532	Borrelia garinii s train PBi
+T10	Bacterium 547 562	OspA serotype 4
+T11	Geographical 580 587	Germany
+T12	HostPart 597 616	cerebrospinal fluid
+T13	Host 622 629	patient
+*	Equiv T2 T3
+*	Equiv T2 T6
+*	Equiv T1 T9
+*	Equiv T1 T10
+E1	Localization Bacterium:T2 Localization:T7
+E2	Localization Bacterium:T1 Localization:T12
+E3	Localization Bacterium:T2 Localization:T5
+E4	Localization Bacterium:T2 Localization:T4
+E5	Localization Bacterium:T2 Localization:T8
+E6	PartOf Host:T13 Part:T12
+E7	Localization Bacterium:T1 Localization:T11
+E8	Localization Bacterium:T1 Localization:T13

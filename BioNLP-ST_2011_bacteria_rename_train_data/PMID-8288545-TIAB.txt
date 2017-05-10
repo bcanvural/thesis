@@ -1,0 +1,2 @@
+Catabolite repression of the Bacillus subtilis gnt operon mediated by the CcpA protein.
+Inducer exclusion was not important in catabolite repression of the Bacillus subtilis gnt operon. The CcpA protein (also known as AlsA) was found to be necessary for catabolite repression of the gnt operon, and a mutation (crsA47, which is an allele of the sigA gene) partially affected this catabolite repression.

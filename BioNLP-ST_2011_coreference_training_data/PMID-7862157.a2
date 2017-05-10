@@ -1,0 +1,24 @@
+T13	Exp 39 56	PEBP2 alpha genes	51 56	genes
+T14	Exp 203 208	PEBP2
+T15	Exp 210 215	which
+T16	Exp 278 301	These two related genes	296 301	genes
+T17	Exp 413 423	human AML1
+T18	Exp 425 430	which
+T19	Exp 642 652	both genes	647 652	genes
+T20	Exp 716 758	PEBP2 alpha A and mouse AML1/PEBP2 alpha B
+T21	Exp 918 927	the genes
+T22	Exp 1112 1122	both genes	1117 1122	genes
+T23	Exp 1159 1164	their
+T24	Exp 1189 1199	the notion
+T25	Exp 1200 1204	that
+T26	Exp 1414 1449	mouse AML1/PEBP2 alpha B expression	1439 1449	expression
+T27	Exp 1484 1489	those
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T16 Antecedent:T13
+R3	Coref Anaphora:T18 Antecedent:T17	[T4]
+R4	Coref Anaphora:T19 Antecedent:T16
+R5	Coref Anaphora:T21 Antecedent:T20	[T6, T5]
+R6	Coref Anaphora:T22 Antecedent:T20	[T6, T5]
+R7	Coref Anaphora:T23 Antecedent:T22
+R8	Coref Anaphora:T25 Antecedent:T24
+R9	Coref Anaphora:T27 Antecedent:T26	[T12]

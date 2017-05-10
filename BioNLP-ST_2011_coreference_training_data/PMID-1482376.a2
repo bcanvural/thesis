@@ -1,0 +1,6 @@
+T2	Exp 554 561	reports
+T3	Exp 562 566	that
+T4	Exp 567 579	antioxidants
+T5	Exp 580 585	which
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T5 Antecedent:T4

@@ -1,0 +1,6 @@
+T23	Exp 787 790	Tat
+T24	Exp 798 801	its
+T25	Exp 1169 1205	The observed increase in IL-2 levels
+T26	Exp 1269 1271	it
+R1	Coref Anaphora:T24 Antecedent:T23	[T14]
+R2	Coref Anaphora:T26 Antecedent:T25	[T22]

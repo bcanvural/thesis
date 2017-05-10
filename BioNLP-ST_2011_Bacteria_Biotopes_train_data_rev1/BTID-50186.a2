@@ -1,0 +1,50 @@
+T1	Bacterium 0 27	Yersinia pseudotuberculosis
+T2	Bacterium 28 55	Yersinia pseudotuberculosis
+T3	Host 61 66	human
+T4	Host 214 220	humans
+T5	Bacterium 222 232	Y . pestis
+T6	Bacterium 235 257	Y . pseudotuberculosis
+T7	Bacterium 264 282	Y . enterocolitica
+T8	Bacterium 734 755	Y. pseudotuberculosis
+T9	Soil 793 797	soil
+T10	Water 799 804	water
+T11	Food 806 816	vegetables
+T12	Host 864 889	wild and domestic animals
+T13	Geographical 893 907	all continents
+T14	Host 920 934	animal species
+T15	Bacterium 961 982	Y. pseudotuberculosis
+T16	Host 1068 1075	animals
+T17	Environment 1169 1173	feco
+T18	HostPart 1174 1178	oral
+T19	Host 1189 1195	humans
+T20	Bacterium 1197 1218	Y. pseudotuberculosis
+T21	Food 1297 1302	water
+T22	Food 1306 1310	food
+T23	Host 1338 1344	animal
+T24	Environment 1345 1351	faeces
+T25	Host 1366 1372	Humans
+*	Equiv T17 T24
+*	Equiv T1 T2
+*	Equiv T1 T6
+*	Equiv T1 T8
+*	Equiv T1 T15
+*	Equiv T1 T20
+*	Equiv T3 T19
+*	Equiv T3 T25
+*	Equiv T12 T14
+*	Equiv T12 T16
+*	Equiv T12 T23
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T13
+E3	Localization Bacterium:T1 Localization:T12
+E4	PartOf Host:T12 Part:T18
+E5	Localization Bacterium:T7 Localization:T4
+E6	Localization Bacterium:T1 Localization:T22
+E7	Localization Bacterium:T5 Localization:T4
+E8	Localization Bacterium:T1 Localization:T18
+E9	Localization Bacterium:T1 Localization:T9
+E10	Localization Bacterium:T1 Localization:T17
+E11	Localization Bacterium:T1 Localization:T21
+E12	Localization Bacterium:T1 Localization:T11
+E13	Localization Bacterium:T1 Localization:T4
+E14	Localization Bacterium:T1 Localization:T10

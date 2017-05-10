@@ -1,0 +1,35 @@
+T1	Gene 0 4	ykzA
+T2	Gene 39 43	gene
+T3	Protein 58 62	RpoS
+T4	Protein 67 73	sigmaB
+T5	Regulon 74 89	stress regulons
+W1	Word 0 4	ykzA
+W2	Word 5 7	is
+W3	Word 8 17	therefore
+W4	Word 18 25	another
+W5	Word 26 33	example
+W6	Word 34 36	of
+W7	Word 37 38	a
+W8	Word 39 43	gene
+W9	Word 44 50	common
+W10	Word 51 53	to
+W11	Word 54 57	the
+W12	Word 58 62	RpoS
+W13	Word 63 66	and
+W14	Word 67 73	sigmaB
+W15	Word 74 80	stress
+W16	Word 81 89	regulons
+W17	Word 90 92	of
+W18	Word 93 100	E. coli
+W19	Word 101 104	and
+W20	Word 105 116	B. subtilis
+W21	Word 118 130	respectively
+R1	comp:N-N(of) W16 W18
+R2	comp:N-N(of) W16 W20
+R3	mod_att:N-N W16 W14
+R4	comp:N-N(of) W5 W8
+R5	mod_att:N-N W16 W12
+R6	mod_pred:N-N W1 W5
+R7	mod_att:N-N W16 W15
+R8	mod_post:N-ADJ W8 W9
+R9	comp:ADJ-N(to) W9 W16

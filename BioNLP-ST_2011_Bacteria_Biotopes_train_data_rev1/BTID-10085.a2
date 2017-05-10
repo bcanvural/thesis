@@ -1,0 +1,15 @@
+T1	Bacterium 0 29	Bordetella pertussis Tohama I
+T2	Bacterium 42 52	Bordetella
+T3	HostPart 105 122	respiratory tract
+T4	Host 126 133	animals
+T5	Bacterium 405 434	Bordetella pertussis Tohama I
+T6	Host 510 515	human
+T7	Host 587 593	people
+T8	Host 648 655	patient
+*	Equiv T1 T5
+*	Equiv T6 T7
+E1	Localization Bacterium:T2 Localization:T4
+E2	Localization Bacterium:T2 Localization:T3
+E3	PartOf Host:T4 Part:T3
+E4	Localization Bacterium:T1 Localization:T6
+E5	Localization Bacterium:T1 Localization:T8

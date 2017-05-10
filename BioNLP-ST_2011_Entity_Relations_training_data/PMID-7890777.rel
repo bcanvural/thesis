@@ -1,0 +1,28 @@
+T2	Entity 15 31	interaction site
+T3	Entity 152 168	divergent X2-box
+T4	Entity 551 563	cis-elements
+T5	Entity 580 595	-141 base pairs
+T6	Entity 604 633	transcription initiation site
+T7	Entity 647 681	hybrid DRA/DQB reporter constructs
+T8	Entity 724 736	cis-elements
+T9	Entity 766 782	oligonucleotides
+T10	Entity 783 791	spanning
+T11	Entity 796 805	DQB X-box
+T12	Entity 819 831	DQB-W region
+T13	Entity 839 848	DQB Y-box
+T14	Entity 850 866	upstream of -141
+T15	Entity 1000 1005	X-box
+T16	Entity 1019 1022	X1-
+T17	Entity 1026 1034	X2-boxes
+T18	Entity 1090 1097	HLA-DQB
+T19	Entity 1103 1113	DQB X2-box
+T20	Entity 1212 1222	DQB X2-box
+T21	Entity 1232 1242	DRA X2-box
+T22	Entity 1283 1295	DQB promoter
+T23	Entity 1328 1354	hybrid reporter constructs
+T24	Entity 1335 1354	reporter constructs
+T25	Entity 1486 1502	divergent X2-box
+T26	Entity 1510 1561	class II major histocompatibility complex promoters
+T27	Entity 1632 1655	human class II isotypes
+R1	Protein-Component Arg1:T1 Arg2:T17
+R2	Protein-Component Arg1:T1 Arg2:T16

@@ -1,0 +1,9 @@
+T10	Exp 273 278	5'HS3
+T11	Exp 288 305	six G-rich motifs	299 305	motifs
+T12	Exp 306 310	that
+T13	Exp 329 332	its
+T14	Exp 786 798	Sp1 and EKLF
+T15	Exp 808 813	their
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T13 Antecedent:T10
+R3	Coref Anaphora:T15 Antecedent:T14	[T7, T8]

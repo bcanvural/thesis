@@ -1,0 +1,26 @@
+*	Equiv T3 T4
+T23	Entity 58 76	tissue factor gene
+T24	Entity 151 163	heterodimers
+T25	Entity 349 361	heterodimers
+T26	Entity 367 384	kappa B-like site
+T27	Entity 395 403	promoter
+T28	Entity 450 462	heterodimers
+T29	Entity 488 498	NF-kappa B
+T30	Entity 754 764	NF-kappa B
+T31	Entity 1101 1109	promoter
+T32	Entity 1257 1269	heterodimers
+T33	Entity 1328 1348	immediate-early gene
+T34	Entity 1479 1491	heterodimers
+R1	Subunit-Complex Arg1:T1 Arg2:T24
+R2	Subunit-Complex Arg1:T2 Arg2:T24
+R3	Protein-Component Arg1:T7 Arg2:T26
+R4	Subunit-Complex Arg1:T5 Arg2:T25
+R5	Subunit-Complex Arg1:T6 Arg2:T25
+R6	Protein-Component Arg1:T7 Arg2:T27
+R7	Subunit-Complex Arg1:T8 Arg2:T28
+R8	Subunit-Complex Arg1:T9 Arg2:T28
+R9	Protein-Component Arg1:T15 Arg2:T31
+R10	Subunit-Complex Arg1:T17 Arg2:T32
+R11	Subunit-Complex Arg1:T18 Arg2:T32
+R12	Subunit-Complex Arg1:T20 Arg2:T34
+R13	Subunit-Complex Arg1:T21 Arg2:T34

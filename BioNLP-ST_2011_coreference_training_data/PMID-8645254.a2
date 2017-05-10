@@ -1,0 +1,3 @@
+T14	Exp 884 904	the expression level	899 904	level
+T15	Exp 924 928	that
+R1	Coref Anaphora:T15 Antecedent:T14

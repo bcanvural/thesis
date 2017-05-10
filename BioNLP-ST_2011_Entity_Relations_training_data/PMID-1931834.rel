@@ -1,0 +1,26 @@
+*	Equiv T2 T3
+T11	Entity 47 62	HTLV-I enhancer
+T12	Entity 160 177	enhancer elements
+T13	Entity 430 445	HTLV-I enhancer
+T14	Entity 458 488	21-base-pair (bp) core element
+T15	Entity 458 461	21-
+T16	Entity 472 474	bp
+T17	Entity 476 488	core element
+T18	Entity 716 730	21-bp elements
+T19	Entity 781 784	C26
+T20	Entity 812 826	21-bp elements
+T21	Entity 901 911	NF-kappa B
+T22	Entity 961 980	protein-DNA complex
+T23	Entity 969 972	DNA
+T24	Entity 990 1005	C26 subfragment
+T25	Entity 1045 1056	C26 element
+T26	Entity 1131 1144	21-bp element
+T27	Entity 1223 1234	C26 element
+T28	Entity 1309 1336	NF-kappa B-binding elements
+T29	Entity 1309 1319	NF-kappa B
+T30	Entity 1355 1366	C26 element
+T31	Entity 1501 1516	HTLV-I enhancer
+T32	Entity 1526 1554	multiple functional elements
+T33	Entity 1681 1696	HTLV-I enhancer
+T34	Entity 1786 1801	HTLV-I enhancer
+T35	Entity 1830 1841	C26 element

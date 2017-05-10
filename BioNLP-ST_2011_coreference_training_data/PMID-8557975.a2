@@ -1,0 +1,6 @@
+T29	Exp 237 333	the mitogen-activated protein (MAP) kinase/extracellular signal-regulated kinase kinase 1 (MEK1)
+T30	Exp 335 340	which
+T31	Exp 1183 1188	MKP-1
+T32	Exp 1190 1195	which
+R1	Coref Anaphora:T30 Antecedent:T29	[T5, T6]
+R2	Coref Anaphora:T32 Antecedent:T31	[T19]

@@ -1,0 +1,26 @@
+T10	Entity 66 74	promoter
+T11	Entity 105 119	PEBP2/CBF site
+T12	Entity 172 196	single polypeptide chain
+T13	Entity 235 251	collagens type I
+T14	Entity 256 258	IV
+T15	Entity 260 292	oxidized low density lipoprotein
+T16	Entity 575 607	oxidized low density lipoprotein
+T17	Entity 749 757	promoter
+T18	Entity 829 837	promoter
+T19	Entity 849 859	luciferase
+T20	Entity 888 902	158 base pairs
+T21	Entity 921 950	transcription initiation site
+T22	Entity 1020 1033	reporter gene
+T23	Entity 1082 1105	nucleotides -158 to -90
+T24	Entity 1193 1208	region -158/-90
+T25	Entity 1348 1361	position -103
+T26	Entity 1381 1395	PEBP2/CBF site
+T27	Entity 1667 1689	myeloid-specific genes
+T28	Entity 1834 1842	promoter
+R1	Protein-Component Arg1:T1 Arg2:T11
+R2	Protein-Component Arg1:T1 Arg2:T10
+R3	Protein-Component Arg1:T5 Arg2:T17
+R4	Protein-Component Arg1:T6 Arg2:T21
+R5	Protein-Component Arg1:T6 Arg2:T20
+R6	Protein-Component Arg1:T6 Arg2:T18
+R7	Protein-Component Arg1:T9 Arg2:T28

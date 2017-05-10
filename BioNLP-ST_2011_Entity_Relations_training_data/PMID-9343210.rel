@@ -1,0 +1,16 @@
+T22	Entity 1397 1406	sequences
+T23	Entity 1431 1449	inducible promoter
+T24	Entity 1509 1517	promoter
+T25	Entity 1628 1636	promoter
+T26	Entity 1645 1660	NF-kappaB sites
+T27	Entity 1645 1654	NF-kappaB
+T28	Entity 1706 1714	promoter
+T29	Entity 1925 1941	NF-kappaB motifs
+T30	Entity 1925 1934	NF-kappaB
+T31	Entity 2007 2013	kappaB
+R1	Protein-Component Arg1:T10 Arg2:T22
+R2	Protein-Component Arg1:T16 Arg2:T26
+R3	Protein-Component Arg1:T15 Arg2:T26
+R4	Protein-Component Arg1:T12 Arg2:T24
+R5	Protein-Component Arg1:T15 Arg2:T25
+R6	Protein-Component Arg1:T16 Arg2:T28

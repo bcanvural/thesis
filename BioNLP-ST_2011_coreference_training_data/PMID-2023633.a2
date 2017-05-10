@@ -1,0 +1,6 @@
+T1	Exp 699 727	the U937 monocytic cell line	718 727	cell line
+T2	Exp 729 734	which
+T3	Exp 1038 1053	This phenomenon
+T4	Exp 1055 1060	which
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

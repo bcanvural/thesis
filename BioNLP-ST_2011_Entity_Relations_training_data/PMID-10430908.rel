@@ -1,0 +1,12 @@
+T19	Entity 0 9	NF-kappaB
+T20	Entity 454 469	-inducible gene
+T21	Entity 489 498	NF-kappaB
+T22	Entity 559 568	NF-kappaB
+T23	Entity 725 749	upstream promoter region
+T24	Entity 772 798	NF-kappaB-binding sequence
+T25	Entity 772 781	NF-kappaB
+T26	Entity 820 829	NF-kappaB
+T27	Entity 989 998	NF-kappaB
+T28	Entity 1086 1095	NF-kappaB
+R1	Protein-Component Arg1:T15 Arg2:T23
+R2	Protein-Component Arg1:T15 Arg2:T24

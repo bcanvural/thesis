@@ -1,0 +1,6 @@
+T15	Exp 95 138	The proto-oncogene products c-Fos and c-Jun
+T16	Exp 162 167	their
+T17	Exp 522 527	c-Fos
+T18	Exp 547 558	the protein
+R1	Coref Anaphora:T16 Antecedent:T15	[T5, T4]
+R2	Coref Anaphora:T18 Antecedent:T17	[T7]

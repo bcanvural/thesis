@@ -1,0 +1,9 @@
+T16	Exp 1036 1088	the typical binding pattern of transcription factors	1056 1063	pattern
+T17	Exp 1121 1125	that
+T18	Exp 1226 1284	the binding patterns of AP-1 , Sp1, and NF-kappaB proteins	1238 1246	patterns
+T19	Exp 1305 1310	those
+T20	Exp 1781 1797	further document	1789 1797	document
+T21	Exp 1798 1802	that
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18	[T10]
+R3	Coref Anaphora:T21 Antecedent:T20

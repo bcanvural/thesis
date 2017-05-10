@@ -1,0 +1,12 @@
+T10	Exp 172 239	the expression levels of intercellular adhesion molecule-1 (ICAM-1)	187 193	levels
+T11	Exp 294 299	those
+T12	Exp 353 364	the factors
+T13	Exp 365 369	that
+T14	Exp 612 648	The levels of ICAM-1 mRNA expression	638 648	expression
+T15	Exp 689 694	those
+T16	Exp 725 758	ILT-mat cells and ATL16T(-) cells
+T17	Exp 769 773	they
+R1	Coref Anaphora:T11 Antecedent:T10	[T3, T2]
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T15 Antecedent:T14	[T6]
+R4	Coref Anaphora:T17 Antecedent:T16

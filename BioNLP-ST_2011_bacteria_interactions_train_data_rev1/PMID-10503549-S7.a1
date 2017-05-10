@@ -1,0 +1,21 @@
+T1	Protein 37 43	sigmaB
+T2	Gene 54 58	katX
+T3	Expression 59 69	expression
+W1	Word 0 9	Therefore
+W2	Word 11 14	the
+W3	Word 15 28	physiological
+W4	Word 29 33	role
+W5	Word 34 36	of
+W6	Word 37 43	sigmaB
+W7	Word 44 53	dependent
+W8	Word 54 58	katX
+W9	Word 59 69	expression
+W10	Word 70 77	remains
+W11	Word 78 85	obscure
+R1	mod_att:N-ADJ W9 W7
+R2	comp:N-N(of) W4 W9
+R3	mod_att:N-ADJ W4 W3
+R4	mod:ADJ-N W7 W6
+R5	mod:V-ADV W10 W1
+R6	mod_pred:N-ADJ W4 W11
+R7	mod_att:N-N W9 W8

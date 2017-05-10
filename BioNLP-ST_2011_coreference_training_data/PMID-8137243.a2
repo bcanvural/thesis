@@ -1,0 +1,9 @@
+T10	Exp 944 959	I kappa B alpha
+T11	Exp 1015 1018	its
+T12	Exp 1522 1537	I kappa B alpha
+T13	Exp 1556 1582	an important proximal step
+T14	Exp 1583 1588	which
+T15	Exp 1598 1601	its
+R1	Coref Anaphora:T11 Antecedent:T10	[T5]
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T15 Antecedent:T12	[T9]

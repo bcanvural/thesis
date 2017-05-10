@@ -1,0 +1,16 @@
+T18	Entity 14 24	NF-kappa B
+T19	Entity 95 117	nuclear factor kappa B
+T20	Entity 119 129	NF-kappa B
+T21	Entity 328 338	NF-kappa B
+T22	Entity 545 552	p50-p65
+T23	Entity 784 794	NF-kappa B
+T24	Entity 1079 1089	NF-kappa B
+T25	Entity 1282 1303	NF-kappa B heteromers
+T26	Entity 1414 1424	NF-kappa B
+T27	Entity 1472 1475	DNA
+T28	Entity 1499 1521	-containing NF-kappa B
+T29	Entity 1629 1639	NF-kappa B
+T30	Entity 1932 1942	NF-kappa B
+R1	Subunit-Complex Arg1:T2 Arg2:T22
+R2	Subunit-Complex Arg1:T3 Arg2:T22
+R3	Subunit-Complex Arg1:T16 Arg2:T28

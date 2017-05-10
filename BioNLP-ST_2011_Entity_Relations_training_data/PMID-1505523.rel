@@ -1,0 +1,20 @@
+T9	Entity 0 3	TAR
+T10	Entity 91 101	HIV-1 gene
+T11	Entity 384 398	viral promoter
+T12	Entity 724 734	RNA target
+T13	Entity 742 745	TAR
+T14	Entity 747 773	transactivation responsive
+T15	Entity 1039 1042	TAR
+T16	Entity 1069 1088	-responsive element
+T17	Entity 1118 1132	viral promoter
+T18	Entity 1207 1210	TAR
+T19	Entity 1233 1259	hybrid promoter constructs
+T20	Entity 1301 1320	-responsive element
+T21	Entity 1358 1384	viral long terminal repeat
+T22	Entity 1386 1389	LTR
+T23	Entity 1420 1434	HIV-1 enhancer
+T24	Entity 1439 1456	NF-kappa B domain
+T25	Entity 1439 1449	NF-kappa B
+T26	Entity 1490 1500	NF-kappa B
+T27	Entity 1610 1613	TAR
+T28	Entity 1658 1667	late gene

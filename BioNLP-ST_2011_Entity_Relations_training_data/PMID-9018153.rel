@@ -1,0 +1,20 @@
+T12	Entity 61 72	gamma motif
+T13	Entity 80 107	negative regulatory element
+T14	Entity 115 146	hepatitis B virus core promoter
+T15	Entity 153 180	negative regulatory element
+T16	Entity 182 185	NRE
+T17	Entity 194 231	hepatitis B virus (HBV) core promoter
+T18	Entity 247 257	subregions
+T19	Entity 345 354	NRE gamma
+T20	Entity 562 571	NRE gamma
+T21	Entity 594 607	core promoter
+T22	Entity 657 661	gene
+T23	Entity 686 695	NRE gamma
+T24	Entity 727 736	NRE gamma
+T25	Entity 798 809	heterodimer
+T26	Entity 850 859	NRE gamma
+T27	Entity 1023 1037	NRE gamma site
+T28	Entity 1080 1093	core promoter
+T29	Entity 1162 1170	HBV gene
+R1	Subunit-Complex Arg1:T5 Arg2:T25
+R2	Subunit-Complex Arg1:T6 Arg2:T25

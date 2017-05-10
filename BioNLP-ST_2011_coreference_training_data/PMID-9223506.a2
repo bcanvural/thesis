@@ -1,0 +1,14 @@
+T3	Exp 811 820	Mutations
+T4	Exp 821 825	that
+T5	Exp 849 860	each factor	854 860	factor
+T6	Exp 864 867	its
+T7	Exp 944 949	their
+T8	Exp 1104 1121	HIV-1 replication	1110 1121	replication
+T9	Exp 1134 1138	that
+T10	Exp 1658 1676	the mutant viruses	1669 1676	viruses
+T11	Exp 1712 1717	their
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T7 Antecedent:T3
+R4	Coref Anaphora:T9 Antecedent:T8
+R5	Coref Anaphora:T11 Antecedent:T10

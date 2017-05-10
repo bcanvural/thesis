@@ -1,0 +1,21 @@
+*	Equiv T8 T9
+T14	Entity 16 74	kappa B enhancer of the interleukin-2 receptor alpha chain
+T15	Entity 16 32	kappa B enhancer
+T16	Entity 145 155	NF-kappa B
+T17	Entity 183 193	NF-kappa B
+T18	Entity 262 272	NF-kappa B
+T19	Entity 477 494	kappa B enhancers
+T20	Entity 638 648	NF-kappa B
+T21	Entity 706 722	kappa B enhancer
+T22	Entity 857 867	NF-kappa B
+T23	Entity 902 912	NF-kappa B
+T24	Entity 942 958	kappa B enhancer
+T25	Entity 1051 1061	NF-kappa B
+R1	Protein-Component Arg1:T1 Arg2:T15
+R2	Protein-Component Arg1:T1 Arg2:T14
+R3	Subunit-Complex Arg1:T3 Arg2:T17
+R4	Subunit-Complex Arg1:T2 Arg2:T17
+R5	Subunit-Complex Arg1:T5 Arg2:T17
+R6	Subunit-Complex Arg1:T5 Arg2:T18
+R7	Subunit-Complex Arg1:T4 Arg2:T18
+R8	Protein-Component Arg1:T8 Arg2:T21

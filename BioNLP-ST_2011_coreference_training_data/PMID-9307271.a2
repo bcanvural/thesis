@@ -1,0 +1,17 @@
+T18	Exp 158 170	a novel gene	166 170	gene
+T19	Exp 232 236	that
+T20	Exp 341 389	the UCSD-AML1 cell line and in a leukemic sample
+T21	Exp 399 404	which
+T22	Exp 581 593	Ribophorin I
+T23	Exp 594 598	that
+T24	Exp 715 723	an event
+T25	Exp 724 728	that
+T26	Exp 794 799	those
+T27	Exp 825 859	leukemias with t(3;21) and t(3;12)	825 834	leukemias
+T28	Exp 864 869	which
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22	[T7]
+R4	Coref Anaphora:T25 Antecedent:T24
+R5	Coref Anaphora:T26 Antecedent:T24
+R6	Coref Anaphora:T28 Antecedent:T27

@@ -1,0 +1,9 @@
+T13	Exp 199 260	monolayers of human umbilical vein endothelial cells (HUVECs)	199 209	monolayers
+T14	Exp 261 265	that
+T15	Exp 1236 1258	an anti-E-selectin mAb
+T16	Exp 1290 1312	this adhesion molecule	1304 1312	molecule
+T17	Exp 1798 1855	a two-phase neutrophil-endothelial cell adhesion response	1847 1855	response
+T18	Exp 1856 1860	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T8]
+R3	Coref Anaphora:T18 Antecedent:T17

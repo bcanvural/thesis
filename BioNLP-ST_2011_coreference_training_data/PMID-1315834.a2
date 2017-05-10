@@ -1,0 +1,6 @@
+T10	Exp 560 595	a DNA-binding protein (ISGF3 gamma)
+T11	Exp 597 602	which
+T12	Exp 645 679	other IFN-alpha-activated proteins	671 679	proteins
+T13	Exp 680 685	which
+R1	Coref Anaphora:T11 Antecedent:T10	[T2]
+R2	Coref Anaphora:T13 Antecedent:T12

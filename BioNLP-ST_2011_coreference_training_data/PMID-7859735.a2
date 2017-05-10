@@ -1,0 +1,10 @@
+T7	Exp 127 164	Induction of apoptosis in lymphocytes
+T8	Exp 166 171	which
+T9	Exp 344 366	the activated receptor
+T10	Exp 845 871	the retinoic acid receptor
+T11	Exp 873 878	whose
+T12	Exp 879 899	repressive functions
+T13	Exp 948 953	those
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T11 Antecedent:T10
+R3	Coref Anaphora:T13 Antecedent:T12

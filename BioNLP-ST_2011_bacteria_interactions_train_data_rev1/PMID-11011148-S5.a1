@@ -1,0 +1,31 @@
+T1	Protein 5 9	SigK
+T2	Protein 14 18	GerE
+T3	Gene 38 42	ykvP
+T4	Expression 43 53	expression
+T5	Gene 64 68	gene
+T6	Transcription 73 84	transcribed
+W1	Word 0 4	Both
+W2	Word 5 9	SigK
+W3	Word 10 13	and
+W4	Word 14 18	GerE
+W5	Word 19 23	were
+W6	Word 24 33	essential
+W7	Word 34 37	for
+W8	Word 38 42	ykvP
+W9	Word 43 53	expression
+W10	Word 55 58	and
+W11	Word 59 63	this
+W12	Word 64 68	gene
+W13	Word 69 72	was
+W14	Word 73 84	transcribed
+W15	Word 85 89	from
+W16	Word 90 92	T5
+W17	Word 93 95	of
+W18	Word 96 107	sporulation
+R1	mod_pred:N-ADJ W2 W6
+R2	mod_att:N-N W9 W8
+R3	comp:ADJ-N(for) W6 W9
+R4	subj:V_PASS-N W14 W12
+R5	mod_pred:N-ADJ W4 W6
+R6	comp:N-N(of) W16 W18
+R7	comp:V_PASS-N(from) W14 W16

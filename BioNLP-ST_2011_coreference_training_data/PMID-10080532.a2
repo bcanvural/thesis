@@ -1,0 +1,16 @@
+T38	Exp 100 122	The Th2-type cytokines	113 122	cytokines
+T39	Exp 124 171	interleukin-4 (IL-4) and interleukin-13 (IL-13)
+T40	Exp 194 370	a distinct subset of genes in human monocytes, including FcepsilonRIIb (CD23), 15-lipoxygenase, IL-1 receptor antagonist (IL-1ra), and type I and type II IL-1 receptors (IL-1R)	205 211	subset
+T41	Exp 472 483	these genes	478 483	genes
+T42	Exp 512 525	the mechanism
+T43	Exp 529 534	which
+T44	Exp 627 651	the transcription factor
+T45	Exp 653 711	STAT6 (signal transducer and activator of transcription-6)
+T46	Exp 795 814	our recent findings	806 814	findings
+T47	Exp 815 819	that
+T48	Exp 1407 1414	a model
+T49	Exp 1418 1423	which
+R1	Coref Anaphora:T41 Antecedent:T40	[T6, T7, T8, T9, T10]
+R2	Coref Anaphora:T43 Antecedent:T42
+R3	Coref Anaphora:T47 Antecedent:T46
+R4	Coref Anaphora:T49 Antecedent:T48

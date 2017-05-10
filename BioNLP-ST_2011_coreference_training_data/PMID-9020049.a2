@@ -1,0 +1,6 @@
+T5	Exp 650 688	the carboxylesterase upstream sequence	680 688	sequence
+T6	Exp 700 703	its
+T7	Exp 809 859	the promoter region spanning base pairs -1 to -275	822 828	region
+T8	Exp 861 866	which
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7

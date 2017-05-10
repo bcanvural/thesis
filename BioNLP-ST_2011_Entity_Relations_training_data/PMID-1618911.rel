@@ -1,0 +1,18 @@
+T3	Entity 152 155	DNA
+T4	Entity 223 228	genes
+T5	Entity 310 334	HIV long terminal repeat
+T6	Entity 359 369	NF-kappa B
+T7	Entity 471 495	PRDII regulatory element
+T8	Entity 499 514	interferon beta
+T9	Entity 560 563	DNA
+T10	Entity 592 607	NF-kappa B site
+T11	Entity 592 602	NF-kappa B
+T12	Entity 626 629	DNA
+T13	Entity 654 669	dimer complexes
+T14	Entity 764 776	PRDII domain
+T15	Entity 791 814	rabbit beta globin gene
+T16	Entity 820 841	purified polypeptides
+T17	Entity 866 876	NF-kappa B
+T18	Entity 968 978	homodimers
+T19	Entity 1020 1030	NF-kappa B
+R1	Subunit-Complex Arg1:T2 Arg2:T18

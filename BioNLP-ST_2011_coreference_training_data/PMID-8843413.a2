@@ -1,0 +1,9 @@
+T23	Exp 1011 1127	GR chimeric receptors containing the potent VP16 and E1A viral transactivation domains in place of the GR N terminus	1023 1032	receptors
+T24	Exp 1171 1186	these receptors
+T25	Exp 1337 1339	AR
+T26	Exp 1434 1437	its
+T27	Exp 1935 1949	our conclusion	1939 1949	conclusion
+T28	Exp 1950 1954	that
+R1	Coref Anaphora:T24 Antecedent:T23	[T11, T12, T14, T13]
+R2	Coref Anaphora:T26 Antecedent:T25	[T15]
+R3	Coref Anaphora:T28 Antecedent:T27

@@ -1,0 +1,34 @@
+*	Equiv T10 T11
+T19	Entity 102 139	protein kinase C--responsive elements
+T20	Entity 102 118	protein kinase C
+T21	Entity 394 418	human genomic DNA clones
+T22	Entity 434 452	5' flanking region
+T23	Entity 491 512	exon-intron structure
+T24	Entity 520 530	5' portion
+T25	Entity 606 625	nucleotide sequence
+T26	Entity 743 766	141 bp further upstream
+T27	Entity 828 857	transcription initiation site
+T28	Entity 907 922	560 bp upstream
+T29	Entity 932 960	translation initiation codon
+T30	Entity 965 980	380 bp upstream
+T31	Entity 1012 1041	transcription initiation site
+T32	Entity 1087 1091	TATA
+T33	Entity 1098 1117	CAAT consensus site
+T34	Entity 1144 1162	5' flanking region
+T35	Entity 1373 1381	promoter
+T36	Entity 1611 1648	major phorbol ester-responsive motifs
+T37	Entity 1707 1757	activator protein-2 (AP-2) binding consensus sites
+T38	Entity 1707 1726	activator protein-2
+T39	Entity 1728 1732	AP-2
+T40	Entity 1799 1828	transcription initiation site
+T41	Entity 2041 2057	protein kinase C
+T42	Entity 2078 2082	AP-2
+T43	Entity 2114 2140	upstream promoter elements
+R1	Protein-Component Arg1:T4 Arg2:T22
+R2	Protein-Component Arg1:T5 Arg2:T23
+R3	Protein-Component Arg1:T5 Arg2:T24
+R4	Protein-Component Arg1:T7 Arg2:T33
+R5	Protein-Component Arg1:T7 Arg2:T32
+R6	Protein-Component Arg1:T8 Arg2:T34
+R7	Protein-Component Arg1:T12 Arg2:T35
+R8	Protein-Component Arg1:T14 Arg2:T36

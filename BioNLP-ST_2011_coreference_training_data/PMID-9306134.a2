@@ -1,0 +1,9 @@
+T1	Exp 170 209	individuals with certain genetic makeup	170 181	individuals
+T2	Exp 228 233	their
+T3	Exp 332 359	60 male and female subjects	351 359	subjects
+T4	Exp 360 363	who
+T5	Exp 1439 1469	One of the signaling molecules	1439 1442	One
+T6	Exp 1470 1475	which
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5

@@ -1,0 +1,6 @@
+T19	Exp 548 593	transient transfection of fos -CAT constructs	558 570	transfection
+T20	Exp 594 598	that
+T21	Exp 1522 1549	two NF-kappaB-binding sites	1544 1549	sites
+T22	Exp 1551 1556	which
+R1	Coref Anaphora:T20 Antecedent:T19	[T7, T8]
+R2	Coref Anaphora:T22 Antecedent:T21

@@ -1,0 +1,6 @@
+T1	Exp 605 623	the tumor specimen	615 623	specimen
+T2	Exp 624 628	that
+T3	Exp 920 928	patterns
+T4	Exp 929 933	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

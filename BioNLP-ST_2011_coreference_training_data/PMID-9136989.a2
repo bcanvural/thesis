@@ -1,0 +1,6 @@
+T17	Exp 443 465	a new factor called IK	449 455	factor
+T18	Exp 466 471	which
+T19	Exp 596 598	IK
+T20	Exp 651 663	this protein	656 663	protein
+R1	Coref Anaphora:T18 Antecedent:T17	[T5]
+R2	Coref Anaphora:T20 Antecedent:T19	[T7]

@@ -1,0 +1,18 @@
+T2	Entity 30 56	HIV-1 long terminal repeat
+T3	Entity 93 102	NF-kappaB
+T4	Entity 597 612	luciferase gene
+T5	Entity 623 649	HIV-1 long terminal repeat
+T6	Entity 651 654	LTR
+T7	Entity 694 703	HIV-1 LTR
+T8	Entity 713 726	reporter gene
+T9	Entity 1017 1027	cyclic AMP
+T10	Entity 1094 1117	HIV-1 LTR-based vectors
+T11	Entity 1094 1103	HIV-1 LTR
+T12	Entity 1168 1173	HIV-1
+T13	Entity 1212 1221	NF-kappaB
+T14	Entity 1288 1297	NF-kappaB
+T15	Entity 1341 1346	HIV-1
+T16	Entity 1391 1397	kappaB
+T17	Entity 1617 1626	HIV-1 LTR
+T18	Entity 1634 1647	reporter gene
+T19	Entity 1898 1910	proviral DNA

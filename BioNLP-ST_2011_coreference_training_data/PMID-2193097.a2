@@ -1,0 +1,3 @@
+T4	Exp 705 707	U1
+T5	Exp 709 714	which
+R1	Coref Anaphora:T5 Antecedent:T4

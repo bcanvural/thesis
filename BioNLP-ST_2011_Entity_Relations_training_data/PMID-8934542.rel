@@ -1,0 +1,11 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T9 T10
+T24	Entity 425 480	280 bp upstream of the major transcriptional start site
+T25	Entity 560 568	promoter
+T26	Entity 586 599	binding sites
+T27	Entity 613 619	PU-box
+T28	Entity 714 720	PU-box
+T29	Entity 828 836	promoter
+T30	Entity 949 955	PU box
+R1	Protein-Component Arg1:T14 Arg2:T29

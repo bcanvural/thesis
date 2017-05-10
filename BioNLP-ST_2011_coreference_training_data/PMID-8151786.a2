@@ -1,0 +1,12 @@
+T9	Exp 375 407	the signal transduction pathways
+T10	Exp 408 413	which
+T11	Exp 471 483	the nef gene
+T12	Exp 696 708	the nef gene	704 708	gene
+T13	Exp 781 818	the T-cell receptor (TCR)-CD3 complex
+T14	Exp 918 930	the nef gene
+T15	Exp 966 978	the nef gene	974 978	gene
+T16	Exp 1046 1065	the CD3-TCR complex	1058 1065	complex
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11	[T5]
+R3	Coref Anaphora:T15 Antecedent:T14	[T6]
+R4	Coref Anaphora:T16 Antecedent:T13

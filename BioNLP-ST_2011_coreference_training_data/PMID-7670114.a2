@@ -1,0 +1,17 @@
+T12	Exp 100 104	PU.1
+T13	Exp 174 176	It
+T14	Exp 193 211	the Spi-1 oncogene
+T15	Exp 213 218	which
+T16	Exp 296 300	PU.1
+T17	Exp 384 387	its
+T18	Exp 514 516	It
+T19	Exp 1456 1481	lymphoblastoid cell lines	1471 1481	cell lines
+T20	Exp 1483 1488	which
+T21	Exp 1768 1785	the murine system	1779 1785	system
+T22	Exp 1789 1794	which
+R1	Coref Anaphora:T13 Antecedent:T12	[T2]
+R2	Coref Anaphora:T15 Antecedent:T14	[T3]
+R3	Coref Anaphora:T17 Antecedent:T16	[T4]
+R4	Coref Anaphora:T18 Antecedent:T16	[T4]
+R5	Coref Anaphora:T20 Antecedent:T19
+R6	Coref Anaphora:T22 Antecedent:T21

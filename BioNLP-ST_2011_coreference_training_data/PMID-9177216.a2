@@ -1,0 +1,26 @@
+T22	Exp 159 164	CIITA
+T23	Exp 192 252	class II major histocompatibility complex gene transcription	239 252	transcription
+T24	Exp 253 257	that
+T25	Exp 397 400	Its
+T26	Exp 536 608	the mechanism of transactivation mediated by the CIITA activation domain	540 549	mechanism
+T27	Exp 621 624	its
+T28	Exp 804 831	the CIITA activation domain	825 831	domain
+T29	Exp 869 872	its
+T30	Exp 890 893	its
+T31	Exp 1284 1299	general factors	1292 1299	factors
+T32	Exp 1300 1304	that
+T33	Exp 1384 1414	CIITA-mediated transactivation	1399 1414	transactivation
+T34	Exp 1424 1427	its
+T35	Exp 1529 1561	the mechanism of transactivation	1533 1542	mechanism
+T36	Exp 1616 1620	that
+T37	Exp 1673 1681	the ways
+T38	Exp 1682 1686	that
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T25 Antecedent:T22	[T3]
+R3	Coref Anaphora:T27 Antecedent:T26	[T4]
+R4	Coref Anaphora:T29 Antecedent:T28	[T7]
+R5	Coref Anaphora:T30 Antecedent:T28	[T7]
+R6	Coref Anaphora:T32 Antecedent:T31
+R7	Coref Anaphora:T34 Antecedent:T33	[T17]
+R8	Coref Anaphora:T36 Antecedent:T35
+R9	Coref Anaphora:T38 Antecedent:T37

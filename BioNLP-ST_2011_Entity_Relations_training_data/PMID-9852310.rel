@@ -1,0 +1,28 @@
+T3	Entity 63 92	5'-untranslated leader region
+T4	Entity 234 261	cis-regulatory DNA elements
+T5	Entity 273 299	viral long terminal repeat
+T6	Entity 301 304	LTR
+T7	Entity 385 416	transcriptional initiation site
+T8	Entity 424 433	U3 region
+T9	Entity 441 444	LTR
+T10	Entity 477 490	binding sites
+T11	Entity 550 579	5'-untranslated leader region
+T12	Entity 581 587	5'-UTR
+T13	Entity 613 637	transcriptional elements
+T14	Entity 645 664	regulatory elements
+T15	Entity 892 898	5'-UTR
+T16	Entity 908 929	binding sites for the
+T17	Entity 908 921	binding sites
+T18	Entity 952 956	AP-1
+T19	Entity 958 967	NF-kappaB
+T20	Entity 1009 1022	binding sites
+T21	Entity 1098 1101	LTR
+T22	Entity 1152 1158	5'-UTR
+T23	Entity 1190 1200	nucleosome
+T24	Entity 1305 1349	inducible transcription factor binding sites
+T25	Entity 1336 1349	binding sites
+T26	Entity 1357 1363	5'-UTR
+T27	Entity 1375 1401	downstream enhancer domain
+T28	Entity 1460 1472	LTR promoter
+T29	Entity 1650 1656	5'-UTR
+T30	Entity 1717 1727	HIV-1 gene

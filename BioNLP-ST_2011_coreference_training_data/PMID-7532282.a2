@@ -1,0 +1,6 @@
+T38	Exp 210 252	an immediate-early gene in human monocytes	229 233	gene
+T39	Exp 253 257	that
+T40	Exp 1600 1618	cytoplasmic levels	1612 1618	levels
+T41	Exp 1672 1677	those
+R1	Coref Anaphora:T39 Antecedent:T38
+R2	Coref Anaphora:T41 Antecedent:T40

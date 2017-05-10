@@ -1,0 +1,39 @@
+*	Equiv T7 T8
+T20	Entity 115 137	kappa B-related motifs
+T21	Entity 331 353	nuclear factor kappa B
+T22	Entity 388 401	kappa B sites
+T23	Entity 405 415	homodimers
+T24	Entity 427 439	heterodimers
+T25	Entity 456 466	homodimers
+T26	Entity 471 483	heterodimers
+T27	Entity 551 565	kappa B motifs
+T28	Entity 592 601	homodimer
+T29	Entity 667 680	kappa B sites
+T30	Entity 749 786	lymphoid cell-specific nuclear factor
+T31	Entity 827 835	epitopes
+T32	Entity 857 887	IL-6 kappa B binding factor II
+T33	Entity 862 869	kappa B
+T34	Entity 918 927	homodimer
+T35	Entity 966 1001	IL-6 kappa B-related kappa B motifs
+T36	Entity 987 1001	kappa B motifs
+T37	Entity 1055 1068	kappa B motif
+T38	Entity 1117 1136	-responsive element
+T39	Entity 1281 1288	kappa B
+T40	Entity 1345 1380	IL-6 kappa B-related kappa B motifs
+T41	Entity 1366 1380	kappa B motifs
+R1	Protein-Component Arg1:T2 Arg2:T20
+R2	Subunit-Complex Arg1:T4 Arg2:T23
+R3	Subunit-Complex Arg1:T4 Arg2:T24
+R4	Subunit-Complex Arg1:T5 Arg2:T24
+R5	Subunit-Complex Arg1:T6 Arg2:T28
+R6	Protein-Component Arg1:T7 Arg2:T29
+R7	Protein-Component Arg1:T9 Arg2:T29
+R8	Subunit-Complex Arg1:T13 Arg2:T32
+R9	Protein-Component Arg1:T13 Arg2:T33
+R10	Subunit-Complex Arg1:T14 Arg2:T34
+R11	Protein-Component Arg1:T15 Arg2:T35
+R12	Protein-Component Arg1:T11 Arg2:T31
+R13	Protein-Component Arg1:T12 Arg2:T31
+R14	Protein-Component Arg1:T16 Arg2:T37
+R15	Protein-Component Arg1:T18 Arg2:T39
+R16	Protein-Component Arg1:T19 Arg2:T40

@@ -1,0 +1,6 @@
+T15	Exp 1543 1565	early but not late HPC	1562 1565	HPC
+T16	Exp 1583 1586	its
+T17	Exp 1612 1651	the expression of the master GATA1 gene	1616 1626	expression
+T18	Exp 1653 1658	which
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17	[T12]

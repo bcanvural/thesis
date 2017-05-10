@@ -1,0 +1,28 @@
+T16	Entity 17 37	hypersensitive sites
+T17	Entity 407 426	chromatin structure
+T18	Entity 729 746	5' GC-rich region
+T19	Entity 762 772	CpG island
+T20	Entity 832 866	transcriptionally inactive alleles
+T21	Entity 913 933	hypersensitive sites
+T22	Entity 935 937	HS
+T23	Entity 964 969	locus
+T24	Entity 971 975	HS I
+T25	Entity 977 979	IV
+T26	Entity 985 986	V
+T27	Entity 1084 1096	promoters 1a
+T28	Entity 1101 1103	1b
+T29	Entity 1105 1110	HS II
+T30	Entity 1276 1287	promoter 1b
+T31	Entity 1307 1313	HS III
+T32	Entity 1450 1456	exon 4
+T33	Entity 1494 1513	regulatory elements
+T34	Entity 1565 1574	promoters
+R1	Protein-Component Arg1:T2 Arg2:T16
+R2	Protein-Component Arg1:T9 Arg2:T18
+R3	Protein-Component Arg1:T11 Arg2:T21
+R4	Protein-Component Arg1:T11 Arg2:T22
+R5	Protein-Component Arg1:T12 Arg2:T28
+R6	Protein-Component Arg1:T12 Arg2:T27
+R7	Protein-Component Arg1:T13 Arg2:T30
+R8	Protein-Component Arg1:T14 Arg2:T32
+R9	Protein-Component Arg1:T15 Arg2:T34

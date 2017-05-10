@@ -1,0 +1,23 @@
+T13	Entity 414 432	5'-flanking region
+T14	Entity 503 520	regulatory region
+T15	Entity 526 554	downstream regulatory region
+T16	Entity 566 595	cyclic AMP-responsive element
+T17	Entity 566 576	cyclic AMP
+T18	Entity 597 600	CRE
+T19	Entity 810 818	CRE site
+T20	Entity 909 917	promoter
+T21	Entity 978 986	CRE site
+T22	Entity 1000 1008	promoter
+T23	Entity 1289 1297	CRE site
+T24	Entity 1536 1544	CRE site
+T25	Entity 1597 1607	serine 133
+T26	Entity 1711 1727	protein kinase A
+T27	Entity 1742 1750	CRE site
+T28	Entity 1833 1860	upstream regulatory element
+T29	Entity 1934 1961	upstream regulatory element
+T30	Entity 1967 1975	CRE site
+T31	Entity 1989 1997	promoter
+T32	Entity 2186 2194	CRE site
+R1	Protein-Component Arg1:T4 Arg2:T20
+R2	Protein-Component Arg1:T5 Arg2:T22
+R3	Protein-Component Arg1:T10 Arg2:T31

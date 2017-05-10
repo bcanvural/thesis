@@ -1,0 +1,15 @@
+T9	Exp 89 100	Fludarabine
+T10	Exp 149 173	hematologic malignancies	161 173	malignancies
+T11	Exp 174 178	that
+T12	Exp 239 241	it
+T13	Exp 294 305	fludarabine
+T14	Exp 375 377	it
+T15	Exp 416 421	STAT1
+T16	Exp 423 428	which
+T17	Exp 580 592	this protein	585 592	protein
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T12 Antecedent:T9
+R3	Coref Anaphora:T13 Antecedent:T9
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T16 Antecedent:T15	[T2]
+R6	Coref Anaphora:T17 Antecedent:T15	[T2]

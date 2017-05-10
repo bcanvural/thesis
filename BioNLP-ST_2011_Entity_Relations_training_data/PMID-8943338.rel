@@ -1,0 +1,26 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+T25	Entity 26 42	critical element
+T26	Entity 557 584	positive regulatory regions
+T27	Entity 586 590	PRRI
+T28	Entity 595 600	PRRII
+T29	Entity 602 606	PRRI
+T30	Entity 613 640	inducible proximal enhancer
+T31	Entity 650 683	between nucleotides -276 and -244
+T32	Entity 723 729	motifs
+T33	Entity 731 736	PRRII
+T34	Entity 742 766	T-cell-specific enhancer
+T35	Entity 999 1017	regulatory regions
+T36	Entity 1231 1250	-responsive element
+T37	Entity 1252 1259	mIL-2rE
+T38	Entity 1276 1288	human IL-2rE
+T39	Entity 1301 1307	PRRIII
+T40	Entity 1342 1363	heterologous promoter
+T41	Entity 1365 1371	PRRIII
+T42	Entity 1383 1408	Stat protein binding site
+T43	Entity 1431 1440	EBS motif
+T44	Entity 1442 1451	GASd/EBSd
+T45	Entity 1499 1505	PRRIII
+T46	Entity 1588 1606	human GASd element
+T47	Entity 1803 1815	GASd element
+T48	Entity 1858 1875	GASd/EBSd element

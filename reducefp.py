@@ -1,3 +1,4 @@
+#Script that reduces the output of FP growth algorithm which was executed on jobs
 import os
 import json
 from pathlib import Path

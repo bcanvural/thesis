@@ -1,0 +1,26 @@
+*	Equiv T3 T4
+*	Equiv T11 T12
+T29	Entity 18 38	-responsive elements
+T30	Entity 177 206	immediate-early G1 phase gene
+T31	Entity 214 226	S phase gene
+T32	Entity 425 433	promoter
+T33	Entity 499 514	5'-flanking DNA
+T34	Entity 568 581	reporter gene
+T35	Entity 674 701	Deletion mutants containing
+T36	Entity 720 738	kb 5'-flanking DNA
+T37	Entity 848 936	The sequence between -1.7 and -0.2 kb linked to a heterologous thymidine kinase promoter
+T38	Entity 848 885	The sequence between -1.7 and -0.2 kb
+T39	Entity 898 936	heterologous thymidine kinase promoter
+T40	Entity 1007 1037	upstream PRL response elements
+T41	Entity 1070 1096	promoter-proximal elements
+T42	Entity 1244 1261	different regions
+T43	Entity 1300 1303	DNA
+T44	Entity 1614 1634	-responsive elements
+T45	Entity 1678 1693	promoter region
+T46	Entity 1727 1758	elements between 0.2 and 1.7 kb
+R1	Protein-Component Arg1:T9 Arg2:T32
+R2	Protein-Component Arg1:T10 Arg2:T33
+R3	Protein-Component Arg1:T22 Arg2:T42
+R4	Protein-Component Arg1:T22 Arg2:T43
+R5	Protein-Component Arg1:T28 Arg2:T44
+R6	Protein-Component Arg1:T28 Arg2:T45

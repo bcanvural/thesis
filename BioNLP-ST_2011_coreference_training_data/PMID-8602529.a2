@@ -1,0 +1,8 @@
+T4	Exp 135 152	cyclotetrapeptide
+T5	Exp 153 157	that
+T6	Exp 300 320	two nuclear proteins	312 320	proteins
+T7	Exp 321 325	that
+T8	Exp 372 385	Both proteins
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T8 Antecedent:T6

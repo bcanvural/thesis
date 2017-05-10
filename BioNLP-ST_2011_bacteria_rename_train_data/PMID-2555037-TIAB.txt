@@ -1,0 +1,2 @@
+Genetic mapping of katB, a locus that affects catalase 2 levels in Bacillus subtilis.
+A locus affecting the synthesis of spore-specific catalase 2 in Bacillus subtilis was mapped using two- and three-factor transductional crosses at 342 degrees between hsrE and iol. It was named katB. Strains lacking catalase 2 remained sporulation proficient, but blockage of sporulation at stage IV or earlier affected the electrophoretic mobility of the native enzyme.

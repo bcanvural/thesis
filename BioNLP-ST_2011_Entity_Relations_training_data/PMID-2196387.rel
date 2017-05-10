@@ -1,0 +1,15 @@
+T4	Entity 40 56	kappa B elements
+T5	Entity 40 47	kappa B
+T6	Entity 64 101	human immunodeficiency virus enhancer
+T7	Entity 296 312	lymphokine genes
+T8	Entity 724 745	DNA-binding complexes
+T9	Entity 724 727	DNA
+T10	Entity 751 766	kappa B complex
+T11	Entity 778 790	HIV enhancer
+T12	Entity 806 813	complex
+T13	Entity 839 847	enhancer
+T14	Entity 890 897	kappa B
+T15	Entity 924 936	HIV enhancer
+T16	Entity 1164 1181	kappa B complexes
+R1	Subunit-Complex Arg1:T2 Arg2:T12
+R2	Protein-Component Arg1:T3 Arg2:T13

@@ -1,0 +1,18 @@
+T20	Exp 101 137	interleukin-6 kappa B-related motifs	131 137	motifs
+T21	Exp 138 143	whose
+T22	Exp 232 286	the nuclear factor kappa B transcription factor family	259 286	transcription factor family
+T23	Exp 288 293	which
+T24	Exp 582 601	the c-Rel homodimer	592 601	homodimer
+T25	Exp 694 697	its
+T26	Exp 747 786	a lymphoid cell-specific nuclear factor	772 786	nuclear factor
+T27	Exp 795 799	that
+T28	Exp 837 848	this factor
+T29	Exp 857 887	IL-6 kappa B binding factor II	870 887	binding factor II
+T30	Exp 1046 1068	the IL-6 kappa B motif	1055 1068	kappa B motif
+T31	Exp 1159 1162	its
+R1	Coref Anaphora:T21 Antecedent:T20	[T2]
+R2	Coref Anaphora:T23 Antecedent:T22
+R3	Coref Anaphora:T25 Antecedent:T24	[T6]
+R4	Coref Anaphora:T27 Antecedent:T26
+R5	Coref Anaphora:T28 Antecedent:T29	[T13]
+R6	Coref Anaphora:T31 Antecedent:T30	[T16]

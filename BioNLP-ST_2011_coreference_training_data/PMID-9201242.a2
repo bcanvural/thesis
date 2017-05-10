@@ -1,0 +1,3 @@
+T7	Exp 970 989	nonpermissive cells	984 989	cells
+T8	Exp 990 995	where
+R1	Coref Anaphora:T8 Antecedent:T7

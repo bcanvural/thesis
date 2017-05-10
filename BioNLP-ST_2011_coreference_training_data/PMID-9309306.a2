@@ -1,0 +1,6 @@
+T12	Exp 508 522	the hypothesis
+T13	Exp 523 527	that
+T14	Exp 1002 1025	the p65/p50 heterodimer	1014 1025	heterodimer
+T15	Exp 1026 1030	that
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14	[T6, T5]

@@ -1,0 +1,9 @@
+T12	Exp 119 181	The Ca2+/calmodulin-dependent protein kinase (CaMK) type IV/Gr
+T13	Exp 312 314	it
+T14	Exp 332 375	the Ca(2+)-dependent transcriptional events	369 375	events
+T15	Exp 376 380	that
+T16	Exp 721 791	the nuclear factor of activated T cells (NFAT) transcriptional complex	784 791	complex
+T17	Exp 793 798	which
+R1	Coref Anaphora:T13 Antecedent:T12	[T3]
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T17 Antecedent:T16

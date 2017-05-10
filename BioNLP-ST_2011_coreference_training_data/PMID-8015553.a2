@@ -1,0 +1,15 @@
+T29	Exp 331 354	an alternative promoter	346 354	promoter
+T30	Exp 355 360	which
+T31	Exp 1083 1106	differentiation process	1099 1106	process
+T32	Exp 1114 1119	which
+T33	Exp 1174 1197	a variety of cell types	1192 1197	types
+T34	Exp 1245 1249	that
+T35	Exp 1708 1725	those lymphocytes
+T36	Exp 1726 1730	that
+T37	Exp 1876 1893	endometrial cells	1888 1893	cells
+T38	Exp 1894 1899	where
+R1	Coref Anaphora:T30 Antecedent:T29
+R2	Coref Anaphora:T32 Antecedent:T31
+R3	Coref Anaphora:T34 Antecedent:T33
+R4	Coref Anaphora:T36 Antecedent:T35
+R5	Coref Anaphora:T38 Antecedent:T37

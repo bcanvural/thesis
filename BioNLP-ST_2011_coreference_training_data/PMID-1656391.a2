@@ -1,0 +1,6 @@
+T5	Exp 114 145	The transcription factor GATA-1	118 138	transcription factor
+T6	Exp 162 191	a subset of hemopoietic cells	164 170	subset
+T7	Exp 193 198	where
+T8	Exp 199 201	it
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T8 Antecedent:T5	[T2]

@@ -1,0 +1,25 @@
+T16	Entity 18 26	tyrosine
+T17	Entity 176 184	tyrosine
+T18	Entity 432 440	tyrosine
+T19	Entity 610 641	NF-kappa B transcription factor
+T20	Entity 662 675	reporter gene
+T21	Entity 688 724	promoter containing NF-kappa B sites
+T22	Entity 688 696	promoter
+T23	Entity 708 724	NF-kappa B sites
+T24	Entity 708 718	NF-kappa B
+T25	Entity 763 784	immediate-early genes
+T26	Entity 838 846	tyrosine
+T27	Entity 921 929	tyrosine
+T28	Entity 1061 1069	tyrosine
+T29	Entity 1149 1159	SH2 domain
+T30	Entity 1171 1179	tyrosine
+T31	Entity 1247 1255	tyrosine
+T32	Entity 1371 1379	tyrosine
+T33	Entity 1522 1530	tyrosine
+T34	Entity 1646 1656	NF-kappa B
+R1	Subunit-Complex Arg1:T3 Arg2:T19
+R2	Subunit-Complex Arg1:T4 Arg2:T19
+R3	Protein-Component Arg1:T9 Arg2:T29
+R4	Protein-Component Arg1:T10 Arg2:T31
+R5	Protein-Component Arg1:T12 Arg2:T32
+R6	Protein-Component Arg1:T13 Arg2:T32

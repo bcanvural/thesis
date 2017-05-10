@@ -1,0 +1,9 @@
+T9	Exp 141 169	signal transduction pathways	161 169	pathways
+T10	Exp 170 174	that
+T11	Exp 298 369	several families of functionally important T cell transcription factors	306 314	families
+T12	Exp 392 397	These
+T13	Exp 869 891	the molecular pathways	883 891	pathways
+T14	Exp 892 896	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13

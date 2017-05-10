@@ -1,7 +1,7 @@
+#Script that processes txt files placed under newjobs/ to make them processable by Spark
 import os
 import json
 from pathlib import Path
-
 
 def main():
 
@@ -11,6 +11,7 @@ def main():
             fullpath = os.getcwd() + '/newjobs/' + a_dir + '/' + filename
             try:
                 fullstr = Path(fullpath).read_text().strip().replace('\n', ' ').replace('\t', ' ')
+                #Remove weird characters
                 blacklist = ['•', '━', '←', '☆', '□', '×', '*', '🌎','--', '☰', '📁',\
                  '', '>>', '[ ]', '📅', '●', '\\', '>', '🔍']
                 for ch in blacklist:

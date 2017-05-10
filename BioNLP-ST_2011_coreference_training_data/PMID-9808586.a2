@@ -1,0 +1,6 @@
+T12	Exp 467 490	cellular oxidant stress	484 490	stress
+T13	Exp 491 495	that
+T14	Exp 1447 1484	a synthetic peptide Arg-Gly-Asp (RGD)	1459 1466	peptide
+T15	Exp 1485 1489	that
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14

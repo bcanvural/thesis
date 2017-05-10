@@ -1,0 +1,10 @@
+T18	Exp 243 252	this gene	248 252	gene
+T19	Exp 412 433	the expression levels	427 433	levels
+T20	Exp 510 515	those
+T21	Exp 537 540	AhR
+T22	Exp 703 705	it
+T23	Exp 1204 1217	The HEL cells	1212 1217	cells
+T24	Exp 1277 1281	they
+R1	Coref Anaphora:T20 Antecedent:T19
+R2	Coref Anaphora:T22 Antecedent:T21	[T8]
+R3	Coref Anaphora:T24 Antecedent:T23

@@ -1,0 +1,2 @@
+E1	BindTo Agent:T3 Target:T1
+E2	PromoterOf Agent:T1 Target:T2

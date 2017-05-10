@@ -1,0 +1,5 @@
+T26	Exp 322 331	Th1 cells	326 331	cells
+T27	Exp 333 338	which
+T28	Exp 1648 1656	the gene
+T29	Exp 1658 1700	suppressor of cytokine signaling 3 (SOCS3)
+R1	Coref Anaphora:T27 Antecedent:T26

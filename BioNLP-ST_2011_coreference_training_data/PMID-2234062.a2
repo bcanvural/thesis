@@ -1,0 +1,15 @@
+T1	Exp 169 221	a mitogen-inducible gene isolated from human T cells
+T2	Exp 222 226	that
+T3	Exp 436 484	repeat structures found in a variety of proteins
+T4	Exp 485 489	that
+T5	Exp 717 726	this gene
+T6	Exp 750 771	a DNA-binding protein
+T7	Exp 772 777	which
+T8	Exp 918 927	This gene
+T9	Exp 946 994	a growing list of important regulatory molecules
+T10	Exp 995 1000	whose
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T8 Antecedent:T5
+R5	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,2 @@
+A modified RNA polymerase transcribes a cloned gene under sporulation control in Bacillus subtilis.
+A modified form of RNA polymerase from Bacillus subtilis selectively transcribes a cloned gene under early sporulation control. This RNA polymerase lacks sigma factor but contains a newly identified subunit of molecular weight 37,000, termed P37. P37 could be a regulatory protein that controls, at least in part, an early stage of spore development.

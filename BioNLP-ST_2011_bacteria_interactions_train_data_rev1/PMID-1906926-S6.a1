@@ -1,0 +1,35 @@
+T1	GeneProduct 55 63	products
+T2	Gene 67 71	tagB
+T3	GeneComplex 79 85	tagABC
+T4	Gene 97 101	tagF
+T5	GeneComplex 109 115	tagDEF
+W1	Word 0 5	There
+W2	Word 6 8	is
+W3	Word 9 13	also
+W4	Word 14 25	substantial
+W5	Word 26 34	homology
+W6	Word 35 42	between
+W7	Word 43 46	the
+W8	Word 47 54	deduced
+W9	Word 55 63	products
+W10	Word 64 66	of
+W11	Word 67 71	tagB
+W12	Word 72 74	in
+W13	Word 75 78	the
+W14	Word 79 85	tagABC
+W15	Word 86 92	operon
+W16	Word 93 96	and
+W17	Word 97 101	tagF
+W18	Word 102 104	in
+W19	Word 105 108	the
+W20	Word 109 115	tagDEF
+W21	Word 116 122	operon
+R1	comp:N-N(in) W11 W15
+R2	mod_att:N-ADJ W5 W4
+R3	mod_att:N-ADJ W15 W14
+R4	comp:N-N(of) W9 W11
+R5	comp:N-N(between) W5 W9
+R6	mod_att:N-ADJ W21 W20
+R7	comp:N-N(of) W9 W17
+R8	mod_att:N-ADJ W9 W8
+R9	comp:N-N(in) W17 W21

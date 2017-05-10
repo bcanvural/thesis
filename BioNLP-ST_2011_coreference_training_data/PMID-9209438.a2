@@ -1,0 +1,20 @@
+T23	Exp 96 116	IL-5 producing cells
+T24	Exp 117 122	which
+T25	Exp 313 326	ATL-16T cells	321 326	cells
+T26	Exp 327 332	which
+T27	Exp 371 379	a region	373 379	region
+T28	Exp 418 422	that
+T29	Exp 536 564	GATA-binding family proteins	556 564	proteins
+T30	Exp 602 622	these family members	615 622	members
+T31	Exp 1052 1090	another regulatory element called CLE0	1071 1078	element
+T32	Exp 1092 1097	which
+T33	Exp 1390 1396	GATA-4
+T34	Exp 1400 1429	the only GATA-binding protein	1422 1429	protein
+T35	Exp 1430 1434	that
+R1	Coref Anaphora:T24 Antecedent:T23	[T3]
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29
+R5	Coref Anaphora:T32 Antecedent:T31
+R6	Coref Anaphora:T34 Antecedent:T33	[T18]
+R7	Coref Anaphora:T35 Antecedent:T34

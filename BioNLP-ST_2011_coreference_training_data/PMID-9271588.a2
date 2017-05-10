@@ -1,0 +1,15 @@
+T5	Exp 254 268	the mechanisms
+T6	Exp 269 273	that
+T7	Exp 360 380	a sequence of events	362 370	sequence
+T8	Exp 384 389	which
+T9	Exp 462 496	the NF-kappaB transcription factor	476 496	transcription factor
+T10	Exp 498 503	which
+T11	Exp 616 619	EBV
+T12	Exp 631 634	its
+T13	Exp 681 735	an NF-kappaB-dependent intracellular signaling pathway	728 735	pathway
+T14	Exp 736 741	which
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T8 Antecedent:T7
+R3	Coref Anaphora:T10 Antecedent:T9
+R4	Coref Anaphora:T12 Antecedent:T11
+R5	Coref Anaphora:T14 Antecedent:T13

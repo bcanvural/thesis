@@ -1,0 +1,12 @@
+*	Equiv T2 T3
+T14	Entity 16 24	silencer
+T15	Entity 172 179	antigen
+T16	Entity 518 526	silencer
+T17	Entity 534 543	activator
+T18	Entity 575 592	promoter elements
+T19	Entity 594 613	NF-AT binding sites
+T20	Entity 799 807	silencer
+T21	Entity 1071 1080	activator
+T22	Entity 1367 1374	antigen
+T23	Entity 1417 1425	silencer
+R1	Protein-Component Arg1:T8 Arg2:T18

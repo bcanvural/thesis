@@ -1,0 +1,42 @@
+*	Equiv T3 T4
+T31	Entity 377 385	promoter
+T32	Entity 439 443	AP-1
+T33	Entity 445 454	c-Rel/p65
+T34	Entity 472 482	NF-kappa B
+T35	Entity 763 768	sites
+T36	Entity 823 833	AP-1 sites
+T37	Entity 823 827	AP-1
+T38	Entity 852 864	heterodimers
+T39	Entity 944 952	promoter
+T40	Entity 970 980	AP-1 sites
+T41	Entity 970 974	AP-1
+T42	Entity 989 1001	kappa B site
+T43	Entity 1013 1033	LPS response element
+T44	Entity 1049 1122	the conserved spacing between the proximal AP-1 site and the kappa B site
+T45	Entity 1083 1101	proximal AP-1 site
+T46	Entity 1092 1096	AP-1
+T47	Entity 1110 1122	kappa B site
+T48	Entity 1171 1181	AP-1 sites
+T49	Entity 1171 1175	AP-1
+T50	Entity 1187 1209	intrinsically bent DNA
+T51	Entity 1293 1303	AP-1 sites
+T52	Entity 1293 1297	AP-1
+T53	Entity 1340 1360	LPS response element
+T54	Entity 1469 1492	transactivation domains
+T55	Entity 1493 1495	of
+T56	Entity 1537 1548	c-Fos/c-Jun
+T57	Entity 1550 1559	c-Rel/p65
+R1	Protein-Component Arg1:T6 Arg2:T31
+R2	Subunit-Complex Arg1:T7 Arg2:T33
+R3	Subunit-Complex Arg1:T8 Arg2:T33
+R4	Subunit-Complex Arg1:T14 Arg2:T38
+R5	Subunit-Complex Arg1:T15 Arg2:T38
+R6	Protein-Component Arg1:T16 Arg2:T43
+R7	Protein-Component Arg1:T16 Arg2:T42
+R8	Protein-Component Arg1:T16 Arg2:T39
+R9	Protein-Component Arg1:T23 Arg2:T54
+R10	Protein-Component Arg1:T24 Arg2:T54
+R11	Subunit-Complex Arg1:T25 Arg2:T56
+R12	Subunit-Complex Arg1:T26 Arg2:T56
+R13	Subunit-Complex Arg1:T27 Arg2:T57
+R14	Subunit-Complex Arg1:T28 Arg2:T57

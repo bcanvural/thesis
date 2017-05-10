@@ -1,0 +1,25 @@
+*	Equiv T6 T7
+T12	Entity 73 122	distal nuclear matrix associated promoter element
+T13	Entity 218 243	cell growth-related genes
+T14	Entity 252 299	protein kinase A-related cAMP response elements
+T15	Entity 394 423	principal cis-acting elements
+T16	Entity 570 581	H4 promoter
+T17	Entity 595 622	ATF/CREB recognition motifs
+T18	Entity 693 706	ATF/CRE motif
+T19	Entity 725 740	distal promoter
+T20	Entity 748 781	nuclear matrix-associated Site IV
+T21	Entity 822 839	proximal promoter
+T22	Entity 843 849	Site I
+T23	Entity 856 870	ATF/CRE motifs
+T24	Entity 879 896	binding sequences
+T25	Entity 1117 1120	DNA
+T26	Entity 1343 1349	Site I
+T27	Entity 1354 1361	Site IV
+T28	Entity 1429 1437	promoter
+T29	Entity 1561 1578	promoter elements
+R1	Protein-Component Arg1:T2 Arg2:T12
+R2	Protein-Component Arg1:T3 Arg2:T15
+R3	Protein-Component Arg1:T10 Arg2:T27
+R4	Protein-Component Arg1:T10 Arg2:T26
+R5	Protein-Component Arg1:T10 Arg2:T28
+R6	Protein-Component Arg1:T11 Arg2:T29

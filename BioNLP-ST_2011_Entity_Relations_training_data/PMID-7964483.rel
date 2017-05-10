@@ -1,0 +1,15 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+*	Equiv T8 T9
+T10	Entity 110 122	cDNA library
+T11	Entity 172 184	cDNA library
+T12	Entity 294 306	cDNA library
+T13	Entity 532 538	exon 1
+T14	Entity 585 592	exons 1
+T15	Entity 597 598	2
+T16	Entity 615 633	alternative 5'-end
+T17	Entity 651 657	intron
+T18	Entity 691 716	alternative promoter site
+T19	Entity 742 748	intron
+T20	Entity 767 773	exon 1
+T21	Entity 989 1007	NF-kappa B element

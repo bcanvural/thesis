@@ -1,0 +1,11 @@
+T6	Exp 827 835	evidence
+T7	Exp 836 840	that
+T8	Exp 1625 1637	thymopoiesis
+T9	Exp 1638 1642	that
+T10	Exp 1898 1925	the thymic microenvironment	1909 1925	microenvironment
+T11	Exp 1926 1931	which
+T12	Exp 1941 1964	the necessary cytokines	1955 1964	cytokines
+T13	Exp 1966 1985	TNF, IL-1, and IL-7
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T11 Antecedent:T10

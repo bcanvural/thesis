@@ -1,0 +1,38 @@
+T1	Expression 15 25	expression
+T2	Expression 69 74	those
+T3	Gene 79 82	ctc
+T4	Gene 110 114	gene
+T5	Protein 128 135	sigma B
+W1	Word 0 4	This
+W2	Word 5 11	timing
+W3	Word 12 14	of
+W4	Word 15 25	expression
+W5	Word 26 29	and
+W6	Word 30 36	medium
+W7	Word 37 47	dependence
+W8	Word 48 52	were
+W9	Word 53 57	very
+W10	Word 58 65	similar
+W11	Word 66 68	to
+W12	Word 69 74	those
+W13	Word 75 78	for
+W14	Word 79 82	ctc
+W15	Word 84 87	the
+W16	Word 88 92	only
+W17	Word 93 98	other
+W18	Word 99 109	recognized
+W19	Word 110 114	gene
+W20	Word 115 124	dependent
+W21	Word 125 127	on
+W22	Word 128 135	sigma B
+R1	mod:ADJ-ADV W10 W9
+R2	mod_att:N-N W7 W6
+R3	comp:ADJ-N(to) W10 W12
+R4	mod_att:N-ADJ W19 W18
+R5	appos W14 W19
+R6	comp:N-N(of) W2 W4
+R7	mod_pred:N-ADJ W7 W10
+R8	comp:N-N(for) W12 W14
+R9	mod_pred:N-ADJ W2 W10
+R10	mod_post:N-ADJ W19 W20
+R11	comp:ADJ-N(on) W20 W22

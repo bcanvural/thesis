@@ -1,0 +1,96 @@
+T1	Action 23 31	activity
+T2	ProteinFamily 47 54	kinases
+T3	Protein 56 60	KinA
+T4	Protein 62 66	KinC
+T5	Protein 68 72	KinD
+T6	Protein 74 78	ykvD
+T7	Protein 84 88	KinE
+T8	Protein 90 94	ykrQ
+T9	Gene 103 107	abrB
+T10	Transcription 108 121	transcription
+T11	Protein 141 148	Spo0A~P
+T12	Action 149 154	level
+T13	Protein 170 174	KinC
+T14	Protein 179 183	KinD
+T15	Protein 205 212	Spo0A~P
+T16	Action 213 223	production
+T17	Action 270 277	absence
+T18	Protein 281 285	KinA
+T19	Protein 290 294	KinB
+W1	Word 0 2	In
+W2	Word 3 7	vivo
+W3	Word 8 15	studies
+W4	Word 16 18	of
+W5	Word 19 22	the
+W6	Word 23 31	activity
+W7	Word 32 34	of
+W8	Word 35 39	four
+W9	Word 40 42	of
+W10	Word 43 46	the
+W11	Word 47 54	kinases
+W12	Word 56 60	KinA
+W13	Word 62 66	KinC
+W14	Word 68 72	KinD
+W15	Word 74 78	ykvD
+W16	Word 80 83	and
+W17	Word 84 88	KinE
+W18	Word 90 94	ykrQ
+W19	Word 97 102	using
+W20	Word 103 107	abrB
+W21	Word 108 121	transcription
+W22	Word 122 124	as
+W23	Word 125 127	an
+W24	Word 128 137	indicator
+W25	Word 138 140	of
+W26	Word 141 148	Spo0A~P
+W27	Word 149 154	level
+W28	Word 156 164	revealed
+W29	Word 165 169	that
+W30	Word 170 174	KinC
+W31	Word 175 178	and
+W32	Word 179 183	KinD
+W33	Word 184 188	were
+W34	Word 189 200	responsible
+W35	Word 201 204	for
+W36	Word 205 212	Spo0A~P
+W37	Word 213 223	production
+W38	Word 224 230	during
+W39	Word 231 234	the
+W40	Word 235 246	exponential
+W41	Word 247 252	phase
+W42	Word 253 255	of
+W43	Word 256 262	growth
+W44	Word 263 265	in
+W45	Word 266 269	the
+W46	Word 270 277	absence
+W47	Word 278 280	of
+W48	Word 281 285	KinA
+W49	Word 286 289	and
+W50	Word 290 294	KinB
+R1	comp:ADJ-N(in) W34 W46
+R2	appos W11 W12
+R3	comp:N-N(of) W41 W43
+R4	comp:ADJ-N(for) W34 W37
+R5	mod_att:N-N W27 W26
+R6	mod_pred:N-ADJ W32 W34
+R7	comp:ADJ-N(during) W34 W41
+R8	comp:N-N(of) W24 W27
+R9	mod_pred:N-ADJ W30 W34
+R10	subj:V-N W28 W3
+R11	comp:N-N(of) W3 W6
+R12	appos W11 W17
+R13	comp:N-N(of) W46 W50
+R14	comp:N-N(in) W3 W2
+R15	appos W11 W14
+R16	appos W17 W18
+R17	mod_att:N-N W21 W20
+R18	comp:N-N(of) W46 W48
+R19	comp:V-N(as) W19 W24
+R20	mod_att:N-N W37 W36
+R21	appos W11 W13
+R22	mod_att:N-ADJ W41 W40
+R23	obj:V-N W19 W21
+R24	comp:N-N(of) W6 W8
+R25	appos W14 W15
+R26	comp:N-N(of) W8 W11
+R27	subj:V-N W19 W3

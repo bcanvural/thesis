@@ -1,0 +1,27 @@
+T1	GeneFamily 0 25	Mother-cell-specific gene
+T2	Expression 26 36	expression
+T3	PolymeraseComplex 94 129	sigma E and sigma K RNA polymerases
+W1	Word 0 20	Mother-cell-specific
+W2	Word 21 25	gene
+W3	Word 26 36	expression
+W4	Word 37 43	during
+W5	Word 44 55	sporulation
+W6	Word 56 58	of
+W7	Word 59 76	Bacillus subtilis
+W8	Word 77 79	is
+W9	Word 80 90	controlled
+W10	Word 91 93	by
+W11	Word 94 101	sigma E
+W12	Word 102 105	and
+W13	Word 106 113	sigma K
+W14	Word 114 117	RNA
+W15	Word 118 129	polymerases
+R1	comp:N-N(during) W3 W5
+R2	mod_att:N-N W15 W13
+R3	mod_att:N-N W3 W2
+R4	mod_att:N-N W2 W1
+R5	mod_att:N-N W15 W14
+R6	comp:V_PASS-N(by) W9 W15
+R7	mod_att:N-N W15 W11
+R8	comp:N-N(of) W5 W7
+R9	subj:V_PASS-N W9 W3

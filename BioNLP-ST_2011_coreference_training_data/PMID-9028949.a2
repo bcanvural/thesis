@@ -1,0 +1,14 @@
+T15	Exp 20 84	the human platelet/endothelial cell adhesion molecule-1 promoter	76 84	promoter
+T16	Exp 236 278	a 130-kD member of the Ig gene superfamily	245 251	member
+T17	Exp 279 283	that
+T18	Exp 447 489	the 5'-flanking region of the PECAM-1 gene	463 469	region
+T19	Exp 503 506	its
+T20	Exp 1608 1640	the cis- and transacting factors	1633 1640	factors
+T21	Exp 1641 1645	that
+T22	Exp 1734 1748	the mechanisms	1738 1748	mechanisms
+T23	Exp 1752 1757	which
+R1	Coref Anaphora:T17 Antecedent:T16
+R2	Coref Anaphora:T19 Antecedent:T18	[T6]
+R3	Coref Anaphora:T20 Antecedent:T15	[T1]
+R4	Coref Anaphora:T21 Antecedent:T20
+R5	Coref Anaphora:T23 Antecedent:T22

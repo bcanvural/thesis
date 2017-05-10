@@ -1,0 +1,17 @@
+T24	Exp 548 573	a markedly anionic domain	567 573	domain
+T25	Exp 574 578	that
+T26	Exp 621 625	that
+T27	Exp 745 752	strains
+T28	Exp 753 757	that
+T29	Exp 1206 1237	defensins NP-1, NP-5, and HNP-1
+T30	Exp 1280 1294	these peptides	1286 1294	peptides
+T31	Exp 1416 1468	mutations in pagC, as well as ones in the phoP locus
+T32	Exp 1446 1468	ones in the phoP locus	1446 1450	ones
+T33	Exp 1469 1473	that
+T34	Exp 1583 1587	they
+R1	Coref Anaphora:T25 Antecedent:T24
+R2	Coref Anaphora:T26 Antecedent:T24
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29	[T17, T15, T16]
+R5	Coref Anaphora:T33 Antecedent:T32	[T21]
+R6	Coref Anaphora:T34 Antecedent:T31	[T21, T20]

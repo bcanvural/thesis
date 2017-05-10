@@ -1,4 +1,5 @@
 
+#Small script that collects all job ads in one file
 import os
 from pathlib import Path
 import json

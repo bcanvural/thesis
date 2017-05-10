@@ -1,0 +1,12 @@
+T3	Exp 621 658	phorbol 12-myristate 13-acetate (PMA)
+T4	Exp 660 665	which
+T5	Exp 772 800	arachidonic acid stimulation	789 800	stimulation
+T6	Exp 802 807	which
+T7	Exp 974 990	a 47-kDa protein	983 990	protein
+T8	Exp 992 997	which
+T9	Exp 1122 1218	a decrease in the expression of the interleukin-2 receptor alpha chain following PMA stimulation	1124 1132	decrease
+T10	Exp 1220 1224	This
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T8 Antecedent:T7
+R4	Coref Anaphora:T10 Antecedent:T9	[T2]

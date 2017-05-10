@@ -1,0 +1,10 @@
+T29	Exp 321 349	the mouse T-cell line CTLL-2
+T30	Exp 426 429	its
+T31	Exp 666 678	CTLL-2 cells
+T32	Exp 679 683	that
+T33	Exp 1220 1243	the mutant IkappaBalpha	1231 1243	IkappaBalpha
+T34	Exp 1245 1250	which
+R1	Coref Anaphora:T30 Antecedent:T29
+R2	Coref Anaphora:T31 Antecedent:T29
+R3	Coref Anaphora:T32 Antecedent:T31
+R4	Coref Anaphora:T34 Antecedent:T33	[T25]

@@ -1,0 +1,3 @@
+T9	Exp 1363 1387	These two anthracyclines	1373 1387	anthracyclines
+T10	Exp 1417 1422	their
+R1	Coref Anaphora:T10 Antecedent:T9

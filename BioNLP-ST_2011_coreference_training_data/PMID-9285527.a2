@@ -1,0 +1,6 @@
+T13	Exp 621 672	CD36 transfected Chinese hampster ovary (CHO) cells	667 672	cells
+T14	Exp 682 686	them
+T15	Exp 1292 1300	the idea
+T16	Exp 1301 1305	that
+R1	Coref Anaphora:T14 Antecedent:T13	[T5]
+R2	Coref Anaphora:T16 Antecedent:T15

@@ -1,0 +1,10 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T8 T9
+T26	Entity 43 47	AP-1
+T27	Entity 965 969	AP-1
+T28	Entity 1402 1406	AP-1
+T29	Entity 1452 1456	AP-1
+T30	Entity 1736 1740	AP-1
+T31	Entity 1836 1840	AP-1
+R1	Subunit-Complex Arg1:T13 Arg2:T28

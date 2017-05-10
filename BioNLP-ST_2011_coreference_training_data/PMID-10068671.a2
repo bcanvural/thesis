@@ -1,0 +1,12 @@
+T32	Exp 177 199	a pleiotropic cytokine	191 199	cytokine
+T33	Exp 200 204	that
+T34	Exp 280 299	increasing evidence	291 299	evidence
+T35	Exp 300 304	that
+T36	Exp 391 425	IL-2Ralpha, c-myc, and pim-1 genes	420 425	genes
+T37	Exp 486 497	these genes	492 497	genes
+T38	Exp 915 956	IL-2Ralpha, pim-1, and IRF-1 GAS elements	948 956	elements
+T39	Exp 1333 1349	the GAS elements	1341 1349	elements
+R1	Coref Anaphora:T33 Antecedent:T32
+R2	Coref Anaphora:T35 Antecedent:T34
+R3	Coref Anaphora:T37 Antecedent:T36	[T5, T4, T6]
+R4	Coref Anaphora:T39 Antecedent:T38	[T15, T16, T17]

@@ -1,0 +1,20 @@
+*	Equiv T12 T13
+*	Equiv T19 T20
+*	Equiv T21 T22
+T48	Entity 138 146	promoter
+T49	Entity 815 831	-regulated genes
+T50	Entity 1151 1181	sequence between -155 and -193
+T51	Entity 1201 1209	promoter
+T52	Entity 1469 1497	region between -105 and -193
+T53	Entity 1517 1525	promoter
+T54	Entity 1705 1712	element
+T55	Entity 1728 1737	promoters
+T56	Entity 1913 1921	promoter
+R1	Protein-Component Arg1:T3 Arg2:T48
+R2	Protein-Component Arg1:T28 Arg2:T50
+R3	Protein-Component Arg1:T28 Arg2:T51
+R4	Protein-Component Arg1:T35 Arg2:T52
+R5	Protein-Component Arg1:T35 Arg2:T53
+R6	Protein-Component Arg1:T40 Arg2:T55
+R7	Protein-Component Arg1:T41 Arg2:T55
+R8	Protein-Component Arg1:T44 Arg2:T56

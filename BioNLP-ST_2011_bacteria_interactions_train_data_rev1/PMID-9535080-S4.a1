@@ -1,0 +1,30 @@
+T1	Site 4 32	start point of transcription
+T2	Promoter 58 76	promoter sequences
+T3	Protein 81 87	sigmaA
+T4	Protein 89 95	sigmaB
+T5	Protein 100 106	sigmaD
+W1	Word 0 3	The
+W2	Word 4 9	start
+W3	Word 10 15	point
+W4	Word 16 18	of
+W5	Word 19 32	transcription
+W6	Word 33 35	is
+W7	Word 36 44	preceded
+W8	Word 45 47	by
+W9	Word 48 57	potential
+W10	Word 58 66	promoter
+W11	Word 67 76	sequences
+W12	Word 77 80	for
+W13	Word 81 87	sigmaA
+W14	Word 89 95	sigmaB
+W15	Word 96 99	and
+W16	Word 100 106	sigmaD
+R1	mod_att:N-N W3 W2
+R2	comp:N-N(for) W11 W14
+R3	mod_att:N-N W11 W10
+R4	subj:V_PASS-N W7 W3
+R5	comp:N-N(of) W3 W5
+R6	comp:N-N(for) W11 W13
+R7	comp:N-N(for) W11 W16
+R8	comp:V_PASS-N(by) W7 W11
+R9	mod_att:N-ADJ W11 W9

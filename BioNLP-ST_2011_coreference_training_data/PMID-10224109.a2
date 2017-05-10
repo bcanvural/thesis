@@ -1,0 +1,3 @@
+T9	Exp 1054 1085	a chimeric transcription factor	1065 1085	transcription factor
+T10	Exp 1089 1094	which
+R1	Coref Anaphora:T10 Antecedent:T9

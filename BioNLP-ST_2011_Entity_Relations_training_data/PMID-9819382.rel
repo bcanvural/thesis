@@ -1,0 +1,11 @@
+*	Equiv T8 T9
+T28	Entity 209 230	LIM-only protein gene
+T29	Entity 232 235	LMO
+T30	Entity 608 631	downstream target genes
+T31	Entity 1082 1095	second intron
+T32	Entity 1131 1140	GATA site
+T33	Entity 1146 1162	cryptic promoter
+T34	Entity 1170 1183	second intron
+T35	Entity 1488 1491	DNA
+T36	Entity 1647 1675	transcriptional target genes
+R1	Protein-Component Arg1:T14 Arg2:T31

@@ -1,0 +1,3 @@
+T17	Exp 1190 1255	the only abundant DNA-binding activity of B-cell nuclear extracts	1208 1228	DNA-binding activity
+T18	Exp 1256 1260	that
+R1	Coref Anaphora:T18 Antecedent:T17

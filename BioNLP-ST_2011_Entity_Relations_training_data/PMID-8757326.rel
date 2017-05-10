@@ -1,0 +1,14 @@
+T19	Entity 415 436	DNA enhancer elements
+T20	Entity 506 526	heterotrimeric NFATp
+T21	Entity 541 556	protein complex
+T22	Entity 562 581	Activator Protein-1
+T23	Entity 583 587	AP-1
+T24	Entity 613 625	heterodimers
+T25	Entity 917 924	TCR/CD3
+R1	Protein-Component Arg1:T6 Arg2:T19
+R2	Subunit-Complex Arg1:T7 Arg2:T21
+R3	Subunit-Complex Arg1:T8 Arg2:T21
+R4	Subunit-Complex Arg1:T9 Arg2:T21
+R5	Subunit-Complex Arg1:T7 Arg2:T20
+R6	Subunit-Complex Arg1:T10 Arg2:T24
+R7	Subunit-Complex Arg1:T11 Arg2:T24

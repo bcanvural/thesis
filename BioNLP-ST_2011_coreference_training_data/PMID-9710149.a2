@@ -1,0 +1,6 @@
+T7	Exp 91 113	Dithiocarbamates (DTC)
+T8	Exp 560 571	this family	565 571	family
+T9	Exp 1067 1076	NF-kappaB
+T10	Exp 1173 1185	this protein	1178 1185	protein
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9

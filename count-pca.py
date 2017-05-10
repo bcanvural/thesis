@@ -1,5 +1,5 @@
 #
-# TF-IDF among job ads, CVs, categories (all together)
+# TF-IDF among job ads, CVs, categories (all together) with PCA dimensionality reduction applied
 #
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import CountVectorizer, IDF, Tokenizer, StopWordsRemover, PCA, MinMaxScaler

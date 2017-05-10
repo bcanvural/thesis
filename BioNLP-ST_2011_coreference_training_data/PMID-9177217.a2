@@ -1,0 +1,15 @@
+T21	Exp 321 325	RFX5
+T22	Exp 327 331	that
+T23	Exp 413 485	a large protein with a defined acidic transcriptional activation domain;	421 428	protein
+T24	Exp 486 498	this protein	491 498	protein
+T25	Exp 865 876	a condition
+T26	Exp 880 885	which
+T27	Exp 1043 1085	an in vitro mutagenized derivative of Raji	1067 1077	derivative
+T28	Exp 1089 1094	which
+T29	Exp 1489 1591	a complex capable of activating transcription from class II major histocompatibility complex promoters
+T30	Exp 1596 1608	this complex	1601 1608	complex
+R1	Coref Anaphora:T22 Antecedent:T21	[T3]
+R2	Coref Anaphora:T24 Antecedent:T23
+R3	Coref Anaphora:T26 Antecedent:T25
+R4	Coref Anaphora:T28 Antecedent:T27
+R5	Coref Anaphora:T30 Antecedent:T29

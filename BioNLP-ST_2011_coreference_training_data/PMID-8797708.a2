@@ -1,0 +1,32 @@
+T19	Exp 333 375	a potent transactivator protein termed Tax	372 375	Tax
+T20	Exp 376 380	that
+T21	Exp 469 483	the mechanisms
+T22	Exp 487 492	which
+T23	Exp 772 812	One family of host transcription factors	776 782	family
+T24	Exp 813 818	whose
+T25	Exp 871 898	These transcription factors
+T26	Exp 939 944	their
+T27	Exp 959 1014	a second family of inhibitory proteins termed I kappa B	968 974	family
+T28	Exp 1015 1019	that
+T29	Exp 1231 1241	NF-kappa B
+T30	Exp 1254 1257	its
+T31	Exp 1283 1294	the nucleus
+T32	Exp 1295 1300	where
+T33	Exp 1301 1303	it
+T34	Exp 1313 1316	its
+T35	Exp 1462 1476	The mechanisms
+T36	Exp 1480 1485	which
+T37	Exp 1700 1726	the intriguing possibility	1715 1726	possibility
+T38	Exp 1727 1731	that
+R1	Coref Anaphora:T20 Antecedent:T19	[T2]
+R2	Coref Anaphora:T22 Antecedent:T21
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T25 Antecedent:T23
+R5	Coref Anaphora:T26 Antecedent:T25
+R6	Coref Anaphora:T28 Antecedent:T27
+R7	Coref Anaphora:T30 Antecedent:T29
+R8	Coref Anaphora:T32 Antecedent:T31
+R9	Coref Anaphora:T33 Antecedent:T29
+R10	Coref Anaphora:T34 Antecedent:T29
+R11	Coref Anaphora:T36 Antecedent:T35
+R12	Coref Anaphora:T38 Antecedent:T37

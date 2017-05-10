@@ -1,0 +1,3 @@
+T8	Exp 1139 1157	immune dysfunction	1146 1157	dysfunction
+T9	Exp 1158 1162	that
+R1	Coref Anaphora:T9 Antecedent:T8

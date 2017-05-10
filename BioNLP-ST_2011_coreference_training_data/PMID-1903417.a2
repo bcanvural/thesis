@@ -1,0 +1,3 @@
+T14	Exp 1661 1702	levels of the transcriptional factor AP-1	1661 1667	levels
+T15	Exp 1704 1709	which
+R1	Coref Anaphora:T15 Antecedent:T14

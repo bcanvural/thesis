@@ -1,0 +1,7 @@
+E3	ActionTarget Action:T4 Target:T3
+E4	ActionTarget Action:T4 Target:T2
+E5	TranscriptionBy Transcription:T5 Polymerase:T3
+E6	ActionTarget Action:T5 Target:T6
+E7	TranscriptionBy Transcription:T5 Polymerase:T2
+E8	ActionTarget Action:T8 Target:T7
+E9	RegulonMember Regulon:T6 Member:T7

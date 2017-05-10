@@ -1,0 +1,40 @@
+T14	Entity 12 40	NF-kappa B/Rel binding sites
+T15	Entity 12 22	NF-kappa B
+T16	Entity 106 114	promoter
+T17	Entity 166 176	NF-kappa B
+T18	Entity 196 204	promoter
+T19	Entity 293 295	Ii
+T20	Entity 310 338	NF-kappa B/Rel binding sites
+T21	Entity 310 320	NF-kappa B
+T22	Entity 350 362	-109 to -118
+T23	Entity 364 376	Ii kappa B-1
+T24	Entity 382 394	-163 to -172
+T25	Entity 396 408	Ii kappa B-2
+T26	Entity 508 528	NF-kappa B/Rel sites
+T27	Entity 508 518	NF-kappa B
+T28	Entity 596 606	NF-kappa B
+T29	Entity 634 646	Ii kappa B-1
+T30	Entity 652 679	positive regulatory element
+T31	Entity 752 779	negative regulatory element
+T32	Entity 835 838	DNA
+T33	Entity 866 878	Ii kappa B-1
+T34	Entity 959 968	regulator
+T35	Entity 1043 1053	NF-kappa B
+T36	Entity 1130 1151	DNA-binding complexes
+T37	Entity 1289 1301	Ii kappa B-2
+T38	Entity 1746 1756	NF-kappa B
+T39	Entity 1828 1856	NF-kappa B/Rel binding sites
+T40	Entity 1828 1838	NF-kappa B
+R1	Protein-Component Arg1:T1 Arg2:T14
+R2	Protein-Component Arg1:T1 Arg2:T16
+R3	Protein-Component Arg1:T2 Arg2:T19
+R4	Protein-Component Arg1:T2 Arg2:T25
+R5	Protein-Component Arg1:T2 Arg2:T22
+R6	Protein-Component Arg1:T2 Arg2:T24
+R7	Protein-Component Arg1:T2 Arg2:T20
+R8	Protein-Component Arg1:T2 Arg2:T18
+R9	Protein-Component Arg1:T2 Arg2:T23
+R10	Subunit-Complex Arg1:T4 Arg2:T36
+R11	Subunit-Complex Arg1:T3 Arg2:T36
+R12	Subunit-Complex Arg1:T6 Arg2:T36
+R13	Subunit-Complex Arg1:T5 Arg2:T36

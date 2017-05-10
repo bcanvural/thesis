@@ -1,0 +1,3 @@
+T8	Exp 305 324	possible mechanisms	314 324	mechanisms
+T9	Exp 325 329	that
+R1	Coref Anaphora:T9 Antecedent:T8

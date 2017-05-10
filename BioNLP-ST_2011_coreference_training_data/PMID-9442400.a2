@@ -1,0 +1,15 @@
+T9	Exp 268 293	The underlying mechanisms	283 293	mechanisms
+T10	Exp 297 302	which
+T11	Exp 565 587	several cytokine genes	582 587	genes
+T12	Exp 621 626	their
+T13	Exp 833 900	the induction of transcription factors on the gene expression level	837 846	induction
+T14	Exp 850 871	transcription factors	850 871	transcription factors
+T15	Exp 901 906	which
+T16	Exp 990 995	their
+T17	Exp 1303 1321	infected monocytes	1312 1321	monocytes
+T18	Exp 1323 1328	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T15 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T14
+R5	Coref Anaphora:T18 Antecedent:T17

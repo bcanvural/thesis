@@ -1,0 +1,17 @@
+*	Equiv T11 T12
+*	Equiv T15 T16
+T25	Entity 131 160	activation site-like sequence
+T26	Entity 177 191	I epsilon exon
+T27	Entity 389 430	activation site-like DNA sequence element
+T28	Entity 455 469	I epsilon exon
+T29	Entity 697 705	tyrosine
+T30	Entity 1136 1147	NAF complex
+T31	Entity 1386 1415	activation site-like sequence
+T32	Entity 1441 1444	NAF
+T33	Entity 1515 1518	NAF
+T34	Entity 1580 1588	receptor
+R1	Protein-Component Arg1:T2 Arg2:T25
+R2	Subunit-Complex Arg1:T13 Arg2:T30
+R3	Protein-Component Arg1:T19 Arg2:T31
+R4	Subunit-Complex Arg1:T20 Arg2:T32
+R5	Subunit-Complex Arg1:T21 Arg2:T33

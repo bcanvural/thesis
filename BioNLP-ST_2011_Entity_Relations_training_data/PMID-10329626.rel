@@ -1,0 +1,8 @@
+*	Equiv T11 T12
+T20	Entity 0 13	Rel/NF-kappaB
+T21	Entity 385 414	Rel/NF-kappaB-responsive gene
+T22	Entity 389 398	NF-kappaB
+T23	Entity 594 603	NF-kappaB
+T24	Entity 712 721	NF-kappaB
+T25	Entity 1104 1113	NF-kappaB
+T26	Entity 1536 1545	NF-kappaB

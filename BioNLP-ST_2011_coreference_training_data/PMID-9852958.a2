@@ -1,0 +1,14 @@
+T6	Exp 333 379	a 546-nucleotide (nt) open reading frame (ORF)	375 378	ORF
+T7	Exp 380 384	that
+T8	Exp 702 712	antibodies
+T9	Exp 713 717	that
+T10	Exp 790 803	This antibody	795 803	antibody
+T11	Exp 1075 1112	FKHRL1 and its related family members
+T12	Exp 1075 1081	FKHRL1
+T13	Exp 1086 1089	its
+T14	Exp 1202 1207	their
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T10 Antecedent:T8
+R4	Coref Anaphora:T13 Antecedent:T12	[T5]
+R5	Coref Anaphora:T14 Antecedent:T11	[T5]

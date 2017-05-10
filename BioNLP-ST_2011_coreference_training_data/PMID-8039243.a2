@@ -1,0 +1,16 @@
+T8	Exp 577 594	two anti-CD3 mAbs
+T9	Exp 595 599	that
+T10	Exp 610 615	their
+T11	Exp 655 659	OKT3
+T12	Exp 661 666	which
+T13	Exp 771 775	64.1
+T14	Exp 777 782	which
+T15	Exp 818 821	its
+T16	Exp 1293 1297	64.1
+T17	Exp 1345 1348	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T10 Antecedent:T8
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T15 Antecedent:T13
+R6	Coref Anaphora:T17 Antecedent:T16

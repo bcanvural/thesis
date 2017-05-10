@@ -1,0 +1,6 @@
+T19	Exp 363 380	the CD23 receptor
+T20	Exp 382 387	which
+T21	Exp 1122 1141	the gene activation	1131 1141	activation
+T22	Exp 1142 1146	that
+R1	Coref Anaphora:T20 Antecedent:T19	[T3]
+R2	Coref Anaphora:T22 Antecedent:T21

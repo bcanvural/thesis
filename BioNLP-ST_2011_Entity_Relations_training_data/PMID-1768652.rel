@@ -1,0 +1,42 @@
+*	Equiv T1 T2
+T28	Entity 0 7	Kappa B
+T29	Entity 70 78	enhancer
+T30	Entity 116 142	Kappa B (kappa B) enhancer
+T31	Entity 233 256	nucleoprotein complexes
+T32	Entity 281 296	kappa B element
+T33	Entity 365 386	DNA-protein complexes
+T34	Entity 770 780	B2 complex
+T35	Entity 839 849	B1 complex
+T36	Entity 944 960	kappa B enhancer
+T37	Entity 962 974	GGGGAATCTCCC
+T38	Entity 1022 1032	B2 complex
+T39	Entity 1081 1118	5' triplet of deoxyguanosine residues
+T40	Entity 1081 1091	5' triplet
+T41	Entity 1095 1118	deoxyguanosine residues
+T42	Entity 1150 1160	B1 complex
+T43	Entity 1234 1272	3' sequences of this enhancer element.
+T44	Entity 1255 1271	enhancer element
+T45	Entity 1273 1276	DNA
+T46	Entity 1375 1381	lysine
+T47	Entity 1386 1394	arginine
+T48	Entity 1435 1452	basic amino acids
+T49	Entity 1485 1500	kappa B element
+T50	Entity 1652 1655	DNA
+T51	Entity 1837 1860	reduced cysteine thiols
+T52	Entity 1845 1853	cysteine
+T53	Entity 1891 1894	DNA
+R1	Subunit-Complex Arg1:T5 Arg2:T33
+R2	Subunit-Complex Arg1:T6 Arg2:T33
+R3	Subunit-Complex Arg1:T3 Arg2:T33
+R4	Subunit-Complex Arg1:T4 Arg2:T33
+R5	Subunit-Complex Arg1:T16 Arg2:T35
+R6	Subunit-Complex Arg1:T17 Arg2:T35
+R7	Subunit-Complex Arg1:T14 Arg2:T35
+R8	Subunit-Complex Arg1:T13 Arg2:T34
+R9	Subunit-Complex Arg1:T12 Arg2:T34
+R10	Subunit-Complex Arg1:T15 Arg2:T35
+R11	Subunit-Complex Arg1:T20 Arg2:T38
+R12	Subunit-Complex Arg1:T19 Arg2:T38
+R13	Protein-Component Arg1:T18 Arg2:T36
+R14	Subunit-Complex Arg1:T22 Arg2:T42
+R15	Subunit-Complex Arg1:T21 Arg2:T42

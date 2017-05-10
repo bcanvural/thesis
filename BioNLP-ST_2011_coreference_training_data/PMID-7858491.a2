@@ -1,0 +1,15 @@
+T18	Exp 395 428	IL-3, GM-CSF, FMS and EGR-1 genes
+T19	Exp 429 434	which
+T20	Exp 484 516	The expression of the M-CSF gene	488 498	expression
+T21	Exp 518 522	that
+T22	Exp 691 702	these genes	697 702	genes
+T23	Exp 881 895	the same genes	890 895	genes
+T24	Exp 1265 1279	the 2 patients	1271 1279	patients
+T25	Exp 1280 1285	whose
+T26	Exp 1394 1403	the genes	1398 1403	genes
+R1	Coref Anaphora:T19 Antecedent:T18	[T11, T8, T9, T10]
+R2	Coref Anaphora:T21 Antecedent:T20	[T12]
+R3	Coref Anaphora:T22 Antecedent:T18	[T11, T8, T9, T10]
+R4	Coref Anaphora:T23 Antecedent:T22
+R5	Coref Anaphora:T25 Antecedent:T24
+R6	Coref Anaphora:T26 Antecedent:T18	[T11, T8, T9, T10]

@@ -1,0 +1,35 @@
+T1	Expression 20 30	expression
+T2	Gene 34 39	spoVA
+T3	Expression 83 93	expression
+T4	Gene 97 104	spoIIIC
+W1	Word 0 3	One
+W2	Word 4 10	branch
+W3	Word 11 16	leads
+W4	Word 17 19	to
+W5	Word 20 30	expression
+W6	Word 31 33	of
+W7	Word 34 39	spoVA
+W8	Word 40 46	within
+W9	Word 47 50	the
+W10	Word 51 56	spore
+W11	Word 57 68	compartment
+W12	Word 70 73	the
+W13	Word 74 79	other
+W14	Word 80 82	to
+W15	Word 83 93	expression
+W16	Word 94 96	of
+W17	Word 97 104	spoIIIC
+W18	Word 105 107	in
+W19	Word 108 111	the
+W20	Word 112 118	mother
+W21	Word 119 123	cell
+R1	comp:N-N(within) W5 W11
+R2	comp:V-N(to) W3 W5
+R3	comp:N-N(of) W15 W17
+R4	subj:V-N W3 W2
+R5	comp:V-N(to) W3 W15
+R6	subj:V-N W3 W13
+R7	mod_att:N-N W21 W20
+R8	comp:N-N(of) W5 W7
+R9	comp:N-N(in) W15 W21
+R10	mod_att:N-N W11 W10

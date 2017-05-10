@@ -1,0 +1,20 @@
+T23	Exp 66 81	ICSAT/Pip/LSIRF
+T24	Exp 83 87	that
+T25	Exp 199 315	interferon (IFN) consensus sequence-binding protein in adult T-cell leukemia cell line or activated T cells (ICSAT);
+T26	Exp 316 328	this protein
+T27	Exp 452 457	ICSBP
+T28	Exp 459 521	a member of the IFN regulatory factor (IRF) family of proteins	461 467	member
+T29	Exp 522 526	that
+T30	Exp 884 896	Jurkat cells
+T31	Exp 897 902	which
+T32	Exp 1342 1366	Such repressive function	1358 1366	function
+T33	Exp 1381 1385	that
+T34	Exp 1448 1477	a different repressive effect	1471 1477	effect
+T35	Exp 1483 1487	that
+R1	Coref Anaphora:T24 Antecedent:T23	[T1, T3, T2]
+R2	Coref Anaphora:T26 Antecedent:T25	[T5, T4]
+R3	Coref Anaphora:T28 Antecedent:T27	[T9]
+R4	Coref Anaphora:T29 Antecedent:T28
+R5	Coref Anaphora:T31 Antecedent:T30
+R6	Coref Anaphora:T33 Antecedent:T32
+R7	Coref Anaphora:T35 Antecedent:T34

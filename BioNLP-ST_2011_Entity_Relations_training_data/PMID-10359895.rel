@@ -1,0 +1,35 @@
+*	Equiv T7 T8
+T21	Entity 29 42	novel element
+T22	Entity 527 535	promoter
+T23	Entity 921 944	protein binding regions
+T24	Entity 946 949	BRs
+T25	Entity 970 993	proximal hIL-5 promoter
+T26	Entity 985 993	promoter
+T27	Entity 1034 1037	BRs
+T28	Entity 1071 1079	promoter
+T29	Entity 1112 1115	BR3
+T30	Entity 1120 1123	BR4
+T31	Entity 1255 1258	BR3
+T32	Entity 1285 1312	negative regulatory element
+T33	Entity 1358 1366	promoter
+T34	Entity 1498 1510	BR3 sequence
+T35	Entity 1542 1550	promoter
+T36	Entity 1661 1677	-90/-79 sequence
+T37	Entity 1703 1711	promoter
+R1	Protein-Component Arg1:T3 Arg2:T21
+R2	Protein-Component Arg1:T7 Arg2:T22
+R3	Protein-Component Arg1:T10 Arg2:T23
+R4	Protein-Component Arg1:T10 Arg2:T24
+R5	Protein-Component Arg1:T10 Arg2:T25
+R6	Protein-Component Arg1:T10 Arg2:T26
+R7	Protein-Component Arg1:T11 Arg2:T27
+R8	Protein-Component Arg1:T11 Arg2:T28
+R9	Protein-Component Arg1:T12 Arg2:T30
+R10	Protein-Component Arg1:T12 Arg2:T29
+R11	Protein-Component Arg1:T13 Arg2:T32
+R12	Protein-Component Arg1:T13 Arg2:T31
+R13	Protein-Component Arg1:T13 Arg2:T33
+R14	Protein-Component Arg1:T16 Arg2:T35
+R15	Protein-Component Arg1:T19 Arg2:T36
+R16	Protein-Component Arg1:T20 Arg2:T36
+R17	Protein-Component Arg1:T19 Arg2:T37

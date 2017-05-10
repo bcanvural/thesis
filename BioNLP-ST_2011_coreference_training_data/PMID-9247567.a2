@@ -1,0 +1,3 @@
+T23	Exp 1072 1087	I kappa B gamma
+T24	Exp 1089 1094	which
+R1	Coref Anaphora:T24 Antecedent:T23	[T15]

@@ -1,0 +1,13 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+*	Equiv T6 T7
+*	Equiv T14 T15
+*	Equiv T20 T21
+T23	Entity 59 69	NF-kappa B
+T24	Entity 147 167	transcription factor
+T25	Entity 168 178	NF-kappa B
+T26	Entity 214 232	cytokine promoters
+T27	Entity 415 455	NF-kappa B-controlled cytokine promoters
+T28	Entity 415 425	NF-kappa B
+T29	Entity 437 455	cytokine promoters
+T30	Entity 857 867	NF-kappa B

@@ -1,0 +1,6 @@
+T6	Exp 118 144	human alveolar macrophages	133 144	macrophages
+T7	Exp 171 176	their
+T8	Exp 655 679	the FOS and JUN proteins	671 679	proteins
+T9	Exp 680 684	that
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8

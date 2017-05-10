@@ -1,0 +1,6 @@
+T13	Exp 395 431	reactive oxygen intermediates (ROIs)
+T14	Exp 432 437	which
+T15	Exp 763 776	ROI formation	767 776	formation
+T16	Exp 777 782	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15

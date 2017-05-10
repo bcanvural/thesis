@@ -1,0 +1,3 @@
+T26	Exp 816 882	AP-1, NF-kappa B, NF-AT, and octamer binding transcription factors
+T27	Exp 884 889	which
+R1	Coref Anaphora:T27 Antecedent:T26

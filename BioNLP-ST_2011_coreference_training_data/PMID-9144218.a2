@@ -1,0 +1,6 @@
+T1	Exp 641 647	BEAD-1
+T2	Exp 661 671	a boundary	663 671	boundary
+T3	Exp 672 676	that
+T4	Exp 804 806	it
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T4 Antecedent:T1

@@ -1,0 +1,10 @@
+T7	Exp 191 200	This gene	196 200	gene
+T8	Exp 228 273	a human homologue of the Drosophila gene runt	236 245	homologue
+T9	Exp 274 278	that
+T10	Exp 346 369	mammalian runt products	361 369	products
+T11	Exp 424 429	their
+T12	Exp 932 953	several runt isoforms	945 953	isoforms
+T13	Exp 971 975	them
+R1	Coref Anaphora:T9 Antecedent:T8	[T4]
+R2	Coref Anaphora:T11 Antecedent:T10	[T5]
+R3	Coref Anaphora:T13 Antecedent:T12

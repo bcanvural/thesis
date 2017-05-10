@@ -1,0 +1,6 @@
+T10	Exp 178 186	ATGCAAAT
+T11	Exp 188 193	which
+T12	Exp 272 280	Proteins
+T13	Exp 281 285	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12

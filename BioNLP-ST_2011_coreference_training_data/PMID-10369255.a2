@@ -1,0 +1,9 @@
+T9	Exp 0 14	A polymorphism
+T10	Exp 15 19	that
+T11	Exp 226 250	the molecular mechanisms	240 250	mechanisms
+T12	Exp 254 259	which
+T13	Exp 443 481	a single nucleotide polymorphism (SNP)	463 475	polymorphism
+T14	Exp 482 486	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13

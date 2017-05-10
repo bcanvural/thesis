@@ -1,0 +1,61 @@
+T6	Entity 5 20	P-like elements
+T7	Entity 224 234	P sequence
+T8	Entity 249 267	regulatory element
+T9	Entity 286 294	promoter
+T10	Entity 314 322	promoter
+T11	Entity 372 382	P sequence
+T12	Entity 394 424	conserved lymphokine element 0
+T13	Entity 426 430	CLE0
+T14	Entity 433 434	P
+T15	Entity 436 438	P2
+T16	Entity 440 442	P3
+T17	Entity 447 449	P4
+T18	Entity 485 500	P-like elements
+T19	Entity 534 549	native promoter
+T20	Entity 710 733	mutated P-like elements
+T21	Entity 751 766	P-like elements
+T22	Entity 768 772	CLE0
+T23	Entity 774 775	P
+T24	Entity 777 779	P2
+T25	Entity 784 786	P4
+T26	Entity 796 798	P3
+T27	Entity 849 857	promoter
+T28	Entity 927 931	CLE0
+T29	Entity 933 934	P
+T30	Entity 936 938	P2
+T31	Entity 943 945	P4
+T32	Entity 992 994	P3
+T33	Entity 1073 1074	P
+T34	Entity 1078 1080	P2
+T35	Entity 1236 1240	CLE0
+T36	Entity 1242 1243	P
+T37	Entity 1245 1247	P2
+T38	Entity 1252 1254	P4
+T39	Entity 1256 1273	NFAT/AP-1 complex
+T40	Entity 1256 1260	NFAT
+T41	Entity 1261 1265	AP-1
+T42	Entity 1291 1292	P
+T43	Entity 1297 1299	P2
+T44	Entity 1336 1351	P-like elements
+T45	Entity 1389 1398	complexes
+T46	Entity 1426 1435	P element
+T47	Entity 1450 1463	SV40 promoter
+T48	Entity 1593 1607	P-like element
+T49	Entity 1616 1625	complexes
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T2 Arg2:T7
+R3	Protein-Component Arg1:T2 Arg2:T8
+R4	Protein-Component Arg1:T2 Arg2:T9
+R5	Protein-Component Arg1:T3 Arg2:T13
+R6	Protein-Component Arg1:T3 Arg2:T16
+R7	Protein-Component Arg1:T3 Arg2:T10
+R8	Protein-Component Arg1:T4 Arg2:T20
+R9	Protein-Component Arg1:T4 Arg2:T23
+R10	Protein-Component Arg1:T4 Arg2:T24
+R11	Protein-Component Arg1:T5 Arg2:T21
+R12	Protein-Component Arg1:T5 Arg2:T26
+R13	Protein-Component Arg1:T5 Arg2:T23
+R14	Protein-Component Arg1:T5 Arg2:T25
+R15	Protein-Component Arg1:T5 Arg2:T24
+R16	Protein-Component Arg1:T5 Arg2:T22
+R17	Protein-Component Arg1:T5 Arg2:T27

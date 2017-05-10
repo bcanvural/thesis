@@ -1,0 +1,22 @@
+*	Equiv T2 T3
+T17	Entity 72 115	Promoter sequences responsive to cyclic AMP
+T18	Entity 105 115	cyclic AMP
+T19	Entity 117 121	cAMP
+T20	Entity 148 162	cellular genes
+T21	Entity 202 206	cAMP
+T22	Entity 364 385	cAMP response element
+T23	Entity 364 368	cAMP
+T24	Entity 387 390	CRE
+T25	Entity 482 522	homologous regions in the viral promoter
+T26	Entity 889 892	CD3
+T27	Entity 918 922	cAMP
+T28	Entity 1280 1287	Rp-cAMP
+T29	Entity 1382 1390	tyrosine
+T30	Entity 1409 1425	protein kinase A
+T31	Entity 1427 1430	PKA
+T32	Entity 1446 1449	CD3
+T33	Entity 1521 1546	CRE oligonucleotide probe
+T34	Entity 1687 1697	serine 133
+T35	Entity 1858 1861	CRE
+T36	Entity 1895 1901	ligand
+R1	Protein-Component Arg1:T13 Arg2:T34

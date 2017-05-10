@@ -1,0 +1,11 @@
+T24	Exp 379 386	V3-BH10
+T25	Exp 388 393	which
+T26	Exp 620 622	it
+T27	Exp 1367 1450	tyrosyl phosphorylation of several cellular proteins (p120, p98, p96, p54, and p38)	1375 1390	phosphorylation
+T28	Exp 1452 1457	which
+T29	Exp 1677 1705	intracellular IL-2 signaling	1696 1705	signaling
+T30	Exp 1707 1712	which
+R1	Coref Anaphora:T25 Antecedent:T24
+R2	Coref Anaphora:T26 Antecedent:T24
+R3	Coref Anaphora:T28 Antecedent:T27	[T11, T14, T13, T12, T15]
+R4	Coref Anaphora:T30 Antecedent:T29	[T22]

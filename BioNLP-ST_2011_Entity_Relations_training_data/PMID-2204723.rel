@@ -1,0 +1,20 @@
+*	Equiv T3 T4
+T19	Entity 43 73	NF-kappa B regulatory elements
+T20	Entity 43 53	NF-kappa B
+T21	Entity 110 135	beta interferon promoters
+T22	Entity 1031 1050	regulatory elements
+T23	Entity 1060 1084	HIV long terminal repeat
+T24	Entity 1086 1089	LTR
+T25	Entity 1115 1123	promoter
+T26	Entity 1196 1212	hybrid promoters
+T27	Entity 1335 1345	NF-kappa B
+T28	Entity 1404 1414	NF-kappa B
+T29	Entity 1473 1481	promoter
+T30	Entity 1557 1588	PRDII NF-kappa B-binding domain
+T31	Entity 1563 1573	NF-kappa B
+T32	Entity 1669 1676	HIV LTR
+T33	Entity 1742 1749	HIV LTR
+T34	Entity 1804 1814	NF-kappa B
+R1	Protein-Component Arg1:T10 Arg2:T22
+R2	Protein-Component Arg1:T10 Arg2:T25
+R3	Protein-Component Arg1:T12 Arg2:T29

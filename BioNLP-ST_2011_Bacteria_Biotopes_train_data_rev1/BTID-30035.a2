@@ -1,0 +1,35 @@
+T1	Bacterium 67 73	cereus
+T2	Soil 115 119	soil
+T3	Environment 217 245	dead insects or even animals
+T4	Bacterium 281 296	Bacillus cereus
+T5	Bacterium 358 374	B. thuringiensis
+T6	Host 376 382	insect
+T7	Bacterium 392 404	B. anthracis
+T8	Host 406 412	animal
+T9	Bacterium 422 443	B. weihenstephanensis
+T10	Soil 461 470	cold soil
+T11	Bacterium 617 626	B. cereus
+T12	Host 889 896	animals
+T13	Host 901 908	insects
+T14	Bacterium 915 927	B. anthracis
+T15	Bacterium 936 952	B. thuringiensis
+T16	Bacterium 1070 1079	B. cereus
+T17	Food 1124 1141	animal probiotics
+T18	Food 1165 1169	food
+*	Equiv T7 T14
+*	Equiv T4 T11
+*	Equiv T4 T16
+*	Equiv T5 T15
+E1	Localization Bacterium:T4 Localization:T17
+E2	Localization Bacterium:T5 Localization:T6
+E3	Localization Bacterium:T7 Localization:T12
+E4	Localization Bacterium:T5 Localization:T12
+E5	Localization Bacterium:T7 Localization:T13
+E6	Localization Bacterium:T4 Localization:T13
+E7	Localization Bacterium:T7 Localization:T8
+E8	Localization Bacterium:T1 Localization:T2
+E9	Localization Bacterium:T1 Localization:T3
+E10	Localization Bacterium:T4 Localization:T12
+E11	Localization Bacterium:T9 Localization:T10
+E12	Localization Bacterium:T4 Localization:T18
+E13	Localization Bacterium:T5 Localization:T13

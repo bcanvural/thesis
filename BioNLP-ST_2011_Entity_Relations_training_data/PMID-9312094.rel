@@ -1,0 +1,9 @@
+T10	Entity 4 22	DNA binding domain
+T11	Entity 933 941	promoter
+T12	Entity 983 1001	functional domains
+T13	Entity 1018 1021	DNA
+T14	Entity 1258 1284	N-terminal 218 amino acids
+T15	Entity 1300 1318	DNA binding domain
+T16	Entity 1449 1472	A-MYB N-terminal domain
+R1	Protein-Component Arg1:T6 Arg2:T11
+R2	Protein-Component Arg1:T8 Arg2:T16

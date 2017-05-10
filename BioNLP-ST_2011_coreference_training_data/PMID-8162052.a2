@@ -1,0 +1,6 @@
+T8	Exp 114 143	General transcription factors	136 143	factors
+T9	Exp 253 266	these factors	259 266	factors
+T10	Exp 711 760	the molecular mechanism of human genome evolution	725 734	mechanism
+T11	Exp 765 770	their
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

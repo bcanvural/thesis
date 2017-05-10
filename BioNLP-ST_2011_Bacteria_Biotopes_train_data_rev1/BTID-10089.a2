@@ -1,0 +1,9 @@
+T1	Bacterium 48 68	Borrelia burgdorferi
+T2	Host 192 196	tick
+T3	Geographical 213 226	North America
+T4	Geographical 231 237	Europe
+T5	Host 271 288	Ixodes scapularis
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T2
+E3	Localization Bacterium:T1 Localization:T5
+E4	Localization Bacterium:T1 Localization:T4

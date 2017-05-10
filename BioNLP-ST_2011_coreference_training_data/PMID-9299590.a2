@@ -1,0 +1,14 @@
+T1	Exp 119 152	a ubiquitous transcription factor	132 152	transcription factor
+T2	Exp 153 157	that
+T3	Exp 219 248	complex regulatory mechanisms	238 248	mechanisms
+T4	Exp 249 253	that
+T5	Exp 743 758	viral pathogens	749 758	pathogens
+T6	Exp 760 765	which
+T7	Exp 858 863	their
+T8	Exp 956 980	the molecular mechanisms	970 980	mechanisms
+T9	Exp 981 985	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T7 Antecedent:T5
+R5	Coref Anaphora:T9 Antecedent:T8

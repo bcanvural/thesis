@@ -1,0 +1,6 @@
+T1	Exp 346 359	Retinoic acid
+T2	Exp 413 434	its nuclear receptors
+T3	Exp 413 416	its
+T4	Exp 436 441	which
+R1	Coref Anaphora:T3 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T2

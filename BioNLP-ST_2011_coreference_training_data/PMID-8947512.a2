@@ -1,0 +1,11 @@
+T9	Exp 671 739	a unique 47 kDa protein factor having affinity for this SRE sequence	695 701	factor
+T10	Exp 787 790	its
+T11	Exp 852 863	this factor
+T12	Exp 1195 1211	alpha-interferon
+T13	Exp 1220 1223	its
+T14	Exp 1243 1281	phosphatidic acid dependent signalling	1271 1281	signalling
+T15	Exp 1282 1287	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T11 Antecedent:T9
+R3	Coref Anaphora:T13 Antecedent:T12	[T7]
+R4	Coref Anaphora:T15 Antecedent:T14

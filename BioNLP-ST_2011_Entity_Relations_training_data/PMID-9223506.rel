@@ -1,0 +1,28 @@
+T3	Entity 0 34	Transcription factor binding sites
+T4	Entity 53 113	human immunodeficiency virus type 1 transcription start site
+T5	Entity 187 230	human immunodeficiency virus (HIV) promoter
+T6	Entity 242 264	nucleosome-free region
+T7	Entity 287 311	promoter/enhancer region
+T8	Entity 332 347	255 nucleotides
+T9	Entity 372 396	transcription start site
+T10	Entity 490 514	transcription start site
+T11	Entity 516 529	nt 465 to 720
+T12	Entity 538 548	AP-1 sites
+T13	Entity 570 584	AP3-like motif
+T14	Entity 586 591	AP3-L
+T15	Entity 596 632	downstream binding factor (DBF) site
+T16	Entity 653 658	sites
+T17	Entity 683 691	DBF site
+T18	Entity 698 745	interferon-responsive factor (IRF) binding site
+T19	Entity 759 770	AP3-L motif
+T20	Entity 1037 1041	site
+T21	Entity 1064 1088	mutation AP-1(III)/AP3-L
+T22	Entity 1217 1222	sites
+T23	Entity 1403 1408	sites
+T24	Entity 1433 1439	-sites
+T25	Entity 1497 1502	sites
+T26	Entity 1545 1550	sites
+T27	Entity 1786 1800	HIV-1 promoter
+T28	Entity 1837 1855	HIV-1 provirus DNA
+T29	Entity 1862 1904	long terminal repeat-luciferase constructs
+R1	Protein-Component Arg1:T1 Arg2:T16

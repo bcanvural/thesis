@@ -1,0 +1,7 @@
+T15	Entity 194 207	cytokine gene
+T16	Entity 818 826	promoter
+T17	Entity 1338 1383	-sensitive nuclear factor-AT response element
+T18	Entity 1391 1406	promoter region
+T19	Entity 1461 1469	reporter
+R1	Protein-Component Arg1:T7 Arg2:T16
+R2	Protein-Component Arg1:T11 Arg2:T17

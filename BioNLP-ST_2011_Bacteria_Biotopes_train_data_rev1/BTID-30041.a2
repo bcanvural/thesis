@@ -1,0 +1,73 @@
+T1	Bacterium 0 22	Mycobacterium chelonae
+T2	Bacterium 27 50	Mycobacterium abscessus
+T3	Host 110 116	humans
+T4	Bacterium 127 140	Mycobacterium
+T5	Environment 596 621	hydrotelluric environment
+T6	Bacterium 675 698	Mycobacterium abscessus
+T7	Bacterium 703 725	Mycobacterium chelonae
+T8	Host 778 784	humans
+T9	HostPart 839 850	soft tissue
+T10	HostPart 885 904	locomotor apparatus
+T11	HostPart 942 959	broncho-pulmonary
+T12	Host 999 1023	immunodepressed subjects
+T13	Host 1028 1044	graft recipients
+T14	HostPart 1046 1063	Broncho-pulmonary
+T15	Bacterium 1082 1094	M. abscessus
+T16	Host 1110 1139	patients with cystic fibrosis
+T17	Geographical 1236 1242	France
+T18	Host 1358 1365	patient
+T19	Bacterium 1490 1502	M. abscessus
+T20	Host 1639 1668	patients with cystic fibrosis
+T21	Bacterium 1688 1700	M. abscessus
+T22	Bacterium 1705 1716	M. chelonae
+T23	Host 1790 1795	human
+T24	Bacterium 1919 1942	Mycobacterium smegmatis
+T25	Host 2005 2011	humans
+T26	Host 2016 2034	laboratory animals
+T27	Host 2250 2256	humans
+T28	Bacterium 2546 2558	M. abscessus
+T29	Bacterium 2563 2574	M. chelonae
+T30	Host 2599 2605	humans
+T31	HostPart 2739 2755	respiratory tree
+T32	HostPart 2771 2814	tuberculoid granulomas with caseous lesions
+*	Equiv T2 T6
+*	Equiv T2 T15
+*	Equiv T2 T19
+*	Equiv T2 T21
+*	Equiv T2 T28
+*	Equiv T1 T7
+*	Equiv T1 T22
+*	Equiv T1 T29
+*	Equiv T16 T20
+*	Equiv T3 T8
+*	Equiv T3 T23
+E1	Localization Bacterium:T2 Localization:T32
+E2	Localization Bacterium:T24 Localization:T25
+E3	Localization Bacterium:T2 Localization:T3
+E4	Localization Bacterium:T1 Localization:T10
+E5	PartOf Host:T16 Part:T14
+E6	PartOf Host:T3 Part:T9
+E7	Localization Bacterium:T1 Localization:T13
+E8	Localization Bacterium:T4 Localization:T27
+E9	PartOf Host:T30 Part:T32
+E10	Localization Bacterium:T2 Localization:T12
+E11	Localization Bacterium:T2 Localization:T31
+E12	Localization Bacterium:T1 Localization:T9
+E13	Localization Bacterium:T2 Localization:T16
+E14	Localization Bacterium:T24 Localization:T26
+E15	PartOf Host:T30 Part:T31
+E16	Localization Bacterium:T1 Localization:T30
+E17	Localization Bacterium:T2 Localization:T14
+E18	Localization Bacterium:T1 Localization:T12
+E19	Localization Bacterium:T2 Localization:T11
+E20	Localization Bacterium:T2 Localization:T18
+E21	Localization Bacterium:T2 Localization:T17
+E22	Localization Bacterium:T1 Localization:T3
+E23	Localization Bacterium:T2 Localization:T30
+E24	PartOf Host:T3 Part:T10
+E25	Localization Bacterium:T4 Localization:T5
+E26	PartOf Host:T3 Part:T11
+E27	Localization Bacterium:T2 Localization:T13
+E28	Localization Bacterium:T1 Localization:T11
+E29	Localization Bacterium:T2 Localization:T9
+E30	Localization Bacterium:T2 Localization:T10

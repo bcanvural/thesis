@@ -1,0 +1,36 @@
+T1	Bacterium 10 19	Wolbachia
+T2	Host 37 50	Brugia malayi
+T3	Host 86 91	males
+T4	Bacterium 112 121	Wolbachia
+T5	HostPart 159 172	intracellular
+T6	Host 202 215	invertebrates
+T7	Host 249 262	Brugia malayi
+T8	Host 336 341	worms
+T9	Bacterium 352 361	Wolbachia
+T10	HostPart 372 385	intracellular
+T11	Host 432 437	human
+T12	Host 447 472	animal filarial parasites
+T13	Host 542 552	arthropods
+T14	Bacterium 558 567	Wolbachia
+T15	Host 772 777	males
+T16	Bacterium 779 788	Wolbachia
+T17	Host 827 855	parasitic filarial nematodes
+*	Equiv T3 T15
+*	Equiv T1 T4
+*	Equiv T1 T9
+*	Equiv T1 T14
+*	Equiv T1 T16
+*	Equiv T2 T7
+*	Equiv T2 T8
+E1	Localization Bacterium:T1 Localization:T2
+E2	PartOf Host:T11 Part:T10
+E3	Localization Bacterium:T1 Localization:T13
+E4	PartOf Host:T12 Part:T10
+E5	Localization Bacterium:T1 Localization:T5
+E6	Localization Bacterium:T1 Localization:T17
+E7	Localization Bacterium:T1 Localization:T10
+E8	Localization Bacterium:T1 Localization:T11
+E9	Localization Bacterium:T1 Localization:T6
+E10	PartOf Host:T6 Part:T5
+E11	Localization Bacterium:T1 Localization:T3
+E12	Localization Bacterium:T1 Localization:T12

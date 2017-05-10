@@ -1,0 +1,14 @@
+T24	Entity 641 643	P0
+T25	Entity 648 650	P1
+T26	Entity 651 672	NFAT-binding elements
+T27	Entity 685 693	promoter
+T28	Entity 710 728	proximal P element
+T29	Entity 759 767	promoter
+T30	Entity 907 926	activator protein 1
+T31	Entity 939 958	activator protein 1
+T32	Entity 1082 1090	promoter
+T33	Entity 1284 1292	promoter
+R1	Protein-Component Arg1:T7 Arg2:T27
+R2	Protein-Component Arg1:T8 Arg2:T29
+R3	Protein-Component Arg1:T13 Arg2:T32
+R4	Protein-Component Arg1:T18 Arg2:T33

@@ -1,0 +1,3 @@
+T2	Exp 1259 1336	the first identified natural DNA response element for the TR2 orphan receptor	1301 1308	element
+T3	Exp 1337 1341	that
+R1	Coref Anaphora:T3 Antecedent:T2

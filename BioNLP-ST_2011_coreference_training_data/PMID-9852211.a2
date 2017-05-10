@@ -1,0 +1,9 @@
+T1	Exp 111 118	a virus
+T2	Exp 120 125	which
+T3	Exp 1251 1256	cells
+T4	Exp 1257 1261	that
+T5	Exp 1320 1361	a particular set of transcription factors	1340 1361	transcription factors
+T6	Exp 1363 1376	These factors	1369 1376	factors
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5

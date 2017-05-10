@@ -1,0 +1,10 @@
+T1	Exp 18 53	transcriptional suppressor proteins	45 53	proteins
+T2	Exp 54 58	that
+T3	Exp 67 98	the negative regulatory element	80 98	regulatory element
+T4	Exp 144 166	Two different proteins	158 166	proteins
+T5	Exp 167 172	which
+T6	Exp 746 762	The other factor	756 762	factor
+T7	Exp 847 858	this factor
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T5 Antecedent:T4
+R3	Coref Anaphora:T7 Antecedent:T6

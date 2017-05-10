@@ -1,0 +1,40 @@
+T1	Protein 27 34	sigma E
+T2	PolymeraseComplex 83 113	vegetative core RNA polymerase
+T3	Protein 126 133	sigma E
+T4	Promoter 149 151	P2
+W1	Word 0 14	Reconstitution
+W2	Word 15 23	analysis
+W3	Word 24 26	of
+W4	Word 27 34	sigma E
+W5	Word 35 43	purified
+W6	Word 44 48	from
+W7	Word 49 52	the
+W8	Word 53 64	sporulating
+W9	Word 65 69	cell
+W10	Word 70 78	extracts
+W11	Word 79 82	and
+W12	Word 83 93	vegetative
+W13	Word 94 98	core
+W14	Word 99 102	RNA
+W15	Word 103 113	polymerase
+W16	Word 114 120	showed
+W17	Word 121 125	that
+W18	Word 126 133	sigma E
+W19	Word 134 144	recognizes
+W20	Word 145 148	the
+W21	Word 149 151	P2
+W22	Word 152 160	promoter
+R1	comp:V_PASS-N(from) W5 W10
+R2	comp:N-N(of) W2 W4
+R3	subj:V_PASS-N W5 W4
+R4	mod_att:N-N W22 W21
+R5	mod_att:N-N W15 W14
+R6	mod_att:N-N W15 W13
+R7	mod_att:N-N W2 W1
+R8	mod_att:N-ADJ W13 W12
+R9	subj:V-N W19 W18
+R10	mod_att:N-N W9 W8
+R11	mod_att:N-N W10 W9
+R12	comp:V_PASS-N(from) W5 W15
+R13	subj:V-N W16 W2
+R14	obj:V-N W19 W22

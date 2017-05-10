@@ -1,0 +1,3 @@
+T8	Exp 780 800	the nuclear extracts	792 800	extracts
+T9	Exp 835 839	they
+R1	Coref Anaphora:T9 Antecedent:T8

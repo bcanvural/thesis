@@ -1,0 +1,18 @@
+T15	Entity 327 330	DNA
+T16	Entity 351 361	NF-kappa B
+T17	Entity 380 388	 complex
+T18	Entity 471 474	CD3
+T19	Entity 637 640	LTR
+T20	Entity 738 744	Thr-15
+T21	Entity 748 751	GTP
+T22	Entity 790 804	critical sites
+T23	Entity 858 862	LTRs
+T24	Entity 892 895	LTR
+T25	Entity 932 942	NF-kappa B
+T26	Entity 972 1026	the region containing the negative responding elements
+T27	Entity 998 1026	negative responding elements
+T28	Entity 1028 1032	NREs
+T29	Entity 1080 1083	LTR
+R1	Subunit-Complex Arg1:T8 Arg2:T17
+R2	Subunit-Complex Arg1:T9 Arg2:T17
+R3	Protein-Component Arg1:T13 Arg2:T20

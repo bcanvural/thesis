@@ -1,0 +1,10 @@
+T6	Exp 630 655	This transcription factor	635 655	transcription factor
+T7	Exp 736 739	its
+T8	Exp 797 807	NF-kappa B
+T9	Exp 831 833	it
+T10	Exp 1198 1236	significant anti inflammatory activity	1228 1236	activity
+T11	Exp 1237 1242	which
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T8 Antecedent:T6
+R3	Coref Anaphora:T9 Antecedent:T8
+R4	Coref Anaphora:T11 Antecedent:T10

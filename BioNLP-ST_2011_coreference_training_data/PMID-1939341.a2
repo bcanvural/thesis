@@ -1,0 +1,6 @@
+T23	Exp 977 980	PKC
+T24	Exp 1058 1069	this enzyme
+T25	Exp 1730 1742	the promoter
+T26	Exp 1743 1747	that
+R1	Coref Anaphora:T24 Antecedent:T23	[T12]
+R2	Coref Anaphora:T26 Antecedent:T25

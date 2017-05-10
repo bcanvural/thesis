@@ -1,0 +1,3 @@
+T25	Exp 156 185	in vitro experimental studies	178 185	studies
+T26	Exp 189 194	which
+R1	Coref Anaphora:T26 Antecedent:T25

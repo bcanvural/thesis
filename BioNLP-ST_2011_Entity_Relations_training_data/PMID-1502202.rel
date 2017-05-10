@@ -1,0 +1,29 @@
+T11	Entity 0 10	NF-kappa B
+T12	Entity 38 48	NF-kappa B
+T13	Entity 66 74	promoter
+T14	Entity 245 255	NF-kappa B
+T15	Entity 384 392	promoter
+T16	Entity 447 457	NF-kappa B
+T17	Entity 517 525	promoter
+T18	Entity 613 626	binding motif
+T19	Entity 649 661	heterodimers
+T20	Entity 709 719	NF-kappa B
+T21	Entity 794 804	NF-kappa B
+T22	Entity 856 866	NF-kappa B
+T23	Entity 1103 1113	NF-kappa B
+T24	Entity 1115 1122	p50/p65
+T25	Entity 1154 1162	promoter
+T26	Entity 1202 1212	NF-kappa B
+T27	Entity 1327 1337	NF-kappa B
+R1	Subunit-Complex Arg1:T1 Arg2:T12
+R2	Protein-Component Arg1:T1 Arg2:T13
+R3	Protein-Component Arg1:T3 Arg2:T15
+R4	Protein-Component Arg1:T2 Arg2:T15
+R5	Subunit-Complex Arg1:T3 Arg2:T16
+R6	Subunit-Complex Arg1:T4 Arg2:T19
+R7	Subunit-Complex Arg1:T5 Arg2:T19
+R8	Subunit-Complex Arg1:T8 Arg2:T23
+R9	Subunit-Complex Arg1:T9 Arg2:T23
+R10	Subunit-Complex Arg1:T8 Arg2:T24
+R11	Subunit-Complex Arg1:T9 Arg2:T24
+R12	Protein-Component Arg1:T10 Arg2:T25

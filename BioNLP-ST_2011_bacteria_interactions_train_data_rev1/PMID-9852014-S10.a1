@@ -1,0 +1,44 @@
+T1	GeneProduct 24 41	yvyD gene product
+T2	Protein 70 76	sigmaB
+T3	Protein 81 87	sigmaH
+T4	Regulon 88 96	regulons
+T5	Action 128 136	activity
+T6	Protein 144 150	sigmaL
+T7	Regulon 151 158	regulon
+W1	Word 0 4	This
+W2	Word 5 14	indicates
+W3	Word 15 19	that
+W4	Word 20 23	the
+W5	Word 24 28	yvyD
+W6	Word 29 33	gene
+W7	Word 34 41	product
+W8	Word 43 48	being
+W9	Word 49 50	a
+W10	Word 51 57	member
+W11	Word 58 60	of
+W12	Word 61 65	both
+W13	Word 66 69	the
+W14	Word 70 76	sigmaB
+W15	Word 77 80	and
+W16	Word 81 87	sigmaH
+W17	Word 88 96	regulons
+W18	Word 98 103	might
+W19	Word 104 114	negatively
+W20	Word 115 123	regulate
+W21	Word 124 127	the
+W22	Word 128 136	activity
+W23	Word 137 139	of
+W24	Word 140 143	the
+W25	Word 144 150	sigmaL
+W26	Word 151 158	regulon
+R1	mod_att:N-N W26 W25
+R2	obj:V-N W20 W22
+R3	subj:V-N W20 W7
+R4	mod_att:N-N W17 W14
+R5	mod_att:N-N W7 W6
+R6	comp:N-N(of) W22 W26
+R7	comp:N-N(of) W10 W17
+R8	mod_att:N-N W17 W16
+R9	mod:V-ADV W20 W19
+R10	mod_att:N-N W6 W5
+R11	mod_pred:N-N W7 W10

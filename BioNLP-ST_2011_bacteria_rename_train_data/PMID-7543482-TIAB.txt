@@ -1,0 +1,2 @@
+Effects of spo0 mutations on spo0A promoter switching at the initiation of sporulation in Bacillus subtilis.
+Transcriptional analyses of the Bacillus subtilis sporulation initiator gene spo0A revealed that promoter switching from the vegetative (Pv) to the sporulation-specific (Ps) promoter did not occur in the spo0A, spo0B, spo0E, spo0F, and spo0H mutants. The sof-1 mutation in spo0A restored the promoter switching in the spo0F mutant. These results strongly suggest that Spo0A plays a central role in the regulation of its own promoter switching.

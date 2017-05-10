@@ -1,0 +1,28 @@
+T1	Protein 2 8	sigmaW
+T2	Promoter 19 27	promoter
+T3	Promoter 29 31	PW
+T4	Gene 42 46	sigW
+T5	Protein 72 92	transcription factor
+W1	Word 0 1	A
+W2	Word 2 8	sigmaW
+W3	Word 9 18	dependent
+W4	Word 19 27	promoter
+W5	Word 29 31	PW
+W6	Word 33 41	precedes
+W7	Word 42 46	sigW
+W8	Word 48 61	demonstrating
+W9	Word 62 66	that
+W10	Word 67 71	this
+W11	Word 72 85	transcription
+W12	Word 86 92	factor
+W13	Word 93 95	is
+W14	Word 96 106	positively
+W15	Word 107 120	autoregulated
+R1	subj:V-N W6 W4
+R2	mod:V_PASS-ADV W15 W14
+R3	mod_att:N-N W12 W11
+R4	obj:V-N W6 W7
+R5	mod_att:N-ADJ W4 W3
+R6	appos W4 W5
+R7	mod:ADJ-N W3 W2
+R8	subj:V_PASS-N W15 W12

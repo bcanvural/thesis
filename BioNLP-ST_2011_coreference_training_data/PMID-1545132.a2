@@ -1,0 +1,16 @@
+T18	Exp 94 119	transcription factor AP-1	94 114	transcription factor
+T19	Exp 139 168	the AP-1 transcription factor	148 168	transcription factor
+T20	Exp 717 721	AP-1
+T21	Exp 725 728	its
+T22	Exp 874 896	a transcription factor
+T23	Exp 897 902	whose
+T24	Exp 967 971	AP-1
+T25	Exp 967 988	AP-1-binding activity	972 988	binding activity
+T26	Exp 1069 1073	that
+T27	Exp 1191 1209	the AP-1 complexes	1200 1209	complexes
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22
+R4	Coref Anaphora:T24 Antecedent:T20
+R5	Coref Anaphora:T26 Antecedent:T25
+R6	Coref Anaphora:T27 Antecedent:T24

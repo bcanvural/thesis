@@ -1,0 +1,14 @@
+*	Equiv T7 T8
+T13	Entity 4 40	carboxyl-terminal cytoplasmic domain
+T14	Entity 112 121	NF-kappaB
+T15	Entity 744 764	transcription factor
+T16	Entity 765 774	NF-kappaB
+T17	Entity 859 877	NF-kappaB sequence
+T18	Entity 859 868	NF-kappaB
+T19	Entity 1175 1184	NF-kappaB
+T20	Entity 1185 1188	DNA
+T21	Entity 1225 1270	carboxyl-terminal cytoplasmic segment on CD36
+T22	Entity 1225 1262	carboxyl-terminal cytoplasmic segment
+R1	Protein-Component Arg1:T1 Arg2:T13
+R2	Protein-Component Arg1:T11 Arg2:T22
+R3	Protein-Component Arg1:T11 Arg2:T21

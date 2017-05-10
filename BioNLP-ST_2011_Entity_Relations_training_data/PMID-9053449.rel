@@ -1,0 +1,15 @@
+*	Equiv T7 T8
+T23	Entity 139 149	NF-kappa B
+T24	Entity 260 276	NF-kappa B1 gene
+T25	Entity 348 358	NF-kappa B
+T26	Entity 409 419	NF-kappa B
+T27	Entity 792 802	NF-kappa B
+T28	Entity 840 848	promoter
+T29	Entity 869 873	site
+T30	Entity 923 926	PHA
+T31	Entity 1037 1047	NF-kappa B
+T32	Entity 1378 1388	NF-kappa B
+R1	Subunit-Complex Arg1:T5 Arg2:T25
+R2	Protein-Component Arg1:T11 Arg2:T29
+R3	Subunit-Complex Arg1:T14 Arg2:T31
+R4	Protein-Component Arg1:T11 Arg2:T28

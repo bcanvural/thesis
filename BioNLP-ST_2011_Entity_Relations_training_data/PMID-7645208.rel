@@ -1,0 +1,12 @@
+T18	Entity 86 89	LTR
+T19	Entity 434 458	HIV long terminal repeat
+T20	Entity 460 463	LTR
+T21	Entity 815 853	replication-competent HIV-1 constructs
+T22	Entity 883 887	LTRs
+T23	Entity 936 949	binding sites
+T24	Entity 995 1009	wild-type LTRs
+T25	Entity 1207 1221	wild-type LTRs
+T26	Entity 1403 1416	modified LTRs
+T27	Entity 1461 1464	LTR
+T28	Entity 1788 1801	viral genomes
+R1	Protein-Component Arg1:T8 Arg2:T23

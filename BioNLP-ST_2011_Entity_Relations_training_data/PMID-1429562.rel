@@ -1,0 +1,16 @@
+T5	Entity 56 71	promoter region
+T6	Entity 173 188	promoter region
+T7	Entity 671 690	regulatory elements
+T8	Entity 694 716	PMA responsive element
+T9	Entity 751 765	-95 and -36 bp
+T10	Entity 782 806	transcription start site
+T11	Entity 851 875	like consensus sequences
+T12	Entity 908 913	sites
+T13	Entity 998 1006	promoter
+T14	Entity 1038 1056	AP-2 site mutation
+T15	Entity 1038 1042	AP-2
+T16	Entity 1083 1092	AP-1 site
+T17	Entity 1083 1087	AP-1
+R1	Protein-Component Arg1:T1 Arg2:T5
+R2	Protein-Component Arg1:T2 Arg2:T6
+R3	Protein-Component Arg1:T3 Arg2:T13

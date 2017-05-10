@@ -1,0 +1,18 @@
+T1	Exp 136 169	The intracellular dioxin receptor
+T2	Exp 267 269	It
+T3	Exp 408 420	the receptor	412 420	receptor
+T4	Exp 598 610	the receptor
+T5	Exp 642 661	the dioxin receptor	653 661	receptor
+T6	Exp 666 669	its
+T7	Exp 787 799	the receptor	791 799	receptor
+T8	Exp 1045 1057	the receptor
+T9	Exp 1354 1366	the receptor
+T10	Exp 1665 1677	the receptor
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T3 Antecedent:T1
+R3	Coref Anaphora:T4 Antecedent:T3
+R4	Coref Anaphora:T6 Antecedent:T5
+R5	Coref Anaphora:T7 Antecedent:T5
+R6	Coref Anaphora:T8 Antecedent:T7
+R7	Coref Anaphora:T9 Antecedent:T8
+R8	Coref Anaphora:T10 Antecedent:T9

@@ -1,0 +1,6 @@
+T9	Exp 164 181	MCM gene products	173 181	products
+T10	Exp 183 188	which
+T11	Exp 685 733	a novel E2F-like sequence in human MCM6 promoter	702 710	sequence
+T12	Exp 734 739	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11	[T5]

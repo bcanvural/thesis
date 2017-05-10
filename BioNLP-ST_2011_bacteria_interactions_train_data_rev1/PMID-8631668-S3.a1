@@ -1,0 +1,23 @@
+T1	Action 0 10	Activation
+T2	Protein 14 21	sigma E
+T3	Expression 31 41	expression
+T4	Protein 49 56	sigma F
+T5	Gene 71 77	spoIIR
+W1	Word 0 10	Activation
+W2	Word 11 13	of
+W3	Word 14 21	sigma E
+W4	Word 22 30	requires
+W5	Word 31 41	expression
+W6	Word 42 44	of
+W7	Word 45 48	the
+W8	Word 49 56	sigma F
+W9	Word 57 65	directed
+W10	Word 66 70	gene
+W11	Word 71 77	spoIIR
+R1	mod:ADJ-N W9 W8
+R2	comp:N-N(of) W5 W11
+R3	subj:V-N W4 W1
+R4	mod_att:N-ADJ W10 W9
+R5	mod_att:N-N W11 W10
+R6	comp:N-N(of) W1 W3
+R7	obj:V-N W4 W5

@@ -1,0 +1,64 @@
+T1	Protein 31 38	sigma F
+T2	Transcription 47 60	transcription
+T3	Gene 68 95	structural gene for sigma G
+T4	Protein 105 112	sigma F
+T5	Action 113 121	activity
+T6	GeneProduct 145 162	product of a gene
+T7	Gene 164 171	spoIIAB
+T8	Gene 211 218	spoIIAB
+W1	Word 0 7	However
+W2	Word 9 12	the
+W3	Word 13 25	observations
+W4	Word 26 30	that
+W5	Word 31 38	sigma F
+W6	Word 39 46	directs
+W7	Word 47 60	transcription
+W8	Word 61 63	of
+W9	Word 64 67	the
+W10	Word 68 78	structural
+W11	Word 79 83	gene
+W12	Word 84 87	for
+W13	Word 88 95	sigma G
+W14	Word 96 99	and
+W15	Word 100 104	that
+W16	Word 105 112	sigma F
+W17	Word 113 121	activity
+W18	Word 122 125	can
+W19	Word 126 128	be
+W20	Word 129 137	modified
+W21	Word 138 140	by
+W22	Word 141 144	the
+W23	Word 145 152	product
+W24	Word 153 155	of
+W25	Word 156 157	a
+W26	Word 158 162	gene
+W27	Word 164 171	spoIIAB
+W28	Word 173 176	has
+W29	Word 177 180	led
+W30	Word 181 183	us
+W31	Word 184 186	to
+W32	Word 187 198	investigate
+W33	Word 199 202	the
+W34	Word 203 207	role
+W35	Word 208 210	of
+W36	Word 211 218	spoIIAB
+W37	Word 219 225	during
+W38	Word 226 237	sporulation
+R1	obj:V-N W6 W7
+R2	obj:V-N W29 W30
+R3	subj:V_PASS-N W20 W17
+R4	obj:V-N W32 W34
+R5	comp:V_PASS-N(by) W20 W23
+R6	comp:N-N(of) W23 W26
+R7	mod_att:N-N W5 W3
+R8	subj:V-N W6 W5
+R9	mod:V-ADV W29 W1
+R10	comp:N-N(during) W34 W38
+R11	comp:N-N(of) W34 W36
+R12	subj:V-N W29 W3
+R13	comp:V-V(to) W29 W32
+R14	comp:N-N(of) W7 W11
+R15	comp:N-N(for) W11 W13
+R16	appos W23 W27
+R17	mod_att:N-ADJ W11 W10
+R18	mod_att:N-N W17 W16

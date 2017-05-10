@@ -1,0 +1,32 @@
+T1	Bacterium 0 31	Burkholderia cenocepacia HI2424
+T2	Bacterium 42 54	Burkholderia
+T3	Soil 112 116	soil
+T4	Host 133 147	phytopathogens
+T5	Bacterium 243 271	Burkholderia cepacia complex
+T6	Bacterium 273 276	Bcc
+T7	Host 434 439	human
+T8	Host 479 512	persons with cystic fibrosis (CF)
+T9	Bacterium 535 559	Burkholderia cenocepacia
+T10	Host 628 633	human
+T11	Bacterium 645 673	B. cenocepacia strain HI2424
+T12	Soil 693 710	agricultural soil
+T13	Geographical 714 724	upstate NY
+T14	Bacterium 891 897	HI2424
+T15	Host 1046 1051	human
+T16	Host 1089 1100	CF patients
+T17	Geographical 1104 1116	24 US states
+T18	Geographical 1139 1145	Europe
+*	Equiv T5 T6
+*	Equiv T1 T11
+*	Equiv T1 T14
+E1	Localization Bacterium:T1 Localization:T17
+E2	Localization Bacterium:T5 Localization:T8
+E3	Localization Bacterium:T1 Localization:T13
+E4	Localization Bacterium:T1 Localization:T16
+E5	Localization Bacterium:T1 Localization:T18
+E6	Localization Bacterium:T1 Localization:T15
+E7	Localization Bacterium:T9 Localization:T10
+E8	Localization Bacterium:T2 Localization:T4
+E9	Localization Bacterium:T1 Localization:T12
+E10	Localization Bacterium:T5 Localization:T7
+E11	Localization Bacterium:T2 Localization:T3

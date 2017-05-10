@@ -1,0 +1,17 @@
+T14	Exp 220 257	Two groups of U937 promonocytic cells
+T15	Exp 284 300	dilution cloning
+T16	Exp 301 306	which
+T17	Exp 330 335	their
+T18	Exp 516 567	differences in nuclear factor (NF)-kappa B activity
+T19	Exp 568 573	which
+T20	Exp 1040 1093	limited proteolysis of p65 during cellular extraction
+T21	Exp 1094 1099	which
+T22	Exp 1156 1195	elastase, cathepsin G, and proteinase 3
+T23	Exp 1197 1221	These specific proteases
+T24	Exp 1389 1404	these proteases	1395 1404	proteases
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T17 Antecedent:T14
+R3	Coref Anaphora:T19 Antecedent:T18
+R4	Coref Anaphora:T21 Antecedent:T20	[T7]
+R5	Coref Anaphora:T23 Antecedent:T22	[T8, T9]
+R6	Coref Anaphora:T24 Antecedent:T23

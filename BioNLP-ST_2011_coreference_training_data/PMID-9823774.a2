@@ -1,0 +1,12 @@
+T22	Exp 183 191	proteins
+T23	Exp 192 196	that
+T24	Exp 826 842	a 72-kDa protein	835 842	protein
+T25	Exp 843 847	that
+T26	Exp 866 891	Stat3 monoclonal antibody	883 891	antibody
+T27	Exp 893 898	which
+T28	Exp 1144 1159	the possibility
+T29	Exp 1160 1164	that
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26	[T13]
+R4	Coref Anaphora:T29 Antecedent:T28

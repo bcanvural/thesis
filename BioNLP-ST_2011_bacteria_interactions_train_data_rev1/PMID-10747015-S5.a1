@@ -1,0 +1,25 @@
+T1	Action 0 12	Localization
+T2	Protein 16 22	SpoIIE
+T3	Protein 88 92	FtsZ
+W1	Word 0 12	Localization
+W2	Word 13 15	of
+W3	Word 16 22	SpoIIE
+W4	Word 23 26	was
+W5	Word 27 32	shown
+W6	Word 33 35	to
+W7	Word 36 38	be
+W8	Word 39 48	dependent
+W9	Word 49 51	on
+W10	Word 52 55	the
+W11	Word 56 65	essential
+W12	Word 66 70	cell
+W13	Word 71 79	division
+W14	Word 80 87	protein
+W15	Word 88 92	FtsZ
+R1	mod_att:N-N W14 W13
+R2	mod_pred:N-ADJ W1 W8
+R3	mod_att:N-ADJ W14 W11
+R4	comp:ADJ-N(on) W8 W15
+R5	mod_att:N-N W13 W12
+R6	comp:N-N(of) W1 W3
+R7	mod_att:N-N W15 W14

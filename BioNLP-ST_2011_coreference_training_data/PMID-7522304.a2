@@ -1,0 +1,7 @@
+T8	Exp 126 183	a calcium-dependent signal from the T-cell receptor (TCR)
+T9	Exp 184 188	that
+T10	Exp 346 392	potential cellular homologues of cyclosporin A
+T11	Exp 393 397	that
+T12	Exp 734 746	This protein
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

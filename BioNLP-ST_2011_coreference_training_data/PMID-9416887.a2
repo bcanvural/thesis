@@ -1,0 +1,9 @@
+T18	Exp 242 251	monocytes
+T19	Exp 343 348	their
+T20	Exp 1527 1561	the NF-kappaB transcription factor	1541 1561	transcription factor
+T21	Exp 1563 1568	which
+T22	Exp 1845 1848	CsA
+T23	Exp 1867 1870	its
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T23 Antecedent:T22

@@ -1,0 +1,8 @@
+T1	Bacterium 0 25	Bradyrhizobium sp. ORS278
+T2	Bacterium 38 63	Bradyrhizobium sp. ORS278
+T3	Host 98 110	Aeschynomene
+T4	HostPart 111 122	stem nodule
+*	Equiv T1 T2
+E1	Localization Bacterium:T1 Localization:T3
+E2	Localization Bacterium:T1 Localization:T4
+E3	PartOf Host:T3 Part:T4

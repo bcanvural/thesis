@@ -1,0 +1,9 @@
+T12	Entity 66 74	epitopes
+T13	Entity 111 134	non-polymorphic regions
+T14	Entity 419 427	epitopes
+T15	Entity 507 533	NF-AT transcription factor
+T16	Entity 848 853	NF-AT
+T17	Entity 882 887	NF-AT
+T18	Entity 1061 1069	epitopes
+R1	Protein-Component Arg1:T1 Arg2:T12
+R2	Protein-Component Arg1:T4 Arg2:T14

@@ -1,0 +1,3 @@
+T1	Exp 943 969	general initiation factors	962 969	factors
+T2	Exp 970 974	that
+R1	Coref Anaphora:T2 Antecedent:T1

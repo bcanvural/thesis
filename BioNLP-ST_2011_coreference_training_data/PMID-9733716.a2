@@ -1,0 +1,6 @@
+T14	Exp 770 801	anti-CD14 monoclonal antibodies	791 801	antibodies
+T15	Exp 802 806	that
+T16	Exp 992 1007	the possibility
+T17	Exp 1008 1012	that
+R1	Coref Anaphora:T15 Antecedent:T14	[T9]
+R2	Coref Anaphora:T17 Antecedent:T16

@@ -1,0 +1,6 @@
+T13	Exp 840 863	The amino acid sequence	855 863	sequence
+T14	Exp 891 895	that
+T15	Exp 1203 1229	the 4.5-kilobase pair mRNA
+T16	Exp 1230 1235	which
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15

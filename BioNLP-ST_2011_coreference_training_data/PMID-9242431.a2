@@ -1,0 +1,9 @@
+T13	Exp 188 195	bufalin
+T14	Exp 197 202	which
+T15	Exp 525 534	apoptosis
+T16	Exp 535 539	that
+T17	Exp 765 778	MAPK kinase-1
+T18	Exp 779 783	that
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15
+R3	Coref Anaphora:T18 Antecedent:T17	[T6]

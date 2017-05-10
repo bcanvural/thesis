@@ -1,0 +1,17 @@
+T31	Entity 179 183	AP-1
+T32	Entity 1055 1059	AP-1
+T33	Entity 1061 1065	NFAT
+T34	Entity 1617 1635	proximal AP-1 site
+T35	Entity 1626 1630	AP-1
+T36	Entity 1648 1656	promoter
+T37	Entity 1731 1735	AP-1
+T38	Entity 1906 1910	AP-1
+T39	Entity 2005 2023	NFAT-DNA complexes
+T40	Entity 2152 2156	AP-1
+R1	Subunit-Complex Arg1:T11 Arg2:T32
+R2	Subunit-Complex Arg1:T10 Arg2:T32
+R3	Protein-Component Arg1:T22 Arg2:T34
+R4	Protein-Component Arg1:T22 Arg2:T36
+R5	Subunit-Complex Arg1:T26 Arg2:T37
+R6	Subunit-Complex Arg1:T27 Arg2:T37
+R7	Subunit-Complex Arg1:T28 Arg2:T38

@@ -1,0 +1,7 @@
+T10	Exp 448 453	c-Myc
+T11	Exp 529 532	its
+T12	Exp 529 562	its heterodimeric binding partner	555 562	partner
+T13	Exp 564 567	Max
+T14	Exp 569 574	which
+R1	Coref Anaphora:T11 Antecedent:T10	[T4]
+R2	Coref Anaphora:T14 Antecedent:T12

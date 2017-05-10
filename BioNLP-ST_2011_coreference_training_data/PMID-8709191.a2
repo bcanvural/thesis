@@ -1,0 +1,10 @@
+T28	Exp 244 257	two promoters	248 257	promoters
+T29	Exp 259 261	Cp
+T30	Exp 269 274	whose
+T31	Exp 480 492	cis elements	484 492	elements
+T32	Exp 1350 1368	these cis elements	1360 1368	elements
+T33	Exp 1730 1739	deletions
+T34	Exp 1740 1745	which
+R1	Coref Anaphora:T30 Antecedent:T28
+R2	Coref Anaphora:T32 Antecedent:T31
+R3	Coref Anaphora:T34 Antecedent:T33

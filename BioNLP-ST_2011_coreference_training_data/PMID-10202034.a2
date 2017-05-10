@@ -1,0 +1,12 @@
+T20	Exp 36 57	Jun N-terminal kinase	51 57	kinase
+T21	Exp 208 337	the mitogen-activated protein kinase family members extracellular-regulated kinase 1/2 (ERK1/2) and c-Jun N-terminal kinase (JNK)	252 259	members
+T22	Exp 406 411	their
+T23	Exp 547 574	high levels of IL-6 protein	552 558	levels
+T24	Exp 576 581	which
+T25	Exp 1175 1213	NF-kappa B-mediated gene transcription	1200 1213	transcription
+T26	Exp 1270 1273	its
+T27	Exp 1644 1647	its
+R1	Coref Anaphora:T22 Antecedent:T21	[T5, T4]
+R2	Coref Anaphora:T24 Antecedent:T23	[T7]
+R3	Coref Anaphora:T26 Antecedent:T25
+R4	Coref Anaphora:T27 Antecedent:T20	[T1]

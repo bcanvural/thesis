@@ -1,0 +1,36 @@
+*	Equiv T5 T6
+*	Equiv T8 T9
+T12	Entity 2 36	transcriptional regulatory element
+T13	Entity 58 86	nuclease-hypersensitive site
+T14	Entity 201 251	human immunodeficiency virus type 1 (HIV-1) genome
+T15	Entity 278 324	major constitutive DNase I-hypersensitive site
+T16	Entity 508 530	nucleosome-free region
+T17	Entity 547 576	nucleotides (nt) 4490 to 4766
+T18	Entity 578 651	A 500-bp fragment encompassing this hypersensitive site (nt 4481 to 4982)
+T19	Entity 580 595	500-bp fragment
+T20	Entity 614 633	hypersensitive site
+T21	Entity 635 650	nt 4481 to 4982
+T22	Entity 778 792	HIV-1 promoter
+T23	Entity 928 941	binding sites
+T24	Entity 975 1002	positive regulatory element
+T25	Entity 1004 1010	Site B
+T26	Entity 1012 1027	nt 4519 to 4545
+T27	Entity 1062 1087	nuclear protein complexes
+T28	Entity 1281 1287	PU box
+T29	Entity 1328 1340	binding site
+T30	Entity 1389 1395	site C
+T31	Entity 1397 1412	nt 4681 to 4701
+T32	Entity 1420 1423	DNA
+T33	Entity 1482 1488	site B
+T34	Entity 1515 1521	GC box
+T35	Entity 1535 1547	binding site
+T36	Entity 1572 1587	nt 4623 to 4631
+T37	Entity 1590 1596	Site D
+T38	Entity 1598 1613	nt 4816 to 4851
+T39	Entity 1692 1726	transcriptional regulatory element
+T40	Entity 1745 1773	nuclease-hypersensitive site
+T41	Entity 1754 1773	hypersensitive site
+T42	Entity 1873 1896	cis-regulatory elements
+R1	Protein-Component Arg1:T1 Arg2:T13
+R2	Protein-Component Arg1:T11 Arg2:T41
+R3	Protein-Component Arg1:T11 Arg2:T40

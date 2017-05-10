@@ -1,0 +1,11 @@
+T13	Exp 64 99	The human interleukin-3 (IL-3) gene	95 99	gene
+T14	Exp 154 157	Its
+T15	Exp 397 410	the IL-3 gene	406 410	gene
+T16	Exp 437 445	the gene
+T17	Exp 933 960	the IL-3 CK-1/CK-2 elements	952 960	elements
+T18	Exp 961 965	that
+T19	Exp 1016 1020	they
+R1	Coref Anaphora:T14 Antecedent:T13	[T3, T2]
+R2	Coref Anaphora:T16 Antecedent:T15	[T6]
+R3	Coref Anaphora:T18 Antecedent:T17	[T11, T9, T10]
+R4	Coref Anaphora:T19 Antecedent:T17	[T11, T9, T10]

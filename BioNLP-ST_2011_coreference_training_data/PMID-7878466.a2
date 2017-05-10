@@ -1,0 +1,12 @@
+T6	Exp 115 146	transcription factor NF-kappa B
+T7	Exp 160 162	it
+T8	Exp 181 196	Various stimuli	189 196	stimuli
+T9	Exp 208 213	those
+T10	Exp 482 497	I kappa B-alpha
+T11	Exp 530 544	this inhibitor
+T12	Exp 584 599	I kappa B-alpha
+T13	Exp 613 624	the protein
+R1	Coref Anaphora:T7 Antecedent:T6
+R2	Coref Anaphora:T9 Antecedent:T8
+R3	Coref Anaphora:T11 Antecedent:T10	[T4]
+R4	Coref Anaphora:T13 Antecedent:T12	[T5]

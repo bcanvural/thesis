@@ -1,0 +1,38 @@
+T1	Gene 54 57	ctc
+T2	Promoter 58 66	promoter
+T3	Promoter 112 120	promoter
+T4	PolymeraseComplex 124 134	E sigma 37
+T5	PolymeraseComplex 138 148	E sigma 29
+W1	Word 0 4	Here
+W2	Word 5 7	we
+W3	Word 8 14	report
+W4	Word 15 19	that
+W5	Word 20 27	several
+W6	Word 28 32	base
+W7	Word 33 46	substitutions
+W8	Word 47 49	in
+W9	Word 50 53	the
+W10	Word 54 57	ctc
+W11	Word 58 66	promoter
+W12	Word 67 81	differentially
+W13	Word 82 88	affect
+W14	Word 89 92	the
+W15	Word 93 104	utilization
+W16	Word 105 107	of
+W17	Word 108 111	the
+W18	Word 112 120	promoter
+W19	Word 121 123	by
+W20	Word 124 134	E sigma 37
+W21	Word 135 137	or
+W22	Word 138 148	E sigma 29
+R1	comp:N-N(by) W18 W22
+R2	subj:V-N W3 W2
+R3	subj:V-N W13 W7
+R4	obj:V-N W13 W15
+R5	mod:V-ADV W3 W1
+R6	comp:N-N(by) W18 W20
+R7	comp:N-N(of) W15 W18
+R8	mod_att:N-N W7 W6
+R9	mod:V-ADV W13 W12
+R10	mod_att:N-N W11 W10
+R11	comp:N-N(in) W7 W11

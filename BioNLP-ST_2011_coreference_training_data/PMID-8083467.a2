@@ -1,0 +1,12 @@
+T23	Exp 0 27	Signals and nuclear factors	20 27	factors
+T24	Exp 28 32	that
+T25	Exp 808 816	a manner
+T26	Exp 829 833	that
+T27	Exp 853 885	One of the nuclear factors (NFs)	872 879	factors
+T28	Exp 886 890	that
+T29	Exp 1479 1499	sequence specificity	1488 1499	specificity
+T30	Exp 1529 1533	that
+R1	Coref Anaphora:T24 Antecedent:T23
+R2	Coref Anaphora:T26 Antecedent:T25
+R3	Coref Anaphora:T28 Antecedent:T27
+R4	Coref Anaphora:T30 Antecedent:T29

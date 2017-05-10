@@ -1,0 +1,21 @@
+T17	Entity 100 123	T-cell antigen receptor
+T18	Entity 125 128	TCR
+T19	Entity 366 383	structural motifs
+T20	Entity 395 409	Src homology 2
+T21	Entity 411 425	Src homology 3
+T22	Entity 431 458	pleckstrin homology domains
+T23	Entity 465 508	putative guanine nucleotide exchange domain
+T24	Entity 532 535	TCR
+T25	Entity 779 782	TCR
+T26	Entity 1006 1009	TCR
+T27	Entity 1054 1084	first 67 amino acids of p95vav
+T28	Entity 1054 1074	first 67 amino acids
+T29	Entity 1520 1523	TCR
+T30	Entity 1583 1586	TCR
+T31	Entity 1609 1612	TCR
+T32	Entity 1650 1653	TCR
+T33	Entity 1771 1774	TCR
+T34	Entity 1791 1799	tyrosine
+T35	Entity 1975 1978	TCR
+R1	Protein-Component Arg1:T9 Arg2:T28
+R2	Protein-Component Arg1:T9 Arg2:T27

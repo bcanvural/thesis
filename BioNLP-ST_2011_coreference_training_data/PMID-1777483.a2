@@ -1,0 +1,14 @@
+T14	Exp 158 230	The two nuclear proteins NF-kappa B (consisting of subunits p50 and p65)	166 182	nuclear proteins
+T15	Exp 235 278	the DNA-binding subunit of NF-kappa B (p50)	251 258	subunit
+T16	Exp 282 288	itself
+T17	Exp 435 452	these two factors	445 452	factors
+T18	Exp 454 459	which
+T19	Exp 624 648	both KBF1 and NF-kappa B
+T20	Exp 652 657	their
+T21	Exp 966 970	KBF1
+T22	Exp 974 980	itself
+R1	Coref Anaphora:T16 Antecedent:T15	[T4]
+R2	Coref Anaphora:T17 Antecedent:T14	[T3, T2]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T19	[T6]
+R5	Coref Anaphora:T22 Antecedent:T21	[T10]

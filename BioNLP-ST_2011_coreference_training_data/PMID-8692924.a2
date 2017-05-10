@@ -1,0 +1,12 @@
+T11	Exp 154 180	chromosomal translocations	166 180	translocations
+T12	Exp 181 185	that
+T13	Exp 295 308	The BCL6 gene
+T14	Exp 425 427	it
+T15	Exp 477 491	a DNA sequence
+T16	Exp 505 508	its
+T17	Exp 698 702	BCL6
+T18	Exp 754 757	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13	[T4]
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17	[T7]

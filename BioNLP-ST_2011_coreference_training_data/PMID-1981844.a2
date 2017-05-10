@@ -1,0 +1,24 @@
+T1	Exp 53 66	two enhancers
+T2	Exp 71 76	their
+T3	Exp 165 191	a spectrum of retroviruses
+T4	Exp 225 230	their
+T5	Exp 321 332	the viruses	325 332	viruses
+T6	Exp 388 393	their
+T7	Exp 627 640	This enhancer
+T8	Exp 712 714	it
+T9	Exp 718 737	the second enhancer	729 737	enhancer
+T10	Exp 738 742	that
+T11	Exp 849 904	two nuclear binding proteins (85 kD and 27 kD mobility)
+T12	Exp 905 909	that
+T13	Exp 1015 1030	the speculation
+T14	Exp 1031 1035	that
+T15	Exp 1071 1115	the regulation of HIV-1 and HIV-2 expression
+T16	Exp 1116 1120	that
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3
+R3	Coref Anaphora:T6 Antecedent:T5
+R4	Coref Anaphora:T8 Antecedent:T7
+R5	Coref Anaphora:T10 Antecedent:T9
+R6	Coref Anaphora:T12 Antecedent:T11
+R7	Coref Anaphora:T14 Antecedent:T13
+R8	Coref Anaphora:T16 Antecedent:T15

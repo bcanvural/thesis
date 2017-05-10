@@ -1,0 +1,11 @@
+T5	Entity 3 30	erythroid specific enhancer
+T6	Entity 248 261	several genes
+T7	Entity 298 310	GATA-1 genes
+T8	Entity 314 329	region upstream
+T9	Entity 404 431	erythroid specific enhancer
+T10	Entity 492 500	promoter
+T11	Entity 584 598	dimeric GATA-1
+T12	Entity 599 611	binding site
+R1	Protein-Component Arg1:T1 Arg2:T5
+R2	Protein-Component Arg1:T3 Arg2:T10
+R3	Subunit-Complex Arg1:T4 Arg2:T11

@@ -1,0 +1,21 @@
+T25	Exp 369 389	Interleukin 2 (IL-2)
+T26	Exp 461 464	its
+T27	Exp 610 683	an inducible proximal enhancer, located between nucleotides -276 and -244	632 640	enhancer
+T28	Exp 685 690	which
+T29	Exp 740 808	a T-cell-specific enhancer, located between nucleotides -137 and -64	758 766	enhancer
+T30	Exp 810 815	which
+T31	Exp 1142 1167	an 86-nucleotide fragment	1159 1167	fragment
+T32	Exp 1168 1172	that
+T33	Exp 1381 1408	a Stat protein binding site	1404 1408	site
+T34	Exp 1409 1413	that
+T35	Exp 1584 1606	the human GASd element	1599 1606	element
+T36	Exp 1689 1713	footprinting experiments	1702 1713	experiments
+T37	Exp 1714 1719	which
+T38	Exp 1799 1815	the GASd element	1808 1815	element
+R1	Coref Anaphora:T26 Antecedent:T25	[T7, T8]
+R2	Coref Anaphora:T28 Antecedent:T27
+R3	Coref Anaphora:T30 Antecedent:T29
+R4	Coref Anaphora:T32 Antecedent:T31
+R5	Coref Anaphora:T34 Antecedent:T33
+R6	Coref Anaphora:T37 Antecedent:T36
+R7	Coref Anaphora:T38 Antecedent:T35

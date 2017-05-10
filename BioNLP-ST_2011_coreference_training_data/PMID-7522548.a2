@@ -1,0 +1,3 @@
+T26	Exp 1453 1469	VCAM-1 induction	1460 1469	induction
+T27	Exp 1544 1547	its
+R1	Coref Anaphora:T27 Antecedent:T26	[T20]

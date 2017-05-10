@@ -1,0 +1,22 @@
+T8	Entity 69 79	NF-kappa B
+T9	Entity 82 92	NF-kappa B
+T10	Entity 213 223	many genes
+T11	Entity 265 273	tyrosine
+T12	Entity 507 530	kappa B binding complex
+T13	Entity 658 671	kappa B sites
+T14	Entity 705 713	tyrosine
+T15	Entity 755 771	-induced complex
+T16	Entity 812 822	NF-kappa B
+T17	Entity 949 978	HIV-1 LTR reporter constructs
+T18	Entity 949 958	HIV-1 LTR
+T19	Entity 1045 1053	promoter
+T20	Entity 1059 1066	kappa B
+T21	Entity 1122 1131	HIV-1 LTR
+T22	Entity 1180 1188	proximal
+T23	Entity 1206 1212	distal
+T24	Entity 1214 1229	kappa B element
+T25	Entity 1282 1292	HIV-1 gene
+R1	Subunit-Complex Arg1:T4 Arg2:T15
+R2	Subunit-Complex Arg1:T5 Arg2:T15
+R3	Subunit-Complex Arg1:T4 Arg2:T16
+R4	Subunit-Complex Arg1:T5 Arg2:T16

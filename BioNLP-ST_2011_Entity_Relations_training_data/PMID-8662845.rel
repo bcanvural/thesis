@@ -1,0 +1,37 @@
+*	Equiv T2 T3
+T8	Entity 20 39	core binding factor
+T9	Entity 44 70	adjacent promoter elements
+T10	Entity 203 222	cis-acting elements
+T11	Entity 260 279	transcription start
+T12	Entity 360 365	sites
+T13	Entity 378 386	promoter
+T14	Entity 444 458	promoter sites
+T15	Entity 546 561	luciferase gene
+T16	Entity 589 619	core binding factor (CBF) site
+T17	Entity 589 608	core binding factor
+T18	Entity 610 613	CBF
+T19	Entity 690 698	CBF site
+T20	Entity 690 693	CBF
+T21	Entity 742 771	adjacent activator site Act-1
+T22	Entity 786 791	Act-1
+T23	Entity 796 805	CBF sites
+T24	Entity 813 828	functional unit
+T25	Entity 830 837	AC unit
+T26	Entity 863 870	AC unit
+T27	Entity 916 925	promoters
+T28	Entity 1078 1096	NIP repressor site
+T29	Entity 1126 1149	second repressor region
+T30	Entity 1165 1173	promoter
+T31	Entity 1216 1243	positive regulatory element
+T32	Entity 1272 1280	promoter
+T33	Entity 1472 1495	tissue-specific element
+T34	Entity 1527 1547	interacting elements
+R1	Protein-Component Arg1:T2 Arg2:T11
+R2	Protein-Component Arg1:T2 Arg2:T10
+R3	Protein-Component Arg1:T4 Arg2:T12
+R4	Protein-Component Arg1:T4 Arg2:T13
+R5	Protein-Component Arg1:T5 Arg2:T16
+R6	Protein-Component Arg1:T5 Arg2:T14
+R7	Protein-Component Arg1:T6 Arg2:T31
+R8	Protein-Component Arg1:T6 Arg2:T32
+R9	Protein-Component Arg1:T7 Arg2:T34

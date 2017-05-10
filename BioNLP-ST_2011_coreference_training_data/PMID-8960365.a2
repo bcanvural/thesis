@@ -1,0 +1,9 @@
+T9	Exp 380 397	reporter plasmids
+T10	Exp 468 473	These
+T11	Exp 532 593	the human IL2 upstream enhancer region (segments -326 to +45)	564 570	region
+T12	Exp 648 650	it
+T13	Exp 834 846	cyclosporine
+T14	Exp 848 853	which
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11	[T6]
+R3	Coref Anaphora:T14 Antecedent:T13

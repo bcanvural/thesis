@@ -1,0 +1,21 @@
+T3	Exp 76 89	The NM23 gene
+T4	Exp 145 148	its
+T5	Exp 194 198	NM23
+T6	Exp 217 255	a system of murine melanoma cell lines
+T7	Exp 260 265	which
+T8	Exp 439 449	metastases
+T9	Exp 450 454	that
+T10	Exp 589 599	cell lines
+T11	Exp 600 605	which
+T12	Exp 843 856	the NM23 gene
+T13	Exp 883 893	cell lines
+T14	Exp 894 898	that
+T15	Exp 1136 1149	the NM23 gene	1145 1149	gene
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T5 Antecedent:T3
+R3	Coref Anaphora:T7 Antecedent:T6
+R4	Coref Anaphora:T9 Antecedent:T8
+R5	Coref Anaphora:T11 Antecedent:T10
+R6	Coref Anaphora:T12 Antecedent:T5
+R7	Coref Anaphora:T14 Antecedent:T13
+R8	Coref Anaphora:T15 Antecedent:T12

@@ -1,0 +1,16 @@
+*	Equiv T1 T2
+T8	Entity 46 63	RNA polymerase II
+T9	Entity 99 111	human genome
+T10	Entity 201 218	RNA polymerase II
+T11	Entity 220 231	Human cDNAs
+T12	Entity 370 375	genes
+T13	Entity 493 498	TFIIH
+T14	Entity 518 549	human chromosomal bands 6q26-27
+T15	Entity 551 558	1p21-22
+T16	Entity 560 567	3q21-24
+T17	Entity 569 573	8p12
+T18	Entity 575 580	13q14
+T19	Entity 582 589	19p13.3
+T20	Entity 594 604	11p14-15.1
+T21	Entity 653 687	group of functionally related gene
+T22	Entity 738 750	human genome

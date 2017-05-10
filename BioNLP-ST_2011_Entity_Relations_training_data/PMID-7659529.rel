@@ -1,0 +1,23 @@
+*	Equiv T4 T5
+T30	Entity 108 114	motifs
+T31	Entity 370 400	transcription control elements
+T32	Entity 408 426	5' flanking region
+T33	Entity 524 548	150 bp promoter fragment
+T34	Entity 554 567	binding sites
+T35	Entity 655 663	promoter
+T36	Entity 833 846	binding sites
+T37	Entity 874 887	TATA sequence
+T38	Entity 1095 1108	binding motif
+T39	Entity 1199 1207	promoter
+T40	Entity 1391 1395	site
+T41	Entity 1437 1445	promoter
+T42	Entity 1597 1605	promoter
+R1	Protein-Component Arg1:T2 Arg2:T30
+R2	Protein-Component Arg1:T3 Arg2:T30
+R3	Protein-Component Arg1:T7 Arg2:T31
+R4	Protein-Component Arg1:T7 Arg2:T32
+R5	Protein-Component Arg1:T10 Arg2:T35
+R6	Protein-Component Arg1:T17 Arg2:T39
+R7	Protein-Component Arg1:T20 Arg2:T40
+R8	Protein-Component Arg1:T20 Arg2:T41
+R9	Protein-Component Arg1:T23 Arg2:T42

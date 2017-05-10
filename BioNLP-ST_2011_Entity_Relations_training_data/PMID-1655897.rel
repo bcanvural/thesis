@@ -1,0 +1,11 @@
+T8	Entity 64 72	promoter
+T9	Entity 162 170	elements
+T10	Entity 215 223	promoter
+T11	Entity 330 340	NF-kappa B
+T12	Entity 342 346	AP-1
+T13	Entity 348 352	AP-3
+T14	Entity 993 998	sites
+T15	Entity 1232 1236	AP-1
+T16	Entity 1354 1358	AP-1
+R1	Protein-Component Arg1:T1 Arg2:T8
+R2	Protein-Component Arg1:T2 Arg2:T10

@@ -1,0 +1,24 @@
+T24	Exp 33 84	NF-kappa B transcriptional activator precursor p105
+T25	Exp 332 344	two subunits	336 344	subunits
+T26	Exp 346 357	p50 and p65
+T27	Exp 359 364	which
+T28	Exp 439 461	a precursor of 105 kDa	441 450	precursor
+T29	Exp 488 501	the precursor
+T30	Exp 802 821	limited proteolysis
+T31	Exp 826 831	which
+T32	Exp 883 908	Palombella and colleagues
+T33	Exp 1137 1141	They
+T34	Exp 1407 1432	the intact p105 precursor	1423 1432	precursor
+T35	Exp 1466 1479	the precursor
+T36	Exp 1578 1607	the ubiquitin-carrier protein	1600 1607	protein
+T37	Exp 1616 1620	that
+T38	Exp 1751 1817	a novel, approximately 320-kDa species of ubiquitin-protein ligase	1811 1817	ligase
+T39	Exp 1847 1864	This novel enzyme	1858 1864	enzyme
+R1	Coref Anaphora:T27 Antecedent:T25
+R2	Coref Anaphora:T28 Antecedent:T24	[T2]
+R3	Coref Anaphora:T29 Antecedent:T28
+R4	Coref Anaphora:T31 Antecedent:T30
+R5	Coref Anaphora:T33 Antecedent:T32
+R6	Coref Anaphora:T35 Antecedent:T34	[T15]
+R7	Coref Anaphora:T37 Antecedent:T36	[T16]
+R8	Coref Anaphora:T39 Antecedent:T38	[T20]

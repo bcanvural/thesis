@@ -1,0 +1,7 @@
+T11	Entity 75 91	variable regions
+T12	Entity 154 170	variable regions
+T13	Entity 182 201	-specific mAb G28-5
+T14	Entity 414 417	-Ig
+T15	Entity 666 669	CD8
+T16	Entity 765 777	binding site
+R1	Subunit-Complex Arg1:T6 Arg2:T14

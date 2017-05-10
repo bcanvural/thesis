@@ -1,0 +1,49 @@
+T1	Bacterium 0 20	Borrelia duttonii Ly
+T2	Bacterium 33 50	Borrelia duttonii
+T3	Bacterium 52 69	Borrelia duttonii
+T4	Host 96 100	tick
+T5	Geographical 126 137	east Africa
+T6	Geographical 174 185	east Africa
+T7	Host 246 276	children under the age of five
+T8	Host 325 341	soft-bodied tick
+T9	Host 342 362	Ornithodoros moubata
+T10	Host 364 369	Ticks
+T11	Bacterium 391 408	Borrelia duttonii
+T12	Host 438 444	rodent
+T13	Host 527 531	tick
+T14	Host 552 556	tick
+T15	Host 584 598	mammalian host
+T16	HostPart 622 628	saliva
+T17	Host 630 636	Humans
+T18	Host 668 673	ticks
+T19	Host 695 702	rodents
+T20	Environment 706 718	rodent nests
+T21	Bacterium 1216 1236	Borrelia duttonii Ly
+T22	Bacterium 1238 1258	Borrelia duttonii Ly
+T23	Host 1279 1294	2-year-old girl
+T24	Host 1300 1304	tick
+T25	Geographical 1330 1338	Tanzania
+*	Equiv T2 T3
+*	Equiv T2 T11
+*	Equiv T4 T10
+*	Equiv T4 T13
+*	Equiv T4 T14
+*	Equiv T4 T18
+*	Equiv T1 T21
+*	Equiv T1 T22
+*	Equiv T5 T6
+*	Equiv T8 T9
+E1	Localization Bacterium:T2 Localization:T4
+E2	Localization Bacterium:T2 Localization:T5
+E3	Localization Bacterium:T1 Localization:T24
+E4	PartOf Host:T12 Part:T16
+E5	Localization Bacterium:T1 Localization:T25
+E6	Localization Bacterium:T1 Localization:T23
+E7	Localization Bacterium:T2 Localization:T20
+E8	Localization Bacterium:T2 Localization:T7
+E9	Localization Bacterium:T2 Localization:T17
+E10	Localization Bacterium:T2 Localization:T8
+E11	Localization Bacterium:T2 Localization:T16
+E12	Localization Bacterium:T2 Localization:T12
+E13	Localization Bacterium:T2 Localization:T15
+E14	Localization Bacterium:T2 Localization:T19

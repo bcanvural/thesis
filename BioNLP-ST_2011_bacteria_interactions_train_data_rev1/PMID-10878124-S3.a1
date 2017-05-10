@@ -1,0 +1,58 @@
+T1	ProteinFamily 33 45	sigma factor
+T2	Protein 116 124	sigma(E)
+T3	Protein 126 134	sigma(K)
+T4	Protein 139 147	sigma(G)
+T5	ProteinFamily 218 243	sporulation sigma factors
+W1	Word 0 12	Phylogenetic
+W2	Word 13 21	analyses
+W3	Word 22 24	of
+W4	Word 25 32	various
+W5	Word 33 38	sigma
+W6	Word 39 45	factor
+W7	Word 46 55	sequences
+W8	Word 56 60	from
+W9	Word 61 78	endospore-forming
+W10	Word 79 87	bacteria
+W11	Word 88 96	revealed
+W12	Word 97 101	that
+W13	Word 102 112	homologues
+W14	Word 113 115	of
+W15	Word 116 124	sigma(E)
+W16	Word 126 134	sigma(K)
+W17	Word 135 138	and
+W18	Word 139 147	sigma(G)
+W19	Word 148 157	clustered
+W20	Word 158 166	together
+W21	Word 167 177	regardless
+W22	Word 178 180	of
+W23	Word 181 186	genus
+W24	Word 188 198	suggesting
+W25	Word 199 200	a
+W26	Word 201 207	common
+W27	Word 208 214	origin
+W28	Word 215 217	of
+W29	Word 218 229	sporulation
+W30	Word 230 235	sigma
+W31	Word 236 243	factors
+R1	comp:V-N(of) W19 W27
+R2	subj:V-N W19 W13
+R3	obj:V-N W24 W27
+R4	mod_att:N-N W10 W9
+R5	mod_att:N-N W31 W30
+R6	subj:V-N W11 W2
+R7	mod:V-ADV W19 W20
+R8	comp:N-N(of) W13 W15
+R9	comp:ADV-N(of) W21 W23
+R10	comp:N-N(of) W2 W7
+R11	comp:N-N(of) W13 W18
+R12	comp:N-N(of) W13 W16
+R13	mod:V-ADV W19 W21
+R14	mod:V-V W19 W24
+R15	mod_att:N-N W31 W29
+R16	mod_att:N-ADJ W2 W1
+R17	comp:N-N(from) W7 W10
+R18	mod_att:N-N W7 W6
+R19	comp:N-N(of) W27 W31
+R20	mod_att:N-ADJ W27 W26
+R21	mod_att:N-N W6 W5
+R22	mod_att:N-ADJ W5 W4

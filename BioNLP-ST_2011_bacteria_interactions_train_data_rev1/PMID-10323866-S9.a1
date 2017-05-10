@@ -1,0 +1,57 @@
+T1	Protein 62 81	phosphatase protein
+T2	Protein 97 103	SpoIIE
+T3	Action 115 123	capacity
+T4	Protein 127 151	unphosphorylated SpoIIAA
+T5	Protein 164 170	sigmaF
+W1	Word 0 8	Evidence
+W2	Word 9 14	based
+W3	Word 15 17	on
+W4	Word 18 21	the
+W5	Word 22 25	use
+W6	Word 26 28	of
+W7	Word 29 37	modified
+W8	Word 38 41	and
+W9	Word 42 48	mutant
+W10	Word 49 54	forms
+W11	Word 55 57	of
+W12	Word 58 61	the
+W13	Word 62 73	phosphatase
+W14	Word 74 81	protein
+W15	Word 82 91	indicates
+W16	Word 92 96	that
+W17	Word 97 103	SpoIIE
+W18	Word 104 110	blocks
+W19	Word 111 114	the
+W20	Word 115 123	capacity
+W21	Word 124 126	of
+W22	Word 127 143	unphosphorylated
+W23	Word 144 151	SpoIIAA
+W24	Word 152 154	to
+W25	Word 155 163	activate
+W26	Word 164 170	sigmaF
+W27	Word 171 176	until
+W28	Word 177 186	formation
+W29	Word 187 189	of
+W30	Word 190 193	the
+W31	Word 194 199	polar
+W32	Word 200 206	septum
+W33	Word 207 209	is
+W34	Word 210 219	completed
+R1	mod_att:N-N W9 W10
+R2	mod_att:N-ADJ W32 W31
+R3	subj:V_PASS-N W2 W1
+R4	comp:N-N(of) W10 W14
+R5	obj:V-N W18 W20
+R6	comp:N-N(of) W5 W10
+R7	subj:V_PASS-N W34 W28
+R8	comp:N-N(of) W28 W32
+R9	mod_att:N-ADJ W23 W22
+R10	subj:V-N W15 W1
+R11	comp:N-V(to) W20 W25
+R12	obj:V-N W25 W26
+R13	mod_att:N-N W14 W13
+R14	comp:V_PASS-N(on) W2 W5
+R15	comp:V-N(until) W18 W28
+R16	subj:V-N W18 W17
+R17	mod_att:N-ADJ W10 W7
+R18	comp:N-N(of) W20 W23

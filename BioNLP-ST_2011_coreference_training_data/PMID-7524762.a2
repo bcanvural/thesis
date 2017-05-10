@@ -1,0 +1,6 @@
+T26	Exp 94 119	one of the growth factors
+T27	Exp 120 124	that
+T28	Exp 1545 1558	one mechanism
+T29	Exp 1567 1572	which
+R1	Coref Anaphora:T27 Antecedent:T26
+R2	Coref Anaphora:T29 Antecedent:T28

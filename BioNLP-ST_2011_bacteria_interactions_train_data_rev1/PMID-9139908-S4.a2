@@ -1,0 +1,4 @@
+E1	BindTo Agent:T2 Target:T3
+E2	SiteOf Target:T3 Site:T5
+E3	Interaction Agent:T2 Target:T4
+E4	PromoterOf Agent:T5 Target:T4

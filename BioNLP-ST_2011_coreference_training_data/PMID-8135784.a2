@@ -1,0 +1,17 @@
+T8	Exp 20 25	NF(P)
+T9	Exp 27 45	the nuclear factor
+T10	Exp 46 50	that
+T11	Exp 184 237	The P sequence of the human interleukin-4 (IL-4) gene	190 198	sequence
+T12	Exp 239 244	which
+T13	Exp 964 975	an activity
+T14	Exp 976 980	that
+T15	Exp 1006 1050	Both mobility shift and sequence specificity
+T16	Exp 1076 1081	those
+T17	Exp 1348 1353	NF(P)
+T18	Exp 1378 1381	its
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11	[T2, T3]
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T16 Antecedent:T15
+R6	Coref Anaphora:T18 Antecedent:T17

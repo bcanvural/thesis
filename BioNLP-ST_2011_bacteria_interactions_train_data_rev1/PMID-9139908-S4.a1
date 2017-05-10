@@ -1,0 +1,48 @@
+T1	Protein 29 37	sigma(X)
+T2	PolymeraseComplex 96 129	sigma(A) and sigma(X) holoenzymes
+T3	Site 140 157	promoter elements
+T4	GeneComplex 169 178	sigX-ypuN
+T5	Promoter 179 193	control region
+W1	Word 0 2	We
+W2	Word 3 15	overproduced
+W3	Word 16 19	and
+W4	Word 20 28	purified
+W5	Word 29 37	sigma(X)
+W6	Word 38 42	from
+W7	Word 43 59	Escherichia coli
+W8	Word 60 63	and
+W9	Word 64 75	demonstrate
+W10	Word 76 80	that
+W11	Word 81 83	in
+W12	Word 84 89	vitro
+W13	Word 91 95	both
+W14	Word 96 104	sigma(A)
+W15	Word 105 108	and
+W16	Word 109 117	sigma(X)
+W17	Word 118 129	holoenzymes
+W18	Word 130 139	recognize
+W19	Word 140 148	promoter
+W20	Word 149 157	elements
+W21	Word 158 164	within
+W22	Word 165 168	the
+W23	Word 169 173	sigX
+W24	Word 174 178	ypuN
+W25	Word 179 186	control
+W26	Word 187 193	region
+R1	obj:V-N W4 W5
+R2	comp:V-N(in) W18 W12
+R3	comp:N-N(within) W20 W26
+R4	mod_att:N-N W26 W24
+R5	subj:V-N W9 W1
+R6	subj:V-N W18 W17
+R7	subj:V-N W2 W1
+R8	comp:V-N(from) W2 W7
+R9	mod_att:N-N W17 W14
+R10	subj:V-N W4 W1
+R11	mod_att:N-N W26 W25
+R12	mod_att:N-N W17 W16
+R13	mod_att:N-N W26 W23
+R14	comp:V-N(from) W4 W7
+R15	obj:V-N W2 W5
+R16	mod_att:N-N W20 W19
+R17	obj:V-N W18 W20

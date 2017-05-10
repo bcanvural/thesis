@@ -1,0 +1,53 @@
+T1	Protein 0 4	ComK
+T2	Transcription 29 42	transcription
+T3	Gene 46 49	hag
+T4	Transcription 69 82	transcription
+T5	GeneComplex 86 95	comF-flgM
+T6	Action 120 130	production
+T7	Protein 138 142	FlgM
+T8	Protein 174 180	sigmaD
+T9	Action 181 189	activity
+W1	Word 0 4	ComK
+W2	Word 5 15	negatively
+W3	Word 16 24	controls
+W4	Word 25 28	the
+W5	Word 29 42	transcription
+W6	Word 43 45	of
+W7	Word 46 49	hag
+W8	Word 50 52	by
+W9	Word 53 64	stimulating
+W10	Word 65 68	the
+W11	Word 69 82	transcription
+W12	Word 83 85	of
+W13	Word 86 90	comF
+W14	Word 91 95	flgM
+W15	Word 97 104	thereby
+W16	Word 105 115	increasing
+W17	Word 116 119	the
+W18	Word 120 130	production
+W19	Word 131 133	of
+W20	Word 134 137	the
+W21	Word 138 142	FlgM
+W22	Word 143 152	antisigma
+W23	Word 153 159	factor
+W24	Word 160 164	that
+W25	Word 165 173	inhibits
+W26	Word 174 180	sigmaD
+W27	Word 181 189	activity
+R1	obj:V-N W3 W5
+R2	subj:V-N W25 W18
+R3	subj:V-N W16 W1
+R4	obj:V-N W9 W11
+R5	mod_att:N-N W23 W22
+R6	obj:V-N W16 W18
+R7	comp:N-N(of) W11 W13
+R8	comp:N-N(of) W5 W7
+R9	mod_att:N-N W23 W21
+R10	mod:V-ADV W3 W2
+R11	subj:V-N W3 W1
+R12	comp:V-V(by) W3 W9
+R13	comp:N-N(of) W11 W14
+R14	obj:V-N W25 W27
+R15	mod:V-ADV W16 W15
+R16	comp:N-N(of) W18 W23
+R17	mod_att:N-N W27 W26

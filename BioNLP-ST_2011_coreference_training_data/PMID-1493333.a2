@@ -1,0 +1,29 @@
+T27	Exp 179 222	the NF-kappa B transcription factor complex	215 222	complex
+T28	Exp 264 297	NF-kappa B p65 and NF-kappa B p50
+T29	Exp 307 312	which
+T30	Exp 459 471	this complex	464 471	complex
+T31	Exp 868 882	NF-kappa B p65
+T32	Exp 1022 1047	this transcription factor	1027 1047	transcription factor
+T33	Exp 1580 1594	NF-kappa B p65
+T34	Exp 1604 1607	its
+T35	Exp 1675 1689	NF-kappa B p65
+T36	Exp 1701 1704	its
+T37	Exp 1743 1752	sequences
+T38	Exp 1753 1757	that
+T39	Exp 1971 1989	a bipartite system
+T40	Exp 1990 1994	that
+T41	Exp 2171 2187	This interaction	2176 2187	interaction
+T42	Exp 2205 2207	it
+T43	Exp 2358 2386	the unique C-terminal domain	2380 2386	domain
+T44	Exp 2387 2391	that
+T45	Exp 2409 2413	that
+R1	Coref Anaphora:T29 Antecedent:T28	[T5, T4]
+R2	Coref Anaphora:T30 Antecedent:T27
+R3	Coref Anaphora:T32 Antecedent:T31	[T10]
+R4	Coref Anaphora:T34 Antecedent:T33	[T17]
+R5	Coref Anaphora:T36 Antecedent:T35	[T19]
+R6	Coref Anaphora:T38 Antecedent:T37
+R7	Coref Anaphora:T40 Antecedent:T39
+R8	Coref Anaphora:T42 Antecedent:T41
+R9	Coref Anaphora:T44 Antecedent:T43
+R10	Coref Anaphora:T45 Antecedent:T43

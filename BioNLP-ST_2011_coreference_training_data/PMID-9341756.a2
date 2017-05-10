@@ -1,0 +1,9 @@
+T7	Exp 541 594	various adhesion molecules in human endothelial cells	558 567	molecules
+T8	Exp 599 604	their
+T9	Exp 1274 1277	PAO
+T10	Exp 1372 1386	this inhibitor	1377 1386	inhibitor
+T11	Exp 1717 1725	a PTPase
+T12	Exp 1866 1871	their
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11

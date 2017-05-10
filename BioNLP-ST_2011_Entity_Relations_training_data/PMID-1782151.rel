@@ -1,0 +1,21 @@
+*	Equiv T2 T3
+T11	Entity 71 81	NF-kappa B
+T12	Entity 144 162	regulatory element
+T13	Entity 184 200	enhanson domains
+T14	Entity 285 293	promoter
+T15	Entity 331 334	DNA
+T16	Entity 378 413	positive regulatory domain (PRD) II
+T17	Entity 659 662	DNA
+T18	Entity 911 917	AAGTGA
+T19	Entity 920 941	tetrahexamer sequence
+T20	Entity 950 961	PRDI domain
+T21	Entity 1132 1159	IFN beta promoter deletions
+T22	Entity 1141 1149	promoter
+T23	Entity 1171 1200	upstream of the PRDII element
+T24	Entity 1187 1200	PRDII element
+T25	Entity 1303 1311	promoter
+T26	Entity 1345 1353	promoter
+T27	Entity 1446 1454	elements
+R1	Protein-Component Arg1:T2 Arg2:T12
+R2	Protein-Component Arg1:T7 Arg2:T22
+R3	Protein-Component Arg1:T8 Arg2:T26

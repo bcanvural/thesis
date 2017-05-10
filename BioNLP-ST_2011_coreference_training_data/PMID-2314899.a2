@@ -1,0 +1,15 @@
+T8	Exp 196 219	a 21-base pair sequence	211 219	sequence
+T9	Exp 266 270	that
+T10	Exp 369 390	four nuclear proteins
+T11	Exp 396 411	C81-66-45 cells
+T12	Exp 413 474	an HTLV-I immortalized Tax-expressing human T-lymphocyte line
+T13	Exp 502 506	that
+T14	Exp 542 547	which
+T15	Exp 584 607	The proteins identified	588 596	proteins
+T16	Exp 714 726	the proteins
+T17	Exp 1645 1657	this complex	1650 1657	complex
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T13 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T10
+R4	Coref Anaphora:T15 Antecedent:T10
+R5	Coref Anaphora:T16 Antecedent:T15

@@ -1,0 +1,14 @@
+T11	Entity 34 124	upstream NF-kappaB site in human granulocyte macrophage-colony stimulating factor promoter
+T12	Entity 34 57	upstream NF-kappaB site
+T13	Entity 43 52	NF-kappaB
+T14	Entity 116 124	promoter
+T15	Entity 357 376	NF-kappaB like site
+T16	Entity 357 366	NF-kappaB
+T17	Entity 592 610	tumor promoter PMA
+T18	Entity 669 698	heterodimeric binding complex
+T19	Entity 786 805	HIV-LTR-kappaB site
+R1	Protein-Component Arg1:T3 Arg2:T12
+R2	Protein-Component Arg1:T3 Arg2:T11
+R3	Protein-Component Arg1:T3 Arg2:T14
+R4	Subunit-Complex Arg1:T7 Arg2:T18
+R5	Subunit-Complex Arg1:T8 Arg2:T18

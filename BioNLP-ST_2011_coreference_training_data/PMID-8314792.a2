@@ -1,0 +1,3 @@
+T6	Exp 467 490	The B cell NFAT complex
+T7	Exp 527 529	it
+R1	Coref Anaphora:T7 Antecedent:T6

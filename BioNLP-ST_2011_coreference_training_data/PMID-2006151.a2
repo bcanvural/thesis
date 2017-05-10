@@ -1,0 +1,23 @@
+T5	Exp 241 251	NF-kappa B
+T6	Exp 253 257	that
+T7	Exp 285 288	its
+T8	Exp 341 404	A factor with apparently indistinguishable sequence specificity	343 349	factor
+T9	Exp 423 444	many other cell types	434 444	cell types
+T10	Exp 446 451	where
+T11	Exp 452 454	it
+T12	Exp 598 701	a few inducible genes, such as the interleukin 2 receptor alpha-chain gene and the beta-interferon gene	614 619	genes
+T13	Exp 712 723	these genes	718 723	genes
+T14	Exp 1083 1095	each element	1088 1095	element
+T15	Exp 1172 1184	that element	1177 1184	element
+T16	Exp 1515 1534	NF-kappa B activity	1526 1534	activity
+T17	Exp 1560 1573	a B-cell line
+T18	Exp 1574 1578	that
+T19	Exp 1604 1615	this factor
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T7 Antecedent:T5
+R3	Coref Anaphora:T10 Antecedent:T9
+R4	Coref Anaphora:T11 Antecedent:T8
+R5	Coref Anaphora:T13 Antecedent:T12	[T3, T2]
+R6	Coref Anaphora:T15 Antecedent:T14
+R7	Coref Anaphora:T18 Antecedent:T17
+R8	Coref Anaphora:T19 Antecedent:T16

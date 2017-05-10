@@ -1,0 +1,10 @@
+*	Equiv T8 T9
+T21	Entity 14 24	NF-kappa B
+T22	Entity 102 132	phosphatase 2A-sensitive sites
+T23	Entity 149 159	NF-kappa B
+T24	Entity 869 891	NF-kappa B heterodimer
+T25	Entity 1304 1314	NF-kappa B
+T26	Entity 1852 1862	proteasome
+R1	Protein-Component Arg1:T1 Arg2:T22
+R2	Subunit-Complex Arg1:T5 Arg2:T24
+R3	Subunit-Complex Arg1:T6 Arg2:T24

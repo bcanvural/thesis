@@ -1,0 +1,15 @@
+T15	Exp 162 169	signals
+T16	Exp 170 174	that
+T17	Exp 604 652	the signaling events triggered by TCR engagement	618 624	events
+T18	Exp 653 657	that
+T19	Exp 1239 1269	critical transcription factors	1248 1269	transcription factors
+T20	Exp 1270 1274	that
+T21	Exp 1323 1419	a cyclosporin A-sensitive nuclear factor-AT response element in the promoter region of this gene	1376 1383	element
+T22	Exp 1420 1424	that
+T23	Exp 1548 1570	the biochemical events	1564 1570	events
+T24	Exp 1571 1575	that
+R1	Coref Anaphora:T16 Antecedent:T15
+R2	Coref Anaphora:T18 Antecedent:T17
+R3	Coref Anaphora:T20 Antecedent:T19
+R4	Coref Anaphora:T22 Antecedent:T21	[T12]
+R5	Coref Anaphora:T24 Antecedent:T23

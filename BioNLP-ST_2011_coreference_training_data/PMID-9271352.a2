@@ -1,0 +1,6 @@
+T14	Exp 605 623	a maximal response	615 623	response
+T15	Exp 637 641	that
+T16	Exp 1228 1294	two specific inhibitors of serine/threonine phosphatases-1 and -2A	1241 1251	inhibitors
+T17	Exp 1326 1341	These compounds	1332 1341	compounds
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16

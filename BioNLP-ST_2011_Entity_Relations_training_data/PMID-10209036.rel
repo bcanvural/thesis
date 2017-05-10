@@ -1,0 +1,12 @@
+*	Equiv T1 T2
+*	Equiv T3 T4
+T16	Entity 62 84	disulfide-linked dimer
+T17	Entity 217 242	src homology (SH)2 domain
+T18	Entity 303 334	tyrosine-based signaling motifs
+T19	Entity 536 544	tyrosine
+T20	Entity 849 884	nuclear factor of activated T cells
+T21	Entity 886 891	NF-AT
+T22	Entity 1068 1073	NF-AT
+T23	Entity 1124 1129	NF-AT
+T24	Entity 1157 1162	NF-AT
+R1	Subunit-Complex Arg1:T1 Arg2:T16

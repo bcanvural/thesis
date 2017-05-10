@@ -1,0 +1,55 @@
+T1	Site 4 25	-10 and -35 sequences
+T2	Protein 33 39	sigmaB
+T3	Protein 45 51	sigmaF
+T4	Promoter 62 71	promoters
+T5	Gene 75 79	katX
+T6	Site 97 125	transcriptional start points
+T7	PolymeraseComplex 134 141	EsigmaB
+T8	PolymeraseComplex 146 153	EsigmaF
+W1	Word 0 3	The
+W2	Word 4 7	-10
+W3	Word 8 11	and
+W4	Word 12 15	-35
+W5	Word 16 25	sequences
+W6	Word 26 28	of
+W7	Word 29 32	the
+W8	Word 33 39	sigmaB
+W9	Word 41 44	and
+W10	Word 45 51	sigmaF
+W11	Word 52 61	dependent
+W12	Word 62 71	promoters
+W13	Word 72 74	of
+W14	Word 75 79	katX
+W15	Word 80 87	overlap
+W16	Word 89 92	and
+W17	Word 93 96	the
+W18	Word 97 112	transcriptional
+W19	Word 113 118	start
+W20	Word 119 125	points
+W21	Word 126 130	used
+W22	Word 131 133	by
+W23	Word 134 141	EsigmaB
+W24	Word 142 145	and
+W25	Word 146 153	EsigmaF
+W26	Word 154 160	differ
+W27	Word 161 163	by
+W28	Word 164 168	only
+W29	Word 169 172	one
+W30	Word 173 183	nucleotide
+R1	subj:V-N W26 W20
+R2	comp:V-N(by) W26 W30
+R3	mod:ADJ-N W11 W10
+R4	mod:ADJ-ADV W29 W28
+R5	mod_att:N-ADJ W5 W4
+R6	mod:ADJ-N W11 W8
+R7	subj:V_PASS-N W21 W20
+R8	mod_att:N-N W20 W19
+R9	subj:V-N W15 W5
+R10	comp:V_PASS-N(by) W21 W23
+R11	mod_att:N-ADJ W12 W11
+R12	comp:N-N(of) W5 W12
+R13	mod_att:N-ADJ W30 W29
+R14	mod_att:N-ADJ W5 W2
+R15	mod_att:N-ADJ W20 W18
+R16	comp:N-N(of) W12 W14
+R17	comp:V_PASS-N(by) W21 W25

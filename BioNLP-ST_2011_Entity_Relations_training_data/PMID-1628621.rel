@@ -1,0 +1,35 @@
+T3	Entity 0 20	Transcription factor
+T4	Entity 21 25	AP-2
+T5	Entity 55 62	HTLV-I.
+T6	Entity 68 78	HTLV-I LTR
+T7	Entity 104 123	regulatory elements
+T8	Entity 133 153	21 base pair repeats
+T9	Entity 274 287	21 bp repeats
+T10	Entity 325 326	A
+T11	Entity 328 329	B
+T12	Entity 334 335	C
+T13	Entity 395 401	A site
+T14	Entity 409 421	21 bp repeat
+T15	Entity 468 481	binding sites
+T16	Entity 490 510	transcription factor
+T17	Entity 511 515	AP-2
+T18	Entity 685 700	consensus motif
+T19	Entity 705 709	AP-2
+T20	Entity 705 709	AP-2
+T21	Entity 750 754	AP-2
+T22	Entity 780 790	HTLV-I LTR
+T23	Entity 819 823	AP-2
+T24	Entity 965 969	AP-2
+T25	Entity 1025 1038	21 bp repeats
+T26	Entity 1065 1078	core sequence
+T27	Entity 1079 1083	AGGC
+T28	Entity 1117 1121	AP-2
+T29	Entity 1195 1220	adjacent regulatory motif
+T30	Entity 1228 1240	21 bp repeat
+T31	Entity 1261 1265	AP-2
+T32	Entity 1341 1351	HTLV-I LTR
+T33	Entity 1366 1379	21 bp repeats
+T34	Entity 1413 1417	AP-2
+T35	Entity 1452 1484	AP-2 consensus binding sequences
+T36	Entity 1452 1456	AP-2
+T37	Entity 1492 1505	21 bp repeats

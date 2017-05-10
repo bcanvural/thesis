@@ -1,0 +1,20 @@
+*	Equiv T2 T3
+T12	Entity 437 461	luciferase reporter gene
+T13	Entity 506 524	5'-flanking region
+T14	Entity 585 604	regulatory elements
+T15	Entity 688 697	AP-1 site
+T16	Entity 688 692	AP-1
+T17	Entity 701 713	-146 to -140
+T18	Entity 777 792	proximal region
+T19	Entity 801 812	-46 and -80
+T20	Entity 947 961	NF-kappaB site
+T21	Entity 947 956	NF-kappaB
+T22	Entity 965 975	-59 to -50
+T23	Entity 993 1023	20-base pair upstream sequence
+T24	Entity 1079 1087	promoter
+T25	Entity 1141 1150	NF-kappaB
+T26	Entity 1284 1308	proximal promoter region
+R1	Protein-Component Arg1:T5 Arg2:T13
+R2	Protein-Component Arg1:T6 Arg2:T14
+R3	Protein-Component Arg1:T5 Arg2:T14
+R4	Protein-Component Arg1:T9 Arg2:T24

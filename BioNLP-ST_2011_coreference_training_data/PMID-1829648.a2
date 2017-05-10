@@ -1,0 +1,15 @@
+T11	Exp 55 73	adherent monocytes	64 73	monocytes
+T12	Exp 74 78	that
+T13	Exp 158 163	mRNAs
+T14	Exp 164 168	that
+T15	Exp 332 378	five tandem repeats of the cdc10/ankyrin motif	344 351	repeats
+T16	Exp 380 385	which
+T17	Exp 624 648	the DNA-binding activity	640 648	activity
+T18	Exp 691 695	that
+T19	Exp 780 805	an I kappa B-like protein	798 805	protein
+T20	Exp 806 810	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15
+R4	Coref Anaphora:T18 Antecedent:T17
+R5	Coref Anaphora:T20 Antecedent:T19

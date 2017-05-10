@@ -1,0 +1,6 @@
+T1	Exp 51 71	the peptide hormones	63 71	hormones
+T2	Exp 72 77	which
+T3	Exp 636 643	B cells
+T4	Exp 644 649	which
+R1	Coref Anaphora:T2 Antecedent:T1
+R2	Coref Anaphora:T4 Antecedent:T3

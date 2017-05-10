@@ -1,0 +1,11 @@
+*	Equiv T6 T7
+T33	Entity 170 175	genes
+T34	Entity 322 330	tyrosine
+T35	Entity 505 513	elements
+T36	Entity 552 561	promoters
+T37	Entity 580 585	genes
+T38	Entity 1067 1075	tyrosine
+T39	Entity 1364 1388	JAK/STAT inhibitory gene
+T40	Entity 1519 1527	reporter
+R1	Protein-Component Arg1:T6 Arg2:T34
+R2	Protein-Component Arg1:T22 Arg2:T38

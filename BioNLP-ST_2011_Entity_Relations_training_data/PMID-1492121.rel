@@ -1,0 +1,30 @@
+*	Equiv T1 T2
+T9	Entity 14 30	lymphokine genes
+T10	Entity 51 74	cis-acting DNA elements
+T11	Entity 176 183	antigen
+T12	Entity 521 537	lymphokine genes
+T13	Entity 699 715	lymphokine genes
+T14	Entity 1092 1109	cis-acting region
+T15	Entity 1130 1145	promoter region
+T16	Entity 1198 1212	reporter genes
+T17	Entity 1339 1342	GM2
+T18	Entity 1344 1350	GC-box
+T19	Entity 1355 1383	conserved lymphokine element
+T20	Entity 1385 1389	CLE0
+T21	Entity 1392 1395	GM2
+T22	Entity 1406 1418	binding site
+T23	Entity 1482 1488	NF-GM2
+T24	Entity 1507 1533	transcription factor NF-kB
+T25	Entity 1535 1541	GC-box
+T26	Entity 1547 1559	binding site
+T27	Entity 1595 1599	CLEO
+T28	Entity 1610 1622	binding site
+T29	Entity 1846 1861	lymphokine gene
+T30	Entity 1886 1901	T cell receptor
+T31	Entity 1903 1906	TCR
+T32	Entity 2132 2137	NF-kB
+T33	Entity 2149 2168	cis-acting DNA site
+T34	Entity 2181 2196	lymphokine gene
+T35	Entity 2216 2219	TCR
+R1	Protein-Component Arg1:T3 Arg2:T14
+R2	Protein-Component Arg1:T3 Arg2:T15

@@ -1,0 +1,23 @@
+T1	Gene 25 29	katX
+T2	Protein 61 86	forespore-specific sigmaF
+T3	Regulon 87 94	regulon
+W1	Word 0 5	These
+W2	Word 6 10	data
+W3	Word 11 19	indicate
+W4	Word 20 24	that
+W5	Word 25 29	katX
+W6	Word 30 32	is
+W7	Word 33 35	an
+W8	Word 36 46	additional
+W9	Word 47 53	member
+W10	Word 54 56	of
+W11	Word 57 60	the
+W12	Word 61 79	forespore-specific
+W13	Word 80 86	sigmaF
+W14	Word 87 94	regulon
+R1	mod_pred:N-N W5 W9
+R2	mod_att:N-N W14 W13
+R3	comp:N-N(of) W9 W14
+R4	mod_att:N-ADJ W14 W12
+R5	subj:V-N W3 W2
+R6	mod_att:N-ADJ W9 W8

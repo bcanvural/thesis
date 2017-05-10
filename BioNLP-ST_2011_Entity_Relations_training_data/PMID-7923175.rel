@@ -1,0 +1,10 @@
+*	Equiv T1 T2
+T5	Entity 74 81	kappa B
+T6	Entity 365 378	kappa B motif
+T7	Entity 483 490	kappa B
+T8	Entity 610 617	kappa B
+T9	Entity 855 862	kappa B
+T10	Entity 1013 1020	kappa B
+T11	Entity 1147 1165	NF-kappa B complex
+T12	Entity 1349 1356	kappa B
+R1	Subunit-Complex Arg1:T3 Arg2:T11

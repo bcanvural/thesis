@@ -1,0 +1,6 @@
+T12	Exp 101 127	Giant cell arteritis (GCA)	112 121	arteritis
+T13	Exp 153 157	that
+T14	Exp 613 620	a model
+T15	Exp 624 629	which
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14

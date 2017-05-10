@@ -1,0 +1,42 @@
+*	Equiv T4 T5
+*	Equiv T7 T8
+T20	Entity 24 40	N-acetylcysteine
+T21	Entity 139 158	N-acetyl-L-cysteine
+T22	Entity 160 163	NAC
+T23	Entity 188 216	thiol-containing antioxidant
+T24	Entity 288 291	NAC
+T25	Entity 601 604	NAC
+T26	Entity 737 740	NAC
+T27	Entity 833 836	NAC
+T28	Entity 907 910	NAC
+T29	Entity 919 941	nuclear factor-kappa B
+T30	Entity 943 953	NF-kappa B
+T31	Entity 1013 1034	oligonucleotide probe
+T32	Entity 1066 1090	NF-kappa B binding sites
+T33	Entity 1066 1076	NF-kappa B
+T34	Entity 1111 1126	VCAM-NF-kappa B
+T35	Entity 1116 1126	NF-kappa B
+T36	Entity 1209 1242	consensus NF-kappa B binding site
+T37	Entity 1219 1229	NF-kappa B
+T38	Entity 1267 1288	E-selectin-NF-kappa B
+T39	Entity 1277 1288	-NF-kappa B
+T40	Entity 1308 1318	NF-kappa B
+T41	Entity 1386 1389	NAC
+T42	Entity 1419 1422	NAC
+T43	Entity 1467 1486	reduced glutathione
+T44	Entity 1488 1491	GSH
+T45	Entity 1574 1584	NF-kappa B
+T46	Entity 1597 1607	NF-kappa B
+T47	Entity 1629 1632	GSH
+T48	Entity 1636 1656	oxidized glutathione
+T49	Entity 1658 1662	GSSG
+T50	Entity 1753 1763	NF-kappa B
+T51	Entity 1872 1875	NAC
+T52	Entity 1904 1914	NF-kappa B
+T53	Entity 2151 2154	NAC
+T54	Entity 2169 2172	GSH
+T55	Entity 2176 2180	GSSG
+R1	Protein-Component Arg1:T14 Arg2:T32
+R2	Protein-Component Arg1:T15 Arg2:T38
+R3	Protein-Component Arg1:T16 Arg2:T36
+R4	Protein-Component Arg1:T15 Arg2:T36

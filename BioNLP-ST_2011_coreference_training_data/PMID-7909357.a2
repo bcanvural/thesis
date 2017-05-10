@@ -1,0 +1,24 @@
+T14	Exp 21 68	the ets transcription factor/oncoprotein family
+T15	Exp 159 178	The ets gene family	172 178	family
+T16	Exp 198 206	proteins
+T17	Exp 207 212	which
+T18	Exp 371 450	two regulatory elements in the murine immunoglobulin heavy-chain (IgH) enhancer
+T19	Exp 467 472	which
+T20	Exp 556 625	ets-related transcriptional regulators expressed in pre-B lymphocytes
+T21	Exp 626 630	that
+T22	Exp 791 805	the ets family	799 805	family
+T23	Exp 1079 1126	the ets transcription factor/oncoprotein family	1120 1126	family
+T24	Exp 1178 1203	the ELK-1 and SAP-1 genes
+T25	Exp 1219 1238	the ets gene family	1232 1238	family
+T26	Exp 1239 1243	that
+T27	Exp 1286 1301	Full-length ERP
+T28	Exp 1352 1358	itself
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18
+R4	Coref Anaphora:T21 Antecedent:T20
+R5	Coref Anaphora:T22 Antecedent:T15
+R6	Coref Anaphora:T23 Antecedent:T22
+R7	Coref Anaphora:T25 Antecedent:T23
+R8	Coref Anaphora:T26 Antecedent:T24	[T6, T5]
+R9	Coref Anaphora:T28 Antecedent:T27	[T8]

@@ -1,0 +1,3 @@
+T10	Exp 688 716	an alternative promoter site	712 716	site
+T11	Exp 718 723	which
+R1	Coref Anaphora:T11 Antecedent:T10

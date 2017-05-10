@@ -1,0 +1,3 @@
+T9	Exp 904 908	GLRP
+T10	Exp 983 985	it
+R1	Coref Anaphora:T10 Antecedent:T9	[T6]

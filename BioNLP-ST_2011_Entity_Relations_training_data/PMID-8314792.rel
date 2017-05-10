@@ -1,0 +1,30 @@
+*	Equiv T1 T2
+*	Equiv T4 T5
+T6	Entity 24 74	NFAT (nuclear factor of activated T cells) complex
+T7	Entity 106 141	Nuclear factor of activated T cells
+T8	Entity 143 147	NFAT
+T9	Entity 232 240	promoter
+T10	Entity 405 409	NFAT
+T11	Entity 471 490	B cell NFAT complex
+T12	Entity 571 575	NFAT
+T13	Entity 654 664	AP-1 motif
+T14	Entity 654 658	AP-1
+T15	Entity 731 741	NFAT motif
+T16	Entity 731 735	NFAT
+T17	Entity 810 822	NFAT complex
+T18	Entity 926 936	NFAT motif
+T19	Entity 926 930	NFAT
+T20	Entity 1001 1012	full-length
+T21	Entity 1022 1053	truncated, Jun/Fos heterodimers
+T22	Entity 1075 1087	NFAT complex
+T23	Entity 1213 1225	NFAT complex
+T24	Entity 1249 1269	NFAT oligonucleotide
+T25	Entity 1249 1253	NFAT
+T26	Entity 1296 1315	5' purine-rich part
+T27	Entity 1323 1336	NFAT sequence
+T28	Entity 1323 1327	NFAT
+T29	Entity 1386 1401	wild type motif
+T30	Entity 1406 1418	NFAT complex
+T31	Entity 1496 1508	NFAT complex
+T32	Entity 1738 1742	NFAT
+R1	Protein-Component Arg1:T1 Arg2:T9

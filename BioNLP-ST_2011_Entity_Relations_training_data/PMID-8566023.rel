@@ -1,0 +1,14 @@
+*	Equiv T2 T3
+T6	Entity 21 63	ionomycin/cyclosporin A-responsive element
+T7	Entity 103 111	enhancer
+T8	Entity 142 153	calcineurin
+T9	Entity 204 218	cytokine genes
+T10	Entity 224 253	conserved cis-acting sequence
+T11	Entity 255 261	GGAAAA
+T12	Entity 466 483	non-cytokine gene
+T13	Entity 524 532	enhancer
+T14	Entity 703 711	enhancer
+R1	Protein-Component Arg1:T1 Arg2:T6
+R2	Protein-Component Arg1:T1 Arg2:T7
+R3	Protein-Component Arg1:T2 Arg2:T13
+R4	Protein-Component Arg1:T4 Arg2:T14

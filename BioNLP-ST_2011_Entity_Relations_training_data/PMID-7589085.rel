@@ -1,0 +1,9 @@
+T11	Entity 22 44	nuclear factor-kappa B
+T12	Entity 379 406	nuclear factor (NF)-kappa B
+T13	Entity 535 545	NF-kappa B
+T14	Entity 691 701	NF-kappa B
+T15	Entity 892 902	NF-kappa B
+T16	Entity 997 1017	NF-kappa B complexes
+T17	Entity 1226 1236	NF-kappa B
+R1	Subunit-Complex Arg1:T9 Arg2:T16
+R2	Subunit-Complex Arg1:T8 Arg2:T16

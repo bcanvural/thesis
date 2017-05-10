@@ -1,0 +1,12 @@
+T11	Exp 268 313	activation-induced apoptosis in T lymphocytes	287 296	apoptosis
+T12	Exp 314 318	that
+T13	Exp 395 428	nuclear factor kappaB (NF-kappaB)
+T14	Exp 430 435	which
+T15	Exp 757 796	the NF-kappaB site in the FasL promoter	771 775	site
+T16	Exp 797 801	that
+T17	Exp 851 862	p65 (Rel A)
+T18	Exp 895 898	its
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15	[T5]
+R4	Coref Anaphora:T18 Antecedent:T17	[T6, T7]

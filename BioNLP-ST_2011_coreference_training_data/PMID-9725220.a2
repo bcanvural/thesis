@@ -1,0 +1,6 @@
+T10	Exp 244 305	the only CCAAT/enhancer-binding protein (C/EBP) family member	299 305	member
+T11	Exp 306 311	whose
+T12	Exp 567 618	a 104-bp minimal promoter region of the NF-IL6 gene	593 599	region
+T13	Exp 619 623	that
+R1	Coref Anaphora:T11 Antecedent:T10
+R2	Coref Anaphora:T13 Antecedent:T12	[T7]

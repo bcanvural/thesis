@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T15	Entity 120 143	common allelic variants
+T16	Entity 692 714	BglII restriction site
+R1	Protein-Component Arg1:T7 Arg2:T16

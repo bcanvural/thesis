@@ -1,0 +1,3 @@
+T10	Exp 1152 1158	STAT5-
+T11	Exp 1410 1423	these factors
+R1	Coref Anaphora:T11 Antecedent:T10	[T5]

@@ -1,0 +1,19 @@
+*	Equiv T2 T3
+T14	Entity 163 178	ets gene family
+T15	Entity 402 450	murine immunoglobulin heavy-chain (IgH) enhancer
+T16	Entity 452 454	pi
+T17	Entity 459 465	microB
+T18	Entity 504 517	binding sites
+T19	Entity 677 681	site
+T20	Entity 716 743	degenerate oligonucleotides
+T21	Entity 1031 1053	ETS DNA-binding domain
+T22	Entity 1223 1238	ets gene family
+T23	Entity 1375 1391	carboxy terminus
+T24	Entity 1434 1451	ets-binding sites
+T25	Entity 1466 1474	E74 site
+T26	Entity 1480 1500	IgH enhancer pi site
+T27	Entity 1514 1531	promoter ets site
+T28	Entity 1546 1589	carboxy-terminal negative regulatory domain
+T29	Entity 1890 1901	IgH pi site
+T30	Entity 1978 1986	IgH gene
+R1	Protein-Component Arg1:T10 Arg2:T27

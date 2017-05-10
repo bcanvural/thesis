@@ -1,0 +1,16 @@
+T14	Entity 104 130	Transcription factor NF-E2
+T15	Entity 211 216	NF-E2
+T16	Entity 228 255	basic-leucine zipper domain
+T17	Entity 323 336	NF-E2 complex
+T18	Entity 1038 1051	NF-E2 complex
+T19	Entity 1129 1144	aNF-E2 promoter
+T20	Entity 1149 1164	fNF-E2 promoter
+T21	Entity 1247 1262	aNF-E2 promoter
+T22	Entity 1350 1365	aNF-E2 promoter
+T23	Entity 1562 1564	E2
+R1	Protein-Component Arg1:T2 Arg2:T16
+R2	Subunit-Complex Arg1:T2 Arg2:T15
+R3	Protein-Component Arg1:T9 Arg2:T21
+R4	Protein-Component Arg1:T8 Arg2:T19
+R5	Protein-Component Arg1:T8 Arg2:T20
+R6	Protein-Component Arg1:T11 Arg2:T22

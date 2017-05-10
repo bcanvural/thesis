@@ -1,0 +1,11 @@
+T11	Exp 175 200	multiple enhanson domains	193 200	domains
+T12	Exp 201 206	which
+T13	Exp 378 430	positive regulatory domain (PRD) II binding proteins	414 430	binding proteins
+T14	Exp 814 855	an induction specific DNA binding protein	836 855	DNA binding protein
+T15	Exp 885 889	that
+T16	Exp 963 975	This protein
+T17	Exp 1183 1200	the PRDII element	1193 1200	element
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T14
+R4	Coref Anaphora:T17 Antecedent:T13

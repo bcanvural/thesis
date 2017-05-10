@@ -1,0 +1,4 @@
+*	Equiv T2 T3
+T7	Entity 323 331	enhancer
+T8	Entity 339 388	human immunodeficiency virus long terminal repeat
+R1	Protein-Component Arg1:T5 Arg2:T7

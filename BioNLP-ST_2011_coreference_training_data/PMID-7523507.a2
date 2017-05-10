@@ -1,0 +1,5 @@
+T5	Exp 859 868	A protein
+T6	Exp 869 873	that
+T7	Exp 1024 1036	this protein
+R1	Coref Anaphora:T6 Antecedent:T5
+R2	Coref Anaphora:T7 Antecedent:T5

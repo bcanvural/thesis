@@ -1,0 +1,17 @@
+T14	Exp 153 210	potent antiproliferative and apoptotic effects in T cells	192 199	effects
+T15	Exp 211 215	that
+T16	Exp 306 315	any event	310 315	event
+T17	Exp 316 320	that
+T18	Exp 455 485	human peripheral blood T cells	478 485	T cells
+T19	Exp 486 490	that
+T20	Exp 633 657	the transcription factor
+T21	Exp 659 671	STAT1(alpha)
+T22	Exp 1255 1262	T cells
+T23	Exp 1377 1382	their
+T24	Exp 1439 1444	their
+R1	Coref Anaphora:T15 Antecedent:T14
+R2	Coref Anaphora:T17 Antecedent:T16
+R3	Coref Anaphora:T19 Antecedent:T18
+R4	Coref Anaphora:T22 Antecedent:T18
+R5	Coref Anaphora:T23 Antecedent:T22
+R6	Coref Anaphora:T24 Antecedent:T22

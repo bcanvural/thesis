@@ -1,0 +1,17 @@
+T14	Exp 256 313	Granulocyte-macrophage colony stimulating factor (GM-CSF)
+T15	Exp 336 341	whose
+T16	Exp 631 635	ETS1
+T17	Exp 639 679	a transcription factor of the ETS family	641 661	transcription factor
+T18	Exp 680 684	that
+T19	Exp 872 878	agents
+T20	Exp 879 883	that
+T21	Exp 931 935	ETS1
+T22	Exp 937 942	which
+T23	Exp 1368 1390	ETS1, NFkappaB and AP1
+T24	Exp 1499 1512	these factors	1505 1512	factors
+R1	Coref Anaphora:T15 Antecedent:T14	[T3, T4]
+R2	Coref Anaphora:T17 Antecedent:T16	[T6]
+R3	Coref Anaphora:T18 Antecedent:T17
+R4	Coref Anaphora:T20 Antecedent:T19
+R5	Coref Anaphora:T22 Antecedent:T21	[T9]
+R6	Coref Anaphora:T24 Antecedent:T23	[T12]

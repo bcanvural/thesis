@@ -1,0 +1,23 @@
+T20	Exp 82 87	LMP-1
+T21	Exp 204 207	its
+T22	Exp 299 303	bcl2
+T23	Exp 305 316	an oncogene
+T24	Exp 317 322	which
+T25	Exp 383 397	other proteins
+T26	Exp 446 460	The mechanisms
+T27	Exp 464 469	which
+T28	Exp 488 502	these proteins	494 502	proteins
+T29	Exp 555 583	signal transduction pathways
+T30	Exp 584 588	that
+T31	Exp 617 650	one or more transcription factors
+T32	Exp 651 655	that
+T33	Exp 1338 1364	NF-kappa B-dependent-genes
+T34	Exp 1376 1381	those
+R1	Coref Anaphora:T21 Antecedent:T20	[T3]
+R2	Coref Anaphora:T23 Antecedent:T22	[T5]
+R3	Coref Anaphora:T24 Antecedent:T23
+R4	Coref Anaphora:T27 Antecedent:T26
+R5	Coref Anaphora:T28 Antecedent:T25
+R6	Coref Anaphora:T30 Antecedent:T29
+R7	Coref Anaphora:T32 Antecedent:T31
+R8	Coref Anaphora:T34 Antecedent:T33

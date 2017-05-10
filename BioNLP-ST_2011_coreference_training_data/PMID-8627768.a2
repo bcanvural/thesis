@@ -1,0 +1,9 @@
+T4	Exp 852 869	HIV-1 replication
+T5	Exp 870 876	itself
+T6	Exp 919 960	a specific proteasome inhibitor (Z-LLL-H)	941 950	inhibitor
+T7	Exp 996 1009	the inhibitor
+T8	Exp 1342 1345	its
+T9	Exp 1369 1390	this mutated provirus	1382 1390	provirus
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6
+R3	Coref Anaphora:T8 Antecedent:T9

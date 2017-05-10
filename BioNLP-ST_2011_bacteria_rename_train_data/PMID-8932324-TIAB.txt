@@ -1,0 +1,2 @@
+flaD (sinR) mutations affect SigD-dependent functions at multiple points in Bacillus subtilis.
+A flaD (sinR) null mutation depressed sigD-lacZ expression only two- to fourfold, whereas a flaD1 point mutation depressed it almost completely. Introduction of pHYSigD, a sigmaD-overproducing plasmid, corrected the filamentous phenotype common to both sinR mutants; autolysin synthesis was restored partially and completely in the flaD1 and flaD (sinR) null strains, respectively. Flagellin synthesis and motility were not restored at all in either strain.

@@ -1,0 +1,11 @@
+*	Equiv T2 T3
+T9	Entity 119 129	NF-kappa B
+T10	Entity 224 238	complex system
+T11	Entity 799 809	NF-kappa B
+T12	Entity 1184 1200	N-Acetylcysteine
+T13	Entity 1328 1339	glutathione
+T14	Entity 1527 1537	NF-kappa B
+T15	Entity 1619 1626	complex
+T16	Entity 1765 1775	NF-kappa B
+R1	Subunit-Complex Arg1:T2 Arg2:T10
+R2	Subunit-Complex Arg1:T7 Arg2:T15

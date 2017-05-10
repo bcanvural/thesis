@@ -1,0 +1,14 @@
+T10	Exp 253 277	The transactivator CIITA
+T11	Exp 373 376	its
+T12	Exp 474 542	at least three distinct multi-protein complexes (RFX, X2BP and NF-Y)	512 521	complexes
+T13	Exp 637 651	these proteins	643 651	proteins
+T14	Exp 754 769	these complexes	760 769	complexes
+T15	Exp 795 810	the possibility
+T16	Exp 811 815	that
+T17	Exp 1295 1300	CIITA
+T18	Exp 1357 1360	its
+R1	Coref Anaphora:T11 Antecedent:T10	[T2]
+R2	Coref Anaphora:T13 Antecedent:T12
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T18 Antecedent:T17	[T7]

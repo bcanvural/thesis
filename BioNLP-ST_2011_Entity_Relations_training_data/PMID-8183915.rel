@@ -1,0 +1,15 @@
+T27	Entity 255 265	NF-kappa B
+T28	Entity 347 373	C-terminal 607 amino acids
+T29	Entity 564 578	59 amino acids
+T30	Entity 593 609	ankyrin repeat 7
+T31	Entity 623 647	35-amino acid C terminus
+T32	Entity 662 687	alternative reading frame
+T33	Entity 753 779	190 C-terminal amino acids
+T34	Entity 1074 1084	NF-kappa B
+T35	Entity 1370 1391	protein kinase A site
+R1	Subunit-Complex Arg1:T4 Arg2:T27
+R2	Protein-Component Arg1:T9 Arg2:T32
+R3	Protein-Component Arg1:T8 Arg2:T31
+R4	Protein-Component Arg1:T9 Arg2:T31
+R5	Protein-Component Arg1:T10 Arg2:T33
+R6	Protein-Component Arg1:T11 Arg2:T33

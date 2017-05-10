@@ -1,0 +1,12 @@
+T7	Exp 573 583	the effect
+T8	Exp 611 615	that
+T9	Exp 1058 1076	The maximum levels	1070 1076	levels
+T10	Exp 1129 1134	those
+T11	Exp 1971 1976	ML-9-
+T12	Exp 2156 2158	it
+T13	Exp 2194 2286	simultaneous treatment with dexamethasone and transforming growth factor-beta 1 (TGF-beta 1)	2207 2216	treatment
+T14	Exp 2288 2293	which
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11
+R4	Coref Anaphora:T14 Antecedent:T13	[T6, T5]

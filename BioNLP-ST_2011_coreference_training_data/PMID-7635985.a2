@@ -1,0 +1,14 @@
+T25	Exp 24 89	a signal transducer and activator of transcription (Stat) protein	82 89	protein
+T26	Exp 90 95	which
+T27	Exp 595 606	This factor	600 606	factor
+T28	Exp 695 720	a tyrosine phosphoprotein
+T29	Exp 722 727	which
+T30	Exp 1329 1354	an intracellular activity	1346 1354	activity
+T31	Exp 1355 1360	which
+T32	Exp 1522 1531	IL-4 Stat
+T33	Exp 1533 1538	which
+R1	Coref Anaphora:T26 Antecedent:T25
+R2	Coref Anaphora:T27 Antecedent:T25
+R3	Coref Anaphora:T29 Antecedent:T28
+R4	Coref Anaphora:T31 Antecedent:T30
+R5	Coref Anaphora:T33 Antecedent:T32	[T22]

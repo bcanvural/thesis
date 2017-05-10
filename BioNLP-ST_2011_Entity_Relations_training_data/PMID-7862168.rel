@@ -1,0 +1,13 @@
+*	Equiv T4 T5
+T18	Entity 333 351	inducible enhancer
+T19	Entity 360 385	nucleotides -299 and -228
+T20	Entity 420 426	motifs
+T21	Entity 490 527	essential positive regulatory element
+T22	Entity 544 568	nucleotides -137 and -64
+T23	Entity 747 755	promoter
+T24	Entity 808 820	binding site
+T25	Entity 895 914	-137 to -64 element
+T26	Entity 1132 1160	positive regulatory elements
+T27	Entity 1482 1493	other genes
+R1	Protein-Component Arg1:T9 Arg2:T23
+R2	Protein-Component Arg1:T12 Arg2:T26

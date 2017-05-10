@@ -1,0 +1,9 @@
+T13	Exp 337 353	the mechanism(s)	341 350	mechanism
+T14	Exp 357 362	which
+T15	Exp 932 941	IkB alpha
+T16	Exp 973 976	its
+T17	Exp 1104 1113	IkB alpha
+T18	Exp 1592 1595	its
+R1	Coref Anaphora:T14 Antecedent:T13
+R2	Coref Anaphora:T16 Antecedent:T15	[T5]
+R3	Coref Anaphora:T18 Antecedent:T17	[T6]

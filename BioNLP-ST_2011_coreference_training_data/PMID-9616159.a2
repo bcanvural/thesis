@@ -1,0 +1,6 @@
+T11	Exp 238 290	a nuclear factor kappaB (NFkappaB)-dependent program	283 290	program
+T12	Exp 291 295	that
+T13	Exp 995 1043	both in cell lines and in primary leukemia cells
+T14	Exp 1044 1048	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

@@ -1,0 +1,7 @@
+T10	Exp 1160 1213	the 40S ribosomal protein S6 serine/threonine kinases
+T11	Exp 1215 1234	pp70S6K and pp90rsk
+T12	Exp 1245 1257	both kinases	1250 1257	kinases
+T13	Exp 1416 1425	rapamycin
+T14	Exp 1637 1648	this kinase	1642 1648	kinase
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13

@@ -1,0 +1,14 @@
+T9	Exp 290 332	a region of the c-myb 5' flanking sequence	324 332	sequence
+T10	Exp 333 337	that
+T11	Exp 551 596	this region of the c-myb 5' flanking sequence	588 596	sequence
+T12	Exp 849 875	c-myb in activated T cells
+T13	Exp 849 854	c-myb
+T14	Exp 877 889	this complex
+T15	Exp 992 1038	the nuclear factor of activated T cells (NFAT)
+T16	Exp 992 1051	the nuclear factor of activated T cells (NFAT) binding site
+T17	Exp 1094 1119	the two binding complexes	1110 1119	complexes
+T18	Exp 1148 1164	the two proteins	1156 1164	proteins
+R1	Coref Anaphora:T10 Antecedent:T9	[T4]
+R2	Coref Anaphora:T14 Antecedent:T12	[T7]
+R3	Coref Anaphora:T17 Antecedent:T11 Antecedent2:T16	[T6]
+R4	Coref Anaphora:T18 Antecedent:T13 Antecedent2:T15	[T7]

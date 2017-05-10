@@ -1,0 +1,30 @@
+T1	Protein 5 12	Spo0A~P
+T2	PolymeraseComplex 17 24	Spo0ABD
+T3	Transcription 36 49	transcription
+T4	Gene 59 65	spoIIG
+T5	Promoter 66 74	promoter
+T6	Protein 105 110	Spo0A
+W1	Word 0 4	Both
+W2	Word 5 12	Spo0A~P
+W3	Word 13 16	and
+W4	Word 17 24	Spo0ABD
+W5	Word 25 35	stimulated
+W6	Word 36 49	transcription
+W7	Word 50 54	from
+W8	Word 55 58	the
+W9	Word 59 65	spoIIG
+W10	Word 66 74	promoter
+W11	Word 75 82	10-fold
+W12	Word 83 87	more
+W13	Word 88 99	efficiently
+W14	Word 100 104	than
+W15	Word 105 110	Spo0A
+R1	mod:ADV-ADV W13 W12
+R2	comp:ADV-N(than) W13 W15
+R3	subj:V-N W5 W4
+R4	comp:N-N(from) W6 W10
+R5	subj:V-N W5 W2
+R6	mod_att:N-N W10 W9
+R7	mod:V-ADV W5 W13
+R8	obj:V-N W5 W6
+R9	mod:ADV-ADV W12 W11

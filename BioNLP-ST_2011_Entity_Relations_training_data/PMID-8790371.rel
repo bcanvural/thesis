@@ -1,0 +1,7 @@
+T12	Entity 672 682	NF kappa B
+T13	Entity 814 831	phenylalanine 112
+T14	Entity 836 847	alanine 113
+T15	Entity 928 952	noncleavable alterations
+T16	Entity 982 995	cleavage site
+R1	Protein-Component Arg1:T10 Arg2:T16
+R2	Protein-Component Arg1:T10 Arg2:T15

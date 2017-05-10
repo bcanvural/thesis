@@ -1,0 +1,9 @@
+T18	Exp 684 713	the CD14 5' upstream sequence
+T19	Exp 731 734	its
+T20	Exp 1365 1388	the vitamin D3 receptor
+T21	Exp 1393 1404	its partner
+T22	Exp 1393 1396	its
+T23	Exp 1406 1429	the retinoid X receptor
+R1	Coref Anaphora:T19 Antecedent:T18	[T6]
+R2	Coref Anaphora:T22 Antecedent:T20	[T15]
+R3	Coref Anaphora:T23 Antecedent:T21

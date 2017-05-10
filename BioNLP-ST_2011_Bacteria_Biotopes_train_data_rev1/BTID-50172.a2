@@ -1,0 +1,20 @@
+T1	Bacterium 23 40	Ureaplasma parvum
+T2	Host 48 53	human
+T3	HostPart 54 70	urogenital tract
+T4	Bacterium 82 99	Ureaplasma parvum
+T5	HostPart 173 190	urogenital tracts
+T6	Host 194 200	humans
+T7	HostPart 382 404	central nervous system
+T8	HostPart 409 432	lower respiratory tract
+T9	Host 436 451	newborn infants
+*	Equiv T3 T5
+*	Equiv T1 T4
+*	Equiv T2 T6
+E1	Localization Bacterium:T1 Localization:T9
+E2	Localization Bacterium:T1 Localization:T2
+E3	Localization Bacterium:T1 Localization:T3
+E4	PartOf Host:T9 Part:T8
+E5	PartOf Host:T2 Part:T3
+E6	Localization Bacterium:T1 Localization:T8
+E7	Localization Bacterium:T1 Localization:T7
+E8	PartOf Host:T9 Part:T7

@@ -1,0 +1,15 @@
+T12	Exp 320 333	the mechanism
+T13	Exp 337 342	which
+T14	Exp 404 530	a mutant Escherichia coli endotoxin lacking myristoyl fatty acid at the 3' R-3-hydroxymyristate position of the lipid A moiety	430 439	endotoxin
+T15	Exp 540 543	its
+T16	Exp 825 827	it
+T17	Exp 1087 1115	lipid A myristoyl fatty acid	1111 1115	acid
+T18	Exp 1126 1128	it
+T19	Exp 1430 1450	the mutant endotoxin	1441 1450	endotoxin
+T20	Exp 1529 1532	its
+R1	Coref Anaphora:T13 Antecedent:T12
+R2	Coref Anaphora:T15 Antecedent:T14
+R3	Coref Anaphora:T16 Antecedent:T14
+R4	Coref Anaphora:T18 Antecedent:T17
+R5	Coref Anaphora:T19 Antecedent:T14
+R6	Coref Anaphora:T20 Antecedent:T19

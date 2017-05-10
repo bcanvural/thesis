@@ -1,0 +1,21 @@
+*	Equiv T2 T3
+T20	Entity 47 57	NF-kappa B
+T21	Entity 532 548	lymphokine genes
+T22	Entity 879 889	NF-kappa B
+T23	Entity 897 907	P sequence
+T24	Entity 928 942	69 bp upstream
+T25	Entity 954 983	transcription initiation site
+T26	Entity 995 1003	promoter
+T27	Entity 1080 1090	NF-kappa B
+T28	Entity 1293 1301	promoter
+T29	Entity 1315 1331	mouse P sequence
+T30	Entity 1344 1364	higher-affinity site
+T31	Entity 1382 1401	lower-affinity site
+R1	Protein-Component Arg1:T9 Arg2:T23
+R2	Protein-Component Arg1:T9 Arg2:T24
+R3	Protein-Component Arg1:T9 Arg2:T25
+R4	Protein-Component Arg1:T10 Arg2:T26
+R5	Protein-Component Arg1:T14 Arg2:T30
+R6	Protein-Component Arg1:T14 Arg2:T29
+R7	Protein-Component Arg1:T14 Arg2:T31
+R8	Protein-Component Arg1:T14 Arg2:T28

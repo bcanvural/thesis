@@ -1,0 +1,4 @@
+T13	Entity 139 143	AP-1
+T14	Entity 203 225	specific DNA sequences
+T15	Entity 258 263	genes
+R1	Subunit-Complex Arg1:T2 Arg2:T13

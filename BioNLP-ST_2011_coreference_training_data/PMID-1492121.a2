@@ -1,0 +1,35 @@
+T9	Exp 51 74	cis-acting DNA elements	66 74	elements
+T10	Exp 75 79	that
+T11	Exp 282 334	Two types of helper T cell (Th) clones (Th1 and Th2)	286 291	types
+T12	Exp 418 422	They
+T13	Exp 521 537	lymphokine genes
+T14	Exp 591 595	they
+T15	Exp 613 627	the mechanisms
+T16	Exp 653 658	those
+T17	Exp 659 664	which
+T18	Exp 694 715	most lymphokine genes	699 715	lymphokine genes
+T19	Exp 836 841	their
+T20	Exp 1090 1168	a cis-acting region spanning the GM-CSF promoter region (positions -95 to +27)	1103 1109	region
+T21	Exp 1169 1173	that
+T22	Exp 1423 1433	protein(s)
+T23	Exp 1434 1439	whose
+T24	Exp 1627 1637	protein(s)
+T25	Exp 1638 1643	whose
+T26	Exp 1818 1830	other agents	1824 1830	agents
+T27	Exp 1831 1836	which
+T28	Exp 1959 1969	E2 and Tax
+T29	Exp 1998 2002	they
+T30	Exp 2045 2049	them
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11
+R3	Coref Anaphora:T14 Antecedent:T13
+R4	Coref Anaphora:T16 Antecedent:T15
+R5	Coref Anaphora:T17 Antecedent:T16
+R6	Coref Anaphora:T18 Antecedent:T13
+R7	Coref Anaphora:T19 Antecedent:T18
+R8	Coref Anaphora:T21 Antecedent:T20	[T3]
+R9	Coref Anaphora:T23 Antecedent:T22
+R10	Coref Anaphora:T25 Antecedent:T24
+R11	Coref Anaphora:T27 Antecedent:T26
+R12	Coref Anaphora:T29 Antecedent:T28	[T6, T7]
+R13	Coref Anaphora:T30 Antecedent:T28	[T6, T7]

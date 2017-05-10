@@ -1,15 +1,14 @@
 __pycache__/
 jobs/
-jobs4rdd/
 Rake/
 spark-2.1.0-bin-hadoop2.7/
 spark-warehouse/
 out/
 metastore_db/
-CVs/
-outcv/
+#CVs/
 #rake_tutorial.py
 #rake.py
 #SmartStoplist.txt
 tagme.txt
 newjobs/
+fiddle.py

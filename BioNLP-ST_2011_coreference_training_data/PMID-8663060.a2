@@ -1,0 +1,9 @@
+T15	Exp 153 243	a subunit of multiple cytokine receptors (interleukin (IL)-2, IL-4, IL-7, IL-9, and IL-15)	155 162	subunit
+T16	Exp 263 268	which
+T17	Exp 1023 1099	two potential Ets binding sites conserved in the murine gammac promoter gene	1049 1054	sites
+T18	Exp 1108 1113	which
+T19	Exp 1550 1565	GABP expression
+T20	Exp 1614 1617	its
+R1	Coref Anaphora:T16 Antecedent:T15	[T2, T4, T3, T6, T5]
+R2	Coref Anaphora:T18 Antecedent:T17	[T9]
+R3	Coref Anaphora:T20 Antecedent:T19	[T13]

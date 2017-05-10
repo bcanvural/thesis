@@ -1,0 +1,29 @@
+T1	Bacterium 0 22	Xanthomonas axonopodis
+T2	Bacterium 23 45	Xanthomonas axonopodis
+T3	Host 51 56	plant
+T4	Host 95 101	citrus
+T5	Bacterium 119 130	Xanthomonas
+T6	Host 220 234	phytopathogens
+T7	Bacterium 294 326	Xanthomonas axonopodis pv. citri
+T8	Bacterium 328 331	Xac
+T9	Host 407 434	commercial citrus cultivars
+T10	Host 471 477	citrus
+T11	Geographical 489 498	worldwide
+T12	Host 647 651	tree
+T13	Host 891 897	plants
+T14	Host 980 985	plant
+T15	Bacterium 1009 1020	Xanthomonas
+T16	Host 1072 1078	plants
+*	Equiv T14 T16
+*	Equiv T1 T2
+*	Equiv T7 T8
+*	Equiv T5 T15
+*	Equiv T9 T10
+E1	Localization Bacterium:T1 Localization:T4
+E2	Localization Bacterium:T5 Localization:T6
+E3	Localization Bacterium:T7 Localization:T11
+E4	Localization Bacterium:T7 Localization:T9
+E5	Localization Bacterium:T7 Localization:T12
+E6	Localization Bacterium:T7 Localization:T13
+E7	Localization Bacterium:T5 Localization:T14
+E8	Localization Bacterium:T1 Localization:T3

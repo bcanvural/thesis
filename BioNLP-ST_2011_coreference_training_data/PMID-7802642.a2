@@ -1,0 +1,6 @@
+T13	Exp 286 357	two transcripts (designated as PAFR transcript 1 and PAFR transcript 2)
+T14	Exp 366 371	their
+T15	Exp 611 705	12-O-tetradecanoylphorbol-13-acetate (TPA) in the human stomach cancer cell line (JR-St cells)	611 647	12-O-tetradecanoylphorbol-13-acetate
+T16	Exp 706 711	which
+R1	Coref Anaphora:T14 Antecedent:T13	[T5, T4]
+R2	Coref Anaphora:T16 Antecedent:T15

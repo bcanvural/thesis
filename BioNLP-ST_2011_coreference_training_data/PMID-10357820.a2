@@ -1,0 +1,6 @@
+T10	Exp 341 356	Ikaros proteins	348 356	proteins
+T11	Exp 519 522	its
+T12	Exp 581 614	the mSin3 family of co-repressors	591 597	family
+T13	Exp 615 620	which
+R1	Coref Anaphora:T11 Antecedent:T10	[T5]
+R2	Coref Anaphora:T13 Antecedent:T12

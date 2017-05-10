@@ -1,0 +1,16 @@
+T17	Exp 263 269	p95vav
+T18	Exp 271 276	which
+T19	Exp 342 344	It
+T20	Exp 1078 1084	p95vav
+T21	Exp 1095 1098	its
+T22	Exp 1179 1182	its
+T23	Exp 1232 1266	the p95vav-induced NFAT activation	1256 1266	activation
+T24	Exp 1309 1312	its
+T25	Exp 1393 1399	p95vav
+T26	Exp 1437 1440	its
+R1	Coref Anaphora:T18 Antecedent:T17	[T2]
+R2	Coref Anaphora:T19 Antecedent:T17	[T2]
+R3	Coref Anaphora:T21 Antecedent:T20	[T9]
+R4	Coref Anaphora:T22 Antecedent:T20	[T9]
+R5	Coref Anaphora:T24 Antecedent:T23	[T10]
+R6	Coref Anaphora:T26 Antecedent:T25	[T11]

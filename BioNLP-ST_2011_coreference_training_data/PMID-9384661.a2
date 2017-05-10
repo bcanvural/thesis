@@ -1,0 +1,3 @@
+T10	Exp 153 234	constitutive levels of oncogene and p53 transcripts in chronic phase CML patients	166 172	levels
+T11	Exp 244 249	their
+R1	Coref Anaphora:T11 Antecedent:T10	[T2]

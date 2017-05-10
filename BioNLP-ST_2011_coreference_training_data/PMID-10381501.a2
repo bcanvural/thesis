@@ -1,0 +1,12 @@
+T22	Exp 378 392	The mechanisms
+T23	Exp 396 401	which
+T24	Exp 809 820	a phenotype
+T25	Exp 832 836	that
+T26	Exp 890 904	erythropoietin
+T27	Exp 906 911	which
+T28	Exp 1180 1202	a regulatory hierarchy	1193 1202	hierarchy
+T29	Exp 1206 1211	which
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26	[T15]
+R4	Coref Anaphora:T29 Antecedent:T28

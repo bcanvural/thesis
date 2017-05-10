@@ -1,0 +1,6 @@
+T8	Exp 421 429	evidence
+T9	Exp 435 439	that
+T10	Exp 494 503	NF-kappaB
+T11	Exp 504 508	that
+R1	Coref Anaphora:T9 Antecedent:T8
+R2	Coref Anaphora:T11 Antecedent:T10

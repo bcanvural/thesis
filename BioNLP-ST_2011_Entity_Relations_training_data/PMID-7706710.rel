@@ -1,0 +1,10 @@
+T21	Entity 185 208	transcriptional complex
+T22	Entity 221 229	promoter
+T23	Entity 340 358	regulatory element
+T24	Entity 722 741	regulatory elements
+T25	Entity 1246 1269	transcriptional complex
+R1	Subunit-Complex Arg1:T3 Arg2:T21
+R2	Protein-Component Arg1:T4 Arg2:T22
+R3	Protein-Component Arg1:T6 Arg2:T23
+R4	Protein-Component Arg1:T12 Arg2:T24
+R5	Subunit-Complex Arg1:T19 Arg2:T25

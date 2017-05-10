@@ -1,0 +1,30 @@
+*	Equiv T4 T5
+*	Equiv T6 T7
+T28	Entity 20 39	activation sequence
+T29	Entity 795 824	transcription initiation site
+T30	Entity 835 843	TATA box
+T31	Entity 920 951	Fc gamma RIC promoter sequences
+T32	Entity 984 996	20-bp region
+T33	Entity 1013 1037	transcription start site
+T34	Entity 1122 1140	responsive element
+T35	Entity 1142 1146	GIRE
+T36	Entity 1167 1181	74 bp upstream
+T37	Entity 1189 1218	transcription initiation site
+T38	Entity 1222 1236	17-bp sequence
+T39	Entity 1307 1328	heterologous promoter
+T40	Entity 1330 1359	Double-stranded GIRE sequence
+T41	Entity 1371 1389	scrambled sequence
+T42	Entity 1561 1565	GIRE
+T43	Entity 1633 1637	GIRE
+T44	Entity 1669 1688	activation sequence
+T45	Entity 1690 1693	GAS
+T46	Entity 1702 1711	guanylate
+T47	Entity 1735 1749	X box elements
+T48	Entity 1753 1771	class II MHC genes
+T49	Entity 1908 1926	17-bp GAS homology
+T50	Entity 1934 1951	proximal promoter
+R1	Protein-Component Arg1:T1 Arg2:T28
+R2	Protein-Component Arg1:T16 Arg2:T31
+R3	Protein-Component Arg1:T21 Arg2:T42
+R4	Protein-Component Arg1:T23 Arg2:T43
+R5	Protein-Component Arg1:T24 Arg2:T44

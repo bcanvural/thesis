@@ -1,0 +1,42 @@
+T9	Entity 14 24	NF-kappa B
+T10	Entity 26 30	AP-1
+T11	Entity 107 175	peptide carrying the nuclear localization sequence of NF-kappa B p50
+T12	Entity 128 157	nuclear localization sequence
+T13	Entity 161 171	NF-kappa B
+T14	Entity 280 290	NF-kappa B
+T15	Entity 292 296	AP-1
+T16	Entity 415 444	nuclear localization sequence
+T17	Entity 446 449	NLS
+T18	Entity 562 566	NLSs
+T19	Entity 570 580	NF-kappa B
+T20	Entity 612 615	NLS
+T21	Entity 713 723	NF-kappa B
+T22	Entity 725 729	AP-1
+T23	Entity 803 872	cell-permeable peptide carrying the NLS of the NF-kappa B p50 subunit
+T24	Entity 803 825	cell-permeable peptide
+T25	Entity 839 842	NLS
+T26	Entity 850 860	NF-kappa B
+T27	Entity 874 885	NLS peptide
+T28	Entity 874 877	NLS
+T29	Entity 1049 1059	NF-kappa B
+T30	Entity 1082 1092	NF-kappa B
+T31	Entity 1094 1098	AP-1
+T32	Entity 1132 1154	inhibitory NLS peptide
+T33	Entity 1143 1146	NLS
+T34	Entity 1181 1213	cytoplasmic NLS receptor complex
+T35	Entity 1193 1196	NLS
+T36	Entity 1235 1275	/importin (karyopherin)-beta heterodimer
+T37	Entity 1378 1388	NF-kappa B
+T38	Entity 1390 1394	AP-1
+T39	Entity 1450 1461	NLS peptide
+T40	Entity 1450 1453	NLS
+T41	Entity 1580 1600	NLS receptor complex
+T42	Entity 1580 1583	NLS
+R1	Protein-Component Arg1:T2 Arg2:T12
+R2	Subunit-Complex Arg1:T2 Arg2:T13
+R3	Protein-Component Arg1:T2 Arg2:T11
+R4	Protein-Component Arg1:T4 Arg2:T25
+R5	Subunit-Complex Arg1:T4 Arg2:T26
+R6	Protein-Component Arg1:T4 Arg2:T23
+R7	Subunit-Complex Arg1:T7 Arg2:T34
+R8	Subunit-Complex Arg1:T7 Arg2:T36

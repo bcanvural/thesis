@@ -1,0 +1,23 @@
+T1	Exp 11 31	ARE-containing genes	26 31	genes
+T2	Exp 96 108	labile mRNAs	103 108	mRNAs
+T3	Exp 109 113	that
+T4	Exp 348 353	AU-DD
+T5	Exp 357 398	an AU-motif-directed differential display	391 398	display
+T6	Exp 399 403	that
+T7	Exp 503 505	It
+T8	Exp 676 695	already known genes	690 695	genes
+T9	Exp 696 700	that
+T10	Exp 765 782	The remaining 86%	779 782	86%
+T11	Exp 814 819	which
+T12	Exp 940 950	the notion
+T13	Exp 951 955	that
+T14	Exp 1025 1029	that
+T15	Exp 1030 1034	they
+R1	Coref Anaphora:T3 Antecedent:T2
+R2	Coref Anaphora:T6 Antecedent:T5
+R3	Coref Anaphora:T7 Antecedent:T4
+R4	Coref Anaphora:T9 Antecedent:T8
+R5	Coref Anaphora:T11 Antecedent:T10
+R6	Coref Anaphora:T13 Antecedent:T12
+R7	Coref Anaphora:T14 Antecedent:T12
+R8	Coref Anaphora:T15 Antecedent:T1

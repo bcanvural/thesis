@@ -1,0 +1,18 @@
+T22	Exp 393 412	the metabolic steps	407 412	steps
+T23	Exp 416 421	which
+T24	Exp 524 538	the mechanisms
+T25	Exp 542 547	which
+T26	Exp 548 566	two PKC inhibitors	556 566	inhibitors
+T27	Exp 642 657	Both inhibitors	647 657	inhibitors
+T28	Exp 879 895	IL-1beta protein	888 895	protein
+T29	Exp 961 964	its
+T30	Exp 1352 1432	the nuclear translocation of the transcription factor activator protein-1 (AP-1)	1364 1377	translocation
+T31	Exp 1433 1438	which
+T32	Exp 1547 1564	the IL-1beta gene	1560 1564	gene
+T33	Exp 1645 1653	the gene
+R1	Coref Anaphora:T23 Antecedent:T22
+R2	Coref Anaphora:T25 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T26
+R4	Coref Anaphora:T29 Antecedent:T28	[T13]
+R5	Coref Anaphora:T31 Antecedent:T30
+R6	Coref Anaphora:T33 Antecedent:T32	[T17]

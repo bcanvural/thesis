@@ -1,0 +1,17 @@
+T8	Exp 147 208	tumor necrosis factor-alpha (TNF-alpha) inhibitor (Canventol)	187 196	inhibitor
+T9	Exp 500 517	HIV-1 replication	506 517	replication
+T10	Exp 518 522	that
+T11	Exp 935 969	a Tat-induced tar-independent loop	965 969	loop
+T12	Exp 971 976	which
+T13	Exp 1076 1115	the first generation compound Canventol	1097 1105	compound
+T14	Exp 1117 1122	which
+T15	Exp 1332 1356	application of two drugs	1332 1343	application
+T16	Exp 1411 1416	which
+T17	Exp 1503 1524	combinations of drugs	1503 1515	combinations
+T18	Exp 1525 1529	that
+R1	Coref Anaphora:T10 Antecedent:T9
+R2	Coref Anaphora:T12 Antecedent:T11	[T7]
+R3	Coref Anaphora:T13 Antecedent:T8	[T3, T2]
+R4	Coref Anaphora:T14 Antecedent:T13
+R5	Coref Anaphora:T16 Antecedent:T15
+R6	Coref Anaphora:T18 Antecedent:T17

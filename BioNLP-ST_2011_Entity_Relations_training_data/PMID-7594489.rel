@@ -1,0 +1,53 @@
+*	Equiv T1 T2
+*	Equiv T11 T12
+T27	Entity 50 53	CR3
+T28	Entity 55 65	CD11b/CD18
+T29	Entity 100 110	NF-kappa B
+T30	Entity 112 119	p50/p65
+T31	Entity 518 541	DNA-binding heterodimer
+T32	Entity 542 552	NF-kappa B
+T33	Entity 554 561	p50/p65
+T34	Entity 606 630	HIV-long terminal repeat
+T35	Entity 718 721	CR3
+T36	Entity 723 733	CD11b/CD18
+T37	Entity 986 989	CR3
+T38	Entity 1038 1041	CR3
+T39	Entity 1272 1275	CR3
+T40	Entity 1313 1323	NF-kappa B
+T41	Entity 1324 1331	p50/p65
+T42	Entity 1368 1378	NF-kappa B
+T43	Entity 1379 1386	p50/p65
+T44	Entity 1437 1440	CR3
+T45	Entity 1668 1678	NF-kappa B
+T46	Entity 1679 1686	p50/p65
+T47	Entity 2015 2033	NF-kappa B complex
+R1	Subunit-Complex Arg1:T4 Arg2:T27
+R2	Subunit-Complex Arg1:T3 Arg2:T27
+R3	Subunit-Complex Arg1:T5 Arg2:T29
+R4	Subunit-Complex Arg1:T6 Arg2:T29
+R5	Subunit-Complex Arg1:T3 Arg2:T28
+R6	Subunit-Complex Arg1:T4 Arg2:T28
+R7	Subunit-Complex Arg1:T5 Arg2:T30
+R8	Subunit-Complex Arg1:T6 Arg2:T30
+R9	Subunit-Complex Arg1:T9 Arg2:T31
+R10	Subunit-Complex Arg1:T9 Arg2:T32
+R11	Subunit-Complex Arg1:T10 Arg2:T32
+R12	Subunit-Complex Arg1:T10 Arg2:T31
+R13	Subunit-Complex Arg1:T9 Arg2:T33
+R14	Subunit-Complex Arg1:T10 Arg2:T33
+R15	Subunit-Complex Arg1:T13 Arg2:T35
+R16	Subunit-Complex Arg1:T14 Arg2:T35
+R17	Subunit-Complex Arg1:T13 Arg2:T36
+R18	Subunit-Complex Arg1:T14 Arg2:T36
+R19	Subunit-Complex Arg1:T19 Arg2:T40
+R20	Subunit-Complex Arg1:T20 Arg2:T40
+R21	Subunit-Complex Arg1:T19 Arg2:T41
+R22	Subunit-Complex Arg1:T20 Arg2:T41
+R23	Subunit-Complex Arg1:T21 Arg2:T42
+R24	Subunit-Complex Arg1:T22 Arg2:T42
+R25	Subunit-Complex Arg1:T21 Arg2:T43
+R26	Subunit-Complex Arg1:T22 Arg2:T43
+R27	Subunit-Complex Arg1:T25 Arg2:T45
+R28	Subunit-Complex Arg1:T26 Arg2:T45
+R29	Subunit-Complex Arg1:T25 Arg2:T46
+R30	Subunit-Complex Arg1:T26 Arg2:T46

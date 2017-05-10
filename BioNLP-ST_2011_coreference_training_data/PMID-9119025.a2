@@ -1,0 +1,6 @@
+T4	Exp 31 89	the long terminal repeat of human immunodeficiency virus 1	35 55	long terminal repeat
+T5	Exp 98 101	its
+T6	Exp 557 565	evidence
+T7	Exp 566 570	that
+R1	Coref Anaphora:T5 Antecedent:T4
+R2	Coref Anaphora:T7 Antecedent:T6

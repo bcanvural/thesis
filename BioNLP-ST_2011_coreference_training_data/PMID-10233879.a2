@@ -1,0 +1,3 @@
+T4	Exp 395 413	retroviral vectors	406 413	vectors
+T5	Exp 417 422	which
+R1	Coref Anaphora:T5 Antecedent:T4

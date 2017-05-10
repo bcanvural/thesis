@@ -1,0 +1,29 @@
+T15	Entity 45 80	primary binding site for RBP-Jkappa
+T16	Entity 45 65	primary binding site
+T17	Entity 84 114	nuclear localization sequences
+T18	Entity 222 244	transmembrane receptor
+T19	Entity 528 548	extracellular domain
+T20	Entity 550 556	DeltaE
+T21	Entity 584 604	intracellular domain
+T22	Entity 606 609	ICN
+T23	Entity 686 714	RBP-Jkappa response elements
+T24	Entity 928 941	-binding site
+T25	Entity 960 981	ankyrin repeat region
+T26	Entity 989 1009	intracellular domain
+T27	Entity 1054 1067	-binding site
+T28	Entity 1091 1111	intracellular domain
+T29	Entity 1274 1277	ICN
+T30	Entity 1313 1319	DeltaE
+T31	Entity 1530 1560	nuclear localization sequences
+T32	Entity 1651 1657	DeltaE
+T33	Entity 1724 1730	DeltaE
+T34	Entity 1780 1796	intranuclear ICN
+T35	Entity 1936 1950	promoter sites
+R1	Protein-Component Arg1:T1 Arg2:T17
+R2	Protein-Component Arg1:T1 Arg2:T15
+R3	Protein-Component Arg1:T1 Arg2:T16
+R4	Protein-Component Arg1:T6 Arg2:T20
+R5	Protein-Component Arg1:T10 Arg2:T24
+R6	Protein-Component Arg1:T10 Arg2:T26
+R7	Protein-Component Arg1:T10 Arg2:T25
+R8	Protein-Component Arg1:T14 Arg2:T35

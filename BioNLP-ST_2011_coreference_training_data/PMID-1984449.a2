@@ -1,0 +1,3 @@
+T1	Exp 830 842	NF-KB factor	836 842	factor
+T2	Exp 925 936	this factor
+R1	Coref Anaphora:T2 Antecedent:T1

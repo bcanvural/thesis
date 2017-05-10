@@ -1,0 +1,14 @@
+T11	Entity 28 52	remote enhancer position
+T12	Entity 252 288	promoter containing an octamer motif
+T13	Entity 252 260	promoter
+T14	Entity 275 288	octamer motif
+T15	Entity 332 369	multimerized octamer enhancer element
+T16	Entity 504 520	octamer enhancer
+T17	Entity 848 856	enhancer
+T18	Entity 907 930	carboxy-terminal domain
+T19	Entity 955 963	enhancer
+T20	Entity 1127 1159	glutamine-rich activation domain
+T21	Entity 1214 1224	POU domain
+R1	Protein-Component Arg1:T1 Arg2:T11
+R2	Protein-Component Arg1:T8 Arg2:T18
+R3	Protein-Component Arg1:T10 Arg2:T20

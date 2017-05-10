@@ -1,0 +1,6 @@
+T30	Exp 334 379	the nuclear factor of activated cells (NF-AT)
+T31	Exp 385 388	its
+T32	Exp 604 608	GrpL
+T33	Exp 653 655	it
+R1	Coref Anaphora:T31 Antecedent:T30
+R2	Coref Anaphora:T33 Antecedent:T32	[T10]

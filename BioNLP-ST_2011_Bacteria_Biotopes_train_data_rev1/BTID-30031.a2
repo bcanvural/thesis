@@ -1,0 +1,33 @@
+T1	HostPart 29 33	skin
+T2	Bacterium 34 56	Staphylococcus xylosus
+T3	HostPart 208 212	skin
+T4	Food 327 331	meat
+T5	Food 333 340	sausage
+T6	Food 346 350	milk
+T7	Food 352 358	cheese
+T8	Food 439 447	sausages
+T9	Food 547 554	cheeses
+T10	Bacterium 578 588	S. xylosus
+T11	Food 903 907	milk
+T12	Food 912 919	raw ham
+T13	Bacterium 1018 1028	S. xylosus
+T14	Host 1060 1067	animals
+T15	Bacterium 1080 1090	S. xylosus
+T16	Medical 1128 1138	nosocomial
+T17	Food 1599 1626	agro-alimentary environment
+*	Equiv T2 T10
+*	Equiv T2 T13
+*	Equiv T2 T15
+*	Equiv T1 T3
+*	Equiv T5 T8
+*	Equiv T12 T17
+*	Equiv T7 T9
+E1	Localization Bacterium:T2 Localization:T5
+E2	Localization Bacterium:T2 Localization:T16
+E3	Localization Bacterium:T2 Localization:T6
+E4	Localization Bacterium:T2 Localization:T14
+E5	Localization Bacterium:T2 Localization:T7
+E6	Localization Bacterium:T2 Localization:T1
+E7	Localization Bacterium:T2 Localization:T4
+E8	Localization Bacterium:T2 Localization:T11
+E9	Localization Bacterium:T2 Localization:T12

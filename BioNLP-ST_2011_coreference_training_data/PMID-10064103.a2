@@ -1,0 +1,6 @@
+T3	Exp 461 540	an Electrophoretic Mobility Shift Assay based semiquantitative detection system	534 540	system
+T4	Exp 541 546	which
+T5	Exp 1150 1176	a 3 day intervention study	1171 1176	study
+T6	Exp 1180 1185	which
+R1	Coref Anaphora:T4 Antecedent:T3
+R2	Coref Anaphora:T6 Antecedent:T5

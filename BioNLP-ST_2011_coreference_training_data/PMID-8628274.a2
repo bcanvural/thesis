@@ -1,0 +1,9 @@
+T24	Exp 544 547	its
+T25	Exp 614 623	NF-kappaB
+T26	Exp 988 996	evidence
+T27	Exp 997 1001	that
+T28	Exp 1269 1292	mutation Of IkappaBbeta	1269 1277	mutation
+T29	Exp 1331 1334	its
+R1	Coref Anaphora:T24 Antecedent:T25
+R2	Coref Anaphora:T27 Antecedent:T26
+R3	Coref Anaphora:T29 Antecedent:T28	[T15]

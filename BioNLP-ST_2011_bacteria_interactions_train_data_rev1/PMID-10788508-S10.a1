@@ -1,0 +1,61 @@
+T1	Protein 0 7	DNase I
+T2	Protein 33 40	SpoIIID
+T3	Site 63 68	sites
+T4	Gene 76 80	cotC
+T5	Promoter 81 96	promoter region
+T6	Site 118 122	site
+T7	Gene 130 134	cotX
+T8	Promoter 135 143	promoter
+T9	Gene 179 183	cotB
+W1	Word 0 5	DNase
+W2	Word 6 7	I
+W3	Word 8 20	footprinting
+W4	Word 21 27	showed
+W5	Word 28 32	that
+W6	Word 33 40	SpoIIID
+W7	Word 41 46	binds
+W8	Word 47 55	strongly
+W9	Word 56 58	to
+W10	Word 59 62	two
+W11	Word 63 68	sites
+W12	Word 69 71	in
+W13	Word 72 75	the
+W14	Word 76 80	cotC
+W15	Word 81 89	promoter
+W16	Word 90 96	region
+W17	Word 98 103	binds
+W18	Word 104 110	weakly
+W19	Word 111 113	to
+W20	Word 114 117	one
+W21	Word 118 122	site
+W22	Word 123 125	in
+W23	Word 126 129	the
+W24	Word 130 134	cotX
+W25	Word 135 143	promoter
+W26	Word 145 148	and
+W27	Word 149 153	does
+W28	Word 154 157	not
+W29	Word 158 162	bind
+W30	Word 163 175	specifically
+W31	Word 176 178	to
+W32	Word 179 183	cotB
+R1	subj:V-N W17 W6
+R2	subj:V-N W4 W3
+R3	mod_att:N-N W16 W14
+R4	mod_att:N-ADJ W21 W20
+R5	comp:N-N(in) W21 W25
+R6	comp:N-N(in) W11 W16
+R7	subj:V-N W29 W6
+R8	mod_att:N-ADJ W11 W10
+R9	subj:V-N W7 W6
+R10	comp:V-N(to) W17 W21
+R11	mod:V-ADV W7 W8
+R12	comp:V-N(to) W29 W32
+R13	mod:V-ADV W17 W18
+R14	mod_att:N-N W25 W24
+R15	neg W29 W28
+R16	mod:V-ADV W29 W30
+R17	comp:V-N(to) W7 W11
+R18	mod_post:N-ADJ W1 W2
+R19	mod_att:N-N W3 W1
+R20	mod_att:N-N W16 W15

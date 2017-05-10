@@ -1,0 +1,11 @@
+T18	Exp 330 385	an inducible enhancer between nucleotides -299 and -228	343 351	enhancer
+T19	Exp 386 390	that
+T20	Exp 481 568	a second essential positive regulatory element located between nucleotides -137 and -64	520 527	element
+T21	Exp 569 573	that
+T22	Exp 600 612	This element	605 612	element
+T23	Exp 1327 1375	the protein-protein and protein-DNA interactions	1363 1375	interactions
+T24	Exp 1376 1380	that
+R1	Coref Anaphora:T19 Antecedent:T18
+R2	Coref Anaphora:T21 Antecedent:T20
+R3	Coref Anaphora:T22 Antecedent:T20
+R4	Coref Anaphora:T24 Antecedent:T23

@@ -1,0 +1,23 @@
+T7	Entity 115 131	NF-kappa B dimer
+T8	Entity 482 509	DNA-protein binding complex
+T9	Entity 482 485	DNA
+T10	Entity 529 552	HIV-1 promoter-enhancer
+T11	Entity 650 667	NF-kappa B region
+T12	Entity 650 660	NF-kappa B
+T13	Entity 675 689	HIV-1 enhancer
+T14	Entity 714 736	NF-kappa B heterodimer
+T15	Entity 996 1007	heterodimer
+T16	Entity 1052 1062	NF-kappa B
+T17	Entity 1219 1229	NF-kappa B
+T18	Entity 1263 1273	NF-kappa B
+T19	Entity 1336 1355	heterodimer complex
+T20	Entity 1378 1406	NF-kappa B-binding complexes
+T21	Entity 1485 1496	heterodimer
+T22	Entity 1504 1518	HIV-1 enhancer
+T23	Entity 1597 1607	HIV-1 gene
+R1	Subunit-Complex Arg1:T1 Arg2:T7
+R2	Subunit-Complex Arg1:T2 Arg2:T7
+R3	Subunit-Complex Arg1:T3 Arg2:T14
+R4	Subunit-Complex Arg1:T4 Arg2:T14
+R5	Subunit-Complex Arg1:T5 Arg2:T21
+R6	Subunit-Complex Arg1:T6 Arg2:T21

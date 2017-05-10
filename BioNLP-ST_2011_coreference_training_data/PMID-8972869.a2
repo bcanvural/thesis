@@ -1,0 +1,9 @@
+T7	Exp 181 203	a common octamer motif	198 203	motif
+T8	Exp 204 209	which
+T9	Exp 448 544	an octamer motif (containing a single base pair mutation and referred to as the variant octamer)	459 464	motif
+T10	Exp 545 550	which
+T11	Exp 1392 1437	the germline promoters and V region promoters	1396 1437	germline promoters and V region promoters
+T12	Exp 1448 1453	their
+R1	Coref Anaphora:T8 Antecedent:T7
+R2	Coref Anaphora:T10 Antecedent:T9
+R3	Coref Anaphora:T12 Antecedent:T11

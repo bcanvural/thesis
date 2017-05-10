@@ -1,0 +1,9 @@
+T11	Exp 554 579	STAT DNA-binding activity	571 579	activity
+T12	Exp 581 586	which
+T13	Exp 840 876	the cAMP signal transduction pathway	869 876	pathway
+T14	Exp 878 883	which
+T15	Exp 1403 1422	a signaling pathway	1415 1422	pathway
+T16	Exp 1423 1427	that
+R1	Coref Anaphora:T12 Antecedent:T11
+R2	Coref Anaphora:T14 Antecedent:T13
+R3	Coref Anaphora:T16 Antecedent:T15

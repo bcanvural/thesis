@@ -1,0 +1,18 @@
+T25	Entity 111 120	NF-kappaB
+T26	Entity 287 295	promoter
+T27	Entity 694 702	promoter
+T28	Entity 745 753	promoter
+T29	Entity 761 789	NFAT-driven minimal promoter
+T30	Entity 872 880	promoter
+T31	Entity 1246 1254	promoter
+T32	Entity 1473 1482	NF-kappaB
+T33	Entity 1517 1525	promoter
+T34	Entity 1533 1561	NFAT-driven minimal promoter
+T35	Entity 1673 1684	calcineurin
+T36	Entity 1801 1812	calcineurin
+R1	Protein-Component Arg1:T5 Arg2:T26
+R2	Protein-Component Arg1:T7 Arg2:T27
+R3	Protein-Component Arg1:T9 Arg2:T28
+R4	Protein-Component Arg1:T11 Arg2:T30
+R5	Protein-Component Arg1:T18 Arg2:T31
+R6	Protein-Component Arg1:T20 Arg2:T33

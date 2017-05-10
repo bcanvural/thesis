@@ -1,0 +1,10 @@
+T24	Exp 700 721	a monoclonal antibody	713 721	antibody
+T25	Exp 723 726	Yae
+T26	Exp 728 733	which
+T27	Exp 782 798	the Yae antibody
+T28	Exp 1296 1325	at least two distinct species	1318 1325	species
+T29	Exp 1334 1339	which
+R1	Coref Anaphora:T25 Antecedent:T24
+R2	Coref Anaphora:T26 Antecedent:T24
+R3	Coref Anaphora:T27 Antecedent:T25
+R4	Coref Anaphora:T29 Antecedent:T28

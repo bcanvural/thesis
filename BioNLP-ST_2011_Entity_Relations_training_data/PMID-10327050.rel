@@ -1,0 +1,23 @@
+T9	Entity 288 303	mammalian genes
+T10	Entity 311 321	MCM family
+T11	Entity 474 507	isolated human MCM gene promoters
+T12	Entity 489 507	MCM gene promoters
+T13	Entity 529 538	promoters
+T14	Entity 560 569	E2F sites
+T15	Entity 693 710	E2F-like sequence
+T16	Entity 725 733	promoter
+T17	Entity 770 779	E2F sites
+T18	Entity 881 901	endogenous MCM genes
+T19	Entity 1060 1071	MCM members
+T20	Entity 1131 1140	E2F sites
+T21	Entity 1148 1157	promoters
+R1	Protein-Component Arg1:T4 Arg2:T14
+R2	Protein-Component Arg1:T3 Arg2:T14
+R3	Protein-Component Arg1:T3 Arg2:T13
+R4	Protein-Component Arg1:T4 Arg2:T13
+R5	Protein-Component Arg1:T5 Arg2:T15
+R6	Protein-Component Arg1:T5 Arg2:T16
+R7	Protein-Component Arg1:T7 Arg2:T21
+R8	Protein-Component Arg1:T8 Arg2:T21
+R9	Protein-Component Arg1:T7 Arg2:T20
+R10	Protein-Component Arg1:T8 Arg2:T20

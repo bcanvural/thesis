@@ -1,0 +1,50 @@
+T1	Action 2 19	low concentration
+T2	Protein 23 27	GerE
+T3	Gene 38 42	cotB
+T4	Transcription 43 56	transcription
+T5	PolymeraseComplex 60 89	final sigma(K) RNA polymerase
+T6	Action 101 121	higher concentration
+T7	Transcription 145 158	transcription
+T8	Gene 162 166	cotX
+T9	Gene 170 174	cotC
+W1	Word 0 1	A
+W2	Word 2 5	low
+W3	Word 6 19	concentration
+W4	Word 20 22	of
+W5	Word 23 27	GerE
+W6	Word 28 37	activated
+W7	Word 38 42	cotB
+W8	Word 43 56	transcription
+W9	Word 57 59	by
+W10	Word 60 65	final
+W11	Word 66 74	sigma(K)
+W12	Word 75 78	RNA
+W13	Word 79 89	polymerase
+W14	Word 91 98	whereas
+W15	Word 99 100	a
+W16	Word 101 107	higher
+W17	Word 108 121	concentration
+W18	Word 122 125	was
+W19	Word 126 132	needed
+W20	Word 133 135	to
+W21	Word 136 144	activate
+W22	Word 145 158	transcription
+W23	Word 159 161	of
+W24	Word 162 166	cotX
+W25	Word 167 169	or
+W26	Word 170 174	cotC
+R1	obj:V-N W21 W22
+R2	comp:N-N(of) W22 W24
+R3	mod_att:N-N W13 W11
+R4	mod_att:N-ADJ W13 W10
+R5	comp:V-N(by) W6 W13
+R6	mod_att:N-ADJ W17 W16
+R7	subj:V-N W6 W3
+R8	subj:V-N W21 W17
+R9	comp:N-N(of) W22 W26
+R10	subj:V_PASS-N W19 W17
+R11	comp:N-N(of) W3 W5
+R12	mod_att:N-ADJ W3 W2
+R13	mod_att:N-N W13 W12
+R14	mod_att:N-N W8 W7
+R15	obj:V-N W6 W8

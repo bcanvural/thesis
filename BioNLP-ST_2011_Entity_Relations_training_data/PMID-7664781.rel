@@ -1,0 +1,36 @@
+T22	Entity 14 22	promoter
+T23	Entity 97 117	nuclear factor-chi B
+T24	Entity 351 359	promoter
+T25	Entity 593 617	reporter constructs with
+T26	Entity 593 612	reporter constructs
+T27	Entity 652 688	binding sites from the IL-2 promoter
+T28	Entity 680 688	promoter
+T29	Entity 775 780	sites
+T30	Entity 831 841	chi B site
+T31	Entity 888 907	NF-AT binding sites
+T32	Entity 983 991	promoter
+T33	Entity 1012 1025	NF-chi B site
+T34	Entity 1012 1020	NF-chi B
+T35	Entity 1231 1239	promoter
+T36	Entity 1304 1341	human immunodeficiency virus promoter
+T37	Entity 1585 1604	IL-2 NF-chi B probe
+T38	Entity 1590 1598	NF-chi B
+T39	Entity 1645 1660	chi B complexes
+T40	Entity 1728 1737	complexes
+T41	Entity 1748 1761	chi B complex
+T42	Entity 1881 1899	IL-2 NF-chi B site
+T43	Entity 1886 1894	NF-chi B
+T44	Entity 1946 1954	promoter
+R1	Protein-Component Arg1:T1 Arg2:T22
+R2	Protein-Component Arg1:T5 Arg2:T24
+R3	Protein-Component Arg1:T7 Arg2:T29
+R4	Protein-Component Arg1:T7 Arg2:T27
+R5	Protein-Component Arg1:T7 Arg2:T28
+R6	Protein-Component Arg1:T8 Arg2:T32
+R7	Protein-Component Arg1:T10 Arg2:T35
+R8	Subunit-Complex Arg1:T17 Arg2:T39
+R9	Subunit-Complex Arg1:T16 Arg2:T39
+R10	Subunit-Complex Arg1:T16 Arg2:T40
+R11	Subunit-Complex Arg1:T17 Arg2:T40
+R12	Protein-Component Arg1:T19 Arg2:T42
+R13	Protein-Component Arg1:T20 Arg2:T44

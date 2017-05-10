@@ -1,0 +1,9 @@
+T28	Exp 351 363	the findings
+T29	Exp 364 368	that
+T30	Exp 687 712	One of the isolated genes	687 690	One
+T31	Exp 714 718	that
+T32	Exp 790 818	most of the T-ALL cell lines	790 794	most
+T33	Exp 819 823	that
+R1	Coref Anaphora:T29 Antecedent:T28
+R2	Coref Anaphora:T31 Antecedent:T30
+R3	Coref Anaphora:T33 Antecedent:T32
